@@ -1,0 +1,9 @@
+---
+class: elementalist
+level: "2"
+name: 2nd-Level Specialization Feature
+scc: mcdm.heroes.v1/feature.trait.elementalist.level-2/2nd-level-specialization-feature
+type: trait
+---
+
+Your elemental specialization grants you a feature, as shown on the 2nd-Level Elemental Specialization Features table.
