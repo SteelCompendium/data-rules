@@ -1,0 +1,16 @@
+action_type: Triggered
+class: talent
+content: "\n*You step back a split second to see if things play out a little differently.*\n\n| **Psionic, Ranged** |               **Triggered** |\n|---------------------|----------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF Self or one creature** |\n\n**Trigger:** The target makes an ability roll.\n\n**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll."
+distance: Ranged 10
+effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
+flavor: You step back a split second to see if things play out a little differently.
+keywords:
+    - Psionic
+    - Ranged
+level: "1"
+name: Again
+scc: mcdm.heroes.v1/feature.ability.talent.level-1/again
+subtype: triggered
+target: Self or one creature
+trigger: The target makes an ability roll.
+type: ability

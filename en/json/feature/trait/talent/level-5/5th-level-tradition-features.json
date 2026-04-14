@@ -1,0 +1,8 @@
+{
+  "class": "talent",
+  "content": "Your talent tradition grants you two features, as shown on the 5th-Level Tradition Features table.\n\n###### 5th-Level Tradition Features Table\n\n| Tradition   | Features                              |\n|-------------|---------------------------------------|\n| Chronopathy | Distortion Temporal, Speed of Thought |\n| Telekinesis | Kinetic Amplifier, Triangulate        |\n| Telepathy   | Compulsion, Remote Amplification      |",
+  "level": "5",
+  "name": "5th-Level Tradition Features",
+  "scc": "mcdm.heroes.v1/feature.trait.talent.level-5/5th-level-tradition-features",
+  "type": "trait"
+}

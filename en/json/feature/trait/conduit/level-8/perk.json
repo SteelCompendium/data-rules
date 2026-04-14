@@ -1,0 +1,8 @@
+{
+  "class": "conduit",
+  "content": "You gain one perk of your choice.",
+  "level": "8",
+  "name": "Perk",
+  "scc": "mcdm.heroes.v1/feature.trait.conduit.level-8/perk",
+  "type": "trait"
+}

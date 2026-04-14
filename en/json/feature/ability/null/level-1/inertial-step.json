@@ -1,0 +1,24 @@
+{
+  "action_type": "Main action",
+  "class": "null",
+  "content": "\n*You flit about the battlefield and take an opportunistic strike.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 5 + A damage\n- **12-16:** 7 + A damage\n- **17+:** 10 + A damage\n\n**Effect:** You can shift up to half your speed before or after you make this strike.",
+  "distance": "Melee 1",
+  "effect": "You can shift up to half your speed before or after you make this strike.",
+  "flavor": "You flit about the battlefield and take an opportunistic strike.",
+  "keywords": [
+    "Melee",
+    "Psionic",
+    "Strike",
+    "Weapon"
+  ],
+  "level": "1",
+  "name": "Inertial Step",
+  "power_roll_characteristic": "Agility",
+  "scc": "mcdm.heroes.v1/feature.ability.null.level-1/inertial-step",
+  "subtype": "signature",
+  "target": "One creature or object",
+  "tier1": "5 + A damage",
+  "tier2": "7 + A damage",
+  "tier3": "10 + A damage",
+  "type": "ability"
+}

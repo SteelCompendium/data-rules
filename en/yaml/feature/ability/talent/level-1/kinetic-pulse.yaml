@@ -1,0 +1,19 @@
+action_type: Main action
+class: talent
+content: "\n*The force of your mind hurls enemies backward.*\n\n| **Area, Psionic, Telepathy** |               **Main action** |\n|------------------------------|------------------------------:|\n| **\U0001F4CF 1 burst**               | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 5 psychic damage; push 1\n- **17+:** 7 psychic damage; push 2\n\n**Strained:** The size of the burst increases by 2, and you are bleeding until the start of your next turn."
+distance: 1 burst
+flavor: The force of your mind hurls enemies backward.
+keywords:
+    - Area
+    - Psionic
+    - Telepathy
+level: "1"
+name: Kinetic Pulse
+power_roll_characteristic: Reason
+scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse
+subtype: signature
+target: Each enemy in the area
+tier1: 2 psychic damage
+tier2: 5 psychic damage; push 1
+tier3: 7 psychic damage; push 2
+type: ability

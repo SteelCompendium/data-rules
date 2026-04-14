@@ -1,0 +1,8 @@
+{
+  "class": "troubadour",
+  "content": "Your troubadour class act grants you a feature, as shown on the 3rd-Level Class Act Features table.\n\n###### 3rd-Level Class Act Features Table\n\n| Class Act  | Features     |\n|------------|--------------|\n| Auteur     | Missed Cue   |\n| Duelist    | Foil         |\n| Virtuoso   | Second Album |",
+  "level": "3",
+  "name": "3rd-Level Class Act Feature",
+  "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-3/3rd-level-class-act-feature",
+  "type": "trait"
+}

@@ -1,0 +1,15 @@
+action_type: Maneuver
+class: shadow
+content: "\n*You distract your foes, allowing your allies to take advantage of that distraction.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Until the start of your next turn, any ability roll made against a target gains an edge."
+cost: 9 Insight
+distance: 5 burst
+effect: Until the start of your next turn, any ability roll made against a target gains an edge.
+flavor: You distract your foes, allowing your allies to take advantage of that distraction.
+keywords:
+    - Area
+    - Magic
+level: "6"
+name: Look!
+scc: mcdm.heroes.v1/feature.ability.shadow.level-6/look
+target: Each enemy in the area
+type: ability

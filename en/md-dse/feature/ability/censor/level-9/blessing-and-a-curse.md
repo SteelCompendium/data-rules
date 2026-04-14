@@ -1,0 +1,60 @@
+---
+action_type: Triggered
+class: censor
+cost: 11 Wrath
+cost_amount: "11"
+cost_resource: Wrath
+distance: Ranged 10
+effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
+feature_type: ability
+file_basename: blessing-and-a-curse
+file_dpath: feature/ability/censor/level-9
+flavor: The gods bless and damn in equal measure.
+item_id: blessing-and-a-curse
+item_name: Blessing and a Curse
+keywords:
+    - Magic
+    - Ranged
+level: "9"
+name: Blessing and a Curse
+scc: mcdm.heroes.v1/feature.ability.censor.level-9/blessing-and-a-curse
+source: mcdm.heroes.v1
+subtype: triggered
+target: One creature
+trigger: The target makes a power roll.
+type: ability
+---
+
+```ds-feature
+cost: 11 Wrath
+distance: Ranged 10
+effects:
+    - effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
+feature_type: ability
+flavor: The gods bless and damn in equal measure.
+keywords:
+    - Magic
+    - Ranged
+metadata:
+    action_type: Triggered
+    class: censor
+    cost: 11 Wrath
+    distance: Ranged 10
+    effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
+    flavor: The gods bless and damn in equal measure.
+    keywords:
+        - Magic
+        - Ranged
+    level: "9"
+    name: Blessing and a Curse
+    scc: mcdm.heroes.v1/feature.ability.censor.level-9/blessing-and-a-curse
+    subtype: triggered
+    target: One creature
+    trigger: The target makes a power roll.
+    type: ability
+name: Blessing and a Curse
+target: One creature
+trigger: The target makes a power roll.
+type: feature
+usage: Triggered
+```

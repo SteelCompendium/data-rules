@@ -1,0 +1,6 @@
+{
+  "content": "*Why won't you die?! You've already done it once, you should be good at it by now!*\n\n**Prerequisite:** You defeat a leader or solo creature with the Undead keyword, such as a ghost.\n\n**Effect:** Choose one of the following benefits:\n\n- *Blessed Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal holy damage instead of its usual damage type.\n- *Divine Health:* You gain corruption immunity equal to your highest characteristic score. Additionally, you can't be turned into an undead creature.\n- *Holy Terror:* You have the following ability, which can be paid for using the Heroic Resource of your class.",
+  "name": "Zombie Slayer",
+  "scc": "mcdm.heroes.v1/title/zombie-slayer",
+  "type": "title"
+}

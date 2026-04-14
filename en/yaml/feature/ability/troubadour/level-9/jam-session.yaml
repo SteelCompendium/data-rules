@@ -1,0 +1,19 @@
+action_type: Main action
+class: troubadour
+content: "\n*Your jam session creates new genres that compel everyone to get up and move.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 8 sonic damage\n- **12-16:** 11 sonic damage\n- **17+:** 15 sonic damage\n\n**Effect:** Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn."
+cost: 11 Drama
+distance: 5 burst
+effect: Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+flavor: Your jam session creates new genres that compel everyone to get up and move.
+keywords:
+    - Area
+    - Magic
+level: "9"
+name: Jam Session
+power_roll_characteristic: Presence
+scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session
+target: Each enemy in the area
+tier1: 8 sonic damage
+tier2: 11 sonic damage
+tier3: 15 sonic damage
+type: ability

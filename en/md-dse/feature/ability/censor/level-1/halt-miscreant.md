@@ -1,0 +1,64 @@
+---
+action_type: Main action
+class: censor
+distance: Melee 1
+feature_type: ability
+file_basename: halt-miscreant
+file_dpath: feature/ability/censor/level-1
+flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
+item_id: halt-miscreant
+item_name: Halt Miscreant!
+keywords:
+    - Melee
+    - Strike
+    - Weapon
+level: "1"
+name: Halt Miscreant!
+power_roll_characteristic: Might
+scc: mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant
+source: mcdm.heroes.v1
+subtype: signature
+target: One creature or object
+tier1: 2 + M holy damage; P < WEAK, slowed (save ends)
+tier2: 5 + M holy damage; P < AVERAGE, slowed (save ends)
+tier3: 7 + M holy damage; P < STRONG, slowed (save ends)
+type: ability
+---
+
+```ds-feature
+distance: Melee 1
+effects:
+    - roll: Power Roll + Might
+      tier1: 2 + M holy damage; P < WEAK, slowed (save ends)
+      tier2: 5 + M holy damage; P < AVERAGE, slowed (save ends)
+      tier3: 7 + M holy damage; P < STRONG, slowed (save ends)
+feature_type: ability
+flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
+keywords:
+    - Melee
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    class: censor
+    distance: Melee 1
+    flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    level: "1"
+    name: Halt Miscreant!
+    power_roll_characteristic: Might
+    scc: mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant
+    subtype: signature
+    target: One creature or object
+    tier1: 2 + M holy damage; P < WEAK, slowed (save ends)
+    tier2: 5 + M holy damage; P < AVERAGE, slowed (save ends)
+    tier3: 7 + M holy damage; P < STRONG, slowed (save ends)
+    type: ability
+name: Halt Miscreant!
+target: One creature or object
+type: feature
+usage: Main action
+```

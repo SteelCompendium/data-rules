@@ -1,0 +1,28 @@
+---
+action_type: feature
+class: censor
+feature_type: trait
+file_basename: oracular-warning
+file_dpath: feature/trait/censor/level-4
+item_id: oracular-warning
+item_name: Oracular Warning
+level: "4"
+name: Oracular Warning
+scc: mcdm.heroes.v1/feature.trait.censor.level-4/oracular-warning
+source: mcdm.heroes.v1
+type: trait
+---
+
+```ds-feature
+effects:
+    - effect: Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you temporary Stamina equal to 10 + your level that lasts until you finish another respite.
+feature_type: trait
+metadata:
+    class: censor
+    level: "4"
+    name: Oracular Warning
+    scc: mcdm.heroes.v1/feature.trait.censor.level-4/oracular-warning
+    type: trait
+name: Oracular Warning
+type: feature
+```

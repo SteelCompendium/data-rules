@@ -1,0 +1,21 @@
+action_type: Main action
+class: shadow
+content: "\n*You create a temporary portal to allow a massive demonic hand to reach through.*\n\n| **Magic, Melee, Strike, Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **\U0001F4CF Melee 3**                   | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 13 + A corruption damage; push 3\n- **12-16:** 18 + A corruption damage; push 5\n- **17+:** 25 + A corruption damage; push 7\n\n**Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.\n\n##### 9th-Level Caustic Alchemy Abilities\n\nChoose one of the following abilities."
+cost: 11 Insight
+distance: Melee 3
+effect: On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+flavor: You create a temporary portal to allow a massive demonic hand to reach through.
+keywords:
+    - Magic
+    - Melee
+    - Strike
+    - Weapon
+level: "9"
+name: Demon Door
+power_roll_characteristic: Agility
+scc: mcdm.heroes.v1/feature.ability.shadow.level-9/demon-door
+target: One creature
+tier1: 13 + A corruption damage; push 3
+tier2: 18 + A corruption damage; push 5
+tier3: 25 + A corruption damage; push 7
+type: ability

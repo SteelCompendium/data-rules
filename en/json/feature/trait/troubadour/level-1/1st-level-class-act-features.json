@@ -1,0 +1,8 @@
+{
+  "class": "troubadour",
+  "content": "Your troubadour class act grants you two features, as shown on the 1st-Level Class Act Features table.\n\n###### 1st-Level Class Act Features Table\n\n| Class Act  | Features                           |\n|------------|------------------------------------|\n| Auteur     | Blocking, Dramatic Monologue       |\n| Duelist    | Acrobatics, Star Power             |\n| Virtuoso   | Power Chord, Virtuoso Performances |",
+  "level": "1",
+  "name": "1st-Level Class Act Features",
+  "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-1/1st-level-class-act-features",
+  "type": "trait"
+}

@@ -1,0 +1,14 @@
+action_type: Main action
+class: tactician
+content: "\n*You remind your allies how to best use their gear.*\n\n| **Ranged**                |                         **Main action** |\n|------------------------------|----------------------------------------:|\n| **\U0001F4CF Ranged 10**  | **\U0001F3AF Self and two allies** |\n\n**Effect:** Each target gains 1 surge and can use a signature ability that has a double edge."
+cost: 9 Focus
+distance: Ranged 10
+effect: Each target gains 1 surge and can use a signature ability that has a double edge.
+flavor: You remind your allies how to best use their gear.
+keywords:
+    - Ranged
+level: "5"
+name: Squad! Remember Your Training!
+scc: mcdm.heroes.v1/feature.ability.tactician.level-5/squad-remember-your-training
+target: Self and two allies
+type: ability

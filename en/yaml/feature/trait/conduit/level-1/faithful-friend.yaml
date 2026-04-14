@@ -1,0 +1,6 @@
+class: conduit
+content: You have the following ability.
+level: "1"
+name: Faithful Friend
+scc: mcdm.heroes.v1/feature.trait.conduit.level-1/faithful-friend
+type: trait

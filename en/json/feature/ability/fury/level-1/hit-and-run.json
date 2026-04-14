@@ -1,0 +1,23 @@
+{
+  "action_type": "Main action",
+  "class": "fury",
+  "content": "\n*Staying in constant motion helps you slip out of reach after a brutal assault.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M damage\n- **12-16:** 5 + M damage\n- **17+:** 7 + M damage; A \u003c STRONG, slowed (save ends)\n\n**Effect:** You can shift 1 square.",
+  "distance": "Melee 1",
+  "effect": "You can shift 1 square.",
+  "flavor": "Staying in constant motion helps you slip out of reach after a brutal assault.",
+  "keywords": [
+    "Melee",
+    "Strike",
+    "Weapon"
+  ],
+  "level": "1",
+  "name": "Hit and Run",
+  "power_roll_characteristic": "Might",
+  "scc": "mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run",
+  "subtype": "signature",
+  "target": "One creature or object",
+  "tier1": "2 + M damage",
+  "tier2": "5 + M damage",
+  "tier3": "7 + M damage; A \u003c STRONG, slowed (save ends)",
+  "type": "ability"
+}

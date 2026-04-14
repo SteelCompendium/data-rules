@@ -1,0 +1,28 @@
+---
+action_type: feature
+class: "null"
+feature_type: trait
+file_basename: instant-action
+file_dpath: feature/trait/null/level-5
+item_id: instant-action
+item_name: Instant Action
+level: "5"
+name: Instant Action
+scc: mcdm.heroes.v1/feature.trait.null.level-5/instant-action
+source: mcdm.heroes.v1
+type: trait
+---
+
+```ds-feature
+effects:
+    - effect: If you're not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 surges. If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.
+feature_type: trait
+metadata:
+    class: "null"
+    level: "5"
+    name: Instant Action
+    scc: mcdm.heroes.v1/feature.trait.null.level-5/instant-action
+    type: trait
+name: Instant Action
+type: feature
+```

@@ -1,0 +1,14 @@
+action_type: Main action
+class: tactician
+content: "\n*What makes a good soldier? The ability to fire four shots a minute in any weather.*\n\n| **Area**       |                       **Main action** |\n|----------------|--------------------------------------:|\n| **\U0001F4CF 3 burst** | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike."
+cost: 11 Focus
+distance: 3 burst
+effect: Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
+flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
+keywords:
+    - Area
+level: "9"
+name: Blot Out the Sun!
+scc: mcdm.heroes.v1/feature.ability.tactician.level-9/blot-out-the-sun
+target: Self and each ally in the area
+type: ability

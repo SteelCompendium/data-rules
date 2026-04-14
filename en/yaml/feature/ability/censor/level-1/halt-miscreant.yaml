@@ -1,0 +1,19 @@
+action_type: Main action
+class: censor
+content: "\n*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*\n\n| **Melee, Strike, Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M holy damage; P < WEAK, slowed (save ends)\n- **12-16:** 5 + M holy damage; P < AVERAGE, slowed (save ends)\n- **17+:** 7 + M holy damage; P < STRONG, slowed (save ends)"
+distance: Melee 1
+flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
+keywords:
+    - Melee
+    - Strike
+    - Weapon
+level: "1"
+name: Halt Miscreant!
+power_roll_characteristic: Might
+scc: mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant
+subtype: signature
+target: One creature or object
+tier1: 2 + M holy damage; P < WEAK, slowed (save ends)
+tier2: 5 + M holy damage; P < AVERAGE, slowed (save ends)
+tier3: 7 + M holy damage; P < STRONG, slowed (save ends)
+type: ability

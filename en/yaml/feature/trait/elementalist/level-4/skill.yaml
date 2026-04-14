@@ -1,0 +1,6 @@
+class: elementalist
+content: 'You gain one skill of your choice. See Skills in Chapter 9: Tests.'
+level: "4"
+name: Skill
+scc: mcdm.heroes.v1/feature.trait.elementalist.level-4/skill
+type: trait

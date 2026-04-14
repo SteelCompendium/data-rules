@@ -1,0 +1,55 @@
+---
+action_type: Main action
+class: troubadour
+cost: 5 Drama
+cost_amount: "5"
+cost_resource: Drama
+distance: Ranged 10
+effect: 'A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can''t be uplifted this way more than once during an encounter.'
+feature_type: ability
+file_basename: guest-star
+file_dpath: feature/ability/troubadour/level-2
+flavor: We offered them a percentage of the gross. So they're working for free!
+item_id: guest-star
+item_name: Guest Star
+keywords:
+    - Magic
+    - Ranged
+level: "2"
+name: Guest Star
+scc: mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star
+source: mcdm.heroes.v1
+target: Special
+type: ability
+---
+
+```ds-feature
+cost: 5 Drama
+distance: Ranged 10
+effects:
+    - effect: 'A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can''t be uplifted this way more than once during an encounter.'
+feature_type: ability
+flavor: We offered them a percentage of the gross. So they're working for free!
+keywords:
+    - Magic
+    - Ranged
+metadata:
+    action_type: Main action
+    class: troubadour
+    cost: 5 Drama
+    distance: Ranged 10
+    effect: 'A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can''t be uplifted this way more than once during an encounter.'
+    flavor: We offered them a percentage of the gross. So they're working for free!
+    keywords:
+        - Magic
+        - Ranged
+    level: "2"
+    name: Guest Star
+    scc: mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star
+    target: Special
+    type: ability
+name: Guest Star
+target: Special
+type: feature
+usage: Main action
+```

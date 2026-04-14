@@ -1,0 +1,8 @@
+{
+  "class": "fury",
+  "content": "Your primordial damage type is lightning.",
+  "kit": "vuken",
+  "name": "Primordial Storm: Lightning Storm",
+  "scc": "mcdm.heroes.v1/feature.trait.fury.vuken/primordial-storm-lightning-storm",
+  "type": "trait"
+}

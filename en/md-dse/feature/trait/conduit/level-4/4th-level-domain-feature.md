@@ -1,0 +1,54 @@
+---
+action_type: feature
+class: conduit
+feature_type: trait
+file_basename: 4th-level-domain-feature
+file_dpath: feature/trait/conduit/level-4
+item_id: 4th-level-domain-feature
+item_name: 4th-Level Domain Feature
+level: "4"
+name: 4th-Level Domain Feature
+scc: mcdm.heroes.v1/feature.trait.conduit.level-4/4th-level-domain-feature
+source: mcdm.heroes.v1
+type: trait
+---
+
+```ds-feature
+effects:
+    - effect: |-
+        Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
+
+        ###### 4th-Level Conduit Domain Features Table
+
+        | Domain     | Feature                     |
+        |------------|-----------------------------|
+        | Creation   | Improved Hands of the Maker |
+        | Death      | Seance                      |
+        | Fate       | Oracular Warning            |
+        | Knowledge  | Saint's Epiphany            |
+        | Life       | Blessing of Life            |
+        | Love       | Invocation of the Heart     |
+        | Nature     | Wode Road                   |
+        | Protection | Impervious Touch            |
+        | Storm      | Windwalk                    |
+        | Sun        | Light of Revelation         |
+        | Trickery   | Blessing of Secrets         |
+        | War        | Improved Sanctified Weapon  |
+
+        ###### Blessing of Life
+
+        Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your Healing Grace ability regains Stamina, they regain additional Stamina equal to your Intuition score.
+
+        ###### Blessing of Secrets
+
+        You have the following ability.
+feature_type: trait
+metadata:
+    class: conduit
+    level: "4"
+    name: 4th-Level Domain Feature
+    scc: mcdm.heroes.v1/feature.trait.conduit.level-4/4th-level-domain-feature
+    type: trait
+name: 4th-Level Domain Feature
+type: feature
+```

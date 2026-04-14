@@ -1,0 +1,8 @@
+{
+  "class": "talent",
+  "content": "You have the following ability.",
+  "level": "8",
+  "name": "Levitation Field",
+  "scc": "mcdm.heroes.v1/feature.trait.talent.level-8/levitation-field",
+  "type": "trait"
+}

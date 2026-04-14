@@ -1,0 +1,21 @@
+{
+  "action_type": "Maneuver",
+  "class": "elementalist",
+  "content": "\n*They shine vibrantly, a beautiful diamond in the night sky.*\n\n| **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |\n|--------------------------------------|------------------------:|\n| **📏 Ranged 10**                     | **🎯 Self or one ally** |\n\n**Effect:** The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.\n\n**Persistent 1:** The effect lasts until the start of your next turn.",
+  "cost": "9 Essence",
+  "distance": "Ranged 10",
+  "effect": "The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.",
+  "flavor": "They shine vibrantly, a beautiful diamond in the night sky.",
+  "keywords": [
+    "Fire",
+    "Green",
+    "Magic",
+    "Ranged",
+    "Void"
+  ],
+  "level": "6",
+  "name": "Luminous Champion Aloft",
+  "scc": "mcdm.heroes.v1/feature.ability.elementalist.level-6/luminous-champion-aloft",
+  "target": "Self or one ally",
+  "type": "ability"
+}

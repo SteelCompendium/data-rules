@@ -1,0 +1,20 @@
+{
+  "action_type": "Maneuver",
+  "class": "tactician",
+  "content": "\n*You shout a phrase that galvanizes your team.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **📏 Ranged 10** | **🎯 Three allies** |\n\n**Power Roll + Reason:**\n\n- **≤11:** Each target gains 1 surge.\n- **12-16:** Each target gains 2 surges.\n- **17+:** Each target gains 3 surges.",
+  "cost": "3 Focus",
+  "distance": "Ranged 10",
+  "flavor": "You shout a phrase that galvanizes your team.",
+  "keywords": [
+    "Ranged"
+  ],
+  "level": "1",
+  "name": "Battle Cry",
+  "power_roll_characteristic": "Reason",
+  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry",
+  "target": "Three allies",
+  "tier1": "Each target gains 1 surge.",
+  "tier2": "Each target gains 2 surges.",
+  "tier3": "Each target gains 3 surges.",
+  "type": "ability"
+}

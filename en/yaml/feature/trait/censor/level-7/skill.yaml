@@ -1,0 +1,6 @@
+class: censor
+content: You gain one skill of your choice.
+level: "7"
+name: Skill
+scc: mcdm.heroes.v1/feature.trait.censor.level-7/skill
+type: trait

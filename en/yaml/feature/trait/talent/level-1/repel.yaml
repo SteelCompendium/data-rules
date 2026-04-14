@@ -1,0 +1,6 @@
+class: talent
+content: You have the following ability.
+level: "1"
+name: Repel
+scc: mcdm.heroes.v1/feature.trait.talent.level-1/repel
+type: trait

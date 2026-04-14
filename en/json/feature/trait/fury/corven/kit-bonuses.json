@@ -1,0 +1,8 @@
+{
+  "class": "fury",
+  "content": "- **Stamina Bonus:** +3 per echelon\n- **Speed Bonus:** +3\n- **Melee Damage Bonus:** +2/+2/+2\n- **Disengage Bonus:** +1",
+  "kit": "corven",
+  "name": "Kit Bonuses",
+  "scc": "mcdm.heroes.v1/feature.trait.fury.corven/kit-bonuses",
+  "type": "trait"
+}

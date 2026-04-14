@@ -1,0 +1,28 @@
+---
+action_type: feature
+class: conduit
+feature_type: trait
+file_basename: faithfuls-reward
+file_dpath: feature/trait/conduit/level-7
+item_id: faithfuls-reward
+item_name: Faithful's Reward
+level: "7"
+name: Faithful's Reward
+scc: mcdm.heroes.v1/feature.trait.conduit.level-7/faithfuls-reward
+source: mcdm.heroes.v1
+type: trait
+---
+
+```ds-feature
+effects:
+    - effect: When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.
+feature_type: trait
+metadata:
+    class: conduit
+    level: "7"
+    name: Faithful's Reward
+    scc: mcdm.heroes.v1/feature.trait.conduit.level-7/faithfuls-reward
+    type: trait
+name: Faithful's Reward
+type: feature
+```

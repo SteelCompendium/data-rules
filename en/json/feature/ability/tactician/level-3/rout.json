@@ -1,0 +1,17 @@
+{
+  "action_type": "Maneuver",
+  "class": "tactician",
+  "content": "\n*The tide begins to turn.*\n\n| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R \u003c AVERAGE, the target is frightened of the creature who dealt the damage (save ends).",
+  "cost": "7 Focus",
+  "distance": "Self",
+  "effect": "Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R \u003c AVERAGE, the target is frightened of the creature who dealt the damage (save ends).",
+  "flavor": "The tide begins to turn.",
+  "keywords": [
+    "-"
+  ],
+  "level": "3",
+  "name": "Rout",
+  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-3/rout",
+  "target": "Self",
+  "type": "ability"
+}

@@ -1,0 +1,17 @@
+{
+  "action_type": "Maneuver",
+  "class": "tactician",
+  "content": "\n*Your allies wait for your command—then unleash death!*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **📏 Ranged 10** | **🎯 Three allies** |\n\n**Effect:** Each target can make a free strike.",
+  "cost": "5 Focus",
+  "distance": "Ranged 10",
+  "effect": "Each target can make a free strike.",
+  "flavor": "Your allies wait for your command—then unleash death!",
+  "keywords": [
+    "Ranged"
+  ],
+  "level": "1",
+  "name": "Now!",
+  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-1/now",
+  "target": "Three allies",
+  "type": "ability"
+}

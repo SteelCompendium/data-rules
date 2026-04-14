@@ -1,0 +1,8 @@
+{
+  "class": "fury",
+  "content": "Your primordial damage type is corruption.",
+  "kit": "raden",
+  "name": "Primordial Storm: Rat Flood",
+  "scc": "mcdm.heroes.v1/feature.trait.fury.raden/primordial-storm-rat-flood",
+  "type": "trait"
+}

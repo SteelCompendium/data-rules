@@ -1,0 +1,6 @@
+class: fury
+content: Your primordial damage type is cold.
+kit: boren
+name: 'Primordial Storm: Blizzard'
+scc: mcdm.heroes.v1/feature.trait.fury.boren/primordial-storm-blizzard
+type: trait

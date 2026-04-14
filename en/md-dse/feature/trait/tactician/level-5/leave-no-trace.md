@@ -1,0 +1,28 @@
+---
+action_type: feature
+class: tactician
+feature_type: trait
+file_basename: leave-no-trace
+file_dpath: feature/trait/tactician/level-5
+item_id: leave-no-trace
+item_name: Leave No Trace
+level: "5"
+name: Leave No Trace
+scc: mcdm.heroes.v1/feature.trait.tactician.level-5/leave-no-trace
+source: mcdm.heroes.v1
+type: trait
+---
+
+```ds-feature
+effects:
+    - effect: You and any ally within 10 squares of you can move at full speed while sneaking. Additionally, enemies within 10 squares of you take a bane on tests made to search for you or your allies while any of you are hidden.
+feature_type: trait
+metadata:
+    class: tactician
+    level: "5"
+    name: Leave No Trace
+    scc: mcdm.heroes.v1/feature.trait.tactician.level-5/leave-no-trace
+    type: trait
+name: Leave No Trace
+type: feature
+```

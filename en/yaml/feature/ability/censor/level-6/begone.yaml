@@ -1,0 +1,18 @@
+action_type: Main action
+class: censor
+content: "\n*You terrify your enemies into retreating, creating chaos in their ranks.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 4 psychic damage; slide 3\n- **12-16:** 6 psychic damage; slide 5\n- **17+:** 8 psychic damage; slide 7"
+cost: 9 Wrath
+distance: 3 burst
+flavor: You terrify your enemies into retreating, creating chaos in their ranks.
+keywords:
+    - Area
+    - Magic
+level: "6"
+name: Begone!
+power_roll_characteristic: Presence
+scc: mcdm.heroes.v1/feature.ability.censor.level-6/begone
+target: Each enemy in the area
+tier1: 4 psychic damage; slide 3
+tier2: 6 psychic damage; slide 5
+tier3: 8 psychic damage; slide 7
+type: ability

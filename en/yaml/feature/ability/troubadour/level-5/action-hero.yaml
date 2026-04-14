@@ -1,0 +1,20 @@
+action_type: Main action
+class: troubadour
+content: "\n*You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 3 burst**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 damage\n- **12-16:** 14 damage\n- **17+:** 20 damage\n\n**Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina."
+cost: 9 Drama
+distance: 3 burst
+effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.
+flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
+keywords:
+    - Area
+    - Melee
+    - Weapon
+level: "5"
+name: Action Hero
+power_roll_characteristic: Agility
+scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/action-hero
+target: Each enemy in the area
+tier1: 10 damage
+tier2: 14 damage
+tier3: 20 damage
+type: ability

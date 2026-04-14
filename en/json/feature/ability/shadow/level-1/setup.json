@@ -1,0 +1,22 @@
+{
+  "action_type": "Main action",
+  "class": "shadow",
+  "content": "\n*Your friends will thank you.*\n\n| **Ranged, Strike, Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **📏 Ranged 5**            | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 + A damage; R \u003c WEAK, the target has damage weakness 5 (save ends)\n- **12-16:** 9 + A damage; R \u003c AVERAGE, the target has damage weakness 5 (save ends)\n- **17+:** 13 + A damage; R \u003c STRONG, the target has damage weakness 5 (save ends)",
+  "cost": "5 Insight",
+  "distance": "Ranged 5",
+  "flavor": "Your friends will thank you.",
+  "keywords": [
+    "Ranged",
+    "Strike",
+    "Weapon"
+  ],
+  "level": "1",
+  "name": "Setup",
+  "power_roll_characteristic": "Agility",
+  "scc": "mcdm.heroes.v1/feature.ability.shadow.level-1/setup",
+  "target": "One creature",
+  "tier1": "6 + A damage; R \u003c WEAK, the target has damage weakness 5 (save ends)",
+  "tier2": "9 + A damage; R \u003c AVERAGE, the target has damage weakness 5 (save ends)",
+  "tier3": "13 + A damage; R \u003c STRONG, the target has damage weakness 5 (save ends)",
+  "type": "ability"
+}

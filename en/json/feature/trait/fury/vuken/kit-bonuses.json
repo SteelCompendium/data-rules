@@ -1,0 +1,8 @@
+{
+  "class": "fury",
+  "content": "- **Stamina Bonus:** +9 per echelon\n- **Speed Bonus:** +2\n- **Melee Damage Bonus:** +2/+2/+2\n- **Disengage Bonus:** +1",
+  "kit": "vuken",
+  "name": "Kit Bonuses",
+  "scc": "mcdm.heroes.v1/feature.trait.fury.vuken/kit-bonuses",
+  "type": "trait"
+}

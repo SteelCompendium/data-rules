@@ -1,0 +1,64 @@
+---
+action_type: Main action
+class: talent
+distance: Ranged 10
+feature_type: ability
+file_basename: kinetic-grip
+file_dpath: feature/ability/talent/level-1
+flavor: You lift and hurl your foe away from you.
+item_id: kinetic-grip
+item_name: Kinetic Grip
+keywords:
+    - Psionic
+    - Ranged
+    - Telekinesis
+level: "1"
+name: Kinetic Grip
+power_roll_characteristic: Reason
+scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip
+source: mcdm.heroes.v1
+subtype: signature
+target: One creature or object
+tier1: Slide 2 + R
+tier2: Slide 4 + R
+tier3: Slide 6 + R; prone
+type: ability
+---
+
+```ds-feature
+distance: Ranged 10
+effects:
+    - roll: Power Roll + Reason
+      tier1: Slide 2 + R
+      tier2: Slide 4 + R
+      tier3: Slide 6 + R; prone
+feature_type: ability
+flavor: You lift and hurl your foe away from you.
+keywords:
+    - Psionic
+    - Ranged
+    - Telekinesis
+metadata:
+    action_type: Main action
+    class: talent
+    distance: Ranged 10
+    flavor: You lift and hurl your foe away from you.
+    keywords:
+        - Psionic
+        - Ranged
+        - Telekinesis
+    level: "1"
+    name: Kinetic Grip
+    power_roll_characteristic: Reason
+    scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip
+    subtype: signature
+    target: One creature or object
+    tier1: Slide 2 + R
+    tier2: Slide 4 + R
+    tier3: Slide 6 + R; prone
+    type: ability
+name: Kinetic Grip
+target: One creature or object
+type: feature
+usage: Main action
+```

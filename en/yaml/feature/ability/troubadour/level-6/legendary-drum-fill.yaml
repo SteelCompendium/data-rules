@@ -1,0 +1,15 @@
+action_type: Maneuver
+class: troubadour
+content: "\n*You start a drumroll that roars like thunder with every impact the heroes make.*\n\n| **Area, Magic** |                          **Maneuver** |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter."
+cost: 9 Drama
+distance: 4 burst
+effect: Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter.
+flavor: You start a drumroll that roars like thunder with every impact the heroes make.
+keywords:
+    - Area
+    - Magic
+level: "6"
+name: Legendary Drum Fill
+scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/legendary-drum-fill
+target: Self and each ally in the area
+type: ability

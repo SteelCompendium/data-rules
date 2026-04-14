@@ -1,0 +1,62 @@
+---
+action_type: Triggered
+class: elementalist
+distance: Ranged 10
+effect: The target can spend a Recovery.
+feature_type: ability
+file_basename: breath-of-dawn-remembered
+file_dpath: feature/ability/elementalist/level-1
+flavor: The power you channel grants the ability to get back in the fight.
+item_id: breath-of-dawn-remembered
+item_name: Breath of Dawn Remembered
+keywords:
+    - Green
+    - Magic
+    - Ranged
+level: "1"
+name: Breath of Dawn Remembered
+scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/breath-of-dawn-remembered
+source: mcdm.heroes.v1
+spend: '1+ Essence: The target can spend an additional Recovery for each essence spent.'
+subtype: triggered
+target: Self or one ally
+trigger: The target starts their turn or takes damage.
+type: ability
+---
+
+```ds-feature
+distance: Ranged 10
+effects:
+    - effect: The target can spend a Recovery.
+    - effect: '1+ Essence: The target can spend an additional Recovery for each essence spent.'
+      name: Spend
+feature_type: ability
+flavor: The power you channel grants the ability to get back in the fight.
+keywords:
+    - Green
+    - Magic
+    - Ranged
+metadata:
+    action_type: Triggered
+    class: elementalist
+    distance: Ranged 10
+    effect: The target can spend a Recovery.
+    flavor: The power you channel grants the ability to get back in the fight.
+    keywords:
+        - Green
+        - Magic
+        - Ranged
+    level: "1"
+    name: Breath of Dawn Remembered
+    scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/breath-of-dawn-remembered
+    spend: '1+ Essence: The target can spend an additional Recovery for each essence spent.'
+    subtype: triggered
+    target: Self or one ally
+    trigger: The target starts their turn or takes damage.
+    type: ability
+name: Breath of Dawn Remembered
+target: Self or one ally
+trigger: The target starts their turn or takes damage.
+type: feature
+usage: Triggered
+```

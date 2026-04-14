@@ -1,0 +1,8 @@
+{
+  "class": "censor",
+  "content": "Your censor order grants you a feature, as shown on the 8th-Level Order Features table.\n\n###### 8th-Level Order Features Table\n\n| Order                    | Feature             |\n|--------------------------|---------------------|\n| Exorcist                 | Demonologist        |\n| Oracle                   | Their Past Revealed |\n| Paragon                  | Vow                 |",
+  "level": "8",
+  "name": "8th-Level Order Feature",
+  "scc": "mcdm.heroes.v1/feature.trait.censor.level-8/8th-level-order-feature",
+  "type": "trait"
+}

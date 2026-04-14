@@ -1,0 +1,21 @@
+action_type: Maneuver
+class: "null"
+content: "\n*A single touch from you, and your enemy flies backward.*\n\n| **Melee, Psionic, Strike, Weapon** |                  **Maneuver** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** Push 3\n- **12-16:** Push 5\n- **17+:** Push 7\n\n**Effect:** An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage."
+cost: 5 Discipline
+distance: Melee 1
+effect: An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
+flavor: A single touch from you, and your enemy flies backward.
+keywords:
+    - Melee
+    - Psionic
+    - Strike
+    - Weapon
+level: "1"
+name: Impart Force
+power_roll_characteristic: Intuition
+scc: mcdm.heroes.v1/feature.ability.null.level-1/impart-force
+target: One creature or object
+tier1: Push 3
+tier2: Push 5
+tier3: Push 7
+type: ability

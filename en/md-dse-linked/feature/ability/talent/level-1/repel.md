@@ -1,0 +1,55 @@
+---
+action_type: Triggered
+class: talent
+distance: Ranged 10
+effect: The target takes half the triggering damage, or the distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the forced movement is reduced to 0 squares, the target can push the source of the forced movement a number of squares equal to your Reason score.
+feature_type: ability
+file_basename: repel
+file_dpath: feature/ability/talent/level-1
+flavor: They aren't going anywhere, but you might!
+item_id: repel
+item_name: Repel
+keywords:
+    - Psionic
+    - Ranged
+level: "1"
+name: Repel
+scc: mcdm.heroes.v1/feature.ability.talent.level-1/repel
+source: mcdm.heroes.v1
+subtype: triggered
+target: Self or one ally
+trigger: The target takes damage or is force moved.
+type: ability
+---
+
+```ds-feature
+distance: Ranged 10
+effects:
+    - effect: The target takes half the triggering damage, or the distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the forced movement is reduced to 0 squares, the target can push the source of the forced movement a number of squares equal to your Reason score.
+feature_type: ability
+flavor: They aren't going anywhere, but you might!
+keywords:
+    - Psionic
+    - Ranged
+metadata:
+    action_type: Triggered
+    class: talent
+    distance: Ranged 10
+    effect: The target takes half the triggering damage, or the distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the forced movement is reduced to 0 squares, the target can push the source of the forced movement a number of squares equal to your Reason score.
+    flavor: They aren't going anywhere, but you might!
+    keywords:
+        - Psionic
+        - Ranged
+    level: "1"
+    name: Repel
+    scc: mcdm.heroes.v1/feature.ability.talent.level-1/repel
+    subtype: triggered
+    target: Self or one ally
+    trigger: The target takes damage or is force moved.
+    type: ability
+name: Repel
+target: Self or one ally
+trigger: The target takes damage or is force moved.
+type: feature
+usage: Triggered
+```

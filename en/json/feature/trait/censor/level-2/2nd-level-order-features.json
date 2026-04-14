@@ -1,0 +1,8 @@
+{
+  "class": "censor",
+  "content": "Your censor order grants you two features, as shown on the 2nd-Level Order Features table.\n\n###### 2nd-Level Order Features Table\n\n| Order                    | Features                             |\n|--------------------------|--------------------------------------|\n| Exorcist                 | Saint's Vigilance, A Sense for Truth |\n| Oracle                   | It Was Foretold, Judge of Character  |\n| Paragon                  | Lead by Example, Stalwart Icon       |",
+  "level": "2",
+  "name": "2nd-Level Order Features",
+  "scc": "mcdm.heroes.v1/feature.trait.censor.level-2/2nd-level-order-features",
+  "type": "trait"
+}

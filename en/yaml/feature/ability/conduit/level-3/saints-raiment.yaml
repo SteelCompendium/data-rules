@@ -1,0 +1,15 @@
+action_type: Maneuver
+class: conduit
+content: "\n*An ally becomes the wearer of an empowered golden cloak.*\n\n| **Magic, Ranged**         |    **Maneuver** |\n|---------------------------|----------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF One ally** |\n\n**Effect:** The target gains 20 temporary Stamina and 3 surges."
+cost: 7 Piety
+distance: Ranged 10
+effect: The target gains 20 temporary Stamina and 3 surges.
+flavor: An ally becomes the wearer of an empowered golden cloak.
+keywords:
+    - Magic
+    - Ranged
+level: "3"
+name: Saint's Raiment
+scc: mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment
+target: One ally
+type: ability

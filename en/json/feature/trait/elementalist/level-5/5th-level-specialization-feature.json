@@ -1,0 +1,8 @@
+{
+  "class": "elementalist",
+  "content": "Your elemental specialization grants you a feature, as shown on the 5th-Level Elemental Specialization Features table.\n\n###### 5th-Level Elemental Specialization Features Table\n\n| Specialization | Feature                      |\n|----------------|------------------------------|\n| Earth          | The Mountain Does Not Move   |\n| Fire           | Smoldering Step              |\n| Green          | Hide of Tenfold Shields      |\n| Void           | Pierce the Veil of Substance |",
+  "level": "5",
+  "name": "5th-Level Specialization Feature",
+  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-5/5th-level-specialization-feature",
+  "type": "trait"
+}

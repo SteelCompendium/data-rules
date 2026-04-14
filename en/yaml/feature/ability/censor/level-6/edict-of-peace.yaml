@@ -1,0 +1,15 @@
+action_type: Maneuver
+class: censor
+content: "\n*You anticipate your foes' moves and deny them.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 aura**   | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.\n\n##### 6th-Level Paragon Abilities\n\nChoose one of the following abilities."
+cost: 9 Wrath
+distance: 3 aura
+effect: Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
+flavor: You anticipate your foes' moves and deny them.
+keywords:
+    - Area
+    - Magic
+level: "6"
+name: Edict of Peace
+scc: mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace
+target: Each enemy in the area
+type: ability

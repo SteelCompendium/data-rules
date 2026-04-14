@@ -1,0 +1,22 @@
+{
+  "action_type": "Main action",
+  "class": "conduit",
+  "content": "\n*Light shines at your command, burning your foes and blessing your allies.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **📏 3 burst**   | **🎯 Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 4 fire damage\n- **12-16:** 6 fire damage\n- **17+:** 10 fire damage\n\n**Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.",
+  "cost": "5 Piety",
+  "distance": "3 burst",
+  "effect": "Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.",
+  "flavor": "Light shines at your command, burning your foes and blessing your allies.",
+  "keywords": [
+    "Area",
+    "Magic"
+  ],
+  "level": "2",
+  "name": "Morning Light",
+  "power_roll_characteristic": "Intuition",
+  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light",
+  "target": "Each enemy in the area",
+  "tier1": "4 fire damage",
+  "tier2": "6 fire damage",
+  "tier3": "10 fire damage",
+  "type": "ability"
+}

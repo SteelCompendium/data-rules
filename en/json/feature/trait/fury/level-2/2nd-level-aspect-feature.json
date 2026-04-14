@@ -1,0 +1,8 @@
+{
+  "class": "fury",
+  "content": "Your primordial aspect grants you a feature, as shown on the 2nd-Level Aspect Features table.\n\n###### 2nd-Level Aspect Features Table\n\n| Aspect     | Feature           |\n|------------|-------------------|\n| Berserker  | Unstoppable Force |\n| Reaver     | Inescapable Wrath |\n| Stormwight | Tooth and Claw    |",
+  "level": "2",
+  "name": "2nd-Level Aspect Feature",
+  "scc": "mcdm.heroes.v1/feature.trait.fury.level-2/2nd-level-aspect-feature",
+  "type": "trait"
+}

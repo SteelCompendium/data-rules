@@ -1,0 +1,24 @@
+{
+  "action_type": "Main action",
+  "class": "null",
+  "content": "\n*You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 13 + A damage; M \u003c WEAK, the target is suppressed (save ends)\n- **12-16:** 19 + A damage; M \u003c AVERAGE, the target is suppressed (save ends)\n- **17+:** 24 + A damage; M \u003c STRONG, the target is suppressed (save ends)\n\n**Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.",
+  "cost": "11 Discipline",
+  "distance": "Melee 1",
+  "effect": "While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.",
+  "flavor": "You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.",
+  "keywords": [
+    "Melee",
+    "Psionic",
+    "Strike",
+    "Weapon"
+  ],
+  "level": "8",
+  "name": "Arcane Purge",
+  "power_roll_characteristic": "Agility",
+  "scc": "mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge",
+  "target": "One creature",
+  "tier1": "13 + A damage; M \u003c WEAK, the target is suppressed (save ends)",
+  "tier2": "19 + A damage; M \u003c AVERAGE, the target is suppressed (save ends)",
+  "tier3": "24 + A damage; M \u003c STRONG, the target is suppressed (save ends)",
+  "type": "ability"
+}

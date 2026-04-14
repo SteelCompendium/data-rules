@@ -1,0 +1,8 @@
+{
+  "class": "fury",
+  "content": "Your primordial aspect grants you a feature, as shown on the 8th-Level Aspect Features table.\n\n###### 8th-Level Aspect Features Table\n\n| Aspect     | Feature            |\n|------------|--------------------|\n| Berserker  | Strongest There Is |\n| Reaver     | A Step Ahead       |\n| Stormwight | Menagerie          |",
+  "level": "8",
+  "name": "8th-Level Aspect Feature",
+  "scc": "mcdm.heroes.v1/feature.trait.fury.level-8/8th-level-aspect-feature",
+  "type": "trait"
+}

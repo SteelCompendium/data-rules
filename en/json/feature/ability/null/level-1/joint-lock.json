@@ -1,0 +1,23 @@
+{
+  "action_type": "Main action",
+  "class": "null",
+  "content": "\n*You contort your enemy's body into a stance they struggle to escape from.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage; A \u003c WEAK, grabbed\n- **12-16:** 7 + A damage; A \u003c AVERAGE, grabbed\n- **17+:** 9 + A damage; A \u003c STRONG, grabbed",
+  "distance": "Melee 1",
+  "flavor": "You contort your enemy's body into a stance they struggle to escape from.",
+  "keywords": [
+    "Melee",
+    "Psionic",
+    "Strike",
+    "Weapon"
+  ],
+  "level": "1",
+  "name": "Joint Lock",
+  "power_roll_characteristic": "Agility",
+  "scc": "mcdm.heroes.v1/feature.ability.null.level-1/joint-lock",
+  "subtype": "signature",
+  "target": "One creature or object",
+  "tier1": "4 + A damage; A \u003c WEAK, grabbed",
+  "tier2": "7 + A damage; A \u003c AVERAGE, grabbed",
+  "tier3": "9 + A damage; A \u003c STRONG, grabbed",
+  "type": "ability"
+}

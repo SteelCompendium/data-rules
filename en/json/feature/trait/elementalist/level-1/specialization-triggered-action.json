@@ -1,0 +1,8 @@
+{
+  "class": "elementalist",
+  "content": "Your elemental specialization grants you a triggered action, as shown on the Specialization Triggered Actions table.\n\n###### Elemental Specialization Triggered Actions Table\n\n| Specialization  | Triggered Action          |\n|-----------------|---------------------------|\n| Earth           | Skin Like Castle Walls    |\n| Fire            | Explosive Assistance      |\n| Green           | Breath of Dawn Remembered |\n| Void            | Subtle Relocation         |",
+  "level": "1",
+  "name": "Specialization Triggered Action",
+  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-1/specialization-triggered-action",
+  "type": "trait"
+}

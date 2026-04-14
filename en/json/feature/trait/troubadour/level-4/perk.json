@@ -1,0 +1,8 @@
+{
+  "class": "troubadour",
+  "content": "You gain one perk of your choice.",
+  "level": "4",
+  "name": "Perk",
+  "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-4/perk",
+  "type": "trait"
+}

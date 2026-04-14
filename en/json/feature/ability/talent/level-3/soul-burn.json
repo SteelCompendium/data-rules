@@ -1,0 +1,24 @@
+{
+  "action_type": "Main action",
+  "class": "talent",
+  "content": "\n*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*\n\n| **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |\n|---------------------------------------------|--------------------:|\n| **📏 Ranged 10**                            | **🎯 One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 6 + P damage; P \u003c WEAK, dazed (save ends)\n- **12-16:** 10 + P damage; P \u003c AVERAGE, dazed (save ends)\n- **17+:** 14 + P damage; P \u003c STRONG, dazed (save ends)\n\n**Effect:** The target takes a bane on Presence tests until the end of the encounter.\n\n**Strained:** The potency of this ability increases by 1. You take 2d6 damage and gain 3 surges that you can use immediately.",
+  "cost": "7 Clarity",
+  "distance": "Ranged 10",
+  "effect": "The target takes a bane on Presence tests until the end of the encounter.",
+  "flavor": "You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.",
+  "keywords": [
+    "Animapathy",
+    "Psionic",
+    "Ranged",
+    "Strike"
+  ],
+  "level": "3",
+  "name": "Soul Burn",
+  "power_roll_characteristic": "Presence",
+  "scc": "mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn",
+  "target": "One creature",
+  "tier1": "6 + P damage; P \u003c WEAK, dazed (save ends)",
+  "tier2": "10 + P damage; P \u003c AVERAGE, dazed (save ends)",
+  "tier3": "14 + P damage; P \u003c STRONG, dazed (save ends)",
+  "type": "ability"
+}

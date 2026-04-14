@@ -1,0 +1,6 @@
+class: troubadour
+content: You have the following performance abilities, which are usable with your Routines feature.
+level: "1"
+name: Virtuoso Performances
+scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/virtuoso-performances
+type: trait

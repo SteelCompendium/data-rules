@@ -1,0 +1,23 @@
+{
+  "action_type": "Main action",
+  "class": "censor",
+  "content": "\n*I am but a vessel. Your own deeds weigh upon you.*\n\n| **Magic, Ranged, Strike** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Ranged 10**          | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 8 + M holy damage; P \u003c WEAK, frightened (save ends)\n- **12-16:** 12 + M holy damage; P \u003c AVERAGE, frightened (save ends)\n- **17+:** 15 + M holy damage; P \u003c STRONG, frightened (save ends)\n\n**Effect:** If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.",
+  "cost": "5 Wrath",
+  "distance": "Ranged 10",
+  "effect": "If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.",
+  "flavor": "I am but a vessel. Your own deeds weigh upon you.",
+  "keywords": [
+    "Magic",
+    "Ranged",
+    "Strike"
+  ],
+  "level": "2",
+  "name": "It Is Justice You Fear",
+  "power_roll_characteristic": "Might",
+  "scc": "mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear",
+  "target": "One creature",
+  "tier1": "8 + M holy damage; P \u003c WEAK, frightened (save ends)",
+  "tier2": "12 + M holy damage; P \u003c AVERAGE, frightened (save ends)",
+  "tier3": "15 + M holy damage; P \u003c STRONG, frightened (save ends)",
+  "type": "ability"
+}

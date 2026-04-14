@@ -1,0 +1,8 @@
+{
+  "class": "censor",
+  "content": "Your censor order grants you a feature, as shown on the 5th-Level Order Features table.\n\n###### 5th-Level Order Features Table\n\n| Order                    | Feature       |\n|--------------------------|---------------|\n| Exorcist                 | Evil Revealed |\n| Oracle                   | Prophecy      |\n| Paragon                  | Stand Fast!   |",
+  "level": "5",
+  "name": "5th-Level Order Feature",
+  "scc": "mcdm.heroes.v1/feature.trait.censor.level-5/5th-level-order-feature",
+  "type": "trait"
+}

@@ -1,0 +1,8 @@
+{
+  "class": "shadow",
+  "content": "Your shadow college grants you a feature, as shown on the 5th-Level College Features table.\n\n###### 5th-Level College Features Table\n\n| College         | Feature           |\n|-----------------|-------------------|\n| Black Ash       | Trail of Cinders  |\n| Caustic Alchemy | Volatile Reagents |\n| Harlequin Mask  | Harlequin Gambit  |",
+  "level": "5",
+  "name": "5th-Level College Feature",
+  "scc": "mcdm.heroes.v1/feature.trait.shadow.level-5/5th-level-college-feature",
+  "type": "trait"
+}

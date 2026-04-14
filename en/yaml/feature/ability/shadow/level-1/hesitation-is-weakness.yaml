@@ -1,0 +1,16 @@
+action_type: Free triggered
+class: shadow
+content: "\n*Keep up the attack. Never give them a moment's grace.*\n\n| **-**       | **Free triggered** |\n|-------------|-------------------:|\n| **\U0001F4CF Self** |        **\U0001F3AF Self** |\n\n**Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.\n\n**Effect:** You take your turn after the triggering hero."
+cost: 1 Insight
+distance: Self
+effect: You take your turn after the triggering hero.
+flavor: Keep up the attack. Never give them a moment's grace.
+keywords:
+    - '-'
+level: "1"
+name: Hesitation Is Weakness
+scc: mcdm.heroes.v1/feature.ability.shadow.level-1/hesitation-is-weakness
+subtype: triggered
+target: Self
+trigger: Another hero ends their turn. That hero can't have used this ability to start their turn.
+type: ability
