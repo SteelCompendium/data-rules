@@ -7,3 +7,11 @@ type: trait
 ---
 
 Your tactical doctrine grants you a feature, as shown on the 8th-Level Doctrine Features table.
+
+###### 8th-Level Doctrine Features Table
+
+| Doctrine   | Feature                            |
+|------------|------------------------------------|
+| Insurgent  | Bait and Ambush                    |
+| Mastermind | Pincer Movement                    |
+| Vanguard   | See Your Enemies Driven Before You |

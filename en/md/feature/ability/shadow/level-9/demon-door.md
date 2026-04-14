@@ -35,3 +35,7 @@ type: ability
 - **17+:** 25 + A corruption damage; push 7
 
 **Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+
+##### 9th-Level Caustic Alchemy Abilities
+
+Choose one of the following abilities.

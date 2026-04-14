@@ -7,3 +7,11 @@ type: trait
 ---
 
 Your censor order grants you a feature, as shown on the 5th-Level Order Features table.
+
+###### 5th-Level Order Features Table
+
+| Order                    | Feature       |
+|--------------------------|---------------|
+| Exorcist                 | Evil Revealed |
+| Oracle                   | Prophecy      |
+| Paragon                  | Stand Fast!   |

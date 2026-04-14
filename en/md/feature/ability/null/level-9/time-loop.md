@@ -26,3 +26,7 @@ type: ability
 **Trigger:** Another creature on the encounter map ends their turn.
 
 **Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
+
+##### 9th-Level Cryokinetic Abilities
+
+Choose one of the following abilities.

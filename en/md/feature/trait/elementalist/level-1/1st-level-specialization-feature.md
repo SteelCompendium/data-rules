@@ -7,3 +7,12 @@ type: trait
 ---
 
 Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
+
+###### 1st-Level Elemental Specialization Features Table
+
+| Specialization | Feature                    |
+|----------------|----------------------------|
+| Earth          | Motivate Earth             |
+| Fire           | Return to Formlessness     |
+| Green          | It Is the Soul Which Hears |
+| Void           | A Beyonding of Vision      |

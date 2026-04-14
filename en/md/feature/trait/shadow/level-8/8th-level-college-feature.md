@@ -7,3 +7,11 @@ type: trait
 ---
 
 Your shadow college grants you a feature, as shown on the 8th-Level College Features table.
+
+###### 8th-Level College Features Table
+
+| College         | Feature     |
+|-----------------|-------------|
+| Black Ash       | Cinder Step |
+| Caustic Alchemy | Time Bomb   |
+| Harlequin Mask  | Parkour     |

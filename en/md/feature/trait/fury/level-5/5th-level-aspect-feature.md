@@ -7,3 +7,11 @@ type: trait
 ---
 
 Your primordial aspect grants you a feature, as shown on the 5th-Level Aspect Features table.
+
+###### 5th-Level Aspect Features Table
+
+| Aspect     | Feature    |
+|------------|------------|
+| Berserker  | Bounder    |
+| Reaver     | Unfettered |
+| Stormwight | Stormborn  |

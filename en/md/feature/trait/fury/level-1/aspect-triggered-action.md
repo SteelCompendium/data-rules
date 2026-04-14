@@ -7,3 +7,11 @@ type: trait
 ---
 
 Your primordial aspect grants you a triggered action, as shown on the Aspect Triggered Actions table.
+
+###### Aspect Triggered Actions Table
+
+| Aspect                   | Triggered Action   |
+|--------------------------|--------------------|
+| Berserker                | Lines of Force     |
+| Reaver                   | Unearthly Reflexes |
+| Stormwight               | Furious Change     |

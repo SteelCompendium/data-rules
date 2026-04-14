@@ -7,3 +7,11 @@ type: trait
 ---
 
 Your tactical doctrine grants you two features, as shown on the 5th-Level Doctrine Features table.
+
+###### 5th-Level Doctrine Features Table
+
+| Doctrine   | Features                         |
+|------------|----------------------------------|
+| Insurgent  | Distracted, Leave No Trace       |
+| Mastermind | Anticipation, I Predicted That   |
+| Vanguard   | Shake It Off, Tactical Offensive |

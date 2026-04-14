@@ -7,3 +7,11 @@ type: trait
 ---
 
 Your troubadour class act grants you two features, as shown on the 1st-Level Class Act Features table.
+
+###### 1st-Level Class Act Features Table
+
+| Class Act  | Features                           |
+|------------|------------------------------------|
+| Auteur     | Blocking, Dramatic Monologue       |
+| Duelist    | Acrobatics, Star Power             |
+| Virtuoso   | Power Chord, Virtuoso Performances |

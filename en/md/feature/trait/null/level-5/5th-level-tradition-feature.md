@@ -7,3 +7,11 @@ type: trait
 ---
 
 Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+
+###### 5th-Level Tradition Features Table
+
+| Tradition     | Feature            |
+|---------------|--------------------|
+| Chronokinetic | Instant Action     |
+| Cryokinetic   | Chilling Readiness |
+| Metakinetic   | Inertial Fulcrum   |
