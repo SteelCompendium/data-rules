@@ -1,8 +1,22 @@
 {
-  "class": "talent",
-  "content": "At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.\n\nAdditionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability's strained effect even if you're not strained.",
-  "level": "10",
+  "effects": [
+    {
+      "effect": "At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.\n\nAdditionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability's strained effect even if you're not strained."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "talent",
+    "feature_type": "trait",
+    "item_id": "psion",
+    "item_name": "Psion",
+    "level": 10,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.talent.level-10/psion"
+    ],
+    "type": "feature/trait/talent/level-10"
+  },
   "name": "Psion",
-  "scc": "mcdm.heroes.v1/feature.trait.talent.level-10/psion",
-  "type": "trait"
+  "type": "feature"
 }

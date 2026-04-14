@@ -1,18 +1,40 @@
 {
-  "action_type": "Maneuver",
-  "class": "troubadour",
-  "content": "\n*It's important for everyone to know each other's lines, just in case...*\n\n| **Area, Magic** |                 **Maneuver** |\n|-----------------|-----------------------------:|\n| **📏 5 burst**  | **🎯 Each ally in the area** |\n\n**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.\n\n##### 6th-Level Duelist Abilities\n\nChoose one of the following abilities.",
   "cost": "9 Drama",
   "distance": "5 burst",
-  "effect": "Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.",
+  "effects": [
+    {
+      "effect": "Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "It's important for everyone to know each other's lines, just in case...",
   "keywords": [
     "Area",
     "Magic"
   ],
-  "level": "6",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "troubadour",
+    "content": "\n*It's important for everyone to know each other's lines, just in case...*\n\n| **Area, Magic** |                 **Maneuver** |\n|-----------------|-----------------------------:|\n| **📏 5 burst**  | **🎯 Each ally in the area** |\n\n**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.\n\n##### 6th-Level Duelist Abilities\n\nChoose one of the following abilities.",
+    "distance": "5 burst",
+    "feature_type": "ability",
+    "flavor": "It's important for everyone to know each other's lines, just in case...",
+    "item_id": "youre-all-my-understudies",
+    "item_name": "You're All My Understudies",
+    "keywords": [
+      "Area",
+      "Magic"
+    ],
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.troubadour.level-6/youre-all-my-understudies"
+    ],
+    "target": "Each ally in the area",
+    "type": "feature/ability/troubadour/level-6"
+  },
   "name": "You're All My Understudies",
-  "scc": "mcdm.heroes.v1/feature.ability.troubadour.level-6/youre-all-my-understudies",
   "target": "Each ally in the area",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

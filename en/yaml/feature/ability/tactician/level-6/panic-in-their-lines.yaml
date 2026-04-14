@@ -1,21 +1,39 @@
-action_type: Main action
-class: tactician
-content: "\n*You confuse your foes, causing them to turn on each other.*\n\n| **Melee, Ranged, Strike, Weapon** |      **Main action** |\n|-----------------------------------|---------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF Two creatures** |\n\n**Power Roll + Might:**\n\n- **≤11:** 6 + M damage; slide 1\n- **12-16:** 9 + M damage; slide 3\n- **17+:** 13 + M damage; slide 5\n\n**Effect:** If a target is force moved into another creature, they must make a free strike against that creature.\n\n##### 6th-Level Mastermind Abilities\n\nChoose one of the following abilities."
 cost: 9 Focus
 distance: Melee 1 or ranged 5
-effect: If a target is force moved into another creature, they must make a free strike against that creature.
+effects:
+    - roll: Power Roll + Might
+      tier1: 6 + M damage; slide 1
+      tier2: 9 + M damage; slide 3
+      tier3: 13 + M damage; slide 5
+    - effect: If a target is force moved into another creature, they must make a free strike against that creature.
+      name: Effect
+feature_type: ability
 flavor: You confuse your foes, causing them to turn on each other.
 keywords:
     - Melee
     - Ranged
     - Strike
     - Weapon
-level: "6"
+metadata:
+    action_type: Main action
+    class: tactician
+    content: "\n*You confuse your foes, causing them to turn on each other.*\n\n| **Melee, Ranged, Strike, Weapon** |      **Main action** |\n|-----------------------------------|---------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF Two creatures** |\n\n**Power Roll + Might:**\n\n- **≤11:** 6 + M damage; slide 1\n- **12-16:** 9 + M damage; slide 3\n- **17+:** 13 + M damage; slide 5\n\n**Effect:** If a target is force moved into another creature, they must make a free strike against that creature.\n\n##### 6th-Level Mastermind Abilities\n\nChoose one of the following abilities."
+    distance: Melee 1 or ranged 5
+    feature_type: ability
+    flavor: You confuse your foes, causing them to turn on each other.
+    item_id: panic-in-their-lines
+    item_name: Panic in Their Lines
+    keywords:
+        - Melee
+        - Ranged
+        - Strike
+        - Weapon
+    level: 6
+    scc:
+        - mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines
+    target: Two creatures
+    type: feature/ability/tactician/level-6
 name: Panic in Their Lines
-power_roll_characteristic: Might
-scc: mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines
 target: Two creatures
-tier1: 6 + M damage; slide 1
-tier2: 9 + M damage; slide 3
-tier3: 13 + M damage; slide 5
-type: ability
+type: feature
+usage: Main action

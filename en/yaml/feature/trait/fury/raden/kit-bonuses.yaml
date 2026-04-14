@@ -1,10 +1,19 @@
-class: fury
-content: |-
-    - **Stamina Bonus:** +3 per echelon
-    - **Speed Bonus:** +3
-    - **Melee Damage Bonus:** +2/+2/+2
-    - **Disengage Bonus:** +1
-kit: raden
+effects:
+    - effect: |-
+        - **Stamina Bonus:** +3 per echelon
+        - **Speed Bonus:** +3
+        - **Melee Damage Bonus:** +2/+2/+2
+        - **Disengage Bonus:** +1
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: kit-bonuses
+    item_name: Kit Bonuses
+    kit: raden
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.raden/kit-bonuses
+    type: feature/trait/fury/raden
 name: Kit Bonuses
-scc: mcdm.heroes.v1/feature.trait.fury.raden/kit-bonuses
-type: trait
+type: feature

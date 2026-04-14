@@ -1,8 +1,22 @@
 {
-  "class": "tactician",
-  "content": "You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 squares of you becomes hidden, that creature gains 1 surge.",
-  "level": "2",
+  "effects": [
+    {
+      "effect": "You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 squares of you becomes hidden, that creature gains 1 surge."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "tactician",
+    "feature_type": "trait",
+    "item_id": "infiltration-tactics",
+    "item_name": "Infiltration Tactics",
+    "level": 2,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.tactician.level-2/infiltration-tactics"
+    ],
+    "type": "feature/trait/tactician/level-2"
+  },
   "name": "Infiltration Tactics",
-  "scc": "mcdm.heroes.v1/feature.trait.tactician.level-2/infiltration-tactics",
-  "type": "trait"
+  "type": "feature"
 }

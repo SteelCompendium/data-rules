@@ -1,18 +1,40 @@
 {
-  "action_type": "Maneuver",
-  "class": "conduit",
-  "content": "\n*\"Now you see us...\"*\n\n| **Area, Magic**  |                          **Maneuver** |\n|------------------|--------------------------------------:|\n| **📏 4 burst**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each target is invisible until the start of your next turn.",
   "cost": "9 Piety",
   "distance": "4 burst",
-  "effect": "Each target is invisible until the start of your next turn.",
+  "effects": [
+    {
+      "effect": "Each target is invisible until the start of your next turn.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "\"Now you see us...\"",
   "keywords": [
     "Area",
     "Magic"
   ],
-  "level": "6",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "conduit",
+    "content": "\n*\"Now you see us...\"*\n\n| **Area, Magic**  |                          **Maneuver** |\n|------------------|--------------------------------------:|\n| **📏 4 burst**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each target is invisible until the start of your next turn.",
+    "distance": "4 burst",
+    "feature_type": "ability",
+    "flavor": "\"Now you see us...\"",
+    "item_id": "invocation-of-mystery",
+    "item_name": "Invocation of Mystery",
+    "keywords": [
+      "Area",
+      "Magic"
+    ],
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery"
+    ],
+    "target": "Self and each ally in the area",
+    "type": "feature/ability/conduit/level-6"
+  },
   "name": "Invocation of Mystery",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery",
   "target": "Self and each ally in the area",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

@@ -1,9 +1,15 @@
 {
-  "action_type": "Main action",
-  "class": "shadow",
-  "content": "\n*You leave your foe bleeding out after a devastating attack.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage; A \u003c WEAK, bleeding (save ends)\n- **12-16:** 6 + A damage; A \u003c AVERAGE, bleeding (save ends)\n- **17+:** 10 + A damage; A \u003c STRONG, bleeding (save ends)",
   "cost": "3 Insight",
   "distance": "Melee 1 or ranged 5",
+  "effects": [
+    {
+      "roll": "Power Roll + Agility",
+      "tier1": "4 + A damage; A \u003c WEAK, bleeding (save ends)",
+      "tier2": "6 + A damage; A \u003c AVERAGE, bleeding (save ends)",
+      "tier3": "10 + A damage; A \u003c STRONG, bleeding (save ends)"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You leave your foe bleeding out after a devastating attack.",
   "keywords": [
     "Melee",
@@ -11,13 +17,30 @@
     "Strike",
     "Weapon"
   ],
-  "level": "1",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "shadow",
+    "content": "\n*You leave your foe bleeding out after a devastating attack.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage; A \u003c WEAK, bleeding (save ends)\n- **12-16:** 6 + A damage; A \u003c AVERAGE, bleeding (save ends)\n- **17+:** 10 + A damage; A \u003c STRONG, bleeding (save ends)",
+    "distance": "Melee 1 or ranged 5",
+    "feature_type": "ability",
+    "flavor": "You leave your foe bleeding out after a devastating attack.",
+    "item_id": "eviscerate",
+    "item_name": "Eviscerate",
+    "keywords": [
+      "Melee",
+      "Ranged",
+      "Strike",
+      "Weapon"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate"
+    ],
+    "target": "One creature",
+    "type": "feature/ability/shadow/level-1"
+  },
   "name": "Eviscerate",
-  "power_roll_characteristic": "Agility",
-  "scc": "mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate",
   "target": "One creature",
-  "tier1": "4 + A damage; A \u003c WEAK, bleeding (save ends)",
-  "tier2": "6 + A damage; A \u003c AVERAGE, bleeding (save ends)",
-  "tier3": "10 + A damage; A \u003c STRONG, bleeding (save ends)",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

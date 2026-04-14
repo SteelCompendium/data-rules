@@ -1,17 +1,38 @@
 {
-  "action_type": "Maneuver",
-  "class": "tactician",
-  "content": "\n*You and your allies coordinate to form a new battle line.*\n\n| **Area**       |                          **Maneuver** |\n|----------------|--------------------------------------:|\n| **📏 2 burst** | **🎯 Self and each ally in the area** |\n\n**Effect:** You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.\n\n##### 6th-Level Vanguard Abilities\n\nChoose one of the following abilities.",
   "cost": "9 Focus",
   "distance": "2 burst",
-  "effect": "You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.",
+  "effects": [
+    {
+      "effect": "You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You and your allies coordinate to form a new battle line.",
   "keywords": [
     "Area"
   ],
-  "level": "6",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "tactician",
+    "content": "\n*You and your allies coordinate to form a new battle line.*\n\n| **Area**       |                          **Maneuver** |\n|----------------|--------------------------------------:|\n| **📏 2 burst** | **🎯 Self and each ally in the area** |\n\n**Effect:** You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.\n\n##### 6th-Level Vanguard Abilities\n\nChoose one of the following abilities.",
+    "distance": "2 burst",
+    "feature_type": "ability",
+    "flavor": "You and your allies coordinate to form a new battle line.",
+    "item_id": "hustle",
+    "item_name": "Hustle!",
+    "keywords": [
+      "Area"
+    ],
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.tactician.level-6/hustle"
+    ],
+    "target": "Self and each ally in the area",
+    "type": "feature/ability/tactician/level-6"
+  },
   "name": "Hustle!",
-  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-6/hustle",
   "target": "Self and each ally in the area",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

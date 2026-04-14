@@ -1,8 +1,22 @@
 {
-  "class": "elementalist",
-  "content": "You have mastered the magic of shaping a wyrd, and can use your Wyrding feature as a main action.\n\nAdditionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.",
-  "level": "9",
+  "effects": [
+    {
+      "effect": "You have mastered the magic of shaping a wyrd, and can use your Wyrding feature as a main action.\n\nAdditionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "elementalist",
+    "feature_type": "trait",
+    "item_id": "grand-wyrding",
+    "item_name": "Grand Wyrding",
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.elementalist.level-9/grand-wyrding"
+    ],
+    "type": "feature/trait/elementalist/level-9"
+  },
   "name": "Grand Wyrding",
-  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-9/grand-wyrding",
-  "type": "trait"
+  "type": "feature"
 }

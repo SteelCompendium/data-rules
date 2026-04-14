@@ -1,20 +1,37 @@
-action_type: Maneuver
-class: shadow
-content: "\n*Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*\n\n| **Area, Magic, Ranged** |                     **Maneuver** |\n|-------------------------|---------------------------------:|\n| **\U0001F4CF 3 cube within 10** | **\U0001F3AF Each creature in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** Slide 4\n- **12-16:** Slide 5\n- **17+:** Slide 7\n\n**Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score."
 cost: 5 Insight
 distance: 3 cube within 10
-effect: This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+effects:
+    - roll: Power Roll + Agility
+      tier1: Slide 4
+      tier2: Slide 5
+      tier3: Slide 7
+    - effect: This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+      name: Effect
+feature_type: ability
 flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
 keywords:
     - Area
     - Magic
     - Ranged
-level: "2"
+metadata:
+    action_type: Maneuver
+    class: shadow
+    content: "\n*Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*\n\n| **Area, Magic, Ranged** |                     **Maneuver** |\n|-------------------------|---------------------------------:|\n| **\U0001F4CF 3 cube within 10** | **\U0001F3AF Each creature in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** Slide 4\n- **12-16:** Slide 5\n- **17+:** Slide 7\n\n**Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score."
+    distance: 3 cube within 10
+    feature_type: ability
+    flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
+    item_id: machinations-of-sound
+    item_name: Machinations of Sound
+    keywords:
+        - Area
+        - Magic
+        - Ranged
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound
+    target: Each creature in the area
+    type: feature/ability/shadow/level-2
 name: Machinations of Sound
-power_roll_characteristic: Agility
-scc: mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound
 target: Each creature in the area
-tier1: Slide 4
-tier2: Slide 5
-tier3: Slide 7
-type: ability
+type: feature
+usage: Maneuver

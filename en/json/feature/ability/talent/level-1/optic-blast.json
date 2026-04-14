@@ -1,9 +1,19 @@
 {
-  "action_type": "Main action",
-  "class": "talent",
-  "content": "\n*Your eyes emit rays of powerful enervating force.*\n\n| **Metamorphosis, Psionic, Ranged**, **Strike** |               **Main action** |\n|------------------------------------------------|------------------------------:|\n| **📏 Ranged 10**                               | **🎯 One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R damage; M \u003c WEAK, prone\n- **12-16:** 4 + R damage; M \u003c AVERAGE, prone\n- **17+:** 6 + R damage; M \u003c STRONG, prone\n\n**Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.\n\n**Strained:** You gain 1 surge that you can use immediately, and you take damage equal to your Reason score that can't be reduced in any way.",
+  "ability_type": "Signature",
   "distance": "Ranged 10",
-  "effect": "When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.",
+  "effects": [
+    {
+      "roll": "Power Roll + Reason",
+      "tier1": "2 + R damage; M \u003c WEAK, prone",
+      "tier2": "4 + R damage; M \u003c AVERAGE, prone",
+      "tier3": "6 + R damage; M \u003c STRONG, prone"
+    },
+    {
+      "effect": "When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "Your eyes emit rays of powerful enervating force.",
   "keywords": [
     "Metamorphosis",
@@ -11,14 +21,31 @@
     "Ranged",
     "Strike"
   ],
-  "level": "1",
+  "metadata": {
+    "ability_type": "Signature",
+    "action_type": "Main action",
+    "class": "talent",
+    "content": "\n*Your eyes emit rays of powerful enervating force.*\n\n| **Metamorphosis, Psionic, Ranged**, **Strike** |               **Main action** |\n|------------------------------------------------|------------------------------:|\n| **📏 Ranged 10**                               | **🎯 One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R damage; M \u003c WEAK, prone\n- **12-16:** 4 + R damage; M \u003c AVERAGE, prone\n- **17+:** 6 + R damage; M \u003c STRONG, prone\n\n**Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.\n\n**Strained:** You gain 1 surge that you can use immediately, and you take damage equal to your Reason score that can't be reduced in any way.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "Your eyes emit rays of powerful enervating force.",
+    "item_id": "optic-blast",
+    "item_name": "Optic Blast",
+    "keywords": [
+      "Metamorphosis",
+      "Psionic",
+      "Ranged",
+      "Strike"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast"
+    ],
+    "target": "One creature or object",
+    "type": "feature/ability/talent/level-1"
+  },
   "name": "Optic Blast",
-  "power_roll_characteristic": "Reason",
-  "scc": "mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast",
-  "subtype": "signature",
   "target": "One creature or object",
-  "tier1": "2 + R damage; M \u003c WEAK, prone",
-  "tier2": "4 + R damage; M \u003c AVERAGE, prone",
-  "tier3": "6 + R damage; M \u003c STRONG, prone",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

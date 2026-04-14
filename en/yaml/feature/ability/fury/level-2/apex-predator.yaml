@@ -1,20 +1,37 @@
-action_type: Main action
-class: fury
-content: "\n*I will hunt you down.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 4 damage; I < WEAK, slowed (save ends)\n- **12-16:** 6 damage; I < AVERAGE, slowed (save ends)\n- **17+:** 10 damage; I < STRONG, slowed (save ends)\n\n**Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move."
 cost: 5 Ferocity
 distance: Melee 1
-effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
+effects:
+    - roll: Power Roll + Might
+      tier1: 4 damage; I < WEAK, slowed (save ends)
+      tier2: 6 damage; I < AVERAGE, slowed (save ends)
+      tier3: 10 damage; I < STRONG, slowed (save ends)
+    - effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
+      name: Effect
+feature_type: ability
 flavor: I will hunt you down.
 keywords:
     - Melee
     - Strike
     - Weapon
-level: "2"
+metadata:
+    action_type: Main action
+    class: fury
+    content: "\n*I will hunt you down.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 4 damage; I < WEAK, slowed (save ends)\n- **12-16:** 6 damage; I < AVERAGE, slowed (save ends)\n- **17+:** 10 damage; I < STRONG, slowed (save ends)\n\n**Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move."
+    distance: Melee 1
+    feature_type: ability
+    flavor: I will hunt you down.
+    item_id: apex-predator
+    item_name: Apex Predator
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator
+    target: One creature
+    type: feature/ability/fury/level-2
 name: Apex Predator
-power_roll_characteristic: Might
-scc: mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator
 target: One creature
-tier1: 4 damage; I < WEAK, slowed (save ends)
-tier2: 6 damage; I < AVERAGE, slowed (save ends)
-tier3: 10 damage; I < STRONG, slowed (save ends)
-type: ability
+type: feature
+usage: Main action

@@ -1,10 +1,19 @@
 {
-  "action_type": "Main action",
-  "class": "tactician",
-  "content": "\n*You focus on making an enemy irrelevant.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Effect:** The target is marked by you.\n\n**Power Roll + Might:**\n\n- **≤11:** 8 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 17 + M damage\n\n**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.",
   "cost": "11 Focus",
   "distance": "Melee 1 or ranged 5",
-  "effect": "The target is marked by you.",
+  "effects": [
+    {
+      "roll": "Power Roll + Might",
+      "tier1": "8 + M damage",
+      "tier2": "13 + M damage",
+      "tier3": "17 + M damage"
+    },
+    {
+      "effect": "The target is marked by you.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You focus on making an enemy irrelevant.",
   "keywords": [
     "Melee",
@@ -12,13 +21,30 @@
     "Strike",
     "Weapon"
   ],
-  "level": "9",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "tactician",
+    "content": "\n*You focus on making an enemy irrelevant.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Effect:** The target is marked by you.\n\n**Power Roll + Might:**\n\n- **≤11:** 8 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 17 + M damage\n\n**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.",
+    "distance": "Melee 1 or ranged 5",
+    "feature_type": "ability",
+    "flavor": "You focus on making an enemy irrelevant.",
+    "item_id": "that-one-is-mine",
+    "item_name": "That One Is Mine!",
+    "keywords": [
+      "Melee",
+      "Ranged",
+      "Strike",
+      "Weapon"
+    ],
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine"
+    ],
+    "target": "One creature",
+    "type": "feature/ability/tactician/level-9"
+  },
   "name": "That One Is Mine!",
-  "power_roll_characteristic": "Might",
-  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine",
   "target": "One creature",
-  "tier1": "8 + M damage",
-  "tier2": "13 + M damage",
-  "tier3": "17 + M damage",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

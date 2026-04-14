@@ -1,19 +1,41 @@
 {
-  "action_type": "Free triggered",
-  "class": "shadow",
-  "content": "\n*When your enemy strikes, you reveal you were in a different place all along.*\n\n| **Magic**            | **Free triggered** |\n|----------------------|-------------------:|\n| **📏 Self**          |        **🎯 Self** |\n\n**Trigger:** Another creature targets you with a strike.\n\n**Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.",
+  "ability_type": "Triggered",
   "cost": "5 Insight",
   "distance": "Self",
-  "effect": "You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.",
+  "effects": [
+    {
+      "effect": "You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "When your enemy strikes, you reveal you were in a different place all along.",
   "keywords": [
     "Magic"
   ],
-  "level": "2",
+  "metadata": {
+    "ability_type": "Triggered",
+    "action_type": "Free triggered",
+    "class": "shadow",
+    "content": "\n*When your enemy strikes, you reveal you were in a different place all along.*\n\n| **Magic**            | **Free triggered** |\n|----------------------|-------------------:|\n| **📏 Self**          |        **🎯 Self** |\n\n**Trigger:** Another creature targets you with a strike.\n\n**Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.",
+    "distance": "Self",
+    "feature_type": "ability",
+    "flavor": "When your enemy strikes, you reveal you were in a different place all along.",
+    "item_id": "so-gullible",
+    "item_name": "So Gullible",
+    "keywords": [
+      "Magic"
+    ],
+    "level": 2,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible"
+    ],
+    "target": "Self",
+    "type": "feature/ability/shadow/level-2"
+  },
   "name": "So Gullible",
-  "scc": "mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible",
-  "subtype": "triggered",
   "target": "Self",
   "trigger": "Another creature targets you with a strike.",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Free triggered"
 }

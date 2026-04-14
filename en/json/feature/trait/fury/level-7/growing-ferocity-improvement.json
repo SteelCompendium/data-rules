@@ -1,8 +1,22 @@
 {
-  "class": "fury",
-  "content": "Your Growing Ferocity feature provides additional benefits when you have 10 or more ferocity.",
-  "level": "7",
+  "effects": [
+    {
+      "effect": "Your Growing Ferocity feature provides additional benefits when you have 10 or more ferocity."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "growing-ferocity-improvement",
+    "item_name": "Growing Ferocity Improvement",
+    "level": 7,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.level-7/growing-ferocity-improvement"
+    ],
+    "type": "feature/trait/fury/level-7"
+  },
   "name": "Growing Ferocity Improvement",
-  "scc": "mcdm.heroes.v1/feature.trait.fury.level-7/growing-ferocity-improvement",
-  "type": "trait"
+  "type": "feature"
 }

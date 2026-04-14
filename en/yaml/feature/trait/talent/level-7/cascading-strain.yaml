@@ -1,6 +1,15 @@
-class: talent
-content: Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your Mind Spike ability to take the same damage.
-level: "7"
+effects:
+    - effect: Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your Mind Spike ability to take the same damage.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: talent
+    feature_type: trait
+    item_id: cascading-strain
+    item_name: Cascading Strain
+    level: 7
+    scc:
+        - mcdm.heroes.v1/feature.trait.talent.level-7/cascading-strain
+    type: feature/trait/talent/level-7
 name: Cascading Strain
-scc: mcdm.heroes.v1/feature.trait.talent.level-7/cascading-strain
-type: trait
+type: feature

@@ -1,8 +1,22 @@
 {
-  "class": "null",
-  "content": "When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3.",
-  "level": "10",
+  "effects": [
+    {
+      "effect": "When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "null",
+    "feature_type": "trait",
+    "item_id": "manifold-body",
+    "item_name": "Manifold Body",
+    "level": 10,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.null.level-10/manifold-body"
+    ],
+    "type": "feature/trait/null/level-10"
+  },
   "name": "Manifold Body",
-  "scc": "mcdm.heroes.v1/feature.trait.null.level-10/manifold-body",
-  "type": "trait"
+  "type": "feature"
 }

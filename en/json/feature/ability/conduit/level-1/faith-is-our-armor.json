@@ -1,22 +1,46 @@
 {
-  "action_type": "Maneuver",
-  "class": "conduit",
-  "content": "\n*The heroes' armor glows with golden light, granting divine protection.*\n\n| **Magic, Ranged**        |       **Maneuver** |\n|--------------------------|-------------------:|\n| **📏 Ranged 10**         | **🎯 Four allies** |\n\n**Effect:** You can target yourself instead of one ally with this ability.\n\n**Power Roll + Intuition:**\n\n- **≤11:** The target gains 5 temporary Stamina.\n- **12-16:** The target gains 10 temporary Stamina.\n- **17+:** The target gains 15 temporary Stamina.",
   "cost": "5 Piety",
   "distance": "Ranged 10",
-  "effect": "You can target yourself instead of one ally with this ability.",
+  "effects": [
+    {
+      "roll": "Power Roll + Intuition",
+      "tier1": "The target gains 5 temporary Stamina.",
+      "tier2": "The target gains 10 temporary Stamina.",
+      "tier3": "The target gains 15 temporary Stamina."
+    },
+    {
+      "effect": "You can target yourself instead of one ally with this ability.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "The heroes' armor glows with golden light, granting divine protection.",
   "keywords": [
     "Magic",
     "Ranged"
   ],
-  "level": "1",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "conduit",
+    "content": "\n*The heroes' armor glows with golden light, granting divine protection.*\n\n| **Magic, Ranged**        |       **Maneuver** |\n|--------------------------|-------------------:|\n| **📏 Ranged 10**         | **🎯 Four allies** |\n\n**Effect:** You can target yourself instead of one ally with this ability.\n\n**Power Roll + Intuition:**\n\n- **≤11:** The target gains 5 temporary Stamina.\n- **12-16:** The target gains 10 temporary Stamina.\n- **17+:** The target gains 15 temporary Stamina.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "The heroes' armor glows with golden light, granting divine protection.",
+    "item_id": "faith-is-our-armor",
+    "item_name": "Faith Is Our Armor",
+    "keywords": [
+      "Magic",
+      "Ranged"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor"
+    ],
+    "target": "Four allies",
+    "type": "feature/ability/conduit/level-1"
+  },
   "name": "Faith Is Our Armor",
-  "power_roll_characteristic": "Intuition",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor",
   "target": "Four allies",
-  "tier1": "The target gains 5 temporary Stamina.",
-  "tier2": "The target gains 10 temporary Stamina.",
-  "tier3": "The target gains 15 temporary Stamina.",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

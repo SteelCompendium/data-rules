@@ -1,6 +1,15 @@
-class: troubadour
-content: At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.
-level: "7"
+effects:
+    - effect: At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: troubadour
+    feature_type: trait
+    item_id: a-muses-muse
+    item_name: A Muse's Muse
+    level: 7
+    scc:
+        - mcdm.heroes.v1/feature.trait.troubadour.level-7/a-muses-muse
+    type: feature/trait/troubadour/level-7
 name: A Muse's Muse
-scc: mcdm.heroes.v1/feature.trait.troubadour.level-7/a-muses-muse
-type: trait
+type: feature

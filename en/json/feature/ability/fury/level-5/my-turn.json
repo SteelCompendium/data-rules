@@ -1,25 +1,51 @@
 {
-  "action_type": "Free triggered",
-  "class": "fury",
-  "content": "\n*You quickly strike back at a foe.*\n\n| **Melee, Strike, Weapon** |             **Free triggered** |\n|---------------------------|-------------------------------:|\n| **📏 Melee 1**            | **🎯 The triggering creature** |\n\n**Trigger:** A creature causes you to be winded or dying, or damages you while you are winded or dying.\n\n**Power Roll + Might:**\n\n- **≤11:** 6 + M damage\n- **12-16:** 9 + M damage\n- **17+:** 13 + M damage\n\n**Effect:** You can spend a Recovery.",
+  "ability_type": "Triggered",
   "cost": "9 Ferocity",
   "distance": "Melee 1",
-  "effect": "You can spend a Recovery.",
+  "effects": [
+    {
+      "roll": "Power Roll + Might",
+      "tier1": "6 + M damage",
+      "tier2": "9 + M damage",
+      "tier3": "13 + M damage"
+    },
+    {
+      "effect": "You can spend a Recovery.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You quickly strike back at a foe.",
   "keywords": [
     "Melee",
     "Strike",
     "Weapon"
   ],
-  "level": "5",
+  "metadata": {
+    "ability_type": "Triggered",
+    "action_type": "Free triggered",
+    "class": "fury",
+    "content": "\n*You quickly strike back at a foe.*\n\n| **Melee, Strike, Weapon** |             **Free triggered** |\n|---------------------------|-------------------------------:|\n| **📏 Melee 1**            | **🎯 The triggering creature** |\n\n**Trigger:** A creature causes you to be winded or dying, or damages you while you are winded or dying.\n\n**Power Roll + Might:**\n\n- **≤11:** 6 + M damage\n- **12-16:** 9 + M damage\n- **17+:** 13 + M damage\n\n**Effect:** You can spend a Recovery.",
+    "distance": "Melee 1",
+    "feature_type": "ability",
+    "flavor": "You quickly strike back at a foe.",
+    "item_id": "my-turn",
+    "item_name": "My Turn!",
+    "keywords": [
+      "Melee",
+      "Strike",
+      "Weapon"
+    ],
+    "level": 5,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.fury.level-5/my-turn"
+    ],
+    "target": "The triggering creature",
+    "type": "feature/ability/fury/level-5"
+  },
   "name": "My Turn!",
-  "power_roll_characteristic": "Might",
-  "scc": "mcdm.heroes.v1/feature.ability.fury.level-5/my-turn",
-  "subtype": "triggered",
   "target": "The triggering creature",
-  "tier1": "6 + M damage",
-  "tier2": "9 + M damage",
-  "tier3": "13 + M damage",
   "trigger": "A creature causes you to be winded or dying, or damages you while you are winded or dying.",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Free triggered"
 }

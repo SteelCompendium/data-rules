@@ -1,8 +1,22 @@
 {
-  "class": "talent",
-  "content": "Whenever you spend a Recovery to regain Stamina while strained, you can forgo the Stamina and gain 3 clarity instead.\n\nAdditionally, the first time each combat round that a creature is force moved, you gain 2 clarity instead of 1.",
-  "level": "4",
+  "effects": [
+    {
+      "effect": "Whenever you spend a Recovery to regain Stamina while strained, you can forgo the Stamina and gain 3 clarity instead.\n\nAdditionally, the first time each combat round that a creature is force moved, you gain 2 clarity instead of 1."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "talent",
+    "feature_type": "trait",
+    "item_id": "mind-recovery",
+    "item_name": "Mind Recovery",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.talent.level-4/mind-recovery"
+    ],
+    "type": "feature/trait/talent/level-4"
+  },
   "name": "Mind Recovery",
-  "scc": "mcdm.heroes.v1/feature.trait.talent.level-4/mind-recovery",
-  "type": "trait"
+  "type": "feature"
 }

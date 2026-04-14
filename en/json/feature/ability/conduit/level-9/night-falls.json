@@ -1,19 +1,42 @@
 {
-  "action_type": "Main action",
-  "class": "conduit",
-  "content": "\n*You summon darkness that thwarts only your foes.*\n\n| **Area, Magic, Ranged** |  **Main action** |\n|-------------------------|-----------------:|\n| **📏 5 cube within 10** |   **🎯 Special** |\n\n**Effect:** Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can't see through, but you and your allies can.",
   "cost": "11 Piety",
   "distance": "5 cube within 10",
-  "effect": "Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can't see through, but you and your allies can.",
+  "effects": [
+    {
+      "effect": "Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can't see through, but you and your allies can.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You summon darkness that thwarts only your foes.",
   "keywords": [
     "Area",
     "Magic",
     "Ranged"
   ],
-  "level": "9",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "conduit",
+    "content": "\n*You summon darkness that thwarts only your foes.*\n\n| **Area, Magic, Ranged** |  **Main action** |\n|-------------------------|-----------------:|\n| **📏 5 cube within 10** |   **🎯 Special** |\n\n**Effect:** Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can't see through, but you and your allies can.",
+    "distance": "5 cube within 10",
+    "feature_type": "ability",
+    "flavor": "You summon darkness that thwarts only your foes.",
+    "item_id": "night-falls",
+    "item_name": "Night Falls",
+    "keywords": [
+      "Area",
+      "Magic",
+      "Ranged"
+    ],
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls"
+    ],
+    "target": "Special",
+    "type": "feature/ability/conduit/level-9"
+  },
   "name": "Night Falls",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls",
   "target": "Special",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

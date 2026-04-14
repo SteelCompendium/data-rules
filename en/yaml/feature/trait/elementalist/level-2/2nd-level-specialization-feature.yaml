@@ -1,16 +1,25 @@
-class: elementalist
-content: |-
-    Your elemental specialization grants you a feature, as shown on the 2nd-Level Elemental Specialization Features table.
+effects:
+    - effect: |-
+        Your elemental specialization grants you a feature, as shown on the 2nd-Level Elemental Specialization Features table.
 
-    ###### 2nd-Level Elemental Specialization Features Table
+        ###### 2nd-Level Elemental Specialization Features Table
 
-    | Specialization | Feature                   |
-    |----------------|---------------------------|
-    | Earth          | Disciple of Earth         |
-    | Fire           | Disciple of Fire          |
-    | Green          | Disciple of the Green     |
-    | Void           | There Is No Space Between |
-level: "2"
+        | Specialization | Feature                   |
+        |----------------|---------------------------|
+        | Earth          | Disciple of Earth         |
+        | Fire           | Disciple of Fire          |
+        | Green          | Disciple of the Green     |
+        | Void           | There Is No Space Between |
+feature_type: trait
+metadata:
+    action_type: feature
+    class: elementalist
+    feature_type: trait
+    item_id: 2nd-level-specialization-feature
+    item_name: 2nd-Level Specialization Feature
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.trait.elementalist.level-2/2nd-level-specialization-feature
+    type: feature/trait/elementalist/level-2
 name: 2nd-Level Specialization Feature
-scc: mcdm.heroes.v1/feature.trait.elementalist.level-2/2nd-level-specialization-feature
-type: trait
+type: feature

@@ -1,21 +1,39 @@
-action_type: Main action
-class: talent
-content: "\n*You project psionic energy out to a creature and take on a new visage in their mind.*\n\n| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |\n|----------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                       | **\U0001F3AF One creature** |\n\n**Effect:** If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.\n\n**Power Roll + Presence:**\n\n- **≤11:** 3 + P psychic damage; I < WEAK, frightened (save ends)\n- **12-16:** 6 + P psychic damage; I < AVERAGE, frightened (save ends)\n- **17+:** 9 + P psychic damage; I < STRONG, frightened (save ends)"
 cost: 3 Clarity
 distance: Ranged 10
-effect: If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
+effects:
+    - roll: Power Roll + Presence
+      tier1: 3 + P psychic damage; I < WEAK, frightened (save ends)
+      tier2: 6 + P psychic damage; I < AVERAGE, frightened (save ends)
+      tier3: 9 + P psychic damage; I < STRONG, frightened (save ends)
+    - effect: If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
+      name: Effect
+feature_type: ability
 flavor: You project psionic energy out to a creature and take on a new visage in their mind.
 keywords:
     - Psionic
     - Ranged
     - Strike
     - Telepathy
-level: "1"
+metadata:
+    action_type: Main action
+    class: talent
+    content: "\n*You project psionic energy out to a creature and take on a new visage in their mind.*\n\n| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |\n|----------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                       | **\U0001F3AF One creature** |\n\n**Effect:** If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.\n\n**Power Roll + Presence:**\n\n- **≤11:** 3 + P psychic damage; I < WEAK, frightened (save ends)\n- **12-16:** 6 + P psychic damage; I < AVERAGE, frightened (save ends)\n- **17+:** 9 + P psychic damage; I < STRONG, frightened (save ends)"
+    distance: Ranged 10
+    feature_type: ability
+    flavor: You project psionic energy out to a creature and take on a new visage in their mind.
+    item_id: awe
+    item_name: Awe
+    keywords:
+        - Psionic
+        - Ranged
+        - Strike
+        - Telepathy
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.ability.talent.level-1/awe
+    target: One creature
+    type: feature/ability/talent/level-1
 name: Awe
-power_roll_characteristic: Presence
-scc: mcdm.heroes.v1/feature.ability.talent.level-1/awe
 target: One creature
-tier1: 3 + P psychic damage; I < WEAK, frightened (save ends)
-tier2: 6 + P psychic damage; I < AVERAGE, frightened (save ends)
-tier3: 9 + P psychic damage; I < STRONG, frightened (save ends)
-type: ability
+type: feature
+usage: Main action

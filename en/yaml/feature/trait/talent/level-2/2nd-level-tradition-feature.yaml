@@ -1,15 +1,24 @@
-class: talent
-content: |-
-    Your talent tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+effects:
+    - effect: |-
+        Your talent tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
-    ###### 2nd-Level Tradition Features Table
+        ###### 2nd-Level Tradition Features Table
 
-    | Tradition                    | Features        |
-    |------------------------------|-----------------|
-    | Chronopathy                  | Ease the Hours  |
-    | Telekinesis                  | Ease Their Fall |
-    | Telepathy                    | Ease the Mind   |
-level: "2"
+        | Tradition                    | Features        |
+        |------------------------------|-----------------|
+        | Chronopathy                  | Ease the Hours  |
+        | Telekinesis                  | Ease Their Fall |
+        | Telepathy                    | Ease the Mind   |
+feature_type: trait
+metadata:
+    action_type: feature
+    class: talent
+    feature_type: trait
+    item_id: 2nd-level-tradition-feature
+    item_name: 2nd-Level Tradition Feature
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.trait.talent.level-2/2nd-level-tradition-feature
+    type: feature/trait/talent/level-2
 name: 2nd-Level Tradition Feature
-scc: mcdm.heroes.v1/feature.trait.talent.level-2/2nd-level-tradition-feature
-type: trait
+type: feature

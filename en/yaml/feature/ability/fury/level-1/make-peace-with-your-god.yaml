@@ -1,14 +1,29 @@
-action_type: Free maneuver
-class: fury
-content: "\n*Anger is your energy.*\n\n| **-**       | **Free maneuver** |\n|-------------|------------------:|\n| **\U0001F4CF Self** |       **\U0001F3AF Self** |\n\n**Effect:** You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome."
 cost: 5 Ferocity
 distance: Self
-effect: You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.
+effects:
+    - effect: You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.
+      name: Effect
+feature_type: ability
 flavor: Anger is your energy.
 keywords:
     - '-'
-level: "1"
+metadata:
+    action_type: Free maneuver
+    class: fury
+    content: "\n*Anger is your energy.*\n\n| **-**       | **Free maneuver** |\n|-------------|------------------:|\n| **\U0001F4CF Self** |       **\U0001F3AF Self** |\n\n**Effect:** You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome."
+    distance: Self
+    feature_type: ability
+    flavor: Anger is your energy.
+    item_id: make-peace-with-your-god
+    item_name: Make Peace With Your God!
+    keywords:
+        - '-'
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.ability.fury.level-1/make-peace-with-your-god
+    target: Self
+    type: feature/ability/fury/level-1
 name: Make Peace With Your God!
-scc: mcdm.heroes.v1/feature.ability.fury.level-1/make-peace-with-your-god
 target: Self
-type: ability
+type: feature
+usage: Free maneuver

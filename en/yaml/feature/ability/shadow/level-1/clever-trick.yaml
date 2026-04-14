@@ -1,16 +1,32 @@
-action_type: Triggered
-class: shadow
-content: "\n*You sow a moment of confusion in combat, to your enemy's peril.*\n\n| **Magic**   | **Triggered** |\n|-------------|--------------:|\n| **\U0001F4CF Self** |     **\U0001F3AF Self** |\n\n**Trigger:** An enemy targets you with a strike.\n\n**Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead."
+ability_type: Triggered
 cost: 1 Insight
 distance: Self
-effect: Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
+effects:
+    - effect: Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
+      name: Effect
+feature_type: ability
 flavor: You sow a moment of confusion in combat, to your enemy's peril.
 keywords:
     - Magic
-level: "1"
+metadata:
+    ability_type: Triggered
+    action_type: Triggered
+    class: shadow
+    content: "\n*You sow a moment of confusion in combat, to your enemy's peril.*\n\n| **Magic**   | **Triggered** |\n|-------------|--------------:|\n| **\U0001F4CF Self** |     **\U0001F3AF Self** |\n\n**Trigger:** An enemy targets you with a strike.\n\n**Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead."
+    distance: Self
+    feature_type: ability
+    flavor: You sow a moment of confusion in combat, to your enemy's peril.
+    item_id: clever-trick
+    item_name: Clever Trick
+    keywords:
+        - Magic
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick
+    target: Self
+    type: feature/ability/shadow/level-1
 name: Clever Trick
-scc: mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick
-subtype: triggered
 target: Self
 trigger: An enemy targets you with a strike.
-type: ability
+type: feature
+usage: Triggered

@@ -1,18 +1,33 @@
-action_type: Main action
-class: troubadour
-content: "\n*You give away the ending of this battle, and it's not great for them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 2 psychic damage; P < WEAK, frightened (save ends)\n- **12-16:** 5 psychic damage; P < AVERAGE, frightened (save ends)\n- **17+:** 7 psychic damage; P < STRONG, frightened (save ends)"
 cost: 9 Drama
 distance: 5 burst
+effects:
+    - roll: Power Roll + Presence
+      tier1: 2 psychic damage; P < WEAK, frightened (save ends)
+      tier2: 5 psychic damage; P < AVERAGE, frightened (save ends)
+      tier3: 7 psychic damage; P < STRONG, frightened (save ends)
+feature_type: ability
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:
     - Area
     - Magic
-level: "6"
+metadata:
+    action_type: Main action
+    class: troubadour
+    content: "\n*You give away the ending of this battle, and it's not great for them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 2 psychic damage; P < WEAK, frightened (save ends)\n- **12-16:** 5 psychic damage; P < AVERAGE, frightened (save ends)\n- **17+:** 7 psychic damage; P < STRONG, frightened (save ends)"
+    distance: 5 burst
+    feature_type: ability
+    flavor: You give away the ending of this battle, and it's not great for them.
+    item_id: heres-how-your-story-ends
+    item_name: Here's How Your Story Ends
+    keywords:
+        - Area
+        - Magic
+    level: 6
+    scc:
+        - mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends
+    target: Each enemy in the area
+    type: feature/ability/troubadour/level-6
 name: Here's How Your Story Ends
-power_roll_characteristic: Presence
-scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends
 target: Each enemy in the area
-tier1: 2 psychic damage; P < WEAK, frightened (save ends)
-tier2: 5 psychic damage; P < AVERAGE, frightened (save ends)
-tier3: 7 psychic damage; P < STRONG, frightened (save ends)
-type: ability
+type: feature
+usage: Main action

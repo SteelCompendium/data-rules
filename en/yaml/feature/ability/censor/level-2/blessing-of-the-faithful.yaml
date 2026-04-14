@@ -1,15 +1,31 @@
-action_type: Maneuver
-class: censor
-content: "\n*The gods reward your faith.*\n\n| **Area, Magic** |                          **Maneuver** |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 3 aura**   | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns."
 cost: 5 Wrath
 distance: 3 aura
-effect: Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
+effects:
+    - effect: Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
+      name: Effect
+feature_type: ability
 flavor: The gods reward your faith.
 keywords:
     - Area
     - Magic
-level: "2"
+metadata:
+    action_type: Maneuver
+    class: censor
+    content: "\n*The gods reward your faith.*\n\n| **Area, Magic** |                          **Maneuver** |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 3 aura**   | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns."
+    distance: 3 aura
+    feature_type: ability
+    flavor: The gods reward your faith.
+    item_id: blessing-of-the-faithful
+    item_name: Blessing of the Faithful
+    keywords:
+        - Area
+        - Magic
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.ability.censor.level-2/blessing-of-the-faithful
+    target: Self and each ally in the area
+    type: feature/ability/censor/level-2
 name: Blessing of the Faithful
-scc: mcdm.heroes.v1/feature.ability.censor.level-2/blessing-of-the-faithful
 target: Self and each ally in the area
-type: ability
+type: feature
+usage: Maneuver

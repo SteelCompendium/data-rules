@@ -1,18 +1,40 @@
 {
-  "action_type": "Maneuver",
-  "class": "conduit",
-  "content": "\n*An ally becomes the wearer of an empowered golden cloak.*\n\n| **Magic, Ranged**         |    **Maneuver** |\n|---------------------------|----------------:|\n| **📏 Ranged 10**          | **🎯 One ally** |\n\n**Effect:** The target gains 20 temporary Stamina and 3 surges.",
   "cost": "7 Piety",
   "distance": "Ranged 10",
-  "effect": "The target gains 20 temporary Stamina and 3 surges.",
+  "effects": [
+    {
+      "effect": "The target gains 20 temporary Stamina and 3 surges.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "An ally becomes the wearer of an empowered golden cloak.",
   "keywords": [
     "Magic",
     "Ranged"
   ],
-  "level": "3",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "conduit",
+    "content": "\n*An ally becomes the wearer of an empowered golden cloak.*\n\n| **Magic, Ranged**         |    **Maneuver** |\n|---------------------------|----------------:|\n| **📏 Ranged 10**          | **🎯 One ally** |\n\n**Effect:** The target gains 20 temporary Stamina and 3 surges.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "An ally becomes the wearer of an empowered golden cloak.",
+    "item_id": "saints-raiment",
+    "item_name": "Saint's Raiment",
+    "keywords": [
+      "Magic",
+      "Ranged"
+    ],
+    "level": 3,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment"
+    ],
+    "target": "One ally",
+    "type": "feature/ability/conduit/level-3"
+  },
   "name": "Saint's Raiment",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment",
   "target": "One ally",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

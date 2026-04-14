@@ -1,20 +1,37 @@
-action_type: Main action
-class: conduit
-content: "\n*You ask your saint for thunder and your prayer is answered.*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 10** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 2 sonic damage; push 1\n- **12-16:** 3 sonic damage; push 2\n- **17+:** 5 sonic damage; push 3\n\n**Effect:** You can push each willing ally in the area the same distance, ignoring stability."
 cost: 3 Piety
 distance: 3 cube within 10
-effect: You can push each willing ally in the area the same distance, ignoring stability.
+effects:
+    - roll: Power Roll + Intuition
+      tier1: 2 sonic damage; push 1
+      tier2: 3 sonic damage; push 2
+      tier3: 5 sonic damage; push 3
+    - effect: You can push each willing ally in the area the same distance, ignoring stability.
+      name: Effect
+feature_type: ability
 flavor: You ask your saint for thunder and your prayer is answered.
 keywords:
     - Area
     - Magic
     - Ranged
-level: "1"
+metadata:
+    action_type: Main action
+    class: conduit
+    content: "\n*You ask your saint for thunder and your prayer is answered.*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 10** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 2 sonic damage; push 1\n- **12-16:** 3 sonic damage; push 2\n- **17+:** 5 sonic damage; push 3\n\n**Effect:** You can push each willing ally in the area the same distance, ignoring stability."
+    distance: 3 cube within 10
+    feature_type: ability
+    flavor: You ask your saint for thunder and your prayer is answered.
+    item_id: call-the-thunder-down
+    item_name: Call the Thunder Down
+    keywords:
+        - Area
+        - Magic
+        - Ranged
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down
+    target: Each enemy in the area
+    type: feature/ability/conduit/level-1
 name: Call the Thunder Down
-power_roll_characteristic: Intuition
-scc: mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down
 target: Each enemy in the area
-tier1: 2 sonic damage; push 1
-tier2: 3 sonic damage; push 2
-tier3: 5 sonic damage; push 3
-type: ability
+type: feature
+usage: Main action

@@ -1,19 +1,42 @@
 {
-  "action_type": "Maneuver",
-  "class": "talent",
-  "content": "\n*Your psionic energy surrounds the target and pushes everything else away from them.*\n\n| **Psionic, Ranged, Telekinesis** |            **Maneuver** |\n|----------------------------------|------------------------:|\n| **📏 Ranged 10**                 | **🎯 Self or one ally** |\n\n**Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.\n\n**Strained:** You are weakened (save ends). While you are weakened this way, whenever you are force moved, the forced movement distance gains a +5 bonus.",
   "cost": "5 Clarity",
   "distance": "Ranged 10",
-  "effect": "The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.",
+  "effects": [
+    {
+      "effect": "The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "Your psionic energy surrounds the target and pushes everything else away from them.",
   "keywords": [
     "Psionic",
     "Ranged",
     "Telekinesis"
   ],
-  "level": "1",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "talent",
+    "content": "\n*Your psionic energy surrounds the target and pushes everything else away from them.*\n\n| **Psionic, Ranged, Telekinesis** |            **Maneuver** |\n|----------------------------------|------------------------:|\n| **📏 Ranged 10**                 | **🎯 Self or one ally** |\n\n**Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.\n\n**Strained:** You are weakened (save ends). While you are weakened this way, whenever you are force moved, the forced movement distance gains a +5 bonus.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "Your psionic energy surrounds the target and pushes everything else away from them.",
+    "item_id": "inertia-soak",
+    "item_name": "Inertia Soak",
+    "keywords": [
+      "Psionic",
+      "Ranged",
+      "Telekinesis"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.talent.level-1/inertia-soak"
+    ],
+    "target": "Self or one ally",
+    "type": "feature/ability/talent/level-1"
+  },
   "name": "Inertia Soak",
-  "scc": "mcdm.heroes.v1/feature.ability.talent.level-1/inertia-soak",
   "target": "Self or one ally",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

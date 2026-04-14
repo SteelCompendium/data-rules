@@ -1,18 +1,40 @@
 {
-  "action_type": "Maneuver",
-  "class": "conduit",
-  "content": "\n*You beseech the gods to give your allies what they need to win the day, and the gods answer.*\n\n| **Magic, Ranged**  |      **Maneuver** |\n|--------------------|------------------:|\n| **📏 Ranged 10**   | **🎯 Two allies** |\n\n**Effect:** Each target gains 3 of their Heroic Resource.",
   "cost": "9 Piety",
   "distance": "Ranged 10",
-  "effect": "Each target gains 3 of their Heroic Resource.",
+  "effects": [
+    {
+      "effect": "Each target gains 3 of their Heroic Resource.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You beseech the gods to give your allies what they need to win the day, and the gods answer.",
   "keywords": [
     "Magic",
     "Ranged"
   ],
-  "level": "6",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "conduit",
+    "content": "\n*You beseech the gods to give your allies what they need to win the day, and the gods answer.*\n\n| **Magic, Ranged**  |      **Maneuver** |\n|--------------------|------------------:|\n| **📏 Ranged 10**   | **🎯 Two allies** |\n\n**Effect:** Each target gains 3 of their Heroic Resource.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "You beseech the gods to give your allies what they need to win the day, and the gods answer.",
+    "item_id": "lauded-by-god",
+    "item_name": "Lauded by God",
+    "keywords": [
+      "Magic",
+      "Ranged"
+    ],
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god"
+    ],
+    "target": "Two allies",
+    "type": "feature/ability/conduit/level-6"
+  },
   "name": "Lauded by God",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god",
   "target": "Two allies",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

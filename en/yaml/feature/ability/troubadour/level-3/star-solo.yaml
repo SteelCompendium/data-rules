@@ -1,9 +1,13 @@
-action_type: Main action
-class: troubadour
-content: "\n*Your performance travels and doesn't stop moving until your audience is completely rocked.*\n\n| **Magic, Melee, Ranged, Strike, Weapon** |               **Main action** |\n|------------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**              | **\U0001F3AF One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 + P damage\n- **12-16:** 8 + P damage; push 3\n- **17+:** 11 + P damage; push 5\n\n**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama."
 cost: 7 Drama
 distance: Melee 1 or ranged 10
-effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+effects:
+    - roll: Power Roll + Presence
+      tier1: 5 + P damage
+      tier2: 8 + P damage; push 3
+      tier3: 11 + P damage; push 5
+    - effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+      name: Effect
+feature_type: ability
 flavor: Your performance travels and doesn't stop moving until your audience is completely rocked.
 keywords:
     - Magic
@@ -11,12 +15,27 @@ keywords:
     - Ranged
     - Strike
     - Weapon
-level: "3"
+metadata:
+    action_type: Main action
+    class: troubadour
+    content: "\n*Your performance travels and doesn't stop moving until your audience is completely rocked.*\n\n| **Magic, Melee, Ranged, Strike, Weapon** |               **Main action** |\n|------------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**              | **\U0001F3AF One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 + P damage\n- **12-16:** 8 + P damage; push 3\n- **17+:** 11 + P damage; push 5\n\n**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama."
+    distance: Melee 1 or ranged 10
+    feature_type: ability
+    flavor: Your performance travels and doesn't stop moving until your audience is completely rocked.
+    item_id: star-solo
+    item_name: Star Solo
+    keywords:
+        - Magic
+        - Melee
+        - Ranged
+        - Strike
+        - Weapon
+    level: 3
+    scc:
+        - mcdm.heroes.v1/feature.ability.troubadour.level-3/star-solo
+    target: One creature or object
+    type: feature/ability/troubadour/level-3
 name: Star Solo
-power_roll_characteristic: Presence
-scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/star-solo
 target: One creature or object
-tier1: 5 + P damage
-tier2: 8 + P damage; push 3
-tier3: 11 + P damage; push 5
-type: ability
+type: feature
+usage: Main action

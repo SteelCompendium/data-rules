@@ -1,8 +1,22 @@
 {
-  "class": "conduit",
-  "content": "Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level Conduit Domain Features table.\n\n###### 7th-Level Conduit Domain Features Table\n\n| Domain     | Feature                      |\n|------------|------------------------------|\n| Creation   | Divine Quartermaster         |\n| Death      | Word of Death Deferred       |\n| Fate       | Word of Fate Denied          |\n| Knowledge  | Gods' Library                |\n| Life       | Font of Grace                |\n| Love       | Covenant of the Heart        |\n| Nature     | Nature's Bounty              |\n| Protection | Blessing of Iron             |\n| Storm      | Thunderstruck                |\n| Sun        | Light of the Burning Sun     |\n| Trickery   | Trinity of Trickery          |\n| War        | Your Triumphs Are Remembered |",
-  "level": "7",
+  "effects": [
+    {
+      "effect": "Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level Conduit Domain Features table.\n\n###### 7th-Level Conduit Domain Features Table\n\n| Domain     | Feature                      |\n|------------|------------------------------|\n| Creation   | Divine Quartermaster         |\n| Death      | Word of Death Deferred       |\n| Fate       | Word of Fate Denied          |\n| Knowledge  | Gods' Library                |\n| Life       | Font of Grace                |\n| Love       | Covenant of the Heart        |\n| Nature     | Nature's Bounty              |\n| Protection | Blessing of Iron             |\n| Storm      | Thunderstruck                |\n| Sun        | Light of the Burning Sun     |\n| Trickery   | Trinity of Trickery          |\n| War        | Your Triumphs Are Remembered |"
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "conduit",
+    "feature_type": "trait",
+    "item_id": "7th-level-domain-feature",
+    "item_name": "7th-Level Domain Feature",
+    "level": 7,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.conduit.level-7/7th-level-domain-feature"
+    ],
+    "type": "feature/trait/conduit/level-7"
+  },
   "name": "7th-Level Domain Feature",
-  "scc": "mcdm.heroes.v1/feature.trait.conduit.level-7/7th-level-domain-feature",
-  "type": "trait"
+  "type": "feature"
 }

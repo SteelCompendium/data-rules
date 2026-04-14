@@ -1,15 +1,31 @@
-action_type: Main action
-class: conduit
-content: "\n*Your enemies suffer their fate; your allies embrace their destiny!*\n\n| **Magic, Ranged**  |        **Main action** |\n|--------------------|-----------------------:|\n| **\U0001F4CF Ranged 10**   | **\U0001F3AF Three creatures** |\n\n**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:\n\n- Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.\n- Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls."
 cost: 5 Piety
 distance: Ranged 10
-effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:'
+effects:
+    - effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:'
+      name: Effect
+feature_type: ability
 flavor: Your enemies suffer their fate; your allies embrace their destiny!
 keywords:
     - Magic
     - Ranged
-level: "2"
+metadata:
+    action_type: Main action
+    class: conduit
+    content: "\n*Your enemies suffer their fate; your allies embrace their destiny!*\n\n| **Magic, Ranged**  |        **Main action** |\n|--------------------|-----------------------:|\n| **\U0001F4CF Ranged 10**   | **\U0001F3AF Three creatures** |\n\n**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:\n\n- Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.\n- Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls."
+    distance: Ranged 10
+    feature_type: ability
+    flavor: Your enemies suffer their fate; your allies embrace their destiny!
+    item_id: blessing-of-fate-and-destiny
+    item_name: Blessing of Fate and Destiny
+    keywords:
+        - Magic
+        - Ranged
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny
+    target: Three creatures
+    type: feature/ability/conduit/level-2
 name: Blessing of Fate and Destiny
-scc: mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny
 target: Three creatures
-type: ability
+type: feature
+usage: Main action

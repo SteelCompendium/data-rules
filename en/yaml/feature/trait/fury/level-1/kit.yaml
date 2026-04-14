@@ -1,6 +1,15 @@
-class: fury
-content: 'You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Panther.)'
-level: "1"
+effects:
+    - effect: 'You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Panther.)'
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: kit
+    item_name: Kit
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.level-1/kit
+    type: feature/trait/fury/level-1
 name: Kit
-scc: mcdm.heroes.v1/feature.trait.fury.level-1/kit
-type: trait
+type: feature

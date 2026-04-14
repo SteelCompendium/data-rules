@@ -1,23 +1,48 @@
 {
-  "action_type": "Main action",
-  "class": "conduit",
-  "content": "\n*You summon a divine storm that remains under your control.*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 5 cube within 5**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 2 lightning damage, 2 sonic damage\n- **12-16:** 3 lightning damage, 3 sonic damage\n- **17+:** 5 lightning damage, 5 sonic damage\n\n**Effect:** A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.",
   "cost": "11 Piety",
   "distance": "5 cube within 5",
-  "effect": "A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.",
+  "effects": [
+    {
+      "roll": "Power Roll + Intuition",
+      "tier1": "2 lightning damage, 2 sonic damage",
+      "tier2": "3 lightning damage, 3 sonic damage",
+      "tier3": "5 lightning damage, 5 sonic damage"
+    },
+    {
+      "effect": "A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You summon a divine storm that remains under your control.",
   "keywords": [
     "Area",
     "Magic",
     "Ranged"
   ],
-  "level": "9",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "conduit",
+    "content": "\n*You summon a divine storm that remains under your control.*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 5 cube within 5**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 2 lightning damage, 2 sonic damage\n- **12-16:** 3 lightning damage, 3 sonic damage\n- **17+:** 5 lightning damage, 5 sonic damage\n\n**Effect:** A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.",
+    "distance": "5 cube within 5",
+    "feature_type": "ability",
+    "flavor": "You summon a divine storm that remains under your control.",
+    "item_id": "godstorm",
+    "item_name": "Godstorm",
+    "keywords": [
+      "Area",
+      "Magic",
+      "Ranged"
+    ],
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-9/godstorm"
+    ],
+    "target": "Each enemy in the area",
+    "type": "feature/ability/conduit/level-9"
+  },
   "name": "Godstorm",
-  "power_roll_characteristic": "Intuition",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-9/godstorm",
   "target": "Each enemy in the area",
-  "tier1": "2 lightning damage, 2 sonic damage",
-  "tier2": "3 lightning damage, 3 sonic damage",
-  "tier3": "5 lightning damage, 5 sonic damage",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

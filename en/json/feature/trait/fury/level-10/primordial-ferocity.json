@@ -1,8 +1,22 @@
 {
-  "class": "fury",
-  "content": "The first time you take damage each combat round, you gain 3 ferocity instead of 2.",
-  "level": "10",
+  "effects": [
+    {
+      "effect": "The first time you take damage each combat round, you gain 3 ferocity instead of 2."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "primordial-ferocity",
+    "item_name": "Primordial Ferocity",
+    "level": 10,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.level-10/primordial-ferocity"
+    ],
+    "type": "feature/trait/fury/level-10"
+  },
   "name": "Primordial Ferocity",
-  "scc": "mcdm.heroes.v1/feature.trait.fury.level-10/primordial-ferocity",
-  "type": "trait"
+  "type": "feature"
 }

@@ -1,19 +1,42 @@
 {
-  "action_type": "Main action",
-  "class": "shadow",
-  "content": "\n*They have no idea what the college taught you.*\n\n| **Magic, Melee, Ranged** | **Main action** |\n|------------------------|----------------:|\n| **📏 Self; see below** |     **🎯 Self** |\n\n**Effect:** You use a strike signature ability twice.",
   "cost": "5 Insight",
   "distance": "Self; see below",
-  "effect": "You use a strike signature ability twice.",
+  "effects": [
+    {
+      "effect": "You use a strike signature ability twice.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "They have no idea what the college taught you.",
   "keywords": [
     "Magic",
     "Melee",
     "Ranged"
   ],
-  "level": "1",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "shadow",
+    "content": "\n*They have no idea what the college taught you.*\n\n| **Magic, Melee, Ranged** | **Main action** |\n|------------------------|----------------:|\n| **📏 Self; see below** |     **🎯 Self** |\n\n**Effect:** You use a strike signature ability twice.",
+    "distance": "Self; see below",
+    "feature_type": "ability",
+    "flavor": "They have no idea what the college taught you.",
+    "item_id": "shadowstrike",
+    "item_name": "Shadowstrike",
+    "keywords": [
+      "Magic",
+      "Melee",
+      "Ranged"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.shadow.level-1/shadowstrike"
+    ],
+    "target": "Self",
+    "type": "feature/ability/shadow/level-1"
+  },
   "name": "Shadowstrike",
-  "scc": "mcdm.heroes.v1/feature.ability.shadow.level-1/shadowstrike",
   "target": "Self",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

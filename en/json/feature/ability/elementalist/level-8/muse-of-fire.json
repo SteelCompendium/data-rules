@@ -1,10 +1,19 @@
 {
-  "action_type": "Main action",
-  "class": "elementalist",
-  "content": "\n*The fire burns hot enough to sear the face of any god watching.*\n\n| **Area, Fire, Magic, Ranged** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **📏 5 cube within 10**       | **🎯 Each enemy in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 7 fire damage; the Director loses 2 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*)\n- **12-16:** 10 fire damage; the Director loses 3 Malice\n- **17+:** 15 fire damage; the Director loses 4 Malice\n\n**Effect:** The Director's Malice can become negative as a result of this ability.",
   "cost": "11 Essence",
   "distance": "5 cube within 10",
-  "effect": "The Director's Malice can become negative as a result of this ability.",
+  "effects": [
+    {
+      "roll": "Power Roll + Reason",
+      "tier1": "7 fire damage; the Director loses 2 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*)",
+      "tier2": "10 fire damage; the Director loses 3 Malice",
+      "tier3": "15 fire damage; the Director loses 4 Malice"
+    },
+    {
+      "effect": "The Director's Malice can become negative as a result of this ability.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "The fire burns hot enough to sear the face of any god watching.",
   "keywords": [
     "Area",
@@ -12,13 +21,30 @@
     "Magic",
     "Ranged"
   ],
-  "level": "8",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "elementalist",
+    "content": "\n*The fire burns hot enough to sear the face of any god watching.*\n\n| **Area, Fire, Magic, Ranged** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **📏 5 cube within 10**       | **🎯 Each enemy in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 7 fire damage; the Director loses 2 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*)\n- **12-16:** 10 fire damage; the Director loses 3 Malice\n- **17+:** 15 fire damage; the Director loses 4 Malice\n\n**Effect:** The Director's Malice can become negative as a result of this ability.",
+    "distance": "5 cube within 10",
+    "feature_type": "ability",
+    "flavor": "The fire burns hot enough to sear the face of any god watching.",
+    "item_id": "muse-of-fire",
+    "item_name": "Muse of Fire",
+    "keywords": [
+      "Area",
+      "Fire",
+      "Magic",
+      "Ranged"
+    ],
+    "level": 8,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire"
+    ],
+    "target": "Each enemy in the area",
+    "type": "feature/ability/elementalist/level-8"
+  },
   "name": "Muse of Fire",
-  "power_roll_characteristic": "Reason",
-  "scc": "mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire",
   "target": "Each enemy in the area",
-  "tier1": "7 fire damage; the Director loses 2 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*)",
-  "tier2": "10 fire damage; the Director loses 3 Malice",
-  "tier3": "15 fire damage; the Director loses 4 Malice",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

@@ -1,15 +1,24 @@
-class: talent
-content: |-
-    Your talent tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+effects:
+    - effect: |-
+        Your talent tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
-    ###### 1st-Level Tradition Features Table
+        ###### 1st-Level Tradition Features Table
 
-    | Tradition   | Features                         |
-    |-------------|----------------------------------|
-    | Chronopathy | Accelerate, Again                |
-    | Telekinesis | Minor Telekinesis, Repel         |
-    | Telepathy   | Feedback Loop, Remote Assistance |
-level: "1"
+        | Tradition   | Features                         |
+        |-------------|----------------------------------|
+        | Chronopathy | Accelerate, Again                |
+        | Telekinesis | Minor Telekinesis, Repel         |
+        | Telepathy   | Feedback Loop, Remote Assistance |
+feature_type: trait
+metadata:
+    action_type: feature
+    class: talent
+    feature_type: trait
+    item_id: 1st-level-tradition-features
+    item_name: 1st-Level Tradition Features
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.trait.talent.level-1/1st-level-tradition-features
+    type: feature/trait/talent/level-1
 name: 1st-Level Tradition Features
-scc: mcdm.heroes.v1/feature.trait.talent.level-1/1st-level-tradition-features
-type: trait
+type: feature

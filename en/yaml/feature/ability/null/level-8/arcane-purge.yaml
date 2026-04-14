@@ -1,21 +1,39 @@
-action_type: Main action
-class: "null"
-content: "\n*You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 13 + A damage; M < WEAK, the target is suppressed (save ends)\n- **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)\n- **17+:** 24 + A damage; M < STRONG, the target is suppressed (save ends)\n\n**Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice."
 cost: 11 Discipline
 distance: Melee 1
-effect: While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+effects:
+    - roll: Power Roll + Agility
+      tier1: 13 + A damage; M < WEAK, the target is suppressed (save ends)
+      tier2: 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
+      tier3: 24 + A damage; M < STRONG, the target is suppressed (save ends)
+    - effect: While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+      name: Effect
+feature_type: ability
 flavor: You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.
 keywords:
     - Melee
     - Psionic
     - Strike
     - Weapon
-level: "8"
+metadata:
+    action_type: Main action
+    class: "null"
+    content: "\n*You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 13 + A damage; M < WEAK, the target is suppressed (save ends)\n- **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)\n- **17+:** 24 + A damage; M < STRONG, the target is suppressed (save ends)\n\n**Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice."
+    distance: Melee 1
+    feature_type: ability
+    flavor: You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.
+    item_id: arcane-purge
+    item_name: Arcane Purge
+    keywords:
+        - Melee
+        - Psionic
+        - Strike
+        - Weapon
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge
+    target: One creature
+    type: feature/ability/null/level-8
 name: Arcane Purge
-power_roll_characteristic: Agility
-scc: mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge
 target: One creature
-tier1: 13 + A damage; M < WEAK, the target is suppressed (save ends)
-tier2: 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
-tier3: 24 + A damage; M < STRONG, the target is suppressed (save ends)
-type: ability
+type: feature
+usage: Main action

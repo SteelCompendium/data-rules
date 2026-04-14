@@ -1,8 +1,22 @@
 {
-  "class": "elementalist",
-  "content": "Through your studies, you know and can manipulate the seven primal elements of the timescape:\n\n- **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and breath.\n- **Earth** is the element of permanence. Earth abilities bolster your body and grant the power to permanently create and shape physical terrain.\n- **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.\n- **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.\n- **Rot** is the element of decay. Rot abilities harm and debuff enemies.\n- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.\n- **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.\n\nYou choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)",
-  "level": "1",
+  "effects": [
+    {
+      "effect": "Through your studies, you know and can manipulate the seven primal elements of the timescape:\n\n- **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and breath.\n- **Earth** is the element of permanence. Earth abilities bolster your body and grant the power to permanently create and shape physical terrain.\n- **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.\n- **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.\n- **Rot** is the element of decay. Rot abilities harm and debuff enemies.\n- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.\n- **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.\n\nYou choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)"
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "elementalist",
+    "feature_type": "trait",
+    "item_id": "elemental-specialization",
+    "item_name": "Elemental Specialization",
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization"
+    ],
+    "type": "feature/trait/elementalist/level-1"
+  },
   "name": "Elemental Specialization",
-  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization",
-  "type": "trait"
+  "type": "feature"
 }

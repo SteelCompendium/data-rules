@@ -1,6 +1,15 @@
-class: troubadour
-content: You gain one skill of your choice.
-level: "7"
+effects:
+    - effect: You gain one skill of your choice.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: troubadour
+    feature_type: trait
+    item_id: skill
+    item_name: Skill
+    level: 7
+    scc:
+        - mcdm.heroes.v1/feature.trait.troubadour.level-7/skill
+    type: feature/trait/troubadour/level-7
 name: Skill
-scc: mcdm.heroes.v1/feature.trait.troubadour.level-7/skill
-type: trait
+type: feature

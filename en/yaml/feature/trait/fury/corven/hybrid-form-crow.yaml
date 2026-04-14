@@ -1,6 +1,15 @@
-class: fury
-content: While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.
-kit: corven
+effects:
+    - effect: While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: hybrid-form-crow
+    item_name: 'Hybrid Form: Crow'
+    kit: corven
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.corven/hybrid-form-crow
+    type: feature/trait/fury/corven
 name: 'Hybrid Form: Crow'
-scc: mcdm.heroes.v1/feature.trait.fury.corven/hybrid-form-crow
-type: trait
+type: feature

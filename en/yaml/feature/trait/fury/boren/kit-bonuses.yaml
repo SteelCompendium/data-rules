@@ -1,9 +1,18 @@
-class: fury
-content: |-
-    - **Stamina Bonus:** +9 per echelon
-    - **Stability Bonus:** +2
-    - **Melee Damage Bonus:** +0/+0/+4
-kit: boren
+effects:
+    - effect: |-
+        - **Stamina Bonus:** +9 per echelon
+        - **Stability Bonus:** +2
+        - **Melee Damage Bonus:** +0/+0/+4
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: kit-bonuses
+    item_name: Kit Bonuses
+    kit: boren
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.boren/kit-bonuses
+    type: feature/trait/fury/boren
 name: Kit Bonuses
-scc: mcdm.heroes.v1/feature.trait.fury.boren/kit-bonuses
-type: trait
+type: feature

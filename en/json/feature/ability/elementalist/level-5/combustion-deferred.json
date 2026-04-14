@@ -1,10 +1,19 @@
 {
-  "action_type": "Main action",
-  "class": "elementalist",
-  "content": "\n*Your flames dance from kindling to kindling to kindling.*\n\n| **Fire, Magic, Ranged, Strike** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **📏 Ranged 10**                | **🎯 One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 8 + R fire damage\n- **12-16:** 13 + R fire damage\n- **17+:** 17 + R fire damage\n\n**Effect:** When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.",
   "cost": "9 Essence",
   "distance": "Ranged 10",
-  "effect": "When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.",
+  "effects": [
+    {
+      "roll": "Power Roll + Reason",
+      "tier1": "8 + R fire damage",
+      "tier2": "13 + R fire damage",
+      "tier3": "17 + R fire damage"
+    },
+    {
+      "effect": "When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "Your flames dance from kindling to kindling to kindling.",
   "keywords": [
     "Fire",
@@ -12,13 +21,30 @@
     "Ranged",
     "Strike"
   ],
-  "level": "5",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "elementalist",
+    "content": "\n*Your flames dance from kindling to kindling to kindling.*\n\n| **Fire, Magic, Ranged, Strike** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **📏 Ranged 10**                | **🎯 One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 8 + R fire damage\n- **12-16:** 13 + R fire damage\n- **17+:** 17 + R fire damage\n\n**Effect:** When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "Your flames dance from kindling to kindling to kindling.",
+    "item_id": "combustion-deferred",
+    "item_name": "Combustion Deferred",
+    "keywords": [
+      "Fire",
+      "Magic",
+      "Ranged",
+      "Strike"
+    ],
+    "level": 5,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.elementalist.level-5/combustion-deferred"
+    ],
+    "target": "One creature or object",
+    "type": "feature/ability/elementalist/level-5"
+  },
   "name": "Combustion Deferred",
-  "power_roll_characteristic": "Reason",
-  "scc": "mcdm.heroes.v1/feature.ability.elementalist.level-5/combustion-deferred",
   "target": "One creature or object",
-  "tier1": "8 + R fire damage",
-  "tier2": "13 + R fire damage",
-  "tier3": "17 + R fire damage",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

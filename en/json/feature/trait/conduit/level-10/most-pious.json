@@ -1,8 +1,22 @@
 {
-  "class": "conduit",
-  "content": "When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety.",
-  "level": "10",
+  "effects": [
+    {
+      "effect": "When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "conduit",
+    "feature_type": "trait",
+    "item_id": "most-pious",
+    "item_name": "Most Pious",
+    "level": 10,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.conduit.level-10/most-pious"
+    ],
+    "type": "feature/trait/conduit/level-10"
+  },
   "name": "Most Pious",
-  "scc": "mcdm.heroes.v1/feature.trait.conduit.level-10/most-pious",
-  "type": "trait"
+  "type": "feature"
 }

@@ -1,6 +1,15 @@
-class: talent
-content: Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while prone.
-level: "8"
+effects:
+    - effect: Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while prone.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: talent
+    feature_type: trait
+    item_id: low-gravity
+    item_name: Low Gravity
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.trait.talent.level-8/low-gravity
+    type: feature/trait/talent/level-8
 name: Low Gravity
-scc: mcdm.heroes.v1/feature.trait.talent.level-8/low-gravity
-type: trait
+type: feature

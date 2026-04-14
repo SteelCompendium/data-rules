@@ -1,6 +1,15 @@
-class: censor
-content: You have the following ability.
-level: "1"
+effects:
+    - effect: You have the following ability.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: censor
+    feature_type: trait
+    item_id: faithful-friend
+    item_name: Faithful Friend
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.trait.censor.level-1/faithful-friend
+    type: feature/trait/censor/level-1
 name: Faithful Friend
-scc: mcdm.heroes.v1/feature.trait.censor.level-1/faithful-friend
-type: trait
+type: feature

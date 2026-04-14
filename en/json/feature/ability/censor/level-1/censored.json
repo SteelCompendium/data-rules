@@ -1,23 +1,48 @@
 {
-  "action_type": "Main action",
-  "class": "censor",
-  "content": "\n*Judged and sentenced.*\n\n| **Melee, Strike, Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Melee 1**             |           **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M holy damage\n- **12-16:** 3 + M holy damage\n- **17+:** 5 + M holy damage\n\n**Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.",
   "cost": "5 Wrath",
   "distance": "Melee 1",
-  "effect": "When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.",
+  "effects": [
+    {
+      "roll": "Power Roll + Might",
+      "tier1": "2 + M holy damage",
+      "tier2": "3 + M holy damage",
+      "tier3": "5 + M holy damage"
+    },
+    {
+      "effect": "When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "Judged and sentenced.",
   "keywords": [
     "Melee",
     "Strike",
     "Weapon"
   ],
-  "level": "1",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "censor",
+    "content": "\n*Judged and sentenced.*\n\n| **Melee, Strike, Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Melee 1**             |           **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M holy damage\n- **12-16:** 3 + M holy damage\n- **17+:** 5 + M holy damage\n\n**Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.",
+    "distance": "Melee 1",
+    "feature_type": "ability",
+    "flavor": "Judged and sentenced.",
+    "item_id": "censored",
+    "item_name": "Censored",
+    "keywords": [
+      "Melee",
+      "Strike",
+      "Weapon"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.censor.level-1/censored"
+    ],
+    "target": "One creature",
+    "type": "feature/ability/censor/level-1"
+  },
   "name": "Censored",
-  "power_roll_characteristic": "Might",
-  "scc": "mcdm.heroes.v1/feature.ability.censor.level-1/censored",
   "target": "One creature",
-  "tier1": "2 + M holy damage",
-  "tier2": "3 + M holy damage",
-  "tier3": "5 + M holy damage",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

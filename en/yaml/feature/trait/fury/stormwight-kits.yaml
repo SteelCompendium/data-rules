@@ -1,5 +1,14 @@
-class: fury
-content: 'The stormwight primordial aspect lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).'
+effects:
+    - effect: 'The stormwight primordial aspect lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).'
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: stormwight-kits
+    item_name: Stormwight Kits
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury/stormwight-kits
+    type: feature/trait/fury
 name: Stormwight Kits
-scc: mcdm.heroes.v1/feature.trait.fury/stormwight-kits
-type: trait
+type: feature

@@ -1,16 +1,32 @@
-action_type: Free triggered
-class: "null"
-content: "\n*You show shadows what true speed is.*\n\n| **Psionic** | **Free triggered** |\n|-------------|-------------------:|\n| **\U0001F4CF Self** |        **\U0001F3AF Self** |\n\n**Trigger:** Another creature on the encounter map ends their turn.\n\n**Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.\n\n##### 9th-Level Cryokinetic Abilities\n\nChoose one of the following abilities."
+ability_type: Triggered
 cost: 11 Discipline
 distance: Self
-effect: You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
+effects:
+    - effect: You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
+      name: Effect
+feature_type: ability
 flavor: You show shadows what true speed is.
 keywords:
     - Psionic
-level: "9"
+metadata:
+    ability_type: Triggered
+    action_type: Free triggered
+    class: "null"
+    content: "\n*You show shadows what true speed is.*\n\n| **Psionic** | **Free triggered** |\n|-------------|-------------------:|\n| **\U0001F4CF Self** |        **\U0001F3AF Self** |\n\n**Trigger:** Another creature on the encounter map ends their turn.\n\n**Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.\n\n##### 9th-Level Cryokinetic Abilities\n\nChoose one of the following abilities."
+    distance: Self
+    feature_type: ability
+    flavor: You show shadows what true speed is.
+    item_id: time-loop
+    item_name: Time Loop
+    keywords:
+        - Psionic
+    level: 9
+    scc:
+        - mcdm.heroes.v1/feature.ability.null.level-9/time-loop
+    target: Self
+    type: feature/ability/null/level-9
 name: Time Loop
-scc: mcdm.heroes.v1/feature.ability.null.level-9/time-loop
-subtype: triggered
 target: Self
 trigger: Another creature on the encounter map ends their turn.
-type: ability
+type: feature
+usage: Free triggered

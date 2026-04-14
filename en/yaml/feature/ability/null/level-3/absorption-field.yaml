@@ -1,14 +1,29 @@
-action_type: Maneuver
-class: "null"
-content: "\n*Your null field absorbs kinetic energy.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls."
 cost: 7 Discipline
 distance: Self
-effect: Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+effects:
+    - effect: Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+      name: Effect
+feature_type: ability
 flavor: Your null field absorbs kinetic energy.
 keywords:
     - Psionic
-level: "3"
+metadata:
+    action_type: Maneuver
+    class: "null"
+    content: "\n*Your null field absorbs kinetic energy.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls."
+    distance: Self
+    feature_type: ability
+    flavor: Your null field absorbs kinetic energy.
+    item_id: absorption-field
+    item_name: Absorption Field
+    keywords:
+        - Psionic
+    level: 3
+    scc:
+        - mcdm.heroes.v1/feature.ability.null.level-3/absorption-field
+    target: Self
+    type: feature/ability/null/level-3
 name: Absorption Field
-scc: mcdm.heroes.v1/feature.ability.null.level-3/absorption-field
 target: Self
-type: ability
+type: feature
+usage: Maneuver

@@ -1,15 +1,24 @@
-class: shadow
-content: |-
-    Your shadow college grants you a feature, as shown on the 5th-Level College Features table.
+effects:
+    - effect: |-
+        Your shadow college grants you a feature, as shown on the 5th-Level College Features table.
 
-    ###### 5th-Level College Features Table
+        ###### 5th-Level College Features Table
 
-    | College         | Feature           |
-    |-----------------|-------------------|
-    | Black Ash       | Trail of Cinders  |
-    | Caustic Alchemy | Volatile Reagents |
-    | Harlequin Mask  | Harlequin Gambit  |
-level: "5"
+        | College         | Feature           |
+        |-----------------|-------------------|
+        | Black Ash       | Trail of Cinders  |
+        | Caustic Alchemy | Volatile Reagents |
+        | Harlequin Mask  | Harlequin Gambit  |
+feature_type: trait
+metadata:
+    action_type: feature
+    class: shadow
+    feature_type: trait
+    item_id: 5th-level-college-feature
+    item_name: 5th-Level College Feature
+    level: 5
+    scc:
+        - mcdm.heroes.v1/feature.trait.shadow.level-5/5th-level-college-feature
+    type: feature/trait/shadow/level-5
 name: 5th-Level College Feature
-scc: mcdm.heroes.v1/feature.trait.shadow.level-5/5th-level-college-feature
-type: trait
+type: feature

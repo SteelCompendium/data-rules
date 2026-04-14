@@ -1,6 +1,15 @@
-class: "null"
-content: You gain one exploration, interpersonal, or intrigue perk of your choice.
-level: "10"
+effects:
+    - effect: You gain one exploration, interpersonal, or intrigue perk of your choice.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: "null"
+    feature_type: trait
+    item_id: perk
+    item_name: Perk
+    level: 10
+    scc:
+        - mcdm.heroes.v1/feature.trait.null.level-10/perk
+    type: feature/trait/null/level-10
 name: Perk
-scc: mcdm.heroes.v1/feature.trait.null.level-10/perk
-type: trait
+type: feature

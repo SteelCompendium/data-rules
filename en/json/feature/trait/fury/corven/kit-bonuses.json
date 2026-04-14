@@ -1,8 +1,22 @@
 {
-  "class": "fury",
-  "content": "- **Stamina Bonus:** +3 per echelon\n- **Speed Bonus:** +3\n- **Melee Damage Bonus:** +2/+2/+2\n- **Disengage Bonus:** +1",
-  "kit": "corven",
+  "effects": [
+    {
+      "effect": "- **Stamina Bonus:** +3 per echelon\n- **Speed Bonus:** +3\n- **Melee Damage Bonus:** +2/+2/+2\n- **Disengage Bonus:** +1"
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "kit-bonuses",
+    "item_name": "Kit Bonuses",
+    "kit": "corven",
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.corven/kit-bonuses"
+    ],
+    "type": "feature/trait/fury/corven"
+  },
   "name": "Kit Bonuses",
-  "scc": "mcdm.heroes.v1/feature.trait.fury.corven/kit-bonuses",
-  "type": "trait"
+  "type": "feature"
 }

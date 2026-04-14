@@ -1,8 +1,22 @@
 {
-  "class": "talent",
-  "content": "Your talent tradition grants you two features, as shown on the 8th-Level Tradition Features table.\n\n###### 8th-Level Tradition Features Table\n\n| Tradition   | Features                          |\n|-------------|-----------------------------------|\n| Chronopathy | Doubling the Hours, Stasis Shield |\n| Telekinesis | Levitation Field, Low Gravity     |\n| Telepathy   | Mindlink, Universal Connection    |",
-  "level": "8",
+  "effects": [
+    {
+      "effect": "Your talent tradition grants you two features, as shown on the 8th-Level Tradition Features table.\n\n###### 8th-Level Tradition Features Table\n\n| Tradition   | Features                          |\n|-------------|-----------------------------------|\n| Chronopathy | Doubling the Hours, Stasis Shield |\n| Telekinesis | Levitation Field, Low Gravity     |\n| Telepathy   | Mindlink, Universal Connection    |"
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "talent",
+    "feature_type": "trait",
+    "item_id": "8th-level-tradition-features",
+    "item_name": "8th-Level Tradition Features",
+    "level": 8,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.talent.level-8/8th-level-tradition-features"
+    ],
+    "type": "feature/trait/talent/level-8"
+  },
   "name": "8th-Level Tradition Features",
-  "scc": "mcdm.heroes.v1/feature.trait.talent.level-8/8th-level-tradition-features",
-  "type": "trait"
+  "type": "feature"
 }

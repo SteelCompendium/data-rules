@@ -1,8 +1,22 @@
 {
-  "class": "conduit",
-  "content": "Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.\n\n###### 4th-Level Conduit Domain Features Table\n\n| Domain     | Feature                     |\n|------------|-----------------------------|\n| Creation   | Improved Hands of the Maker |\n| Death      | Seance                      |\n| Fate       | Oracular Warning            |\n| Knowledge  | Saint's Epiphany            |\n| Life       | Blessing of Life            |\n| Love       | Invocation of the Heart     |\n| Nature     | Wode Road                   |\n| Protection | Impervious Touch            |\n| Storm      | Windwalk                    |\n| Sun        | Light of Revelation         |\n| Trickery   | Blessing of Secrets         |\n| War        | Improved Sanctified Weapon  |\n\n###### Blessing of Life\n\nYour divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your Healing Grace ability regains Stamina, they regain additional Stamina equal to your Intuition score.\n\n###### Blessing of Secrets\n\nYou have the following ability.",
-  "level": "4",
+  "effects": [
+    {
+      "effect": "Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.\n\n###### 4th-Level Conduit Domain Features Table\n\n| Domain     | Feature                     |\n|------------|-----------------------------|\n| Creation   | Improved Hands of the Maker |\n| Death      | Seance                      |\n| Fate       | Oracular Warning            |\n| Knowledge  | Saint's Epiphany            |\n| Life       | Blessing of Life            |\n| Love       | Invocation of the Heart     |\n| Nature     | Wode Road                   |\n| Protection | Impervious Touch            |\n| Storm      | Windwalk                    |\n| Sun        | Light of Revelation         |\n| Trickery   | Blessing of Secrets         |\n| War        | Improved Sanctified Weapon  |\n\n###### Blessing of Life\n\nYour divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your Healing Grace ability regains Stamina, they regain additional Stamina equal to your Intuition score.\n\n###### Blessing of Secrets\n\nYou have the following ability."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "conduit",
+    "feature_type": "trait",
+    "item_id": "4th-level-domain-feature",
+    "item_name": "4th-Level Domain Feature",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.conduit.level-4/4th-level-domain-feature"
+    ],
+    "type": "feature/trait/conduit/level-4"
+  },
   "name": "4th-Level Domain Feature",
-  "scc": "mcdm.heroes.v1/feature.trait.conduit.level-4/4th-level-domain-feature",
-  "type": "trait"
+  "type": "feature"
 }

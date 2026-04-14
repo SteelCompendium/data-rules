@@ -1,8 +1,22 @@
 {
-  "class": "elementalist",
-  "content": "Your elemental specialization grants you a feature, as shown on the 3rd-Level Elemental Specialization Features table.\n\n###### 3rd-Level Elemental Specialization Features Table\n\n| Specialization | Feature                          |\n|----------------|----------------------------------|\n| Earth          | Earth Accepts Me                 |\n| Fire           | A Conversation With Fire         |\n| Green          | Remember Growth and Sun and Rain |\n| Void           | Distance Is Only Memory          |",
-  "level": "3",
+  "effects": [
+    {
+      "effect": "Your elemental specialization grants you a feature, as shown on the 3rd-Level Elemental Specialization Features table.\n\n###### 3rd-Level Elemental Specialization Features Table\n\n| Specialization | Feature                          |\n|----------------|----------------------------------|\n| Earth          | Earth Accepts Me                 |\n| Fire           | A Conversation With Fire         |\n| Green          | Remember Growth and Sun and Rain |\n| Void           | Distance Is Only Memory          |"
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "elementalist",
+    "feature_type": "trait",
+    "item_id": "3rd-level-specialization-feature",
+    "item_name": "3rd-Level Specialization Feature",
+    "level": 3,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.elementalist.level-3/3rd-level-specialization-feature"
+    ],
+    "type": "feature/trait/elementalist/level-3"
+  },
   "name": "3rd-Level Specialization Feature",
-  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-3/3rd-level-specialization-feature",
-  "type": "trait"
+  "type": "feature"
 }

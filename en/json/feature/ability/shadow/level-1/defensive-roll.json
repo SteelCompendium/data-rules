@@ -1,19 +1,44 @@
 {
-  "action_type": "Triggered",
-  "class": "shadow",
-  "content": "\n*When an enemy attacks, you roll with the impact to reduce the harm.*\n\n| **-**       | **Triggered** |\n|-------------|--------------:|\n| **📏 Self** |   **🎯 Self** |\n\n**Trigger:** Another creature damages you.\n\n**Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.\n\n**Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.",
+  "ability_type": "Triggered",
   "distance": "Self",
-  "effect": "You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.",
+  "effects": [
+    {
+      "effect": "You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.",
+      "name": "Effect"
+    },
+    {
+      "cost": "Spend 1 Insight",
+      "effect": "The potency of any effects associated with the damage are reduced by 1 for you."
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "When an enemy attacks, you roll with the impact to reduce the harm.",
   "keywords": [
     "-"
   ],
-  "level": "1",
+  "metadata": {
+    "ability_type": "Triggered",
+    "action_type": "Triggered",
+    "class": "shadow",
+    "content": "\n*When an enemy attacks, you roll with the impact to reduce the harm.*\n\n| **-**       | **Triggered** |\n|-------------|--------------:|\n| **📏 Self** |   **🎯 Self** |\n\n**Trigger:** Another creature damages you.\n\n**Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.\n\n**Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.",
+    "distance": "Self",
+    "feature_type": "ability",
+    "flavor": "When an enemy attacks, you roll with the impact to reduce the harm.",
+    "item_id": "defensive-roll",
+    "item_name": "Defensive Roll",
+    "keywords": [
+      "-"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll"
+    ],
+    "target": "Self",
+    "type": "feature/ability/shadow/level-1"
+  },
   "name": "Defensive Roll",
-  "scc": "mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll",
-  "spend": "1 Insight: The potency of any effects associated with the damage are reduced by 1 for you.",
-  "subtype": "triggered",
   "target": "Self",
   "trigger": "Another creature damages you.",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Triggered"
 }

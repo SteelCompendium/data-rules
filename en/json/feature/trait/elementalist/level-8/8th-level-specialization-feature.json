@@ -1,8 +1,22 @@
 {
-  "class": "elementalist",
-  "content": "Your elemental specialization grants you a feature, as shown on the 8th-Level Elemental Specialization Features table.\n\n###### 8th-Level Elemental Specialization Features Table\n\n| Specialization | Feature                |\n|----------------|------------------------|\n| Earth          | Summon Source of Earth |\n| Fire           | The Flame Primordial   |\n| Green          | Chimeric Manifestation |\n| Void           | Black Hole Star        |",
-  "level": "8",
+  "effects": [
+    {
+      "effect": "Your elemental specialization grants you a feature, as shown on the 8th-Level Elemental Specialization Features table.\n\n###### 8th-Level Elemental Specialization Features Table\n\n| Specialization | Feature                |\n|----------------|------------------------|\n| Earth          | Summon Source of Earth |\n| Fire           | The Flame Primordial   |\n| Green          | Chimeric Manifestation |\n| Void           | Black Hole Star        |"
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "elementalist",
+    "feature_type": "trait",
+    "item_id": "8th-level-specialization-feature",
+    "item_name": "8th-Level Specialization Feature",
+    "level": 8,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.elementalist.level-8/8th-level-specialization-feature"
+    ],
+    "type": "feature/trait/elementalist/level-8"
+  },
   "name": "8th-Level Specialization Feature",
-  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-8/8th-level-specialization-feature",
-  "type": "trait"
+  "type": "feature"
 }

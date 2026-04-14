@@ -1,8 +1,22 @@
 {
-  "class": "tactician",
-  "content": "You have mastered the entirety of possible strategies and tactics. Whenever you or any ally makes an ability roll against a target marked by you, the character making the roll can roll three dice and choose which two to use.\n\nAdditionally, whenever an ally uses a heroic ability that targets one or more creatures marked by you, they spend 2 fewer of their Heroic Resource on that ability (minimum 1).",
-  "level": "10",
+  "effects": [
+    {
+      "effect": "You have mastered the entirety of possible strategies and tactics. Whenever you or any ally makes an ability roll against a target marked by you, the character making the roll can roll three dice and choose which two to use.\n\nAdditionally, whenever an ally uses a heroic ability that targets one or more creatures marked by you, they spend 2 fewer of their Heroic Resource on that ability (minimum 1)."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "tactician",
+    "feature_type": "trait",
+    "item_id": "warmaster",
+    "item_name": "Warmaster",
+    "level": 10,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.tactician.level-10/warmaster"
+    ],
+    "type": "feature/trait/tactician/level-10"
+  },
   "name": "Warmaster",
-  "scc": "mcdm.heroes.v1/feature.trait.tactician.level-10/warmaster",
-  "type": "trait"
+  "type": "feature"
 }

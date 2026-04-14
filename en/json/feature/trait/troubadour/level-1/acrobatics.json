@@ -1,8 +1,22 @@
 {
-  "class": "troubadour",
-  "content": "You have the following performance ability, which is usable with your Routines feature.",
-  "level": "1",
+  "effects": [
+    {
+      "effect": "You have the following performance ability, which is usable with your Routines feature."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "troubadour",
+    "feature_type": "trait",
+    "item_id": "acrobatics",
+    "item_name": "Acrobatics",
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.troubadour.level-1/acrobatics"
+    ],
+    "type": "feature/trait/troubadour/level-1"
+  },
   "name": "Acrobatics",
-  "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-1/acrobatics",
-  "type": "trait"
+  "type": "feature"
 }

@@ -1,8 +1,11 @@
-action_type: Main action
-class: shadow
-content: "\n*You enchant a strike with your teleportation magic.*\n\n| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |\n|------------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**               | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 + A damage; you can teleport the target 1 square\n- **12-16:** 10 + A damage; you can teleport the target up to 3 squares\n- **17+:** 14 + A damage; you can teleport the target up to 5 squares"
 cost: 5 Insight
 distance: Melee 1 or ranged 5
+effects:
+    - roll: Power Roll + Agility
+      tier1: 6 + A damage; you can teleport the target 1 square
+      tier2: 10 + A damage; you can teleport the target up to 3 squares
+      tier3: 14 + A damage; you can teleport the target up to 5 squares
+feature_type: ability
 flavor: You enchant a strike with your teleportation magic.
 keywords:
     - Magic
@@ -10,12 +13,27 @@ keywords:
     - Ranged
     - Strike
     - Weapon
-level: "2"
+metadata:
+    action_type: Main action
+    class: shadow
+    content: "\n*You enchant a strike with your teleportation magic.*\n\n| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |\n|------------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**               | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 + A damage; you can teleport the target 1 square\n- **12-16:** 10 + A damage; you can teleport the target up to 3 squares\n- **17+:** 14 + A damage; you can teleport the target up to 5 squares"
+    distance: Melee 1 or ranged 5
+    feature_type: ability
+    flavor: You enchant a strike with your teleportation magic.
+    item_id: in-a-puff-of-ash
+    item_name: In a Puff of Ash
+    keywords:
+        - Magic
+        - Melee
+        - Ranged
+        - Strike
+        - Weapon
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash
+    target: One creature
+    type: feature/ability/shadow/level-2
 name: In a Puff of Ash
-power_roll_characteristic: Agility
-scc: mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash
 target: One creature
-tier1: 6 + A damage; you can teleport the target 1 square
-tier2: 10 + A damage; you can teleport the target up to 3 squares
-tier3: 14 + A damage; you can teleport the target up to 5 squares
-type: ability
+type: feature
+usage: Main action

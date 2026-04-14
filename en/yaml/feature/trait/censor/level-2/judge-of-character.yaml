@@ -1,6 +1,15 @@
-class: censor
-content: Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an Intuition test, you can make a Presence test instead.
-level: "2"
+effects:
+    - effect: Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an Intuition test, you can make a Presence test instead.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: censor
+    feature_type: trait
+    item_id: judge-of-character
+    item_name: Judge of Character
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.trait.censor.level-2/judge-of-character
+    type: feature/trait/censor/level-2
 name: Judge of Character
-scc: mcdm.heroes.v1/feature.trait.censor.level-2/judge-of-character
-type: trait
+type: feature

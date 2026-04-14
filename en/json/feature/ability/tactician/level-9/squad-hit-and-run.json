@@ -1,17 +1,38 @@
 {
-  "action_type": "Main action",
-  "class": "tactician",
-  "content": "\n*I had to pry this secret from the shadow colleges.*\n\n| **Ranged**       |            **Main action** |\n|------------------|---------------------------:|\n| **📏 Ranged 10** | **🎯 Self and two allies** |\n\n**Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.",
   "cost": "11 Focus",
   "distance": "Ranged 10",
-  "effect": "Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.",
+  "effects": [
+    {
+      "effect": "Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "I had to pry this secret from the shadow colleges.",
   "keywords": [
     "Ranged"
   ],
-  "level": "9",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "tactician",
+    "content": "\n*I had to pry this secret from the shadow colleges.*\n\n| **Ranged**       |            **Main action** |\n|------------------|---------------------------:|\n| **📏 Ranged 10** | **🎯 Self and two allies** |\n\n**Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "I had to pry this secret from the shadow colleges.",
+    "item_id": "squad-hit-and-run",
+    "item_name": "Squad! Hit and Run!",
+    "keywords": [
+      "Ranged"
+    ],
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.tactician.level-9/squad-hit-and-run"
+    ],
+    "target": "Self and two allies",
+    "type": "feature/ability/tactician/level-9"
+  },
   "name": "Squad! Hit and Run!",
-  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-9/squad-hit-and-run",
   "target": "Self and two allies",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

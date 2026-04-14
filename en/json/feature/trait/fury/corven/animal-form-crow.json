@@ -1,8 +1,22 @@
 {
-  "class": "fury",
-  "content": "While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.",
-  "kit": "corven",
+  "effects": [
+    {
+      "effect": "While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "animal-form-crow",
+    "item_name": "Animal Form: Crow",
+    "kit": "corven",
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.corven/animal-form-crow"
+    ],
+    "type": "feature/trait/fury/corven"
+  },
   "name": "Animal Form: Crow",
-  "scc": "mcdm.heroes.v1/feature.trait.fury.corven/animal-form-crow",
-  "type": "trait"
+  "type": "feature"
 }

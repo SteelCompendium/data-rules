@@ -1,21 +1,38 @@
-action_type: Free triggered
-class: tactician
-content: "\n*You parry with almost supernatural speed.*\n\n| **Melee, Weapon** | **Free triggered** |\n| ------------------------------------|-------------------:|\n| **\U0001F4CF Melee 1**                   |    **\U0001F3AF One ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.\n\n**Power Roll + Might:**\n\n- **≤11:** A < WEAK, dazed (save ends)\n- **12-16:** A < AVERAGE, dazed (save ends)\n- **17+:** A < STRONG, dazed (save ends)"
+ability_type: Triggered
 cost: 9 Focus
 distance: Melee 1
-effect: The target takes half the damage. You then make a power roll against the triggering creature.
+effects:
+    - roll: Power Roll + Might
+      tier1: A < WEAK, dazed (save ends)
+      tier2: A < AVERAGE, dazed (save ends)
+      tier3: A < STRONG, dazed (save ends)
+    - effect: The target takes half the damage. You then make a power roll against the triggering creature.
+      name: Effect
+feature_type: ability
 flavor: You parry with almost supernatural speed.
 keywords:
     - Melee
     - Weapon
-level: "6"
+metadata:
+    ability_type: Triggered
+    action_type: Free triggered
+    class: tactician
+    content: "\n*You parry with almost supernatural speed.*\n\n| **Melee, Weapon** | **Free triggered** |\n| ------------------------------------|-------------------:|\n| **\U0001F4CF Melee 1**                   |    **\U0001F3AF One ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.\n\n**Power Roll + Might:**\n\n- **≤11:** A < WEAK, dazed (save ends)\n- **12-16:** A < AVERAGE, dazed (save ends)\n- **17+:** A < STRONG, dazed (save ends)"
+    distance: Melee 1
+    feature_type: ability
+    flavor: You parry with almost supernatural speed.
+    item_id: instant-retaliation
+    item_name: Instant Retaliation
+    keywords:
+        - Melee
+        - Weapon
+    level: 6
+    scc:
+        - mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
+    target: One ally
+    type: feature/ability/tactician/level-6
 name: Instant Retaliation
-power_roll_characteristic: Might
-scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
-subtype: triggered
 target: One ally
-tier1: A < WEAK, dazed (save ends)
-tier2: A < AVERAGE, dazed (save ends)
-tier3: A < STRONG, dazed (save ends)
 trigger: A creature deals damage to the target.
-type: ability
+type: feature
+usage: Free triggered

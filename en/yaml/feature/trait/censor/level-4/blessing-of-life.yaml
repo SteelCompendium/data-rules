@@ -1,6 +1,15 @@
-class: censor
-content: Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your My Life for Yours ability regains Stamina, they regain additional Stamina equal to your Presence score.
-level: "4"
+effects:
+    - effect: Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your My Life for Yours ability regains Stamina, they regain additional Stamina equal to your Presence score.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: censor
+    feature_type: trait
+    item_id: blessing-of-life
+    item_name: Blessing of Life
+    level: 4
+    scc:
+        - mcdm.heroes.v1/feature.trait.censor.level-4/blessing-of-life
+    type: feature/trait/censor/level-4
 name: Blessing of Life
-scc: mcdm.heroes.v1/feature.trait.censor.level-4/blessing-of-life
-type: trait
+type: feature

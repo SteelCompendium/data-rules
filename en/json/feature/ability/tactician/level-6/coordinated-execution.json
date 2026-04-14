@@ -1,19 +1,41 @@
 {
-  "action_type": "Free triggered",
-  "class": "tactician",
-  "content": "\n*You direct your ally to make a killing blow.*\n\n| **Ranged**       | **Free triggered** |\n|------------------|-------------------:|\n| **📏 Ranged 10** |    **🎯 One ally** |\n\n**Trigger:** The target uses an ability to deal rolled damage to a creature while hidden.\n\n**Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.",
+  "ability_type": "Triggered",
   "cost": "9 Focus",
   "distance": "Ranged 10",
-  "effect": "If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.",
+  "effects": [
+    {
+      "effect": "If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You direct your ally to make a killing blow.",
   "keywords": [
     "Ranged"
   ],
-  "level": "6",
+  "metadata": {
+    "ability_type": "Triggered",
+    "action_type": "Free triggered",
+    "class": "tactician",
+    "content": "\n*You direct your ally to make a killing blow.*\n\n| **Ranged**       | **Free triggered** |\n|------------------|-------------------:|\n| **📏 Ranged 10** |    **🎯 One ally** |\n\n**Trigger:** The target uses an ability to deal rolled damage to a creature while hidden.\n\n**Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "You direct your ally to make a killing blow.",
+    "item_id": "coordinated-execution",
+    "item_name": "Coordinated Execution",
+    "keywords": [
+      "Ranged"
+    ],
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution"
+    ],
+    "target": "One ally",
+    "type": "feature/ability/tactician/level-6"
+  },
   "name": "Coordinated Execution",
-  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution",
-  "subtype": "triggered",
   "target": "One ally",
   "trigger": "The target uses an ability to deal rolled damage to a creature while hidden.",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Free triggered"
 }

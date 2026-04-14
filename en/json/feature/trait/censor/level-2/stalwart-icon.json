@@ -1,8 +1,22 @@
 {
-  "class": "censor",
-  "content": "You exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an edge on tests made to intimidate or persuade others.",
-  "level": "2",
+  "effects": [
+    {
+      "effect": "You exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an edge on tests made to intimidate or persuade others."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "censor",
+    "feature_type": "trait",
+    "item_id": "stalwart-icon",
+    "item_name": "Stalwart Icon",
+    "level": 2,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.censor.level-2/stalwart-icon"
+    ],
+    "type": "feature/trait/censor/level-2"
+  },
   "name": "Stalwart Icon",
-  "scc": "mcdm.heroes.v1/feature.trait.censor.level-2/stalwart-icon",
-  "type": "trait"
+  "type": "feature"
 }

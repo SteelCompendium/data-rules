@@ -1,8 +1,22 @@
 {
-  "class": "censor",
-  "content": "You gain a domain feature from your domain, as shown on the 4th-Level Censor Domain Features table.\n\n###### 4th-Level Censor Domain Features Table\n\n| Domain                           | Feature                     |\n|----------------------------------|-----------------------------|\n| Creation                         | Improved Hands of the Maker |\n| Death                            | Seance                      |\n| Fate                             | Oracular Warning            |\n| Knowledge                        | Saint's Epiphany            |\n| Life                             | Blessing of Life            |\n| Love                             | Invocation of the Heart     |\n| Nature                           | Wode Road                   |\n| Protection                       | Impervious Touch            |\n| Storm                            | Windwalk                    |\n| Sun                              | Light of Revelation         |\n| Trickery                         | Blessing of Secrets         |\n| War                              | Improved Sanctified Weapon  |",
-  "level": "4",
+  "effects": [
+    {
+      "effect": "You gain a domain feature from your domain, as shown on the 4th-Level Censor Domain Features table.\n\n###### 4th-Level Censor Domain Features Table\n\n| Domain                           | Feature                     |\n|----------------------------------|-----------------------------|\n| Creation                         | Improved Hands of the Maker |\n| Death                            | Seance                      |\n| Fate                             | Oracular Warning            |\n| Knowledge                        | Saint's Epiphany            |\n| Life                             | Blessing of Life            |\n| Love                             | Invocation of the Heart     |\n| Nature                           | Wode Road                   |\n| Protection                       | Impervious Touch            |\n| Storm                            | Windwalk                    |\n| Sun                              | Light of Revelation         |\n| Trickery                         | Blessing of Secrets         |\n| War                              | Improved Sanctified Weapon  |"
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "censor",
+    "feature_type": "trait",
+    "item_id": "4th-level-domain-feature",
+    "item_name": "4th-Level Domain Feature",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.censor.level-4/4th-level-domain-feature"
+    ],
+    "type": "feature/trait/censor/level-4"
+  },
   "name": "4th-Level Domain Feature",
-  "scc": "mcdm.heroes.v1/feature.trait.censor.level-4/4th-level-domain-feature",
-  "type": "trait"
+  "type": "feature"
 }

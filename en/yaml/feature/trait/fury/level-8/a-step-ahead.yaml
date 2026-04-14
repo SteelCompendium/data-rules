@@ -1,6 +1,15 @@
-class: fury
-content: You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.
-level: "8"
+effects:
+    - effect: You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: a-step-ahead
+    item_name: A Step Ahead
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.level-8/a-step-ahead
+    type: feature/trait/fury/level-8
 name: A Step Ahead
-scc: mcdm.heroes.v1/feature.trait.fury.level-8/a-step-ahead
-type: trait
+type: feature

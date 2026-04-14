@@ -1,5 +1,14 @@
-class: fury
-content: 'These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: Kits for information on kit bonuses.'
+effects:
+    - effect: 'These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: Kits for information on kit bonuses.'
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: kit-bonuses
+    item_name: Kit Bonuses
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury/kit-bonuses
+    type: feature/trait/fury
 name: Kit Bonuses
-scc: mcdm.heroes.v1/feature.trait.fury/kit-bonuses
-type: trait
+type: feature

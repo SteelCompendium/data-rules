@@ -1,8 +1,22 @@
 {
-  "class": "censor",
-  "content": "Your Might and Presence scores each increase to 5.",
-  "level": "10",
+  "effects": [
+    {
+      "effect": "Your Might and Presence scores each increase to 5."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "censor",
+    "feature_type": "trait",
+    "item_id": "characteristic-increase",
+    "item_name": "Characteristic Increase",
+    "level": 10,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.censor.level-10/characteristic-increase"
+    ],
+    "type": "feature/trait/censor/level-10"
+  },
   "name": "Characteristic Increase",
-  "scc": "mcdm.heroes.v1/feature.trait.censor.level-10/characteristic-increase",
-  "type": "trait"
+  "type": "feature"
 }

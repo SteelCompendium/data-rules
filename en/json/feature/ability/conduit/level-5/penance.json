@@ -1,22 +1,44 @@
 {
-  "action_type": "Main action",
-  "class": "conduit",
-  "content": "\n*\"If you won't kneel, the gods will make you.\"*\n\n| **Area, Magic, Ranged**  |               **Main action** |\n|--------------------------|------------------------------:|\n| **📏 4 cube within 10**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 4 corruption damage; I \u003c WEAK, prone and can't stand (save ends)\n- **12-16:** 7 corruption damage; I \u003c AVERAGE, prone and can't stand (save ends)\n- **17+:** 11 corruption damage; I \u003c STRONG, prone and can't stand (save ends)",
   "cost": "9 Piety",
   "distance": "4 cube within 10",
+  "effects": [
+    {
+      "roll": "Power Roll + Intuition",
+      "tier1": "4 corruption damage; I \u003c WEAK, prone and can't stand (save ends)",
+      "tier2": "7 corruption damage; I \u003c AVERAGE, prone and can't stand (save ends)",
+      "tier3": "11 corruption damage; I \u003c STRONG, prone and can't stand (save ends)"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "\"If you won't kneel, the gods will make you.\"",
   "keywords": [
     "Area",
     "Magic",
     "Ranged"
   ],
-  "level": "5",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "conduit",
+    "content": "\n*\"If you won't kneel, the gods will make you.\"*\n\n| **Area, Magic, Ranged**  |               **Main action** |\n|--------------------------|------------------------------:|\n| **📏 4 cube within 10**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 4 corruption damage; I \u003c WEAK, prone and can't stand (save ends)\n- **12-16:** 7 corruption damage; I \u003c AVERAGE, prone and can't stand (save ends)\n- **17+:** 11 corruption damage; I \u003c STRONG, prone and can't stand (save ends)",
+    "distance": "4 cube within 10",
+    "feature_type": "ability",
+    "flavor": "\"If you won't kneel, the gods will make you.\"",
+    "item_id": "penance",
+    "item_name": "Penance",
+    "keywords": [
+      "Area",
+      "Magic",
+      "Ranged"
+    ],
+    "level": 5,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-5/penance"
+    ],
+    "target": "Each enemy in the area",
+    "type": "feature/ability/conduit/level-5"
+  },
   "name": "Penance",
-  "power_roll_characteristic": "Intuition",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-5/penance",
   "target": "Each enemy in the area",
-  "tier1": "4 corruption damage; I \u003c WEAK, prone and can't stand (save ends)",
-  "tier2": "7 corruption damage; I \u003c AVERAGE, prone and can't stand (save ends)",
-  "tier3": "11 corruption damage; I \u003c STRONG, prone and can't stand (save ends)",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

@@ -1,8 +1,22 @@
 {
-  "class": "fury",
-  "content": "You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain.",
-  "kit": "raden",
+  "effects": [
+    {
+      "effect": "You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "aspect-benefits",
+    "item_name": "Aspect Benefits",
+    "kit": "raden",
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.raden/aspect-benefits"
+    ],
+    "type": "feature/trait/fury/raden"
+  },
   "name": "Aspect Benefits",
-  "scc": "mcdm.heroes.v1/feature.trait.fury.raden/aspect-benefits",
-  "type": "trait"
+  "type": "feature"
 }

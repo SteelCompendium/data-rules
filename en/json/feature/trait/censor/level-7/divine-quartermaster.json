@@ -1,8 +1,22 @@
 {
-  "class": "censor",
-  "content": "Each time you finish a respite, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another respite or it is consumed.",
-  "level": "7",
+  "effects": [
+    {
+      "effect": "Each time you finish a respite, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another respite or it is consumed."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "censor",
+    "feature_type": "trait",
+    "item_id": "divine-quartermaster",
+    "item_name": "Divine Quartermaster",
+    "level": 7,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.censor.level-7/divine-quartermaster"
+    ],
+    "type": "feature/trait/censor/level-7"
+  },
   "name": "Divine Quartermaster",
-  "scc": "mcdm.heroes.v1/feature.trait.censor.level-7/divine-quartermaster",
-  "type": "trait"
+  "type": "feature"
 }

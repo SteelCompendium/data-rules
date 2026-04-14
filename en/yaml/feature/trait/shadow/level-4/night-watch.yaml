@@ -1,9 +1,18 @@
-class: shadow
-content: |-
-    Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a bane on tests made to search for you or other hidden creatures within 10 squares of you.
+effects:
+    - effect: |-
+        Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a bane on tests made to search for you or other hidden creatures within 10 squares of you.
 
-    Additionally, you have the following ability.
-level: "4"
+        Additionally, you have the following ability.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: shadow
+    feature_type: trait
+    item_id: night-watch
+    item_name: Night Watch
+    level: 4
+    scc:
+        - mcdm.heroes.v1/feature.trait.shadow.level-4/night-watch
+    type: feature/trait/shadow/level-4
 name: Night Watch
-scc: mcdm.heroes.v1/feature.trait.shadow.level-4/night-watch
-type: trait
+type: feature

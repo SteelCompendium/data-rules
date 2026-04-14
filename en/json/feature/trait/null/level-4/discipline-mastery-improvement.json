@@ -1,8 +1,22 @@
 {
-  "class": "null",
-  "content": "Your Discipline Mastery feature provides additional benefits when you have 8 or more discipline.",
-  "level": "4",
+  "effects": [
+    {
+      "effect": "Your Discipline Mastery feature provides additional benefits when you have 8 or more discipline."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "null",
+    "feature_type": "trait",
+    "item_id": "discipline-mastery-improvement",
+    "item_name": "Discipline Mastery Improvement",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.null.level-4/discipline-mastery-improvement"
+    ],
+    "type": "feature/trait/null/level-4"
+  },
   "name": "Discipline Mastery Improvement",
-  "scc": "mcdm.heroes.v1/feature.trait.null.level-4/discipline-mastery-improvement",
-  "type": "trait"
+  "type": "feature"
 }

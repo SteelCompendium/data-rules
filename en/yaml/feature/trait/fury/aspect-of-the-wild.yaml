@@ -1,5 +1,14 @@
-class: fury
-content: You have the following ability.
+effects:
+    - effect: You have the following ability.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: aspect-of-the-wild
+    item_name: Aspect of the Wild
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury/aspect-of-the-wild
+    type: feature/trait/fury
 name: Aspect of the Wild
-scc: mcdm.heroes.v1/feature.trait.fury/aspect-of-the-wild
-type: trait
+type: feature

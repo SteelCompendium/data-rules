@@ -1,18 +1,33 @@
-action_type: Maneuver
-class: censor
-content: "\n*You channel your god's will to overcome hardship and inflict pain.*\n\n| **Area**       |                          **Maneuver** |\n|----------------|--------------------------------------:|\n| **\U0001F4CF 1 burst** | **\U0001F3AF Self and each ally in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** Each target gains 1 surge.\n- **12-16:** Each target gains 2 surges.\n- **17+:** Each target gains 3 surges.\n\n**Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up."
 cost: 9 Wrath
 distance: 1 burst
-effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+effects:
+    - roll: Power Roll + Presence
+      tier1: Each target gains 1 surge.
+      tier2: Each target gains 2 surges.
+      tier3: Each target gains 3 surges.
+    - effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+      name: Effect
+feature_type: ability
 flavor: You channel your god's will to overcome hardship and inflict pain.
 keywords:
     - Area
-level: "5"
+metadata:
+    action_type: Maneuver
+    class: censor
+    content: "\n*You channel your god's will to overcome hardship and inflict pain.*\n\n| **Area**       |                          **Maneuver** |\n|----------------|--------------------------------------:|\n| **\U0001F4CF 1 burst** | **\U0001F3AF Self and each ally in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** Each target gains 1 surge.\n- **12-16:** Each target gains 2 surges.\n- **17+:** Each target gains 3 surges.\n\n**Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up."
+    distance: 1 burst
+    feature_type: ability
+    flavor: You channel your god's will to overcome hardship and inflict pain.
+    item_id: orison-of-victory
+    item_name: Orison of Victory
+    keywords:
+        - Area
+    level: 5
+    scc:
+        - mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory
+    target: Self and each ally in the area
+    type: feature/ability/censor/level-5
 name: Orison of Victory
-power_roll_characteristic: Presence
-scc: mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory
 target: Self and each ally in the area
-tier1: Each target gains 1 surge.
-tier2: Each target gains 2 surges.
-tier3: Each target gains 3 surges.
-type: ability
+type: feature
+usage: Maneuver

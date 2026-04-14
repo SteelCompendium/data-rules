@@ -1,15 +1,24 @@
-class: shadow
-content: |-
-    Your shadow college grants you a feature, as shown on the 8th-Level College Features table.
+effects:
+    - effect: |-
+        Your shadow college grants you a feature, as shown on the 8th-Level College Features table.
 
-    ###### 8th-Level College Features Table
+        ###### 8th-Level College Features Table
 
-    | College         | Feature     |
-    |-----------------|-------------|
-    | Black Ash       | Cinder Step |
-    | Caustic Alchemy | Time Bomb   |
-    | Harlequin Mask  | Parkour     |
-level: "8"
+        | College         | Feature     |
+        |-----------------|-------------|
+        | Black Ash       | Cinder Step |
+        | Caustic Alchemy | Time Bomb   |
+        | Harlequin Mask  | Parkour     |
+feature_type: trait
+metadata:
+    action_type: feature
+    class: shadow
+    feature_type: trait
+    item_id: 8th-level-college-feature
+    item_name: 8th-Level College Feature
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.trait.shadow.level-8/8th-level-college-feature
+    type: feature/trait/shadow/level-8
 name: 8th-Level College Feature
-scc: mcdm.heroes.v1/feature.trait.shadow.level-8/8th-level-college-feature
-type: trait
+type: feature

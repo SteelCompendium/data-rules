@@ -1,18 +1,41 @@
 {
-  "action_type": "No action",
-  "class": "troubadour",
-  "content": "\n*Taps, kicks, steps. It's all \"choreography.\"*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **📏 5 aura**                | **🎯 Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.",
   "distance": "5 aura",
-  "effect": "While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.",
+  "effects": [
+    {
+      "effect": "While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "Taps, kicks, steps. It's all \"choreography.\"",
   "keywords": [
     "Area",
     "Magic",
     "Performance"
   ],
-  "level": "1",
+  "metadata": {
+    "action_type": "No action",
+    "class": "troubadour",
+    "content": "\n*Taps, kicks, steps. It's all \"choreography.\"*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **📏 5 aura**                | **🎯 Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.",
+    "distance": "5 aura",
+    "feature_type": "ability",
+    "flavor": "Taps, kicks, steps. It's all \"choreography.\"",
+    "item_id": "choreography",
+    "item_name": "Choreography",
+    "keywords": [
+      "Area",
+      "Magic",
+      "Performance"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography"
+    ],
+    "target": "Self and each ally in the area",
+    "type": "feature/ability/troubadour/level-1"
+  },
   "name": "Choreography",
-  "scc": "mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography",
   "target": "Self and each ally in the area",
-  "type": "ability"
+  "type": "feature",
+  "usage": "No action"
 }

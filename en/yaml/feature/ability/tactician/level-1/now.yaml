@@ -1,14 +1,29 @@
-action_type: Maneuver
-class: tactician
-content: "\n*Your allies wait for your command—then unleash death!*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**Effect:** Each target can make a free strike."
 cost: 5 Focus
 distance: Ranged 10
-effect: Each target can make a free strike.
+effects:
+    - effect: Each target can make a free strike.
+      name: Effect
+feature_type: ability
 flavor: Your allies wait for your command—then unleash death!
 keywords:
     - Ranged
-level: "1"
+metadata:
+    action_type: Maneuver
+    class: tactician
+    content: "\n*Your allies wait for your command—then unleash death!*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**Effect:** Each target can make a free strike."
+    distance: Ranged 10
+    feature_type: ability
+    flavor: Your allies wait for your command—then unleash death!
+    item_id: now
+    item_name: Now!
+    keywords:
+        - Ranged
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.ability.tactician.level-1/now
+    target: Three allies
+    type: feature/ability/tactician/level-1
 name: Now!
-scc: mcdm.heroes.v1/feature.ability.tactician.level-1/now
 target: Three allies
-type: ability
+type: feature
+usage: Maneuver

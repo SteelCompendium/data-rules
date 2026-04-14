@@ -1,23 +1,48 @@
 {
-  "action_type": "Main action",
-  "class": "tactician",
-  "content": "\n*Your enemy will think twice about attacking your friend.*\n\n| **Ranged, Strike, Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **📏 Ranged 5**            | **🎯 One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 5 + R damage; taunted (EoT)\n- **12-16:** 9 + R damage; taunted (EoT)\n- **17+:** 12 + R damage; taunted (EoT)\n\n**Effect:** One ally adjacent to the target can spend a Recovery.",
   "cost": "5 Focus",
   "distance": "Ranged 5",
-  "effect": "One ally adjacent to the target can spend a Recovery.",
+  "effects": [
+    {
+      "roll": "Power Roll + Reason",
+      "tier1": "5 + R damage; taunted (EoT)",
+      "tier2": "9 + R damage; taunted (EoT)",
+      "tier3": "12 + R damage; taunted (EoT)"
+    },
+    {
+      "effect": "One ally adjacent to the target can spend a Recovery.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "Your enemy will think twice about attacking your friend.",
   "keywords": [
     "Ranged",
     "Strike",
     "Weapon"
   ],
-  "level": "2",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "tactician",
+    "content": "\n*Your enemy will think twice about attacking your friend.*\n\n| **Ranged, Strike, Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **📏 Ranged 5**            | **🎯 One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 5 + R damage; taunted (EoT)\n- **12-16:** 9 + R damage; taunted (EoT)\n- **17+:** 12 + R damage; taunted (EoT)\n\n**Effect:** One ally adjacent to the target can spend a Recovery.",
+    "distance": "Ranged 5",
+    "feature_type": "ability",
+    "flavor": "Your enemy will think twice about attacking your friend.",
+    "item_id": "ive-got-your-back",
+    "item_name": "I've Got Your Back",
+    "keywords": [
+      "Ranged",
+      "Strike",
+      "Weapon"
+    ],
+    "level": 2,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back"
+    ],
+    "target": "One creature",
+    "type": "feature/ability/tactician/level-2"
+  },
   "name": "I've Got Your Back",
-  "power_roll_characteristic": "Reason",
-  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back",
   "target": "One creature",
-  "tier1": "5 + R damage; taunted (EoT)",
-  "tier2": "9 + R damage; taunted (EoT)",
-  "tier3": "12 + R damage; taunted (EoT)",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

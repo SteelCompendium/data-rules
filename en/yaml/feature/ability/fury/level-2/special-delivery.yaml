@@ -1,15 +1,31 @@
-action_type: Maneuver
-class: fury
-content: "\n*You ready?*\n\n| **Melee, Weapon** |            **Maneuver** |\n|-------------------|------------------------:|\n| **\U0001F4CF Melee 1**    | **\U0001F3AF One willing ally** |\n\n**Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score."
 cost: 5 Ferocity
 distance: Melee 1
-effect: You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+effects:
+    - effect: You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+      name: Effect
+feature_type: ability
 flavor: You ready?
 keywords:
     - Melee
     - Weapon
-level: "2"
+metadata:
+    action_type: Maneuver
+    class: fury
+    content: "\n*You ready?*\n\n| **Melee, Weapon** |            **Maneuver** |\n|-------------------|------------------------:|\n| **\U0001F4CF Melee 1**    | **\U0001F3AF One willing ally** |\n\n**Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score."
+    distance: Melee 1
+    feature_type: ability
+    flavor: You ready?
+    item_id: special-delivery
+    item_name: Special Delivery
+    keywords:
+        - Melee
+        - Weapon
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.ability.fury.level-2/special-delivery
+    target: One willing ally
+    type: feature/ability/fury/level-2
 name: Special Delivery
-scc: mcdm.heroes.v1/feature.ability.fury.level-2/special-delivery
 target: One willing ally
-type: ability
+type: feature
+usage: Maneuver

@@ -1,8 +1,22 @@
 {
-  "class": "talent",
-  "content": "You know the Mindspeech language (see Languages in Orden in Chapter 4: Background). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.",
-  "level": "1",
+  "effects": [
+    {
+      "effect": "You know the Mindspeech language (see Languages in Orden in Chapter 4: Background). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "talent",
+    "feature_type": "trait",
+    "item_id": "telepathic-speech",
+    "item_name": "Telepathic Speech",
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.talent.level-1/telepathic-speech"
+    ],
+    "type": "feature/trait/talent/level-1"
+  },
   "name": "Telepathic Speech",
-  "scc": "mcdm.heroes.v1/feature.trait.talent.level-1/telepathic-speech",
-  "type": "trait"
+  "type": "feature"
 }

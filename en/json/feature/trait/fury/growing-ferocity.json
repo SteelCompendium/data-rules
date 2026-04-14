@@ -1,7 +1,21 @@
 {
-  "class": "fury",
-  "content": "Each stormwight kit grants a set of benefits for your Growing Ferocity feature.",
+  "effects": [
+    {
+      "effect": "Each stormwight kit grants a set of benefits for your Growing Ferocity feature."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "growing-ferocity",
+    "item_name": "Growing Ferocity",
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury/growing-ferocity"
+    ],
+    "type": "feature/trait/fury"
+  },
   "name": "Growing Ferocity",
-  "scc": "mcdm.heroes.v1/feature.trait.fury/growing-ferocity",
-  "type": "trait"
+  "type": "feature"
 }

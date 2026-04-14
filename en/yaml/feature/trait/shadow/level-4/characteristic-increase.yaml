@@ -1,6 +1,15 @@
-class: shadow
-content: Your Agility score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.
-level: "4"
+effects:
+    - effect: Your Agility score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: shadow
+    feature_type: trait
+    item_id: characteristic-increase
+    item_name: Characteristic Increase
+    level: 4
+    scc:
+        - mcdm.heroes.v1/feature.trait.shadow.level-4/characteristic-increase
+    type: feature/trait/shadow/level-4
 name: Characteristic Increase
-scc: mcdm.heroes.v1/feature.trait.shadow.level-4/characteristic-increase
-type: trait
+type: feature

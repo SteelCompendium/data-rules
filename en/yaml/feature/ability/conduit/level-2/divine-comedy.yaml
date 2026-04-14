@@ -1,15 +1,31 @@
-action_type: Maneuver
-class: conduit
-content: "\n*You and your allies swap places to confound your foes.*\n\n| **Area, Magic**  |                          **Maneuver** |\n|------------------|--------------------------------------:|\n| **\U0001F4CF 5 burst**   | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa."
 cost: 5 Piety
 distance: 5 burst
-effect: Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
+effects:
+    - effect: Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
+      name: Effect
+feature_type: ability
 flavor: You and your allies swap places to confound your foes.
 keywords:
     - Area
     - Magic
-level: "2"
+metadata:
+    action_type: Maneuver
+    class: conduit
+    content: "\n*You and your allies swap places to confound your foes.*\n\n| **Area, Magic**  |                          **Maneuver** |\n|------------------|--------------------------------------:|\n| **\U0001F4CF 5 burst**   | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa."
+    distance: 5 burst
+    feature_type: ability
+    flavor: You and your allies swap places to confound your foes.
+    item_id: divine-comedy
+    item_name: Divine Comedy
+    keywords:
+        - Area
+        - Magic
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy
+    target: Self and each ally in the area
+    type: feature/ability/conduit/level-2
 name: Divine Comedy
-scc: mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy
 target: Self and each ally in the area
-type: ability
+type: feature
+usage: Maneuver

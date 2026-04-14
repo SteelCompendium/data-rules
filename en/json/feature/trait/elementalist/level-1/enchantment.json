@@ -1,8 +1,22 @@
 {
-  "class": "elementalist",
-  "content": "You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:*  Enchantment of Destruction.)",
-  "level": "1",
+  "effects": [
+    {
+      "effect": "You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:*  Enchantment of Destruction.)"
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "elementalist",
+    "feature_type": "trait",
+    "item_id": "enchantment",
+    "item_name": "Enchantment",
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment"
+    ],
+    "type": "feature/trait/elementalist/level-1"
+  },
   "name": "Enchantment",
-  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment",
-  "type": "trait"
+  "type": "feature"
 }

@@ -1,19 +1,35 @@
-action_type: Maneuver
-class: troubadour
-content: "\n*No, this isn't right. That foe was over there!*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** Slide 3; P < WEAK, this slide ignores the target's stability\n- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's stability\n- **17+:** Slide 7; P < STRONG, this slide ignores the target's stability\n\n**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability."
 cost: 7 Drama
 distance: 4 burst
-effect: Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
+effects:
+    - roll: Power Roll + Presence
+      tier1: Slide 3; P < WEAK, this slide ignores the target's stability
+      tier2: Slide 5; P < AVERAGE, this slide ignores the target's stability
+      tier3: Slide 7; P < STRONG, this slide ignores the target's stability
+    - effect: Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
+      name: Effect
+feature_type: ability
 flavor: No, this isn't right. That foe was over there!
 keywords:
     - Area
     - Magic
-level: "3"
+metadata:
+    action_type: Maneuver
+    class: troubadour
+    content: "\n*No, this isn't right. That foe was over there!*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** Slide 3; P < WEAK, this slide ignores the target's stability\n- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's stability\n- **17+:** Slide 7; P < STRONG, this slide ignores the target's stability\n\n**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability."
+    distance: 4 burst
+    feature_type: ability
+    flavor: No, this isn't right. That foe was over there!
+    item_id: extensive-rewrites
+    item_name: Extensive Rewrites
+    keywords:
+        - Area
+        - Magic
+    level: 3
+    scc:
+        - mcdm.heroes.v1/feature.ability.troubadour.level-3/extensive-rewrites
+    target: Each enemy in the area
+    type: feature/ability/troubadour/level-3
 name: Extensive Rewrites
-power_roll_characteristic: Presence
-scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/extensive-rewrites
 target: Each enemy in the area
-tier1: Slide 3; P < WEAK, this slide ignores the target's stability
-tier2: Slide 5; P < AVERAGE, this slide ignores the target's stability
-tier3: Slide 7; P < STRONG, this slide ignores the target's stability
-type: ability
+type: feature
+usage: Maneuver

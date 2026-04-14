@@ -1,21 +1,38 @@
-action_type: Free triggered
-class: "null"
-content: "\n*You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.*\n\n| **Psionic, Ranged** |  **Free triggered** |\n|---------------------|--------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF One creature** |\n\n**Trigger:** The triggering creature starts their turn.\n\n**Power Roll + Intuition:**\n\n- **≤11:** I < WEAK, the target loses their turn\n- **12-16:** I < AVERAGE, the target loses their turn\n- **17+:** I < STRONG, the target loses their turn\n\n**Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn."
+ability_type: Triggered
 cost: 11 Discipline
 distance: Ranged 10
-effect: If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.
+effects:
+    - roll: Power Roll + Intuition
+      tier1: I < WEAK, the target loses their turn
+      tier2: I < AVERAGE, the target loses their turn
+      tier3: I < STRONG, the target loses their turn
+    - effect: If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.
+      name: Effect
+feature_type: ability
 flavor: You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.
 keywords:
     - Psionic
     - Ranged
-level: "9"
+metadata:
+    ability_type: Triggered
+    action_type: Free triggered
+    class: "null"
+    content: "\n*You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.*\n\n| **Psionic, Ranged** |  **Free triggered** |\n|---------------------|--------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF One creature** |\n\n**Trigger:** The triggering creature starts their turn.\n\n**Power Roll + Intuition:**\n\n- **≤11:** I < WEAK, the target loses their turn\n- **12-16:** I < AVERAGE, the target loses their turn\n- **17+:** I < STRONG, the target loses their turn\n\n**Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn."
+    distance: Ranged 10
+    feature_type: ability
+    flavor: You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.
+    item_id: arrestor-cycle
+    item_name: Arrestor Cycle
+    keywords:
+        - Psionic
+        - Ranged
+    level: 9
+    scc:
+        - mcdm.heroes.v1/feature.ability.null.level-9/arrestor-cycle
+    target: One creature
+    type: feature/ability/null/level-9
 name: Arrestor Cycle
-power_roll_characteristic: Intuition
-scc: mcdm.heroes.v1/feature.ability.null.level-9/arrestor-cycle
-subtype: triggered
 target: One creature
-tier1: I < WEAK, the target loses their turn
-tier2: I < AVERAGE, the target loses their turn
-tier3: I < STRONG, the target loses their turn
 trigger: The triggering creature starts their turn.
-type: ability
+type: feature
+usage: Free triggered

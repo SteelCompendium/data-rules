@@ -1,16 +1,33 @@
-action_type: Main action
-class: talent
-content: "\n*You give a target a glimpse into the future so that they're ready for what comes next.*\n\n| **Chronopathy, Melee, Psionic** |         **Main action** |\n|---------------------------------|------------------------:|\n| **\U0001F4CF Melee 2**                  | **\U0001F3AF Self or one ally** |\n\n**Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage."
 cost: 3 Clarity
 distance: Melee 2
-effect: Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.
+effects:
+    - effect: Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.
+      name: Effect
+feature_type: ability
 flavor: You give a target a glimpse into the future so that they're ready for what comes next.
 keywords:
     - Chronopathy
     - Melee
     - Psionic
-level: "1"
+metadata:
+    action_type: Main action
+    class: talent
+    content: "\n*You give a target a glimpse into the future so that they're ready for what comes next.*\n\n| **Chronopathy, Melee, Psionic** |         **Main action** |\n|---------------------------------|------------------------:|\n| **\U0001F4CF Melee 2**                  | **\U0001F3AF Self or one ally** |\n\n**Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage."
+    distance: Melee 2
+    feature_type: ability
+    flavor: You give a target a glimpse into the future so that they're ready for what comes next.
+    item_id: precognition
+    item_name: Precognition
+    keywords:
+        - Chronopathy
+        - Melee
+        - Psionic
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.ability.talent.level-1/precognition
+    target: Self or one ally
+    type: feature/ability/talent/level-1
 name: Precognition
-scc: mcdm.heroes.v1/feature.ability.talent.level-1/precognition
 target: Self or one ally
-type: ability
+type: feature
+usage: Main action

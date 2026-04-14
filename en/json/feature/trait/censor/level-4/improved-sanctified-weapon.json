@@ -1,8 +1,22 @@
 {
-  "class": "censor",
-  "content": "The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.",
-  "level": "4",
+  "effects": [
+    {
+      "effect": "The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "censor",
+    "feature_type": "trait",
+    "item_id": "improved-sanctified-weapon",
+    "item_name": "Improved Sanctified Weapon",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.censor.level-4/improved-sanctified-weapon"
+    ],
+    "type": "feature/trait/censor/level-4"
+  },
   "name": "Improved Sanctified Weapon",
-  "scc": "mcdm.heroes.v1/feature.trait.censor.level-4/improved-sanctified-weapon",
-  "type": "trait"
+  "type": "feature"
 }

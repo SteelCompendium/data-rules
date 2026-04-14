@@ -1,8 +1,22 @@
 {
-  "class": "fury",
-  "content": "You gain one skill of your choice. See Skills in Chapter 9: Tests.",
-  "level": "4",
+  "effects": [
+    {
+      "effect": "You gain one skill of your choice. See Skills in Chapter 9: Tests."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "skill",
+    "item_name": "Skill",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.level-4/skill"
+    ],
+    "type": "feature/trait/fury/level-4"
+  },
   "name": "Skill",
-  "scc": "mcdm.heroes.v1/feature.trait.fury.level-4/skill",
-  "type": "trait"
+  "type": "feature"
 }

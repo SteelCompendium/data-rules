@@ -1,23 +1,48 @@
 {
-  "action_type": "Main action",
-  "class": "tactician",
-  "content": "\n*You trick your enemies into attacking each other and leave them confused by the aftermath.*\n\n| **Magic, Ranged, Weapon** |      **Main action** |\n|---------------------------|---------------------:|\n| **📏 Ranged 10**          | **🎯 Three enemies** |\n\n**Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.\n\n**Power Roll + Might:**\n\n- **≤11:** R \u003c WEAK, dazed (save ends)\n- **12-16:** R \u003c AVERAGE, dazed (save ends)\n- **17+:** R \u003c STRONG, dazed (save ends)\n\n##### 9th-Level Mastermind Abilities\n\nChoose one of the following abilities.",
   "cost": "11 Focus",
   "distance": "Ranged 10",
-  "effect": "Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.",
+  "effects": [
+    {
+      "roll": "Power Roll + Might",
+      "tier1": "R \u003c WEAK, dazed (save ends)",
+      "tier2": "R \u003c AVERAGE, dazed (save ends)",
+      "tier3": "R \u003c STRONG, dazed (save ends)"
+    },
+    {
+      "effect": "Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You trick your enemies into attacking each other and leave them confused by the aftermath.",
   "keywords": [
     "Magic",
     "Ranged",
     "Weapon"
   ],
-  "level": "9",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "tactician",
+    "content": "\n*You trick your enemies into attacking each other and leave them confused by the aftermath.*\n\n| **Magic, Ranged, Weapon** |      **Main action** |\n|---------------------------|---------------------:|\n| **📏 Ranged 10**          | **🎯 Three enemies** |\n\n**Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.\n\n**Power Roll + Might:**\n\n- **≤11:** R \u003c WEAK, dazed (save ends)\n- **12-16:** R \u003c AVERAGE, dazed (save ends)\n- **17+:** R \u003c STRONG, dazed (save ends)\n\n##### 9th-Level Mastermind Abilities\n\nChoose one of the following abilities.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "You trick your enemies into attacking each other and leave them confused by the aftermath.",
+    "item_id": "their-lack-of-focus-is-their-undoing",
+    "item_name": "Their Lack of Focus Is Their Undoing",
+    "keywords": [
+      "Magic",
+      "Ranged",
+      "Weapon"
+    ],
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing"
+    ],
+    "target": "Three enemies",
+    "type": "feature/ability/tactician/level-9"
+  },
   "name": "Their Lack of Focus Is Their Undoing",
-  "power_roll_characteristic": "Might",
-  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing",
   "target": "Three enemies",
-  "tier1": "R \u003c WEAK, dazed (save ends)",
-  "tier2": "R \u003c AVERAGE, dazed (save ends)",
-  "tier3": "R \u003c STRONG, dazed (save ends)",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

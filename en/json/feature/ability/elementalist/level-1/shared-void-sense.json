@@ -1,18 +1,41 @@
 {
-  "action_type": "Maneuver",
-  "class": "elementalist",
-  "content": "\n*You grant allies a taste of your unearthly vision.*\n\n| **Magic, Ranged, Void** |    **Maneuver** |\n|-------------------------|----------------:|\n| **📏 Ranged 10**        |  **🎯 Special** |\n\n**Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.",
   "distance": "Ranged 10",
-  "effect": "For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.",
+  "effects": [
+    {
+      "effect": "For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You grant allies a taste of your unearthly vision.",
   "keywords": [
     "Magic",
     "Ranged",
     "Void"
   ],
-  "level": "1",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "elementalist",
+    "content": "\n*You grant allies a taste of your unearthly vision.*\n\n| **Magic, Ranged, Void** |    **Maneuver** |\n|-------------------------|----------------:|\n| **📏 Ranged 10**        |  **🎯 Special** |\n\n**Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "You grant allies a taste of your unearthly vision.",
+    "item_id": "shared-void-sense",
+    "item_name": "Shared Void Sense",
+    "keywords": [
+      "Magic",
+      "Ranged",
+      "Void"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense"
+    ],
+    "target": "Special",
+    "type": "feature/ability/elementalist/level-1"
+  },
   "name": "Shared Void Sense",
-  "scc": "mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense",
   "target": "Special",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

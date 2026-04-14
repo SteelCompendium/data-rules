@@ -1,6 +1,15 @@
-class: fury
-content: At the start of your turn, you can end any restrained condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
-level: "5"
+effects:
+    - effect: At the start of your turn, you can end any restrained condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: unfettered
+    item_name: Unfettered
+    level: 5
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.level-5/unfettered
+    type: feature/trait/fury/level-5
 name: Unfettered
-scc: mcdm.heroes.v1/feature.trait.fury.level-5/unfettered
-type: trait
+type: feature

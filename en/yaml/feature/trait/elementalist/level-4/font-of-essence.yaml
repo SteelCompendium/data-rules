@@ -1,6 +1,15 @@
-class: elementalist
-content: The first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
-level: "4"
+effects:
+    - effect: The first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: elementalist
+    feature_type: trait
+    item_id: font-of-essence
+    item_name: Font of Essence
+    level: 4
+    scc:
+        - mcdm.heroes.v1/feature.trait.elementalist.level-4/font-of-essence
+    type: feature/trait/elementalist/level-4
 name: Font of Essence
-scc: mcdm.heroes.v1/feature.trait.elementalist.level-4/font-of-essence
-type: trait
+type: feature

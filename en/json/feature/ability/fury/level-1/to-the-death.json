@@ -1,23 +1,49 @@
 {
-  "action_type": "Main action",
-  "class": "fury",
-  "content": "\n*Your reckless assault leaves you tactically vulnerable.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 + M damage\n- **12-16:** 6 + M damage\n- **17+:** 9 + M damage\n\n**Effect:** You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.\n\n##### Heroic Abilities\n\nYou fight with an array of heroic abilities, all of which cost ferocity to fuel them.\n\n###### 3-Ferocity Ability\n\nChoose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)",
+  "ability_type": "Signature",
   "distance": "Melee 1",
-  "effect": "You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.",
+  "effects": [
+    {
+      "roll": "Power Roll + Might",
+      "tier1": "3 + M damage",
+      "tier2": "6 + M damage",
+      "tier3": "9 + M damage"
+    },
+    {
+      "effect": "You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "Your reckless assault leaves you tactically vulnerable.",
   "keywords": [
     "Melee",
     "Strike",
     "Weapon"
   ],
-  "level": "1",
+  "metadata": {
+    "ability_type": "Signature",
+    "action_type": "Main action",
+    "class": "fury",
+    "content": "\n*Your reckless assault leaves you tactically vulnerable.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 + M damage\n- **12-16:** 6 + M damage\n- **17+:** 9 + M damage\n\n**Effect:** You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.\n\n##### Heroic Abilities\n\nYou fight with an array of heroic abilities, all of which cost ferocity to fuel them.\n\n###### 3-Ferocity Ability\n\nChoose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)",
+    "distance": "Melee 1",
+    "feature_type": "ability",
+    "flavor": "Your reckless assault leaves you tactically vulnerable.",
+    "item_id": "to-the-death",
+    "item_name": "To the Death!",
+    "keywords": [
+      "Melee",
+      "Strike",
+      "Weapon"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.fury.level-1/to-the-death"
+    ],
+    "target": "One creature or object",
+    "type": "feature/ability/fury/level-1"
+  },
   "name": "To the Death!",
-  "power_roll_characteristic": "Might",
-  "scc": "mcdm.heroes.v1/feature.ability.fury.level-1/to-the-death",
-  "subtype": "signature",
   "target": "One creature or object",
-  "tier1": "3 + M damage",
-  "tier2": "6 + M damage",
-  "tier3": "9 + M damage",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

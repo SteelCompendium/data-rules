@@ -1,8 +1,22 @@
 {
-  "class": "elementalist",
-  "content": "At the end of each of your turns, each enemy in the area takes fire damage equal to your Reason score.",
-  "level": "4",
+  "effects": [
+    {
+      "effect": "At the end of each of your turns, each enemy in the area takes fire damage equal to your Reason score."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "elementalist",
+    "feature_type": "trait",
+    "item_id": "burning-grounds",
+    "item_name": "Burning Grounds",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.elementalist.level-4/burning-grounds"
+    ],
+    "type": "feature/trait/elementalist/level-4"
+  },
   "name": "Burning Grounds",
-  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-4/burning-grounds",
-  "type": "trait"
+  "type": "feature"
 }

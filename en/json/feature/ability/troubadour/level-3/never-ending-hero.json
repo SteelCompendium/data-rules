@@ -1,18 +1,41 @@
 {
-  "action_type": "No action",
-  "class": "troubadour",
-  "content": "\n*And toniiight we can truly say ♪ They will alllways find a way!♪*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **📏 5 aura**                | **🎯 Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.",
   "distance": "5 aura",
-  "effect": "While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.",
+  "effects": [
+    {
+      "effect": "While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "And toniiight we can truly say ♪ They will alllways find a way!♪",
   "keywords": [
     "Area",
     "Magic",
     "Performance"
   ],
-  "level": "3",
+  "metadata": {
+    "action_type": "No action",
+    "class": "troubadour",
+    "content": "\n*And toniiight we can truly say ♪ They will alllways find a way!♪*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **📏 5 aura**                | **🎯 Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.",
+    "distance": "5 aura",
+    "feature_type": "ability",
+    "flavor": "And toniiight we can truly say ♪ They will alllways find a way!♪",
+    "item_id": "never-ending-hero",
+    "item_name": "\"Never-Ending Hero\"",
+    "keywords": [
+      "Area",
+      "Magic",
+      "Performance"
+    ],
+    "level": 3,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero"
+    ],
+    "target": "Self and each ally in the area",
+    "type": "feature/ability/troubadour/level-3"
+  },
   "name": "\"Never-Ending Hero\"",
-  "scc": "mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero",
   "target": "Self and each ally in the area",
-  "type": "ability"
+  "type": "feature",
+  "usage": "No action"
 }

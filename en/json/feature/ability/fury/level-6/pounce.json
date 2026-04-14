@@ -1,10 +1,19 @@
 {
-  "action_type": "Main action",
-  "class": "fury",
-  "content": "\n*You strike at the target like the ultimate predator you are.*\n\n| **Magic, Melee, Strike, Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **📏 Melee 1**                   | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 8 damage; M \u003c WEAK, grabbed\n- **12-16:** 13 damage; M \u003c AVERAGE, grabbed\n- **17+:** 17 damage; M \u003c STRONG, grabbed\n\n**Effect:** You can shift up to 4 squares, bringing the target with you. While grabbed this way, the target takes damage equal to twice your Might score at the start of each of your turns.",
   "cost": "9 Ferocity",
   "distance": "Melee 1",
-  "effect": "You can shift up to 4 squares, bringing the target with you. While grabbed this way, the target takes damage equal to twice your Might score at the start of each of your turns.",
+  "effects": [
+    {
+      "roll": "Power Roll + Might",
+      "tier1": "8 damage; M \u003c WEAK, grabbed",
+      "tier2": "13 damage; M \u003c AVERAGE, grabbed",
+      "tier3": "17 damage; M \u003c STRONG, grabbed"
+    },
+    {
+      "effect": "You can shift up to 4 squares, bringing the target with you. While grabbed this way, the target takes damage equal to twice your Might score at the start of each of your turns.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You strike at the target like the ultimate predator you are.",
   "keywords": [
     "Magic",
@@ -12,13 +21,30 @@
     "Strike",
     "Weapon"
   ],
-  "level": "6",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "fury",
+    "content": "\n*You strike at the target like the ultimate predator you are.*\n\n| **Magic, Melee, Strike, Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **📏 Melee 1**                   | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 8 damage; M \u003c WEAK, grabbed\n- **12-16:** 13 damage; M \u003c AVERAGE, grabbed\n- **17+:** 17 damage; M \u003c STRONG, grabbed\n\n**Effect:** You can shift up to 4 squares, bringing the target with you. While grabbed this way, the target takes damage equal to twice your Might score at the start of each of your turns.",
+    "distance": "Melee 1",
+    "feature_type": "ability",
+    "flavor": "You strike at the target like the ultimate predator you are.",
+    "item_id": "pounce",
+    "item_name": "Pounce",
+    "keywords": [
+      "Magic",
+      "Melee",
+      "Strike",
+      "Weapon"
+    ],
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.fury.level-6/pounce"
+    ],
+    "target": "One creature",
+    "type": "feature/ability/fury/level-6"
+  },
   "name": "Pounce",
-  "power_roll_characteristic": "Might",
-  "scc": "mcdm.heroes.v1/feature.ability.fury.level-6/pounce",
   "target": "One creature",
-  "tier1": "8 damage; M \u003c WEAK, grabbed",
-  "tier2": "13 damage; M \u003c AVERAGE, grabbed",
-  "tier3": "17 damage; M \u003c STRONG, grabbed",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

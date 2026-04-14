@@ -1,8 +1,15 @@
 {
-  "action_type": "Main action",
-  "class": "talent",
-  "content": "\n*You blast a foe with a pulse of cold energy.*\n\n| **Cryokinesis, Psionic, Ranged**, **Strike** |     **Main action** |\n|----------------------------------------------|--------------------:|\n| **📏 Ranged 10**                             | **🎯 One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R cold damage; M \u003c WEAK, slowed (EoT)\n- **12-16:** 4 + R cold damage; M \u003c AVERAGE, slowed (EoT)\n- **17+:** 6 + R cold damage; M \u003c STRONG, slowed (EoT)\n\n**Strained:** You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.",
+  "ability_type": "Signature",
   "distance": "Ranged 10",
+  "effects": [
+    {
+      "roll": "Power Roll + Reason",
+      "tier1": "2 + R cold damage; M \u003c WEAK, slowed (EoT)",
+      "tier2": "4 + R cold damage; M \u003c AVERAGE, slowed (EoT)",
+      "tier3": "6 + R cold damage; M \u003c STRONG, slowed (EoT)"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You blast a foe with a pulse of cold energy.",
   "keywords": [
     "Cryokinesis",
@@ -10,14 +17,31 @@
     "Ranged",
     "Strike"
   ],
-  "level": "1",
+  "metadata": {
+    "ability_type": "Signature",
+    "action_type": "Main action",
+    "class": "talent",
+    "content": "\n*You blast a foe with a pulse of cold energy.*\n\n| **Cryokinesis, Psionic, Ranged**, **Strike** |     **Main action** |\n|----------------------------------------------|--------------------:|\n| **📏 Ranged 10**                             | **🎯 One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R cold damage; M \u003c WEAK, slowed (EoT)\n- **12-16:** 4 + R cold damage; M \u003c AVERAGE, slowed (EoT)\n- **17+:** 6 + R cold damage; M \u003c STRONG, slowed (EoT)\n\n**Strained:** You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "You blast a foe with a pulse of cold energy.",
+    "item_id": "hoarfrost",
+    "item_name": "Hoarfrost",
+    "keywords": [
+      "Cryokinesis",
+      "Psionic",
+      "Ranged",
+      "Strike"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost"
+    ],
+    "target": "One creature",
+    "type": "feature/ability/talent/level-1"
+  },
   "name": "Hoarfrost",
-  "power_roll_characteristic": "Reason",
-  "scc": "mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost",
-  "subtype": "signature",
   "target": "One creature",
-  "tier1": "2 + R cold damage; M \u003c WEAK, slowed (EoT)",
-  "tier2": "4 + R cold damage; M \u003c AVERAGE, slowed (EoT)",
-  "tier3": "6 + R cold damage; M \u003c STRONG, slowed (EoT)",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

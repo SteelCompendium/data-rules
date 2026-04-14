@@ -1,21 +1,39 @@
-action_type: Main action
-class: talent
-content: "\n*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*\n\n| **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |\n|---------------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                            | **\U0001F3AF One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 6 + P damage; P < WEAK, dazed (save ends)\n- **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)\n- **17+:** 14 + P damage; P < STRONG, dazed (save ends)\n\n**Effect:** The target takes a bane on Presence tests until the end of the encounter.\n\n**Strained:** The potency of this ability increases by 1. You take 2d6 damage and gain 3 surges that you can use immediately."
 cost: 7 Clarity
 distance: Ranged 10
-effect: The target takes a bane on Presence tests until the end of the encounter.
+effects:
+    - roll: Power Roll + Presence
+      tier1: 6 + P damage; P < WEAK, dazed (save ends)
+      tier2: 10 + P damage; P < AVERAGE, dazed (save ends)
+      tier3: 14 + P damage; P < STRONG, dazed (save ends)
+    - effect: The target takes a bane on Presence tests until the end of the encounter.
+      name: Effect
+feature_type: ability
 flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
 keywords:
     - Animapathy
     - Psionic
     - Ranged
     - Strike
-level: "3"
+metadata:
+    action_type: Main action
+    class: talent
+    content: "\n*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*\n\n| **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |\n|---------------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                            | **\U0001F3AF One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 6 + P damage; P < WEAK, dazed (save ends)\n- **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)\n- **17+:** 14 + P damage; P < STRONG, dazed (save ends)\n\n**Effect:** The target takes a bane on Presence tests until the end of the encounter.\n\n**Strained:** The potency of this ability increases by 1. You take 2d6 damage and gain 3 surges that you can use immediately."
+    distance: Ranged 10
+    feature_type: ability
+    flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
+    item_id: soul-burn
+    item_name: Soul Burn
+    keywords:
+        - Animapathy
+        - Psionic
+        - Ranged
+        - Strike
+    level: 3
+    scc:
+        - mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn
+    target: One creature
+    type: feature/ability/talent/level-3
 name: Soul Burn
-power_roll_characteristic: Presence
-scc: mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn
 target: One creature
-tier1: 6 + P damage; P < WEAK, dazed (save ends)
-tier2: 10 + P damage; P < AVERAGE, dazed (save ends)
-tier3: 14 + P damage; P < STRONG, dazed (save ends)
-type: ability
+type: feature
+usage: Main action

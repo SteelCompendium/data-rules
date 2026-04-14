@@ -1,15 +1,24 @@
-class: fury
-content: |-
-    Your primordial aspect grants you a feature, as shown on the 8th-Level Aspect Features table.
+effects:
+    - effect: |-
+        Your primordial aspect grants you a feature, as shown on the 8th-Level Aspect Features table.
 
-    ###### 8th-Level Aspect Features Table
+        ###### 8th-Level Aspect Features Table
 
-    | Aspect     | Feature            |
-    |------------|--------------------|
-    | Berserker  | Strongest There Is |
-    | Reaver     | A Step Ahead       |
-    | Stormwight | Menagerie          |
-level: "8"
+        | Aspect     | Feature            |
+        |------------|--------------------|
+        | Berserker  | Strongest There Is |
+        | Reaver     | A Step Ahead       |
+        | Stormwight | Menagerie          |
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: 8th-level-aspect-feature
+    item_name: 8th-Level Aspect Feature
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.level-8/8th-level-aspect-feature
+    type: feature/trait/fury/level-8
 name: 8th-Level Aspect Feature
-scc: mcdm.heroes.v1/feature.trait.fury.level-8/8th-level-aspect-feature
-type: trait
+type: feature

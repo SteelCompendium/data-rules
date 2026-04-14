@@ -1,8 +1,22 @@
 {
-  "class": "elementalist",
-  "content": "Each time you finish a respite, you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action.",
-  "level": "3",
+  "effects": [
+    {
+      "effect": "Each time you finish a respite, you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "elementalist",
+    "feature_type": "trait",
+    "item_id": "distance-is-only-memory",
+    "item_name": "Distance Is Only Memory",
+    "level": 3,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.elementalist.level-3/distance-is-only-memory"
+    ],
+    "type": "feature/trait/elementalist/level-3"
+  },
   "name": "Distance Is Only Memory",
-  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-3/distance-is-only-memory",
-  "type": "trait"
+  "type": "feature"
 }

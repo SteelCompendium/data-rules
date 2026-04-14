@@ -1,6 +1,15 @@
-class: elementalist
-content: The area provides concealment for you and your allies.
-level: "4"
+effects:
+    - effect: The area provides concealment for you and your allies.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: elementalist
+    feature_type: trait
+    item_id: veiling-bed
+    item_name: Veiling Bed
+    level: 4
+    scc:
+        - mcdm.heroes.v1/feature.trait.elementalist.level-4/veiling-bed
+    type: feature/trait/elementalist/level-4
 name: Veiling Bed
-scc: mcdm.heroes.v1/feature.trait.elementalist.level-4/veiling-bed
-type: trait
+type: feature

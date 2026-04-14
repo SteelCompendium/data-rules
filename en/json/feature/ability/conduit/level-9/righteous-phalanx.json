@@ -1,19 +1,42 @@
 {
-  "action_type": "Main action",
-  "class": "conduit",
-  "content": "\n*A wall of spinning swords and knives appears where you wish.*\n\n| **Area, Magic, Ranged**  | **Main action** |\n|--------------------------|----------------:|\n| **📏 15 wall within 10** |  **🎯 Special** |\n\n**Effect:** The wall lasts until the end of the encounter or until you are dying, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.",
   "cost": "11 Piety",
   "distance": "15 wall within 10",
-  "effect": "The wall lasts until the end of the encounter or until you are dying, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.",
+  "effects": [
+    {
+      "effect": "The wall lasts until the end of the encounter or until you are dying, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "A wall of spinning swords and knives appears where you wish.",
   "keywords": [
     "Area",
     "Magic",
     "Ranged"
   ],
-  "level": "9",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "conduit",
+    "content": "\n*A wall of spinning swords and knives appears where you wish.*\n\n| **Area, Magic, Ranged**  | **Main action** |\n|--------------------------|----------------:|\n| **📏 15 wall within 10** |  **🎯 Special** |\n\n**Effect:** The wall lasts until the end of the encounter or until you are dying, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.",
+    "distance": "15 wall within 10",
+    "feature_type": "ability",
+    "flavor": "A wall of spinning swords and knives appears where you wish.",
+    "item_id": "righteous-phalanx",
+    "item_name": "Righteous Phalanx",
+    "keywords": [
+      "Area",
+      "Magic",
+      "Ranged"
+    ],
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx"
+    ],
+    "target": "Special",
+    "type": "feature/ability/conduit/level-9"
+  },
   "name": "Righteous Phalanx",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx",
   "target": "Special",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

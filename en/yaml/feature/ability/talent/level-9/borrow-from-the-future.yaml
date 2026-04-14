@@ -1,16 +1,33 @@
-action_type: Maneuver
-class: talent
-content: "\n*You lean on future heroism to assist you in the now.*\n\n| **Area, Chronopathy, Psionic** |                 **Maneuver** |\n|--------------------------------|-----------------------------:|\n| **\U0001F4CF 2 burst**                 | **\U0001F3AF Each ally in the area** |\n\n**Effect:** The targets share 6 of their Heroic Resource among themselves, as you determine. A target can't gain more than 3 of their Heroic Resource this way. After using this ability, you can't gain any clarity until the end of the next combat round.\n\n##### 9th-Level Telekinesis Abilities\n\nChoose one of the following abilities."
 cost: 11 Clarity
 distance: 2 burst
-effect: The targets share 6 of their Heroic Resource among themselves, as you determine. A target can't gain more than 3 of their Heroic Resource this way. After using this ability, you can't gain any clarity until the end of the next combat round.
+effects:
+    - effect: The targets share 6 of their Heroic Resource among themselves, as you determine. A target can't gain more than 3 of their Heroic Resource this way. After using this ability, you can't gain any clarity until the end of the next combat round.
+      name: Effect
+feature_type: ability
 flavor: You lean on future heroism to assist you in the now.
 keywords:
     - Area
     - Chronopathy
     - Psionic
-level: "9"
+metadata:
+    action_type: Maneuver
+    class: talent
+    content: "\n*You lean on future heroism to assist you in the now.*\n\n| **Area, Chronopathy, Psionic** |                 **Maneuver** |\n|--------------------------------|-----------------------------:|\n| **\U0001F4CF 2 burst**                 | **\U0001F3AF Each ally in the area** |\n\n**Effect:** The targets share 6 of their Heroic Resource among themselves, as you determine. A target can't gain more than 3 of their Heroic Resource this way. After using this ability, you can't gain any clarity until the end of the next combat round.\n\n##### 9th-Level Telekinesis Abilities\n\nChoose one of the following abilities."
+    distance: 2 burst
+    feature_type: ability
+    flavor: You lean on future heroism to assist you in the now.
+    item_id: borrow-from-the-future
+    item_name: Borrow From the Future
+    keywords:
+        - Area
+        - Chronopathy
+        - Psionic
+    level: 9
+    scc:
+        - mcdm.heroes.v1/feature.ability.talent.level-9/borrow-from-the-future
+    target: Each ally in the area
+    type: feature/ability/talent/level-9
 name: Borrow From the Future
-scc: mcdm.heroes.v1/feature.ability.talent.level-9/borrow-from-the-future
 target: Each ally in the area
-type: ability
+type: feature
+usage: Maneuver

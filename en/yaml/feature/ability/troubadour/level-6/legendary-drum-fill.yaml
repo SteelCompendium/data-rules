@@ -1,15 +1,31 @@
-action_type: Maneuver
-class: troubadour
-content: "\n*You start a drumroll that roars like thunder with every impact the heroes make.*\n\n| **Area, Magic** |                          **Maneuver** |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter."
 cost: 9 Drama
 distance: 4 burst
-effect: Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter.
+effects:
+    - effect: Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter.
+      name: Effect
+feature_type: ability
 flavor: You start a drumroll that roars like thunder with every impact the heroes make.
 keywords:
     - Area
     - Magic
-level: "6"
+metadata:
+    action_type: Maneuver
+    class: troubadour
+    content: "\n*You start a drumroll that roars like thunder with every impact the heroes make.*\n\n| **Area, Magic** |                          **Maneuver** |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter."
+    distance: 4 burst
+    feature_type: ability
+    flavor: You start a drumroll that roars like thunder with every impact the heroes make.
+    item_id: legendary-drum-fill
+    item_name: Legendary Drum Fill
+    keywords:
+        - Area
+        - Magic
+    level: 6
+    scc:
+        - mcdm.heroes.v1/feature.ability.troubadour.level-6/legendary-drum-fill
+    target: Self and each ally in the area
+    type: feature/ability/troubadour/level-6
 name: Legendary Drum Fill
-scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/legendary-drum-fill
 target: Self and each ally in the area
-type: ability
+type: feature
+usage: Maneuver

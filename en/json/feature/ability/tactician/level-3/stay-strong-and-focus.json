@@ -1,17 +1,38 @@
 {
-  "action_type": "Maneuver",
-  "class": "tactician",
-  "content": "\n*\"We can do this! Keep faith and hold fast!\"*\n\n| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.",
   "cost": "7 Focus",
   "distance": "Self",
-  "effect": "Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.",
+  "effects": [
+    {
+      "effect": "Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "\"We can do this! Keep faith and hold fast!\"",
   "keywords": [
     "-"
   ],
-  "level": "3",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "tactician",
+    "content": "\n*\"We can do this! Keep faith and hold fast!\"*\n\n| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.",
+    "distance": "Self",
+    "feature_type": "ability",
+    "flavor": "\"We can do this! Keep faith and hold fast!\"",
+    "item_id": "stay-strong-and-focus",
+    "item_name": "Stay Strong and Focus!",
+    "keywords": [
+      "-"
+    ],
+    "level": 3,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.tactician.level-3/stay-strong-and-focus"
+    ],
+    "target": "Self",
+    "type": "feature/ability/tactician/level-3"
+  },
   "name": "Stay Strong and Focus!",
-  "scc": "mcdm.heroes.v1/feature.ability.tactician.level-3/stay-strong-and-focus",
   "target": "Self",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

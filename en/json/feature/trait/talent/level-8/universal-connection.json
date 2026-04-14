@@ -1,8 +1,22 @@
 {
-  "class": "talent",
-  "content": "The range of your Telepathic Speech feature increases to anywhere on the same world.",
-  "level": "8",
+  "effects": [
+    {
+      "effect": "The range of your Telepathic Speech feature increases to anywhere on the same world."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "talent",
+    "feature_type": "trait",
+    "item_id": "universal-connection",
+    "item_name": "Universal Connection",
+    "level": 8,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.talent.level-8/universal-connection"
+    ],
+    "type": "feature/trait/talent/level-8"
+  },
   "name": "Universal Connection",
-  "scc": "mcdm.heroes.v1/feature.trait.talent.level-8/universal-connection",
-  "type": "trait"
+  "type": "feature"
 }

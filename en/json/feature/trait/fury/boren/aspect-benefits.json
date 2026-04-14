@@ -1,8 +1,22 @@
 {
-  "class": "fury",
-  "content": "Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M \u003c AVERAGE, you can use a free triggered action to make that creature grabbed by you.",
-  "kit": "boren",
+  "effects": [
+    {
+      "effect": "Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M \u003c AVERAGE, you can use a free triggered action to make that creature grabbed by you."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "aspect-benefits",
+    "item_name": "Aspect Benefits",
+    "kit": "boren",
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.boren/aspect-benefits"
+    ],
+    "type": "feature/trait/fury/boren"
+  },
   "name": "Aspect Benefits",
-  "scc": "mcdm.heroes.v1/feature.trait.fury.boren/aspect-benefits",
-  "type": "trait"
+  "type": "feature"
 }

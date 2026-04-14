@@ -1,18 +1,33 @@
-action_type: Maneuver
-class: "null"
-content: "\n*You channel your discipline into momentum that defies gravity.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** Vertical slide 5\n- **12-16:** Vertical slide 7\n- **17+:** Vertical slide 9\n\n**Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space."
 cost: 9 Discipline
 distance: Self
-effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+effects:
+    - roll: Power Roll + Intuition
+      tier1: Vertical slide 5
+      tier2: Vertical slide 7
+      tier3: Vertical slide 9
+    - effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+      name: Effect
+feature_type: ability
 flavor: You channel your discipline into momentum that defies gravity.
 keywords:
     - Psionic
-level: "6"
+metadata:
+    action_type: Maneuver
+    class: "null"
+    content: "\n*You channel your discipline into momentum that defies gravity.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** Vertical slide 5\n- **12-16:** Vertical slide 7\n- **17+:** Vertical slide 9\n\n**Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space."
+    distance: Self
+    feature_type: ability
+    flavor: You channel your discipline into momentum that defies gravity.
+    item_id: gravitic-charge
+    item_name: Gravitic Charge
+    keywords:
+        - Psionic
+    level: 6
+    scc:
+        - mcdm.heroes.v1/feature.ability.null.level-6/gravitic-charge
+    target: Self
+    type: feature/ability/null/level-6
 name: Gravitic Charge
-power_roll_characteristic: Intuition
-scc: mcdm.heroes.v1/feature.ability.null.level-6/gravitic-charge
 target: Self
-tier1: Vertical slide 5
-tier2: Vertical slide 7
-tier3: Vertical slide 9
-type: ability
+type: feature
+usage: Maneuver

@@ -1,8 +1,22 @@
 {
-  "class": "null",
-  "content": "As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.",
-  "level": "2",
+  "effects": [
+    {
+      "effect": "As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "null",
+    "feature_type": "trait",
+    "item_id": "rapid-processing",
+    "item_name": "Rapid Processing",
+    "level": 2,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.null.level-2/rapid-processing"
+    ],
+    "type": "feature/trait/null/level-2"
+  },
   "name": "Rapid Processing",
-  "scc": "mcdm.heroes.v1/feature.trait.null.level-2/rapid-processing",
-  "type": "trait"
+  "type": "feature"
 }

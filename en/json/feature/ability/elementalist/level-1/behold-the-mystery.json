@@ -1,9 +1,15 @@
 {
-  "action_type": "Main action",
-  "class": "elementalist",
-  "content": "\n*You open a rift into the void to harry your foes.*\n\n| **Area, Magic, Ranged, Void** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 4 psychic damage\n- **17+:** 6 psychic damage\n\n**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.",
   "cost": "3 Essence",
   "distance": "3 cube within 10",
+  "effects": [
+    {
+      "roll": "Power Roll + Reason",
+      "tier1": "2 psychic damage",
+      "tier2": "4 psychic damage",
+      "tier3": "6 psychic damage"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You open a rift into the void to harry your foes.",
   "keywords": [
     "Area",
@@ -11,13 +17,30 @@
     "Ranged",
     "Void"
   ],
-  "level": "1",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "elementalist",
+    "content": "\n*You open a rift into the void to harry your foes.*\n\n| **Area, Magic, Ranged, Void** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 4 psychic damage\n- **17+:** 6 psychic damage\n\n**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.",
+    "distance": "3 cube within 10",
+    "feature_type": "ability",
+    "flavor": "You open a rift into the void to harry your foes.",
+    "item_id": "behold-the-mystery",
+    "item_name": "Behold the Mystery",
+    "keywords": [
+      "Area",
+      "Magic",
+      "Ranged",
+      "Void"
+    ],
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.elementalist.level-1/behold-the-mystery"
+    ],
+    "target": "Each enemy in the area",
+    "type": "feature/ability/elementalist/level-1"
+  },
   "name": "Behold the Mystery",
-  "power_roll_characteristic": "Reason",
-  "scc": "mcdm.heroes.v1/feature.ability.elementalist.level-1/behold-the-mystery",
   "target": "Each enemy in the area",
-  "tier1": "2 psychic damage",
-  "tier2": "4 psychic damage",
-  "tier3": "6 psychic damage",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

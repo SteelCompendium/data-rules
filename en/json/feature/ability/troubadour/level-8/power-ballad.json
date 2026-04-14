@@ -1,18 +1,40 @@
 {
-  "action_type": "Maneuver",
-  "class": "troubadour",
-  "content": "\n*A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*\n\n| **Magic, Ranged** |            **Maneuver** |\n|-------------------|------------------------:|\n| **📏 Ranged 10**  | **🎯 Self or one ally** |\n\n**Effect:** Until the end of the encounter, whenever the target takes damage while winded, they can use a free triggered action to deal half the damage they took to the source of the damage.",
   "cost": "11 Drama",
   "distance": "Ranged 10",
-  "effect": "Until the end of the encounter, whenever the target takes damage while winded, they can use a free triggered action to deal half the damage they took to the source of the damage.",
+  "effects": [
+    {
+      "effect": "Until the end of the encounter, whenever the target takes damage while winded, they can use a free triggered action to deal half the damage they took to the source of the damage.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.",
   "keywords": [
     "Magic",
     "Ranged"
   ],
-  "level": "8",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "troubadour",
+    "content": "\n*A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*\n\n| **Magic, Ranged** |            **Maneuver** |\n|-------------------|------------------------:|\n| **📏 Ranged 10**  | **🎯 Self or one ally** |\n\n**Effect:** Until the end of the encounter, whenever the target takes damage while winded, they can use a free triggered action to deal half the damage they took to the source of the damage.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.",
+    "item_id": "power-ballad",
+    "item_name": "Power Ballad",
+    "keywords": [
+      "Magic",
+      "Ranged"
+    ],
+    "level": 8,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"
+    ],
+    "target": "Self or one ally",
+    "type": "feature/ability/troubadour/level-8"
+  },
   "name": "Power Ballad",
-  "scc": "mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad",
   "target": "Self or one ally",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

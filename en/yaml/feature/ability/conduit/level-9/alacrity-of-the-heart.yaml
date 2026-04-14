@@ -1,15 +1,31 @@
-action_type: Maneuver
-class: conduit
-content: "\n*You speak inspiring words to a friend and spur them to incredible feats.*\n\n| **Magic, Ranged**  |    **Maneuver** |\n|--------------------|----------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF One ally** |\n\n**Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource."
 cost: 11 Piety
 distance: Ranged 10
-effect: The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
+effects:
+    - effect: The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
+      name: Effect
+feature_type: ability
 flavor: You speak inspiring words to a friend and spur them to incredible feats.
 keywords:
     - Magic
     - Ranged
-level: "9"
+metadata:
+    action_type: Maneuver
+    class: conduit
+    content: "\n*You speak inspiring words to a friend and spur them to incredible feats.*\n\n| **Magic, Ranged**  |    **Maneuver** |\n|--------------------|----------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF One ally** |\n\n**Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource."
+    distance: Ranged 10
+    feature_type: ability
+    flavor: You speak inspiring words to a friend and spur them to incredible feats.
+    item_id: alacrity-of-the-heart
+    item_name: Alacrity of the Heart
+    keywords:
+        - Magic
+        - Ranged
+    level: 9
+    scc:
+        - mcdm.heroes.v1/feature.ability.conduit.level-9/alacrity-of-the-heart
+    target: One ally
+    type: feature/ability/conduit/level-9
 name: Alacrity of the Heart
-scc: mcdm.heroes.v1/feature.ability.conduit.level-9/alacrity-of-the-heart
 target: One ally
-type: ability
+type: feature
+usage: Maneuver

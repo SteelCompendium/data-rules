@@ -1,18 +1,40 @@
 {
-  "action_type": "Main action",
-  "class": "conduit",
-  "content": "\n*The gods know you must prevail, and they bless your fate.*\n\n| **Magic, Ranged**  |         **Main action** |\n|--------------------|------------------------:|\n| **📏 Ranged 10**   | **🎯 Self or one ally** |\n\n**Effect:** Until the end of the encounter or until you are dying, each of the target's power rolls has its outcome improved by one tier.",
   "cost": "11 Piety",
   "distance": "Ranged 10",
-  "effect": "Until the end of the encounter or until you are dying, each of the target's power rolls has its outcome improved by one tier.",
+  "effects": [
+    {
+      "effect": "Until the end of the encounter or until you are dying, each of the target's power rolls has its outcome improved by one tier.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "The gods know you must prevail, and they bless your fate.",
   "keywords": [
     "Magic",
     "Ranged"
   ],
-  "level": "9",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "conduit",
+    "content": "\n*The gods know you must prevail, and they bless your fate.*\n\n| **Magic, Ranged**  |         **Main action** |\n|--------------------|------------------------:|\n| **📏 Ranged 10**   | **🎯 Self or one ally** |\n\n**Effect:** Until the end of the encounter or until you are dying, each of the target's power rolls has its outcome improved by one tier.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "The gods know you must prevail, and they bless your fate.",
+    "item_id": "bend-fate",
+    "item_name": "Bend Fate",
+    "keywords": [
+      "Magic",
+      "Ranged"
+    ],
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate"
+    ],
+    "target": "Self or one ally",
+    "type": "feature/ability/conduit/level-9"
+  },
   "name": "Bend Fate",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate",
   "target": "Self or one ally",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

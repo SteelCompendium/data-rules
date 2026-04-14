@@ -1,15 +1,31 @@
-action_type: Maneuver
-class: conduit
-content: "\n*\"The power of the gods is within you, friends. Allow me to unleash it.\"*\n\n| **Area, Magic**   |                          **Maneuver** |\n|-------------------|--------------------------------------:|\n| **\U0001F4CF 5 aura**     | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges."
 cost: 11 Piety
 distance: 5 aura
-effect: At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.
+effects:
+    - effect: At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.
+      name: Effect
+feature_type: ability
 flavor: '"The power of the gods is within you, friends. Allow me to unleash it."'
 keywords:
     - Area
     - Magic
-level: "8"
+metadata:
+    action_type: Maneuver
+    class: conduit
+    content: "\n*\"The power of the gods is within you, friends. Allow me to unleash it.\"*\n\n| **Area, Magic**   |                          **Maneuver** |\n|-------------------|--------------------------------------:|\n| **\U0001F4CF 5 aura**     | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges."
+    distance: 5 aura
+    feature_type: ability
+    flavor: '"The power of the gods is within you, friends. Allow me to unleash it."'
+    item_id: blessing-of-the-blade
+    item_name: Blessing of the Blade
+    keywords:
+        - Area
+        - Magic
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-the-blade
+    target: Self and each ally in the area
+    type: feature/ability/conduit/level-8
 name: Blessing of the Blade
-scc: mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-the-blade
 target: Self and each ally in the area
-type: ability
+type: feature
+usage: Maneuver

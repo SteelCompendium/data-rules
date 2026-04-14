@@ -1,10 +1,19 @@
 {
-  "action_type": "Main action",
-  "class": "null",
-  "content": "\n*You grab the target with supernatural force.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 + A damage; A \u003c WEAK, grabbed\n- **12-16:** 14 + A damage; A \u003c AVERAGE, grabbed\n- **17+:** 18 + A damage; A \u003c STRONG, grabbed\n\n**Effect:** While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.",
   "cost": "9 Discipline",
   "distance": "Melee 1",
-  "effect": "While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.",
+  "effects": [
+    {
+      "roll": "Power Roll + Agility",
+      "tier1": "10 + A damage; A \u003c WEAK, grabbed",
+      "tier2": "14 + A damage; A \u003c AVERAGE, grabbed",
+      "tier3": "18 + A damage; A \u003c STRONG, grabbed"
+    },
+    {
+      "effect": "While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You grab the target with supernatural force.",
   "keywords": [
     "Melee",
@@ -12,13 +21,30 @@
     "Strike",
     "Weapon"
   ],
-  "level": "5",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "null",
+    "content": "\n*You grab the target with supernatural force.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 + A damage; A \u003c WEAK, grabbed\n- **12-16:** 14 + A damage; A \u003c AVERAGE, grabbed\n- **17+:** 18 + A damage; A \u003c STRONG, grabbed\n\n**Effect:** While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.",
+    "distance": "Melee 1",
+    "feature_type": "ability",
+    "flavor": "You grab the target with supernatural force.",
+    "item_id": "iron-grip",
+    "item_name": "Iron Grip",
+    "keywords": [
+      "Melee",
+      "Psionic",
+      "Strike",
+      "Weapon"
+    ],
+    "level": 5,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.null.level-5/iron-grip"
+    ],
+    "target": "One creature",
+    "type": "feature/ability/null/level-5"
+  },
   "name": "Iron Grip",
-  "power_roll_characteristic": "Agility",
-  "scc": "mcdm.heroes.v1/feature.ability.null.level-5/iron-grip",
   "target": "One creature",
-  "tier1": "10 + A damage; A \u003c WEAK, grabbed",
-  "tier2": "14 + A damage; A \u003c AVERAGE, grabbed",
-  "tier3": "18 + A damage; A \u003c STRONG, grabbed",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

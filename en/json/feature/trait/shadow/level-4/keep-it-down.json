@@ -1,8 +1,22 @@
 {
-  "class": "shadow",
-  "content": "While conversing with any creature you share a language with, you can decide whether anyone else can perceive what you're conveying, even while yelling.",
-  "level": "4",
+  "effects": [
+    {
+      "effect": "While conversing with any creature you share a language with, you can decide whether anyone else can perceive what you're conveying, even while yelling."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "shadow",
+    "feature_type": "trait",
+    "item_id": "keep-it-down",
+    "item_name": "Keep It Down",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.shadow.level-4/keep-it-down"
+    ],
+    "type": "feature/trait/shadow/level-4"
+  },
   "name": "Keep It Down",
-  "scc": "mcdm.heroes.v1/feature.trait.shadow.level-4/keep-it-down",
-  "type": "trait"
+  "type": "feature"
 }

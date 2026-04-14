@@ -1,20 +1,37 @@
-action_type: Main action
-class: talent
-content: "\n*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*\n\n| **Area, Psionic, Telepathy** |                        **Main action** |\n|------------------------------|---------------------------------------:|\n| **\U0001F4CF 3 burst**               | **\U0001F3AF Each ally and enemy in the area** |\n\n**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.\n\n**Power Roll + Reason:**\n\n- **≤11:** R < WEAK, frightened (save ends)\n- **12-16:** R < AVERAGE, frightened (save ends)\n- **17+:** R < STRONG, frightened (save ends)\n\n**Strained:** You can't use this ability if doing so would cause you to have negative clarity."
 cost: 11 Clarity
 distance: 3 burst
-effect: You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
+effects:
+    - roll: Power Roll + Reason
+      tier1: R < WEAK, frightened (save ends)
+      tier2: R < AVERAGE, frightened (save ends)
+      tier3: R < STRONG, frightened (save ends)
+    - effect: You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
+      name: Effect
+feature_type: ability
 flavor: You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.
 keywords:
     - Area
     - Psionic
     - Telepathy
-level: "9"
+metadata:
+    action_type: Main action
+    class: talent
+    content: "\n*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*\n\n| **Area, Psionic, Telepathy** |                        **Main action** |\n|------------------------------|---------------------------------------:|\n| **\U0001F4CF 3 burst**               | **\U0001F3AF Each ally and enemy in the area** |\n\n**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.\n\n**Power Roll + Reason:**\n\n- **≤11:** R < WEAK, frightened (save ends)\n- **12-16:** R < AVERAGE, frightened (save ends)\n- **17+:** R < STRONG, frightened (save ends)\n\n**Strained:** You can't use this ability if doing so would cause you to have negative clarity."
+    distance: 3 burst
+    feature_type: ability
+    flavor: You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.
+    item_id: synaptic-terror
+    item_name: Synaptic Terror
+    keywords:
+        - Area
+        - Psionic
+        - Telepathy
+    level: 9
+    scc:
+        - mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror
+    target: Each ally and enemy in the area
+    type: feature/ability/talent/level-9
 name: Synaptic Terror
-power_roll_characteristic: Reason
-scc: mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror
 target: Each ally and enemy in the area
-tier1: R < WEAK, frightened (save ends)
-tier2: R < AVERAGE, frightened (save ends)
-tier3: R < STRONG, frightened (save ends)
-type: ability
+type: feature
+usage: Main action

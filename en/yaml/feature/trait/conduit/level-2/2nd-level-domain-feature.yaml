@@ -1,6 +1,15 @@
-class: conduit
-content: You gain the 1st-level domain feature and ability to choose a skill for the domain you selected at 1st level but whose domain feature you didn't take at that level (see 1st-Level Domain Feature).
-level: "2"
+effects:
+    - effect: You gain the 1st-level domain feature and ability to choose a skill for the domain you selected at 1st level but whose domain feature you didn't take at that level (see 1st-Level Domain Feature).
+feature_type: trait
+metadata:
+    action_type: feature
+    class: conduit
+    feature_type: trait
+    item_id: 2nd-level-domain-feature
+    item_name: 2nd-Level Domain Feature
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.trait.conduit.level-2/2nd-level-domain-feature
+    type: feature/trait/conduit/level-2
 name: 2nd-Level Domain Feature
-scc: mcdm.heroes.v1/feature.trait.conduit.level-2/2nd-level-domain-feature
-type: trait
+type: feature

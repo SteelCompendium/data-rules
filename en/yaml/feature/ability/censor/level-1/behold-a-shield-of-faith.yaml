@@ -1,20 +1,37 @@
-action_type: Main action
-class: censor
-content: "\n*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*\n\n| **Melee, Strike, Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 + M holy damage\n- **12-16:** 6 + M holy damage\n- **17+:** 9 + M holy damage\n\n**Effect:** Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you."
 cost: 3 Wrath
 distance: Melee 1
-effect: Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.
+effects:
+    - roll: Power Roll + Might
+      tier1: 3 + M holy damage
+      tier2: 6 + M holy damage
+      tier3: 9 + M holy damage
+    - effect: Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.
+      name: Effect
+feature_type: ability
 flavor: A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
 keywords:
     - Melee
     - Strike
     - Weapon
-level: "1"
+metadata:
+    action_type: Main action
+    class: censor
+    content: "\n*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*\n\n| **Melee, Strike, Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 + M holy damage\n- **12-16:** 6 + M holy damage\n- **17+:** 9 + M holy damage\n\n**Effect:** Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you."
+    distance: Melee 1
+    feature_type: ability
+    flavor: A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
+    item_id: behold-a-shield-of-faith
+    item_name: Behold a Shield of Faith!
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith
+    target: One creature or object
+    type: feature/ability/censor/level-1
 name: Behold a Shield of Faith!
-power_roll_characteristic: Might
-scc: mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith
 target: One creature or object
-tier1: 3 + M holy damage
-tier2: 6 + M holy damage
-tier3: 9 + M holy damage
-type: ability
+type: feature
+usage: Main action

@@ -1,18 +1,40 @@
 {
-  "action_type": "Main action",
-  "class": "conduit",
-  "content": "\n*A holy light is emitted from your body, healing your allies.*\n\n| **Area, Magic**  |              **Main action** |\n|------------------|-----------------------------:|\n| **📏 3 aura**    | **🎯 Each ally in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.",
   "cost": "5 Piety",
   "distance": "3 aura",
-  "effect": "Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.",
+  "effects": [
+    {
+      "effect": "Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "A holy light is emitted from your body, healing your allies.",
   "keywords": [
     "Area",
     "Magic"
   ],
-  "level": "2",
+  "metadata": {
+    "action_type": "Main action",
+    "class": "conduit",
+    "content": "\n*A holy light is emitted from your body, healing your allies.*\n\n| **Area, Magic**  |              **Main action** |\n|------------------|-----------------------------:|\n| **📏 3 aura**    | **🎯 Each ally in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.",
+    "distance": "3 aura",
+    "feature_type": "ability",
+    "flavor": "A holy light is emitted from your body, healing your allies.",
+    "item_id": "wellspring-of-grace",
+    "item_name": "Wellspring of Grace",
+    "keywords": [
+      "Area",
+      "Magic"
+    ],
+    "level": 2,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace"
+    ],
+    "target": "Each ally in the area",
+    "type": "feature/ability/conduit/level-2"
+  },
   "name": "Wellspring of Grace",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace",
   "target": "Each ally in the area",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Main action"
 }

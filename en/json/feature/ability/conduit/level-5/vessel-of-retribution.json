@@ -1,18 +1,40 @@
 {
-  "action_type": "Maneuver",
-  "class": "conduit",
-  "content": "\n*You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*\n\n| **Magic, Ranged**  | **Maneuver**            |\n|--------------------|-------------------------|\n| **📏 Ranged 10**   | **🎯 Self or one ally** |\n\n**Effect:** The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.",
   "cost": "9 Piety",
   "distance": "Ranged 10",
-  "effect": "The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.",
+  "effects": [
+    {
+      "effect": "The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.",
   "keywords": [
     "Magic",
     "Ranged"
   ],
-  "level": "5",
+  "metadata": {
+    "action_type": "Maneuver",
+    "class": "conduit",
+    "content": "\n*You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*\n\n| **Magic, Ranged**  | **Maneuver**            |\n|--------------------|-------------------------|\n| **📏 Ranged 10**   | **🎯 Self or one ally** |\n\n**Effect:** The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.",
+    "item_id": "vessel-of-retribution",
+    "item_name": "Vessel of Retribution",
+    "keywords": [
+      "Magic",
+      "Ranged"
+    ],
+    "level": 5,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution"
+    ],
+    "target": "Self or one ally",
+    "type": "feature/ability/conduit/level-5"
+  },
   "name": "Vessel of Retribution",
-  "scc": "mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution",
   "target": "Self or one ally",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Maneuver"
 }

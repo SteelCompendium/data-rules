@@ -1,6 +1,15 @@
-class: conduit
-content: You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
-level: "7"
+effects:
+    - effect: You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: conduit
+    feature_type: trait
+    item_id: covenant-of-the-heart
+    item_name: Covenant of the Heart
+    level: 7
+    scc:
+        - mcdm.heroes.v1/feature.trait.conduit.level-7/covenant-of-the-heart
+    type: feature/trait/conduit/level-7
 name: Covenant of the Heart
-scc: mcdm.heroes.v1/feature.trait.conduit.level-7/covenant-of-the-heart
-type: trait
+type: feature

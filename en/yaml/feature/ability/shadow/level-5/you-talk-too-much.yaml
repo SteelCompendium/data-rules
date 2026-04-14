@@ -1,21 +1,39 @@
-action_type: Main action
-class: shadow
-content: "\n*Silence is a virtue. A knife pinning their mouth shut is the next best thing.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 + A damage; P < WEAK, dazed (save ends)\n- **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)\n- **17+:** 21 + A damage; P < STRONG, dazed (save ends)\n\n**Effect:** The target can't communicate with anyone until the end of the encounter."
 cost: 9 Insight
 distance: Melee 1 or ranged 5
-effect: The target can't communicate with anyone until the end of the encounter.
+effects:
+    - roll: Power Roll + Agility
+      tier1: 10 + A damage; P < WEAK, dazed (save ends)
+      tier2: 15 + A damage; P < AVERAGE, dazed (save ends)
+      tier3: 21 + A damage; P < STRONG, dazed (save ends)
+    - effect: The target can't communicate with anyone until the end of the encounter.
+      name: Effect
+feature_type: ability
 flavor: Silence is a virtue. A knife pinning their mouth shut is the next best thing.
 keywords:
     - Melee
     - Ranged
     - Strike
     - Weapon
-level: "5"
+metadata:
+    action_type: Main action
+    class: shadow
+    content: "\n*Silence is a virtue. A knife pinning their mouth shut is the next best thing.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 + A damage; P < WEAK, dazed (save ends)\n- **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)\n- **17+:** 21 + A damage; P < STRONG, dazed (save ends)\n\n**Effect:** The target can't communicate with anyone until the end of the encounter."
+    distance: Melee 1 or ranged 5
+    feature_type: ability
+    flavor: Silence is a virtue. A knife pinning their mouth shut is the next best thing.
+    item_id: you-talk-too-much
+    item_name: You Talk Too Much
+    keywords:
+        - Melee
+        - Ranged
+        - Strike
+        - Weapon
+    level: 5
+    scc:
+        - mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much
+    target: One creature
+    type: feature/ability/shadow/level-5
 name: You Talk Too Much
-power_roll_characteristic: Agility
-scc: mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much
 target: One creature
-tier1: 10 + A damage; P < WEAK, dazed (save ends)
-tier2: 15 + A damage; P < AVERAGE, dazed (save ends)
-tier3: 21 + A damage; P < STRONG, dazed (save ends)
-type: ability
+type: feature
+usage: Main action

@@ -1,8 +1,22 @@
 {
-  "class": "elementalist",
-  "content": "Whenever you willingly move, you can teleport.\n\nAdditionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.",
-  "level": "10",
+  "effects": [
+    {
+      "effect": "Whenever you willingly move, you can teleport.\n\nAdditionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "elementalist",
+    "feature_type": "trait",
+    "item_id": "master-of-void",
+    "item_name": "Master of Void",
+    "level": 10,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-void"
+    ],
+    "type": "feature/trait/elementalist/level-10"
+  },
   "name": "Master of Void",
-  "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-void",
-  "type": "trait"
+  "type": "feature"
 }

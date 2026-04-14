@@ -1,14 +1,29 @@
-action_type: Maneuver
-class: "null"
-content: "\n*You focus until your body becomes as hard as iron.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score."
 cost: 9 Discipline
 distance: Self
-effect: You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
+effects:
+    - effect: You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
+      name: Effect
+feature_type: ability
 flavor: You focus until your body becomes as hard as iron.
 keywords:
     - Psionic
-level: "6"
+metadata:
+    action_type: Maneuver
+    class: "null"
+    content: "\n*You focus until your body becomes as hard as iron.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score."
+    distance: Self
+    feature_type: ability
+    flavor: You focus until your body becomes as hard as iron.
+    item_id: iron-body
+    item_name: Iron Body
+    keywords:
+        - Psionic
+    level: 6
+    scc:
+        - mcdm.heroes.v1/feature.ability.null.level-6/iron-body
+    target: Self
+    type: feature/ability/null/level-6
 name: Iron Body
-scc: mcdm.heroes.v1/feature.ability.null.level-6/iron-body
 target: Self
-type: ability
+type: feature
+usage: Maneuver

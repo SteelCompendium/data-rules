@@ -1,21 +1,39 @@
-action_type: Main action
-class: troubadour
-content: "\n*Just one bad review will ruin their day.*\n\n| **Magic, Melee, Ranged, Strike** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**      | **\U0001F3AF One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 7 + P sonic damage\n- **12-16:** 10 + P sonic damage\n- **17+:** 13 + P sonic damage\n\n**Effect:** The first time the target uses an ability before the start of your next turn, any effects from the ability's tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual."
 cost: 3 Drama
 distance: Melee 1 or ranged 10
-effect: The first time the target uses an ability before the start of your next turn, any effects from the ability's tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.
+effects:
+    - roll: Power Roll + Presence
+      tier1: 7 + P sonic damage
+      tier2: 10 + P sonic damage
+      tier3: 13 + P sonic damage
+    - effect: The first time the target uses an ability before the start of your next turn, any effects from the ability's tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.
+      name: Effect
+feature_type: ability
 flavor: Just one bad review will ruin their day.
 keywords:
     - Magic
     - Melee
     - Ranged
     - Strike
-level: "1"
+metadata:
+    action_type: Main action
+    class: troubadour
+    content: "\n*Just one bad review will ruin their day.*\n\n| **Magic, Melee, Ranged, Strike** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**      | **\U0001F3AF One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 7 + P sonic damage\n- **12-16:** 10 + P sonic damage\n- **17+:** 13 + P sonic damage\n\n**Effect:** The first time the target uses an ability before the start of your next turn, any effects from the ability's tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual."
+    distance: Melee 1 or ranged 10
+    feature_type: ability
+    flavor: Just one bad review will ruin their day.
+    item_id: harsh-critic
+    item_name: Harsh Critic
+    keywords:
+        - Magic
+        - Melee
+        - Ranged
+        - Strike
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic
+    target: One creature or object
+    type: feature/ability/troubadour/level-1
 name: Harsh Critic
-power_roll_characteristic: Presence
-scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic
 target: One creature or object
-tier1: 7 + P sonic damage
-tier2: 10 + P sonic damage
-tier3: 13 + P sonic damage
-type: ability
+type: feature
+usage: Main action

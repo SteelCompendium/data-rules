@@ -1,20 +1,43 @@
 {
-  "action_type": "Triggered",
-  "class": "censor",
-  "content": "\n*Gifted by a prescient vision, you warn an ally of an impending attack.*\n\n| **Magic, Ranged** |          **Triggered** |\n|-------------------|-----------------------:|\n| **📏 Ranged 10**  | **🎯 Self or one ally** |\n\n**Trigger:** An enemy within 10 squares starts their turn.\n\n**Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.",
+  "ability_type": "Triggered",
   "cost": "5 Wrath",
   "distance": "Ranged 10",
-  "effect": "You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.",
+  "effects": [
+    {
+      "effect": "You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
   "flavor": "Gifted by a prescient vision, you warn an ally of an impending attack.",
   "keywords": [
     "Magic",
     "Ranged"
   ],
-  "level": "2",
+  "metadata": {
+    "ability_type": "Triggered",
+    "action_type": "Triggered",
+    "class": "censor",
+    "content": "\n*Gifted by a prescient vision, you warn an ally of an impending attack.*\n\n| **Magic, Ranged** |          **Triggered** |\n|-------------------|-----------------------:|\n| **📏 Ranged 10**  | **🎯 Self or one ally** |\n\n**Trigger:** An enemy within 10 squares starts their turn.\n\n**Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.",
+    "distance": "Ranged 10",
+    "feature_type": "ability",
+    "flavor": "Gifted by a prescient vision, you warn an ally of an impending attack.",
+    "item_id": "prescient-grace",
+    "item_name": "Prescient Grace",
+    "keywords": [
+      "Magic",
+      "Ranged"
+    ],
+    "level": 2,
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.censor.level-2/prescient-grace"
+    ],
+    "target": "Self or one ally",
+    "type": "feature/ability/censor/level-2"
+  },
   "name": "Prescient Grace",
-  "scc": "mcdm.heroes.v1/feature.ability.censor.level-2/prescient-grace",
-  "subtype": "triggered",
   "target": "Self or one ally",
   "trigger": "An enemy within 10 squares starts their turn.",
-  "type": "ability"
+  "type": "feature",
+  "usage": "Triggered"
 }

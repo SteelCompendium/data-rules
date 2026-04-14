@@ -1,15 +1,32 @@
-action_type: Free maneuver
-class: shadow
-content: "\n*The longer it cooks, the bigger the boom.*\n\n| **Area, Ranged**        |             **Free maneuver** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 2 cube within 10** | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.\n\nFor each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.\n\n**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability."
 distance: 2 cube within 10
-effect: Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
+effects:
+    - effect: Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
+      name: Effect
+    - cost: Spend 2+ Insight
+      effect: For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+feature_type: ability
 flavor: The longer it cooks, the bigger the boom.
 keywords:
     - Area
     - Ranged
-level: "8"
+metadata:
+    action_type: Free maneuver
+    class: shadow
+    content: "\n*The longer it cooks, the bigger the boom.*\n\n| **Area, Ranged**        |             **Free maneuver** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 2 cube within 10** | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.\n\nFor each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.\n\n**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability."
+    distance: 2 cube within 10
+    feature_type: ability
+    flavor: The longer it cooks, the bigger the boom.
+    item_id: time-bomb
+    item_name: Time Bomb
+    keywords:
+        - Area
+        - Ranged
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb
+    target: Each enemy in the area
+    type: feature/ability/shadow/level-8
 name: Time Bomb
-scc: mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb
-spend: '2+ Insight: For every 2 insight spent, you increase the cube''s size by 1 and gain 1 surge that can be used only with this ability.'
 target: Each enemy in the area
-type: ability
+type: feature
+usage: Free maneuver

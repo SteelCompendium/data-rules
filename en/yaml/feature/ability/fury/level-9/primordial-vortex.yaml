@@ -1,21 +1,39 @@
-action_type: Main action
-class: fury
-content: "\n*You channel the power of the Primordial Chaos to pull foes to you.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 3 burst**                 | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 damage; vertical pull 3\n- **12-16:** 5 damage; vertical pull 5\n- **17+:** 8 damage; vertical pull 7\n\n**Effect:** If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.\n\n##### 9th-Level Reaver Abilities\n\nChoose one of the following abilities."
 cost: 11 Ferocity
 distance: 3 burst
-effect: If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+effects:
+    - roll: Power Roll + Might
+      tier1: 3 damage; vertical pull 3
+      tier2: 5 damage; vertical pull 5
+      tier3: 8 damage; vertical pull 7
+    - effect: If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+      name: Effect
+feature_type: ability
 flavor: You channel the power of the Primordial Chaos to pull foes to you.
 keywords:
     - Area
     - Magic
     - Melee
     - Weapon
-level: "9"
+metadata:
+    action_type: Main action
+    class: fury
+    content: "\n*You channel the power of the Primordial Chaos to pull foes to you.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 3 burst**                 | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 damage; vertical pull 3\n- **12-16:** 5 damage; vertical pull 5\n- **17+:** 8 damage; vertical pull 7\n\n**Effect:** If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.\n\n##### 9th-Level Reaver Abilities\n\nChoose one of the following abilities."
+    distance: 3 burst
+    feature_type: ability
+    flavor: You channel the power of the Primordial Chaos to pull foes to you.
+    item_id: primordial-vortex
+    item_name: Primordial Vortex
+    keywords:
+        - Area
+        - Magic
+        - Melee
+        - Weapon
+    level: 9
+    scc:
+        - mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex
+    target: Each enemy in the area
+    type: feature/ability/fury/level-9
 name: Primordial Vortex
-power_roll_characteristic: Might
-scc: mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex
 target: Each enemy in the area
-tier1: 3 damage; vertical pull 3
-tier2: 5 damage; vertical pull 5
-tier3: 8 damage; vertical pull 7
-type: ability
+type: feature
+usage: Main action

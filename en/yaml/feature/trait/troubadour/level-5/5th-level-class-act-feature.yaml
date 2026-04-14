@@ -1,6 +1,15 @@
-class: troubadour
-content: Your troubadour class act grants your choice of one of two features.
-level: "5"
+effects:
+    - effect: Your troubadour class act grants your choice of one of two features.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: troubadour
+    feature_type: trait
+    item_id: 5th-level-class-act-feature
+    item_name: 5th-Level Class Act Feature
+    level: 5
+    scc:
+        - mcdm.heroes.v1/feature.trait.troubadour.level-5/5th-level-class-act-feature
+    type: feature/trait/troubadour/level-5
 name: 5th-Level Class Act Feature
-scc: mcdm.heroes.v1/feature.trait.troubadour.level-5/5th-level-class-act-feature
-type: trait
+type: feature

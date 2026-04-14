@@ -1,6 +1,15 @@
-class: "null"
-content: As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.
-level: "8"
+effects:
+    - effect: As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: "null"
+    feature_type: trait
+    item_id: synaptic-triage
+    item_name: Synaptic Triage
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage
+    type: feature/trait/null/level-8
 name: Synaptic Triage
-scc: mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage
-type: trait
+type: feature
