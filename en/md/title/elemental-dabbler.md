@@ -1,5 +1,7 @@
 ---
+effect: 'Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:'
 name: Elemental Dabbler
+prerequisite: You defeat a creature with the Elemental keyword, such as a crux of fire.
 scc: mcdm.heroes.v1/title/elemental-dabbler
 type: title
 ---

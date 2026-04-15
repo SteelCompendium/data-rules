@@ -1,4 +1,5 @@
 ---
+benefit: You have the following ability.
 file_basename: stripped-of-rank
 file_dpath: complication
 item_id: stripped-of-rank

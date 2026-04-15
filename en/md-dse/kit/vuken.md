@@ -6,9 +6,6 @@ item_name: Vuken
 name: Vuken
 scc: mcdm.heroes.v1/kit/vuken
 source: mcdm.heroes.v1
-stat_bonuses:
-    main-action: "\U0001F3AF One creature or object"
-    melee-strike-weapon: "\U0001F4CF Melee 1"
 type: kit
 ---
 

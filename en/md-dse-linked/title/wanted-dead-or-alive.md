@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: wanted-dead-or-alive
 file_dpath: title
 item_id: wanted-dead-or-alive
 item_name: Wanted Dead or Alive
 name: Wanted Dead or Alive
+prerequisite: You are declared an outlaw by a governmental authority.
 scc: mcdm.heroes.v1/title/wanted-dead-or-alive
 source: mcdm.heroes.v1
 type: title

@@ -1,4 +1,6 @@
 ---
+benefit: You have 3 destiny points. Whenever you spend your Heroic Resource for your class, you can spend 1 or more destiny points instead. Each time you earn a Victory, you regain 1 destiny point.
+drawback: Whenever you spend 1 or more destiny points, you take 1d10 psychic damage that can't be reduced in any way, and the cult that seeks you becomes aware of your location.
 name: Chosen One
 scc: mcdm.heroes.v1/complication/chosen-one
 type: complication

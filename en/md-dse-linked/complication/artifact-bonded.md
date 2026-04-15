@@ -1,4 +1,6 @@
 ---
+benefit: 'Choose an artifact (see [Treasures](#page-327-2) in [Chapter 13: Rewards](#page-327-1)). The first time in an encounter that you are reduced to 0 Stamina against your will, the artifact appears on your person. It disappears at the end of your next turn, when you benefit from one of its properties, or when you have more than 0 Stamina, whichever comes first.'
+drawback: Each time the artifact appears, you lose a Recovery. If you have no Recoveries remaining, you take 1d10 damage instead, which can't be reduced in any way.
 file_basename: artifact-bonded
 file_dpath: complication
 item_id: artifact-bonded

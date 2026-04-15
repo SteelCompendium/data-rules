@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: city-rat
 file_dpath: title
 item_id: city-rat
 item_name: City Rat
 name: City Rat
+prerequisite: You have spent at least five respites in a metropolis.
 scc: mcdm.heroes.v1/title/city-rat
 source: mcdm.heroes.v1
 type: title

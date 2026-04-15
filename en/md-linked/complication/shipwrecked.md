@@ -1,4 +1,6 @@
 ---
+benefit: You have two skills of your choice from the exploration skill group.
+drawback: You have forgotten one language you know of your choice.
 name: Shipwrecked
 scc: mcdm.heroes.v1/complication/shipwrecked
 type: complication

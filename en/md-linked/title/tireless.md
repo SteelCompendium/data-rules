@@ -1,5 +1,7 @@
 ---
+effect: 'Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 name: Tireless
+prerequisite: You have the Unstoppable title, and you make or assist on a test as part of a montage test that obtains a full success.
 scc: mcdm.heroes.v1/title/tireless
 type: title
 ---

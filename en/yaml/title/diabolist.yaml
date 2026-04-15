@@ -9,6 +9,8 @@ content: |-
     - *Infernal Legacy:* You gain 3 ancestry points to spend on purchased devil ancestry traits (see [Chapter 3](#page-35-0)).
     - *Sly Devil:* You gain the Silver Tongue signature trait from the devil ancestry.
     - *Untouched by Corruption:* Whenever you use a damage-dealing ability, that ability can deal holy damage instead of its usual damage type.
+effect: 'Choose one of the following benefits:'
 name: Diabolist
+prerequisite: You defeat a leader or solo creature with the Devil keyword, such as an archdevil, or you make a deal with a devil.
 scc: mcdm.heroes.v1/title/diabolist
 type: title

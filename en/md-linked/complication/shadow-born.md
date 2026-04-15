@@ -1,4 +1,6 @@
 ---
+benefit: Whenever you start your turn with concealment, you gain 1 surge.
+drawback: You have holy weakness 5.
 name: Shadow Born
 scc: mcdm.heroes.v1/complication/shadow-born
 type: complication

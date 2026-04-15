@@ -1,4 +1,6 @@
 ---
+benefit: You have a skill of your choice from the intrigue skill group. Additionally, you can resume your true identity temporarily. While in your true identity, your Renown and Wealth are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
+drawback: Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your secret identity for 1 day.
 file_basename: secret-identity
 file_dpath: complication
 item_id: secret-identity

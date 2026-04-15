@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: ancient-loremaster
 file_dpath: title
 item_id: ancient-loremaster
 item_name: Ancient Loremaster
 name: Ancient Loremaster
+prerequisite: You find a trove of forgotten books.
 scc: mcdm.heroes.v1/title/ancient-loremaster
 source: mcdm.heroes.v1
 type: title

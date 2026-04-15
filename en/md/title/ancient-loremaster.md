@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Ancient Loremaster
+prerequisite: You find a trove of forgotten books.
 scc: mcdm.heroes.v1/title/ancient-loremaster
 type: title
 ---

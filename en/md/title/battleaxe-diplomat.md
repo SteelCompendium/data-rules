@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Battleaxe Diplomat
+prerequisite: You gain the friendship or alliance of a creature you once battled.
 scc: mcdm.heroes.v1/title/battleaxe-diplomat
 type: title
 ---

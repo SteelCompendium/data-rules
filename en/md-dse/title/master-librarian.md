@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: master-librarian
 file_dpath: title
 item_id: master-librarian
 item_name: Master Librarian
 name: Master Librarian
+prerequisite: You have the Ancient Loremaster title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
 scc: mcdm.heroes.v1/title/master-librarian
 source: mcdm.heroes.v1
 type: title

@@ -12,6 +12,8 @@ content: |-
     > **Renown and Wealth**
     >
     > Many titles bestow Renown, followers, and wealth upon heroes. Those topics are covered later in this chapter.
+effect: 'Choose one of the following benefits:'
 name: Local Hero
+prerequisite: You save a community from certain destruction.
 scc: mcdm.heroes.v1/title/local-hero
 type: title

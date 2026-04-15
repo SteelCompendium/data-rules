@@ -1,9 +1,11 @@
 ---
+effect: A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your Stamina and Recoveries, and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
 file_basename: reborn
 file_dpath: title
 item_id: reborn
 item_name: Reborn
 name: Reborn
+prerequisite: You died in glorious battle while on a quest for a higher power.
 scc: mcdm.heroes.v1/title/reborn
 source: mcdm.heroes.v1
 type: title

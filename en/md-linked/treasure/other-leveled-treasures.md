@@ -1,4 +1,7 @@
 ---
+keywords:
+    - Magic
+    - Ring
 name: Other Leveled Treasures
 scc: mcdm.heroes.v1/treasure/other-leveled-treasures
 type: treasure

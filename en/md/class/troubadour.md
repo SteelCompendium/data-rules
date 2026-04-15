@@ -1,7 +1,15 @@
 ---
+average_potency: Presence − 1
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
+skills:
+    - 'You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag'
+    - Flirt
+    - Read Person
+    - Rumors.)
+strong_potency: Presence
 type: class
+weak_potency: Presence − 2
 ---
 
 The whole world's a stage, and everyone on it, an actor. No one knows this better than the troubadour. You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.

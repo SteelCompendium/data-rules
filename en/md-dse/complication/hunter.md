@@ -1,4 +1,6 @@
 ---
+benefit: 'Choose one skill from the following:'
+drawback: You are so obsessed with finding your quarry that you take a bane on any test made to track other creatures.
 file_basename: hunter
 file_dpath: complication
 item_id: hunter

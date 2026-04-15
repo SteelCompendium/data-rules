@@ -1,4 +1,6 @@
 ---
+benefit: You have fire immunity 5.
+drawback: You have cold weakness 5.
 name: Fire and Chaos
 scc: mcdm.heroes.v1/complication/fire-and-chaos
 type: complication

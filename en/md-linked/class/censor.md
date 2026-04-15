@@ -1,7 +1,13 @@
 ---
+average_potency: Presence − 1
 name: Censor
 scc: mcdm.heroes.v1/class/censor
+skills:
+    - 'Choose any two skills from the interpersonal or lore skill groups (see [Skills](#page-268-0) in Chapter 9: Tests). (*Quick Build:* Intimidate'
+    - Religion.)
+strong_potency: Presence
 type: class
+weak_potency: Presence − 2
 ---
 
 Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.

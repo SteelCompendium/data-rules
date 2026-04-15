@@ -1,4 +1,5 @@
 ---
+benefit: You have the following ability.
 name: Lost Your Head
 scc: mcdm.heroes.v1/complication/lost-your-head
 type: complication

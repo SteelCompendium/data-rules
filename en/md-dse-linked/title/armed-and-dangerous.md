@@ -1,9 +1,11 @@
 ---
+effect: You can use and gain the benefits of kits.
 file_basename: armed-and-dangerous
 file_dpath: title
 item_id: armed-and-dangerous
 item_name: Armed and Dangerous
 name: Armed and Dangerous
+prerequisite: You can't use kits, and you defeat five non-minion enemies using weapon abilities that don't have the Magic or Psionic keyword.
 scc: mcdm.heroes.v1/title/armed-and-dangerous
 source: mcdm.heroes.v1
 type: title

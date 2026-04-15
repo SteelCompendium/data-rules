@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: planar-voyager
 file_dpath: title
 item_id: planar-voyager
 item_name: Planar Voyager
 name: Planar Voyager
+prerequisite: You voyage in strange vehicles on different worlds.
 scc: mcdm.heroes.v1/title/planar-voyager
 source: mcdm.heroes.v1
 type: title

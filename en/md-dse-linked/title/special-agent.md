@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: special-agent
 file_dpath: title
 item_id: special-agent
 item_name: Special Agent
 name: Special Agent
+prerequisite: A spymaster gives you an important secret mission.
 scc: mcdm.heroes.v1/title/special-agent
 source: mcdm.heroes.v1
 type: title

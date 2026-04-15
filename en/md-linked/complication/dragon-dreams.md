@@ -1,4 +1,6 @@
 ---
+benefit: 'Choose 2 ancestry points'' worth of purchased dragon knight traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.'
+drawback: Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
 name: Dragon Dreams
 scc: mcdm.heroes.v1/complication/dragon-dreams
 type: complication

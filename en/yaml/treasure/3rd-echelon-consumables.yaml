@@ -134,6 +134,9 @@ content: |-
     **Project Goal:** 180
 
     **Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a saving throw.
+effect: When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh adjacent to you. The wall can't be created to fill any square occupied by a creature with stability 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
+keywords:
+    - Psionic
 name: 3rd-Echelon Consumables
 scc: mcdm.heroes.v1/treasure/3rd-echelon-consumables
 type: treasure

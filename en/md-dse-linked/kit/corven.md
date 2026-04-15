@@ -6,9 +6,6 @@ item_name: Corven
 name: Corven
 scc: mcdm.heroes.v1/kit/corven
 source: mcdm.heroes.v1
-stat_bonuses:
-    area-melee-weapon: "\U0001F4CF 1 burst"
-    main-action: "\U0001F3AF Each enemy in the area"
 type: kit
 ---
 

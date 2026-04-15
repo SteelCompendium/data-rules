@@ -1,4 +1,6 @@
 ---
+benefit: You have corruption immunity 5.
+drawback: You have fire weakness 5.
 name: Greening
 scc: mcdm.heroes.v1/complication/greening
 type: complication

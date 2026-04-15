@@ -1,4 +1,6 @@
 ---
+benefit: 'Choose one skill from the following:'
+drawback: You are so obsessed with finding your quarry that you take a bane on any test made to track other creatures.
 name: Hunter
 scc: mcdm.heroes.v1/complication/hunter
 type: complication

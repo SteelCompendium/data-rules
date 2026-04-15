@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: arena-fighter
 file_dpath: title
 item_id: arena-fighter
 item_name: Arena Fighter
 name: Arena Fighter
+prerequisite: You are victorious in battle in an arena or some other public contest of combat.
 scc: mcdm.heroes.v1/title/arena-fighter
 source: mcdm.heroes.v1
 type: title

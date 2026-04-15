@@ -1,4 +1,6 @@
 ---
+benefit: You don't age. Additionally, whenever you would die, you instead enter a state of suspended animation indistinguishable from death. If your body isn't destroyed by dying or while you remain in this state, you come back to life after 12 hours and regain Stamina equal to your recovery value.
+drawback: You take a bane on any test made to recall lore.
 file_basename: curse-of-immortality
 file_dpath: complication
 item_id: curse-of-immortality

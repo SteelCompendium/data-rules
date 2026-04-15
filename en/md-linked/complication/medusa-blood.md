@@ -1,4 +1,5 @@
 ---
+benefit: You have the following ability.
 name: Medusa Blood
 scc: mcdm.heroes.v1/complication/medusa-blood
 type: complication

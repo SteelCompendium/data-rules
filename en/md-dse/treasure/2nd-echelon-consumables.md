@@ -1,8 +1,11 @@
 ---
+effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the frightened, slowed, and taunted conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
 file_basename: 2nd-echelon-consumables
 file_dpath: treasure
 item_id: 2nd-echelon-consumables
 item_name: 2nd-Echelon Consumables
+keywords:
+    - Psionic
 name: 2nd-Echelon Consumables
 scc: mcdm.heroes.v1/treasure/2nd-echelon-consumables
 source: mcdm.heroes.v1

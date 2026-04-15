@@ -1,4 +1,6 @@
 ---
+benefit: You have two skills of your choice, neither of which can be from the interpersonal skill group.
+drawback: Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to hide or sneak.
 file_basename: wrongly-imprisoned
 file_dpath: complication
 item_id: wrongly-imprisoned

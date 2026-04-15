@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Maestro
+prerequisite: You visit the realms of gods, devils, or other immortal beings and hear a note of the Music of Creation.
 scc: mcdm.heroes.v1/title/maestro
 type: title
 ---

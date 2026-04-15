@@ -8,7 +8,11 @@ name: Farmer
 perk: One exploration perk (*Quick Build:* Monster Whisperer.)
 project_points: "120"
 scc: mcdm.heroes.v1/career/farmer
-skill: The Handle Animals skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* Drive, Handle Animals, Lift.)
+skills:
+    - The Handle Animals skill (from the interpersonal skill group)
+    - plus two skills from the exploration group (*Quick Build:* Drive
+    - Handle Animals
+    - Lift.)
 source: mcdm.heroes.v1
 type: career
 ---

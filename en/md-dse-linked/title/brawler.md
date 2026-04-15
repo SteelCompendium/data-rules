@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: brawler
 file_dpath: title
 item_id: brawler
 item_name: Brawler
 name: Brawler
+prerequisite: You triumph in battle without killing any of your foes.
 scc: mcdm.heroes.v1/title/brawler
 source: mcdm.heroes.v1
 type: title

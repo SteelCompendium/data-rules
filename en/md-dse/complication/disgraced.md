@@ -1,4 +1,6 @@
 ---
+benefit: You earn 1 Renown, and you have one skill of your choice from the interpersonal or intrigue skill group.
+drawback: Anyone who has heard of you and is influenced by your Renown treats you as infamous. Whenever you are part of a negotiation with an NPC who has an interest of 2 or lower, that NPC makes a plan to hurt you personally after the negotiation ends—and carries that plan out.
 file_basename: disgraced
 file_dpath: complication
 item_id: disgraced

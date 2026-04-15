@@ -1,4 +1,6 @@
 ---
+benefit: 'You have a leveled weapon of your choice (see [Treasures](#page-327-2) in [Chapter 13: Rewards](#page-327-1)).'
+drawback: You have damage weakness 2.
 file_basename: cursed-weapon
 file_dpath: complication
 item_id: cursed-weapon

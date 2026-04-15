@@ -6,9 +6,6 @@ item_name: Rapid-Fire
 name: Rapid-Fire
 scc: mcdm.heroes.v1/kit/rapid-fire
 source: mcdm.heroes.v1
-stat_bonuses:
-    main-action: "\U0001F3AF Two creatures or objects"
-    ranged-strike-weapon: "\U0001F4CF Ranged 12"
 type: kit
 ---
 

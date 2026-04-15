@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Godsworn
+prerequisite: You do a favor for an agent of a god or saint, or promise to do so.
 scc: mcdm.heroes.v1/title/godsworn
 type: title
 ---

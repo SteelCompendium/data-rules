@@ -1,4 +1,6 @@
 ---
+benefit: You have immunity to corruption, holy, and psychic damage equal to your level.
+drawback: Whenever you carry more than three magic treasures, you take a bane on power rolls.
 file_basename: mundane
 file_dpath: complication
 item_id: mundane

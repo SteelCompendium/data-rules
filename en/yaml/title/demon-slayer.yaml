@@ -12,6 +12,8 @@ content: |-
     - *Soulsight:* Any creature within 2 squares can't be hidden from you.
 
     **Special:** When you make a Presence test and roll a natural 5 or lower, you are cursed to communicate in only Proto-Ctholl for 1 minute, whether you know that language or not.
+effect: 'Choose one of the following benefits:'
 name: Demon Slayer
+prerequisite: You defeat a leader or solo creature with the Demon keyword, such as a soulraker hivequeen, or you are possessed by a demon.
 scc: mcdm.heroes.v1/title/demon-slayer
 type: title

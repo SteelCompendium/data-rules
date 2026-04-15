@@ -1,4 +1,6 @@
 ---
+benefit: You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
+drawback: You have fire weakness 5.
 name: Frostheart
 scc: mcdm.heroes.v1/complication/frostheart
 type: complication

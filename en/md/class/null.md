@@ -1,7 +1,14 @@
 ---
+average_potency: Intuition − 1
 name: "Null"
 scc: mcdm.heroes.v1/class/null
+skills:
+    - 'You gain the Psionics skill (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics'
+    - Read Person
+    - Timescape.)
+strong_potency: Intuition
 type: class
+weak_potency: Intuition − 2
 ---
 
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.

@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Battlefield Commander
+prerequisite: You lead an army in battle and win.
 scc: mcdm.heroes.v1/title/battlefield-commander
 type: title
 ---

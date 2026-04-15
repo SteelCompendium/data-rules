@@ -1,4 +1,6 @@
 ---
+benefit: You have one skill of your choice from the intrigue skill group.
+drawback: Whenever you meet an NPC for the first time, the Director can decide that NPC was a victim of one of your previous cons and remembers you. If they do so, the party gains a hero token.
 file_basename: grifter
 file_dpath: complication
 item_id: grifter

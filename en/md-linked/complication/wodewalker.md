@@ -1,4 +1,6 @@
 ---
+benefit: Your recovery value increases by an amount equal to your highest characteristic score.
+drawback: You have fire weakness 5.
 name: Wodewalker
 scc: mcdm.heroes.v1/complication/wodewalker
 type: complication

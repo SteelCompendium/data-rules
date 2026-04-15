@@ -1,4 +1,6 @@
 ---
+benefit: When you spend a hero token to succeed on a saving throw or to reroll a test, roll a d10. On a 6 or higher, you gain the benefit but don't spend the hero token.
+drawback: Whenever you obtain a tier 1 outcome on a test and don't spend a hero token to reroll, you take a bane on the next test you make.
 name: Lucky
 scc: mcdm.heroes.v1/complication/lucky
 type: complication

@@ -1,4 +1,7 @@
 ---
+keywords:
+    - Light Armor
+    - Magic
 name: Leveled Armor Treasures
 scc: mcdm.heroes.v1/treasure/leveled-armor-treasures
 type: treasure

@@ -1,4 +1,6 @@
 ---
+benefit: Whenever you start your turn with concealment, you gain 1 surge.
+drawback: You have holy weakness 5.
 file_basename: shadow-born
 file_dpath: complication
 item_id: shadow-born

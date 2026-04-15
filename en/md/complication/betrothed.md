@@ -1,4 +1,6 @@
 ---
+benefit: 'You escaped with a dowry present—a 1st-echelon trinket of your choice (see [Treasures](#page-327-2) in [Chapter 13: Rewards](#page-327-1)).'
+drawback: All those who learn of you running out on your commitment think less of you and spread nasty rumors about you. Your Renown can't ever be more than your level − 1.
 name: Betrothed
 scc: mcdm.heroes.v1/complication/betrothed
 type: complication

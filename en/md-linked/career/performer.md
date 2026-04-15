@@ -3,7 +3,11 @@ name: Performer
 perk: One interpersonal perk (*Quick Build:* Harmonizer.)
 renown: "+2"
 scc: mcdm.heroes.v1/career/performer
-skill: The Music or Perform skill (from the interpersonal skill group), plus two more skills from the interpersonal group (*Quick Build:* Flirt, Music, Perform.)
+skills:
+    - The Music or Perform skill (from the interpersonal skill group)
+    - plus two more skills from the interpersonal group (*Quick Build:* Flirt
+    - Music
+    - Perform.)
 type: career
 ---
 

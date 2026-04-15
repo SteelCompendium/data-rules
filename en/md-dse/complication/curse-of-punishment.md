@@ -1,4 +1,6 @@
 ---
+benefit: You have 1 additional Recovery.
+drawback: When you are out of Recoveries, you are dying, no matter what your current Stamina is.
 file_basename: curse-of-punishment
 file_dpath: complication
 item_id: curse-of-punishment

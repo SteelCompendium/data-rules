@@ -1,4 +1,6 @@
 ---
+benefit: While you are frightened, you can move toward the source of your fear.
+drawback: Whenever you make a saving throw to end the frightened condition, you roll a d10 twice and take the lower roll.
 name: Coward
 scc: mcdm.heroes.v1/complication/coward
 type: complication

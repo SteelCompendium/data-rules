@@ -1,9 +1,11 @@
 ---
+effect: After being defeated, each character awakes, alive and with full Stamina and Recoveries. You are all captives of the creatures who defeated you, and a gruesome end awaits you—unless you can escape or overcome the nefarious challenge your captors have planned.
 file_basename: saved-for-a-worse-fate
 file_dpath: title
 item_id: saved-for-a-worse-fate
 item_name: Saved for a Worse Fate
 name: Saved for a Worse Fate
+prerequisite: The entire party is killed or captured by sapient foes.
 scc: mcdm.heroes.v1/title/saved-for-a-worse-fate
 source: mcdm.heroes.v1
 type: title

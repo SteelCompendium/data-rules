@@ -1,4 +1,6 @@
 ---
+benefit: You can automatically climb or swim (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
+drawback: You have poison weakness 5.
 name: Sewer Folk
 scc: mcdm.heroes.v1/complication/sewer-folk
 type: complication

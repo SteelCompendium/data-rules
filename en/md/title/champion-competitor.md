@@ -1,5 +1,7 @@
 ---
+effect: 'A characteristic used during the competition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 name: Champion Competitor
+prerequisite: You beat the best in the world at a game or sport.
 scc: mcdm.heroes.v1/title/champion-competitor
 type: title
 ---

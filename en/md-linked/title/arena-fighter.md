@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Arena Fighter
+prerequisite: You are victorious in battle in an arena or some other public contest of combat.
 scc: mcdm.heroes.v1/title/arena-fighter
 type: title
 ---

@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Brawler
+prerequisite: You triumph in battle without killing any of your foes.
 scc: mcdm.heroes.v1/title/brawler
 type: title
 ---

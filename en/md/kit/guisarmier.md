@@ -1,9 +1,6 @@
 ---
 name: Guisarmier
 scc: mcdm.heroes.v1/kit/guisarmier
-stat_bonuses:
-    main-action: "\U0001F3AF Two creatures or objects"
-    melee-strike-weapon: "\U0001F4CF Melee 2"
 type: kit
 ---
 

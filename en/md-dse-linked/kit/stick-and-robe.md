@@ -6,9 +6,6 @@ item_name: Stick and Robe
 name: Stick and Robe
 scc: mcdm.heroes.v1/kit/stick-and-robe
 source: mcdm.heroes.v1
-stat_bonuses:
-    main-action: "\U0001F3AF One creature"
-    melee-strike-weapon: "\U0001F4CF Melee 2"
 type: kit
 ---
 

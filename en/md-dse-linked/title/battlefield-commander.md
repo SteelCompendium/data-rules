@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: battlefield-commander
 file_dpath: title
 item_id: battlefield-commander
 item_name: Battlefield Commander
 name: Battlefield Commander
+prerequisite: You lead an army in battle and win.
 scc: mcdm.heroes.v1/title/battlefield-commander
 source: mcdm.heroes.v1
 type: title

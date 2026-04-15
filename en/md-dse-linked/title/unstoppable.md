@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: unstoppable
 file_dpath: title
 item_id: unstoppable
 item_name: Unstoppable
 name: Unstoppable
+prerequisite: You defeat a foe while at or below 0 Stamina.
 scc: mcdm.heroes.v1/title/unstoppable
 source: mcdm.heroes.v1
 type: title

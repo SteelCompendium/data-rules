@@ -1,4 +1,5 @@
 ---
+benefit: You can automatically swim at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 file_basename: waterborn
 file_dpath: complication
 item_id: waterborn

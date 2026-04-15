@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: mage-hunter
 file_dpath: title
 item_id: mage-hunter
 item_name: Mage Hunter
 name: Mage Hunter
+prerequisite: You defeat three leader or solo creatures who each have at least one ability with the Magic keyword.
 scc: mcdm.heroes.v1/title/mage-hunter
 source: mcdm.heroes.v1
 type: title

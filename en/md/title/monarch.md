@@ -1,5 +1,7 @@
 ---
+effect: 'You gain the following benefits:'
 name: Monarch
+prerequisite: You or a member of your party becomes the monarch of a nation.
 scc: mcdm.heroes.v1/title/monarch
 type: title
 ---

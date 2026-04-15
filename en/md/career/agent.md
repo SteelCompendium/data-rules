@@ -3,7 +3,11 @@ language: Two languages
 name: Agent
 perk: One intrigue perk (*Quick Build:* Forgettable Face.)
 scc: mcdm.heroes.v1/career/agent
-skill: The Sneak skill from the intrigue skill group, plus one skill from the interpersonal group and one other skill from the intrigue group (*Quick Build:* Disguise, Lie, Sneak.)
+skills:
+    - The Sneak skill from the intrigue skill group
+    - plus one skill from the interpersonal group and one other skill from the intrigue group (*Quick Build:* Disguise
+    - Lie
+    - Sneak.)
 type: career
 ---
 

@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Demon Slayer
+prerequisite: You defeat a leader or solo creature with the Demon keyword, such as a soulraker hivequeen, or you are possessed by a demon.
 scc: mcdm.heroes.v1/title/demon-slayer
 type: title
 ---

@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: dwarven-legionnaire
 file_dpath: title
 item_id: dwarven-legionnaire
 item_name: Dwarven Legionnaire
 name: Dwarven Legionnaire
+prerequisite: You fight alongside three or more dwarves.
 scc: mcdm.heroes.v1/title/dwarven-legionnaire
 source: mcdm.heroes.v1
 type: title

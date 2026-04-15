@@ -1,9 +1,6 @@
 ---
 name: Arcane Archer
 scc: mcdm.heroes.v1/kit/arcane-archer
-stat_bonuses:
-    magic-ranged-strike-weapon: "\U0001F4CF Ranged 15"
-    main-action: "\U0001F3AF One creature or object"
 type: kit
 ---
 

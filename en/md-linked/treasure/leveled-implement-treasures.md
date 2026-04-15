@@ -1,4 +1,7 @@
 ---
+keywords:
+    - Implement
+    - Magic
 name: Leveled Implement Treasures
 scc: mcdm.heroes.v1/treasure/leveled-implement-treasures
 type: treasure

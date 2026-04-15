@@ -1,5 +1,7 @@
 ---
+effect: 'You gain the following benefits:'
 name: Demigod
+prerequisite: You have the Godsworn title, and hundreds of worshipful mortals complete a divine ritual in your name.
 scc: mcdm.heroes.v1/title/demigod
 type: title
 ---

@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: awakened
 file_dpath: title
 item_id: awakened
 item_name: Awakened
 name: Awakened
+prerequisite: You defeat a leader or solo creature who has at least one ability with the Psionic keyword, such as a voiceless talker evolutionist.
 scc: mcdm.heroes.v1/title/awakened
 source: mcdm.heroes.v1
 type: title

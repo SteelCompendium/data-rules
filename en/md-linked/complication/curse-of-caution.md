@@ -1,4 +1,6 @@
 ---
+benefit: Until you've taken your turn in a combat round, any strike made against you takes a bane.
+drawback: You have a −1 penalty to speed.
 name: Curse of Caution
 scc: mcdm.heroes.v1/complication/curse-of-caution
 type: complication

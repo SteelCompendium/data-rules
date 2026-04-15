@@ -1,9 +1,11 @@
 ---
+effect: 'You are given a position of great authority in your faction. Additionally, you gain the following benefits:'
 file_basename: faction-officer
 file_dpath: title
 item_id: faction-officer
 item_name: Faction Officer
 name: Faction Officer
+prerequisite: You have the Faction Member title, and you greatly advance the faction's goals.
 scc: mcdm.heroes.v1/title/faction-officer
 source: mcdm.heroes.v1
 type: title

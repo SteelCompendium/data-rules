@@ -1,4 +1,6 @@
 ---
+benefit: You have two skills of your choice from the exploration skill group.
+drawback: You have forgotten one language you know of your choice.
 file_basename: shipwrecked
 file_dpath: complication
 item_id: shipwrecked

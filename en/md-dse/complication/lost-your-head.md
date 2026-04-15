@@ -1,4 +1,5 @@
 ---
+benefit: You have the following ability.
 file_basename: lost-your-head
 file_dpath: complication
 item_id: lost-your-head

@@ -1,4 +1,6 @@
 ---
+benefit: You have one skill of your choice from the crafting skill group.
+drawback: Members of your extended family are looking for you, intending to drag you home—and you've never been able to stand up to them.
 name: Runaway
 scc: mcdm.heroes.v1/complication/runaway
 type: complication

@@ -1,9 +1,11 @@
 ---
+effect: While it might appear that you died, you did not. Instead, you regain 1 Stamina and can spend 1 or more Recoveries. Additionally, you gain a 1st-echelon trinket of the Director's choice (see [Treasures](#page-327-2) earlier in this chapter).
 file_basename: presumed-dead
 file_dpath: title
 item_id: presumed-dead
 item_name: Presumed Dead
 name: Presumed Dead
+prerequisite: You die in a way that prevents your body from being recovered or examined (for instance, by falling off a cliff).
 scc: mcdm.heroes.v1/title/presumed-dead
 source: mcdm.heroes.v1
 type: title

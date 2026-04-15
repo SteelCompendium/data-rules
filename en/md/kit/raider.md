@@ -1,9 +1,6 @@
 ---
 name: Raider
 scc: mcdm.heroes.v1/kit/raider
-stat_bonuses:
-    main-action: "\U0001F3AF One creature"
-    melee-ranged-strike-weapon: "\U0001F4CF Melee 1 or ranged 10"
 type: kit
 ---
 

@@ -1,4 +1,6 @@
 ---
+benefit: Having gained the favor of the faction you helped, you can call on its members three times for favors. If a favor is reasonable and within the faction's power to grant, its members do it, no questions asked.
+drawback: The faction you wronged hates you, and its members would love to see you pay for your transgression.
 file_basename: war-of-assassins
 file_dpath: complication
 item_id: war-of-assassins

@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: master-crafter
 file_dpath: title
 item_id: master-crafter
 item_name: Master Crafter
 name: Master Crafter
+prerequisite: You complete a downtime project to imbue armor, an implement, or a weapon with a 9th-level enhancement.
 scc: mcdm.heroes.v1/title/master-crafter
 source: mcdm.heroes.v1
 type: title

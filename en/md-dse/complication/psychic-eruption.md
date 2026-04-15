@@ -1,4 +1,5 @@
 ---
+benefit: You have the following heroic ability.
 file_basename: psychic-eruption
 file_dpath: complication
 item_id: psychic-eruption

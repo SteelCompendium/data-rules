@@ -1,4 +1,6 @@
 ---
+benefit: You gain a +1 bonus to stability.
+drawback: If you are ever forced to disobey your organization's orders, your stability becomes 0 until your doubts are resolved or you find a new organization to pledge yourself to.
 file_basename: vow-of-duty
 file_dpath: complication
 item_id: vow-of-duty

@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Troupe Leading Player
+prerequisite: The party has successfully performed as a troupe of actors, circus performers, or other entertainers.
 scc: mcdm.heroes.v1/title/troupe-leading-player
 type: title
 ---

@@ -1,4 +1,6 @@
 ---
+benefit: You have corruption immunity 5.
+drawback: You have fire weakness 5.
 file_basename: greening
 file_dpath: complication
 item_id: greening

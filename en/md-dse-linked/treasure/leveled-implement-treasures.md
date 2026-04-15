@@ -3,6 +3,9 @@ file_basename: leveled-implement-treasures
 file_dpath: treasure
 item_id: leveled-implement-treasures
 item_name: Leveled Implement Treasures
+keywords:
+    - Implement
+    - Magic
 name: Leveled Implement Treasures
 scc: mcdm.heroes.v1/treasure/leveled-implement-treasures
 source: mcdm.heroes.v1

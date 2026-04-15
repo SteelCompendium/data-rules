@@ -1,4 +1,5 @@
 ---
+benefit: You can automatically swim at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 name: Waterborn
 scc: mcdm.heroes.v1/complication/waterborn
 type: complication

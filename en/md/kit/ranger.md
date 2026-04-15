@@ -1,9 +1,6 @@
 ---
 name: Ranger
 scc: mcdm.heroes.v1/kit/ranger
-stat_bonuses:
-    main-action: "\U0001F3AF One creature"
-    ranged-strike-weapon: "\U0001F4CF Ranged 10"
 type: kit
 ---
 

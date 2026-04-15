@@ -8,7 +8,9 @@ name: Sage
 perk: One lore perk (*Quick Build:* Expert Sage.)
 project_points: "240"
 scc: mcdm.heroes.v1/career/sage
-skill: Two skills from the lore skill group (*Quick Build:* History, Magic.)
+skills:
+    - Two skills from the lore skill group (*Quick Build:* History
+    - Magic.)
 source: mcdm.heroes.v1
 type: career
 ---

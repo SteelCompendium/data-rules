@@ -1,9 +1,11 @@
 ---
+effect: You return to life 1 minute after being killed with Stamina equal to your winded value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.
 file_basename: undead-slain
 file_dpath: title
 item_id: undead-slain
 item_name: Undead Slain
 name: Undead Slain
+prerequisite: You are killed by an undead creature.
 scc: mcdm.heroes.v1/title/undead-slain
 source: mcdm.heroes.v1
 type: title

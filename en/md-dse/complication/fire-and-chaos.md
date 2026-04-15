@@ -1,4 +1,6 @@
 ---
+benefit: You have fire immunity 5.
+drawback: You have cold weakness 5.
 file_basename: fire-and-chaos
 file_dpath: complication
 item_id: fire-and-chaos

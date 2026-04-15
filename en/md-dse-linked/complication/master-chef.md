@@ -1,4 +1,6 @@
 ---
+benefit: You have the Cooking skill (from the crafting skill group). Additionally, whenever you finish a respite or wake up after a night's sleep, you can spend 1 uninterrupted hour to prepare an excellent meal for up to ten creatures, provided you have ingredients and cooking tools. Once over the next 24 hours, each creature who eats the meal can gain the benefit of spending a Recovery without spending a Recovery.
+drawback: The first time each day you eat food you didn't prepare, you lose 2 Recoveries.
 file_basename: master-chef
 file_dpath: complication
 item_id: master-chef

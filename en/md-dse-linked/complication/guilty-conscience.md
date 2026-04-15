@@ -1,4 +1,6 @@
 ---
+benefit: You're determined to stay alive so you can set things right. When your Stamina reaches the negative of your winded value, you can use a free triggered action to spend a Recovery.
+drawback: Many people blame you for the evils you caused. They might be unfriendly or hostile to you—and you can understand their point of view. You take a bane on any test made to interact with those who know what you did, and on strikes made against such creatures.
 file_basename: guilty-conscience
 file_dpath: complication
 item_id: guilty-conscience

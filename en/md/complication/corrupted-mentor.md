@@ -1,4 +1,5 @@
 ---
+benefit: You know the Corrupt Spirit maneuver, taught to you by your mentor. (In retrospect, that probably should have aroused your suspicion.)
 name: Corrupted Mentor
 scc: mcdm.heroes.v1/complication/corrupted-mentor
 type: complication

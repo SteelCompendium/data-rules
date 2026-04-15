@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: dragon-blooded
 file_dpath: title
 item_id: dragon-blooded
 item_name: Dragon Blooded
 name: Dragon Blooded
+prerequisite: You defeat a leader or solo creature with the Dragon keyword, such as a gloom dragon.
 scc: mcdm.heroes.v1/title/dragon-blooded
 source: mcdm.heroes.v1
 type: title

@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: blood-magic
 file_dpath: title
 item_id: blood-magic
 item_name: Blood Magic
 name: Blood Magic
+prerequisite: You participate in a Discover Lore project to learn forbidden knowledge.
 scc: mcdm.heroes.v1/title/blood-magic
 source: mcdm.heroes.v1
 type: title

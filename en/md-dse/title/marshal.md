@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: marshal
 file_dpath: title
 item_id: marshal
 item_name: Marshal
 name: Marshal
+prerequisite: 'You join an organization that hunts criminals, such as the Far Mariners (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)), or you are deputized to act for the local authorities.'
 scc: mcdm.heroes.v1/title/marshal
 source: mcdm.heroes.v1
 type: title

@@ -1,4 +1,7 @@
 ---
+effect: When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh adjacent to you. The wall can't be created to fill any square occupied by a creature with stability 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
+keywords:
+    - Psionic
 name: 3rd-Echelon Consumables
 scc: mcdm.heroes.v1/treasure/3rd-echelon-consumables
 type: treasure

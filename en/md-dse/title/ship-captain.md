@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: ship-captain
 file_dpath: title
 item_id: ship-captain
 item_name: Ship Captain
 name: Ship Captain
+prerequisite: You acquire a ship, airship, or similar vessel.
 scc: mcdm.heroes.v1/title/ship-captain
 source: mcdm.heroes.v1
 type: title

@@ -1,9 +1,6 @@
 ---
 name: Boren
 scc: mcdm.heroes.v1/kit/boren
-stat_bonuses:
-    main-action: "\U0001F3AF One creature or object"
-    melee-strike-weapon: "\U0001F4CF Melee 1"
 type: kit
 ---
 

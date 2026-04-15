@@ -1,4 +1,6 @@
 ---
+benefit: You have corruption immunity 5 and poison immunity 5.
+drawback: Your number of Recoveries is permanently reduced by 1.
 name: Primordial Sickness
 scc: mcdm.heroes.v1/complication/primordial-sickness
 type: complication

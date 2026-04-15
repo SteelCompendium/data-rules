@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Noble
+prerequisite: A monarch or important noble grants you a noble rank.
 scc: mcdm.heroes.v1/title/noble
 type: title
 ---

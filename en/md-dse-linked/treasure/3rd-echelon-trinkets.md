@@ -1,8 +1,12 @@
 ---
+effect: While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 damage bonus for any weapon ability that deals rolled damage, and a +1 bonus to the distance you push any target with any weapon ability. This damage bonus adds to the damage bonus granted by other treasures.
 file_basename: 3rd-echelon-trinkets
 file_dpath: treasure
 item_id: 3rd-echelon-trinkets
 item_name: 3rd-Echelon Trinkets
+keywords:
+    - Arms
+    - Magic
 name: 3rd-Echelon Trinkets
 scc: mcdm.heroes.v1/treasure/3rd-echelon-trinkets
 source: mcdm.heroes.v1

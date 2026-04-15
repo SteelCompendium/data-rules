@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: demon-slayer
 file_dpath: title
 item_id: demon-slayer
 item_name: Demon Slayer
 name: Demon Slayer
+prerequisite: You defeat a leader or solo creature with the Demon keyword, such as a soulraker hivequeen, or you are possessed by a demon.
 scc: mcdm.heroes.v1/title/demon-slayer
 source: mcdm.heroes.v1
 type: title

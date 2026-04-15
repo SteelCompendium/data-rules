@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Giant Slayer
+prerequisite: You defeat a leader or solo creature with the Giant keyword, such as a fire giant chief.
 scc: mcdm.heroes.v1/title/giant-slayer
 type: title
 ---

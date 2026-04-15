@@ -1,4 +1,6 @@
 ---
+benefit: You earn 1 Renown.
+drawback: Law enforcement officials and bounty hunters who recognize you attempt to arrest you.
 name: Outlaw
 scc: mcdm.heroes.v1/complication/outlaw
 type: complication

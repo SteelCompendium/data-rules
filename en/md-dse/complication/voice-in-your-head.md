@@ -1,4 +1,6 @@
 ---
+benefit: The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
+drawback: Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a respite, causing you to regain 2 fewer Recoveries than usual.
 file_basename: voice-in-your-head
 file_dpath: complication
 item_id: voice-in-your-head

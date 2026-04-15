@@ -3,7 +3,11 @@ language: Two languages
 name: Beggar
 perk: One interpersonal perk (*Quick Build:* Spot the Tell.)
 scc: mcdm.heroes.v1/career/beggar
-skill: The Rumors skill (from the lore skill group), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* Empathize, Endurance, Rumors.)
+skills:
+    - The Rumors skill (from the lore skill group)
+    - plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* Empathize
+    - Endurance
+    - Rumors.)
 type: career
 ---
 

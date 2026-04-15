@@ -1,9 +1,6 @@
 ---
 name: Dual Wielder
 scc: mcdm.heroes.v1/kit/dual-wielder
-stat_bonuses:
-    main-action: "\U0001F3AF Two creatures or objects"
-    melee-strike-weapon: "\U0001F4CF Melee 1"
 type: kit
 ---
 

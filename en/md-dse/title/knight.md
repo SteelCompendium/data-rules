@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: knight
 file_dpath: title
 item_id: knight
 item_name: Knight
 name: Knight
+prerequisite: A noble or monarch grants you knighthood or a similar rank.
 scc: mcdm.heroes.v1/title/knight
 source: mcdm.heroes.v1
 type: title

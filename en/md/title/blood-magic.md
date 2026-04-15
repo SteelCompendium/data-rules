@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Blood Magic
+prerequisite: You participate in a Discover Lore project to learn forbidden knowledge.
 scc: mcdm.heroes.v1/title/blood-magic
 type: title
 ---

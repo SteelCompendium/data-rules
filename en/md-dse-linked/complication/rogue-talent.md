@@ -1,4 +1,5 @@
 ---
+benefit: You have the following ability, which you can use as a ranged free strike.
 file_basename: rogue-talent
 file_dpath: complication
 item_id: rogue-talent

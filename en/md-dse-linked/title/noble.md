@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: noble
 file_dpath: title
 item_id: noble
 item_name: Noble
 name: Noble
+prerequisite: A monarch or important noble grants you a noble rank.
 scc: mcdm.heroes.v1/title/noble
 source: mcdm.heroes.v1
 type: title

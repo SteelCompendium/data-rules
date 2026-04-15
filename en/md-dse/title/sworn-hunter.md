@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: sworn-hunter
 file_dpath: title
 item_id: sworn-hunter
 item_name: Sworn Hunter
 name: Sworn Hunter
+prerequisite: You have the Marshal title, and you take down an entire criminal organization.
 scc: mcdm.heroes.v1/title/sworn-hunter
 source: mcdm.heroes.v1
 type: title

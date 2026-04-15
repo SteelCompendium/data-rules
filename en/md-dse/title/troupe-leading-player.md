@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: troupe-leading-player
 file_dpath: title
 item_id: troupe-leading-player
 item_name: Troupe Leading Player
 name: Troupe Leading Player
+prerequisite: The party has successfully performed as a troupe of actors, circus performers, or other entertainers.
 scc: mcdm.heroes.v1/title/troupe-leading-player
 source: mcdm.heroes.v1
 type: title

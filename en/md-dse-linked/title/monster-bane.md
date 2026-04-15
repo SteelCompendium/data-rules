@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: monster-bane
 file_dpath: title
 item_id: monster-bane
 item_name: Monster Bane
 name: Monster Bane
+prerequisite: You defeat a leader or solo creature with a Reason score of −2 or lower, such as an arixx.
 scc: mcdm.heroes.v1/title/monster-bane
 source: mcdm.heroes.v1
 type: title

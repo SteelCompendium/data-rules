@@ -17,6 +17,8 @@ content: |-
     - One mundane lock you touch is unlocked.
     - Choose a square within 10 squares, even if you don't have line of effect to it. You can observe the area around that square as if you were in it.
     - You throw the boffin up to 10 squares, where it explodes in a 5 cube. Each creature in the area takes fire damage equal to 2d10 + your level. The boffin is permanently destroyed but can be replaced by your spymaster... though they don't like doing so too often.
+effect: 'Choose one of the following benefits:'
 name: Special Agent
+prerequisite: A spymaster gives you an important secret mission.
 scc: mcdm.heroes.v1/title/special-agent
 type: title

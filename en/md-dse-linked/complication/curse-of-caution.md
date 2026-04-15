@@ -1,4 +1,6 @@
 ---
+benefit: Until you've taken your turn in a combat round, any strike made against you takes a bane.
+drawback: You have a −1 penalty to speed.
 file_basename: curse-of-caution
 file_dpath: complication
 item_id: curse-of-caution

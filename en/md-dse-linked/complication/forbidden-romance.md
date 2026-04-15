@@ -1,4 +1,6 @@
 ---
+benefit: You can secretly call on your betrothed for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
+drawback: When your lover is in trouble, they might call on you for help. But if your relationship is discovered, the circumstances that keep you apart will be made worse.
 file_basename: forbidden-romance
 file_dpath: complication
 item_id: forbidden-romance

@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: battleaxe-diplomat
 file_dpath: title
 item_id: battleaxe-diplomat
 item_name: Battleaxe Diplomat
 name: Battleaxe Diplomat
+prerequisite: You gain the friendship or alliance of a creature you once battled.
 scc: mcdm.heroes.v1/title/battleaxe-diplomat
 source: mcdm.heroes.v1
 type: title

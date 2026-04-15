@@ -10,6 +10,8 @@ content: |-
     - *Retinue:* The number of followers you can recruit increases by two.
 
     **Special:** If you take this title, you might occasionally be called upon to perform duties for the person who granted your noble rank.
+effect: 'Choose one of the following benefits:'
 name: Noble
+prerequisite: A monarch or important noble grants you a noble rank.
 scc: mcdm.heroes.v1/title/noble
 type: title

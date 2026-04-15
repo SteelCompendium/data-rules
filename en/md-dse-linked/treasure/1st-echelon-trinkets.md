@@ -1,8 +1,12 @@
 ---
+effect: While worn, a blue Color Cloak grants you cold immunity equal to your level.
 file_basename: 1st-echelon-trinkets
 file_dpath: treasure
 item_id: 1st-echelon-trinkets
 item_name: 1st-Echelon Trinkets
+keywords:
+    - Magic
+    - Neck
 name: 1st-Echelon Trinkets
 scc: mcdm.heroes.v1/treasure/1st-echelon-trinkets
 source: mcdm.heroes.v1

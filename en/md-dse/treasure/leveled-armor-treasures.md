@@ -3,6 +3,9 @@ file_basename: leveled-armor-treasures
 file_dpath: treasure
 item_id: leveled-armor-treasures
 item_name: Leveled Armor Treasures
+keywords:
+    - Light Armor
+    - Magic
 name: Leveled Armor Treasures
 scc: mcdm.heroes.v1/treasure/leveled-armor-treasures
 source: mcdm.heroes.v1

@@ -1,4 +1,7 @@
 ---
+effect: 'As a maneuver, you make a ranged free strike using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:'
+keywords:
+    - Magic
 name: 1st-Echelon Consumables
 scc: mcdm.heroes.v1/treasure/1st-echelon-consumables
 type: treasure

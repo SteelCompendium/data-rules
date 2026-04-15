@@ -1,9 +1,11 @@
 ---
+effect: 'You gain the following benefits:'
 file_basename: demigod
 file_dpath: title
 item_id: demigod
 item_name: Demigod
 name: Demigod
+prerequisite: You have the Godsworn title, and hundreds of worshipful mortals complete a divine ritual in your name.
 scc: mcdm.heroes.v1/title/demigod
 source: mcdm.heroes.v1
 type: title

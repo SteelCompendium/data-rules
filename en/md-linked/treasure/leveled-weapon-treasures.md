@@ -1,4 +1,7 @@
 ---
+keywords:
+    - Psionic
+    - Whip
 name: Leveled Weapon Treasures
 scc: mcdm.heroes.v1/treasure/leveled-weapon-treasures
 type: treasure

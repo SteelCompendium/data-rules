@@ -1,4 +1,6 @@
 ---
+benefit: On your turn, you can choose a heroic ability that you would be able to learn if you were one level higher. Provided you meet the ability's other prerequisites and can spend any required Heroic Resource, you can use the ability. Once you use this benefit, you can't do so again until you earn 2 or more Victories.
+drawback: While you are winded, you take a −2 penalty to speed.
 name: Getting Too Old for This
 scc: mcdm.heroes.v1/complication/getting-too-old-for-this
 type: complication

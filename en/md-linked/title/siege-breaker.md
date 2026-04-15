@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Siege Breaker
+prerequisite: You have the Battlefield Commander title, and you lead the defense of a settlement or fortification.
 scc: mcdm.heroes.v1/title/siege-breaker
 type: title
 ---

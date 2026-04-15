@@ -1,4 +1,6 @@
 ---
+benefit: Once per turn, you can move through solid matter 1 square thick or less. If you end your turn inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
+drawback: You have corruption weakness 5.
 name: Cult Victim
 scc: mcdm.heroes.v1/complication/cult-victim
 type: complication

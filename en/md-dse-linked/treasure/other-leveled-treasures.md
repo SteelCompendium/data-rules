@@ -3,6 +3,9 @@ file_basename: other-leveled-treasures
 file_dpath: treasure
 item_id: other-leveled-treasures
 item_name: Other Leveled Treasures
+keywords:
+    - Magic
+    - Ring
 name: Other Leveled Treasures
 scc: mcdm.heroes.v1/treasure/other-leveled-treasures
 source: mcdm.heroes.v1

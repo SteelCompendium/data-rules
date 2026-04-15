@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: heist-hero
 file_dpath: title
 item_id: heist-hero
 item_name: Heist Hero
 name: Heist Hero
+prerequisite: You have the Troupe Leading Player title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
 scc: mcdm.heroes.v1/title/heist-hero
 source: mcdm.heroes.v1
 type: title

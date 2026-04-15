@@ -4,7 +4,11 @@ name: Mage's Apprentice
 perk: One supernatural perk (*Quick Build:* Arcane Trick.)
 renown: "+1"
 scc: mcdm.heroes.v1/career/mages-apprentice
-skill: The Magic skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* Magic, Monsters, Timescape.)
+skills:
+    - The Magic skill (from the lore skill group)
+    - plus two other skills from the lore group (*Quick Build:* Magic
+    - Monsters
+    - Timescape.)
 type: career
 ---
 

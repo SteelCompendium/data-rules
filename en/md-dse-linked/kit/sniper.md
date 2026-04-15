@@ -6,9 +6,6 @@ item_name: Sniper
 name: Sniper
 scc: mcdm.heroes.v1/kit/sniper
 source: mcdm.heroes.v1
-stat_bonuses:
-    main-action: "\U0001F3AF One creature"
-    ranged-strike-weapon: "\U0001F4CF Ranged 15"
 type: kit
 ---
 

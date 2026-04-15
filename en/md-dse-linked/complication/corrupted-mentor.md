@@ -1,4 +1,5 @@
 ---
+benefit: You know the Corrupt Spirit maneuver, taught to you by your mentor. (In retrospect, that probably should have aroused your suspicion.)
 file_basename: corrupted-mentor
 file_dpath: complication
 item_id: corrupted-mentor

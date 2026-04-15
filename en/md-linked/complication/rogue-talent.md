@@ -1,4 +1,5 @@
 ---
+benefit: You have the following ability, which you can use as a ranged free strike.
 name: Rogue Talent
 scc: mcdm.heroes.v1/complication/rogue-talent
 type: complication

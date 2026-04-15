@@ -1,5 +1,7 @@
 ---
+effect: The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
 name: Owed a Favor
+prerequisite: You successfully perform a service for a powerful faction.
 scc: mcdm.heroes.v1/title/owed-a-favor
 type: title
 ---

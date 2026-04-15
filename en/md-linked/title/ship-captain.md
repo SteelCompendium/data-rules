@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Ship Captain
+prerequisite: You acquire a ship, airship, or similar vessel.
 scc: mcdm.heroes.v1/title/ship-captain
 type: title
 ---

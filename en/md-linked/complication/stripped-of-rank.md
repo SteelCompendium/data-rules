@@ -1,4 +1,5 @@
 ---
+benefit: You have the following ability.
 name: Stripped of Rank
 scc: mcdm.heroes.v1/complication/stripped-of-rank
 type: complication

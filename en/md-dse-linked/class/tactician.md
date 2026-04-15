@@ -1,12 +1,30 @@
 ---
+average_potency: Reason − 1
 file_basename: tactician
 file_dpath: class
 item_id: tactician
 item_name: Tactician
 name: Tactician
 scc: mcdm.heroes.v1/class/tactician
+skills:
+    - 'You gain the Lead skill (see Skills in Chapter 9: Tests). Then choose any two skills from Alertness'
+    - Architecture
+    - Blacksmithing
+    - Brag
+    - Culture
+    - Empathize
+    - Fletching
+    - Mechanics
+    - Monsters
+    - Search
+    - Strategy
+    - or the skills of the exploration skill group. (*Quick Build:* Lead
+    - Monsters
+    - Strategy.)
 source: mcdm.heroes.v1
+strong_potency: Reason
 type: class
+weak_potency: Reason − 2
 ---
 
 Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.

@@ -1,4 +1,6 @@
 ---
+benefit: While you wear your sibling's shield on your back, you can't be flanked.
+drawback: Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer Recoveries than usual when you finish the respite.
 name: Sibling's Shield
 scc: mcdm.heroes.v1/complication/siblings-shield
 type: complication

@@ -1,9 +1,6 @@
 ---
 name: Corven
 scc: mcdm.heroes.v1/kit/corven
-stat_bonuses:
-    area-melee-weapon: "\U0001F4CF 1 burst"
-    main-action: "\U0001F3AF Each enemy in the area"
 type: kit
 ---
 

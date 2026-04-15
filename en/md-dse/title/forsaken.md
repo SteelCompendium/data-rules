@@ -1,9 +1,11 @@
 ---
+effect: 'A characteristic of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: forsaken
 file_dpath: title
 item_id: forsaken
 item_name: Forsaken
 name: Forsaken
+prerequisite: Your party loses, destroys, or otherwise parts with an artifact.
 scc: mcdm.heroes.v1/title/forsaken
 source: mcdm.heroes.v1
 type: title

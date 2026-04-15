@@ -1,9 +1,6 @@
 ---
 name: Battlemind
 scc: mcdm.heroes.v1/kit/battlemind
-stat_bonuses:
-    main-action: "\U0001F3AF One creature"
-    melee-psionic-strike-weapon: "\U0001F4CF Melee 1"
 type: kit
 ---
 

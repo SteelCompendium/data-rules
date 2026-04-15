@@ -1,9 +1,6 @@
 ---
 name: Pugilist
 scc: mcdm.heroes.v1/kit/pugilist
-stat_bonuses:
-    main-action: "\U0001F3AF One creature"
-    melee-strike-weapon: "\U0001F4CF Melee 1"
 type: kit
 ---
 

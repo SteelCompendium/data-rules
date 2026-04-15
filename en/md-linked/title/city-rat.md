@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: City Rat
+prerequisite: You have spent at least five respites in a metropolis.
 scc: mcdm.heroes.v1/title/city-rat
 type: title
 ---

@@ -1,5 +1,7 @@
 ---
+effect: 'Your choice of your Reason or Intuition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 name: Enlightened
+prerequisite: You learn a cosmic truth that alters your understanding of reality.
 scc: mcdm.heroes.v1/title/enlightened
 type: title
 ---

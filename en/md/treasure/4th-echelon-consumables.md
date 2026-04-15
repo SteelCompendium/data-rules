@@ -1,4 +1,7 @@
 ---
+effect: When you inhale the Breath of Creation as a maneuver, you are imbued with cosmic power. You earn 1 Renown, and you create a size 2 portal to a new demiplane in an adjacent square. The demiplane is a 20-cube area whose form and mundane features are chosen by you. The portal appears only to you and creatures you designate, and only you and those creatures can enter the demiplane. When a creature moves into the portal, they emerge from a corresponding portal inside the demiplane, and vice versa. Objects created within the demiplane turn to dust if removed from it.
+keywords:
+    - Psionic
 name: 4th-Echelon Consumables
 scc: mcdm.heroes.v1/treasure/4th-echelon-consumables
 type: treasure

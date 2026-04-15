@@ -1,4 +1,6 @@
 ---
+benefit: You have corruption immunity 5 and poison immunity 5.
+drawback: Your number of Recoveries is permanently reduced by 1.
 file_basename: primordial-sickness
 file_dpath: complication
 item_id: primordial-sickness

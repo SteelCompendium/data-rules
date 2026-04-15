@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: maestro
 file_dpath: title
 item_id: maestro
 item_name: Maestro
 name: Maestro
+prerequisite: You visit the realms of gods, devils, or other immortal beings and hear a note of the Music of Creation.
 scc: mcdm.heroes.v1/title/maestro
 source: mcdm.heroes.v1
 type: title

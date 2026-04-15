@@ -1,4 +1,6 @@
 ---
+benefit: You have one skill of your choice from the crafting skill group. Additionally, choose one of your skills from the crafting group. You gain an edge on any test that uses that skill.
+drawback: Whoever killed your mentor cursed you. You take a bane on any test that doesn't use one of your skills.
 file_basename: promising-apprentice
 file_dpath: complication
 item_id: promising-apprentice

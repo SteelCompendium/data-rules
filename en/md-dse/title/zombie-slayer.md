@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: zombie-slayer
 file_dpath: title
 item_id: zombie-slayer
 item_name: Zombie Slayer
 name: Zombie Slayer
+prerequisite: You defeat a leader or solo creature with the Undead keyword, such as a ghost.
 scc: mcdm.heroes.v1/title/zombie-slayer
 source: mcdm.heroes.v1
 type: title

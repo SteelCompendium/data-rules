@@ -1,4 +1,6 @@
 ---
+benefit: You earn 1 Renown.
+drawback: Law enforcement officials and bounty hunters who recognize you attempt to arrest you.
 file_basename: outlaw
 file_dpath: complication
 item_id: outlaw

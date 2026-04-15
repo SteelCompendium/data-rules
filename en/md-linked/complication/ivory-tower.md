@@ -1,4 +1,6 @@
 ---
+benefit: 'You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](#page-67-0)).'
+drawback: The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
 name: Ivory Tower
 scc: mcdm.heroes.v1/complication/ivory-tower
 type: complication

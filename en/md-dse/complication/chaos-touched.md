@@ -1,4 +1,6 @@
 ---
+benefit: You gain an edge on the Escape Grab, Grab, and Knockback maneuvers. Additionally, you can hold an additional item even when your hands are full.
+drawback: While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 file_basename: chaos-touched
 file_dpath: complication
 item_id: chaos-touched

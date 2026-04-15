@@ -1,9 +1,11 @@
 ---
+effect: 'Your choice of your Reason or Intuition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: enlightened
 file_dpath: title
 item_id: enlightened
 item_name: Enlightened
 name: Enlightened
+prerequisite: You learn a cosmic truth that alters your understanding of reality.
 scc: mcdm.heroes.v1/title/enlightened
 source: mcdm.heroes.v1
 type: title

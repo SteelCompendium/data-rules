@@ -1,8 +1,12 @@
 ---
+effect: While worn, this belt grants you a +3 bonus to Stamina and a +1 bonus to Stability. This Stamina bonus adds to the Stamina bonus granted by other treasures.
 file_basename: 2nd-echelon-trinkets
 file_dpath: treasure
 item_id: 2nd-echelon-trinkets
 item_name: 2nd-Echelon Trinkets
+keywords:
+    - Magic
+    - Waist
 name: 2nd-Echelon Trinkets
 scc: mcdm.heroes.v1/treasure/2nd-echelon-trinkets
 source: mcdm.heroes.v1

@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Planar Voyager
+prerequisite: You voyage in strange vehicles on different worlds.
 scc: mcdm.heroes.v1/title/planar-voyager
 type: title
 ---

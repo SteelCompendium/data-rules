@@ -1,4 +1,6 @@
 ---
+benefit: Each time your party reaches 2, 4, and 6 Victories, you earn the party a hero token.
+drawback: At the start of a new game session, the party doesn't earn a hero token for your character.
 file_basename: thrill-seeker
 file_dpath: complication
 item_id: thrill-seeker

@@ -1,4 +1,6 @@
 ---
+benefit: While you fight on behalf of your special purpose, whenever you obtain a tier 3 outcome with a damage-dealing ability, the ability deals extra fire damage equal to your highest characteristic score.
+drawback: Whenever the Director determines that you act against your purpose or fail to live up to the high standards associated with it, you take fire damage equal to 5 + your level. This damage can't be reduced in any way.
 file_basename: fiery-ideal
 file_dpath: complication
 item_id: fiery-ideal

@@ -1,7 +1,15 @@
 ---
+average_potency: Reason − 1
 name: Talent
 scc: mcdm.heroes.v1/class/talent
+skills:
+    - 'You gain the Psionics and Read Person skills (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize'
+    - Psionics
+    - Read Person
+    - Timescape.)
+strong_potency: Reason
 type: class
+weak_potency: Reason − 2
 ---
 
 Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.

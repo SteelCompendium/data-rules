@@ -6,9 +6,6 @@ item_name: Whirlwind
 name: Whirlwind
 scc: mcdm.heroes.v1/kit/whirlwind
 source: mcdm.heroes.v1
-stat_bonuses:
-    main-action: "\U0001F3AF One creature"
-    melee-strike-weapon: "\U0001F4CF Melee 3"
 type: kit
 ---
 

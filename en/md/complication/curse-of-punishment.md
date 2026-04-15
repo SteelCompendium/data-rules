@@ -1,4 +1,6 @@
 ---
+benefit: You have 1 additional Recovery.
+drawback: When you are out of Recoveries, you are dying, no matter what your current Stamina is.
 name: Curse of Punishment
 scc: mcdm.heroes.v1/complication/curse-of-punishment
 type: complication

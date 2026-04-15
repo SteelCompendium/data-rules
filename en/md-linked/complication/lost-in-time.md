@@ -1,4 +1,6 @@
 ---
+benefit: Choose a damage type from acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic. Whenever you use a signature ability, you can have it deal your chosen damage type instead of its usual damage.
+drawback: You automatically fail any test made to recall information from the period during which you were suspended in time.
 name: Lost in Time
 scc: mcdm.heroes.v1/complication/lost-in-time
 type: complication

@@ -1,5 +1,7 @@
 ---
+effect: 'Your choice of your Reason or Presence increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 name: Peace Bringer
+prerequisite: You conduct a successful negotiation on which the fate of a nation or a world stands.
 scc: mcdm.heroes.v1/title/peace-bringer
 type: title
 ---

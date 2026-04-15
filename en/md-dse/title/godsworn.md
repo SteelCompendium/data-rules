@@ -1,9 +1,11 @@
 ---
+effect: 'Choose one of the following benefits:'
 file_basename: godsworn
 file_dpath: title
 item_id: godsworn
 item_name: Godsworn
 name: Godsworn
+prerequisite: You do a favor for an agent of a god or saint, or promise to do so.
 scc: mcdm.heroes.v1/title/godsworn
 source: mcdm.heroes.v1
 type: title

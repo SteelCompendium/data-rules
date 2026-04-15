@@ -1,4 +1,6 @@
 ---
+benefit: You have the Religion skill (from the lore skill group). Additionally, whenever you use an ability that deals untyped damage, that ability can deal holy damage instead.
+drawback: You will never fully gain a mortal's comfort with untruth. Any test you make to deceive another creature takes a bane.
 name: Fallen Immortal
 scc: mcdm.heroes.v1/complication/fallen-immortal
 type: complication

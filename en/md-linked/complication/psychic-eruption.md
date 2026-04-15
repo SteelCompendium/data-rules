@@ -1,4 +1,5 @@
 ---
+benefit: You have the following heroic ability.
 name: Psychic Eruption
 scc: mcdm.heroes.v1/complication/psychic-eruption
 type: complication

@@ -1,4 +1,6 @@
 ---
+benefit: You have one skill of your choice from the intrigue skill group. Additionally, whenever one or more creatures are pursuing you, you can lay low as a respite activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
+drawback: Each time you earn Renown, your pursuer learns your location. Unless you lay low or move to a new location, you'll be visited by agents of the pursuer within 1d10 days. If you linger after that, your pursuer finds you.
 file_basename: hunted
 file_dpath: complication
 item_id: hunted

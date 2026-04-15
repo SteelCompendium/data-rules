@@ -3,6 +3,9 @@ file_basename: leveled-weapon-treasures
 file_dpath: treasure
 item_id: leveled-weapon-treasures
 item_name: Leveled Weapon Treasures
+keywords:
+    - Psionic
+    - Whip
 name: Leveled Weapon Treasures
 scc: mcdm.heroes.v1/treasure/leveled-weapon-treasures
 source: mcdm.heroes.v1

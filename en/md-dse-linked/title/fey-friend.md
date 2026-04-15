@@ -1,9 +1,11 @@
 ---
+effect: 'You know the Khelt language. Additionally, choose one of the following benefits:'
 file_basename: fey-friend
 file_dpath: title
 item_id: fey-friend
 item_name: Fey Friend
 name: Fey Friend
+prerequisite: You eat and drink with an elf monarch or archfey.
 scc: mcdm.heroes.v1/title/fey-friend
 source: mcdm.heroes.v1
 type: title

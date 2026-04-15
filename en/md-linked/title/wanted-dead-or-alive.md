@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Wanted Dead or Alive
+prerequisite: You are declared an outlaw by a governmental authority.
 scc: mcdm.heroes.v1/title/wanted-dead-or-alive
 type: title
 ---

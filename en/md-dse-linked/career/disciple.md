@@ -7,7 +7,11 @@ name: Disciple
 perk: One supernatural perk (*Quick Build:* Ritualist.)
 project_points: "240"
 scc: mcdm.heroes.v1/career/disciple
-skill: The Religion skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* Culture, Magic, Religion.)
+skills:
+    - The Religion skill (from the lore skill group)
+    - plus two more skills from the lore group (*Quick Build:* Culture
+    - Magic
+    - Religion.)
 source: mcdm.heroes.v1
 type: career
 ---

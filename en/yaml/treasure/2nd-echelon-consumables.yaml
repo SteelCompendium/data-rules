@@ -152,6 +152,9 @@ content: |-
     **Project Goal:** 90
 
     **Effect:** As a maneuver, you throw this vial up to 10 squares, destroying the vial and creating a 2-cube ethereal vortex centered on the spot where it lands. The vortex dissipates at the end of the encounter or when you dismiss it (no action required). Any creature who enters the vortex for the first time in a combat round or starts their turn there takes 10 psychic damage. At the start of each of your turns, you can move the vortex up to 5 squares (no action required).
+effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the frightened, slowed, and taunted conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+keywords:
+    - Psionic
 name: 2nd-Echelon Consumables
 scc: mcdm.heroes.v1/treasure/2nd-echelon-consumables
 type: treasure

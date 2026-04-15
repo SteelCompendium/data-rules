@@ -4,7 +4,9 @@ name: Artisan
 perk: One crafting perk (*Quick Build:* Area of Expertise.)
 project_points: "240"
 scc: mcdm.heroes.v1/career/artisan
-skill: Two skills from the crafting skill group (*Quick Build:* Blacksmithing, Carpentry.)
+skills:
+    - Two skills from the crafting skill group (*Quick Build:* Blacksmithing
+    - Carpentry.)
 type: career
 ---
 

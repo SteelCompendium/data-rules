@@ -6,9 +6,6 @@ item_name: Arcane Archer
 name: Arcane Archer
 scc: mcdm.heroes.v1/kit/arcane-archer
 source: mcdm.heroes.v1
-stat_bonuses:
-    magic-ranged-strike-weapon: "\U0001F4CF Ranged 15"
-    main-action: "\U0001F3AF One creature or object"
 type: kit
 ---
 

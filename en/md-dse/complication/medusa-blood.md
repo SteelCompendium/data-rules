@@ -1,4 +1,5 @@
 ---
+benefit: You have the following ability.
 file_basename: medusa-blood
 file_dpath: complication
 item_id: medusa-blood

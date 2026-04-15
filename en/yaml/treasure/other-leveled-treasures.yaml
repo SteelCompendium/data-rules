@@ -102,6 +102,9 @@ content: |-
     **5th Level:** The torque's bonus to Stamina increases to three times your highest characteristic score. Additionally, when you use the torque's maneuver and the target creature is the same level as you, you gain your choice of envy or disdain.
 
     **9th Level:** The torque's bonus to Stamina increases to five times your highest characteristic score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.
+keywords:
+    - Magic
+    - Ring
 name: Other Leveled Treasures
 scc: mcdm.heroes.v1/treasure/other-leveled-treasures
 type: treasure

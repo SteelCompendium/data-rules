@@ -1,8 +1,11 @@
 ---
+effect: 'The Gravekeeper''s Lantern can temporarily trap a nonhostile spirit of the dead—either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days—allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard Intuition test as a main action. Once a spirit is trapped, you make a Presence test to coax them into answering your questions:'
 file_basename: 4th-echelon-trinkets
 file_dpath: treasure
 item_id: 4th-echelon-trinkets
 item_name: 4th-Echelon Trinkets
+keywords:
+    - Magic
 name: 4th-Echelon Trinkets
 scc: mcdm.heroes.v1/treasure/4th-echelon-trinkets
 source: mcdm.heroes.v1

@@ -1,4 +1,6 @@
 ---
+benefit: Your recovery value increases by an amount equal to your highest characteristic score.
+drawback: You have fire weakness 5.
 file_basename: wodewalker
 file_dpath: complication
 item_id: wodewalker

@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Special Agent
+prerequisite: A spymaster gives you an important secret mission.
 scc: mcdm.heroes.v1/title/special-agent
 type: title
 ---

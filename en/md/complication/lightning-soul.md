@@ -1,4 +1,6 @@
 ---
+benefit: Whenever you regain Stamina in combat, you gain 1 surge. Whenever you spend a surge to deal extra damage, you can make that extra damage into lightning damage.
+drawback: Whenever you are wet, you have damage weakness 5.
 name: Lightning Soul
 scc: mcdm.heroes.v1/complication/lightning-soul
 type: complication

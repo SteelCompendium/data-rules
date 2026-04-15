@@ -1,5 +1,7 @@
 ---
+effect: 'Choose one of the following benefits:'
 name: Zombie Slayer
+prerequisite: You defeat a leader or solo creature with the Undead keyword, such as a ghost.
 scc: mcdm.heroes.v1/title/zombie-slayer
 type: title
 ---

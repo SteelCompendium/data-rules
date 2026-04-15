@@ -1,9 +1,6 @@
 ---
 name: Warrior Priest
 scc: mcdm.heroes.v1/kit/warrior-priest
-stat_bonuses:
-    magic-melee-strike-weapon: "\U0001F4CF Melee 1"
-    main-action: "\U0001F3AF One creature or object"
 type: kit
 ---
 

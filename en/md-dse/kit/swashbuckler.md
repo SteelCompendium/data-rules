@@ -6,9 +6,6 @@ item_name: Swashbuckler
 name: Swashbuckler
 scc: mcdm.heroes.v1/kit/swashbuckler
 source: mcdm.heroes.v1
-stat_bonuses:
-    main-action: "\U0001F3AF One creature"
-    melee-strike-weapon: "\U0001F4CF Melee 1"
 type: kit
 ---
 
