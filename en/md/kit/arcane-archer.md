@@ -1,6 +1,11 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear no armor and wield a bow.
 name: Arcane Archer
+ranged_damage_bonus: +2/+2/+2
+ranged_distance_bonus: "+10"
 scc: mcdm.heroes.v1/kit/arcane-archer
+speed_bonus: "+1"
 type: kit
 ---
 

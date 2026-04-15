@@ -1,6 +1,11 @@
 ---
+equipment_text: You wear no armor and wield a heavy weapon.
+melee_damage_bonus: +0/+0/+4
 name: Panther
 scc: mcdm.heroes.v1/kit/panther
+speed_bonus: "+1"
+stability_bonus: "+1"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 

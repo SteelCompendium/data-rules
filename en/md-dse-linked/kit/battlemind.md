@@ -1,11 +1,16 @@
 ---
+equipment_text: You wear light armor and wield a medium weapon.
 file_basename: battlemind
 file_dpath: kit
 item_id: battlemind
 item_name: Battlemind
+melee_damage_bonus: +2/+2/+2
 name: Battlemind
 scc: mcdm.heroes.v1/kit/battlemind
 source: mcdm.heroes.v1
+speed_bonus: "+2"
+stability_bonus: "+1"
+stamina_bonus: +3 per echelon
 type: kit
 ---
 

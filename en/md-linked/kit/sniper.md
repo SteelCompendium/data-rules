@@ -1,6 +1,11 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear no armor and wield a bow.
 name: Sniper
+ranged_damage_bonus: +0/+0/+4
+ranged_distance_bonus: "+10"
 scc: mcdm.heroes.v1/kit/sniper
+speed_bonus: "+1"
 type: kit
 ---
 

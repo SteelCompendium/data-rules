@@ -1,11 +1,17 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear light armor and wield several ensnaring weapons and a polearm.
 file_basename: retiarius
 file_dpath: kit
 item_id: retiarius
 item_name: Retiarius
+melee_damage_bonus: +2/+2/+2
+melee_distance_bonus: "+1"
 name: Retiarius
 scc: mcdm.heroes.v1/kit/retiarius
 source: mcdm.heroes.v1
+speed_bonus: "+1"
+stamina_bonus: +3 per echelon
 type: kit
 ---
 

@@ -1,6 +1,13 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear light armor and wield one or two light weapons.
+melee_damage_bonus: +1/+1/+1
 name: Cloak and Dagger
+ranged_damage_bonus: +1/+1/+1
+ranged_distance_bonus: "+5"
 scc: mcdm.heroes.v1/kit/cloak-and-dagger
+speed_bonus: "+2"
+stamina_bonus: +3 per echelon
 type: kit
 ---
 

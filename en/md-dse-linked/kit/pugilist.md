@@ -1,11 +1,16 @@
 ---
+equipment_text: You wear no armor and wield only your unarmed strikes.
 file_basename: pugilist
 file_dpath: kit
 item_id: pugilist
 item_name: Pugilist
+melee_damage_bonus: +1/+1/+1
 name: Pugilist
 scc: mcdm.heroes.v1/kit/pugilist
 source: mcdm.heroes.v1
+speed_bonus: "+2"
+stability_bonus: "+1"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 

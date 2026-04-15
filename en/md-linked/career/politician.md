@@ -5,8 +5,7 @@ perk: One interpersonal perk (*Quick Build:* Engrossing Monologue.)
 renown: "+1"
 scc: mcdm.heroes.v1/career/politician
 skills:
-    - Two skills from the interpersonal skill group (*Quick Build:* Lead
-    - Lie.)
+    - Two skills from the interpersonal skill group (*Quick Build:* Lead, Lie.)
 type: career
 wealth: "+1"
 ---

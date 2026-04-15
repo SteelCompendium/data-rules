@@ -4,10 +4,7 @@ name: Explorer
 perk: One exploration perk (*Quick Build:* Wood Wise.)
 scc: mcdm.heroes.v1/career/explorer
 skills:
-    - The Navigate skill (from the exploration skill group)
-    - plus two more skills from the exploration group (*Quick Build:* Climb
-    - Heal
-    - Navigate.)
+    - The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* Climb, Heal, Navigate.)
 type: career
 ---
 

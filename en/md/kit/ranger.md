@@ -1,6 +1,13 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear medium armor and wield a bow and a medium weapon.
+melee_damage_bonus: +1/+1/+1
 name: Ranger
+ranged_damage_bonus: +1/+1/+1
+ranged_distance_bonus: "+5"
 scc: mcdm.heroes.v1/kit/ranger
+speed_bonus: "+1"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 

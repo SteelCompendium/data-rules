@@ -1,6 +1,11 @@
 ---
+equipment_text: You wear heavy armor and wield a light weapon.
+melee_damage_bonus: +1/+1/+1
 name: Warrior Priest
 scc: mcdm.heroes.v1/kit/warrior-priest
+speed_bonus: "+1"
+stability_bonus: "+1"
+stamina_bonus: +9 per echelon
 type: kit
 ---
 

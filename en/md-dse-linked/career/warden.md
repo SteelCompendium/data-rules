@@ -9,10 +9,7 @@ perk: One exploration perk (*Quick Build:* Camouflage Hunter.)
 project_points: "120"
 scc: mcdm.heroes.v1/career/warden
 skills:
-    - Nature (from the lore skill group)
-    - plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  Nature
-    - Navigate
-    - Track.)
+    - Nature (from the lore skill group), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  Nature, Navigate, Track.)
 source: mcdm.heroes.v1
 type: career
 ---

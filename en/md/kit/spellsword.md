@@ -1,6 +1,11 @@
 ---
+equipment_text: You wear light armor and wield a shield and a medium weapon.
+melee_damage_bonus: +2/+2/+2
 name: Spellsword
 scc: mcdm.heroes.v1/kit/spellsword
+speed_bonus: "+1"
+stability_bonus: "+1"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 

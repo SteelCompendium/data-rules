@@ -1,6 +1,11 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear no armor and wield a whip.
+melee_damage_bonus: +1/+1/+1
+melee_distance_bonus: "+1"
 name: Whirlwind
 scc: mcdm.heroes.v1/kit/whirlwind
+speed_bonus: "+3"
 type: kit
 ---
 

@@ -1,11 +1,16 @@
 ---
+equipment_text: You wear medium armor and wield a polearm.
 file_basename: guisarmier
 file_dpath: kit
 item_id: guisarmier
 item_name: Guisarmier
+melee_damage_bonus: +2/+2/+2
+melee_distance_bonus: "+1"
 name: Guisarmier
 scc: mcdm.heroes.v1/kit/guisarmier
 source: mcdm.heroes.v1
+stability_bonus: "+1"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 

@@ -5,10 +5,7 @@ perk: One intrigue perk (*Quick Build:* Criminal Contacts.)
 project_points: "120"
 scc: mcdm.heroes.v1/career/criminal
 skills:
-    - The Criminal Underworld skill (from the lore skill group)
-    - plus two skills from the intrigue group (*Quick Build:* Criminal Underworld
-    - Pick Lock
-    - Pick Pocket.)
+    - The Criminal Underworld skill (from the lore skill group), plus two skills from the intrigue group (*Quick Build:* Criminal Underworld, Pick Lock, Pick Pocket.)
 type: career
 ---
 

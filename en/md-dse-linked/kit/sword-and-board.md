@@ -1,11 +1,16 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear medium armor and wield a shield and a medium weapon.
 file_basename: sword-and-board
 file_dpath: kit
 item_id: sword-and-board
 item_name: Sword and Board
+melee_damage_bonus: +2/+2/+2
 name: Sword and Board
 scc: mcdm.heroes.v1/kit/sword-and-board
 source: mcdm.heroes.v1
+stability_bonus: "+1"
+stamina_bonus: +9 per echelon
 type: kit
 ---
 

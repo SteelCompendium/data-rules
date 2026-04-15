@@ -1,6 +1,13 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear light armor and wield a shield and a light weapon.
+melee_damage_bonus: +1/+1/+1
 name: Raider
+ranged_damage_bonus: +1/+1/+1
+ranged_distance_bonus: "+5"
 scc: mcdm.heroes.v1/kit/raider
+speed_bonus: "+1"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 

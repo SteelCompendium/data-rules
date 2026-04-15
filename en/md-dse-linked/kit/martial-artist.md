@@ -1,11 +1,16 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear no armor and wield only your unarmed strikes.
 file_basename: martial-artist
 file_dpath: kit
 item_id: martial-artist
 item_name: Martial Artist
+melee_damage_bonus: +2/+2/+2
 name: Martial Artist
 scc: mcdm.heroes.v1/kit/martial-artist
 source: mcdm.heroes.v1
+speed_bonus: "+3"
+stamina_bonus: +3 per echelon
 type: kit
 ---
 

@@ -1,6 +1,10 @@
 ---
+equipment_text: You wear heavy armor and wield a heavy weapon.
+melee_damage_bonus: +0/+0/+4
 name: Mountain
 scc: mcdm.heroes.v1/kit/mountain
+stability_bonus: "+2"
+stamina_bonus: +9 per echelon
 type: kit
 ---
 

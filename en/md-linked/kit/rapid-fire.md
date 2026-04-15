@@ -1,6 +1,12 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear light armor and wield a bow.
 name: Rapid-Fire
+ranged_damage_bonus: +2/+2/+2
+ranged_distance_bonus: "+7"
 scc: mcdm.heroes.v1/kit/rapid-fire
+speed_bonus: "+1"
+stamina_bonus: +3 per echelon
 type: kit
 ---
 

@@ -1,11 +1,16 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear light armor and wield a medium weapon.
 file_basename: swashbuckler
 file_dpath: kit
 item_id: swashbuckler
 item_name: Swashbuckler
+melee_damage_bonus: +2/+2/+2
 name: Swashbuckler
 scc: mcdm.heroes.v1/kit/swashbuckler
 source: mcdm.heroes.v1
+speed_bonus: "+3"
+stamina_bonus: +3 per echelon
 type: kit
 ---
 

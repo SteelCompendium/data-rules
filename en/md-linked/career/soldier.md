@@ -5,8 +5,7 @@ perk: One exploration perk (*Quick Build:* Teamwork.)
 renown: "+1"
 scc: mcdm.heroes.v1/career/soldier
 skills:
-    - One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* Alertness
-    - Endurance.)
+    - One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* Alertness, Endurance.)
 type: career
 ---
 

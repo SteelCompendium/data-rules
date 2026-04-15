@@ -1,6 +1,11 @@
 ---
+equipment_text: You wear medium armor and wield a polearm.
+melee_damage_bonus: +2/+2/+2
+melee_distance_bonus: "+1"
 name: Guisarmier
 scc: mcdm.heroes.v1/kit/guisarmier
+stability_bonus: "+1"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 

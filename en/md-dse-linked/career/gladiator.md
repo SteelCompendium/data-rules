@@ -9,8 +9,7 @@ perk: One exploration perk (*Quick Build:* Friend Catapult.)
 renown: "+2"
 scc: mcdm.heroes.v1/career/gladiator
 skills:
-    - Two skills from the exploration skill group (*Quick Build:*  Gymnastics
-    - Jump.)
+    - Two skills from the exploration skill group (*Quick Build:*  Gymnastics, Jump.)
 source: mcdm.heroes.v1
 type: career
 ---

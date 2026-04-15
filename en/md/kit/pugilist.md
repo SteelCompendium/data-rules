@@ -1,6 +1,11 @@
 ---
+equipment_text: You wear no armor and wield only your unarmed strikes.
+melee_damage_bonus: +1/+1/+1
 name: Pugilist
 scc: mcdm.heroes.v1/kit/pugilist
+speed_bonus: "+2"
+stability_bonus: "+1"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 

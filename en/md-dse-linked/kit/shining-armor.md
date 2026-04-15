@@ -1,11 +1,15 @@
 ---
+equipment_text: You wear heavy armor and wield a shield and a medium weapon.
 file_basename: shining-armor
 file_dpath: kit
 item_id: shining-armor
 item_name: Shining Armor
+melee_damage_bonus: +2/+2/+2
 name: Shining Armor
 scc: mcdm.heroes.v1/kit/shining-armor
 source: mcdm.heroes.v1
+stability_bonus: "+1"
+stamina_bonus: +12 per echelon
 type: kit
 ---
 

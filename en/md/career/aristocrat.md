@@ -5,8 +5,7 @@ perk: One lore perk (*Quick Build:* I've Read About This Place.)
 renown: "+1"
 scc: mcdm.heroes.v1/career/aristocrat
 skills:
-    - One skill from the interpersonal skill group and one skill from the lore group (*Quick Build:* Brag
-    - Society.)
+    - One skill from the interpersonal skill group and one skill from the lore group (*Quick Build:* Brag, Society.)
 type: career
 wealth: "+1"
 ---

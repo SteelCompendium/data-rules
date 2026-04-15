@@ -1,6 +1,12 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear light armor and wield a polearm.
+melee_damage_bonus: +1/+1/+1
+melee_distance_bonus: "+1"
 name: Stick and Robe
 scc: mcdm.heroes.v1/kit/stick-and-robe
+speed_bonus: "+2"
+stamina_bonus: +3 per echelon
 type: kit
 ---
 

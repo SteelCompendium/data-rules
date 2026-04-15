@@ -1,11 +1,16 @@
 ---
+disengage_bonus: "+1"
+equipment_text: You wear medium armor and wield a light weapon and a medium weapon.
 file_basename: dual-wielder
 file_dpath: kit
 item_id: dual-wielder
 item_name: Dual Wielder
+melee_damage_bonus: +2/+2/+2
 name: Dual Wielder
 scc: mcdm.heroes.v1/kit/dual-wielder
 source: mcdm.heroes.v1
+speed_bonus: "+2"
+stamina_bonus: +6 per echelon
 type: kit
 ---
 
