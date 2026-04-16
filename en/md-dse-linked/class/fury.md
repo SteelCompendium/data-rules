@@ -7,9 +7,7 @@ item_name: Fury
 name: Fury
 scc: mcdm.heroes.v1/class/fury
 skills:
-    - 'You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness'
-    - Jump
-    - Nature.)
+    - 'You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
 source: mcdm.heroes.v1
 strong_potency: Might
 type: class

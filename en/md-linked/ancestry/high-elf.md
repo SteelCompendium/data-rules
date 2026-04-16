@@ -1,6 +1,7 @@
 ---
 name: High Elf
 scc: mcdm.heroes.v1/ancestry/high-elf
+signature_trait_name: High Elf Glamor
 type: ancestry
 ---
 

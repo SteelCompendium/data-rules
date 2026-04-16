@@ -7,8 +7,7 @@ item_name: Conduit
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: Tests). (*Quick Build:* Read Person'
-    - Religion.)
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: Tests). (*Quick Build:* Read Person, Religion.)'
 source: mcdm.heroes.v1
 strong_potency: Intuition
 type: class

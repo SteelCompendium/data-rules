@@ -5,6 +5,7 @@ item_id: dragon-knight
 item_name: Dragon Knight
 name: Dragon Knight
 scc: mcdm.heroes.v1/ancestry/dragon-knight
+signature_trait_name: Wyrmplate
 source: mcdm.heroes.v1
 type: ancestry
 ---

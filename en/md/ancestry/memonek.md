@@ -1,6 +1,7 @@
 ---
 name: Memonek
 scc: mcdm.heroes.v1/ancestry/memonek
+signature_trait_name: Fall Lightly
 type: ancestry
 ---
 

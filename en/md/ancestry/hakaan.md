@@ -1,6 +1,7 @@
 ---
 name: Hakaan
 scc: mcdm.heroes.v1/ancestry/hakaan
+signature_trait_name: Big!
 type: ancestry
 ---
 

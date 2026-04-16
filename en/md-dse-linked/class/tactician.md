@@ -7,20 +7,7 @@ item_name: Tactician
 name: Tactician
 scc: mcdm.heroes.v1/class/tactician
 skills:
-    - 'You gain the Lead skill (see Skills in Chapter 9: Tests). Then choose any two skills from Alertness'
-    - Architecture
-    - Blacksmithing
-    - Brag
-    - Culture
-    - Empathize
-    - Fletching
-    - Mechanics
-    - Monsters
-    - Search
-    - Strategy
-    - or the skills of the exploration skill group. (*Quick Build:* Lead
-    - Monsters
-    - Strategy.)
+    - 'You gain the Lead skill (see Skills in Chapter 9: Tests). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
 source: mcdm.heroes.v1
 strong_potency: Reason
 type: class

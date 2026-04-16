@@ -5,6 +5,7 @@ item_id: orc
 item_name: Orc
 name: Orc
 scc: mcdm.heroes.v1/ancestry/orc
+signature_trait_name: Relentless
 source: mcdm.heroes.v1
 type: ancestry
 ---

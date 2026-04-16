@@ -1,6 +1,7 @@
 ---
 name: Polder
 scc: mcdm.heroes.v1/ancestry/polder
+signature_trait_name: Shadowmeld
 type: ancestry
 ---
 

@@ -7,10 +7,7 @@ item_name: Troubadour
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag'
-    - Flirt
-    - Read Person
-    - Rumors.)
+    - 'You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)'
 source: mcdm.heroes.v1
 strong_potency: Presence
 type: class

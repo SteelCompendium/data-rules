@@ -1,6 +1,7 @@
 ---
 name: Revenant
 scc: mcdm.heroes.v1/ancestry/revenant
+signature_trait_name: Former Life
 type: ancestry
 ---
 

@@ -5,6 +5,7 @@ item_id: dwarf
 item_name: Dwarf
 name: Dwarf
 scc: mcdm.heroes.v1/ancestry/dwarf
+signature_trait_name: Runic Carving
 source: mcdm.heroes.v1
 type: ancestry
 ---

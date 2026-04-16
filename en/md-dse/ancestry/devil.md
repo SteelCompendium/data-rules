@@ -5,6 +5,7 @@ item_id: devil
 item_name: Devil
 name: Devil
 scc: mcdm.heroes.v1/ancestry/devil
+signature_trait_name: Silver Tongue
 source: mcdm.heroes.v1
 type: ancestry
 ---

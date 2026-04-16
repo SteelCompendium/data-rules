@@ -5,6 +5,7 @@ item_id: wode-elf
 item_name: Wode Elf
 name: Wode Elf
 scc: mcdm.heroes.v1/ancestry/wode-elf
+signature_trait_name: Wode Elf Glamor
 source: mcdm.heroes.v1
 type: ancestry
 ---

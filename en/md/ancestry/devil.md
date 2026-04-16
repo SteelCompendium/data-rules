@@ -1,6 +1,7 @@
 ---
 name: Devil
 scc: mcdm.heroes.v1/ancestry/devil
+signature_trait_name: Silver Tongue
 type: ancestry
 ---
 

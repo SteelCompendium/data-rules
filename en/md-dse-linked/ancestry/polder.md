@@ -5,6 +5,7 @@ item_id: polder
 item_name: Polder
 name: Polder
 scc: mcdm.heroes.v1/ancestry/polder
+signature_trait_name: Shadowmeld
 source: mcdm.heroes.v1
 type: ancestry
 ---

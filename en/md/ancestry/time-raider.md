@@ -1,6 +1,7 @@
 ---
 name: Time Raider
 scc: mcdm.heroes.v1/ancestry/time-raider
+signature_trait_name: Psychic Scar
 type: ancestry
 ---
 

@@ -5,6 +5,7 @@ item_id: hakaan
 item_name: Hakaan
 name: Hakaan
 scc: mcdm.heroes.v1/ancestry/hakaan
+signature_trait_name: Big!
 source: mcdm.heroes.v1
 type: ancestry
 ---

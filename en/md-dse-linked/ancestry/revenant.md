@@ -5,6 +5,7 @@ item_id: revenant
 item_name: Revenant
 name: Revenant
 scc: mcdm.heroes.v1/ancestry/revenant
+signature_trait_name: Former Life
 source: mcdm.heroes.v1
 type: ancestry
 ---

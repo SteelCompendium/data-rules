@@ -5,6 +5,7 @@ item_id: human
 item_name: Human
 name: Human
 scc: mcdm.heroes.v1/ancestry/human
+signature_trait_name: Detect the Supernatural
 source: mcdm.heroes.v1
 type: ancestry
 ---

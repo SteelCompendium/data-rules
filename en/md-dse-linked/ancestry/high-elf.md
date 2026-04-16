@@ -5,6 +5,7 @@ item_id: high-elf
 item_name: High Elf
 name: High Elf
 scc: mcdm.heroes.v1/ancestry/high-elf
+signature_trait_name: High Elf Glamor
 source: mcdm.heroes.v1
 type: ancestry
 ---

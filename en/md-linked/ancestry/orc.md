@@ -1,6 +1,7 @@
 ---
 name: Orc
 scc: mcdm.heroes.v1/ancestry/orc
+signature_trait_name: Relentless
 type: ancestry
 ---
 

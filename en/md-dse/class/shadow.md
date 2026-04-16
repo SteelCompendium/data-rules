@@ -7,15 +7,7 @@ item_name: Shadow
 name: Shadow
 scc: mcdm.heroes.v1/class/shadow
 skills:
-    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: Tests). Then choose any five skills from Criminal Underworld or the skills of the exploration'
-    - interpersonal
-    - or intrigue skill groups. (*Quick Build:*  Criminal Underworld
-    - Hide
-    - Lie
-    - Pick Lock
-    - Pick Pocket
-    - Sabotage
-    - Sneak.)
+    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: Tests). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
 source: mcdm.heroes.v1
 strong_potency: Agility
 type: class

@@ -1,6 +1,7 @@
 ---
 name: Dragon Knight
 scc: mcdm.heroes.v1/ancestry/dragon-knight
+signature_trait_name: Wyrmplate
 type: ancestry
 ---
 

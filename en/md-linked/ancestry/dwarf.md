@@ -1,6 +1,7 @@
 ---
 name: Dwarf
 scc: mcdm.heroes.v1/ancestry/dwarf
+signature_trait_name: Runic Carving
 type: ancestry
 ---
 

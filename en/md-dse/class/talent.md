@@ -7,10 +7,7 @@ item_name: Talent
 name: Talent
 scc: mcdm.heroes.v1/class/talent
 skills:
-    - 'You gain the Psionics and Read Person skills (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize'
-    - Psionics
-    - Read Person
-    - Timescape.)
+    - 'You gain the Psionics and Read Person skills (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)'
 source: mcdm.heroes.v1
 strong_potency: Reason
 type: class

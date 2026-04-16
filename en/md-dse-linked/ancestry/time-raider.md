@@ -5,6 +5,7 @@ item_id: time-raider
 item_name: Time Raider
 name: Time Raider
 scc: mcdm.heroes.v1/ancestry/time-raider
+signature_trait_name: Psychic Scar
 source: mcdm.heroes.v1
 type: ancestry
 ---

@@ -1,6 +1,7 @@
 ---
 name: Wode Elf
 scc: mcdm.heroes.v1/ancestry/wode-elf
+signature_trait_name: Wode Elf Glamor
 type: ancestry
 ---
 

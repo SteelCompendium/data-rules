@@ -3,8 +3,7 @@ average_potency: Intuition - 1
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: Tests). (*Quick Build:* Read Person'
-    - Religion.)
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: Tests). (*Quick Build:* Read Person, Religion.)'
 strong_potency: Intuition
 type: class
 weak_potency: Intuition - 2
