@@ -1,4 +1,40 @@
-content: "With this stormwight kit, you channel your primordial ferocity into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.\n\n##### Signature Ability\n\n<!-- @type: ability | @subtype: signature -->\n######## Bear Claws\n\n*Attacks with your sharp and deadly claws grab the weak.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M damage; M < WEAK, grabbed\n- **12-16:** 5 + M damage; M < AVERAGE, grabbed\n- **17+:** 11 + M damage; M < STRONG, grabbed"
+content: |-
+    With this stormwight kit, you channel your primordial ferocity into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
+
+    ##### Signature Ability
 name: Boren
 scc: mcdm.heroes.v1/kit/boren
+signature_ability:
+    ability_type: Signature
+    distance: Melee 1
+    effects:
+        - roll: Power Roll + Might
+          tier1: 2 + M damage; M < WEAK, grabbed
+          tier2: 5 + M damage; M < AVERAGE, grabbed
+          tier3: 11 + M damage; M < STRONG, grabbed
+    feature_type: ability
+    flavor: Attacks with your sharp and deadly claws grab the weak.
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    metadata:
+        ability_type: Signature
+        action_type: Main action
+        content: "*Attacks with your sharp and deadly claws grab the weak.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M damage; M < WEAK, grabbed\n- **12-16:** 5 + M damage; M < AVERAGE, grabbed\n- **17+:** 11 + M damage; M < STRONG, grabbed"
+        distance: Melee 1
+        feature_type: ability
+        flavor: Attacks with your sharp and deadly claws grab the weak.
+        item_id: bear-claws
+        item_name: Bear Claws
+        keywords:
+            - Melee
+            - Strike
+            - Weapon
+        target: One creature or object
+        type: feature/ability/common
+    name: Bear Claws
+    target: One creature or object
+    type: feature
+    usage: Main action
 type: kit

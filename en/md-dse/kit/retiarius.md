@@ -35,17 +35,30 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Net and Stab
-
-*The well-thrown net that follows your main attack leaves your foes right where you want them.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 2**            | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 4 + M or A damage; A < WEAK, slowed (EoT)
-- **12-16:** 6 + M or A damage; A < AVERAGE, slowed (EoT)
-- **17+:** 8 + M or A damage; A < STRONG, restrained (EoT)
+```ds-feature
+distance: Melee 2
+effects:
+    - effect: "*The well-thrown net that follows your main attack leaves your foes right where you want them.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 4 + M or A damage; A < WEAK, slowed (EoT)\n- **12-16:** 6 + M or A damage; A < AVERAGE, slowed (EoT)\n- **17+:** 8 + M or A damage; A < STRONG, restrained (EoT)"
+feature_type: ability
+flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
+keywords:
+    - Melee
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    distance: Melee 2
+    flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    name: Net and Stab
+    subtype: signature
+    target: One creature
+    type: ability
+name: Net and Stab
+target: One creature
+type: feature
+usage: Main action
+```

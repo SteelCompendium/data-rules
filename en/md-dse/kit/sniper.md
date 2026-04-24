@@ -32,19 +32,31 @@ You wear no armor and wield a bow.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Patient Shot
-
-*Breathe... aim... wait... then strike!*
-
-| **Ranged, Strike, Weapon** |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 Ranged 15**           | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage
-- **17+:** 13 + M or A damage
-
-**Effect:** If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+```ds-feature
+distance: Ranged 15
+effects:
+    - effect: If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+feature_type: ability
+flavor: Breathe... aim... wait... then strike!
+keywords:
+    - Ranged
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    distance: Ranged 15
+    effect: If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+    flavor: Breathe... aim... wait... then strike!
+    keywords:
+        - Ranged
+        - Strike
+        - Weapon
+    name: Patient Shot
+    subtype: signature
+    target: One creature
+    type: ability
+name: Patient Shot
+target: One creature
+type: feature
+usage: Main action
+```

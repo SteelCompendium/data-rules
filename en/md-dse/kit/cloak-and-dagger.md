@@ -38,17 +38,32 @@ You wear light armor and wield one or two light weapons.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Fade
-
-*A stab, and a few quick, careful steps back.*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-|-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 3 + M or A damage; you can shift 1 square
-- **12-16:** 6 + M or A damage; you can shift up to 2 squares
-- **17+:** 8 + M or A damage; you can shift up to 3 squares
+```ds-feature
+distance: Melee 1 or ranged 10
+effects:
+    - effect: "*A stab, and a few quick, careful steps back.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**       | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 3 + M or A damage; you can shift 1 square\n- **12-16:** 6 + M or A damage; you can shift up to 2 squares\n- **17+:** 8 + M or A damage; you can shift up to 3 squares"
+feature_type: ability
+flavor: A stab, and a few quick, careful steps back.
+keywords:
+    - Melee
+    - Ranged
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    distance: Melee 1 or ranged 10
+    flavor: A stab, and a few quick, careful steps back.
+    keywords:
+        - Melee
+        - Ranged
+        - Strike
+        - Weapon
+    name: Fade
+    subtype: signature
+    target: One creature
+    type: ability
+name: Fade
+target: One creature
+type: feature
+usage: Main action
+```

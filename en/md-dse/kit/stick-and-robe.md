@@ -35,17 +35,30 @@ You wear light armor and wield a polearm.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Where I Want You
-
-*When your stick speaks, your enemy moves.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 2**            | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 4 + M or A damage
-- **12-16:** 7 + M or A damage; slide 1
-- **17+:** 10 + M or A damage; slide 3
+```ds-feature
+distance: Melee 2
+effects:
+    - effect: "*When your stick speaks, your enemy moves.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 4 + M or A damage\n- **12-16:** 7 + M or A damage; slide 1\n- **17+:** 10 + M or A damage; slide 3"
+feature_type: ability
+flavor: When your stick speaks, your enemy moves.
+keywords:
+    - Melee
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    distance: Melee 2
+    flavor: When your stick speaks, your enemy moves.
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    name: Where I Want You
+    subtype: signature
+    target: One creature
+    type: ability
+name: Where I Want You
+target: One creature
+type: feature
+usage: Main action
+```

@@ -32,19 +32,31 @@ You wear no armor and wield only your unarmed strikes.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Let's Dance
-
-*Keeping your enemies stumbling around the battlefield is second nature to you.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage; slide 1
-- **17+:** 8 + M or A damage; slide 2
-
-**Effect:** You can shift into any square the target leaves after you slide them.
+```ds-feature
+distance: Melee 1
+effects:
+    - effect: You can shift into any square the target leaves after you slide them.
+feature_type: ability
+flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
+keywords:
+    - Melee
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    distance: Melee 1
+    effect: You can shift into any square the target leaves after you slide them.
+    flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    name: Let's Dance
+    subtype: signature
+    target: One creature
+    type: ability
+name: Let's Dance
+target: One creature
+type: feature
+usage: Main action
+```

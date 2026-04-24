@@ -32,17 +32,30 @@ You wear medium armor and wield a shield and a medium weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Shield Bash
-
-*In your hands, a shield isn't just for protection.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 4 + M or A damage; push 1
-- **12-16:** 7 + M or A damage; push 2
-- **17+:** 9 + M or A damage; push 3; M < STRONG, prone
+```ds-feature
+distance: Melee 1
+effects:
+    - effect: "*In your hands, a shield isn't just for protection.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 4 + M or A damage; push 1\n- **12-16:** 7 + M or A damage; push 2\n- **17+:** 9 + M or A damage; push 3; M < STRONG, prone"
+feature_type: ability
+flavor: In your hands, a shield isn't just for protection.
+keywords:
+    - Melee
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    distance: Melee 1
+    flavor: In your hands, a shield isn't just for protection.
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    name: Shield Bash
+    subtype: signature
+    target: One creature
+    type: ability
+name: Shield Bash
+target: One creature
+type: feature
+usage: Main action
+```

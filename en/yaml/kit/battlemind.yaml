@@ -1,8 +1,58 @@
-content: "Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.\n\n##### Equipment\n\nYou wear light armor and wield a medium weapon.\n\n##### Kit Bonuses\n\n**Stamina Bonus:** +3 per echelon\n\n**Speed Bonus:** +2\n\n**Stability Bonus:** +1\n\n**Melee Damage Bonus:** +2/+2/+2\n\n##### Signature Ability\n\n<!-- @type: ability | @subtype: signature -->\n######## Unmooring\n\n*Your weapon unleashes psionic energy that reduces your target's weight.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Power Roll + Might, Reason, Intuition, or Presence:**\n\n- **≤11:** 5 + M, R, I, or P damage\n- **12-16:** 8 + M, R, I, or P damage\n- **17+:** 11 + M, R, I, or P damage\n\n**Effect:** Until the end of the target's next turn, any forced movement that affects the target has its distance increased by 2."
+content: |-
+    Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
+
+    ##### Equipment
+
+    You wear light armor and wield a medium weapon.
+
+    ##### Kit Bonuses
+
+    **Stamina Bonus:** +3 per echelon
+
+    **Speed Bonus:** +2
+
+    **Stability Bonus:** +1
+
+    **Melee Damage Bonus:** +2/+2/+2
+
+    ##### Signature Ability
 equipment_text: You wear light armor and wield a medium weapon.
 melee_damage_bonus: +2/+2/+2
 name: Battlemind
 scc: mcdm.heroes.v1/kit/battlemind
+signature_ability:
+    ability_type: Signature
+    distance: Melee 1
+    effects:
+        - effect: Until the end of the target's next turn, any forced movement that affects the target has its distance increased by 2.
+          name: Effect
+    feature_type: ability
+    flavor: Your weapon unleashes psionic energy that reduces your target's weight.
+    keywords:
+        - Melee
+        - Psionic
+        - Strike
+        - Weapon
+    metadata:
+        ability_type: Signature
+        action_type: Main action
+        content: "*Your weapon unleashes psionic energy that reduces your target's weight.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Power Roll + Might, Reason, Intuition, or Presence:**\n\n- **≤11:** 5 + M, R, I, or P damage\n- **12-16:** 8 + M, R, I, or P damage\n- **17+:** 11 + M, R, I, or P damage\n\n**Effect:** Until the end of the target's next turn, any forced movement that affects the target has its distance increased by 2."
+        distance: Melee 1
+        feature_type: ability
+        flavor: Your weapon unleashes psionic energy that reduces your target's weight.
+        item_id: unmooring
+        item_name: Unmooring
+        keywords:
+            - Melee
+            - Psionic
+            - Strike
+            - Weapon
+        target: One creature
+        type: feature/ability/common
+    name: Unmooring
+    target: One creature
+    type: feature
+    usage: Main action
 speed_bonus: "+2"
 stability_bonus: "+1"
 stamina_bonus: +3 per echelon

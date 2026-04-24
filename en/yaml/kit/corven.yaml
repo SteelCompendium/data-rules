@@ -1,4 +1,42 @@
-content: "With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.\n\n##### Signature Ability\n\n<!-- @type: ability | @subtype: signature -->\n######## Wing Buffet\n\n*Foes who try to close in around you do so at their peril.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 burst**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 3 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage\n\n**Effect:** You can shift up to 2 squares before or after making the power roll."
+content: |-
+    With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+
+    ##### Signature Ability
 name: Corven
 scc: mcdm.heroes.v1/kit/corven
+signature_ability:
+    ability_type: Signature
+    distance: 1 burst
+    effects:
+        - roll: Power Roll + Agility
+          tier1: 3 damage
+          tier2: 6 damage
+          tier3: 8 damage
+        - effect: You can shift up to 2 squares before or after making the power roll.
+          name: Effect
+    feature_type: ability
+    flavor: Foes who try to close in around you do so at their peril.
+    keywords:
+        - Area
+        - Melee
+        - Weapon
+    metadata:
+        ability_type: Signature
+        action_type: Main action
+        content: "*Foes who try to close in around you do so at their peril.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 burst**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 3 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage\n\n**Effect:** You can shift up to 2 squares before or after making the power roll."
+        distance: 1 burst
+        feature_type: ability
+        flavor: Foes who try to close in around you do so at their peril.
+        item_id: wing-buffet
+        item_name: Wing Buffet
+        keywords:
+            - Area
+            - Melee
+            - Weapon
+        target: Each enemy in the area
+        type: feature/ability/common
+    name: Wing Buffet
+    target: Each enemy in the area
+    type: feature
+    usage: Main action
 type: kit

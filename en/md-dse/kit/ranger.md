@@ -38,17 +38,30 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Hamstring Shot
-
-*A well-placed shot leaves your enemy struggling to move.*
-
-| **Ranged, Strike, Weapon** |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 3 + M or A damage; A < WEAK, slowed (save ends)
-- **12-16:** 5 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 7 + M or A damage; A < STRONG, slowed (save ends)
+```ds-feature
+distance: Ranged 10
+effects:
+    - effect: "*A well-placed shot leaves your enemy struggling to move.*\n\n| **Ranged, Strike, Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 3 + M or A damage; A < WEAK, slowed (save ends)\n- **12-16:** 5 + M or A damage; A < AVERAGE, slowed (save ends)\n- **17+:** 7 + M or A damage; A < STRONG, slowed (save ends)"
+feature_type: ability
+flavor: A well-placed shot leaves your enemy struggling to move.
+keywords:
+    - Ranged
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    distance: Ranged 10
+    flavor: A well-placed shot leaves your enemy struggling to move.
+    keywords:
+        - Ranged
+        - Strike
+        - Weapon
+    name: Hamstring Shot
+    subtype: signature
+    target: One creature
+    type: ability
+name: Hamstring Shot
+target: One creature
+type: feature
+usage: Main action
+```
