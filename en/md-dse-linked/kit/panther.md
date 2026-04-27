@@ -32,8 +32,7 @@ You wear no armor and wield a heavy weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Devastating Rush
+###### Devastating Rush
 
 *The faster you move, the harder you hit.*
 

@@ -32,8 +32,7 @@ You wear no armor and wield a whip.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Extension of My Arm
+###### Extension of My Arm
 
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 

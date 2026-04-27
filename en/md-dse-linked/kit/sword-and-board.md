@@ -32,8 +32,7 @@ You wear medium armor and wield a shield and a medium weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Shield Bash
+###### Shield Bash
 
 *In your hands, a shield isn't just for protection.*
 

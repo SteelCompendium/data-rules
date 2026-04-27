@@ -27,8 +27,7 @@ You wear medium armor and wield a polearm.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Forward Thrust, Backward Smash
+###### Forward Thrust, Backward Smash
 
 *In your hands, the haft is as good as the head.*
 

@@ -38,6 +38,20 @@ You wear light armor and wield one or two light weapons.
 
 ##### Signature Ability
 
+###### Fade
+
+*A stab, and a few quick, careful steps back.*
+
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+|-----------------------------------|--------------------:|
+| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage; you can shift 1 square
+- **12-16:** 6 + M or A damage; you can shift up to 2 squares
+- **17+:** 8 + M or A damage; you can shift up to 3 squares
+
 ```ds-feature
 distance: Melee 1 or ranged 10
 effects:

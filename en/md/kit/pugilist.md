@@ -27,8 +27,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Let's Dance
+###### Let's Dance
 
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
 

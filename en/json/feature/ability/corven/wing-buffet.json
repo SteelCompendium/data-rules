@@ -1,0 +1,48 @@
+{
+  "ability_type": "Signature",
+  "distance": "1 burst",
+  "effects": [
+    {
+      "roll": "Power Roll + Agility",
+      "tier1": "3 damage",
+      "tier2": "6 damage",
+      "tier3": "8 damage"
+    },
+    {
+      "effect": "You can shift up to 2 squares before or after making the power roll.",
+      "name": "Effect"
+    }
+  ],
+  "feature_type": "ability",
+  "flavor": "Foes who try to close in around you do so at their peril.",
+  "keywords": [
+    "Area",
+    "Melee",
+    "Weapon"
+  ],
+  "metadata": {
+    "ability_type": "Signature",
+    "action_type": "Main action",
+    "class": "corven",
+    "content": "*Foes who try to close in around you do so at their peril.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 1 burst**          | **🎯 Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 3 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage\n\n**Effect:** You can shift up to 2 squares before or after making the power roll.",
+    "distance": "1 burst",
+    "feature_type": "ability",
+    "flavor": "Foes who try to close in around you do so at their peril.",
+    "item_id": "wing-buffet",
+    "item_name": "Wing Buffet",
+    "keywords": [
+      "Area",
+      "Melee",
+      "Weapon"
+    ],
+    "scc": [
+      "mcdm.heroes.v1/feature.ability.corven/wing-buffet"
+    ],
+    "target": "Each enemy in the area",
+    "type": "feature/ability/corven"
+  },
+  "name": "Wing Buffet",
+  "target": "Each enemy in the area",
+  "type": "feature",
+  "usage": "Main action"
+}

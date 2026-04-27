@@ -1,0 +1,53 @@
+---
+action_type: Main action
+class: sniper
+distance: Ranged 15
+effect: If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+feature_type: ability
+file_basename: patient-shot
+file_dpath: feature/ability/sniper
+flavor: Breathe... aim... wait... then strike!
+item_id: patient-shot
+item_name: Patient Shot
+keywords:
+    - Ranged
+    - Strike
+    - Weapon
+name: Patient Shot
+scc: mcdm.heroes.v1/feature.ability.sniper/patient-shot
+source: mcdm.heroes.v1
+subtype: signature
+target: One creature
+type: ability
+---
+
+```ds-feature
+distance: Ranged 15
+effects:
+    - effect: If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+feature_type: ability
+flavor: Breathe... aim... wait... then strike!
+keywords:
+    - Ranged
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    class: sniper
+    distance: Ranged 15
+    effect: If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+    flavor: Breathe... aim... wait... then strike!
+    keywords:
+        - Ranged
+        - Strike
+        - Weapon
+    name: Patient Shot
+    scc: mcdm.heroes.v1/feature.ability.sniper/patient-shot
+    subtype: signature
+    target: One creature
+    type: ability
+name: Patient Shot
+target: One creature
+type: feature
+usage: Main action
+```

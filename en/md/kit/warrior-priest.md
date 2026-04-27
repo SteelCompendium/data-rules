@@ -27,8 +27,7 @@ You wear heavy armor and wield a light weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Weakening Brand
+###### Weakening Brand
 
 *The impact of your weapon brands your target for destruction.*
 

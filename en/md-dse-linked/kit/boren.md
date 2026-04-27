@@ -13,8 +13,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Bear Claws
+###### Bear Claws
 
 *Attacks with your sharp and deadly claws grab the weak.*
 

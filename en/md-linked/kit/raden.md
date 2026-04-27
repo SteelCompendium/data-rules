@@ -8,8 +8,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Driving Pounce
+###### Driving Pounce
 
 *Your enemies try in vain to fall back from your pouncing attack.*
 

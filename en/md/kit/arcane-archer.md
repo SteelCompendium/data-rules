@@ -27,8 +27,7 @@ You wear no armor and wield a bow.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Exploding Arrow
+###### Exploding Arrow
 
 *Your ammunition explodes with magical energy.*
 

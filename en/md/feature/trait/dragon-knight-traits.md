@@ -22,39 +22,9 @@ Whenever you or an adjacent creature takes damage from a strike, you can use a t
 
 You have the following signature ability.
 
-######## Draconian Pride
-
-*You let loose a mighty roar to shake your foes' spirits.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 1 burst**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Might or Presence:**
-
-- **≤11:** 2 damage
-- **12-16:** 5 damage; push 1
-- **17+:** 7 damage; push 2
-
 ##### Dragon Breath (2 Points)
 
 You have the following signature ability.
-
-######## Dragon Breath
-
-*A furious exhalation of energy washes over your foes.*
-
-| **Area, Magic**        |               **Main action** |
-|------------------------|------------------------------:|
-| **📏 3 cube within 1** | **🎯 Each enemy in the area** |
-
-**Power Roll + Might or Presence:**
-
-- **≤11:** 2 damage
-- **12-16:** 4 damage
-- **17+:** 6 damage
-
-**Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
 
 ##### Prismatic Scales (1 Point)
 

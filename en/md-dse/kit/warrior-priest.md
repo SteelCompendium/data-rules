@@ -32,6 +32,22 @@ You wear heavy armor and wield a light weapon.
 
 ##### Signature Ability
 
+###### Weakening Brand
+
+*The impact of your weapon brands your target for destruction.*
+
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
+|----------------------------------|------------------------------:|
+| **📏 Melee 1**                   | **🎯 One creature or object** |
+
+**Power Roll + Might, Reason, Intuition, or Presence:**
+
+- **≤11:** 3 + M, R, I, or P holy damage
+- **12-16:** 5 + M, R, I, or P holy damage
+- **17+:** 8 + M, R, I, or P holy damage
+
+**Effect:** Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
+
 ```ds-feature
 distance: Melee 1
 effects:

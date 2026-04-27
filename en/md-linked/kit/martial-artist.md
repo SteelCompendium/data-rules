@@ -27,8 +27,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Battle Grace
+###### Battle Grace
 
 *You feint to move your enemies into perfect position.*
 

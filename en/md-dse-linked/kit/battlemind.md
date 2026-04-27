@@ -32,8 +32,7 @@ You wear light armor and wield a medium weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Unmooring
+###### Unmooring
 
 *Your weapon unleashes psionic energy that reduces your target's weight.*
 

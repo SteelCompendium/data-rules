@@ -30,8 +30,7 @@ You wear light armor and wield a bow.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Two Shot
+###### Two Shot
 
 *When you fire two arrows back-to-back, both hit their mark.*
 

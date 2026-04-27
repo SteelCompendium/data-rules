@@ -32,8 +32,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Double Strike
+###### Double Strike
 
 *Why strike once when you could do it twice?*
 

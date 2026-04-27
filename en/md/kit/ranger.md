@@ -33,8 +33,7 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Hamstring Shot
+###### Hamstring Shot
 
 *A well-placed shot leaves your enemy struggling to move.*
 

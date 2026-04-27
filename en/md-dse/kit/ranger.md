@@ -38,6 +38,20 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ##### Signature Ability
 
+###### Hamstring Shot
+
+*A well-placed shot leaves your enemy struggling to move.*
+
+| **Ranged, Strike, Weapon** |     **Main action** |
+|----------------------------|--------------------:|
+| **📏 Ranged 10**           | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage; A < WEAK, slowed (save ends)
+- **12-16:** 5 + M or A damage; A < AVERAGE, slowed (save ends)
+- **17+:** 7 + M or A damage; A < STRONG, slowed (save ends)
+
 ```ds-feature
 distance: Ranged 10
 effects:

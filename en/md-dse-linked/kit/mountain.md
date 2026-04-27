@@ -29,8 +29,7 @@ You wear heavy armor and wield a heavy weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Pain for Pain
+###### Pain for Pain
 
 *An enemy who tagged you will pay for that.*
 

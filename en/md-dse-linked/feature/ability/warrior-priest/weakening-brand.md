@@ -1,0 +1,56 @@
+---
+action_type: Main action
+class: warrior-priest
+distance: Melee 1
+effect: Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
+feature_type: ability
+file_basename: weakening-brand
+file_dpath: feature/ability/warrior-priest
+flavor: The impact of your weapon brands your target for destruction.
+item_id: weakening-brand
+item_name: Weakening Brand
+keywords:
+    - Magic
+    - Melee
+    - Strike
+    - Weapon
+name: Weakening Brand
+scc: mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand
+source: mcdm.heroes.v1
+subtype: signature
+target: One creature or object
+type: ability
+---
+
+```ds-feature
+distance: Melee 1
+effects:
+    - effect: Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
+feature_type: ability
+flavor: The impact of your weapon brands your target for destruction.
+keywords:
+    - Magic
+    - Melee
+    - Strike
+    - Weapon
+metadata:
+    action_type: Main action
+    class: warrior-priest
+    distance: Melee 1
+    effect: Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
+    flavor: The impact of your weapon brands your target for destruction.
+    keywords:
+        - Magic
+        - Melee
+        - Strike
+        - Weapon
+    name: Weakening Brand
+    scc: mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand
+    subtype: signature
+    target: One creature or object
+    type: ability
+name: Weakening Brand
+target: One creature or object
+type: feature
+usage: Main action
+```

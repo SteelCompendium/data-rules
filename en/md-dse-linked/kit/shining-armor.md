@@ -29,8 +29,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Protective Attack
+###### Protective Attack
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
 

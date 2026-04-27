@@ -13,8 +13,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Unbalancing Attack
+###### Unbalancing Attack
 
 *A wild assault forces your foe onto their back.*
 

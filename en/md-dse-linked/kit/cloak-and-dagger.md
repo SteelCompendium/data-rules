@@ -38,8 +38,7 @@ You wear light armor and wield one or two light weapons.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Fade
+###### Fade
 
 *A stab, and a few quick, careful steps back.*
 

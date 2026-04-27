@@ -29,6 +29,22 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ##### Signature Ability
 
+###### Protective Attack
+
+*The strength of your assault makes it impossible for your foe to ignore you.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 5 + M or A damage
+- **12-16:** 8 + M or A damage
+- **17+:** 11 + M or A damage
+
+**Effect:** The target is taunted until the end of their next turn.
+
 ```ds-feature
 distance: Melee 1
 effects:

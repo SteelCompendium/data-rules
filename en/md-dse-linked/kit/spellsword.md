@@ -32,8 +32,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Leaping Lightning
+###### Leaping Lightning
 
 *Lightning jumps from your weapon as you strike to harm a nearby foe.*
 

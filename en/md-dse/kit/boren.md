@@ -13,6 +13,20 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Signature Ability
 
+###### Bear Claws
+
+*Attacks with your sharp and deadly claws grab the weak.*
+
+| **Melee, Strike, Weapon** |               **Main action** |
+|---------------------------|------------------------------:|
+| **📏 Melee 1**            | **🎯 One creature or object** |
+
+**Power Roll + Might:**
+
+- **≤11:** 2 + M damage; M < WEAK, grabbed
+- **12-16:** 5 + M damage; M < AVERAGE, grabbed
+- **17+:** 11 + M damage; M < STRONG, grabbed
+
 ```ds-feature
 distance: Melee 1
 effects:

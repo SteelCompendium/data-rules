@@ -30,8 +30,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Net and Stab
+###### Net and Stab
 
 *The well-thrown net that follows your main attack leaves your foes right where you want them.*
 

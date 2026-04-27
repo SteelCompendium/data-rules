@@ -32,6 +32,22 @@ You wear light armor and wield a medium weapon.
 
 ##### Signature Ability
 
+###### Fancy Footwork
+
+*All combat is a dance—and you'll be the one leading.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 5 + M or A damage
+- **12-16:** 7 + M or A damage; push 1
+- **17+:** 10 + M or A damage; push 2
+
+**Effect:** You can shift into any square the target leaves after you push them.
+
 ```ds-feature
 distance: Melee 1
 effects:

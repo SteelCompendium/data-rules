@@ -32,6 +32,20 @@ You wear medium armor and wield a polearm.
 
 ##### Signature Ability
 
+###### Forward Thrust, Backward Smash
+
+*In your hands, the haft is as good as the head.*
+
+| **Melee, Strike, Weapon** |                 **Main action** |
+|---------------------------|--------------------------------:|
+| **📏 Melee 2**            | **🎯 Two creatures or objects** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 damage
+- **12-16:** 7 damage
+- **17+:** 9 damage
+
 ```ds-feature
 distance: Melee 2
 effects:

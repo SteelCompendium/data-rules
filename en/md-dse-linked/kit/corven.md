@@ -13,8 +13,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Wing Buffet
+###### Wing Buffet
 
 *Foes who try to close in around you do so at their peril.*
 

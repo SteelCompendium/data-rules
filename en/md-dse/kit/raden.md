@@ -13,6 +13,22 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Signature Ability
 
+###### Driving Pounce
+
+*Your enemies try in vain to fall back from your pouncing attack.*
+
+| **Melee, Strike, Weapon** |               **Main action** |
+|---------------------------|------------------------------:|
+| **📏 Melee 1**            | **🎯 One creature or object** |
+
+**Power Roll + Agility:**
+
+- **≤11:** 4 + A damage
+- **12-16:** 7 + A damage; push 1
+- **17+:** 9 + A damage; push 2
+
+**Effect:** You can shift up to the same number of squares that you pushed the target.
+
 ```ds-feature
 distance: Melee 1
 effects:

@@ -30,8 +30,7 @@ You wear light armor and wield a polearm.
 
 ##### Signature Ability
 
-<!-- @type: ability | @subtype: signature -->
-######## Where I Want You
+###### Where I Want You
 
 *When your stick speaks, your enemy moves.*
 

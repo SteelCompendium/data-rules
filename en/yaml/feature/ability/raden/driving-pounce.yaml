@@ -1,0 +1,37 @@
+ability_type: Signature
+distance: Melee 1
+effects:
+    - roll: Power Roll + Agility
+      tier1: 4 + A damage
+      tier2: 7 + A damage; push 1
+      tier3: 9 + A damage; push 2
+    - effect: You can shift up to the same number of squares that you pushed the target.
+      name: Effect
+feature_type: ability
+flavor: Your enemies try in vain to fall back from your pouncing attack.
+keywords:
+    - Melee
+    - Strike
+    - Weapon
+metadata:
+    ability_type: Signature
+    action_type: Main action
+    class: raden
+    content: "*Your enemies try in vain to fall back from your pouncing attack.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage\n- **12-16:** 7 + A damage; push 1\n- **17+:** 9 + A damage; push 2\n\n**Effect:** You can shift up to the same number of squares that you pushed the target."
+    distance: Melee 1
+    feature_type: ability
+    flavor: Your enemies try in vain to fall back from your pouncing attack.
+    item_id: driving-pounce
+    item_name: Driving Pounce
+    keywords:
+        - Melee
+        - Strike
+        - Weapon
+    scc:
+        - mcdm.heroes.v1/feature.ability.raden/driving-pounce
+    target: One creature or object
+    type: feature/ability/raden
+name: Driving Pounce
+target: One creature or object
+type: feature
+usage: Main action

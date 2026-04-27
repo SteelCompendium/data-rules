@@ -32,6 +32,22 @@ You wear no armor and wield a bow.
 
 ##### Signature Ability
 
+###### Exploding Arrow
+
+*Your ammunition explodes with magical energy.*
+
+| **Magic, Ranged, Strike, Weapon** |               **Main action** |
+|-----------------------------------|------------------------------:|
+| **📏 Ranged 15**                  | **🎯 One creature or object** |
+
+**Power Roll + Agility, Reason, Intuition, or Presence:**
+
+- **≤11:** 5 + A, R, I, or P fire damage
+- **12-16:** 7 + A, R, I, or P fire damage
+- **17+:** 10 + A, R, I, or P fire damage
+
+**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
+
 ```ds-feature
 distance: Ranged 15
 effects:

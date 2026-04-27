@@ -13,6 +13,22 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Signature Ability
 
+###### Wing Buffet
+
+*Foes who try to close in around you do so at their peril.*
+
+| **Area, Melee, Weapon** |               **Main action** |
+|-------------------------|------------------------------:|
+| **📏 1 burst**          | **🎯 Each enemy in the area** |
+
+**Power Roll + Agility:**
+
+- **≤11:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 8 damage
+
+**Effect:** You can shift up to 2 squares before or after making the power roll.
+
 ```ds-feature
 distance: 1 burst
 effects:
