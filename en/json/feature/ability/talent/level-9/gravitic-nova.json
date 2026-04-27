@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "talent",
-    "content": "\n*Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*\n\n| **Area, Psionic, Telekinesis** |                          **Main action** |\n|--------------------------------|-----------------------------------------:|\n| **📏 3 burst**                 | **🎯 Each enemy and object in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 6 damage; push 7\n- **12-16:** 9 damage; push 10\n- **17+:** 13 damage; push 15\n\n**Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.\n\n**Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.\n\n##### 9th-Level Telepathy Abilities\n\nChoose one of the following abilities.",
+    "content": "\n*Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*\n\n| **Area, Psionic, Telekinesis** |                          **Main action** |\n|--------------------------------|-----------------------------------------:|\n| **📏 3 burst**                 | **🎯 Each enemy and object in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 6 damage; push 7\n- **12-16:** 9 damage; push 10\n- **17+:** 13 damage; push 15\n\n**Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.\n\n**Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.",
     "distance": "3 burst",
     "feature_type": "ability",
     "flavor": "Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.",

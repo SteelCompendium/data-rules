@@ -14,7 +14,7 @@ keywords:
 metadata:
     action_type: Main action
     class: censor
-    content: "\n*You conjure memories of their sins to harry your foes.*\n\n| **Magic, Ranged, Strike**  |    **Main action**  |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 + P holy damage; I < WEAK, dazed (save ends)\n- **12-16:** 8 + P holy damage; I < AVERAGE, dazed (save ends)\n- **17+:** 11 + P holy damage; I < STRONG, dazed (save ends)\n\n###### 5-Wrath Ability\n\nChoose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire.)"
+    content: "\n*You conjure memories of their sins to harry your foes.*\n\n| **Magic, Ranged, Strike**  |    **Main action**  |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 + P holy damage; I < WEAK, dazed (save ends)\n- **12-16:** 8 + P holy damage; I < AVERAGE, dazed (save ends)\n- **17+:** 11 + P holy damage; I < STRONG, dazed (save ends)"
     distance: Ranged 10
     feature_type: ability
     flavor: You conjure memories of their sins to harry your foes.

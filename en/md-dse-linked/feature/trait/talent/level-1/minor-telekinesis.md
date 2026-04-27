@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability.
+    - effect: "You have the following ability.\n\n###### Minor Telekinesis\n\n>\n> *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*\n>\n> | **Psionic, Ranged** |                                 **Maneuver** |\n> |---------------------|---------------------------------------------:|\n> | **\U0001F4CF Ranged 10**    | **\U0001F3AF Self or one size 1 creature or object** |\n>\n> **Effect:** You slide the target up to a number of squares equal to your Reason score.\n>\n> **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.\n>\n> **Spend 3 Clarity:** You can vertical slide the target."
 feature_type: trait
 metadata:
     class: talent

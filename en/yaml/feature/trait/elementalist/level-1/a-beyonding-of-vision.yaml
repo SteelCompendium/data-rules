@@ -1,3 +1,32 @@
+ability:
+    distance: Ranged 10
+    effects:
+        - effect: For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
+          name: Effect
+    feature_type: ability
+    flavor: You grant allies a taste of your unearthly vision.
+    keywords:
+        - Magic
+        - Ranged
+        - Void
+    metadata:
+        action_type: Maneuver
+        content: "\n*You grant allies a taste of your unearthly vision.*\n\n| **Magic, Ranged, Void** |    **Maneuver** |\n|-------------------------|----------------:|\n| **\U0001F4CF Ranged 10**        |  **\U0001F3AF Special** |\n\n**Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability."
+        distance: Ranged 10
+        feature_type: ability
+        flavor: You grant allies a taste of your unearthly vision.
+        item_id: shared-void-sense
+        item_name: Shared Void Sense
+        keywords:
+            - Magic
+            - Ranged
+            - Void
+        target: Special
+        type: feature/ability/common
+    name: Shared Void Sense
+    target: Special
+    type: feature
+    usage: Maneuver
 effects:
     - effect: |-
         You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.

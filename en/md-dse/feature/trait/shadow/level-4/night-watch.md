@@ -15,10 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: |-
-        Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a bane on tests made to search for you or other hidden creatures within 10 squares of you.
-
-        Additionally, you have the following ability.
+    - effect: "Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a bane on tests made to search for you or other hidden creatures within 10 squares of you.\n\nAdditionally, you have the following ability.\n\n##### Night Watch\n\n> \n> *A steely dagger from out of the blue knocks another weapon off course.*\n> \n> | **Ranged, Weapon** |   **Triggered** |\n> |--------------------|----------------:|\n> | **\U0001F4CF Ranged 5**    | **\U0001F3AF One ally** |\n> \n> **Trigger:** The target takes damage from another creature's ability while you are hidden.\n> \n> **Effect:** The target takes half the damage. You remain hidden."
 feature_type: trait
 metadata:
     class: shadow

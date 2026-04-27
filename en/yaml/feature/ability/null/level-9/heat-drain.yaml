@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: "null"
-    content: "\n*You drain all the heat from the target.*\n\n| **Melee, Psionic, Strike** |        **Maneuver** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 8 + I cold damage; M < WEAK, restrained (save ends)\n- **12-16:** 11 + I cold damage; M < AVERAGE, restrained (save ends)\n- **17+:** 15 + I cold damage; M < STRONG, restrained (save ends)\n\n**Effect:** While restrained this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while restrained this way, any potency associated with the damage is reduced by 2.\n\n##### 9th-Level Metakinetic Abilities\n\nChoose one of the following abilities."
+    content: "\n*You drain all the heat from the target.*\n\n| **Melee, Psionic, Strike** |        **Maneuver** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 8 + I cold damage; M < WEAK, restrained (save ends)\n- **12-16:** 11 + I cold damage; M < AVERAGE, restrained (save ends)\n- **17+:** 15 + I cold damage; M < STRONG, restrained (save ends)\n\n**Effect:** While restrained this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while restrained this way, any potency associated with the damage is reduced by 2."
     distance: Melee 1
     feature_type: ability
     flavor: You drain all the heat from the target.

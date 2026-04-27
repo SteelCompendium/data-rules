@@ -18,7 +18,7 @@ metadata:
     ability_type: Signature
     action_type: Main action
     class: talent
-    content: "\n*You form a blade of mind energy and stab your target, invigorating yourself.*\n\n| **Animapathy, Melee, Psionic, Strike** |               **Main action** |\n|----------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 2**                         | **\U0001F3AF One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 3 + P damage\n- **12-16:** 6 + P damage\n- **17+:** 9 + P damage\n\n**Effect:** You gain 1 surge.\n\n**Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.\n\n##### Heroic Abilities\n\nYou know a range of heroic abilities, all of which cost clarity to fuel them.\n\n###### 3-Clarity Ability\n\nChoose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)"
+    content: "\n*You form a blade of mind energy and stab your target, invigorating yourself.*\n\n| **Animapathy, Melee, Psionic, Strike** |               **Main action** |\n|----------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 2**                         | **\U0001F3AF One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 3 + P damage\n- **12-16:** 6 + P damage\n- **17+:** 9 + P damage\n\n**Effect:** You gain 1 surge.\n\n**Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way."
     distance: Melee 2
     feature_type: ability
     flavor: You form a blade of mind energy and stab your target, invigorating yourself.

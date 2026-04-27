@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability.
+    - effect: "You have the following ability.\n\n##### Hesitation Is Weakness (1 Insight)\n\n> \n> *Keep up the attack. Never give them a moment's grace.*\n> \n> | **-**       | **Free triggered** |\n> |-------------|-------------------:|\n> | **\U0001F4CF Self** |        **\U0001F3AF Self** |\n> \n> **Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.\n> \n> **Effect:** You take your turn after the triggering hero."
 feature_type: trait
 metadata:
     class: shadow

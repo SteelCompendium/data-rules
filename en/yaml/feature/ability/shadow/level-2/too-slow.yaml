@@ -12,7 +12,7 @@ metadata:
     ability_type: Triggered
     action_type: Free triggered
     class: shadow
-    content: "\n*Your foe made a big mistake.*\n\n| **-**                  | **Free triggered** |\n|------------------------|-------------------:|\n| **\U0001F4CF Self; see below** |        **\U0001F3AF Self** |\n\n**Trigger:** You use your In All This Confusion ability.\n\n**Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.\n\n##### 2nd-Level Caustic Alchemy Ability\n\nChoose one of the following abilities."
+    content: "\n*Your foe made a big mistake.*\n\n| **-**                  | **Free triggered** |\n|------------------------|-------------------:|\n| **\U0001F4CF Self; see below** |        **\U0001F3AF Self** |\n\n**Trigger:** You use your In All This Confusion ability.\n\n**Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery."
     distance: Self; see below
     feature_type: ability
     flavor: Your foe made a big mistake.

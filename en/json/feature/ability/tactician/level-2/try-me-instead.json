@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*\"Try picking on someone my size.\"*\n\n| **Melee, Strike, Weapon** | **Main action** |\n|---------------------------|----------------:|\n| **📏 Self; see below**    |     **🎯 Self** |\n\n**Effect:** You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R damage; R \u003c WEAK, frightened (save ends)\n- **12-16:** 3 + R damage; R \u003c AVERAGE, frightened (save ends)\n- **17+:** 4 + R damage; R \u003c STRONG, frightened (save ends)\n\n##### 2nd-Level Mastermind Ability\n\nChoose one of the following abilities.",
+    "content": "\n*\"Try picking on someone my size.\"*\n\n| **Melee, Strike, Weapon** | **Main action** |\n|---------------------------|----------------:|\n| **📏 Self; see below**    |     **🎯 Self** |\n\n**Effect:** You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R damage; R \u003c WEAK, frightened (save ends)\n- **12-16:** 3 + R damage; R \u003c AVERAGE, frightened (save ends)\n- **17+:** 4 + R damage; R \u003c STRONG, frightened (save ends)",
     "distance": "Self; see below",
     "feature_type": "ability",
     "flavor": "\"Try picking on someone my size.\"",

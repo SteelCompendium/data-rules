@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability.
+    - effect: "You have the following ability.\n\n###### Remote Assistance\n\n>\n> *An ally gains the benefit of your intellect.*\n>\n> | **Psionic, Ranged** |                  **Maneuver** |\n> |---------------------|------------------------------:|\n> | **\U0001F4CF Ranged 10**    | **\U0001F3AF One creature or object** |\n>\n>\n> **Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an edge.\n>\n> **Spend 1 Clarity:** You target one additional creature or object."
 feature_type: trait
 metadata:
     class: talent

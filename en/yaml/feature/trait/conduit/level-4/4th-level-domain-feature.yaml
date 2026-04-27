@@ -1,31 +1,32 @@
+ability:
+    distance: 3 aura
+    effects:
+        - effect: Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+          name: Effect
+    feature_type: ability
+    flavor: You project an illusory aura that makes you and allies harder to notice.
+    keywords:
+        - Area
+        - Magic
+    metadata:
+        action_type: Maneuver
+        content: "\n*You project an illusory aura that makes you and allies harder to notice.*\n\n| **Area, Magic** |                         **Maneuver**  |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 3 aura**   | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object."
+        distance: 3 aura
+        feature_type: ability
+        flavor: You project an illusory aura that makes you and allies harder to notice.
+        item_id: blessing-of-secrets
+        item_name: Blessing of Secrets
+        keywords:
+            - Area
+            - Magic
+        target: Self and each ally in the area
+        type: feature/ability/common
+    name: Blessing of Secrets
+    target: Self and each ally in the area
+    type: feature
+    usage: Maneuver
 effects:
-    - effect: |-
-        Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
-
-        ###### 4th-Level Conduit Domain Features Table
-
-        | Domain     | Feature                     |
-        |------------|-----------------------------|
-        | Creation   | Improved Hands of the Maker |
-        | Death      | Seance                      |
-        | Fate       | Oracular Warning            |
-        | Knowledge  | Saint's Epiphany            |
-        | Life       | Blessing of Life            |
-        | Love       | Invocation of the Heart     |
-        | Nature     | Wode Road                   |
-        | Protection | Impervious Touch            |
-        | Storm      | Windwalk                    |
-        | Sun        | Light of Revelation         |
-        | Trickery   | Blessing of Secrets         |
-        | War        | Improved Sanctified Weapon  |
-
-        ###### Blessing of Life
-
-        Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your Healing Grace ability regains Stamina, they regain additional Stamina equal to your Intuition score.
-
-        ###### Blessing of Secrets
-
-        You have the following ability.
+    - effect: Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
 feature_type: trait
 metadata:
     action_type: feature

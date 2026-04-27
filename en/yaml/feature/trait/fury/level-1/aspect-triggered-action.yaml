@@ -1,14 +1,35 @@
+ability:
+    ability_type: Triggered
+    distance: Self
+    effects:
+        - effect: You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
+          name: Effect
+        - cost: Spend 1 Ferocity
+          effect: If you are not dying, you can spend a Recovery.
+    feature_type: ability
+    flavor: In your anger, you revert to a more bestial form.
+    keywords:
+        - '-'
+    metadata:
+        ability_type: Triggered
+        action_type: Triggered
+        content: "\n*In your anger, you revert to a more bestial form.*\n\n| **-**       | **Triggered** |\n|-------------|--------------:|\n| **\U0001F4CF Self** |   **\U0001F3AF Self** |\n\n**Trigger:** You lose Stamina and are not dying.\n\n**Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.\n\n**Spend 1 Ferocity:** If you are not dying, you can spend a Recovery."
+        distance: Self
+        feature_type: ability
+        flavor: In your anger, you revert to a more bestial form.
+        item_id: furious-change
+        item_name: Furious Change
+        keywords:
+            - '-'
+        target: Self
+        type: feature/ability/common
+    name: Furious Change
+    target: Self
+    trigger: You lose Stamina and are not dying.
+    type: feature
+    usage: Triggered
 effects:
-    - effect: |-
-        Your primordial aspect grants you a triggered action, as shown on the Aspect Triggered Actions table.
-
-        ###### Aspect Triggered Actions Table
-
-        | Aspect                   | Triggered Action   |
-        |--------------------------|--------------------|
-        | Berserker                | Lines of Force     |
-        | Reaver                   | Unearthly Reflexes |
-        | Stormwight               | Furious Change     |
+    - effect: Your primordial aspect grants you a triggered action, as shown on the Aspect Triggered Actions table.
 feature_type: trait
 metadata:
     action_type: feature

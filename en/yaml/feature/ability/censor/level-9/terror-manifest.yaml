@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: censor
-    content: "\n*\"I know what you fear.\"*\n\n| **Magic, Ranged, Strike**  |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 7 + P psychic damage; P < WEAK, frightened (save ends)\n- **12-16:** 10 + P psychic damage; P < AVERAGE, frightened (save ends)\n- **17+:** 13 + P psychic damage; P < STRONG, frightened (save ends)\n\n**Effect:** While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.\n\n##### 9th-Level Oracle Abilities\n\nChoose one of the following abilities."
+    content: "\n*\"I know what you fear.\"*\n\n| **Magic, Ranged, Strike**  |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 7 + P psychic damage; P < WEAK, frightened (save ends)\n- **12-16:** 10 + P psychic damage; P < AVERAGE, frightened (save ends)\n- **17+:** 13 + P psychic damage; P < STRONG, frightened (save ends)\n\n**Effect:** While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina."
     distance: Ranged 10
     feature_type: ability
     flavor: '"I know what you fear."'

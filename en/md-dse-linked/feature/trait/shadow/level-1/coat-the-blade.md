@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability.
+    - effect: "You have the following ability.\n\n###### Coat the Blade\n\n> \n> *A little poison goes a long way.*\n> \n> | **-**       | **Maneuver** |\n> |-------------|-------------:|\n> | **\U0001F4CF Self** |  **\U0001F3AF Self** |\n> \n> **Effect:** You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.\n> \n> **Spend 1+ Insight:** For each insight you spend, you gain 1 additional surge."
 feature_type: trait
 metadata:
     class: shadow

@@ -15,10 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: |-
-        You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
-
-        You also gain the following ability.
+    - effect: "You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.\n\nYou also gain the following ability.\n\n###### Shared Void Sense\n\n> \n> *You grant allies a taste of your unearthly vision.*\n> \n> | **Magic, Ranged, Void** |    **Maneuver** |\n> |-------------------------|----------------:|\n> | **\U0001F4CF Ranged 10**        |  **\U0001F3AF Special** |\n> \n> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability."
 feature_type: trait
 metadata:
     class: elementalist

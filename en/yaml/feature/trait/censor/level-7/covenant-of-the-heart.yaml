@@ -1,3 +1,30 @@
+ability:
+    distance: Ranged 10
+    effects:
+        - effect: Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+          name: Effect
+    feature_type: ability
+    flavor: You concentrate on a friend and teleport to them.
+    keywords:
+        - Magic
+        - Ranged
+    metadata:
+        action_type: Main action
+        content: "\n*You concentrate on a friend and teleport to them.*\n\n| **Magic, Ranged** |           **Main action** |\n|-------------------|--------------------------:|\n| **\U0001F4CF Ranged 10**  | **\U0001F3AF Self and each ally** |\n\n**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world."
+        distance: Ranged 10
+        feature_type: ability
+        flavor: You concentrate on a friend and teleport to them.
+        item_id: guided-to-your-side
+        item_name: Guided to Your Side
+        keywords:
+            - Magic
+            - Ranged
+        target: Self and each ally
+        type: feature/ability/common
+    name: Guided to Your Side
+    target: Self and each ally
+    type: feature
+    usage: Main action
 effects:
     - effect: You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 feature_type: trait

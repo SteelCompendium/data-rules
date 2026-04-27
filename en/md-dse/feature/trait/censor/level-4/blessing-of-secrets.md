@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability.
+    - effect: "You have the following ability.\n\n###### Blessing of Secrets\n\n> \n> *You project an illusory aura that makes you and allies harder to notice.*\n> \n> | **Area, Magic** |                          **Maneuver** |\n> |-----------------|--------------------------------------:|\n> | **\U0001F4CF 3 aura**   | **\U0001F3AF Self and each ally in the area** |\n> \n> **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object."
 feature_type: trait
 metadata:
     class: censor

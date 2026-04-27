@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability.
+    - effect: "You have the following ability.\n\n###### Power Chord\n\n>\n> *Your instrument rings true and your music blows everyone away.*\n>\n> | **Area, Magic** |                  **Maneuver** |\n> |-----------------|------------------------------:|\n> | **\U0001F4CF 2 burst**  | **\U0001F3AF Each enemy in the area** |\n>\n> **Power Roll + Presence:**\n>\n> - **≤11:** Push 1\n> - **12-16:** Push 2\n> - **17+:** Push 3"
 feature_type: trait
 metadata:
     class: troubadour

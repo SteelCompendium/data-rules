@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: tactician
-    content: "\n*You trick your enemies into attacking each other and leave them confused by the aftermath.*\n\n| **Magic, Ranged, Weapon** |      **Main action** |\n|---------------------------|---------------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF Three enemies** |\n\n**Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.\n\n**Power Roll + Might:**\n\n- **≤11:** R < WEAK, dazed (save ends)\n- **12-16:** R < AVERAGE, dazed (save ends)\n- **17+:** R < STRONG, dazed (save ends)\n\n##### 9th-Level Mastermind Abilities\n\nChoose one of the following abilities."
+    content: "\n*You trick your enemies into attacking each other and leave them confused by the aftermath.*\n\n| **Magic, Ranged, Weapon** |      **Main action** |\n|---------------------------|---------------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF Three enemies** |\n\n**Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.\n\n**Power Roll + Might:**\n\n- **≤11:** R < WEAK, dazed (save ends)\n- **12-16:** R < AVERAGE, dazed (save ends)\n- **17+:** R < STRONG, dazed (save ends)"
     distance: Ranged 10
     feature_type: ability
     flavor: You trick your enemies into attacking each other and leave them confused by the aftermath.

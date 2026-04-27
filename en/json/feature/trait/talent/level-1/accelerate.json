@@ -1,4 +1,42 @@
 {
+  "ability": {
+    "distance": "Ranged 10",
+    "effects": [
+      {
+        "effect": "The target shifts up to a number of squares equal to your Reason score.",
+        "name": "Effect"
+      },
+      {
+        "cost": "Spend 2 Clarity",
+        "effect": "The target can use a maneuver."
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "To your ally, it seems as though the world has slowed down.",
+    "keywords": [
+      "Psionic",
+      "Ranged"
+    ],
+    "metadata": {
+      "action_type": "Maneuver",
+      "content": "\n*To your ally, it seems as though the world has slowed down.*\n\n| **Psionic, Ranged** |                **Maneuver** |\n|---------------------|----------------------------:|\n| **📏 Ranged 10**    | **🎯 Self or one creature** |\n\n**Effect:** The target shifts up to a number of squares equal to your Reason score.\n\n**Spend 2 Clarity:** The target can use a maneuver.",
+      "distance": "Ranged 10",
+      "feature_type": "ability",
+      "flavor": "To your ally, it seems as though the world has slowed down.",
+      "item_id": "accelerate",
+      "item_name": "Accelerate",
+      "keywords": [
+        "Psionic",
+        "Ranged"
+      ],
+      "target": "Self or one creature",
+      "type": "feature/ability/common"
+    },
+    "name": "Accelerate",
+    "target": "Self or one creature",
+    "type": "feature",
+    "usage": "Maneuver"
+  },
   "effects": [
     {
       "effect": "You have the following ability."

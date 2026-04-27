@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability.
+    - effect: "You have the following ability.\n\n###### Return to Formlessness\n\n> \n> *With the merest touch, you cause an object to turn to slag or ash.*\n> \n> | **Fire, Magic, Melee**  |           **Main action** |\n> |-------------------------|--------------------------:|\n> | **\U0001F4CF Melee 1**          | **\U0001F3AF One mundane object** |\n> \n> **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed."
 feature_type: trait
 metadata:
     class: elementalist

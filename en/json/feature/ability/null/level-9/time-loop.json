@@ -17,7 +17,7 @@
     "ability_type": "Triggered",
     "action_type": "Free triggered",
     "class": "null",
-    "content": "\n*You show shadows what true speed is.*\n\n| **Psionic** | **Free triggered** |\n|-------------|-------------------:|\n| **📏 Self** |        **🎯 Self** |\n\n**Trigger:** Another creature on the encounter map ends their turn.\n\n**Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.\n\n##### 9th-Level Cryokinetic Abilities\n\nChoose one of the following abilities.",
+    "content": "\n*You show shadows what true speed is.*\n\n| **Psionic** | **Free triggered** |\n|-------------|-------------------:|\n| **📏 Self** |        **🎯 Self** |\n\n**Trigger:** Another creature on the encounter map ends their turn.\n\n**Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "You show shadows what true speed is.",

@@ -22,7 +22,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*Putrid yellow gas explodes from a bomb you toss.*\n\n| **Area, Ranged**        |                  **Main action** |\n|-------------------------|---------------------------------:|\n| **📏 3 cube within 10** | **🎯 Each creature in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 2 poison damage\n- **12-16:** 5 poison damage\n- **17+:** 7 poison damage\n\n**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M \u003c AVERAGE is weakened (save ends).\n\n##### 2nd-Level Harlequin Mask Ability\n\nChoose one of the following abilities.",
+    "content": "\n*Putrid yellow gas explodes from a bomb you toss.*\n\n| **Area, Ranged**        |                  **Main action** |\n|-------------------------|---------------------------------:|\n| **📏 3 cube within 10** | **🎯 Each creature in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 2 poison damage\n- **12-16:** 5 poison damage\n- **17+:** 7 poison damage\n\n**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M \u003c AVERAGE is weakened (save ends).",
     "distance": "3 cube within 10",
     "feature_type": "ability",
     "flavor": "Putrid yellow gas explodes from a bomb you toss.",

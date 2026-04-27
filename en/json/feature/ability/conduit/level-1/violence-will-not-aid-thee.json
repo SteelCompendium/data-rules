@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*After some holy lightning, your enemy will think twice about their next attack.*\n\n| **Magic, Ranged, Strike**  |     **Main action** |\n|----------------------------|--------------------:|\n| **📏 Ranged 10**           | **🎯 One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 3 + I lightning damage\n- **12-16:** 6 + I lightning damage\n- **17+:** 9 + I lightning damage\n\n**Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).\n\n###### 5-Piety Ability\n\nChoose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* Curse of Terror.)",
+    "content": "\n*After some holy lightning, your enemy will think twice about their next attack.*\n\n| **Magic, Ranged, Strike**  |     **Main action** |\n|----------------------------|--------------------:|\n| **📏 Ranged 10**           | **🎯 One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 3 + I lightning damage\n- **12-16:** 6 + I lightning damage\n- **17+:** 9 + I lightning damage\n\n**Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "After some holy lightning, your enemy will think twice about their next attack.",
