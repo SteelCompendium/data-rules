@@ -16,7 +16,7 @@ content: |-
 
     **Wealth:** +1
 
-    **Perk:** One interpersonal perk (*Quick Build:* Engrossing Monologue.)
+    **Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](scc:mcdm.heroes.v1/perk/engrossing-monologue).)
 
     | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
     |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ content: |-
     | 6  | **Unbound:** The red tape required to achieve anything through your political position resulted in a crisis being mishandled and countless people harmed or killed. After that unfortunate event, you resolved to live unfettered by bureaucratic interference, seeking to do good through action, not paperwork. |
 language: One language
 name: Politician
-perk: One interpersonal perk (*Quick Build:* Engrossing Monologue.)
+perk: One interpersonal perk (*Quick Build:* [Engrossing Monologue](scc:mcdm.heroes.v1/perk/engrossing-monologue).)
 renown: "+1"
 scc: mcdm.heroes.v1/career/politician
 skills:

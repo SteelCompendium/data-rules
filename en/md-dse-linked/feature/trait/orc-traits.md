@@ -14,7 +14,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Orc heroes have access to the following traits.
+        [Orc](ancestry/orc.md) heroes have access to the following traits.
 
         #### Signature Trait: Relentless
 

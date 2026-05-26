@@ -1,7 +1,7 @@
 content: |-
     *Best way to deal with a castle siege? Be on the outside.*
 
-    **Prerequisite:** You have the Battlefield Commander title, and you lead the defense of a settlement or fortification.
+    **Prerequisite:** You have the [Battlefield Commander](scc:mcdm.heroes.v1/title/battlefield-commander) title, and you lead the defense of a settlement or fortification.
 
     **Effect:** Choose one of the following benefits:
 
@@ -10,6 +10,6 @@ content: |-
     - *Last Defender:* Whenever an ally within 5 squares is reduced to 0 Stamina, you gain temporary Stamina equal to the ally's level (or 1 if they have no level). If you already have temporary Stamina granted by this title, you increase your temporary Stamina by the amount you would have gained.
 effect: 'Choose one of the following benefits:'
 name: Siege Breaker
-prerequisite: You have the Battlefield Commander title, and you lead the defense of a settlement or fortification.
+prerequisite: You have the [Battlefield Commander](scc:mcdm.heroes.v1/title/battlefield-commander) title, and you lead the defense of a settlement or fortification.
 scc: mcdm.heroes.v1/title/siege-breaker
 type: title

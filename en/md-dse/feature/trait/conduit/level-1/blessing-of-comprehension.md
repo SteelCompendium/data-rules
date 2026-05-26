@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You can interpret diagrams and charts even if you don''t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: Downtime Projects).'
+    - effect: 'You can interpret diagrams and charts even if you don''t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: [Downtime Projects](scc:mcdm.heroes.v1/chapter/downtime-projects)).'
 feature_type: trait
 metadata:
     class: conduit

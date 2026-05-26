@@ -1,5 +1,5 @@
 effects:
-    - effect: 'You can interpret diagrams and charts even if you don''t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see [Chapter 12: Downtime Projects](#page-307-2)).'
+    - effect: 'You can interpret diagrams and charts even if you don''t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](scc:mcdm.heroes.v1/chapter/downtime-projects)).'
 feature_type: trait
 metadata:
     action_type: feature

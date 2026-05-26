@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        You gain a domain feature from your domain, as shown on the 7th-Level Censor Domain Features table.
+        You gain a domain feature from your domain, as shown on the 7th-Level [Censor](class/censor.md) Domain Features table.
 
         ###### 7th-Level Censor Domain Features Table
 

@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.\n\n###### 2nd-Level Tradition Features Table\n\n| Tradition     | Feature               |\n|---------------|-----------------------|\n| Chronokinetic | Rapid Processing      |\n| Cryokinetic   | Entropic Adaptability |\n| Metakinetic   | Inertial Sink         |"
+      "effect": "Your [null](scc:mcdm.heroes.v1/class/null) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.\n\n###### 2nd-Level Tradition Features Table\n\n| Tradition     | Feature               |\n|---------------|-----------------------|\n| Chronokinetic | Rapid Processing      |\n| Cryokinetic   | Entropic Adaptability |\n| Metakinetic   | Inertial Sink         |"
     }
   ],
   "feature_type": "trait",

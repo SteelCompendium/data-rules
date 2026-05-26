@@ -5,7 +5,7 @@ file_dpath: title
 item_id: demigod
 item_name: Demigod
 name: Demigod
-prerequisite: You have the Godsworn title, and hundreds of worshipful mortals complete a divine ritual in your name.
+prerequisite: You have the [Godsworn](scc:mcdm.heroes.v1/title/godsworn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 scc: mcdm.heroes.v1/title/demigod
 source: mcdm.heroes.v1
 type: title
@@ -13,7 +13,7 @@ type: title
 
 *The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!*
 
-**Prerequisite:** You have the Godsworn title, and hundreds of worshipful mortals complete a divine ritual in your name.
+**Prerequisite:** You have the [Godsworn](title/godsworn.md) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 
 **Effect:** You gain the following benefits:
 

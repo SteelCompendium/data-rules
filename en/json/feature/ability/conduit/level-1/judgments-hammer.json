@@ -10,7 +10,7 @@
     }
   ],
   "feature_type": "ability",
-  "flavor": "Your divine fury is a hammer that crashes down upon the unrighteous.",
+  "flavor": "Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.",
   "keywords": [
     "Magic",
     "Ranged",
@@ -19,10 +19,10 @@
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*Your divine fury is a hammer that crashes down upon the unrighteous.*\n\n| **Magic, Ranged, Strike**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 3 + I holy damage; A \u003c WEAK, prone\n- **12-16:** 6 + I holy damage; A \u003c AVERAGE, prone\n- **17+:** 9 + I holy damage; A \u003c STRONG, prone and can't stand (save ends)",
+    "content": "\n*Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.*\n\n| **Magic, Ranged, Strike**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 3 + I holy damage; A \u003c WEAK, prone\n- **12-16:** 6 + I holy damage; A \u003c AVERAGE, prone\n- **17+:** 9 + I holy damage; A \u003c STRONG, prone and can't stand (save ends)",
     "distance": "Ranged 10",
     "feature_type": "ability",
-    "flavor": "Your divine fury is a hammer that crashes down upon the unrighteous.",
+    "flavor": "Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.",
     "item_id": "judgments-hammer",
     "item_name": "Judgment's Hammer",
     "keywords": [

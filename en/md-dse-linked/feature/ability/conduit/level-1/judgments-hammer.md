@@ -8,7 +8,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: judgments-hammer
 file_dpath: feature/ability/conduit/level-1
-flavor: Your divine fury is a hammer that crashes down upon the unrighteous.
+flavor: Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.
 item_id: judgments-hammer
 item_name: Judgment's Hammer
 keywords:
@@ -36,7 +36,7 @@ effects:
       tier2: 6 + I holy damage; A < AVERAGE, prone
       tier3: 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
 feature_type: ability
-flavor: Your divine fury is a hammer that crashes down upon the unrighteous.
+flavor: Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.
 keywords:
     - Magic
     - Ranged
@@ -46,7 +46,7 @@ metadata:
     class: conduit
     cost: 3 Piety
     distance: Ranged 10
-    flavor: Your divine fury is a hammer that crashes down upon the unrighteous.
+    flavor: Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.
     keywords:
         - Magic
         - Ranged

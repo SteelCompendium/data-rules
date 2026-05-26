@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/kit
 type: trait
 ---
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Swashbuckler.)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* [Swashbuckler](kit/swashbuckler.md).)

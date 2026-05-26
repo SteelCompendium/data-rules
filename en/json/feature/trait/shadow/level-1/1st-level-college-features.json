@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your shadow college grants you one or two features, as shown on the 1st-Level College Features table.\n\n###### 1st-Level College Features Table\n\n| College         | Feature                    |\n|-----------------|----------------------------|\n| Black Ash       | Black Ash Teleport         |\n| Caustic Alchemy | Coat the Blade, Smoke Bomb |\n| Harlequin Mask  | I'm No Threat              |"
+      "effect": "Your [shadow](scc:mcdm.heroes.v1/class/shadow) college grants you one or two features, as shown on the 1st-Level College Features table.\n\n###### 1st-Level College Features Table\n\n| College         | Feature                    |\n|-----------------|----------------------------|\n| Black Ash       | Black Ash Teleport         |\n| Caustic Alchemy | Coat the Blade, Smoke Bomb |\n| Harlequin Mask  | I'm No Threat              |"
     }
   ],
   "feature_type": "trait",

@@ -14,7 +14,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Hakaan heroes have access to the following traits.
+        [Hakaan](scc:mcdm.heroes.v1/ancestry/hakaan) heroes have access to the following traits.
 
         #### Signature Trait: Big!
 

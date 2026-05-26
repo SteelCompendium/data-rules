@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        You gain a domain feature from your domain, as shown on the 4th-Level Censor Domain Features table.
+        You gain a domain feature from your domain, as shown on the 4th-Level [Censor](scc:mcdm.heroes.v1/class/censor) Domain Features table.
 
         ###### 4th-Level Censor Domain Features Table
 

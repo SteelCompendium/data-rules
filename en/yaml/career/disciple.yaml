@@ -3,7 +3,7 @@ content: |-
 
     - What gods or saints did your institution venerate?
     - What initiation rites did you undergo to get the job?
-    - What were your responsibilities as a disciple?
+    - What were your responsibilities as a [disciple](scc:mcdm.heroes.v1/career/disciple)?
     - How was your institution viewed by members of the local culture?
 
     You gain the following career benefits:
@@ -12,7 +12,7 @@ content: |-
 
     **Project Points:** 240
 
-    **Perk:** One supernatural perk (*Quick Build:* Ritualist.)
+    **Perk:** One supernatural perk (*Quick Build:* [Ritualist](scc:mcdm.heroes.v1/perk/ritualist).)
 
     | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
     |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ content: |-
     | 5  | **Near-Death Experience:** While serving at a religious institution, you almost died in an accident. When you woke, you had lost all memory of ever having worked for the church or temple. Though the clergy encouraged you to stay, you left to forge a new path. Your sense of altruism—whether instilled in you by your past work or a part of who you naturally are—guides you in your life. |
     | 6  | **Taxing Times:** The faith-based organization you were once part of became corrupt. It used its status in the community to accumulate wealth through tithes, while its leaders sought political appointments. During a season of drought, the institution stockpiled resources and refused to give aid, resulting in the deaths of many. You became a hero to fight against such corruption and to honor those you lost. |
 name: Disciple
-perk: One supernatural perk (*Quick Build:* Ritualist.)
+perk: One supernatural perk (*Quick Build:* [Ritualist](scc:mcdm.heroes.v1/perk/ritualist).)
 project_points: "240"
 scc: mcdm.heroes.v1/career/disciple
 skills:

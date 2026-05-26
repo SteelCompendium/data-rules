@@ -38,7 +38,7 @@
   },
   "effects": [
     {
-      "effect": "Wode elf heroes have access to the following traits."
+      "effect": "[Wode elf](scc:mcdm.heroes.v1/ancestry/wode-elf) heroes have access to the following traits."
     }
   ],
   "feature_type": "trait",

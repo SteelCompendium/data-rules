@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your talent tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.\n\n###### 2nd-Level Tradition Features Table\n\n| Tradition                    | Features        |\n|------------------------------|-----------------|\n| Chronopathy                  | Ease the Hours  |\n| Telekinesis                  | Ease Their Fall |\n| Telepathy                    | Ease the Mind   |"
+      "effect": "Your [talent](scc:mcdm.heroes.v1/class/talent) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.\n\n###### 2nd-Level Tradition Features Table\n\n| Tradition                    | Features        |\n|------------------------------|-----------------|\n| Chronopathy                  | Ease the Hours  |\n| Telekinesis                  | Ease Their Fall |\n| Telepathy                    | Ease the Mind   |"
     }
   ],
   "feature_type": "trait",

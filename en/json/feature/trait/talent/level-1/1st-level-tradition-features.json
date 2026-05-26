@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your talent tradition grants you two features, as shown on the 1st-Level Tradition Features table.\n\n###### 1st-Level Tradition Features Table\n\n| Tradition   | Features                         |\n|-------------|----------------------------------|\n| Chronopathy | Accelerate, Again                |\n| Telekinesis | Minor Telekinesis, Repel         |\n| Telepathy   | Feedback Loop, Remote Assistance |"
+      "effect": "Your [talent](scc:mcdm.heroes.v1/class/talent) tradition grants you two features, as shown on the 1st-Level Tradition Features table.\n\n###### 1st-Level Tradition Features Table\n\n| Tradition   | Features                         |\n|-------------|----------------------------------|\n| Chronopathy | Accelerate, Again                |\n| Telekinesis | Minor Telekinesis, Repel         |\n| Telepathy   | Feedback Loop, Remote Assistance |"
     }
   ],
   "feature_type": "trait",

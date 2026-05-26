@@ -41,7 +41,7 @@
   },
   "effects": [
     {
-      "effect": "Your troubadour class act grants you a triggered action, as shown on the Class Act Triggered Actions table."
+      "effect": "Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table."
     }
   ],
   "feature_type": "trait",

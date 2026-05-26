@@ -1,6 +1,6 @@
 ---
 benefit: Choose one of your skills. That skill grants a +3 bonus to tests instead of +2.
-drawback: Your rival has similar statistics to yours, but always had one skill they excelled at, as determined by the Director. Intimidated by their prowess, you take a bane on tests using that skill.
+drawback: Your [rival](scc:mcdm.heroes.v1/complication/rival) has similar statistics to yours, but always had one skill they excelled at, as determined by the Director. Intimidated by their prowess, you take a bane on tests using that skill.
 file_basename: rival
 file_dpath: complication
 item_id: rival
@@ -15,4 +15,4 @@ Whatever your accomplishments, you'll forever measure yourself against a former 
 
 **Benefit:** Choose one of your skills. That skill grants a +3 bonus to tests instead of +2.
 
-**Drawback:** Your rival has similar statistics to yours, but always had one skill they excelled at, as determined by the Director. Intimidated by their prowess, you take a bane on tests using that skill.
+**Drawback:** Your [rival](scc:mcdm.heroes.v1/complication/rival) has similar statistics to yours, but always had one skill they excelled at, as determined by the Director. Intimidated by their prowess, you take a bane on tests using that skill.

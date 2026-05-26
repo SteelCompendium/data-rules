@@ -5,7 +5,7 @@ item_id: farmer
 item_name: Farmer
 language: One language
 name: Farmer
-perk: One exploration perk (*Quick Build:* Monster Whisperer.)
+perk: One exploration perk (*Quick Build:* [Monster Whisperer](scc:mcdm.heroes.v1/perk/monster-whisperer).)
 project_points: "120"
 scc: mcdm.heroes.v1/career/farmer
 skills:
@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* Monster Whisperer.)
+**Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](perk/monster-whisperer.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

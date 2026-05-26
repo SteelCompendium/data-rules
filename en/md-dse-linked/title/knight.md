@@ -5,7 +5,7 @@ file_dpath: title
 item_id: knight
 item_name: Knight
 name: Knight
-prerequisite: A noble or monarch grants you knighthood or a similar rank.
+prerequisite: A [noble](scc:mcdm.heroes.v1/title/noble) or [monarch](scc:mcdm.heroes.v1/title/monarch) grants you knighthood or a similar rank.
 scc: mcdm.heroes.v1/title/knight
 source: mcdm.heroes.v1
 type: title
@@ -13,7 +13,7 @@ type: title
 
 *Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.*
 
-**Prerequisite:** A noble or monarch grants you knighthood or a similar rank.
+**Prerequisite:** A [noble](title/noble.md) or [monarch](title/monarch.md) grants you knighthood or a similar rank.
 
 **Effect:** Choose one of the following benefits:
 

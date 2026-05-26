@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You can''t obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: Combat).'
+    - effect: 'You can''t obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: [Combat](scc:mcdm.heroes.v1/chapter/combat)).'
 feature_type: trait
 metadata:
     class: fury

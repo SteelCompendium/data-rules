@@ -5,7 +5,7 @@ item_id: politician
 item_name: Politician
 language: One language
 name: Politician
-perk: One interpersonal perk (*Quick Build:* Engrossing Monologue.)
+perk: One interpersonal perk (*Quick Build:* [Engrossing Monologue](scc:mcdm.heroes.v1/perk/engrossing-monologue).)
 renown: "+1"
 scc: mcdm.heroes.v1/career/politician
 skills:
@@ -32,7 +32,7 @@ You gain the following career benefits:
 
 **Wealth:** +1
 
-**Perk:** One interpersonal perk (*Quick Build:* Engrossing Monologue.)
+**Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](perk/engrossing-monologue.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

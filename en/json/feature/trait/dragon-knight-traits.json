@@ -36,7 +36,7 @@
   },
   "effects": [
     {
-      "effect": "Dragon knight heroes have access to the following traits."
+      "effect": "[Dragon knight](scc:mcdm.heroes.v1/ancestry/dragon-knight) heroes have access to the following traits."
     }
   ],
   "feature_type": "trait",

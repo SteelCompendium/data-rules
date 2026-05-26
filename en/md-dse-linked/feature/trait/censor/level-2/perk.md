@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You gain one interpersonal, lore, or supernatural perk of your choice. See [Chapter 7: Perks](#page-241-0).'
+    - effect: 'You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](chapter/perks.md).'
 feature_type: trait
 metadata:
     class: censor

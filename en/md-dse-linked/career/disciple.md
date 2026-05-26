@@ -4,7 +4,7 @@ file_dpath: career
 item_id: disciple
 item_name: Disciple
 name: Disciple
-perk: One supernatural perk (*Quick Build:* Ritualist.)
+perk: One supernatural perk (*Quick Build:* [Ritualist](scc:mcdm.heroes.v1/perk/ritualist).)
 project_points: "240"
 scc: mcdm.heroes.v1/career/disciple
 skills:
@@ -17,7 +17,7 @@ You worked in a church, temple, or other religious institution as part of the cl
 
 - What gods or saints did your institution venerate?
 - What initiation rites did you undergo to get the job?
-- What were your responsibilities as a disciple?
+- What were your responsibilities as a [disciple](career/disciple.md)?
 - How was your institution viewed by members of the local culture?
 
 You gain the following career benefits:
@@ -26,7 +26,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* Ritualist.)
+**Perk:** One supernatural perk (*Quick Build:* [Ritualist](perk/ritualist.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "You gain one interpersonal, lore, or supernatural perk of your choice. See [Chapter 7: Perks](#page-241-0)."
+      "effect": "You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](scc:mcdm.heroes.v1/chapter/perks)."
     }
   ],
   "feature_type": "trait",

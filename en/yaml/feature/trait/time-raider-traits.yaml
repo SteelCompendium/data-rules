@@ -29,7 +29,7 @@ ability:
     type: feature
     usage: Main action
 effects:
-    - effect: Time raider heroes have access to the following traits.
+    - effect: '[Time raider](scc:mcdm.heroes.v1/ancestry/time-raider) heroes have access to the following traits.'
 feature_type: trait
 metadata:
     action_type: feature

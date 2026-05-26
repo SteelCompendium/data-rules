@@ -14,7 +14,7 @@ content: |-
 
     **Project Points:** 240
 
-    **Perk:** One lore perk (*Quick Build:* Expert Sage.)
+    **Perk:** One lore perk (*Quick Build:* [Expert Sage](scc:mcdm.heroes.v1/perk/expert-sage).)
 
     | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
     |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ content: |-
     | 6  | **Vanishing:** At first you thought it was your imagination, and you brushed off the disappearance of random sentences in historical books. Then as the books changed to entirely blank pages, the disappearances became difficult to ignore, particularly those involving ancient or critical text. Driven by the desire to preserve knowledge, you have made it your purpose to restore and reverse those vanishing texts before they forever disappear. |
 language: One language
 name: Sage
-perk: One lore perk (*Quick Build:* Expert Sage.)
+perk: One lore perk (*Quick Build:* [Expert Sage](scc:mcdm.heroes.v1/perk/expert-sage).)
 project_points: "240"
 scc: mcdm.heroes.v1/career/sage
 skills:

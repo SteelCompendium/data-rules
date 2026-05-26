@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: Perks.'
+    - effect: 'You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](chapter/perks.md).'
 feature_type: trait
 metadata:
     class: tactician

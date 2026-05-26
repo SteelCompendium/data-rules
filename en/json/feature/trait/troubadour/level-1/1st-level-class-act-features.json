@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your troubadour class act grants you two features, as shown on the 1st-Level Class Act Features table.\n\n###### 1st-Level Class Act Features Table\n\n| Class Act  | Features                           |\n|------------|------------------------------------|\n| Auteur     | Blocking, Dramatic Monologue       |\n| Duelist    | Acrobatics, Star Power             |\n| Virtuoso   | Power Chord, Virtuoso Performances |"
+      "effect": "Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants you two features, as shown on the 1st-Level Class Act Features table.\n\n###### 1st-Level Class Act Features Table\n\n| Class Act  | Features                           |\n|------------|------------------------------------|\n| Auteur     | Blocking, Dramatic Monologue       |\n| Duelist    | Acrobatics, Star Power             |\n| Virtuoso   | Power Chord, Virtuoso Performances |"
     }
   ],
   "feature_type": "trait",

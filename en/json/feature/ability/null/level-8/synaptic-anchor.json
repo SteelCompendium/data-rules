@@ -17,7 +17,7 @@
     "ability_type": "Triggered",
     "action_type": "Free triggered",
     "class": "null",
-    "content": "\n*You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.*\n\n| **Psionic**            |           **Free triggered** |\n|------------------------|-----------------------------:|\n| **📏 Self; see below** |  **🎯 Self or one creature** |\n\n**Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.\n\n**Effect:** The target takes half the damage, and if the triggering creature has I \u003c AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.",
+    "content": "\n*You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.*\n\n| **Psionic**            |           **Free triggered** |\n|------------------------|-----------------------------:|\n| **📏 Self; see below** |  **🎯 Self or one creature** |\n\n**Trigger:** The target takes damage from another creature's ability while in the area of your [Null](scc:mcdm.heroes.v1/class/null) Field ability.\n\n**Effect:** The target takes half the damage, and if the triggering creature has I \u003c AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.",
     "distance": "Self; see below",
     "feature_type": "ability",
     "flavor": "You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.",
@@ -35,7 +35,7 @@
   },
   "name": "Synaptic Anchor",
   "target": "Self or one creature",
-  "trigger": "The target takes damage from another creature's ability while in the area of your Null Field ability.",
+  "trigger": "The target takes damage from another creature's ability while in the area of your [Null](scc:mcdm.heroes.v1/class/null) Field ability.",
   "type": "feature",
   "usage": "Free triggered"
 }

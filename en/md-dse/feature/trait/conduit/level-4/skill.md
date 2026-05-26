@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You gain one skill of your choice. See Skills in Chapter 9: Tests.'
+    - effect: 'You gain one skill of your choice. See Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests).'
 feature_type: trait
 metadata:
     class: conduit

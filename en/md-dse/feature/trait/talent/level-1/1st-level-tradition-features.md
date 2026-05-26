@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your talent tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+        Your [talent](scc:mcdm.heroes.v1/class/talent) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
         ###### 1st-Level Tradition Features Table
 

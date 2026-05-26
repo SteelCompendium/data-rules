@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your troubadour class act grants you a feature, as shown on the 8th-Level Class Act Features table.
+        Your [troubadour](class/troubadour.md) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
 
         ###### 8th-Level Class Act Features Table
 

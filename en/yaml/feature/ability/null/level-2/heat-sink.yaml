@@ -1,7 +1,7 @@
 cost: 5 Discipline
 distance: Self
 effects:
-    - effect: Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+    - effect: Until the start of your next turn, the size of your [Null](scc:mcdm.heroes.v1/class/null) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
       name: Effect
 feature_type: ability
 flavor: You absorb ambient heat, coating the ground in frost and precipitating snow from the air.
@@ -10,7 +10,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: "null"
-    content: "\n*You absorb ambient heat, coating the ground in frost and precipitating snow from the air.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score."
+    content: "\n*You absorb ambient heat, coating the ground in frost and precipitating snow from the air.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** Until the start of your next turn, the size of your [Null](scc:mcdm.heroes.v1/class/null) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score."
     distance: Self
     feature_type: ability
     flavor: You absorb ambient heat, coating the ground in frost and precipitating snow from the air.

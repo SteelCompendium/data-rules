@@ -28,7 +28,7 @@ ability:
     type: feature
     usage: Triggered
 effects:
-    - effect: Your shadow college grants you a triggered action, as shown on the College Triggered Actions table.
+    - effect: Your [shadow](scc:mcdm.heroes.v1/class/shadow) college grants you a triggered action, as shown on the College Triggered Actions table.
 feature_type: trait
 metadata:
     action_type: feature

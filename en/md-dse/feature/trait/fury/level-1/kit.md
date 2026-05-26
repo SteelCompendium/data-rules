@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Panther.)'
+    - effect: 'You can use and gain the benefits of a kit. See Chapter 6: [Kits](scc:mcdm.heroes.v1/chapter/kits) for more information. (*Quick Build:* [Panther](scc:mcdm.heroes.v1/kit/panther).)'
 feature_type: trait
 metadata:
     class: fury

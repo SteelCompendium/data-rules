@@ -11,7 +11,7 @@ type: perk
 
 You have the following ability.
 
-##### Psychic Whisper
+##### [Psychic Whisper](scc:mcdm.heroes.v1/perk/psychic-whisper)
 
 >
 > *You send a one-way telepathic message to a friend.*

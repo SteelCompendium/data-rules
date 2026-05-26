@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/class-act-triggered-action
 type: trait
 ---
 
-Your troubadour class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](class/troubadour.md) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table
 

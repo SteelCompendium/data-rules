@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+        Your [null](scc:mcdm.heroes.v1/class/null) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
         ###### 5th-Level Tradition Features Table
 

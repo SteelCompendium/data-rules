@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your troubadour class act grants you two features, as shown on the 1st-Level Class Act Features table.
+        Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
         ###### 1st-Level Class Act Features Table
 

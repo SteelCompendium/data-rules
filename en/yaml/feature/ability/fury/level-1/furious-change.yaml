@@ -1,7 +1,7 @@
 ability_type: Triggered
 distance: Self
 effects:
-    - effect: You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
+    - effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](scc:mcdm.heroes.v1/complication/animal-form) or hybrid form.
       name: Effect
     - cost: Spend 1 Ferocity
       effect: If you are not dying, you can spend a Recovery.
@@ -13,7 +13,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: fury
-    content: "\n*In your anger, you revert to a more bestial form.*\n\n| **-**       | **Triggered** |\n|-------------|--------------:|\n| **\U0001F4CF Self** |   **\U0001F3AF Self** |\n\n**Trigger:** You lose Stamina and are not dying.\n\n**Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.\n\n**Spend 1 Ferocity:** If you are not dying, you can spend a Recovery."
+    content: "\n*In your anger, you revert to a more bestial form.*\n\n| **-**       | **Triggered** |\n|-------------|--------------:|\n| **\U0001F4CF Self** |   **\U0001F3AF Self** |\n\n**Trigger:** You lose Stamina and are not dying.\n\n**Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](scc:mcdm.heroes.v1/complication/animal-form) or hybrid form.\n\n**Spend 1 Ferocity:** If you are not dying, you can spend a Recovery."
     distance: Self
     feature_type: ability
     flavor: In your anger, you revert to a more bestial form.

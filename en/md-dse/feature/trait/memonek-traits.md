@@ -14,7 +14,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Memonek heroes have access to the following traits.
+        [Memonek](scc:mcdm.heroes.v1/ancestry/memonek) heroes have access to the following traits.
 
         #### Signature Trait: Fall Lightly
 

@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your talent tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+        Your [talent](class/talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
         ###### 2nd-Level Tradition Features Table
 

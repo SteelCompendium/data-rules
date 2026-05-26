@@ -5,7 +5,7 @@ cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
 distance: Ranged 10
-effect: 'This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.'
+effect: 'This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.'
 feature_type: ability
 file_basename: doubt
 file_dpath: feature/ability/talent/level-8
@@ -33,7 +33,7 @@ type: ability
 cost: 11 Clarity
 distance: Ranged 10
 effects:
-    - effect: 'This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.'
+    - effect: 'This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.'
     - roll: Power Roll + Presence
       tier1: 10 + P damage; P < WEAK, weakened (save ends)
       tier2: 14 + P damage; P < AVERAGE, weakened (save ends)
@@ -50,7 +50,7 @@ metadata:
     class: talent
     cost: 11 Clarity
     distance: Ranged 10
-    effect: 'This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.'
+    effect: 'This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.'
     flavor: You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.
     keywords:
         - Animapathy

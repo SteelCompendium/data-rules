@@ -11,7 +11,7 @@ source: mcdm.heroes.v1
 type: complication
 ---
 
-You made a deal with a devil. Not a very good deal, because it wasn't a very good devil. It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the devil to void the deal.
+You made a deal with a [devil](ancestry/devil.md). Not a very good deal, because it wasn't a very good [devil](ancestry/devil.md). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](ancestry/devil.md) to void the deal.
 
 **Benefit:** Choose one of the following benefits:
 

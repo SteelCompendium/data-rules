@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: Kits for information on kit bonuses.'
+    - effect: 'These bonuses apply in your true form, your [animal form](scc:mcdm.heroes.v1/complication/animal-form), and your hybrid form. See Chapter 6: [Kits](scc:mcdm.heroes.v1/chapter/kits) for information on kit bonuses.'
 feature_type: trait
 metadata:
     class: fury

@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: When you take the Disengage move action, one ally in the area of your Null Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+    - effect: When you take the Disengage move action, one ally in the area of your [Null](class/null.md) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
 feature_type: trait
 metadata:
     class: "null"

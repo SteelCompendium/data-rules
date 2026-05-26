@@ -5,7 +5,7 @@ file_dpath: title
 item_id: monarch
 item_name: Monarch
 name: Monarch
-prerequisite: You or a member of your party becomes the monarch of a nation.
+prerequisite: You or a member of your party becomes the [monarch](scc:mcdm.heroes.v1/title/monarch) of a nation.
 scc: mcdm.heroes.v1/title/monarch
 source: mcdm.heroes.v1
 type: title
@@ -13,7 +13,7 @@ type: title
 
 *The tyrant is dead! Long live the new king!*
 
-**Prerequisite:** You or a member of your party becomes the monarch of a nation.
+**Prerequisite:** You or a member of your party becomes the [monarch](title/monarch.md) of a nation.
 
 **Effect:** You gain the following benefits:
 

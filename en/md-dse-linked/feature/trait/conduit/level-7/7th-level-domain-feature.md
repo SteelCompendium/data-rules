@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level Conduit Domain Features table.
+        Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](class/conduit.md) Domain Features table.
 
         ###### 7th-Level Conduit Domain Features Table
 

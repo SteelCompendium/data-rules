@@ -5,7 +5,7 @@ file_dpath: title
 item_id: siege-breaker
 item_name: Siege Breaker
 name: Siege Breaker
-prerequisite: You have the Battlefield Commander title, and you lead the defense of a settlement or fortification.
+prerequisite: You have the [Battlefield Commander](scc:mcdm.heroes.v1/title/battlefield-commander) title, and you lead the defense of a settlement or fortification.
 scc: mcdm.heroes.v1/title/siege-breaker
 source: mcdm.heroes.v1
 type: title
@@ -13,7 +13,7 @@ type: title
 
 *Best way to deal with a castle siege? Be on the outside.*
 
-**Prerequisite:** You have the Battlefield Commander title, and you lead the defense of a settlement or fortification.
+**Prerequisite:** You have the [Battlefield Commander](title/battlefield-commander.md) title, and you lead the defense of a settlement or fortification.
 
 **Effect:** Choose one of the following benefits:
 

@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your censor order grants you a feature, as shown on the 5th-Level Order Features table.
+        Your [censor](class/censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
 
         ###### 5th-Level Order Features Table
 

@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You gain one crafting, exploration, or intrigue perk of your choice. See [Chapter 7: Perks](#dead-link).'
+    - effect: 'You gain one crafting, exploration, or intrigue perk of your choice. See Chapter 7: [Perks](chapter/perks.md).'
 feature_type: trait
 metadata:
     class: fury

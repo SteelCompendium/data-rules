@@ -14,7 +14,7 @@ content: |-
 
     **Project Points:** 120
 
-    **Perk:** One exploration perk (*Quick Build:* Monster Whisperer.)
+    **Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](scc:mcdm.heroes.v1/perk/monster-whisperer).)
 
     | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
     |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ content: |-
     | 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back—and get revenge. |
 language: One language
 name: Farmer
-perk: One exploration perk (*Quick Build:* Monster Whisperer.)
+perk: One exploration perk (*Quick Build:* [Monster Whisperer](scc:mcdm.heroes.v1/perk/monster-whisperer).)
 project_points: "120"
 scc: mcdm.heroes.v1/career/farmer
 skills:

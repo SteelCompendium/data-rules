@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.conduit.level-4/4th-level-domain-feature
 type: trait
 ---
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](class/conduit.md) Domain Features table.
 
 ###### 4th-Level Conduit Domain Features Table
 

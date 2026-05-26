@@ -4,7 +4,7 @@ scc: mcdm.heroes.v1/feature.trait/dragon-knight-traits
 type: trait
 ---
 
-Dragon knight heroes have access to the following traits.
+[Dragon knight](ancestry/dragon-knight.md) heroes have access to the following traits.
 
 #### Signature Trait: Wyrmplate
 

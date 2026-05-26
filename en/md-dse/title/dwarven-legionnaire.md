@@ -5,7 +5,7 @@ file_dpath: title
 item_id: dwarven-legionnaire
 item_name: Dwarven Legionnaire
 name: Dwarven Legionnaire
-prerequisite: You fight alongside three or more dwarves.
+prerequisite: You fight alongside three or more [dwarves](scc:mcdm.heroes.v1/ancestry/dwarf).
 scc: mcdm.heroes.v1/title/dwarven-legionnaire
 source: mcdm.heroes.v1
 type: title
@@ -13,7 +13,7 @@ type: title
 
 *I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, stand fast, and do not yield.*
 
-**Prerequisite:** You fight alongside three or more dwarves.
+**Prerequisite:** You fight alongside three or more [dwarves](scc:mcdm.heroes.v1/ancestry/dwarf).
 
 **Effect:** Choose one of the following benefits:
 
