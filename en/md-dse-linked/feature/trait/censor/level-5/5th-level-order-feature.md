@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your [censor](class/censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
+        Your [censor](../../../../class/censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
 
         ###### 5th-Level Order Features Table
 
         | Order                    | Feature       |
         |--------------------------|---------------|
-        | Exorcist                 | Evil Revealed |
-        | Oracle                   | Prophecy      |
-        | Paragon                  | Stand Fast!   |
+        | Exorcist                 | [Evil Revealed](evil-revealed.md) |
+        | Oracle                   | [Prophecy](prophecy.md)      |
+        | Paragon                  | [Stand Fast](stand-fast.md)!   |
 feature_type: trait
 metadata:
     class: censor

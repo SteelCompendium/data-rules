@@ -14,9 +14,9 @@ type: class
 weak_potency: Intuition - 2
 ---
 
-The power of the gods flows through you! As a vessel for divine power, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
+The power of the gods flows through you! As a vessel for [divine power](../feature/trait/conduit/level-10/divine-power.md), you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-**As a [conduit](class/conduit.md), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
+**As a [conduit](conduit.md), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
 > "The gods judge our actions, and our inaction."
 >
@@ -43,19 +43,19 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 **Recoveries:** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
 
 ###### Conduit Advancement Table
 
 | Level | Features                                                                                                                             | Abilities                     | Domain Abilities  |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------|
-| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, [Conduit](class/conduit.md) Ward, [Conduit](class/conduit.md) Abilities     | Two signature, 3, 5           | -                 |
-| 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                            | Two signature, 3, 5           | 5                 |
-| 3rd   | Minor Miracle, 7-Piety Ability                                                                                                       | Two signature, 3, 5, 7        | 5                 |
-| 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                       | Two signature, 3, 5, 7        | 5                 |
+| 1st   | [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Piety, Domain Feature, [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), [Ray of Wrath](../feature/ability/conduit/level-1/ray-of-wrath.md), [Triggered Action](../feature/trait/conduit/level-1/triggered-action.md), Prayer, [Conduit](conduit.md) Ward, [Conduit](conduit.md) Abilities     | Two signature, 3, 5           | -                 |
+| 2nd   | [The Lists of Heaven](../feature/trait/conduit/level-2/the-lists-of-heaven.md), Perk, Domain Feature, Domain Ability                                                                            | Two signature, 3, 5           | 5                 |
+| 3rd   | [Minor Miracle](../feature/trait/conduit/level-3/minor-miracle.md), 7-Piety Ability                                                                                                       | Two signature, 3, 5, 7        | 5                 |
+| 4th   | Blessed Domains, [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, Perk, Skill Increase                                                       | Two signature, 3, 5, 7        | 5                 |
 | 5th   | Domain Feature, 9-Piety Ability                                                                                                      | Two signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Burgeoning Saint, Perk, Domain Ability                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                           | Two signature, 3, 5, 7, 9     | 5, 9              |
+| 6th   | [Burgeoning Saint](../feature/trait/conduit/level-6/burgeoning-saint.md), Perk, Domain Ability                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, Faithful's Reward, Skill Increase                                                           | Two signature, 3, 5, 7, 9     | 5, 9              |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                              | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | Avatar, Characteristic Increase, Divine Power, Most Pious, Perk, Skill Increase                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 9th   | Domain Ability, Faith's Sword, [Ordained](../feature/trait/conduit/level-9/ordained.md)                                                                                              | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | [Avatar](../feature/trait/conduit/level-10/avatar.md), [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Divine Power](../feature/trait/conduit/level-10/divine-power.md), [Most Pious](../feature/trait/conduit/level-10/most-pious.md), Perk, Skill Increase                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |

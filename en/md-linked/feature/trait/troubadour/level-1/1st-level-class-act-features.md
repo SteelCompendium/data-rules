@@ -6,12 +6,12 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/1st-level-class-act-feature
 type: trait
 ---
 
-Your [troubadour](class/troubadour.md) class act grants you two features, as shown on the 1st-Level Class Act Features table.
+Your [troubadour](../../../../class/troubadour.md) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table
 
 | Class Act  | Features                           |
 |------------|------------------------------------|
-| Auteur     | Blocking, Dramatic Monologue       |
-| Duelist    | Acrobatics, Star Power             |
-| Virtuoso   | Power Chord, Virtuoso Performances |
+| Auteur     | Blocking, [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md)       |
+| Duelist    | [Acrobatics](../../../ability/troubadour/level-1/acrobatics.md), [Star Power](../../../ability/troubadour/level-1/star-power.md)             |
+| Virtuoso   | [Power Chord](../../../ability/troubadour/level-1/power-chord.md), [Virtuoso Performances](virtuoso-performances.md) |

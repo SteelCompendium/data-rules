@@ -11,7 +11,7 @@ You have the following ability.
 ###### I'm No Threat
 
 > 
-> *Taking on an illusory countenance gives you an advantage on subterfuge.*
+> *Taking on an illusory countenance gives you an advantage on [subterfuge](../level-10/subterfuge.md).*
 > 
 > | **Magic**   | **Maneuver** |
 > |-------------|-------------:|

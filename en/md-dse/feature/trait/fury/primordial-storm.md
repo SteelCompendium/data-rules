@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Each stormwight kit is associated with a primordial storm, which channels a specific damage type used by some of your abilities.
+    - effect: Each stormwight kit is associated with a [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury/primordial-storm), which channels a specific damage type used by some of your abilities.
 feature_type: trait
 metadata:
     class: fury

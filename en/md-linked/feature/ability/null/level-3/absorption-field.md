@@ -15,10 +15,10 @@ type: ability
 ---
 
 
-*Your [null](class/null.md) field absorbs kinetic energy.*
+*Your [null](../../../../class/null.md) field absorbs kinetic energy.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+**Effect:** Until the end of the encounter, the size of your [Null](../../../../class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.

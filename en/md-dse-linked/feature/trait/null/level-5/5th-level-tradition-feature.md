@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your [null](class/null.md) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+        Your [null](../../../../class/null.md) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
         ###### 5th-Level Tradition Features Table
 
         | Tradition     | Feature            |
         |---------------|--------------------|
-        | Chronokinetic | Instant Action     |
-        | Cryokinetic   | Chilling Readiness |
-        | Metakinetic   | Inertial Fulcrum   |
+        | Chronokinetic | [Instant Action](instant-action.md)     |
+        | Cryokinetic   | [Chilling Readiness](chilling-readiness.md) |
+        | Metakinetic   | [Inertial Fulcrum](inertial-fulcrum.md)   |
 feature_type: trait
 metadata:
     class: "null"

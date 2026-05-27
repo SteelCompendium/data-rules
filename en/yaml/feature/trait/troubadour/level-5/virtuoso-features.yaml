@@ -8,7 +8,7 @@ effects:
 
         ###### Medley
 
-        You can maintain two performances at a time using your Routines feature.
+        You can maintain two performances at a time using your [Routines](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/routines) feature.
 feature_type: trait
 metadata:
     action_type: feature

@@ -14,7 +14,7 @@ Once on each of your turns while the target of your Foil feature is adjacent to 
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](../level-1/routines.md) feature.
 
 ###### We Can't Be Upstaged!
 

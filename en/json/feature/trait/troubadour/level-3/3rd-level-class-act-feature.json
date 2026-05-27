@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.\n\n###### 3rd-Level Class Act Features Table\n\n| Class Act  | Features     |\n|------------|--------------|\n| Auteur     | Missed Cue   |\n| Duelist    | Foil         |\n| Virtuoso   | Second Album |"
+      "effect": "Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.\n\n###### 3rd-Level Class Act Features Table\n\n| Class Act  | Features     |\n|------------|--------------|\n| Auteur     | [Missed Cue](scc:mcdm.heroes.v1/feature.trait.troubadour.level-3/missed-cue)   |\n| Duelist    | Foil         |\n| Virtuoso   | [Second Album](scc:mcdm.heroes.v1/feature.trait.troubadour.level-3/second-album) |"
     }
   ],
   "feature_type": "trait",

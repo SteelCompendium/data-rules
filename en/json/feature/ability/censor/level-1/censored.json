@@ -14,7 +14,7 @@
     }
   ],
   "feature_type": "ability",
-  "flavor": "Judged and sentenced.",
+  "flavor": "Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).",
   "keywords": [
     "Melee",
     "Strike",
@@ -23,10 +23,10 @@
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*Judged and sentenced.*\n\n| **Melee, Strike, Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Melee 1**             |           **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M holy damage\n- **12-16:** 3 + M holy damage\n- **17+:** 5 + M holy damage\n\n**Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.",
+    "content": "\n*Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).*\n\n| **Melee, Strike, Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Melee 1**             |           **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M holy damage\n- **12-16:** 3 + M holy damage\n- **17+:** 5 + M holy damage\n\n**Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.",
     "distance": "Melee 1",
     "feature_type": "ability",
-    "flavor": "Judged and sentenced.",
+    "flavor": "Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).",
     "item_id": "censored",
     "item_name": "Censored",
     "keywords": [

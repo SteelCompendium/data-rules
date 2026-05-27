@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        The weapon you target with your Implement of Wrath feature gains the following additional benefits:
+        The weapon you target with your [Implement of Wrath](../level-6/implement-of-wrath.md) feature gains the following additional benefits:
 
         - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.
         - At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a saving throw against each effect on them that is ended by a saving throw.

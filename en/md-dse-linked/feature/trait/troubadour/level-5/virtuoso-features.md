@@ -24,7 +24,7 @@ effects:
 
         ###### Medley
 
-        You can maintain two performances at a time using your Routines feature.
+        You can maintain two performances at a time using your [Routines](../level-1/routines.md) feature.
 feature_type: trait
 metadata:
     class: troubadour

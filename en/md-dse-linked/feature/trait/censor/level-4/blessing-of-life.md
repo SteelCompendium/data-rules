@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your My Life for Yours ability regains Stamina, they regain additional Stamina equal to your Presence score.
+    - effect: Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) ability regains Stamina, they regain additional Stamina equal to your Presence score.
 feature_type: trait
 metadata:
     class: censor

@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [censor](scc:mcdm.heroes.v1/class/censor) order grants you a feature, as shown on the 5th-Level Order Features table.\n\n###### 5th-Level Order Features Table\n\n| Order                    | Feature       |\n|--------------------------|---------------|\n| Exorcist                 | Evil Revealed |\n| Oracle                   | Prophecy      |\n| Paragon                  | Stand Fast!   |"
+      "effect": "Your [censor](scc:mcdm.heroes.v1/class/censor) order grants you a feature, as shown on the 5th-Level Order Features table.\n\n###### 5th-Level Order Features Table\n\n| Order                    | Feature       |\n|--------------------------|---------------|\n| Exorcist                 | [Evil Revealed](scc:mcdm.heroes.v1/feature.trait.censor.level-5/evil-revealed) |\n| Oracle                   | [Prophecy](scc:mcdm.heroes.v1/feature.trait.censor.level-5/prophecy)      |\n| Paragon                  | [Stand Fast](scc:mcdm.heroes.v1/feature.trait.censor.level-5/stand-fast)!   |"
     }
   ],
   "feature_type": "trait",

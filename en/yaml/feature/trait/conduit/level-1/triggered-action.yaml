@@ -31,7 +31,7 @@ ability:
     type: feature
     usage: Triggered
 effects:
-    - effect: Choose one of the following triggered actions. (*Quick Build:* Word of Guidance.)
+    - effect: Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](scc:mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance).)
 feature_type: trait
 metadata:
     action_type: feature

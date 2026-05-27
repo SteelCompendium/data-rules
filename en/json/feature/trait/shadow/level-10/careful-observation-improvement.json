@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "You can target three creatures simultaneously with your Careful Observation ability."
+      "effect": "You can target three creatures simultaneously with your [Careful Observation](scc:mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation) ability."
     }
   ],
   "feature_type": "trait",

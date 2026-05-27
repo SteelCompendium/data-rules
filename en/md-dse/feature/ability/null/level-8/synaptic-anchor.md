@@ -9,7 +9,7 @@ effect: The target takes half the damage, and if the triggering creature has I <
 feature_type: ability
 file_basename: synaptic-anchor
 file_dpath: feature/ability/null/level-8
-flavor: You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.
+flavor: You disrupt an enemy's strike and create a [feedback loop](scc:mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop) in their mind, preventing them from focusing on future attacks.
 item_id: synaptic-anchor
 item_name: Synaptic Anchor
 keywords:
@@ -30,7 +30,7 @@ distance: Self; see below
 effects:
     - effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 feature_type: ability
-flavor: You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.
+flavor: You disrupt an enemy's strike and create a [feedback loop](scc:mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop) in their mind, preventing them from focusing on future attacks.
 keywords:
     - Psionic
 metadata:
@@ -39,7 +39,7 @@ metadata:
     cost: 11 Discipline
     distance: Self; see below
     effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
-    flavor: You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.
+    flavor: You disrupt an enemy's strike and create a [feedback loop](scc:mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop) in their mind, preventing them from focusing on future attacks.
     keywords:
         - Psionic
     level: "8"

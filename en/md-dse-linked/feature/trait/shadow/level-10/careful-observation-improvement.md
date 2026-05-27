@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You can target three creatures simultaneously with your Careful Observation ability.
+    - effect: You can target three creatures simultaneously with your [Careful Observation](../../../ability/shadow/level-3/careful-observation.md) ability.
 feature_type: trait
 metadata:
     class: shadow

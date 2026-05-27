@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
+    - effect: The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
 feature_type: trait
 metadata:
     class: censor

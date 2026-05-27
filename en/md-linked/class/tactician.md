@@ -11,7 +11,7 @@ weak_potency: Reason − 2
 
 Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
 
-**As a [tactician](class/tactician.md), you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
+**As a [tactician](tactician.md), you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
 > "Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!"
 >
@@ -37,19 +37,19 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **Recoveries:** 10
 
-**Skills:** You gain the Lead skill (see Skills in Chapter 9: [Tests](chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
+**Skills:** You gain the Lead skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
 
 ###### Tactician Advancement Table
 
 | Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
 |-------|-----------------------------------------------------------------------------------------------------------------------------|----------------|--------------------|
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, [Tactician](class/tactician.md) Abilities | 3, 5           | -                  |
+| 1st   | [Tactical Doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md), Focus, Doctrine Feature, [Doctrine Triggered Action](../feature/trait/tactician/level-1/doctrine-triggered-action.md), [Field Arsenal](../feature/trait/tactician/level-1/field-arsenal.md), Mark, [Strike Now](../feature/ability/tactician/level-1/strike-now.md), [Tactician](tactician.md) Abilities | 3, 5           | -                  |
 | 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
-| 3rd   | Out of Position, 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                       | 3, 5, 7        | 5                  |
+| 3rd   | [Out of Position](../feature/trait/tactician/level-3/out-of-position.md), 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
+| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Focus on Their Weakness, [Improved Field Arsenal](../feature/trait/tactician/level-4/improved-field-arsenal.md), Perk, Skill                                       | 3, 5, 7        | 5                  |
 | 5th   | Doctrine Feature, 9-Focus Ability                                                                                           | 3, 5, 7, 9     | 5                  |
-| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
+| 6th   | [Master of Arms](../feature/trait/tactician/level-6/master-of-arms.md), Perk, Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
+| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Heightened Focus](../feature/trait/tactician/level-7/heightened-focus.md), [Seize the Initiative](../feature/trait/tactician/level-7/seize-the-initiative.md), Skill, Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
 | 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                    | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 9th   | [Grandmaster of Arms](../feature/trait/tactician/level-9/grandmaster-of-arms.md), Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Command, Perk, Skill, [True Focus](../feature/trait/tactician/level-10/true-focus.md), [Warmaster](../feature/trait/tactician/level-10/warmaster.md)                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |

@@ -40,7 +40,7 @@
   },
   "effects": [
     {
-      "effect": "Your tactical doctrine grants you a triggered action, as shown on the Doctrine Triggered Actions table."
+      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/tactical-doctrine) grants you a triggered action, as shown on the Doctrine Triggered Actions table."
     }
   ],
   "feature_type": "trait",

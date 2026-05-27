@@ -14,7 +14,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [High elf](ancestry/high-elf.md) heroes have access to the following traits.
+        [High elf](../../ancestry/high-elf.md) heroes have access to the following traits.
 
         #### Signature Trait: High Elf Glamor
 

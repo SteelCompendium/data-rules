@@ -9,7 +9,7 @@ effect: Each creature within distance gains a +5 bonus to speed until the end of
 feature_type: ability
 file_basename: jam-session
 file_dpath: feature/ability/troubadour/level-9
-flavor: Your jam session creates new genres that compel everyone to get up and move.
+flavor: Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.
 item_id: jam-session
 item_name: Jam Session
 keywords:
@@ -37,7 +37,7 @@ effects:
       tier2: 11 sonic damage
       tier3: 15 sonic damage
 feature_type: ability
-flavor: Your jam session creates new genres that compel everyone to get up and move.
+flavor: Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.
 keywords:
     - Area
     - Magic
@@ -47,7 +47,7 @@ metadata:
     cost: 11 Drama
     distance: 5 burst
     effect: Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
-    flavor: Your jam session creates new genres that compel everyone to get up and move.
+    flavor: Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.
     keywords:
         - Area
         - Magic

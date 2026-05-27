@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [censor](scc:mcdm.heroes.v1/class/censor) order grants you a feature, as shown on the 8th-Level Order Features table.\n\n###### 8th-Level Order Features Table\n\n| Order                    | Feature             |\n|--------------------------|---------------------|\n| Exorcist                 | Demonologist        |\n| Oracle                   | Their Past Revealed |\n| Paragon                  | Vow                 |"
+      "effect": "Your [censor](scc:mcdm.heroes.v1/class/censor) order grants you a feature, as shown on the 8th-Level Order Features table.\n\n###### 8th-Level Order Features Table\n\n| Order                    | Feature             |\n|--------------------------|---------------------|\n| Exorcist                 | [Demonologist](scc:mcdm.heroes.v1/feature.trait.censor.level-8/demonologist)        |\n| Oracle                   | [Their Past Revealed](scc:mcdm.heroes.v1/feature.trait.censor.level-8/their-past-revealed) |\n| Paragon                  | Vow                 |"
     }
   ],
   "feature_type": "trait",

@@ -13,7 +13,7 @@ stamina_bonus: +9 per echelon
 type: kit
 ---
 
-The [Mountain](kit/mountain.md) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
+The [Mountain](mountain.md) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
 
 ##### Equipment
 

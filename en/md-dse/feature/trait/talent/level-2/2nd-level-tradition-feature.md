@@ -22,9 +22,9 @@ effects:
 
         | Tradition                    | Features        |
         |------------------------------|-----------------|
-        | Chronopathy                  | Ease the Hours  |
-        | Telekinesis                  | Ease Their Fall |
-        | Telepathy                    | Ease the Mind   |
+        | Chronopathy                  | [Ease the Hours](scc:mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-hours)  |
+        | Telekinesis                  | [Ease Their Fall](scc:mcdm.heroes.v1/feature.trait.talent.level-2/ease-their-fall) |
+        | Telepathy                    | [Ease the Mind](scc:mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-mind)   |
 feature_type: trait
 metadata:
     class: talent

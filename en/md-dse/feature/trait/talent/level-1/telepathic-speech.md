@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.'
+    - effect: 'You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](scc:mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.'
 feature_type: trait
 metadata:
     class: talent

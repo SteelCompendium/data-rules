@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your Growing Ferocity feature.
+    - effect: You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.trait.fury/stormwight-kits)). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](scc:mcdm.heroes.v1/feature.trait.fury.boren/growing-ferocity) feature.
 feature_type: trait
 metadata:
     class: fury

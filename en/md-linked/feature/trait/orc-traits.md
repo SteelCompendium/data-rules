@@ -4,7 +4,7 @@ scc: mcdm.heroes.v1/feature.trait/orc-traits
 type: trait
 ---
 
-[Orc](ancestry/orc.md) heroes have access to the following traits.
+[Orc](../../ancestry/orc.md) heroes have access to the following traits.
 
 #### Signature Trait: Relentless
 

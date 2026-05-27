@@ -9,7 +9,7 @@ source: mcdm.heroes.v1
 type: kit
 ---
 
-With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. [Corven](kit/corven.md) are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a crow, becoming stealthy and quick. [Corven](corven.md) are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Signature Ability
 

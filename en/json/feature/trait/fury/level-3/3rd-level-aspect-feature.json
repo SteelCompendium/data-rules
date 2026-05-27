@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Features table.\n\n###### 3rd-Level Aspect Features Table\n\n| Aspect                    | Feature                  |\n|---------------------------|--------------------------|\n| Berserker                 | Immovable Object         |\n| Reaver                    | See Through Their Tricks |\n| Stormwight                | Nature's Knight          |"
+      "effect": "Your [primordial aspect](scc:mcdm.heroes.v1/feature.trait.fury.level-1/primordial-aspect) grants you a feature, as shown on the 3rd-Level Aspect Features table.\n\n###### 3rd-Level Aspect Features Table\n\n| Aspect                    | Feature                  |\n|---------------------------|--------------------------|\n| Berserker                 | [Immovable Object](scc:mcdm.heroes.v1/feature.trait.fury.level-3/immovable-object)         |\n| Reaver                    | [See Through Their Tricks](scc:mcdm.heroes.v1/feature.trait.fury.level-3/see-through-their-tricks) |\n| Stormwight                | Nature's Knight          |"
     }
   ],
   "feature_type": "trait",

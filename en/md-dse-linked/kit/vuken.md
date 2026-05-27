@@ -9,7 +9,7 @@ source: mcdm.heroes.v1
 type: kit
 ---
 
-With this stormwight kit, you channel your primordial ferocity into the form of a wolf, becoming a fleet-footed hunter. [Vuken](kit/vuken.md) are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
+With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a wolf, becoming a fleet-footed hunter. [Vuken](vuken.md) are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
 ##### Signature Ability
 

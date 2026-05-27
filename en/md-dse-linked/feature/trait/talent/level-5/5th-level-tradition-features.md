@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your [talent](class/talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+        Your [talent](../../../../class/talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
         ###### 5th-Level Tradition Features Table
 
         | Tradition   | Features                              |
         |-------------|---------------------------------------|
-        | Chronopathy | Distortion Temporal, Speed of Thought |
-        | Telekinesis | Kinetic Amplifier, Triangulate        |
-        | Telepathy   | Compulsion, Remote Amplification      |
+        | Chronopathy | [Distortion Temporal](distortion-temporal.md), [Speed of Thought](speed-of-thought.md) |
+        | Telekinesis | [Kinetic Amplifier](kinetic-amplifier.md), [Triangulate](triangulate.md)        |
+        | Telepathy   | [Compulsion](compulsion.md), [Remote Amplification](remote-amplification.md)      |
 feature_type: trait
 metadata:
     class: talent

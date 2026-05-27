@@ -9,7 +9,7 @@
       "tier3": "17 + I holy damage"
     },
     {
-      "effect": "Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free triggered action to move this effect to another creature within distance.",
+      "effect": "Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/triggered-action) to move this effect to another creature within distance.",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*You ignite a foe with holy radiance, rewarding allies who attack them.*\n\n| **Magic, Ranged, Strike** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Ranged 10**          | **🎯 One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 8 + I holy damage\n- **12-16:** 13 + I holy damage\n- **17+:** 17 + I holy damage\n\n**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free triggered action to move this effect to another creature within distance.",
+    "content": "\n*You ignite a foe with holy radiance, rewarding allies who attack them.*\n\n| **Magic, Ranged, Strike** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Ranged 10**          | **🎯 One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 8 + I holy damage\n- **12-16:** 13 + I holy damage\n- **17+:** 17 + I holy damage\n\n**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/triggered-action) to move this effect to another creature within distance.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You ignite a foe with holy radiance, rewarding allies who attack them.",

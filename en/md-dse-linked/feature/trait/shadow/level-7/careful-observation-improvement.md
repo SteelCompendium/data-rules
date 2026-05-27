@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You can target two creatures simultaneously with your Careful Observation ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
+    - effect: You can target two creatures simultaneously with your [Careful Observation](../../../ability/shadow/level-3/careful-observation.md) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
 feature_type: trait
 metadata:
     class: shadow

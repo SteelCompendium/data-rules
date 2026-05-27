@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your primordial aspect grants you a feature, as shown on the 5th-Level Aspect Features table.
+        Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
         ###### 5th-Level Aspect Features Table
 
         | Aspect     | Feature    |
         |------------|------------|
-        | Berserker  | Bounder    |
-        | Reaver     | Unfettered |
-        | Stormwight | Stormborn  |
+        | Berserker  | [Bounder](bounder.md)    |
+        | Reaver     | [Unfettered](unfettered.md) |
+        | Stormwight | [Stormborn](stormborn.md)  |
 feature_type: trait
 metadata:
     class: fury

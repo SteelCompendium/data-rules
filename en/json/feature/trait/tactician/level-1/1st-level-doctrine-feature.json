@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your tactical doctrine grants you a feature, as shown on the 1st-Level Doctrine Features table.\n\n###### 1st-Level Doctrine Features Table\n\n| Doctrine   | Feature             |\n|------------|---------------------|\n| Insurgent  | Covert Operations   |\n| Mastermind | Studied Commander   |\n| Vanguard   | Commanding Presence |"
+      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/tactical-doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.\n\n###### 1st-Level Doctrine Features Table\n\n| Doctrine   | Feature             |\n|------------|---------------------|\n| Insurgent  | [Covert Operations](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/covert-operations)   |\n| Mastermind | [Studied Commander](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/studied-commander)   |\n| Vanguard   | [Commanding Presence](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/commanding-presence) |"
     }
   ],
   "feature_type": "trait",

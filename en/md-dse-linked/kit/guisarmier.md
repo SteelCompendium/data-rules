@@ -14,7 +14,7 @@ stamina_bonus: +6 per echelon
 type: kit
 ---
 
-The [Guisarmier](kit/guisarmier.md) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
+The [Guisarmier](guisarmier.md) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
 ##### Equipment
 

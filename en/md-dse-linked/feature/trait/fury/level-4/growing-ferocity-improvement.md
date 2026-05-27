@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your Growing Ferocity feature provides additional benefits when you have 8 or more ferocity.
+    - effect: Your [Growing Ferocity](../boren/growing-ferocity.md) feature provides additional benefits when you have 8 or more ferocity.
 feature_type: trait
 metadata:
     class: fury

@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine Features table.\n\n###### 2nd-Level Doctrine Features Table\n\n| Doctrine                    | Feature              |\n|-----------------------------|----------------------|\n| Insurgent                   | Infiltration Tactics |\n| Mastermind                  | Goaded               |\n| Vanguard                    | Melee Superiority    |"
+      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/tactical-doctrine) grants you a feature, as shown on the 2nd-Level Doctrine Features table.\n\n###### 2nd-Level Doctrine Features Table\n\n| Doctrine                    | Feature              |\n|-----------------------------|----------------------|\n| Insurgent                   | [Infiltration Tactics](scc:mcdm.heroes.v1/feature.trait.tactician.level-2/infiltration-tactics) |\n| Mastermind                  | Goaded               |\n| Vanguard                    | [Melee Superiority](scc:mcdm.heroes.v1/feature.trait.tactician.level-2/melee-superiority)    |"
     }
   ],
   "feature_type": "trait",

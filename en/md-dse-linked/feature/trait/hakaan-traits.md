@@ -14,7 +14,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Hakaan](ancestry/hakaan.md) heroes have access to the following traits.
+        [Hakaan](../../ancestry/hakaan.md) heroes have access to the following traits.
 
         #### Signature Trait: Big!
 

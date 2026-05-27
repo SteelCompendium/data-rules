@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:*  Ward of Surprising Reactivity.)
+    - effect: You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and [enchantment](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment) (see above) by performing a complex ritual as a respite activity. (*Quick Build:*  [Ward of Surprising Reactivity](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/ward-of-surprising-reactivity).)
 feature_type: trait
 metadata:
     class: elementalist

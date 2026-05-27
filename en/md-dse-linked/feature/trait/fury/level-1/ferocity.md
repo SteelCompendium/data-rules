@@ -20,7 +20,7 @@ effects:
 
         > **Where's My Maneuver?**
         >
-        > Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](class/fury.md)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](class/fury.md) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+        > Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../../class/fury.md)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../../class/fury.md) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
         ##### Ferocity in Combat
 
@@ -34,7 +34,7 @@ effects:
 
         Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-        When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
+        When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../../../ability/fury/level-1/to-the-uttermost-end.md), you can use it as if you had spent an amount of ferocity equal to your Victories.
 feature_type: trait
 metadata:
     class: fury

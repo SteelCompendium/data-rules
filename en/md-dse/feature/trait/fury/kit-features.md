@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        All stormwight kits have the following features in common.
+        All [stormwight kits](scc:mcdm.heroes.v1/feature.trait.fury/stormwight-kits) have the following features in common.
 
         ##### Signature Ability
 

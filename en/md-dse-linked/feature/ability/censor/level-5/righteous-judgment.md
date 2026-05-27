@@ -9,7 +9,7 @@ effect: Until the end of the encounter, whenever any ally deals damage to a targ
 feature_type: ability
 file_basename: righteous-judgment
 file_dpath: feature/ability/censor/level-5
-flavor: You amplify the power of your judgment.
+flavor: You amplify the power of your [judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment).
 item_id: righteous-judgment
 item_name: Righteous Judgment
 keywords:
@@ -38,7 +38,7 @@ effects:
       tier2: 14 + M damage
       tier3: 20 + M damage
 feature_type: ability
-flavor: You amplify the power of your judgment.
+flavor: You amplify the power of your [judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment).
 keywords:
     - Melee
     - Strike
@@ -49,7 +49,7 @@ metadata:
     cost: 9 Wrath
     distance: Melee 1
     effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.
-    flavor: You amplify the power of your judgment.
+    flavor: You amplify the power of your [judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment).
     keywords:
         - Melee
         - Strike

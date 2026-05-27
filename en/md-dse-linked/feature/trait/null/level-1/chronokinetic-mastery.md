@@ -16,9 +16,9 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Whenever you use the Inertial Shield ability, you can use the Disengage move action as a free triggered action.
+        Whenever you use the [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can use the Disengage move action as a free triggered action.
 
-        Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Chronokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+        Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
         ###### Chronokinetic Mastery Table
 

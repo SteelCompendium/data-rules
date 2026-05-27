@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.\n\n###### 1st-Level Aspect Features Table\n\n| Aspect     | Feature                        |\n|------------|--------------------------------|\n| Berserker  | Kit, Primordial Strength       |\n| Reaver     | Kit, Primordial Cunning        |\n| Stormwight | Beast Shape, Relentless Hunter |"
+      "effect": "Your [primordial aspect](scc:mcdm.heroes.v1/feature.trait.fury.level-1/primordial-aspect) grants you two features, as shown on the 1st-Level Aspect Features table.\n\n###### 1st-Level Aspect Features Table\n\n| Aspect     | Feature                        |\n|------------|--------------------------------|\n| Berserker  | Kit, [Primordial Strength](scc:mcdm.heroes.v1/feature.trait.fury.level-1/primordial-strength)       |\n| Reaver     | Kit, [Primordial Cunning](scc:mcdm.heroes.v1/feature.trait.fury.level-1/primordial-cunning)        |\n| Stormwight | [Beast Shape](scc:mcdm.heroes.v1/feature.trait.fury.level-1/beast-shape), [Relentless Hunter](scc:mcdm.heroes.v1/feature.trait.fury.level-1/relentless-hunter) |"
     }
   ],
   "feature_type": "trait",

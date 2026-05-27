@@ -22,9 +22,9 @@ effects:
 
         | Class Act  | Features     |
         |------------|--------------|
-        | Auteur     | Missed Cue   |
+        | Auteur     | [Missed Cue](scc:mcdm.heroes.v1/feature.trait.troubadour.level-3/missed-cue)   |
         | Duelist    | Foil         |
-        | Virtuoso   | Second Album |
+        | Virtuoso   | [Second Album](scc:mcdm.heroes.v1/feature.trait.troubadour.level-3/second-album) |
 feature_type: trait
 metadata:
     class: troubadour

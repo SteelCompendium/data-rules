@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.
+        Your [primordial aspect](primordial-aspect.md) grants you two features, as shown on the 1st-Level Aspect Features table.
 
         ###### 1st-Level Aspect Features Table
 
         | Aspect     | Feature                        |
         |------------|--------------------------------|
-        | Berserker  | Kit, Primordial Strength       |
-        | Reaver     | Kit, Primordial Cunning        |
-        | Stormwight | Beast Shape, Relentless Hunter |
+        | Berserker  | Kit, [Primordial Strength](primordial-strength.md)       |
+        | Reaver     | Kit, [Primordial Cunning](primordial-cunning.md)        |
+        | Stormwight | [Beast Shape](beast-shape.md), [Relentless Hunter](relentless-hunter.md) |
 feature_type: trait
 metadata:
     class: fury

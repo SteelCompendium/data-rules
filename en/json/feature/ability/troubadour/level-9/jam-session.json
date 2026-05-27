@@ -14,7 +14,7 @@
     }
   ],
   "feature_type": "ability",
-  "flavor": "Your jam session creates new genres that compel everyone to get up and move.",
+  "flavor": "Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.",
   "keywords": [
     "Area",
     "Magic"
@@ -22,10 +22,10 @@
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*Your jam session creates new genres that compel everyone to get up and move.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **📏 5 burst**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 8 sonic damage\n- **12-16:** 11 sonic damage\n- **17+:** 15 sonic damage\n\n**Effect:** Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.",
+    "content": "\n*Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **📏 5 burst**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 8 sonic damage\n- **12-16:** 11 sonic damage\n- **17+:** 15 sonic damage\n\n**Effect:** Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.",
     "distance": "5 burst",
     "feature_type": "ability",
-    "flavor": "Your jam session creates new genres that compel everyone to get up and move.",
+    "flavor": "Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.",
     "item_id": "jam-session",
     "item_name": "Jam Session",
     "keywords": [

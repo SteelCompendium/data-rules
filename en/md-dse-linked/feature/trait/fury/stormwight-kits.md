@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'The stormwight primordial aspect lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](chapter/kits.md)).'
+    - effect: 'The stormwight [primordial aspect](level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](stormwight-kits.md) through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](../../../chapter/kits.md)).'
 feature_type: trait
 metadata:
     class: fury

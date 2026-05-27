@@ -47,7 +47,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Protection Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
 - **Prayer Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
 
 ###### Storm Domain Piety and Effect
@@ -63,7 +63,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](class/conduit.md) level.
+- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../class/conduit.md) level.
 
 ###### War Domain Piety and Effect
 

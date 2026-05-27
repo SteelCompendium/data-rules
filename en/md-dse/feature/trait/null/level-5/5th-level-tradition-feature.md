@@ -22,9 +22,9 @@ effects:
 
         | Tradition     | Feature            |
         |---------------|--------------------|
-        | Chronokinetic | Instant Action     |
-        | Cryokinetic   | Chilling Readiness |
-        | Metakinetic   | Inertial Fulcrum   |
+        | Chronokinetic | [Instant Action](scc:mcdm.heroes.v1/feature.trait.null.level-5/instant-action)     |
+        | Cryokinetic   | [Chilling Readiness](scc:mcdm.heroes.v1/feature.trait.null.level-5/chilling-readiness) |
+        | Metakinetic   | [Inertial Fulcrum](scc:mcdm.heroes.v1/feature.trait.null.level-5/inertial-fulcrum)   |
 feature_type: trait
 metadata:
     class: "null"

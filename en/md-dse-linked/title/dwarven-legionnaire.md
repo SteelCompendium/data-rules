@@ -11,9 +11,9 @@ source: mcdm.heroes.v1
 type: title
 ---
 
-*I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, stand fast, and do not yield.*
+*I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, [stand fast](../feature/trait/censor/level-5/stand-fast.md), and do not yield.*
 
-**Prerequisite:** You fight alongside three or more [dwarves](ancestry/dwarf.md).
+**Prerequisite:** You fight alongside three or more [dwarves](../ancestry/dwarf.md).
 
 **Effect:** Choose one of the following benefits:
 

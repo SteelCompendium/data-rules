@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+    - effect: While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../../../ability/fury/aspect-of-the-wild.md).
 feature_type: trait
 metadata:
     class: fury

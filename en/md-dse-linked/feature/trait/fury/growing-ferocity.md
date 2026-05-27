@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Each stormwight kit grants a set of benefits for your Growing Ferocity feature.
+    - effect: Each stormwight kit grants a set of benefits for your [Growing Ferocity](boren/growing-ferocity.md) feature.
 feature_type: trait
 metadata:
     class: fury

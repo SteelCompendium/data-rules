@@ -22,8 +22,8 @@ effects:
 
         | College                    | Feature          |
         |----------------------------|------------------|
-        | Black Ash                  | Burning Ash      |
-        | Caustic Alchemy            | Trained Assassin |
+        | Black Ash                  | [Burning Ash](scc:mcdm.heroes.v1/feature.trait.shadow.level-2/burning-ash)      |
+        | Caustic Alchemy            | [Trained Assassin](scc:mcdm.heroes.v1/feature.trait.shadow.level-2/trained-assassin) |
         | Harlequin Mask             | Friend!          |
 feature_type: trait
 metadata:

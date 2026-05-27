@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: When you use your Hands of the Maker ability, you can create a mundane object that is size 2 or smaller.
+    - effect: When you use your [Hands of the Maker](scc:mcdm.heroes.v1/feature.ability.censor.level-1/hands-of-the-maker) ability, you can create a mundane object that is size 2 or smaller.
 feature_type: trait
 metadata:
     class: censor

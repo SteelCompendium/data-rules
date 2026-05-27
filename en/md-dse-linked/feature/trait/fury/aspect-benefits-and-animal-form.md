@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your primordial aspect benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
+    - effect: Your [primordial aspect](level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
 feature_type: trait
 metadata:
     class: fury

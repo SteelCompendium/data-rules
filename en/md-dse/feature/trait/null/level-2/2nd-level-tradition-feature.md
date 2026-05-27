@@ -22,9 +22,9 @@ effects:
 
         | Tradition     | Feature               |
         |---------------|-----------------------|
-        | Chronokinetic | Rapid Processing      |
-        | Cryokinetic   | Entropic Adaptability |
-        | Metakinetic   | Inertial Sink         |
+        | Chronokinetic | [Rapid Processing](scc:mcdm.heroes.v1/feature.trait.null.level-2/rapid-processing)      |
+        | Cryokinetic   | [Entropic Adaptability](scc:mcdm.heroes.v1/feature.trait.null.level-2/entropic-adaptability) |
+        | Metakinetic   | [Inertial Sink](scc:mcdm.heroes.v1/feature.trait.null.level-2/inertial-sink)         |
 feature_type: trait
 metadata:
     class: "null"

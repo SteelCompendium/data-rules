@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your primordial aspect grants you a feature, as shown on the 2nd-Level Aspect Features table.
+        Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
         ###### 2nd-Level Aspect Features Table
 
         | Aspect     | Feature           |
         |------------|-------------------|
-        | Berserker  | Unstoppable Force |
-        | Reaver     | Inescapable Wrath |
-        | Stormwight | Tooth and Claw    |
+        | Berserker  | [Unstoppable Force](unstoppable-force.md) |
+        | Reaver     | [Inescapable Wrath](inescapable-wrath.md) |
+        | Stormwight | [Tooth and Claw](tooth-and-claw.md)    |
 feature_type: trait
 metadata:
     class: fury

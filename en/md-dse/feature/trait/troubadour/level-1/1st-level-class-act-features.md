@@ -22,9 +22,9 @@ effects:
 
         | Class Act  | Features                           |
         |------------|------------------------------------|
-        | Auteur     | Blocking, Dramatic Monologue       |
-        | Duelist    | Acrobatics, Star Power             |
-        | Virtuoso   | Power Chord, Virtuoso Performances |
+        | Auteur     | Blocking, [Dramatic Monologue](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue)       |
+        | Duelist    | [Acrobatics](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics), [Star Power](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/star-power)             |
+        | Virtuoso   | [Power Chord](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord), [Virtuoso Performances](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/virtuoso-performances) |
 feature_type: trait
 metadata:
     class: troubadour

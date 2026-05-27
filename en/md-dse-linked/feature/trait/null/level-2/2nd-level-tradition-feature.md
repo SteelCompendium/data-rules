@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your [null](class/null.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+        Your [null](../../../../class/null.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
         ###### 2nd-Level Tradition Features Table
 
         | Tradition     | Feature               |
         |---------------|-----------------------|
-        | Chronokinetic | Rapid Processing      |
-        | Cryokinetic   | Entropic Adaptability |
-        | Metakinetic   | Inertial Sink         |
+        | Chronokinetic | [Rapid Processing](rapid-processing.md)      |
+        | Cryokinetic   | [Entropic Adaptability](entropic-adaptability.md) |
+        | Metakinetic   | [Inertial Sink](inertial-sink.md)         |
 feature_type: trait
 metadata:
     class: "null"

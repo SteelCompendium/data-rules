@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Repulsive Ward.)
+    - effect: Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../../null/level-1/psionic-augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](repulsive-ward.md).)
 feature_type: trait
 metadata:
     class: talent

@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+        Your [tactical doctrine](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/tactical-doctrine) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
         ###### 2nd-Level Doctrine Features Table
 
         | Doctrine                    | Feature              |
         |-----------------------------|----------------------|
-        | Insurgent                   | Infiltration Tactics |
+        | Insurgent                   | [Infiltration Tactics](scc:mcdm.heroes.v1/feature.trait.tactician.level-2/infiltration-tactics) |
         | Mastermind                  | Goaded               |
-        | Vanguard                    | Melee Superiority    |
+        | Vanguard                    | [Melee Superiority](scc:mcdm.heroes.v1/feature.trait.tactician.level-2/melee-superiority)    |
 feature_type: trait
 metadata:
     class: tactician

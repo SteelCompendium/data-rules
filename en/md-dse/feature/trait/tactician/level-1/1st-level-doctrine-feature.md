@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your tactical doctrine grants you a feature, as shown on the 1st-Level Doctrine Features table.
+        Your [tactical doctrine](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/tactical-doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
         ###### 1st-Level Doctrine Features Table
 
         | Doctrine   | Feature             |
         |------------|---------------------|
-        | Insurgent  | Covert Operations   |
-        | Mastermind | Studied Commander   |
-        | Vanguard   | Commanding Presence |
+        | Insurgent  | [Covert Operations](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/covert-operations)   |
+        | Mastermind | [Studied Commander](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/studied-commander)   |
+        | Vanguard   | [Commanding Presence](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/commanding-presence) |
 feature_type: trait
 metadata:
     class: tactician

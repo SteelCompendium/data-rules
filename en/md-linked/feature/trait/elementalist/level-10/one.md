@@ -12,7 +12,7 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 | Specialization | Feature         |
 |----------------|-----------------|
-| Earth          | Master of Earth |
-| Fire           | Master of Fire  |
-| Green          | Master of Green |
-| Void           | Master of Void  |
+| Earth          | [Master of Earth](master-of-earth.md) |
+| Fire           | [Master of Fire](master-of-fire.md)  |
+| Green          | [Master of Green](master-of-green.md) |
+| Void           | [Master of Void](master-of-void.md)  |

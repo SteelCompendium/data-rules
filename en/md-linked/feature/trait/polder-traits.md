@@ -4,4 +4,4 @@ scc: mcdm.heroes.v1/feature.trait/polder-traits
 type: trait
 ---
 
-[Polder](ancestry/polder.md) heroes have access to the following traits.
+[Polder](../../ancestry/polder.md) heroes have access to the following traits.

@@ -8,7 +8,7 @@
     }
   ],
   "feature_type": "ability",
-  "flavor": "You create a wall of ice.",
+  "flavor": "You create a [wall of ice](scc:mcdm.heroes.v1/feature.ability.null.level-6/wall-of-ice).",
   "keywords": [
     "Area",
     "Psionic",
@@ -17,10 +17,10 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You create a wall of ice.*\n\n| **Area, Psionic, Ranged** | **Main action** |\n|---------------------------|----------------:|\n| **📏 10 wall within 10**  |  **🎯 Special** |\n\n**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M \u003c AVERAGE is slowed (save ends). Each enemy who is force moved into the wall and has M \u003c AVERAGE is restrained (save ends).",
+    "content": "\n*You create a [wall of ice](scc:mcdm.heroes.v1/feature.ability.null.level-6/wall-of-ice).*\n\n| **Area, Psionic, Ranged** | **Main action** |\n|---------------------------|----------------:|\n| **📏 10 wall within 10**  |  **🎯 Special** |\n\n**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M \u003c AVERAGE is slowed (save ends). Each enemy who is force moved into the wall and has M \u003c AVERAGE is restrained (save ends).",
     "distance": "10 wall within 10",
     "feature_type": "ability",
-    "flavor": "You create a wall of ice.",
+    "flavor": "You create a [wall of ice](scc:mcdm.heroes.v1/feature.ability.null.level-6/wall-of-ice).",
     "item_id": "wall-of-ice",
     "item_name": "Wall of Ice",
     "keywords": [

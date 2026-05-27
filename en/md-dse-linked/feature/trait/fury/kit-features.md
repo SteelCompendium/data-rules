@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        All stormwight kits have the following features in common.
+        All [stormwight kits](stormwight-kits.md) have the following features in common.
 
         ##### Signature Ability
 

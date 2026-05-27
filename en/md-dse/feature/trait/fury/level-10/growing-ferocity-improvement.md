@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your Growing Ferocity feature provides additional benefits when you have 12 or more ferocity.
+    - effect: Your [Growing Ferocity](scc:mcdm.heroes.v1/feature.trait.fury.boren/growing-ferocity) feature provides additional benefits when you have 12 or more ferocity.
 feature_type: trait
 metadata:
     class: fury

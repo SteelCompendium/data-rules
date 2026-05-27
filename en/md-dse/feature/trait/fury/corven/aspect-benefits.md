@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your Aspect of the Wild ability.
+    - effect: You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your [Aspect of the Wild](scc:mcdm.heroes.v1/feature.ability.fury/aspect-of-the-wild) ability.
 feature_type: trait
 metadata:
     class: fury

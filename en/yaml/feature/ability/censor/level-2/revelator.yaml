@@ -1,20 +1,20 @@
 cost: 5 Wrath
 distance: 3 burst
 effects:
-    - effect: Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your Judgment ability against one target as a free triggered action.
+    - effect: Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment) ability against one target as a free triggered action.
       name: Effect
 feature_type: ability
-flavor: You channel holy energy to harm unbelievers and reveal those hidden from your judgment.
+flavor: You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment).
 keywords:
     - Area
     - Magic
 metadata:
     action_type: Maneuver
     class: censor
-    content: "\n*You channel holy energy to harm unbelievers and reveal those hidden from your judgment.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your Judgment ability against one target as a free triggered action."
+    content: "\n*You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment).*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment) ability against one target as a free triggered action."
     distance: 3 burst
     feature_type: ability
-    flavor: You channel holy energy to harm unbelievers and reveal those hidden from your judgment.
+    flavor: You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment).
     item_id: revelator
     item_name: Revelator
     keywords:

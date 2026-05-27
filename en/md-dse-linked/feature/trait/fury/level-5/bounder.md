@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'Your jump distance and height double (see Movement Types in Chapter 10: [Combat](chapter/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you land prone (see Falling in Chapter 10). You are not prone after falling and landing on another creature.'
+    - effect: 'Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../../../../chapter/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you land prone (see Falling in Chapter 10). You are not prone after falling and landing on another creature.'
 feature_type: trait
 metadata:
     class: fury

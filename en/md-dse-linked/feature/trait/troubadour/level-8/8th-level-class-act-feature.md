@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your [troubadour](class/troubadour.md) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
+        Your [troubadour](../../../../class/troubadour.md) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
 
         ###### 8th-Level Class Act Features Table
 
         | Class Act | Feature         |
         |-----------|-----------------|
-        | Auteur    | Deleted Scene   |
+        | Auteur    | [Deleted Scene](deleted-scene.md)   |
         | Duelist   | Masterwork      |
-        | Virtuoso  | Crowd Favorites |
+        | Virtuoso  | [Crowd Favorites](crowd-favorites.md) |
 feature_type: trait
 metadata:
     class: troubadour

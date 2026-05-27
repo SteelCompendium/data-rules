@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        As your ferocity grows, you gain benefits as noted on the [Raden](kit/raden.md) Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+        As your ferocity grows, you gain benefits as noted on the [Raden](../../../../kit/raden.md) [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
         ###### Raden Growing Ferocity Table
 

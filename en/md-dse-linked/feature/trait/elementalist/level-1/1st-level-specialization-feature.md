@@ -16,16 +16,16 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
+        Your [elemental specialization](elemental-specialization.md) grants you a feature, as shown on the 1st-Level [Elemental Specialization](elemental-specialization.md) Features table.
 
         ###### 1st-Level Elemental Specialization Features Table
 
         | Specialization | Feature                    |
         |----------------|----------------------------|
-        | Earth          | Motivate Earth             |
-        | Fire           | Return to Formlessness     |
-        | Green          | It Is the Soul Which Hears |
-        | Void           | A Beyonding of Vision      |
+        | Earth          | [Motivate Earth](../../../ability/elementalist/level-1/motivate-earth.md)             |
+        | Fire           | [Return to Formlessness](../../../ability/elementalist/level-1/return-to-formlessness.md)     |
+        | Green          | [It Is the Soul Which Hears](it-is-the-soul-which-hears.md) |
+        | Void           | [A Beyonding of Vision](a-beyonding-of-vision.md)      |
 feature_type: trait
 metadata:
     class: elementalist

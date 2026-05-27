@@ -22,9 +22,9 @@ effects:
 
         | Class Act | Feature         |
         |-----------|-----------------|
-        | Auteur    | Deleted Scene   |
+        | Auteur    | [Deleted Scene](scc:mcdm.heroes.v1/feature.trait.troubadour.level-8/deleted-scene)   |
         | Duelist   | Masterwork      |
-        | Virtuoso  | Crowd Favorites |
+        | Virtuoso  | [Crowd Favorites](scc:mcdm.heroes.v1/feature.trait.troubadour.level-8/crowd-favorites) |
 feature_type: trait
 metadata:
     class: troubadour

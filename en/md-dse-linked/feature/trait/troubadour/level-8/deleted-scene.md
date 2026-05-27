@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever a creature within distance of your Dramatic Monologue ability makes a power roll, you can spend 1 drama as a free triggered action to use Dramatic Monologue, targeting only one creature.
+    - effect: Whenever a creature within distance of your [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md), targeting only one creature.
 feature_type: trait
 metadata:
     class: troubadour

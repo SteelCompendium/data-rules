@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: The range of your Telepathic Speech feature increases to anywhere on the same world.
+    - effect: The range of your [Telepathic Speech](scc:mcdm.heroes.v1/feature.trait.talent.level-1/telepathic-speech) feature increases to anywhere on the same world.
 feature_type: trait
 metadata:
     class: talent

@@ -4,7 +4,7 @@ scc: mcdm.heroes.v1/feature.trait/dragon-knight-traits
 type: trait
 ---
 
-[Dragon knight](ancestry/dragon-knight.md) heroes have access to the following traits.
+[Dragon knight](../../ancestry/dragon-knight.md) heroes have access to the following traits.
 
 #### Signature Trait: Wyrmplate
 
@@ -12,7 +12,7 @@ Your hardened scales grant you damage immunity equal to your level to one of the
 
 #### Purchased Dragon Knight Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Dragon Breath, Prismatic Scales.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dragon Breath](../ability/common/dragon-breath.md), Prismatic Scales.)
 
 ##### Draconian Guard (1 Point)
 

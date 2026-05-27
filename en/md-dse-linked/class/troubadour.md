@@ -14,9 +14,9 @@ type: class
 weak_potency: Presence − 2
 ---
 
-The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](class/troubadour.md). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
+The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](troubadour.md). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
-**As a [troubadour](class/troubadour.md), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
+**As a [troubadour](troubadour.md), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
 "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
 
@@ -42,19 +42,19 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Recoveries:** 8
 
-**Skills:** You gain the Read Person skill (see Skills in Chapter 9: [Tests](chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
+**Skills:** You gain the Read Person skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
 
 ###### Troubadour Advancement Table
 
 | Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------|
-| 1st   | [Troubadour](class/troubadour.md) Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, [Troubadour](class/troubadour.md) Abilities | Signature, 3, 5           | -                   |
-| 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
+| 1st   | [Troubadour](troubadour.md) Class Act, Drama, Kit, [Scene Partner](../feature/trait/troubadour/level-1/scene-partner.md), [Routines](../feature/trait/troubadour/level-1/routines.md), Class Act Features, [Class Act Triggered Action](../feature/trait/troubadour/level-1/class-act-triggered-action.md), [Troubadour](troubadour.md) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | [Appeal to the Muses](../feature/trait/troubadour/level-2/appeal-to-the-muses.md), [Invocation](../feature/trait/troubadour/level-2/invocation.md), Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                      | Signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Melodrama](../feature/trait/troubadour/level-4/melodrama.md), Perk, Skill, [Zeitgeist](../feature/trait/troubadour/level-4/zeitgeist.md)                                                                      | Signature, 3, 5, 7        | 5                   |
 | 5th   | Class Act Feature, 9-Drama Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                   |
 | 6th   | Perk, Spotlight, Class Act Ability                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, A Muse's Muse, Equal Billing, Skill                                                                    | Signature, 5, 7, 9        | 5, 9                |
+| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), A Muse's Muse, [Equal Billing](../feature/trait/troubadour/level-7/equal-billing.md), Skill                                                                    | Signature, 5, 7, 9        | 5, 9                |
 | 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | Roar of the Crowd, Class Act Ability                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, Dramaturgy, Greatest of All Time, Perk, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [Roar of the Crowd](../feature/trait/troubadour/level-9/roar-of-the-crowd.md), Class Act Ability                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Applause](../feature/trait/troubadour/level-10/applause.md), [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Dramaturgy](../feature/trait/troubadour/level-10/dramaturgy.md), [Greatest of All Time](../feature/trait/troubadour/level-10/greatest-of-all-time.md), Perk, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |

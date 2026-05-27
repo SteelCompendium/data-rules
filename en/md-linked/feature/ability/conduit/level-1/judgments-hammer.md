@@ -20,7 +20,7 @@ type: ability
 ---
 
 
-*Your divine [fury](class/fury.md) is a hammer that crashes down upon the unrighteous.*
+*Your divine [fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |
 |----------------------------|------------------------------:|

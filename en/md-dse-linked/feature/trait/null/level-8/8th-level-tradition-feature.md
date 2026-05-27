@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your [null](class/null.md) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+        Your [null](../../../../class/null.md) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
         ###### 8th-Level Tradition Features Table
 
         | Tradition     | Feature           |
         |---------------|-------------------|
-        | Chronokinetic | Shared Momentum   |
-        | Cryokinetic   | Synaptic Triage   |
-        | Metakinetic   | Inertial Dampener |
+        | Chronokinetic | [Shared Momentum](shared-momentum.md)   |
+        | Cryokinetic   | [Synaptic Triage](synaptic-triage.md)   |
+        | Metakinetic   | [Inertial Dampener](inertial-dampener.md) |
 feature_type: trait
 metadata:
     class: "null"

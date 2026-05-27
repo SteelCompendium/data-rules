@@ -6,15 +6,15 @@ scc: mcdm.heroes.v1/feature.trait.tactician.level-1/doctrine-triggered-action
 type: trait
 ---
 
-Your tactical doctrine grants you a triggered action, as shown on the Doctrine Triggered Actions table.
+Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as shown on the Doctrine Triggered Actions table.
 
 ###### Doctrine Triggered Actions Table
 
 | Doctrine   | Triggered Action |
 |------------|------------------|
-| Insurgent  | Advanced Tactics |
-| Mastermind | Overwatch        |
-| Vanguard   | Parry            |
+| Insurgent  | [Advanced Tactics](../../../ability/tactician/level-1/advanced-tactics.md) |
+| Mastermind | [Overwatch](../../../ability/tactician/level-1/overwatch.md)        |
+| Vanguard   | [Parry](../../../ability/tactician/level-1/parry.md)            |
 
 ###### Advanced Tactics
 

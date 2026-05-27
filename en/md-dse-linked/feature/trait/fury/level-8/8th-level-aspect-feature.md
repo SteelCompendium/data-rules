@@ -16,15 +16,15 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your primordial aspect grants you a feature, as shown on the 8th-Level Aspect Features table.
+        Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
         ###### 8th-Level Aspect Features Table
 
         | Aspect     | Feature            |
         |------------|--------------------|
-        | Berserker  | Strongest There Is |
-        | Reaver     | A Step Ahead       |
-        | Stormwight | Menagerie          |
+        | Berserker  | [Strongest There Is](strongest-there-is.md) |
+        | Reaver     | [A Step Ahead](a-step-ahead.md)       |
+        | Stormwight | [Menagerie](menagerie.md)          |
 feature_type: trait
 metadata:
     class: fury

@@ -1,5 +1,5 @@
 effects:
-    - effect: Each kit from your Field Arsenal feature grants you a signature ability. Signature abilities can be used at will.
+    - effect: Each kit from your [Field Arsenal](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/field-arsenal) feature grants you a signature ability. Signature abilities can be used at will.
 feature_type: trait
 metadata:
     action_type: feature

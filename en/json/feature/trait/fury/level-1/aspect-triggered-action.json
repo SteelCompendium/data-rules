@@ -40,7 +40,7 @@
   },
   "effects": [
     {
-      "effect": "Your primordial aspect grants you a triggered action, as shown on the Aspect Triggered Actions table."
+      "effect": "Your [primordial aspect](scc:mcdm.heroes.v1/feature.trait.fury.level-1/primordial-aspect) grants you a triggered action, as shown on the Aspect Triggered Actions table."
     }
   ],
   "feature_type": "trait",

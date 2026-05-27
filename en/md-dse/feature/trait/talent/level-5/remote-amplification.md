@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: The distance of your ranged psionic abilities increases by 5. Additionally, the range of your Telepathic Speech feature increases to 1 mile.
+    - effect: The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](scc:mcdm.heroes.v1/feature.trait.talent.level-1/telepathic-speech) feature increases to 1 mile.
 feature_type: trait
 metadata:
     class: talent

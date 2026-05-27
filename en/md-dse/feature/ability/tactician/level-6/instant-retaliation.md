@@ -9,7 +9,7 @@ effect: The target takes half the damage. You then make a power roll against the
 feature_type: ability
 file_basename: instant-retaliation
 file_dpath: feature/ability/tactician/level-6
-flavor: You parry with almost supernatural speed.
+flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
 item_id: instant-retaliation
 item_name: Instant Retaliation
 keywords:
@@ -39,7 +39,7 @@ effects:
       tier2: A < AVERAGE, dazed (save ends)
       tier3: A < STRONG, dazed (save ends)
 feature_type: ability
-flavor: You parry with almost supernatural speed.
+flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
 keywords:
     - Melee
     - Weapon
@@ -49,7 +49,7 @@ metadata:
     cost: 9 Focus
     distance: Melee 1
     effect: The target takes half the damage. You then make a power roll against the triggering creature.
-    flavor: You parry with almost supernatural speed.
+    flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
     keywords:
         - Melee
         - Weapon

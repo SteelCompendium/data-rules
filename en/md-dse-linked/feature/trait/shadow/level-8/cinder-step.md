@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your Burning Ash and Trail of Cinders features.
+    - effect: Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your [Burning Ash](../level-2/burning-ash.md) and [Trail of Cinders](../level-5/trail-of-cinders.md) features.
 feature_type: trait
 metadata:
     class: shadow

@@ -6,15 +6,15 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/class-act-triggered-action
 type: trait
 ---
 
-Your [troubadour](class/troubadour.md) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](../../../../class/troubadour.md) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table
 
 | Class Act | Triggered Action       |
 |-----------|------------------------|
-| Auteur    | Turnabout Is Fair Play |
-| Duelist   | Riposte                |
-| Virtuoso  | Harmonize              |
+| Auteur    | [Turnabout Is Fair Play](../../../ability/troubadour/level-1/turnabout-is-fair-play.md) |
+| Duelist   | [Riposte](../../../ability/troubadour/level-1/riposte.md)                |
+| Virtuoso  | [Harmonize](../../../ability/troubadour/level-1/harmonize.md)              |
 
 ###### Harmonize (3 Drama)
 

@@ -14,7 +14,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Memonek](ancestry/memonek.md) heroes have access to the following traits.
+        [Memonek](../../ancestry/memonek.md) heroes have access to the following traits.
 
         #### Signature Trait: Fall Lightly
 

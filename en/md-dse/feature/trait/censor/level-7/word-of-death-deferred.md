@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        You can stop death from taking your allies. When an ally within distance of your My Life for Yours ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+        You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](scc:mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
         Additionally, your abilities deal an extra 5 damage to winded creatures.
 feature_type: trait

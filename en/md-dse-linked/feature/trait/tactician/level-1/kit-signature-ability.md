@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Each kit from your Field Arsenal feature grants you a signature ability. Signature abilities can be used at will.
+    - effect: Each kit from your [Field Arsenal](field-arsenal.md) feature grants you a signature ability. Signature abilities can be used at will.
 feature_type: trait
 metadata:
     class: tactician

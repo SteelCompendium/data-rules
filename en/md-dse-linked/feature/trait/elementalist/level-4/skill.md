@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).'
+    - effect: 'You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).'
 feature_type: trait
 metadata:
     class: elementalist

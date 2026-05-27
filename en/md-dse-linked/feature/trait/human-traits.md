@@ -14,7 +14,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Human](ancestry/human.md) heroes have access to the following traits.
+        [Human](../../ancestry/human.md) heroes have access to the following traits.
 
         #### Signature Trait: Detect the Supernatural
 
@@ -42,7 +42,7 @@ effects:
 
         ##### Staying Power (2 Points)
 
-        Your [human](ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
+        Your [human](../../ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
 feature_type: trait
 metadata:
     name: Human Traits

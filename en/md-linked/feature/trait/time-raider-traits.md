@@ -4,7 +4,7 @@ scc: mcdm.heroes.v1/feature.trait/time-raider-traits
 type: trait
 ---
 
-[Time raider](ancestry/time-raider.md) heroes have access to the following traits.
+[Time raider](../../ancestry/time-raider.md) heroes have access to the following traits.
 
 #### Signature Trait: Psychic Scar
 
@@ -12,7 +12,7 @@ Your mind is a formidable layer of defense. You have psychic immunity equal to y
 
 #### Purchased Time Raider Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with Psionic Bolt.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../ability/common/psionic-bolt.md).)
 
 ##### Beyondsight (1 Point)
 
