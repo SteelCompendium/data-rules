@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: mountain
 distance: Melee 1
 effect: If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).
 feature_type: ability
@@ -13,6 +12,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: mountain
 name: Pain for Pain
 scc: mcdm.heroes.v1/feature.ability.mountain/pain-for-pain
 source: mcdm.heroes.v1
@@ -33,7 +33,6 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: mountain
     distance: Melee 1
     effect: If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).
     flavor: An enemy who tagged you will pay for that.
@@ -41,6 +40,7 @@ metadata:
         - Melee
         - Strike
         - Weapon
+    kit: mountain
     name: Pain for Pain
     scc: mcdm.heroes.v1/feature.ability.mountain/pain-for-pain
     subtype: signature

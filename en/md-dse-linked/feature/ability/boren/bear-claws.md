@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: boren
 distance: Melee 1
 feature_type: ability
 file_basename: bear-claws
@@ -12,6 +11,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: boren
 name: Bear Claws
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.boren/bear-claws
@@ -39,13 +39,13 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: boren
     distance: Melee 1
     flavor: Attacks with your sharp and deadly claws grab the weak.
     keywords:
         - Melee
         - Strike
         - Weapon
+    kit: boren
     name: Bear Claws
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.boren/bear-claws

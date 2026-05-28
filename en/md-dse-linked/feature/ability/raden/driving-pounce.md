@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: raden
 distance: Melee 1
 effect: You can shift up to the same number of squares that you pushed the target.
 feature_type: ability
@@ -13,6 +12,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: raden
 name: Driving Pounce
 power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.raden/driving-pounce
@@ -41,7 +41,6 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: raden
     distance: Melee 1
     effect: You can shift up to the same number of squares that you pushed the target.
     flavor: Your enemies try in vain to fall back from your pouncing attack.
@@ -49,6 +48,7 @@ metadata:
         - Melee
         - Strike
         - Weapon
+    kit: raden
     name: Driving Pounce
     power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.raden/driving-pounce

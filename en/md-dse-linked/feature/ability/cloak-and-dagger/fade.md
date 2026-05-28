@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: cloak-and-dagger
 distance: Melee 1 or ranged 10
 feature_type: ability
 file_basename: fade
@@ -13,6 +12,7 @@ keywords:
     - Ranged
     - Strike
     - Weapon
+kit: cloak-and-dagger
 name: Fade
 scc: mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade
 source: mcdm.heroes.v1
@@ -34,7 +34,6 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: cloak-and-dagger
     distance: Melee 1 or ranged 10
     flavor: A stab, and a few quick, careful steps back.
     keywords:
@@ -42,6 +41,7 @@ metadata:
         - Ranged
         - Strike
         - Weapon
+    kit: cloak-and-dagger
     name: Fade
     scc: mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade
     subtype: signature

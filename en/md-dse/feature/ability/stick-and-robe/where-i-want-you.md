@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: stick-and-robe
 distance: Melee 2
 feature_type: ability
 file_basename: where-i-want-you
@@ -12,6 +11,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: stick-and-robe
 name: Where I Want You
 scc: mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you
 source: mcdm.heroes.v1
@@ -32,13 +32,13 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: stick-and-robe
     distance: Melee 2
     flavor: When your stick speaks, your enemy moves.
     keywords:
         - Melee
         - Strike
         - Weapon
+    kit: stick-and-robe
     name: Where I Want You
     scc: mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you
     subtype: signature

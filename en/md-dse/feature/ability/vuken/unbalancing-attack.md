@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: vuken
 distance: Melee 1
 feature_type: ability
 file_basename: unbalancing-attack
@@ -12,6 +11,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: vuken
 name: Unbalancing Attack
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack
@@ -39,13 +39,13 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: vuken
     distance: Melee 1
     flavor: A wild assault forces your foe onto their back.
     keywords:
         - Melee
         - Strike
         - Weapon
+    kit: vuken
     name: Unbalancing Attack
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack

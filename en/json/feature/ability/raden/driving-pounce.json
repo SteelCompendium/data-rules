@@ -23,7 +23,6 @@
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
-    "class": "raden",
     "content": "*Your enemies try in vain to fall back from your pouncing attack.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage\n- **12-16:** 7 + A damage; push 1\n- **17+:** 9 + A damage; push 2\n\n**Effect:** You can shift up to the same number of squares that you pushed the target.",
     "distance": "Melee 1",
     "feature_type": "ability",

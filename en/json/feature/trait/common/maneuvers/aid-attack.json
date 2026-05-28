@@ -1,0 +1,20 @@
+{
+  "effects": [
+    {
+      "effect": "A creature who uses the Aid Attack maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "feature_type": "trait",
+    "item_id": "aid-attack",
+    "item_name": "Aid Attack",
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.common.maneuvers/aid-attack"
+    ],
+    "type": "feature/trait/common/maneuvers"
+  },
+  "name": "Aid Attack",
+  "type": "feature"
+}

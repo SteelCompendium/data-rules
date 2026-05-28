@@ -14,7 +14,6 @@ keywords:
 metadata:
     ability_type: Signature
     action_type: Main action
-    class: boren
     content: "*Attacks with your sharp and deadly claws grab the weak.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M damage; M < WEAK, grabbed\n- **12-16:** 5 + M damage; M < AVERAGE, grabbed\n- **17+:** 11 + M damage; M < STRONG, grabbed"
     distance: Melee 1
     feature_type: ability

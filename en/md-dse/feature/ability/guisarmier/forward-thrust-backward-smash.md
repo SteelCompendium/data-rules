@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: guisarmier
 distance: Melee 2
 feature_type: ability
 file_basename: forward-thrust-backward-smash
@@ -12,6 +11,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: guisarmier
 name: Forward Thrust, Backward Smash
 scc: mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash
 source: mcdm.heroes.v1
@@ -32,13 +32,13 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: guisarmier
     distance: Melee 2
     flavor: In your hands, the haft is as good as the head.
     keywords:
         - Melee
         - Strike
         - Weapon
+    kit: guisarmier
     name: Forward Thrust, Backward Smash
     scc: mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash
     subtype: signature

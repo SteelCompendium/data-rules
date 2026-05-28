@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: ranger
 distance: Ranged 10
 feature_type: ability
 file_basename: hamstring-shot
@@ -12,6 +11,7 @@ keywords:
     - Ranged
     - Strike
     - Weapon
+kit: ranger
 name: Hamstring Shot
 scc: mcdm.heroes.v1/feature.ability.ranger/hamstring-shot
 source: mcdm.heroes.v1
@@ -32,13 +32,13 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: ranger
     distance: Ranged 10
     flavor: A well-placed shot leaves your enemy struggling to move.
     keywords:
         - Ranged
         - Strike
         - Weapon
+    kit: ranger
     name: Hamstring Shot
     scc: mcdm.heroes.v1/feature.ability.ranger/hamstring-shot
     subtype: signature

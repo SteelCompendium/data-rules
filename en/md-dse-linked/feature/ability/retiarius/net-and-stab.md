@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: retiarius
 distance: Melee 2
 feature_type: ability
 file_basename: net-and-stab
@@ -12,6 +11,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: retiarius
 name: Net and Stab
 scc: mcdm.heroes.v1/feature.ability.retiarius/net-and-stab
 source: mcdm.heroes.v1
@@ -32,13 +32,13 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: retiarius
     distance: Melee 2
     flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
     keywords:
         - Melee
         - Strike
         - Weapon
+    kit: retiarius
     name: Net and Stab
     scc: mcdm.heroes.v1/feature.ability.retiarius/net-and-stab
     subtype: signature

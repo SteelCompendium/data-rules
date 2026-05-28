@@ -14,7 +14,6 @@ keywords:
 metadata:
     ability_type: Signature
     action_type: Main action
-    class: vuken
     content: "*A wild assault forces your foe onto their back.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 4 + M damage; A < WEAK, prone\n- **12-16:** 7 + M damage; A < AVERAGE, prone\n- **17+:** 9 + M damage; A < STRONG, prone"
     distance: Melee 1
     feature_type: ability

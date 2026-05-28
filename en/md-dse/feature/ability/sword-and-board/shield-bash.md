@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: sword-and-board
 distance: Melee 1
 feature_type: ability
 file_basename: shield-bash
@@ -12,6 +11,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: sword-and-board
 name: Shield Bash
 scc: mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash
 source: mcdm.heroes.v1
@@ -32,13 +32,13 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: sword-and-board
     distance: Melee 1
     flavor: In your hands, a shield isn't just for protection.
     keywords:
         - Melee
         - Strike
         - Weapon
+    kit: sword-and-board
     name: Shield Bash
     scc: mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash
     subtype: signature

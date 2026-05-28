@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: whirlwind
 distance: Melee 3
 feature_type: ability
 file_basename: extension-of-my-arm
@@ -12,6 +11,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: whirlwind
 name: Extension of My Arm
 scc: mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm
 source: mcdm.heroes.v1
@@ -32,13 +32,13 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: whirlwind
     distance: Melee 3
     flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
     keywords:
         - Melee
         - Strike
         - Weapon
+    kit: whirlwind
     name: Extension of My Arm
     scc: mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm
     subtype: signature

@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: corven
 distance: 1 burst
 effect: You can shift up to 2 squares before or after making the power roll.
 feature_type: ability
@@ -13,6 +12,7 @@ keywords:
     - Area
     - Melee
     - Weapon
+kit: corven
 name: Wing Buffet
 power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.corven/wing-buffet
@@ -41,7 +41,6 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    class: corven
     distance: 1 burst
     effect: You can shift up to 2 squares before or after making the power roll.
     flavor: Foes who try to close in around you do so at their peril.
@@ -49,6 +48,7 @@ metadata:
         - Area
         - Melee
         - Weapon
+    kit: corven
     name: Wing Buffet
     power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.corven/wing-buffet
