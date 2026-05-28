@@ -5,7 +5,7 @@ cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
 distance: Melee 3
-effect: On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+effect: On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
 feature_type: ability
 file_basename: demon-door
 file_dpath: feature/ability/shadow/level-9
@@ -33,7 +33,7 @@ type: ability
 cost: 11 Insight
 distance: Melee 3
 effects:
-    - effect: On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+    - effect: On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
     - roll: Power Roll + Agility
       tier1: 13 + A corruption damage; push 3
       tier2: 18 + A corruption damage; push 5
@@ -50,7 +50,7 @@ metadata:
     class: shadow
     cost: 11 Insight
     distance: Melee 3
-    effect: On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+    effect: On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
     flavor: You create a temporary portal to allow a massive demonic hand to reach through.
     keywords:
         - Magic

@@ -2,9 +2,9 @@ ability_type: Signature
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: 2 + R corruption damage; R < WEAK, slowed (save ends)
-      tier2: 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-      tier3: 6 + R corruption damage; R < STRONG, slowed (save ends)
+      tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 feature_type: ability
 flavor: You inflict pain and doubt in equal measure.
 keywords:
@@ -16,7 +16,7 @@ metadata:
     ability_type: Signature
     action_type: Main action
     class: elementalist
-    content: "\n*You inflict pain and doubt in equal measure.*\n\n| **Magic, Ranged, Strike, Void** |               **Main action** | \n|---------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                | **\U0001F3AF One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)\n- **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)\n- **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)"
+    content: "\n*You inflict pain and doubt in equal measure.*\n\n| **Magic, Ranged, Strike, Void** |               **Main action** | \n|---------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                | **\U0001F3AF One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
     distance: Ranged 10
     feature_type: ability
     flavor: You inflict pain and doubt in equal measure.

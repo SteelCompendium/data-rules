@@ -5,7 +5,7 @@ cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
 distance: Ranged 10
-effect: While restrained this way, the target takes 10 damage at the start of each of your turns.
+effect: While [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, the target takes 10 damage at the start of each of your turns.
 feature_type: ability
 file_basename: thorn-cage
 file_dpath: feature/ability/conduit/level-9
@@ -22,9 +22,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/thorn-cage
 source: mcdm.heroes.v1
 target: One creature
-tier1: 10 + I damage; A < WEAK, restrained (save ends)
-tier2: 15 + I damage; A < AVERAGE, restrained (save ends)
-tier3: 21 + I damage; A < STRONG, restrained (save ends)
+tier1: 10 + I damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier2: 15 + I damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier3: 21 + I damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 type: ability
 ---
 
@@ -32,11 +32,11 @@ type: ability
 cost: 11 Piety
 distance: Ranged 10
 effects:
-    - effect: While restrained this way, the target takes 10 damage at the start of each of your turns.
+    - effect: While [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, the target takes 10 damage at the start of each of your turns.
     - roll: Power Roll + Intuition
-      tier1: 10 + I damage; A < WEAK, restrained (save ends)
-      tier2: 15 + I damage; A < AVERAGE, restrained (save ends)
-      tier3: 21 + I damage; A < STRONG, restrained (save ends)
+      tier1: 10 + I damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier2: 15 + I damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier3: 21 + I damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 feature_type: ability
 flavor: Vines burst forth from the ground and bind your foe, slowly closing around them.
 keywords:
@@ -48,7 +48,7 @@ metadata:
     class: conduit
     cost: 11 Piety
     distance: Ranged 10
-    effect: While restrained this way, the target takes 10 damage at the start of each of your turns.
+    effect: While [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, the target takes 10 damage at the start of each of your turns.
     flavor: Vines burst forth from the ground and bind your foe, slowly closing around them.
     keywords:
         - Magic
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-9/thorn-cage
     target: One creature
-    tier1: 10 + I damage; A < WEAK, restrained (save ends)
-    tier2: 15 + I damage; A < AVERAGE, restrained (save ends)
-    tier3: 21 + I damage; A < STRONG, restrained (save ends)
+    tier1: 10 + I damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+    tier2: 15 + I damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+    tier3: 21 + I damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
     type: ability
 name: Thorn Cage
 target: One creature

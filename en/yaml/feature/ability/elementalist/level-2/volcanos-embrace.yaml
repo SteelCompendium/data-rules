@@ -2,9 +2,9 @@ cost: 5 Essence
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: 5 + R fire damage; A < WEAK, restrained (save ends)
-      tier2: 9 + R fire damage; A < AVERAGE, restrained (save ends)
-      tier3: 12 + R fire damage; A < STRONG, restrained (save ends)
+      tier1: 5 + R fire damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier2: 9 + R fire damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier3: 12 + R fire damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 feature_type: ability
 flavor: Wrap them up in fire and melting stone.
 keywords:
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: elementalist
-    content: "\n*Wrap them up in fire and melting stone.*\n\n| **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |\n|----------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                       | **\U0001F3AF One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 5 + R fire damage; A < WEAK, restrained (save ends)\n- **12-16:** 9 + R fire damage; A < AVERAGE, restrained (save ends)\n- **17+:** 12 + R fire damage; A < STRONG, restrained (save ends)"
+    content: "\n*Wrap them up in fire and melting stone.*\n\n| **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |\n|----------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                       | **\U0001F3AF One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 5 + R fire damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 12 + R fire damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
     distance: Ranged 10
     feature_type: ability
     flavor: Wrap them up in fire and melting stone.

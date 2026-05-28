@@ -20,9 +20,9 @@ scc: mcdm.heroes.v1/feature.ability.null.level-1/pressure-points
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; A < WEAK, weakened (save ends)
-tier2: 7 + A damage; A < AVERAGE, weakened (save ends)
-tier3: 9 + A damage; A < STRONG, weakened (save ends)
+tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -30,9 +30,9 @@ type: ability
 distance: Melee 1
 effects:
     - roll: Power Roll + Agility
-      tier1: 4 + A damage; A < WEAK, weakened (save ends)
-      tier2: 7 + A damage; A < AVERAGE, weakened (save ends)
-      tier3: 9 + A damage; A < STRONG, weakened (save ends)
+      tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: You strike at key nerve clusters to leave your foe staggered.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.null.level-1/pressure-points
     subtype: signature
     target: One creature or object
-    tier1: 4 + A damage; A < WEAK, weakened (save ends)
-    tier2: 7 + A damage; A < AVERAGE, weakened (save ends)
-    tier3: 9 + A damage; A < STRONG, weakened (save ends)
+    tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Pressure Points
 target: One creature or object

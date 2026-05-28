@@ -1,7 +1,7 @@
 cost: 9 Piety
 distance: 4 aura
 effects:
-    - effect: Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores stability for your allies.
+    - effect: Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability for your allies.
       name: Effect
 feature_type: ability
 flavor: A whirlwind of souls of the dead flies around you at your command.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: conduit
-    content: "\n*A whirlwind of souls of the dead flies around you at your command.*\n\n| **Area, Magic**  |                     **Maneuver** |\n|------------------|---------------------------------:|\n| **\U0001F4CF 4 aura**    | **\U0001F3AF Each creature in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores stability for your allies."
+    content: "\n*A whirlwind of souls of the dead flies around you at your command.*\n\n| **Area, Magic**  |                     **Maneuver** |\n|------------------|---------------------------------:|\n| **\U0001F4CF 4 aura**    | **\U0001F3AF Each creature in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability for your allies."
     distance: 4 aura
     feature_type: ability
     flavor: A whirlwind of souls of the dead flies around you at your command.

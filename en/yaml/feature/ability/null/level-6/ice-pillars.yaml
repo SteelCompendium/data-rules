@@ -5,7 +5,7 @@ effects:
       tier1: Vertical slide 6
       tier2: Vertical slide 8
       tier3: Vertical slide 10
-    - effect: The pillars vanish as soon as the effects of the forced movement are resolved.
+    - effect: The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved.
       name: Effect
 feature_type: ability
 flavor: Pillars of ice erupt from the ground and launch your foes into the air.
@@ -15,7 +15,7 @@ keywords:
 metadata:
     action_type: Main action
     class: "null"
-    content: "\n*Pillars of ice erupt from the ground and launch your foes into the air.*\n\n| **Psionic, Ranged** |                   **Main action** |\n|---------------------|----------------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF Three creatures or objects** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** Vertical slide 6\n- **12-16:** Vertical slide 8\n- **17+:** Vertical slide 10\n\n**Effect:** The pillars vanish as soon as the effects of the forced movement are resolved."
+    content: "\n*Pillars of ice erupt from the ground and launch your foes into the air.*\n\n| **Psionic, Ranged** |                   **Main action** |\n|---------------------|----------------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF Three creatures or objects** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** Vertical slide 6\n- **12-16:** Vertical slide 8\n- **17+:** Vertical slide 10\n\n**Effect:** The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved."
     distance: Ranged 10
     feature_type: ability
     flavor: Pillars of ice erupt from the ground and launch your foes into the air.

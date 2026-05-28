@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: "*Thorny vines erupt from every surface and attempt to bind your foe.*\n\n| **Magic, Ranged, Strike** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**          |           **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 2 + M or A damage; A < WEAK, slowed (save ends)\n- **12-16:** 3 + M or A damage; A < AVERAGE, slowed (save ends)\n- **17+:** 5 + M or A damage; A < STRONG, restrained (save ends)"
+    - effect: "*Thorny vines erupt from every surface and attempt to bind your foe.*\n\n| **Magic, Ranged, Strike** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**          |           **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 2 + M or A damage; A < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 5 + M or A damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
 feature_type: ability
 flavor: Thorny vines erupt from every surface and attempt to bind your foe.
 keywords:

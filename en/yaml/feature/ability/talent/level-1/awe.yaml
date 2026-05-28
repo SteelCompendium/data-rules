@@ -2,9 +2,9 @@ cost: 3 Clarity
 distance: Ranged 10
 effects:
     - roll: Power Roll + Presence
-      tier1: 3 + P psychic damage; I < WEAK, frightened (save ends)
-      tier2: 6 + P psychic damage; I < AVERAGE, frightened (save ends)
-      tier3: 9 + P psychic damage; I < STRONG, frightened (save ends)
+      tier1: 3 + P psychic damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: 6 + P psychic damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: 9 + P psychic damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
     - effect: If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
       name: Effect
 feature_type: ability
@@ -17,7 +17,7 @@ keywords:
 metadata:
     action_type: Main action
     class: talent
-    content: "\n*You project psionic energy out to a creature and take on a new visage in their mind.*\n\n| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |\n|----------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                       | **\U0001F3AF One creature** |\n\n**Effect:** If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.\n\n**Power Roll + Presence:**\n\n- **≤11:** 3 + P psychic damage; I < WEAK, frightened (save ends)\n- **12-16:** 6 + P psychic damage; I < AVERAGE, frightened (save ends)\n- **17+:** 9 + P psychic damage; I < STRONG, frightened (save ends)"
+    content: "\n*You project psionic energy out to a creature and take on a new visage in their mind.*\n\n| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |\n|----------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                       | **\U0001F3AF One creature** |\n\n**Effect:** If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.\n\n**Power Roll + Presence:**\n\n- **≤11:** 3 + P psychic damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 9 + P psychic damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
     distance: Ranged 10
     feature_type: ability
     flavor: You project psionic energy out to a creature and take on a new visage in their mind.

@@ -3,9 +3,9 @@ cost: 9 Focus
 distance: Melee 1
 effects:
     - roll: Power Roll + Might
-      tier1: A < WEAK, dazed (save ends)
-      tier2: A < AVERAGE, dazed (save ends)
-      tier3: A < STRONG, dazed (save ends)
+      tier1: A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     - effect: The target takes half the damage. You then make a power roll against the triggering creature.
       name: Effect
 feature_type: ability
@@ -17,7 +17,7 @@ metadata:
     ability_type: Triggered
     action_type: Free triggered
     class: tactician
-    content: "\n*You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.*\n\n| **Melee, Weapon** | **Free triggered** |\n| ------------------------------------|-------------------:|\n| **\U0001F4CF Melee 1**                   |    **\U0001F3AF One ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.\n\n**Power Roll + Might:**\n\n- **≤11:** A < WEAK, dazed (save ends)\n- **12-16:** A < AVERAGE, dazed (save ends)\n- **17+:** A < STRONG, dazed (save ends)"
+    content: "\n*You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.*\n\n| **Melee, Weapon** | **Free triggered** |\n| ------------------------------------|-------------------:|\n| **\U0001F4CF Melee 1**                   |    **\U0001F3AF One ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.\n\n**Power Roll + Might:**\n\n- **≤11:** A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
     distance: Melee 1
     feature_type: ability
     flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.

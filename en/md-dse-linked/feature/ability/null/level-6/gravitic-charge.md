@@ -5,7 +5,7 @@ cost: 9 Discipline
 cost_amount: "9"
 cost_resource: Discipline
 distance: Self
-effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
 feature_type: ability
 file_basename: gravitic-charge
 file_dpath: feature/ability/null/level-6
@@ -30,7 +30,7 @@ type: ability
 cost: 9 Discipline
 distance: Self
 effects:
-    - effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+    - effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
     - roll: Power Roll + Intuition
       tier1: Vertical slide 5
       tier2: Vertical slide 7
@@ -44,7 +44,7 @@ metadata:
     class: "null"
     cost: 9 Discipline
     distance: Self
-    effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+    effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
     flavor: You channel your discipline into momentum that defies gravity.
     keywords:
         - Psionic

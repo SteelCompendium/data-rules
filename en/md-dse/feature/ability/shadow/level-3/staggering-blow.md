@@ -22,9 +22,9 @@ power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow
 source: mcdm.heroes.v1
 target: One creature
-tier1: 7 + A damage; M < WEAK, slowed (save ends)
-tier2: 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-tier3: 16 + A damage; M < STRONG, prone and can't stand (save ends)
+tier1: 7 + A damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 11 + A damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+tier3: 16 + A damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
 type: ability
 ---
 
@@ -33,9 +33,9 @@ cost: 7 Insight
 distance: Melee 1 or ranged 5
 effects:
     - roll: Power Roll + Agility
-      tier1: 7 + A damage; M < WEAK, slowed (save ends)
-      tier2: 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-      tier3: 16 + A damage; M < STRONG, prone and can't stand (save ends)
+      tier1: 7 + A damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 11 + A damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+      tier3: 16 + A damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
 feature_type: ability
 flavor: There's no recovering from this.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow
     target: One creature
-    tier1: 7 + A damage; M < WEAK, slowed (save ends)
-    tier2: 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-    tier3: 16 + A damage; M < STRONG, prone and can't stand (save ends)
+    tier1: 7 + A damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier2: 11 + A damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+    tier3: 16 + A damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
     type: ability
 name: Staggering Blow
 target: One creature

@@ -21,9 +21,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/curse-of-terror
 source: mcdm.heroes.v1
 target: One creature
-tier1: 6 + I holy damage; I < WEAK, frightened (save ends)
-tier2: 9 + I holy damage; I < AVERAGE, frightened (save ends)
-tier3: 13 + I holy damage; I < STRONG, frightened (save ends)
+tier1: 6 + I holy damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: 9 + I holy damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: 13 + I holy damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 5 Piety
 distance: Ranged 10
 effects:
     - roll: Power Roll + Intuition
-      tier1: 6 + I holy damage; I < WEAK, frightened (save ends)
-      tier2: 9 + I holy damage; I < AVERAGE, frightened (save ends)
-      tier3: 13 + I holy damage; I < STRONG, frightened (save ends)
+      tier1: 6 + I holy damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: 9 + I holy damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: 13 + I holy damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 feature_type: ability
 flavor: Fear of divine judgment overwhelms your foe.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/curse-of-terror
     target: One creature
-    tier1: 6 + I holy damage; I < WEAK, frightened (save ends)
-    tier2: 9 + I holy damage; I < AVERAGE, frightened (save ends)
-    tier3: 13 + I holy damage; I < STRONG, frightened (save ends)
+    tier1: 6 + I holy damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier2: 9 + I holy damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier3: 13 + I holy damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
     type: ability
 name: Curse of Terror
 target: One creature

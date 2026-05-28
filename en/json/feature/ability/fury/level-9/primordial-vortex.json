@@ -9,7 +9,7 @@
       "tier3": "8 damage; vertical pull 7"
     },
     {
-      "effect": "If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.",
+      "effect": "If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.",
       "name": "Effect"
     }
   ],
@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "fury",
-    "content": "\n*You channel the power of the Primordial Chaos to pull foes to you.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **📏 3 burst**                 | **🎯 Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 damage; vertical pull 3\n- **12-16:** 5 damage; vertical pull 5\n- **17+:** 8 damage; vertical pull 7\n\n**Effect:** If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.",
+    "content": "\n*You channel the power of the Primordial Chaos to pull foes to you.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **📏 3 burst**                 | **🎯 Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 damage; vertical pull 3\n- **12-16:** 5 damage; vertical pull 5\n- **17+:** 8 damage; vertical pull 7\n\n**Effect:** If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.",
     "distance": "3 burst",
     "feature_type": "ability",
     "flavor": "You channel the power of the Primordial Chaos to pull foes to you.",

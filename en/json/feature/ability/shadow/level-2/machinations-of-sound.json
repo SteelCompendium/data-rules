@@ -9,7 +9,7 @@
       "tier3": "Slide 7"
     },
     {
-      "effect": "This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.",
+      "effect": "This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability. Instead, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is reduced by a number equal to the target's Intuition score.",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "shadow",
-    "content": "\n*Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*\n\n| **Area, Magic, Ranged** |                     **Maneuver** |\n|-------------------------|---------------------------------:|\n| **📏 3 cube within 10** | **🎯 Each creature in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** Slide 4\n- **12-16:** Slide 5\n- **17+:** Slide 7\n\n**Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.",
+    "content": "\n*Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*\n\n| **Area, Magic, Ranged** |                     **Maneuver** |\n|-------------------------|---------------------------------:|\n| **📏 3 cube within 10** | **🎯 Each creature in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** Slide 4\n- **12-16:** Slide 5\n- **17+:** Slide 7\n\n**Effect:** This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability. Instead, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is reduced by a number equal to the target's Intuition score.",
     "distance": "3 cube within 10",
     "feature_type": "ability",
     "flavor": "Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.",

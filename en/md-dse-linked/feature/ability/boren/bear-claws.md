@@ -18,9 +18,9 @@ scc: mcdm.heroes.v1/feature.ability.boren/bear-claws
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 2 + M damage; M < WEAK, grabbed
-tier2: 5 + M damage; M < AVERAGE, grabbed
-tier3: 11 + M damage; M < STRONG, grabbed
+tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier3: 11 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 type: ability
 ---
 
@@ -28,9 +28,9 @@ type: ability
 distance: Melee 1
 effects:
     - roll: Power Roll + Might
-      tier1: 2 + M damage; M < WEAK, grabbed
-      tier2: 5 + M damage; M < AVERAGE, grabbed
-      tier3: 11 + M damage; M < STRONG, grabbed
+      tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier3: 11 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 feature_type: ability
 flavor: Attacks with your sharp and deadly claws grab the weak.
 keywords:
@@ -51,9 +51,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.boren/bear-claws
     subtype: signature
     target: One creature or object
-    tier1: 2 + M damage; M < WEAK, grabbed
-    tier2: 5 + M damage; M < AVERAGE, grabbed
-    tier3: 11 + M damage; M < STRONG, grabbed
+    tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier3: 11 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
     type: ability
 name: Bear Claws
 target: One creature or object

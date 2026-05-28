@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You gain an edge on tests made using the Track skill.
+    - effect: You gain an edge on tests made using the [Track](../../../../skill/track.md) skill.
 feature_type: trait
 metadata:
     class: fury

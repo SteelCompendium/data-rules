@@ -4,9 +4,9 @@
   "effects": [
     {
       "roll": "Power Roll + Might",
-      "tier1": "4 + M damage; A \u003c WEAK, prone",
-      "tier2": "7 + M damage; A \u003c AVERAGE, prone",
-      "tier3": "9 + M damage; A \u003c STRONG, prone"
+      "tier1": "4 + M damage; A \u003c WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)",
+      "tier2": "7 + M damage; A \u003c AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)",
+      "tier3": "9 + M damage; A \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)"
     }
   ],
   "feature_type": "ability",
@@ -19,7 +19,7 @@
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
-    "content": "*A wild assault forces your foe onto their back.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 4 + M damage; A \u003c WEAK, prone\n- **12-16:** 7 + M damage; A \u003c AVERAGE, prone\n- **17+:** 9 + M damage; A \u003c STRONG, prone",
+    "content": "*A wild assault forces your foe onto their back.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 4 + M damage; A \u003c WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **12-16:** 7 + M damage; A \u003c AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **17+:** 9 + M damage; A \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "A wild assault forces your foe onto their back.",

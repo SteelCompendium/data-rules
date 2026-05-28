@@ -25,7 +25,7 @@ source: mcdm.heroes.v1
 target: Two enemies
 tier1: 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
 tier2: 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
-tier3: 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
+tier3: 7 damage; if the target has R < STRONG, before the damage is resolved, they can [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed and use a main action ability of your choice.
 type: ability
 ---
 
@@ -37,7 +37,7 @@ effects:
     - roll: Power Roll + Agility
       tier1: 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
       tier2: 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
-      tier3: 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
+      tier3: 7 damage; if the target has R < STRONG, before the damage is resolved, they can [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed and use a main action ability of your choice.
 feature_type: ability
 flavor: You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.
 keywords:
@@ -64,7 +64,7 @@ metadata:
     target: Two enemies
     tier1: 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
     tier2: 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
-    tier3: 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
+    tier3: 7 damage; if the target has R < STRONG, before the damage is resolved, they can [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed and use a main action ability of your choice.
     type: ability
 name: Puppet Strings
 target: Two enemies

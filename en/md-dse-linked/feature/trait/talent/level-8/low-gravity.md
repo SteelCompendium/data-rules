@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while prone.
+    - effect: Your mind can carry your body through tough times. You ignore [difficult terrain](../../../../movement/difficult-terrain.md) and don't need to spend additional movement [while prone](../../../../condition/prone.md).
 feature_type: trait
 metadata:
     class: talent

@@ -2,9 +2,9 @@ cost: 9 Piety
 distance: Ranged 5
 effects:
     - roll: Power Roll + Intuition
-      tier1: 8 + I damage; A < WEAK, prone and restrained (save ends)
-      tier2: 12 + I damage; A < AVERAGE, prone and restrained (save ends)
-      tier3: 16 + I damage; A < STRONG, prone and restrained (save ends)
+      tier1: 8 + I damage; A < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier2: 12 + I damage; A < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier3: 16 + I damage; A < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 feature_type: ability
 flavor: A greatsword streams down from the sky, threatening to pin your foe.
 keywords:
@@ -14,7 +14,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*A greatsword streams down from the sky, threatening to pin your foe.*\n\n| **Magic, Ranged, Strike**  |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 8 + I damage; A < WEAK, prone and restrained (save ends)\n- **12-16:** 12 + I damage; A < AVERAGE, prone and restrained (save ends)\n- **17+:** 16 + I damage; A < STRONG, prone and restrained (save ends)"
+    content: "\n*A greatsword streams down from the sky, threatening to pin your foe.*\n\n| **Magic, Ranged, Strike**  |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 8 + I damage; A < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 12 + I damage; A < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 16 + I damage; A < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
     distance: Ranged 5
     feature_type: ability
     flavor: A greatsword streams down from the sky, threatening to pin your foe.

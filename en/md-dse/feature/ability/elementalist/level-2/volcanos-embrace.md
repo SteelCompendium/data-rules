@@ -23,9 +23,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/volcanos-embrace
 source: mcdm.heroes.v1
 target: One creature
-tier1: 5 + R fire damage; A < WEAK, restrained (save ends)
-tier2: 9 + R fire damage; A < AVERAGE, restrained (save ends)
-tier3: 12 + R fire damage; A < STRONG, restrained (save ends)
+tier1: 5 + R fire damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier2: 9 + R fire damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier3: 12 + R fire damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 type: ability
 ---
 
@@ -34,9 +34,9 @@ cost: 5 Essence
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: 5 + R fire damage; A < WEAK, restrained (save ends)
-      tier2: 9 + R fire damage; A < AVERAGE, restrained (save ends)
-      tier3: 12 + R fire damage; A < STRONG, restrained (save ends)
+      tier1: 5 + R fire damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier2: 9 + R fire damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier3: 12 + R fire damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 feature_type: ability
 flavor: Wrap them up in fire and melting stone.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/volcanos-embrace
     target: One creature
-    tier1: 5 + R fire damage; A < WEAK, restrained (save ends)
-    tier2: 9 + R fire damage; A < AVERAGE, restrained (save ends)
-    tier3: 12 + R fire damage; A < STRONG, restrained (save ends)
+    tier1: 5 + R fire damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+    tier2: 9 + R fire damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+    tier3: 12 + R fire damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
     type: ability
 name: Volcano's Embrace
 target: One creature

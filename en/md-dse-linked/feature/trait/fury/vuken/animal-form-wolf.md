@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore difficult terrain.
+    - effect: While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../../../../movement/difficult-terrain.md).
 feature_type: trait
 metadata:
     class: fury

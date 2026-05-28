@@ -1,7 +1,7 @@
 cost: 5 Drama
 distance: 3 burst
 effects:
-    - effect: Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.
+    - effect: Each target can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares. Any [teleport](scc:mcdm.heroes.v1/movement/teleport)ed target who was [slowed](scc:mcdm.heroes.v1/condition/slowed) is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed).
       name: Effect
 feature_type: ability
 flavor: You try a different take on events, justifying the new locations everyone ended up in.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Main action
     class: troubadour
-    content: "\n*You try a different take on events, justifying the new locations everyone ended up in.*\n\n| **Area, Magic** |                       **Main action** |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 3 burst**  | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed."
+    content: "\n*You try a different take on events, justifying the new locations everyone ended up in.*\n\n| **Area, Magic** |                       **Main action** |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 3 burst**  | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Each target can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares. Any [teleport](scc:mcdm.heroes.v1/movement/teleport)ed target who was [slowed](scc:mcdm.heroes.v1/condition/slowed) is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed)."
     distance: 3 burst
     feature_type: ability
     flavor: You try a different take on events, justifying the new locations everyone ended up in.

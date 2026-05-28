@@ -3,7 +3,7 @@ ability:
     cost: 3 Clarity
     distance: Ranged 10
     effects:
-        - effect: The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+        - effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
           name: Effect
     feature_type: ability
     flavor: You freeze time just long enough to bring the victim to safety!
@@ -13,7 +13,7 @@ ability:
     metadata:
         ability_type: Triggered
         action_type: Triggered
-        content: "\n*You freeze time just long enough to bring the victim to safety!*\n\n| **Psionic, Ranged** |                          **Triggered** |\n|---------------------|---------------------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF Self, or one creature or object** |\n\n**Trigger:** The target takes damage.\n\n**Effect:** The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.\n\n**Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target."
+        content: "\n*You freeze time just long enough to bring the victim to safety!*\n\n| **Psionic, Ranged** |                          **Triggered** |\n|---------------------|---------------------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF Self, or one creature or object** |\n\n**Trigger:** The target takes damage.\n\n**Effect:** The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.\n\n**Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target."
         distance: Ranged 10
         feature_type: ability
         flavor: You freeze time just long enough to bring the victim to safety!

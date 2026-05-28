@@ -16,8 +16,8 @@ scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
 source: mcdm.heroes.v1
 target: One creature
 tier1: No effect.
-tier2: You can grab the target, but if you do, the target can make a melee free strike against you before they are grabbed.
-tier3: The target is grabbed by you.
+tier2: You can grab the target, but if you do, the target can make a melee free strike against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
+tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
 type: ability
 ---
 
@@ -27,8 +27,8 @@ effects:
     - effect: You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
     - roll: Power Roll + Might
       tier1: No effect.
-      tier2: You can grab the target, but if you do, the target can make a melee free strike against you before they are grabbed.
-      tier3: The target is grabbed by you.
+      tier2: You can grab the target, but if you do, the target can make a melee free strike against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
+      tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
 feature_type: ability
 keywords:
     - Melee
@@ -45,8 +45,8 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
     target: One creature
     tier1: No effect.
-    tier2: You can grab the target, but if you do, the target can make a melee free strike against you before they are grabbed.
-    tier3: The target is grabbed by you.
+    tier2: You can grab the target, but if you do, the target can make a melee free strike against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
+    tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
     type: ability
 name: Grab
 target: One creature

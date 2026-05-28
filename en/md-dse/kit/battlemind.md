@@ -46,12 +46,12 @@ You wear light armor and wield a medium weapon.
 - **12-16:** 8 + M, R, I, or P damage
 - **17+:** 11 + M, R, I, or P damage
 
-**Effect:** Until the end of the target's next turn, any forced movement that affects the target has its distance increased by 2.
+**Effect:** Until the end of the target's next turn, any [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) that affects the target has its distance increased by 2.
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: Until the end of the target's next turn, any forced movement that affects the target has its distance increased by 2.
+    - effect: Until the end of the target's next turn, any [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) that affects the target has its distance increased by 2.
 feature_type: ability
 flavor: Your weapon unleashes psionic energy that reduces your target's weight.
 keywords:
@@ -62,7 +62,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: Melee 1
-    effect: Until the end of the target's next turn, any forced movement that affects the target has its distance increased by 2.
+    effect: Until the end of the target's next turn, any [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) that affects the target has its distance increased by 2.
     flavor: Your weapon unleashes psionic energy that reduces your target's weight.
     keywords:
         - Melee

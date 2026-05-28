@@ -5,7 +5,7 @@ cost: 9 Insight
 cost_amount: "9"
 cost_resource: Insight
 distance: Melee 1
-effect: A creature force moved by this ability must be moved straight upward.
+effect: A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward.
 feature_type: ability
 file_basename: black-ash-eruption
 file_dpath: feature/ability/shadow/level-6
@@ -33,7 +33,7 @@ type: ability
 cost: 9 Insight
 distance: Melee 1
 effects:
-    - effect: A creature force moved by this ability must be moved straight upward.
+    - effect: A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward.
     - roll: Power Roll + Agility
       tier1: 3 + A damage; vertical push 5
       tier2: 6 + A damage; vertical push 10
@@ -50,7 +50,7 @@ metadata:
     class: shadow
     cost: 9 Insight
     distance: Melee 1
-    effect: A creature force moved by this ability must be moved straight upward.
+    effect: A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward.
     flavor: Your attack produces a cloud of black ash that launches an enemy into the air.
     keywords:
         - Magic

@@ -13,7 +13,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: When a creature takes the Disengage move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they disengage. A creature who does so can break up their shift with their maneuver and main action however they wish.
+    - effect: When a creature takes the Disengage move action, they can [shift](../../../../movement/shifting.md) 1 square. Certain class features, kits, and other rules allow a creature to [shift](../../../../movement/shifting.md) more than 1 square when they disengage. A creature who does so can break up their [shift](../../../../movement/shifting.md) with their maneuver and main action however they wish.
 feature_type: trait
 metadata:
     name: Disengage

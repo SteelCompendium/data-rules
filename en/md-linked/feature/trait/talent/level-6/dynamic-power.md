@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-6/dynamic-power
 type: trait
 ---
 
-If the ability force moves a target, the forced movement distance gains a bonus equal to your Reason score.
+If the ability force moves a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Reason score.

@@ -2,7 +2,7 @@
 action_type: Triggered
 class: fury
 distance: Self
-effect: You take half the damage from the triggering effect and can shift up to a number of squares equal to your Agility score.
+effect: You take half the damage from the triggering effect and can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your Agility score.
 feature_type: ability
 file_basename: unearthly-reflexes
 file_dpath: feature/ability/fury/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Self
 effects:
-    - effect: You take half the damage from the triggering effect and can shift up to a number of squares equal to your Agility score.
+    - effect: You take half the damage from the triggering effect and can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your Agility score.
     - effect: '1 Ferocity: If the damage has any potency effects associated with it, the potency is reduced by 1 for you.'
       name: Spend
 feature_type: ability
@@ -36,7 +36,7 @@ metadata:
     action_type: Triggered
     class: fury
     distance: Self
-    effect: You take half the damage from the triggering effect and can shift up to a number of squares equal to your Agility score.
+    effect: You take half the damage from the triggering effect and can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your Agility score.
     flavor: You are as elusive as a hummingbird.
     keywords:
         - '-'

@@ -43,12 +43,12 @@ You wear heavy armor and wield a shield and a medium weapon.
 - **12-16:** 8 + M or A damage
 - **17+:** 11 + M or A damage
 
-**Effect:** The target is taunted until the end of their next turn.
+**Effect:** The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn.
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: The target is taunted until the end of their next turn.
+    - effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn.
 feature_type: ability
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
 keywords:
@@ -58,7 +58,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: Melee 1
-    effect: The target is taunted until the end of their next turn.
+    effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn.
     flavor: The strength of your assault makes it impossible for your foe to ignore you.
     keywords:
         - Melee

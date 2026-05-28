@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: If the ability force moves a target, the forced movement distance gains a bonus equal to your Reason score.
+    - effect: If the ability force moves a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
 feature_type: trait
 metadata:
     class: talent

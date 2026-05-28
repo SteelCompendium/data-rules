@@ -1,7 +1,7 @@
 cost: 7 Wrath
 distance: 2 aura
 effects:
-    - effect: Until the end of the encounter or until you are dying, whenever a target moves or is force moved out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+    - effect: Until the end of the encounter or until you are dying, whenever a target moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
       name: Effect
 feature_type: ability
 flavor: The holy aura you project makes it painful for evil-doers to leave your reach.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: censor
-    content: "\n*The holy aura you project makes it painful for evil-doers to leave your reach.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 aura**   | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever a target moves or is force moved out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage."
+    content: "\n*The holy aura you project makes it painful for evil-doers to leave your reach.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 aura**   | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever a target moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage."
     distance: 2 aura
     feature_type: ability
     flavor: The holy aura you project makes it painful for evil-doers to leave your reach.

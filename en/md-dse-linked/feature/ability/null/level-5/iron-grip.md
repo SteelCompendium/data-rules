@@ -5,7 +5,7 @@ cost: 9 Discipline
 cost_amount: "9"
 cost_resource: Discipline
 distance: Melee 1
-effect: While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 feature_type: ability
 file_basename: iron-grip
 file_dpath: feature/ability/null/level-5
@@ -23,9 +23,9 @@ power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-5/iron-grip
 source: mcdm.heroes.v1
 target: One creature
-tier1: 10 + A damage; A < WEAK, grabbed
-tier2: 14 + A damage; A < AVERAGE, grabbed
-tier3: 18 + A damage; A < STRONG, grabbed
+tier1: 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier2: 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier3: 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 type: ability
 ---
 
@@ -33,11 +33,11 @@ type: ability
 cost: 9 Discipline
 distance: Melee 1
 effects:
-    - effect: While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+    - effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
     - roll: Power Roll + Agility
-      tier1: 10 + A damage; A < WEAK, grabbed
-      tier2: 14 + A damage; A < AVERAGE, grabbed
-      tier3: 18 + A damage; A < STRONG, grabbed
+      tier1: 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier2: 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier3: 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 feature_type: ability
 flavor: You grab the target with supernatural force.
 keywords:
@@ -50,7 +50,7 @@ metadata:
     class: "null"
     cost: 9 Discipline
     distance: Melee 1
-    effect: While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+    effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
     flavor: You grab the target with supernatural force.
     keywords:
         - Melee
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.null.level-5/iron-grip
     target: One creature
-    tier1: 10 + A damage; A < WEAK, grabbed
-    tier2: 14 + A damage; A < AVERAGE, grabbed
-    tier3: 18 + A damage; A < STRONG, grabbed
+    tier1: 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier2: 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier3: 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
     type: ability
 name: Iron Grip
 target: One creature

@@ -9,7 +9,7 @@
       "tier3": "11 + A fire damage; vertical push 15"
     },
     {
-      "effect": "The ground beneath a 3-cube area around the target's starting position is difficult terrain.",
+      "effect": "The ground beneath a 3-cube area around the target's starting position is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*\n\n| **Melee, Ranged, Strike**   |               **Main action** |\n|-----------------------------|------------------------------:|\n| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A fire damage; vertical push 8\n- **12-16:** 7 + A fire damage; vertical push 10\n- **17+:** 11 + A fire damage; vertical push 15\n\n**Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.",
+    "content": "\n*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*\n\n| **Melee, Ranged, Strike**   |               **Main action** |\n|-----------------------------|------------------------------:|\n| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A fire damage; vertical push 8\n- **12-16:** 7 + A fire damage; vertical push 10\n- **17+:** 11 + A fire damage; vertical push 15\n\n**Effect:** The ground beneath a 3-cube area around the target's starting position is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).",
     "distance": "Melee 1 or ranged 10",
     "feature_type": "ability",
     "flavor": "You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.",

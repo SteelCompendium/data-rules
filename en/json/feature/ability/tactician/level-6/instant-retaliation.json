@@ -5,9 +5,9 @@
   "effects": [
     {
       "roll": "Power Roll + Might",
-      "tier1": "A \u003c WEAK, dazed (save ends)",
-      "tier2": "A \u003c AVERAGE, dazed (save ends)",
-      "tier3": "A \u003c STRONG, dazed (save ends)"
+      "tier1": "A \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier2": "A \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier3": "A \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
     },
     {
       "effect": "The target takes half the damage. You then make a power roll against the triggering creature.",
@@ -24,7 +24,7 @@
     "ability_type": "Triggered",
     "action_type": "Free triggered",
     "class": "tactician",
-    "content": "\n*You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.*\n\n| **Melee, Weapon** | **Free triggered** |\n| ------------------------------------|-------------------:|\n| **📏 Melee 1**                   |    **🎯 One ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.\n\n**Power Roll + Might:**\n\n- **≤11:** A \u003c WEAK, dazed (save ends)\n- **12-16:** A \u003c AVERAGE, dazed (save ends)\n- **17+:** A \u003c STRONG, dazed (save ends)",
+    "content": "\n*You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.*\n\n| **Melee, Weapon** | **Free triggered** |\n| ------------------------------------|-------------------:|\n| **📏 Melee 1**                   |    **🎯 One ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.\n\n**Power Roll + Might:**\n\n- **≤11:** A \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** A \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** A \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.",

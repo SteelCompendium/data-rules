@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: 1 burst
-effect: You can shift up to 2 squares before or after making the power roll.
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares before or after making the power roll.
 feature_type: ability
 file_basename: wing-buffet
 file_dpath: feature/ability/corven
@@ -28,7 +28,7 @@ type: ability
 ```ds-feature
 distance: 1 burst
 effects:
-    - effect: You can shift up to 2 squares before or after making the power roll.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares before or after making the power roll.
     - roll: Power Roll + Agility
       tier1: 3 damage
       tier2: 6 damage
@@ -42,7 +42,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: 1 burst
-    effect: You can shift up to 2 squares before or after making the power roll.
+    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares before or after making the power roll.
     flavor: Foes who try to close in around you do so at their peril.
     keywords:
         - Area

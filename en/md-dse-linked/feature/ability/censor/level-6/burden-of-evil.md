@@ -21,9 +21,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
 source: mcdm.heroes.v1
 target: Three enemies
-tier1: Slide 3; I < WEAK, dazed (save ends)
-tier2: Slide 5; I < AVERAGE, dazed (save ends)
-tier3: Slide 7; I < STRONG, dazed (save ends)
+tier1: Slide 3; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier2: Slide 5; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier3: Slide 7; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 9 Wrath
 distance: Ranged 10
 effects:
     - roll: Power Roll + Presence
-      tier1: Slide 3; I < WEAK, dazed (save ends)
-      tier2: Slide 5; I < AVERAGE, dazed (save ends)
-      tier3: Slide 7; I < STRONG, dazed (save ends)
+      tier1: Slide 3; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: Slide 5; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: Slide 7; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 feature_type: ability
 flavor: You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
     target: Three enemies
-    tier1: Slide 3; I < WEAK, dazed (save ends)
-    tier2: Slide 5; I < AVERAGE, dazed (save ends)
-    tier3: Slide 7; I < STRONG, dazed (save ends)
+    tier1: Slide 3; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier2: Slide 5; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier3: Slide 7; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     type: ability
 name: Burden of Evil
 target: Three enemies

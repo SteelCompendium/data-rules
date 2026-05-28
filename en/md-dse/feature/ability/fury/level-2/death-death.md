@@ -21,9 +21,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/death-death
 source: mcdm.heroes.v1
 target: One creature
-tier1: 3 + M damage; P < WEAK, dazed and frightened (save ends)
-tier2: 5 + M damage; P < AVERAGE, dazed and frightened (save ends)
-tier3: 8 + M damage; P < STRONG, dazed and frightened (save ends)
+tier1: 3 + M damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: 5 + M damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: 8 + M damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 5 Ferocity
 distance: Melee 1
 effects:
     - roll: Power Roll + Might
-      tier1: 3 + M damage; P < WEAK, dazed and frightened (save ends)
-      tier2: 5 + M damage; P < AVERAGE, dazed and frightened (save ends)
-      tier3: 8 + M damage; P < STRONG, dazed and frightened (save ends)
+      tier1: 3 + M damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: 5 + M damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: 8 + M damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 feature_type: ability
 flavor: Your unbridled rage strikes terror in their hearts.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-2/death-death
     target: One creature
-    tier1: 3 + M damage; P < WEAK, dazed and frightened (save ends)
-    tier2: 5 + M damage; P < AVERAGE, dazed and frightened (save ends)
-    tier3: 8 + M damage; P < STRONG, dazed and frightened (save ends)
+    tier1: 3 + M damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier2: 5 + M damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier3: 8 + M damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
     type: ability
 name: Death... Death!
 target: One creature

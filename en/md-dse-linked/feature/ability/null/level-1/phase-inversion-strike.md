@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: Melee 1
-effect: Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can't be teleported this way, you can't push them.
+effect: Before the push is resolved, you [teleport](scc:mcdm.heroes.v1/movement/teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](scc:mcdm.heroes.v1/movement/teleport)ed this way, you can't push them.
 feature_type: ability
 file_basename: phase-inversion-strike
 file_dpath: feature/ability/null/level-1
@@ -30,7 +30,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can't be teleported this way, you can't push them.
+    - effect: Before the push is resolved, you [teleport](scc:mcdm.heroes.v1/movement/teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](scc:mcdm.heroes.v1/movement/teleport)ed this way, you can't push them.
     - roll: Power Roll + Agility
       tier1: 4 + A damage; push 2
       tier2: 6 + A damage; push 4
@@ -46,7 +46,7 @@ metadata:
     action_type: Main action
     class: "null"
     distance: Melee 1
-    effect: Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can't be teleported this way, you can't push them.
+    effect: Before the push is resolved, you [teleport](scc:mcdm.heroes.v1/movement/teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](scc:mcdm.heroes.v1/movement/teleport)ed this way, you can't push them.
     flavor: You step momentarily out of phase as you pull an enemy through you.
     keywords:
         - Melee

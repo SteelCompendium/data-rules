@@ -5,11 +5,11 @@ cost: 9 Insight
 cost_amount: "9"
 cost_resource: Insight
 distance: 4 burst
-effect: Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+effect: Each target can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares. For each target in addition to you who [teleports](scc:mcdm.heroes.v1/movement/teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 feature_type: ability
 file_basename: cinderstorm
 file_dpath: feature/ability/shadow/level-6
-flavor: You teleport your friends in a burst of ash and fire.
+flavor: You [teleport](scc:mcdm.heroes.v1/movement/teleport) your friends in a burst of ash and fire.
 item_id: cinderstorm
 item_name: Cinderstorm
 keywords:
@@ -26,9 +26,9 @@ type: ability
 cost: 9 Insight
 distance: 4 burst
 effects:
-    - effect: Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+    - effect: Each target can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares. For each target in addition to you who [teleports](scc:mcdm.heroes.v1/movement/teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 feature_type: ability
-flavor: You teleport your friends in a burst of ash and fire.
+flavor: You [teleport](scc:mcdm.heroes.v1/movement/teleport) your friends in a burst of ash and fire.
 keywords:
     - Magic
 metadata:
@@ -36,8 +36,8 @@ metadata:
     class: shadow
     cost: 9 Insight
     distance: 4 burst
-    effect: Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
-    flavor: You teleport your friends in a burst of ash and fire.
+    effect: Each target can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares. For each target in addition to you who [teleports](scc:mcdm.heroes.v1/movement/teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+    flavor: You [teleport](scc:mcdm.heroes.v1/movement/teleport) your friends in a burst of ash and fire.
     keywords:
         - Magic
     level: "6"

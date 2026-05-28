@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.
+    - effect: While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](scc:mcdm.heroes.v1/movement/fly).
 feature_type: trait
 metadata:
     class: fury

@@ -4,12 +4,12 @@
   "effects": [
     {
       "roll": "Power Roll + Might",
-      "tier1": "9 + M damage; I \u003c WEAK, weakened (save ends)",
-      "tier2": "13 + M damage; I \u003c AVERAGE, weakened (save ends)",
-      "tier3": "18 + M damage; I \u003c STRONG, weakened (save ends)"
+      "tier1": "9 + M damage; I \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)",
+      "tier2": "13 + M damage; I \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)",
+      "tier3": "18 + M damage; I \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)"
     },
     {
-      "effect": "At the end of each of your turns, a target weakened this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target weakened this way can't be targeted by their allies' abilities.",
+      "effect": "At the end of each of your turns, a target [weakened](scc:mcdm.heroes.v1/condition/weakened) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](scc:mcdm.heroes.v1/condition/weakened) this way can't be targeted by their allies' abilities.",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*You curse your foe to become a bane to their allies.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 9 + M damage; I \u003c WEAK, weakened (save ends)\n- **12-16:** 13 + M damage; I \u003c AVERAGE, weakened (save ends)\n- **17+:** 18 + M damage; I \u003c STRONG, weakened (save ends)\n\n**Effect:** At the end of each of your turns, a target weakened this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target weakened this way can't be targeted by their allies' abilities.",
+    "content": "\n*You curse your foe to become a bane to their allies.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 9 + M damage; I \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 13 + M damage; I \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 18 + M damage; I \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** At the end of each of your turns, a target [weakened](scc:mcdm.heroes.v1/condition/weakened) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](scc:mcdm.heroes.v1/condition/weakened) this way can't be targeted by their allies' abilities.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You curse your foe to become a bane to their allies.",

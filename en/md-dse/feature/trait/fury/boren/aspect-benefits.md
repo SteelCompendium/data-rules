@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature grabbed by you.
+    - effect: Whenever you use [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
 feature_type: trait
 metadata:
     class: fury

@@ -4,8 +4,8 @@ effects:
     - roll: Power Roll + Might
       tier1: 2 + M damage
       tier2: 5 + M damage
-      tier3: 7 + M damage; A < STRONG, slowed (save ends)
-    - effect: You can shift 1 square.
+      tier3: 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square.
       name: Effect
 feature_type: ability
 flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
@@ -17,7 +17,7 @@ metadata:
     ability_type: Signature
     action_type: Main action
     class: fury
-    content: "\n*Staying in constant motion helps you slip out of reach after a brutal assault.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M damage\n- **12-16:** 5 + M damage\n- **17+:** 7 + M damage; A < STRONG, slowed (save ends)\n\n**Effect:** You can shift 1 square."
+    content: "\n*Staying in constant motion helps you slip out of reach after a brutal assault.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M damage\n- **12-16:** 5 + M damage\n- **17+:** 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square."
     distance: Melee 1
     feature_type: ability
     flavor: Staying in constant motion helps you slip out of reach after a brutal assault.

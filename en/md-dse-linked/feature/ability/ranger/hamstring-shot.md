@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: "*A well-placed shot leaves your enemy struggling to move.*\n\n| **Ranged, Strike, Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 3 + M or A damage; A < WEAK, slowed (save ends)\n- **12-16:** 5 + M or A damage; A < AVERAGE, slowed (save ends)\n- **17+:** 7 + M or A damage; A < STRONG, slowed (save ends)"
+    - effect: "*A well-placed shot leaves your enemy struggling to move.*\n\n| **Ranged, Strike, Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)\n- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)\n- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../../condition/slowed.md) (save ends)"
 feature_type: ability
 flavor: A well-placed shot leaves your enemy struggling to move.
 keywords:

@@ -1,10 +1,10 @@
 ability_type: Triggered
 distance: Ranged 10
 effects:
-    - effect: You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+    - effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](scc:mcdm.heroes.v1/movement/teleport) them at any point during the move.
       name: Effect
     - cost: Spend 1 Essence
-      effect: You teleport the target up to a number of squares equal to twice your Reason score instead.
+      effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to a number of squares equal to twice your Reason score instead.
 feature_type: ability
 flavor: You call on the void to swallow and spit out an ally.
 keywords:
@@ -15,7 +15,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: elementalist
-    content: "\n*You call on the void to swallow and spit out an ally.*\n\n| **Magic, Ranged, Void**  |           **Triggered** |\n|--------------------------|------------------------:|\n| **\U0001F4CF Ranged 10**         | **\U0001F3AF Self or one ally** |\n\n**Trigger:** The target starts their turn, moves, or is force moved. \n\n**Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.\n\n**Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead."
+    content: "\n*You call on the void to swallow and spit out an ally.*\n\n| **Magic, Ranged, Void**  |           **Triggered** |\n|--------------------------|------------------------:|\n| **\U0001F4CF Ranged 10**         | **\U0001F3AF Self or one ally** |\n\n**Trigger:** The target starts their turn, moves, or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement). \n\n**Effect:** You [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](scc:mcdm.heroes.v1/movement/teleport) them at any point during the move.\n\n**Spend 1 Essence:** You [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to a number of squares equal to twice your Reason score instead."
     distance: Ranged 10
     feature_type: ability
     flavor: You call on the void to swallow and spit out an ally.
@@ -32,6 +32,6 @@ metadata:
     type: feature/ability/elementalist/level-1
 name: Subtle Relocation
 target: Self or one ally
-trigger: The target starts their turn, moves, or is force moved.
+trigger: The target starts their turn, moves, or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement).
 type: feature
 usage: Triggered

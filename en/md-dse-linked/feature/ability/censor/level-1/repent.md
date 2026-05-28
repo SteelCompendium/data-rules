@@ -21,9 +21,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/repent
 source: mcdm.heroes.v1
 target: One creature
-tier1: 5 + P holy damage; I < WEAK, dazed (save ends)
-tier2: 8 + P holy damage; I < AVERAGE, dazed (save ends)
-tier3: 11 + P holy damage; I < STRONG, dazed (save ends)
+tier1: 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
+tier2: 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
+tier3: 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 3 Wrath
 distance: Ranged 10
 effects:
     - roll: Power Roll + Presence
-      tier1: 5 + P holy damage; I < WEAK, dazed (save ends)
-      tier2: 8 + P holy damage; I < AVERAGE, dazed (save ends)
-      tier3: 11 + P holy damage; I < STRONG, dazed (save ends)
+      tier1: 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
+      tier2: 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
+      tier3: 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
 feature_type: ability
 flavor: You conjure memories of their sins to harry your foes.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/repent
     target: One creature
-    tier1: 5 + P holy damage; I < WEAK, dazed (save ends)
-    tier2: 8 + P holy damage; I < AVERAGE, dazed (save ends)
-    tier3: 11 + P holy damage; I < STRONG, dazed (save ends)
+    tier1: 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
+    tier2: 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
+    tier3: 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)
     type: ability
 name: Repent!
 target: One creature

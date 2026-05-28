@@ -4,12 +4,12 @@
   "effects": [
     {
       "roll": "Power Roll + Agility",
-      "tier1": "7 + A psychic damage; I \u003c WEAK, dazed",
-      "tier2": "10 + A psychic damage; I \u003c AVERAGE, dazed",
-      "tier3": "13 + A psychic damage; I \u003c STRONG, dazed"
+      "tier1": "7 + A psychic damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed)",
+      "tier2": "10 + A psychic damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed)",
+      "tier3": "13 + A psychic damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed)"
     },
     {
-      "effect": "While dazed this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.",
+      "effect": "While [dazed](scc:mcdm.heroes.v1/condition/dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.",
       "name": "Effect"
     }
   ],
@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*Your essential hyperreality disrupts your enemy's connection to existence.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 7 + A psychic damage; I \u003c WEAK, dazed\n- **12-16:** 10 + A psychic damage; I \u003c AVERAGE, dazed\n- **17+:** 13 + A psychic damage; I \u003c STRONG, dazed\n\n**Effect:** While dazed this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.",
+    "content": "\n*Your essential hyperreality disrupts your enemy's connection to existence.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 7 + A psychic damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed)\n- **12-16:** 10 + A psychic damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed)\n- **17+:** 13 + A psychic damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed)\n\n**Effect:** While [dazed](scc:mcdm.heroes.v1/condition/dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "Your essential hyperreality disrupts your enemy's connection to existence.",

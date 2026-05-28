@@ -5,7 +5,7 @@ cost: 7 Focus
 cost_amount: "7"
 cost_resource: Focus
 distance: Self
-effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is frightened of the creature who dealt the damage (save ends).
+effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the creature who dealt the damage (save ends).
 feature_type: ability
 file_basename: rout
 file_dpath: feature/ability/tactician/level-3
@@ -26,7 +26,7 @@ type: ability
 cost: 7 Focus
 distance: Self
 effects:
-    - effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is frightened of the creature who dealt the damage (save ends).
+    - effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the creature who dealt the damage (save ends).
 feature_type: ability
 flavor: The tide begins to turn.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 7 Focus
     distance: Self
-    effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is frightened of the creature who dealt the damage (save ends).
+    effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the creature who dealt the damage (save ends).
     flavor: The tide begins to turn.
     keywords:
         - '-'

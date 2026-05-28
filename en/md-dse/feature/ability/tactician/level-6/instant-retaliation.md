@@ -22,9 +22,9 @@ scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
 source: mcdm.heroes.v1
 subtype: triggered
 target: One ally
-tier1: A < WEAK, dazed (save ends)
-tier2: A < AVERAGE, dazed (save ends)
-tier3: A < STRONG, dazed (save ends)
+tier1: A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier2: A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier3: A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 trigger: A creature deals damage to the target.
 type: ability
 ---
@@ -35,9 +35,9 @@ distance: Melee 1
 effects:
     - effect: The target takes half the damage. You then make a power roll against the triggering creature.
     - roll: Power Roll + Might
-      tier1: A < WEAK, dazed (save ends)
-      tier2: A < AVERAGE, dazed (save ends)
-      tier3: A < STRONG, dazed (save ends)
+      tier1: A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 feature_type: ability
 flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
     subtype: triggered
     target: One ally
-    tier1: A < WEAK, dazed (save ends)
-    tier2: A < AVERAGE, dazed (save ends)
-    tier3: A < STRONG, dazed (save ends)
+    tier1: A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier2: A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier3: A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     trigger: A creature deals damage to the target.
     type: ability
 name: Instant Retaliation

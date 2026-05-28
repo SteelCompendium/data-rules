@@ -9,7 +9,7 @@
       "tier3": "18 + A damage"
     },
     {
-      "effect": "The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.",
+      "effect": "The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) by a willing ally within 5 squares of you until the end of the target's next turn.",
       "name": "Effect"
     }
   ],
@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*\"Why are you looking at ME?!\"*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 9 + A damage\n- **12-16:** 13 + A damage\n- **17+:** 18 + A damage\n\n**Effect:** The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.",
+    "content": "\n*\"Why are you looking at ME?!\"*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 9 + A damage\n- **12-16:** 13 + A damage\n- **17+:** 18 + A damage\n\n**Effect:** The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) by a willing ally within 5 squares of you until the end of the target's next turn.",
     "distance": "Melee 1 or ranged 5",
     "feature_type": "ability",
     "flavor": "\"Why are you looking at ME?!\"",

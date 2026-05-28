@@ -5,7 +5,7 @@ cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
 distance: Ranged 10
-effect: While weakened this way, the target has damage weakness 10.
+effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target has damage weakness 10.
 feature_type: ability
 file_basename: word-of-weakening
 file_dpath: feature/ability/conduit/level-9
@@ -22,9 +22,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-weakening
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 10 + I corruption damage; A < WEAK, weakened (save ends)
-tier2: 15 + I corruption damage; A < AVERAGE, weakened (save ends)
-tier3: 21 + I corruption damage; A < STRONG, weakened (save ends)
+tier1: 10 + I corruption damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 15 + I corruption damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 21 + I corruption damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -32,11 +32,11 @@ type: ability
 cost: 11 Piety
 distance: Ranged 10
 effects:
-    - effect: While weakened this way, the target has damage weakness 10.
+    - effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target has damage weakness 10.
     - roll: Power Roll + Intuition
-      tier1: 10 + I corruption damage; A < WEAK, weakened (save ends)
-      tier2: 15 + I corruption damage; A < AVERAGE, weakened (save ends)
-      tier3: 21 + I corruption damage; A < STRONG, weakened (save ends)
+      tier1: 10 + I corruption damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 15 + I corruption damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 21 + I corruption damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: You utter a divine word that makes a foe brittle.
 keywords:
@@ -48,7 +48,7 @@ metadata:
     class: conduit
     cost: 11 Piety
     distance: Ranged 10
-    effect: While weakened this way, the target has damage weakness 10.
+    effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target has damage weakness 10.
     flavor: You utter a divine word that makes a foe brittle.
     keywords:
         - Magic
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-weakening
     target: One creature or object
-    tier1: 10 + I corruption damage; A < WEAK, weakened (save ends)
-    tier2: 15 + I corruption damage; A < AVERAGE, weakened (save ends)
-    tier3: 21 + I corruption damage; A < STRONG, weakened (save ends)
+    tier1: 10 + I corruption damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier2: 15 + I corruption damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 21 + I corruption damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Word of Weakening
 target: One creature or object

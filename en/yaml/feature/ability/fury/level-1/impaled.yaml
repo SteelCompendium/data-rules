@@ -2,9 +2,9 @@ ability_type: Signature
 distance: Melee 1
 effects:
     - roll: Power Roll + Might
-      tier1: 2 + M damage; M < WEAK, grabbed
-      tier2: 5 + M damage; M < AVERAGE, grabbed
-      tier3: 7 + M damage; M < STRONG, grabbed
+      tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier3: 7 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 feature_type: ability
 flavor: You skewer your enemy like a boar upon a spit.
 keywords:
@@ -15,7 +15,7 @@ metadata:
     ability_type: Signature
     action_type: Main action
     class: fury
-    content: "\n*You skewer your enemy like a boar upon a spit.*\n\n| **Melee, Strike, Weapon** |                             **Main action** |\n|---------------------------|--------------------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature of your size or smaller** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M damage; M < WEAK, grabbed\n- **12-16:** 5 + M damage; M < AVERAGE, grabbed\n- **17+:** 7 + M damage; M < STRONG, grabbed"
+    content: "\n*You skewer your enemy like a boar upon a spit.*\n\n| **Melee, Strike, Weapon** |                             **Main action** |\n|---------------------------|--------------------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature of your size or smaller** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **17+:** 7 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)"
     distance: Melee 1
     feature_type: ability
     flavor: You skewer your enemy like a boar upon a spit.

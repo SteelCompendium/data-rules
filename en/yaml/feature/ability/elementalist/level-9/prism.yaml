@@ -1,7 +1,7 @@
 cost: 11 Essence
 distance: Self
 effects:
-    - effect: You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can shift up to 2 squares between your use of each ability.
+    - effect: You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares between your use of each ability.
       name: Effect
 feature_type: ability
 flavor: You split your essence, allowing you to cast multiple effects at once.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Main action
     class: elementalist
-    content: "\n*You split your essence, allowing you to cast multiple effects at once.*\n\n| **Magic, Void** | **Main action** |\n|-----------------|----------------:|\n| **\U0001F4CF Self**     |     **\U0001F3AF Self** |\n\n**Effect:** You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can shift up to 2 squares between your use of each ability."
+    content: "\n*You split your essence, allowing you to cast multiple effects at once.*\n\n| **Magic, Void** | **Main action** |\n|-----------------|----------------:|\n| **\U0001F4CF Self**     |     **\U0001F3AF Self** |\n\n**Effect:** You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares between your use of each ability."
     distance: Self
     feature_type: ability
     flavor: You split your essence, allowing you to cast multiple effects at once.

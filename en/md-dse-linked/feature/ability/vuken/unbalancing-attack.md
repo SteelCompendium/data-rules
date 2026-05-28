@@ -18,9 +18,9 @@ scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 4 + M damage; A < WEAK, prone
-tier2: 7 + M damage; A < AVERAGE, prone
-tier3: 9 + M damage; A < STRONG, prone
+tier1: 4 + M damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier2: 7 + M damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: 9 + M damage; A < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -28,9 +28,9 @@ type: ability
 distance: Melee 1
 effects:
     - roll: Power Roll + Might
-      tier1: 4 + M damage; A < WEAK, prone
-      tier2: 7 + M damage; A < AVERAGE, prone
-      tier3: 9 + M damage; A < STRONG, prone
+      tier1: 4 + M damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+      tier2: 7 + M damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+      tier3: 9 + M damage; A < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: A wild assault forces your foe onto their back.
 keywords:
@@ -51,9 +51,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack
     subtype: signature
     target: One creature or object
-    tier1: 4 + M damage; A < WEAK, prone
-    tier2: 7 + M damage; A < AVERAGE, prone
-    tier3: 9 + M damage; A < STRONG, prone
+    tier1: 4 + M damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+    tier2: 7 + M damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+    tier3: 9 + M damage; A < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
     type: ability
 name: Unbalancing Attack
 target: One creature or object

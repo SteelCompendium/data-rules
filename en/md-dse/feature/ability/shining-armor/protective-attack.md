@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: The target is taunted until the end of their next turn.
+effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn.
 feature_type: ability
 file_basename: protective-attack
 file_dpath: feature/ability/shining-armor
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: The target is taunted until the end of their next turn.
+    - effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn.
 feature_type: ability
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
 keywords:
@@ -34,7 +34,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: Melee 1
-    effect: The target is taunted until the end of their next turn.
+    effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn.
     flavor: The strength of your assault makes it impossible for your foe to ignore you.
     keywords:
         - Melee

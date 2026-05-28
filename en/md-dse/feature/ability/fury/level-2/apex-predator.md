@@ -22,9 +22,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator
 source: mcdm.heroes.v1
 target: One creature
-tier1: 4 damage; I < WEAK, slowed (save ends)
-tier2: 6 damage; I < AVERAGE, slowed (save ends)
-tier3: 10 damage; I < STRONG, slowed (save ends)
+tier1: 4 damage; I < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 6 damage; I < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier3: 10 damage; I < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -34,9 +34,9 @@ distance: Melee 1
 effects:
     - effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
     - roll: Power Roll + Might
-      tier1: 4 damage; I < WEAK, slowed (save ends)
-      tier2: 6 damage; I < AVERAGE, slowed (save ends)
-      tier3: 10 damage; I < STRONG, slowed (save ends)
+      tier1: 4 damage; I < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 6 damage; I < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier3: 10 damage; I < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 feature_type: ability
 flavor: I will hunt you down.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator
     target: One creature
-    tier1: 4 damage; I < WEAK, slowed (save ends)
-    tier2: 6 damage; I < AVERAGE, slowed (save ends)
-    tier3: 10 damage; I < STRONG, slowed (save ends)
+    tier1: 4 damage; I < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier2: 6 damage; I < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier3: 10 damage; I < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     type: ability
 name: Apex Predator
 target: One creature

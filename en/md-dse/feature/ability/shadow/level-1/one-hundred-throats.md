@@ -5,7 +5,7 @@ cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
 distance: Self; see below
-effect: You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
+effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
 feature_type: ability
 file_basename: one-hundred-throats
 file_dpath: feature/ability/shadow/level-1
@@ -31,7 +31,7 @@ type: ability
 cost: 5 Insight
 distance: Self; see below
 effects:
-    - effect: You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
+    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
     - roll: Power Roll + Agility
       tier1: 3 damage
       tier2: 6 damage
@@ -46,7 +46,7 @@ metadata:
     class: shadow
     cost: 5 Insight
     distance: Self; see below
-    effect: You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
+    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
     flavor: As you move across the battlefield, every foe within reach feels your wrath.
     keywords:
         - Melee

@@ -21,9 +21,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 3 + I holy damage; A < WEAK, prone
-tier2: 6 + I holy damage; A < AVERAGE, prone
-tier3: 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
+tier1: 3 + I holy damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier2: 6 + I holy damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: 9 + I holy damage; A < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 3 Piety
 distance: Ranged 10
 effects:
     - roll: Power Roll + Intuition
-      tier1: 3 + I holy damage; A < WEAK, prone
-      tier2: 6 + I holy damage; A < AVERAGE, prone
-      tier3: 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
+      tier1: 3 + I holy damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+      tier2: 6 + I holy damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+      tier3: 9 + I holy damage; A < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
 feature_type: ability
 flavor: Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer
     target: One creature or object
-    tier1: 3 + I holy damage; A < WEAK, prone
-    tier2: 6 + I holy damage; A < AVERAGE, prone
-    tier3: 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
+    tier1: 3 + I holy damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+    tier2: 6 + I holy damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+    tier3: 9 + I holy damage; A < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
     type: ability
 name: Judgment's Hammer
 target: One creature or object

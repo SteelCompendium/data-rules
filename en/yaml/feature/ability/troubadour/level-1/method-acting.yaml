@@ -2,10 +2,10 @@ cost: 5 Drama
 distance: Melee 1
 effects:
     - roll: Power Roll + Agility
-      tier1: 6 + A damage; P < WEAK, weakened (save ends)
-      tier2: 10 + A damage; P < AVERAGE, weakened (save ends)
-      tier3: 14 + A damage; P < STRONG, weakened (save ends)
-    - effect: You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.
+      tier1: 6 + A damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 10 + A damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 14 + A damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    - effect: You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target.
       name: Effect
 feature_type: ability
 flavor: They're so hurt by your performance, you start to believe it yourself.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: troubadour
-    content: "\n*They're so hurt by your performance, you start to believe it yourself.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 + A damage; P < WEAK, weakened (save ends)\n- **12-16:** 10 + A damage; P < AVERAGE, weakened (save ends)\n- **17+:** 14 + A damage; P < STRONG, weakened (save ends)\n\n**Effect:** You can become bleeding (save ends) to deal an extra 5 corruption damage to the target."
+    content: "\n*They're so hurt by your performance, you start to believe it yourself.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 + A damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 10 + A damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 14 + A damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target."
     distance: Melee 1
     feature_type: ability
     flavor: They're so hurt by your performance, you start to believe it yourself.

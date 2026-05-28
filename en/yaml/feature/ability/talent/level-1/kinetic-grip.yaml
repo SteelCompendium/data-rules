@@ -4,7 +4,7 @@ effects:
     - roll: Power Roll + Reason
       tier1: Slide 2 + R
       tier2: Slide 4 + R
-      tier3: Slide 6 + R; prone
+      tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: You lift and hurl your foe away from you.
 keywords:
@@ -15,7 +15,7 @@ metadata:
     ability_type: Signature
     action_type: Main action
     class: talent
-    content: "\n*You lift and hurl your foe away from you.*\n\n| **Psionic, Ranged, Telekinesis** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                 | **\U0001F3AF One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** Slide 2 + R\n- **12-16:** Slide 4 + R\n- **17+:** Slide 6 + R; prone\n\n**Strained:** You must vertical push the target instead of sliding them."
+    content: "\n*You lift and hurl your foe away from you.*\n\n| **Psionic, Ranged, Telekinesis** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                 | **\U0001F3AF One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** Slide 2 + R\n- **12-16:** Slide 4 + R\n- **17+:** Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)\n\n**Strained:** You must vertical push the target instead of sliding them."
     distance: Ranged 10
     feature_type: ability
     flavor: You lift and hurl your foe away from you.

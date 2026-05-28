@@ -5,7 +5,7 @@ effects:
       tier1: 3 damage
       tier2: 6 damage
       tier3: 8 damage
-    - effect: You can shift up to 2 squares before or after making the power roll.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares before or after making the power roll.
       name: Effect
 feature_type: ability
 flavor: Foes who try to close in around you do so at their peril.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     ability_type: Signature
     action_type: Main action
-    content: "*Foes who try to close in around you do so at their peril.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 burst**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 3 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage\n\n**Effect:** You can shift up to 2 squares before or after making the power roll."
+    content: "*Foes who try to close in around you do so at their peril.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 burst**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 3 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares before or after making the power roll."
     distance: 1 burst
     feature_type: ability
     flavor: Foes who try to close in around you do so at their peril.

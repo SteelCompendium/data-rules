@@ -22,9 +22,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
 source: mcdm.heroes.v1
 target: Three allies
-tier1: 4 corruption damage; slowed (save ends)
-tier2: 6 corruption damage; slowed (save ends)
-tier3: 10 corruption damage; slowed (save ends)
+tier1: 4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier3: 10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -34,9 +34,9 @@ distance: Ranged 5
 effects:
     - effect: Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
     - roll: Power Roll + Presence
-      tier1: 4 corruption damage; slowed (save ends)
-      tier2: 6 corruption damage; slowed (save ends)
-      tier3: 10 corruption damage; slowed (save ends)
+      tier1: 4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier3: 10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 feature_type: ability
 flavor: You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
     target: Three allies
-    tier1: 4 corruption damage; slowed (save ends)
-    tier2: 6 corruption damage; slowed (save ends)
-    tier3: 10 corruption damage; slowed (save ends)
+    tier1: 4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier2: 6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier3: 10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     type: ability
 name: Acceleration Field
 target: Three allies

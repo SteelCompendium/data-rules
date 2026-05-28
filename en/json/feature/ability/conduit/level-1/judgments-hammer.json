@@ -4,9 +4,9 @@
   "effects": [
     {
       "roll": "Power Roll + Intuition",
-      "tier1": "3 + I holy damage; A \u003c WEAK, prone",
-      "tier2": "6 + I holy damage; A \u003c AVERAGE, prone",
-      "tier3": "9 + I holy damage; A \u003c STRONG, prone and can't stand (save ends)"
+      "tier1": "3 + I holy damage; A \u003c WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)",
+      "tier2": "6 + I holy damage; A \u003c AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)",
+      "tier3": "9 + I holy damage; A \u003c STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)"
     }
   ],
   "feature_type": "ability",
@@ -19,7 +19,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.*\n\n| **Magic, Ranged, Strike**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 3 + I holy damage; A \u003c WEAK, prone\n- **12-16:** 6 + I holy damage; A \u003c AVERAGE, prone\n- **17+:** 9 + I holy damage; A \u003c STRONG, prone and can't stand (save ends)",
+    "content": "\n*Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.*\n\n| **Magic, Ranged, Strike**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 3 + I holy damage; A \u003c WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **12-16:** 6 + I holy damage; A \u003c AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **17+:** 9 + I holy damage; A \u003c STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Your divine [fury](scc:mcdm.heroes.v1/class/fury) is a hammer that crashes down upon the unrighteous.",

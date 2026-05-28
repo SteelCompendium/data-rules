@@ -5,7 +5,7 @@ cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
 distance: Self; see below
-effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.
+effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
 feature_type: ability
 file_basename: wrecking-ball
 file_dpath: feature/ability/fury/level-2
@@ -31,7 +31,7 @@ type: ability
 cost: 5 Ferocity
 distance: Self; see below
 effects:
-    - effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.
+    - effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
     - roll: Power Roll + Might
       tier1: Push 1
       tier2: Push 2
@@ -46,7 +46,7 @@ metadata:
     class: fury
     cost: 5 Ferocity
     distance: Self; see below
-    effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.
+    effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
     flavor: It's easier to destroy than to create. Much easier, in fact!
     keywords:
         - Melee

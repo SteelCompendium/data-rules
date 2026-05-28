@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.trait.fury.level-2/inescapable-wrath
 type: trait
 ---
 
-You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.
+You have a bonus to speed equal to your Agility score, and you ignore [difficult terrain](../../../../movement/difficult-terrain.md).

@@ -9,7 +9,7 @@
       "tier3": "13 + M damage; slide 5"
     },
     {
-      "effect": "If a target is force moved into another creature, they must make a free strike against that creature.",
+      "effect": "If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a free strike against that creature.",
       "name": "Effect"
     }
   ],
@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*You confuse your foes, causing them to turn on each other.*\n\n| **Melee, Ranged, Strike, Weapon** |      **Main action** |\n|-----------------------------------|---------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |\n\n**Power Roll + Might:**\n\n- **≤11:** 6 + M damage; slide 1\n- **12-16:** 9 + M damage; slide 3\n- **17+:** 13 + M damage; slide 5\n\n**Effect:** If a target is force moved into another creature, they must make a free strike against that creature.",
+    "content": "\n*You confuse your foes, causing them to turn on each other.*\n\n| **Melee, Ranged, Strike, Weapon** |      **Main action** |\n|-----------------------------------|---------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |\n\n**Power Roll + Might:**\n\n- **≤11:** 6 + M damage; slide 1\n- **12-16:** 9 + M damage; slide 3\n- **17+:** 13 + M damage; slide 5\n\n**Effect:** If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a free strike against that creature.",
     "distance": "Melee 1 or ranged 5",
     "feature_type": "ability",
     "flavor": "You confuse your foes, causing them to turn on each other.",

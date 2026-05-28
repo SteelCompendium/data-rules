@@ -20,9 +20,9 @@ scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-r
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 2 + R corruption damage; R < WEAK, slowed (save ends)
-tier2: 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-tier3: 6 + R corruption damage; R < STRONG, slowed (save ends)
+tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -30,9 +30,9 @@ type: ability
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: 2 + R corruption damage; R < WEAK, slowed (save ends)
-      tier2: 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-      tier3: 6 + R corruption damage; R < STRONG, slowed (save ends)
+      tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 feature_type: ability
 flavor: You inflict pain and doubt in equal measure.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-reflection
     subtype: signature
     target: One creature or object
-    tier1: 2 + R corruption damage; R < WEAK, slowed (save ends)
-    tier2: 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-    tier3: 6 + R corruption damage; R < STRONG, slowed (save ends)
+    tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     type: ability
 name: Ray of Agonizing Self-Reflection
 target: One creature or object

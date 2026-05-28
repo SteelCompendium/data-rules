@@ -17,7 +17,7 @@
     "metadata": {
       "ability_type": "Signature",
       "action_type": "Main action",
-      "content": "*You slam an invisible force down upon the target.*\n\n| **Psionic, Ranged, Strike**  | Main action                   |\n|------------------------------|-------------------------------|\n| **📏 Ranged 10**             | **🎯 One creature or object** |\n\n**Power Roll + Reason, Intuition, or Presence:**\n\n- **≤11:** 2 + R, I, or P damage;\n- **12-16:** 5 + R, I, or P damage; push 1\n- **17+:** 7 + R, I, or P damage; push 2; M \u003c STRONG, prone",
+      "content": "*You slam an invisible force down upon the target.*\n\n| **Psionic, Ranged, Strike**  | Main action                   |\n|------------------------------|-------------------------------|\n| **📏 Ranged 10**             | **🎯 One creature or object** |\n\n**Power Roll + Reason, Intuition, or Presence:**\n\n- **≤11:** 2 + R, I, or P damage;\n- **12-16:** 5 + R, I, or P damage; push 1\n- **17+:** 7 + R, I, or P damage; push 2; M \u003c STRONG, [prone](scc:mcdm.heroes.v1/condition/prone)",
       "distance": "Ranged 10",
       "feature_type": "ability",
       "flavor": "You slam an invisible force down upon the target.",

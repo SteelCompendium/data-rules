@@ -5,7 +5,7 @@ effects:
       tier1: 13 + A corruption damage; push 3
       tier2: 18 + A corruption damage; push 5
       tier3: 25 + A corruption damage; push 7
-    - effect: On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+    - effect: On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
       name: Effect
 feature_type: ability
 flavor: You create a temporary portal to allow a massive demonic hand to reach through.
@@ -17,7 +17,7 @@ keywords:
 metadata:
     action_type: Main action
     class: shadow
-    content: "\n*You create a temporary portal to allow a massive demonic hand to reach through.*\n\n| **Magic, Melee, Strike, Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **\U0001F4CF Melee 3**                   | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 13 + A corruption damage; push 3\n- **12-16:** 18 + A corruption damage; push 5\n- **17+:** 25 + A corruption damage; push 7\n\n**Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again."
+    content: "\n*You create a temporary portal to allow a massive demonic hand to reach through.*\n\n| **Magic, Melee, Strike, Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **\U0001F4CF Melee 3**                   | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 13 + A corruption damage; push 3\n- **12-16:** 18 + A corruption damage; push 5\n- **17+:** 25 + A corruption damage; push 7\n\n**Effect:** On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again."
     distance: Melee 3
     feature_type: ability
     flavor: You create a temporary portal to allow a massive demonic hand to reach through.

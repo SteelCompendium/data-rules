@@ -22,7 +22,7 @@ effects:
         - You have psychic immunity 10.
         - Creatures can't read your thoughts unless you allow them to.
         - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
-        - You can't be made taunted or frightened.
+        - You can't be made [taunted](scc:mcdm.heroes.v1/condition/taunted) or [frightened](scc:mcdm.heroes.v1/condition/frightened).
 feature_type: trait
 metadata:
     class: talent

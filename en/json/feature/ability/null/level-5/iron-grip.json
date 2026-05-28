@@ -4,12 +4,12 @@
   "effects": [
     {
       "roll": "Power Roll + Agility",
-      "tier1": "10 + A damage; A \u003c WEAK, grabbed",
-      "tier2": "14 + A damage; A \u003c AVERAGE, grabbed",
-      "tier3": "18 + A damage; A \u003c STRONG, grabbed"
+      "tier1": "10 + A damage; A \u003c WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+      "tier2": "14 + A damage; A \u003c AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+      "tier3": "18 + A damage; A \u003c STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)"
     },
     {
-      "effect": "While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.",
+      "effect": "While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.",
       "name": "Effect"
     }
   ],
@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You grab the target with supernatural force.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 + A damage; A \u003c WEAK, grabbed\n- **12-16:** 14 + A damage; A \u003c AVERAGE, grabbed\n- **17+:** 18 + A damage; A \u003c STRONG, grabbed\n\n**Effect:** While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.",
+    "content": "\n*You grab the target with supernatural force.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 + A damage; A \u003c WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **12-16:** 14 + A damage; A \u003c AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **17+:** 18 + A damage; A \u003c STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n\n**Effect:** While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You grab the target with supernatural force.",

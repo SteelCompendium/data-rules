@@ -5,7 +5,7 @@ cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
 distance: Three 10 x 1 lines within 1
-effect: The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+effect: The targets are [force moved](scc:mcdm.heroes.v1/movement/forced-movement) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 feature_type: ability
 file_basename: lightning-lord
 file_dpath: feature/ability/conduit/level-6
@@ -31,7 +31,7 @@ type: ability
 cost: 9 Piety
 distance: Three 10 x 1 lines within 1
 effects:
-    - effect: The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+    - effect: The targets are [force moved](scc:mcdm.heroes.v1/movement/forced-movement) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
     - roll: Power Roll + Intuition
       tier1: 6 lightning damage; push 1
       tier2: 9 lightning damage; push 2
@@ -46,7 +46,7 @@ metadata:
     class: conduit
     cost: 9 Piety
     distance: Three 10 x 1 lines within 1
-    effect: The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+    effect: The targets are [force moved](scc:mcdm.heroes.v1/movement/forced-movement) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
     flavor: Lightning bursts forth from your body in several directions.
     keywords:
         - Area

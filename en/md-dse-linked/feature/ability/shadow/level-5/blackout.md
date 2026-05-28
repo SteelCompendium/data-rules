@@ -5,7 +5,7 @@ cost: 9 Insight
 cost_amount: "9"
 cost_resource: Insight
 distance: 3 burst
-effect: A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
+effect: A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](scc:mcdm.heroes.v1/movement/shifting) to a new location within the area and make a free strike against them.
 feature_type: ability
 file_basename: blackout
 file_dpath: feature/ability/shadow/level-5
@@ -27,7 +27,7 @@ type: ability
 cost: 9 Insight
 distance: 3 burst
 effects:
-    - effect: A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
+    - effect: A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](scc:mcdm.heroes.v1/movement/shifting) to a new location within the area and make a free strike against them.
 feature_type: ability
 flavor: You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: shadow
     cost: 9 Insight
     distance: 3 burst
-    effect: A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
+    effect: A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](scc:mcdm.heroes.v1/movement/shifting) to a new location within the area and make a free strike against them.
     flavor: You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.
     keywords:
         - Area

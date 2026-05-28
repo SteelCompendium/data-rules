@@ -4,12 +4,12 @@
   "effects": [
     {
       "roll": "Power Roll + Presence",
-      "tier1": "4 damage; P \u003c WEAK, slowed (save ends)",
-      "tier2": "5 damage; P \u003c AVERAGE, slowed (save ends)",
-      "tier3": "6 damage; P \u003c STRONG, restrained (save ends)"
+      "tier1": "4 damage; P \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier2": "5 damage; P \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier3": "6 damage; P \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
     },
     {
-      "effect": "The area is difficult terrain for enemies.",
+      "effect": "The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*You write something unexpected into the scene that hinders your enemy.*\n\n| **Area, Magic, Ranged**     |               **Main action** |\n|-----------------------------|------------------------------:|\n| **📏 3 cube within 10**     | **🎯 Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 4 damage; P \u003c WEAK, slowed (save ends)\n- **12-16:** 5 damage; P \u003c AVERAGE, slowed (save ends)\n- **17+:** 6 damage; P \u003c STRONG, restrained (save ends)\n\n**Effect:** The area is difficult terrain for enemies.",
+    "content": "\n*You write something unexpected into the scene that hinders your enemy.*\n\n| **Area, Magic, Ranged**     |               **Main action** |\n|-----------------------------|------------------------------:|\n| **📏 3 cube within 10**     | **🎯 Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 4 damage; P \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 5 damage; P \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 6 damage; P \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.",
     "distance": "3 cube within 10",
     "feature_type": "ability",
     "flavor": "You write something unexpected into the scene that hinders your enemy.",

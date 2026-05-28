@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Melee 1 or ranged 10
 effects:
-    - effect: "*A stab, and a few quick, careful steps back.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**       | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 3 + M or A damage; you can shift 1 square\n- **12-16:** 6 + M or A damage; you can shift up to 2 squares\n- **17+:** 8 + M or A damage; you can shift up to 3 squares"
+    - effect: "*A stab, and a few quick, careful steps back.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**       | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square\n- **12-16:** 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares\n- **17+:** 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares"
 feature_type: ability
 flavor: A stab, and a few quick, careful steps back.
 keywords:

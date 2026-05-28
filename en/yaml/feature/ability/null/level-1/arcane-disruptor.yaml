@@ -2,10 +2,10 @@ cost: 5 Discipline
 distance: Melee 1
 effects:
     - roll: Power Roll + Agility
-      tier1: 8 + **A** psychic damage; M < WEAK, weakened (save ends)
-      tier2: 12 + **A** psychic damage; M < AVERAGE, weakened (save ends)
-      tier3: 16 + **A** psychic damage; M < STRONG, weakened (save ends)
-    - effect: While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+      tier1: 8 + **A** psychic damage; M < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 12 + **A** psychic damage; M < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 16 + **A** psychic damage; M < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    - effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
       name: Effect
 feature_type: ability
 flavor: Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.
@@ -17,7 +17,7 @@ keywords:
 metadata:
     action_type: Main action
     class: "null"
-    content: "\n*Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 8 + **A** psychic damage; M < WEAK, weakened (save ends)\n- **12-16:** 12 + **A** psychic damage; M < AVERAGE, weakened (save ends)\n- **17+:** 16 + **A** psychic damage; M < STRONG, weakened (save ends)\n\n**Effect:** While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice."
+    content: "\n*Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice."
     distance: Melee 1
     feature_type: ability
     flavor: Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.

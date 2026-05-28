@@ -2,10 +2,10 @@ cost: 9 Drama
 distance: Three 3 cubes within 1
 effects:
     - roll: Power Roll + Presence
-      tier1: 7 sonic damage; P < WEAK, prone
-      tier2: 10 sonic damage; P < AVERAGE, prone
-      tier3: 13 sonic damage; P < STRONG, prone
-    - effect: A prone target ignores this ability.
+      tier1: 7 sonic damage; P < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+      tier2: 10 sonic damage; P < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+      tier3: 13 sonic damage; P < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+    - effect: A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.
       name: Effect
 feature_type: ability
 flavor: Your music pounds the crowd to the beat until their hearts can't stand it anymore.
@@ -15,7 +15,7 @@ keywords:
 metadata:
     action_type: Main action
     class: troubadour
-    content: "\n*Your music pounds the crowd to the beat until their hearts can't stand it anymore.*\n\n| **Area, Magic**               |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF Three 3 cubes within 1** | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** A prone target ignores this ability.\n\n**Power Roll + Presence:**\n\n- **≤11:** 7 sonic damage; P < WEAK, prone\n- **12-16:** 10 sonic damage; P < AVERAGE, prone\n- **17+:** 13 sonic damage; P < STRONG, prone"
+    content: "\n*Your music pounds the crowd to the beat until their hearts can't stand it anymore.*\n\n| **Area, Magic**               |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF Three 3 cubes within 1** | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.\n\n**Power Roll + Presence:**\n\n- **≤11:** 7 sonic damage; P < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **12-16:** 10 sonic damage; P < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **17+:** 13 sonic damage; P < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)"
     distance: Three 3 cubes within 1
     feature_type: ability
     flavor: Your music pounds the crowd to the beat until their hearts can't stand it anymore.

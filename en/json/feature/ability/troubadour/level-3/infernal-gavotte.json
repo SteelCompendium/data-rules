@@ -4,12 +4,12 @@
   "effects": [
     {
       "roll": "Power Roll + Presence",
-      "tier1": "5 fire damage; A \u003c WEAK, weakened (save ends)",
-      "tier2": "7 fire damage; A \u003c AVERAGE, weakened (save ends)",
-      "tier3": "10 fire damage; A \u003c STRONG, weakened (save ends)"
+      "tier1": "5 fire damage; A \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)",
+      "tier2": "7 fire damage; A \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)",
+      "tier3": "10 fire damage; A \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)"
     },
     {
-      "effect": "Each ally in the area can shift up to 2 squares.",
+      "effect": "Each ally in the area can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares.",
       "name": "Effect"
     }
   ],
@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*A spicy performance lights a fire under your allies' feet.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **📏 3 burst**                 | **🎯 Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 fire damage; A \u003c WEAK, weakened (save ends)\n- **12-16:** 7 fire damage; A \u003c AVERAGE, weakened (save ends)\n- **17+:** 10 fire damage; A \u003c STRONG, weakened (save ends)\n\n**Effect:** Each ally in the area can shift up to 2 squares.",
+    "content": "\n*A spicy performance lights a fire under your allies' feet.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **📏 3 burst**                 | **🎯 Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 fire damage; A \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 7 fire damage; A \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 10 fire damage; A \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** Each ally in the area can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares.",
     "distance": "3 burst",
     "feature_type": "ability",
     "flavor": "A spicy performance lights a fire under your allies' feet.",

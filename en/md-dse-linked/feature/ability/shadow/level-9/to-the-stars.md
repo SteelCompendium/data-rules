@@ -5,7 +5,7 @@ cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
 distance: Melee 1 or ranged 10
-effect: The ground beneath a 3-cube area around the target's starting position is difficult terrain.
+effect: The ground beneath a 3-cube area around the target's starting position is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
 feature_type: ability
 file_basename: to-the-stars
 file_dpath: feature/ability/shadow/level-9
@@ -32,7 +32,7 @@ type: ability
 cost: 11 Insight
 distance: Melee 1 or ranged 10
 effects:
-    - effect: The ground beneath a 3-cube area around the target's starting position is difficult terrain.
+    - effect: The ground beneath a 3-cube area around the target's starting position is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
     - roll: Power Roll + Agility
       tier1: 4 + A fire damage; vertical push 8
       tier2: 7 + A fire damage; vertical push 10
@@ -48,7 +48,7 @@ metadata:
     class: shadow
     cost: 11 Insight
     distance: Melee 1 or ranged 10
-    effect: The ground beneath a 3-cube area around the target's starting position is difficult terrain.
+    effect: The ground beneath a 3-cube area around the target's starting position is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
     flavor: You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.
     keywords:
         - Melee

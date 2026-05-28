@@ -9,7 +9,7 @@
       "tier3": "12 + A damage"
     },
     {
-      "effect": "Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.",
+      "effect": "Until the start of your next turn, whenever the target finishes moving or being [force moved](scc:mcdm.heroes.v1/movement/forced-movement), you can use a free triggered action to [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed. You must end this [shift](scc:mcdm.heroes.v1/movement/shifting) adjacent to the target.",
       "name": "Effect"
     }
   ],
@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You strike, and for the next few moments, your enemy can't escape you.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 + A damage\n- **12-16:** 8 + A damage\n- **17+:** 12 + A damage\n\n**Effect:** Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.",
+    "content": "\n*You strike, and for the next few moments, your enemy can't escape you.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 + A damage\n- **12-16:** 8 + A damage\n- **17+:** 12 + A damage\n\n**Effect:** Until the start of your next turn, whenever the target finishes moving or being [force moved](scc:mcdm.heroes.v1/movement/forced-movement), you can use a free triggered action to [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed. You must end this [shift](scc:mcdm.heroes.v1/movement/shifting) adjacent to the target.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You strike, and for the next few moments, your enemy can't escape you.",

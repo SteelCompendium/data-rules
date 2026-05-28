@@ -5,7 +5,7 @@ effects:
       tier1: 2 poison damage
       tier2: 5 poison damage
       tier3: 7 poison damage
-    - effect: The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is weakened (save ends).
+    - effect: The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).
       name: Effect
 feature_type: ability
 flavor: Putrid yellow gas explodes from a bomb you toss.
@@ -15,7 +15,7 @@ keywords:
 metadata:
     action_type: Main action
     class: shadow
-    content: "\n*Putrid yellow gas explodes from a bomb you toss.*\n\n| **Area, Ranged**        |                  **Main action** |\n|-------------------------|---------------------------------:|\n| **\U0001F4CF 3 cube within 10** | **\U0001F3AF Each creature in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 2 poison damage\n- **12-16:** 5 poison damage\n- **17+:** 7 poison damage\n\n**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is weakened (save ends)."
+    content: "\n*Putrid yellow gas explodes from a bomb you toss.*\n\n| **Area, Ranged**        |                  **Main action** |\n|-------------------------|---------------------------------:|\n| **\U0001F4CF 3 cube within 10** | **\U0001F3AF Each creature in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 2 poison damage\n- **12-16:** 5 poison damage\n- **17+:** 7 poison damage\n\n**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)."
     distance: 3 cube within 10
     feature_type: ability
     flavor: Putrid yellow gas explodes from a bomb you toss.

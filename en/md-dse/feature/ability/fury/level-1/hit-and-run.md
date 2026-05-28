@@ -2,7 +2,7 @@
 action_type: Main action
 class: fury
 distance: Melee 1
-effect: You can shift 1 square.
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square.
 feature_type: ability
 file_basename: hit-and-run
 file_dpath: feature/ability/fury/level-1
@@ -22,18 +22,18 @@ subtype: signature
 target: One creature or object
 tier1: 2 + M damage
 tier2: 5 + M damage
-tier3: 7 + M damage; A < STRONG, slowed (save ends)
+tier3: 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You can shift 1 square.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square.
     - roll: Power Roll + Might
       tier1: 2 + M damage
       tier2: 5 + M damage
-      tier3: 7 + M damage; A < STRONG, slowed (save ends)
+      tier3: 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 feature_type: ability
 flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
 keywords:
@@ -44,7 +44,7 @@ metadata:
     action_type: Main action
     class: fury
     distance: Melee 1
-    effect: You can shift 1 square.
+    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square.
     flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
     keywords:
         - Melee
@@ -58,7 +58,7 @@ metadata:
     target: One creature or object
     tier1: 2 + M damage
     tier2: 5 + M damage
-    tier3: 7 + M damage; A < STRONG, slowed (save ends)
+    tier3: 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     type: ability
 name: Hit and Run
 target: One creature or object

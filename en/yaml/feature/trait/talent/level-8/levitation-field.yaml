@@ -1,7 +1,7 @@
 ability:
     distance: 3 burst
     effects:
-        - effect: Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+        - effect: Each target can [fly](scc:mcdm.heroes.v1/movement/fly) until the start of your next turn, and can immediately [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed. You can also [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed. While [flying](scc:mcdm.heroes.v1/movement/fly), a target's stability is reduced to 0 and can't be increased.
           name: Effect
         - cost: Spend 5 Clarity
           effect: The effects last for 1 hour instead.
@@ -12,7 +12,7 @@ ability:
         - Psionic
     metadata:
         action_type: Maneuver
-        content: "\n*You manipulate the air around your allies so they can move as freely through the sky as you can.*\n\n| **Area, Psionic** |                 **Maneuver** |\n|-------------------|-----------------------------:|\n| **\U0001F4CF 3 burst**    | **\U0001F3AF Each ally in the area** |\n\n**Effect:** Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.\n\n**Spend 5 Clarity:** The effects last for 1 hour instead."
+        content: "\n*You manipulate the air around your allies so they can move as freely through the sky as you can.*\n\n| **Area, Psionic** |                 **Maneuver** |\n|-------------------|-----------------------------:|\n| **\U0001F4CF 3 burst**    | **\U0001F3AF Each ally in the area** |\n\n**Effect:** Each target can [fly](scc:mcdm.heroes.v1/movement/fly) until the start of your next turn, and can immediately [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed. You can also [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed. While [flying](scc:mcdm.heroes.v1/movement/fly), a target's stability is reduced to 0 and can't be increased.\n\n**Spend 5 Clarity:** The effects last for 1 hour instead."
         distance: 3 burst
         feature_type: ability
         flavor: You manipulate the air around your allies so they can move as freely through the sky as you can.

@@ -22,9 +22,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 4 + M damage; M < WEAK, bleeding and weakened (save ends)
-tier2: 6 + M damage; M < AVERAGE, bleeding and weakened (save ends)
-tier3: 10 + M damage; M < STRONG, bleeding and weakened (save ends)
+tier1: 4 + M damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 6 + M damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 10 + M damage; M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -34,9 +34,9 @@ distance: Melee 1
 effects:
     - effect: You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
     - roll: Power Roll + Might
-      tier1: 4 + M damage; M < WEAK, bleeding and weakened (save ends)
-      tier2: 6 + M damage; M < AVERAGE, bleeding and weakened (save ends)
-      tier3: 10 + M damage; M < STRONG, bleeding and weakened (save ends)
+      tier1: 4 + M damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 6 + M damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 10 + M damage; M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: See how well they fight after you've bled them dry.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood
     target: One creature or object
-    tier1: 4 + M damage; M < WEAK, bleeding and weakened (save ends)
-    tier2: 6 + M damage; M < AVERAGE, bleeding and weakened (save ends)
-    tier3: 10 + M damage; M < STRONG, bleeding and weakened (save ends)
+    tier1: 4 + M damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier2: 6 + M damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 10 + M damage; M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Blood for Blood!
 target: One creature or object

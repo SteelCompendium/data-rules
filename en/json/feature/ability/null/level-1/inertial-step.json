@@ -9,7 +9,7 @@
       "tier3": "10 + A damage"
     },
     {
-      "effect": "You can shift up to half your speed before or after you make this strike.",
+      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this strike.",
       "name": "Effect"
     }
   ],
@@ -25,7 +25,7 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You flit about the battlefield and take an opportunistic strike.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 5 + A damage\n- **12-16:** 7 + A damage\n- **17+:** 10 + A damage\n\n**Effect:** You can shift up to half your speed before or after you make this strike.",
+    "content": "\n*You flit about the battlefield and take an opportunistic strike.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 5 + A damage\n- **12-16:** 7 + A damage\n- **17+:** 10 + A damage\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this strike.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You flit about the battlefield and take an opportunistic strike.",

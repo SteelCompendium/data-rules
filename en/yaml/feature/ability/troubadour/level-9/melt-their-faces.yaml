@@ -5,7 +5,7 @@ effects:
       tier1: 12 + P sonic damage; push 5
       tier2: 16 + P sonic damage; push 10
       tier3: 22 + P sonic damage; push 15
-    - effect: Forced movement from this ability ignores stability.
+    - effect: '[Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores stability.'
       name: Effect
 feature_type: ability
 flavor: The power of music rips through the reality around the target and blows them away.
@@ -17,7 +17,7 @@ keywords:
 metadata:
     action_type: Main action
     class: troubadour
-    content: "\n*The power of music rips through the reality around the target and blows them away.*\n\n| **Magic, Melee, Ranged, Strike** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**      | **\U0001F3AF One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 12 + P sonic damage; push 5\n- **12-16:** 16 + P sonic damage; push 10\n- **17+:** 22 + P sonic damage; push 15\n\n**Effect:** Forced movement from this ability ignores stability."
+    content: "\n*The power of music rips through the reality around the target and blows them away.*\n\n| **Magic, Melee, Ranged, Strike** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**      | **\U0001F3AF One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 12 + P sonic damage; push 5\n- **12-16:** 16 + P sonic damage; push 10\n- **17+:** 22 + P sonic damage; push 15\n\n**Effect:** [Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores stability."
     distance: Melee 1 or ranged 10
     feature_type: ability
     flavor: The power of music rips through the reality around the target and blows them away.

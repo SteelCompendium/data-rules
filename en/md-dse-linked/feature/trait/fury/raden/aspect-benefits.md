@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain.
+    - effect: You gain an edge on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../../../../movement/difficult-terrain.md).
 feature_type: trait
 metadata:
     class: fury

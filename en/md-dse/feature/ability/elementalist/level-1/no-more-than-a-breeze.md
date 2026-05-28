@@ -5,7 +5,7 @@ cost: 5 Essence
 cost_amount: "5"
 cost_resource: Essence
 distance: Ranged 10
-effect: Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+effect: Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
 feature_type: ability
 file_basename: no-more-than-a-breeze
 file_dpath: feature/ability/elementalist/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Essence
 distance: Ranged 10
 effects:
-    - effect: Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+    - effect: Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
 feature_type: ability
 flavor: The material substance of a creature shreds away at your command.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: elementalist
     cost: 5 Essence
     distance: Ranged 10
-    effect: Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+    effect: Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
     flavor: The material substance of a creature shreds away at your command.
     keywords:
         - Magic

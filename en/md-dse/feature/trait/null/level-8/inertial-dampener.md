@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You and each creature or object of your choice in the area of your [Null](scc:mcdm.heroes.v1/class/null) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+    - effect: You and each creature or object of your choice in the area of your [Null](scc:mcdm.heroes.v1/class/null) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to [force move](scc:mcdm.heroes.v1/movement/forced-movement) a target with this bonus takes psychic damage equal to your Intuition score.
 feature_type: trait
 metadata:
     class: "null"

@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 distance: Melee 1
-effect: You can shift up to 3 squares.
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
 feature_type: ability
 file_basename: artful-flourish
 file_dpath: feature/ability/troubadour/level-1
@@ -30,7 +30,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You can shift up to 3 squares.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
     - roll: Power Roll + Agility
       tier1: 2 damage
       tier2: 5 damage
@@ -47,7 +47,7 @@ metadata:
     action_type: Main action
     class: troubadour
     distance: Melee 1
-    effect: You can shift up to 3 squares.
+    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
     flavor: And they said practicing fencing was a waste!
     keywords:
         - Melee

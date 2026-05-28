@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.
+    - effect: While you have 5 or more Victories, you can [fly](scc:mcdm.heroes.v1/movement/fly). If you can already [fly](scc:mcdm.heroes.v1/movement/fly), you have a +2 bonus to speed while [flying](scc:mcdm.heroes.v1/movement/fly) instead.
 feature_type: trait
 metadata:
     class: censor

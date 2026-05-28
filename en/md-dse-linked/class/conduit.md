@@ -7,7 +7,7 @@ item_name: Conduit
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Read Person, Religion.)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* [Read Person](scc:mcdm.heroes.v1/skill/read-person), Religion.)'
 source: mcdm.heroes.v1
 strong_potency: Intuition
 type: class
@@ -43,7 +43,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 **Recoveries:** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)
 
 ###### Conduit Advancement Table
 

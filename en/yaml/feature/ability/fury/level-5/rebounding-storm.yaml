@@ -5,7 +5,7 @@ effects:
       tier1: 9 damage; push 3
       tier2: 14 damage; push 5
       tier3: 19 damage; push 7
-    - effect: When a target would end this forced movement by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as forced movement remains, this effect continues if the target collides with another creature or object.
+    - effect: When a target would end this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) remains, this effect continues if the target collides with another creature or object.
       name: Effect
 feature_type: ability
 flavor: You knock around enemies like playthings.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: fury
-    content: "\n*You knock around enemies like playthings.*\n\n| **Melee, Strike, Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + Might:**\n\n- **≤11:** 9 damage; push 3\n- **12-16:** 14 damage; push 5\n- **17+:** 19 damage; push 7\n\n**Effect:** When a target would end this forced movement by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as forced movement remains, this effect continues if the target collides with another creature or object."
+    content: "\n*You knock around enemies like playthings.*\n\n| **Melee, Strike, Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + Might:**\n\n- **≤11:** 9 damage; push 3\n- **12-16:** 14 damage; push 5\n- **17+:** 19 damage; push 7\n\n**Effect:** When a target would end this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) remains, this effect continues if the target collides with another creature or object."
     distance: Melee 1
     feature_type: ability
     flavor: You knock around enemies like playthings.

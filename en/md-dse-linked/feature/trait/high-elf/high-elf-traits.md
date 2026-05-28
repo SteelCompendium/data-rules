@@ -19,7 +19,7 @@ effects:
 
         #### Signature Trait: High Elf Glamor
 
-        A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the Flirt or Persuade skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
+        A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the [Flirt](../../../skill/flirt.md) or [Persuade](../../../skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
         #### Purchased High Elf Traits
 
@@ -27,7 +27,7 @@ effects:
 
         ##### Glamor of Terror (2 Points)
 
-        When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature frightened of you until the end of their next turn.
+        When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature [frightened](../../../condition/frightened.md) of you until the end of their next turn.
 
         ##### Graceful Retreat (1 Point)
 
@@ -47,7 +47,7 @@ effects:
 
         ##### Unstoppable Mind (2 Points)
 
-        Your mind allows you to maintain your focus in any situation. You can't be made dazed.
+        Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../../../condition/dazed.md).
 feature_type: trait
 metadata:
     ancestry: high-elf

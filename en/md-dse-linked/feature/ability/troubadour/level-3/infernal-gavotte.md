@@ -5,7 +5,7 @@ cost: 7 Drama
 cost_amount: "7"
 cost_resource: Drama
 distance: 3 burst
-effect: Each ally in the area can shift up to 2 squares.
+effect: Each ally in the area can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares.
 feature_type: ability
 file_basename: infernal-gavotte
 file_dpath: feature/ability/troubadour/level-3
@@ -23,9 +23,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 5 fire damage; A < WEAK, weakened (save ends)
-tier2: 7 fire damage; A < AVERAGE, weakened (save ends)
-tier3: 10 fire damage; A < STRONG, weakened (save ends)
+tier1: 5 fire damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 7 fire damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 10 fire damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -33,11 +33,11 @@ type: ability
 cost: 7 Drama
 distance: 3 burst
 effects:
-    - effect: Each ally in the area can shift up to 2 squares.
+    - effect: Each ally in the area can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares.
     - roll: Power Roll + Presence
-      tier1: 5 fire damage; A < WEAK, weakened (save ends)
-      tier2: 7 fire damage; A < AVERAGE, weakened (save ends)
-      tier3: 10 fire damage; A < STRONG, weakened (save ends)
+      tier1: 5 fire damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 7 fire damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 10 fire damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: A spicy performance lights a fire under your allies' feet.
 keywords:
@@ -50,7 +50,7 @@ metadata:
     class: troubadour
     cost: 7 Drama
     distance: 3 burst
-    effect: Each ally in the area can shift up to 2 squares.
+    effect: Each ally in the area can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares.
     flavor: A spicy performance lights a fire under your allies' feet.
     keywords:
         - Area
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte
     target: Each enemy in the area
-    tier1: 5 fire damage; A < WEAK, weakened (save ends)
-    tier2: 7 fire damage; A < AVERAGE, weakened (save ends)
-    tier3: 10 fire damage; A < STRONG, weakened (save ends)
+    tier1: 5 fire damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier2: 7 fire damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 10 fire damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Infernal Gavotte
 target: Each enemy in the area

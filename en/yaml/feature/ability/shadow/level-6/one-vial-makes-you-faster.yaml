@@ -3,7 +3,7 @@ distance: Ranged 10
 effects:
     - roll: Power Roll + Agility
       tier1: The creature's speed is increased by 2 until the end of the encounter.
-      tier2: The creature can fly until the end of the encounter.
+      tier2: The creature can [fly](scc:mcdm.heroes.v1/movement/fly) until the end of the encounter.
       tier3: The creature turns invisible until the end of their next turn.
     - effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
       name: Effect
@@ -14,7 +14,7 @@ keywords:
 metadata:
     action_type: Main action
     class: shadow
-    content: "\n*Each ally who catches a potion you throw can take the battle to the next level.*\n\n| **Ranged**       |        **Main action** |\n|------------------|-----------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three creatures** |\n\n**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.\n\nA creature who drinks the potion receives benefits based on your power roll.\n\n**Power Roll + Agility:**\n\n- **≤11:** The creature's speed is increased by 2 until the end of the encounter.\n- **12-16:** The creature can fly until the end of the encounter.\n- **17+:** The creature turns invisible until the end of their next turn."
+    content: "\n*Each ally who catches a potion you throw can take the battle to the next level.*\n\n| **Ranged**       |        **Main action** |\n|------------------|-----------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three creatures** |\n\n**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.\n\nA creature who drinks the potion receives benefits based on your power roll.\n\n**Power Roll + Agility:**\n\n- **≤11:** The creature's speed is increased by 2 until the end of the encounter.\n- **12-16:** The creature can [fly](scc:mcdm.heroes.v1/movement/fly) until the end of the encounter.\n- **17+:** The creature turns invisible until the end of their next turn."
     distance: Ranged 10
     feature_type: ability
     flavor: Each ally who catches a potion you throw can take the battle to the next level.

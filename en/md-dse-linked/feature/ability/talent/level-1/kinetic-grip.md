@@ -21,7 +21,7 @@ subtype: signature
 target: One creature or object
 tier1: Slide 2 + R
 tier2: Slide 4 + R
-tier3: Slide 6 + R; prone
+tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -31,7 +31,7 @@ effects:
     - roll: Power Roll + Reason
       tier1: Slide 2 + R
       tier2: Slide 4 + R
-      tier3: Slide 6 + R; prone
+      tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: You lift and hurl your foe away from you.
 keywords:
@@ -55,7 +55,7 @@ metadata:
     target: One creature or object
     tier1: Slide 2 + R
     tier2: Slide 4 + R
-    tier3: Slide 6 + R; prone
+    tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
     type: ability
 name: Kinetic Grip
 target: One creature or object

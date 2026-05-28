@@ -43,7 +43,7 @@ effects:
 
         ##### Nonstop (2 Points)
 
-        Your connection to Axiom allows you to regulate your movement. You can't be made slowed.
+        Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](../../../condition/slowed.md).
 
         ##### Systematic Mind (1 Point)
 

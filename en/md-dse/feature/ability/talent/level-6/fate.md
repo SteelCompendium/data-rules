@@ -5,7 +5,7 @@ cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
 distance: Melee 2
-effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
+effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](scc:mcdm.heroes.v1/condition/prone).
 feature_type: ability
 file_basename: fate
 file_dpath: feature/ability/talent/level-6
@@ -32,7 +32,7 @@ type: ability
 cost: 9 Clarity
 distance: Melee 2
 effects:
-    - effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
+    - effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](scc:mcdm.heroes.v1/condition/prone).
     - roll: Power Roll + Presence
       tier1: 8 + P psychic damage
       tier2: 13 + P psychic damage
@@ -48,7 +48,7 @@ metadata:
     class: talent
     cost: 9 Clarity
     distance: Melee 2
-    effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
+    effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](scc:mcdm.heroes.v1/condition/prone).
     flavor: Your foe gets a glimpse of how it will end for them.
     keywords:
         - Chronopathy

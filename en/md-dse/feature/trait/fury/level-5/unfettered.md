@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: At the start of your turn, you can end any restrained condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+    - effect: At the start of your turn, you can end any [restrained](scc:mcdm.heroes.v1/condition/restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
 feature_type: trait
 metadata:
     class: fury

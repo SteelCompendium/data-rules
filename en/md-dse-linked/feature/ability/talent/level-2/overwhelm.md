@@ -22,9 +22,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/overwhelm
 source: mcdm.heroes.v1
 target: One creature
-tier1: 6 + R psychic damage; I < WEAK, slowed (save ends)
-tier2: 10 + R psychic damage; I < AVERAGE, weakened (save ends)
-tier3: 14 + R psychic damage; I < STRONG, dazed (save ends)
+tier1: 6 + R psychic damage; I < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 10 + R psychic damage; I < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 14 + R psychic damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -33,9 +33,9 @@ cost: 5 Clarity
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: 6 + R psychic damage; I < WEAK, slowed (save ends)
-      tier2: 10 + R psychic damage; I < AVERAGE, weakened (save ends)
-      tier3: 14 + R psychic damage; I < STRONG, dazed (save ends)
+      tier1: 6 + R psychic damage; I < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 10 + R psychic damage; I < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 14 + R psychic damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 feature_type: ability
 flavor: You overload their senses, turning all their subconscious thoughts into conscious ones.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/overwhelm
     target: One creature
-    tier1: 6 + R psychic damage; I < WEAK, slowed (save ends)
-    tier2: 10 + R psychic damage; I < AVERAGE, weakened (save ends)
-    tier3: 14 + R psychic damage; I < STRONG, dazed (save ends)
+    tier1: 6 + R psychic damage; I < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier2: 10 + R psychic damage; I < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 14 + R psychic damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     type: ability
 name: Overwhelm
 target: One creature

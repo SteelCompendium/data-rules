@@ -39,7 +39,7 @@ effects:
 
         ##### Nonstop (2 Points)
 
-        Your bloodfire supplies you with a constant rush of adrenaline. You can't be made slowed.
+        Your bloodfire supplies you with a constant rush of adrenaline. You can't be made [slowed](../../../condition/slowed.md).
 
         ##### Passionate Artisan (1 Point)
 

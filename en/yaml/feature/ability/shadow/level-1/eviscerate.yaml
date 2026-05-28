@@ -2,9 +2,9 @@ cost: 3 Insight
 distance: Melee 1 or ranged 5
 effects:
     - roll: Power Roll + Agility
-      tier1: 4 + A damage; A < WEAK, bleeding (save ends)
-      tier2: 6 + A damage; A < AVERAGE, bleeding (save ends)
-      tier3: 10 + A damage; A < STRONG, bleeding (save ends)
+      tier1: 4 + A damage; A < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+      tier2: 6 + A damage; A < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+      tier3: 10 + A damage; A < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
 feature_type: ability
 flavor: You leave your foe bleeding out after a devastating attack.
 keywords:
@@ -15,7 +15,7 @@ keywords:
 metadata:
     action_type: Main action
     class: shadow
-    content: "\n*You leave your foe bleeding out after a devastating attack.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage; A < WEAK, bleeding (save ends)\n- **12-16:** 6 + A damage; A < AVERAGE, bleeding (save ends)\n- **17+:** 10 + A damage; A < STRONG, bleeding (save ends)"
+    content: "\n*You leave your foe bleeding out after a devastating attack.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage; A < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)\n- **12-16:** 6 + A damage; A < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)\n- **17+:** 10 + A damage; A < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)"
     distance: Melee 1 or ranged 5
     feature_type: ability
     flavor: You leave your foe bleeding out after a devastating attack.

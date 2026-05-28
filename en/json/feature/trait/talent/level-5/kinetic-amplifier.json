@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Whenever you force move a creature, you can spend up to 2 surges. For each surge spent, the forced movement distance gains a bonus equal to your Reason score."
+      "effect": "Whenever you force move a creature, you can spend up to 2 surges. For each surge spent, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a bonus equal to your Reason score."
     }
   ],
   "feature_type": "trait",

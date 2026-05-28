@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 distance: 2 cube within 10
-effect: The ground beneath the area is difficult terrain for enemies.
+effect: The ground beneath the area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
 feature_type: ability
 file_basename: unquiet-ground
 file_dpath: feature/ability/elementalist/level-1
@@ -30,7 +30,7 @@ type: ability
 ```ds-feature
 distance: 2 cube within 10
 effects:
-    - effect: The ground beneath the area is difficult terrain for enemies.
+    - effect: The ground beneath the area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
     - roll: Power Roll + Reason
       tier1: 2 damage
       tier2: 5 damage
@@ -46,7 +46,7 @@ metadata:
     action_type: Main action
     class: elementalist
     distance: 2 cube within 10
-    effect: The ground beneath the area is difficult terrain for enemies.
+    effect: The ground beneath the area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
     flavor: A sudden storm of detritus assaults your foes and leaves them struggling to move.
     keywords:
         - Area

@@ -2,10 +2,10 @@ cost: 11 Piety
 distance: Ranged 10
 effects:
     - roll: Power Roll + Intuition
-      tier1: 10 + I corruption damage; A < WEAK, weakened (save ends)
-      tier2: 15 + I corruption damage; A < AVERAGE, weakened (save ends)
-      tier3: 21 + I corruption damage; A < STRONG, weakened (save ends)
-    - effect: While weakened this way, the target has damage weakness 10.
+      tier1: 10 + I corruption damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 15 + I corruption damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 21 + I corruption damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    - effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target has damage weakness 10.
       name: Effect
 feature_type: ability
 flavor: You utter a divine word that makes a foe brittle.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*You utter a divine word that makes a foe brittle.*\n\n| **Magic, Ranged, Strike** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 10 + I corruption damage; A < WEAK, weakened (save ends)\n- **12-16:** 15 + I corruption damage; A < AVERAGE, weakened (save ends)\n- **17+:** 21 + I corruption damage; A < STRONG, weakened (save ends)\n\n**Effect:** While weakened this way, the target has damage weakness 10."
+    content: "\n*You utter a divine word that makes a foe brittle.*\n\n| **Magic, Ranged, Strike** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 10 + I corruption damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 21 + I corruption damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target has damage weakness 10."
     distance: Ranged 10
     feature_type: ability
     flavor: You utter a divine word that makes a foe brittle.

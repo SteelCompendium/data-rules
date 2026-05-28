@@ -5,11 +5,11 @@ cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
 distance: Self; see below
-effect: You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.
+effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
 feature_type: ability
 file_basename: cacophony-of-cinders
 file_dpath: feature/ability/shadow/level-9
-flavor: You tumble through the battle, stabbing foes and teleporting allies.
+flavor: You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.
 item_id: cacophony-of-cinders
 item_name: Cacophony of Cinders
 keywords:
@@ -22,9 +22,9 @@ power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders
 source: mcdm.heroes.v1
 target: Self
-tier1: An enemy takes 6 damage; an ally can teleport up to 3 squares.
-tier2: An enemy takes 10 damage; an ally can teleport up to 5 squares.
-tier3: An enemy takes 14 damage; an ally can teleport up to 7 squares.
+tier1: An enemy takes 6 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares.
+tier2: An enemy takes 10 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares.
+tier3: An enemy takes 14 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 7 squares.
 type: ability
 ---
 
@@ -32,13 +32,13 @@ type: ability
 cost: 11 Insight
 distance: Self; see below
 effects:
-    - effect: You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.
+    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
     - roll: Power Roll + Agility
-      tier1: An enemy takes 6 damage; an ally can teleport up to 3 squares.
-      tier2: An enemy takes 10 damage; an ally can teleport up to 5 squares.
-      tier3: An enemy takes 14 damage; an ally can teleport up to 7 squares.
+      tier1: An enemy takes 6 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares.
+      tier2: An enemy takes 10 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares.
+      tier3: An enemy takes 14 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 7 squares.
 feature_type: ability
-flavor: You tumble through the battle, stabbing foes and teleporting allies.
+flavor: You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.
 keywords:
     - Magic
     - Melee
@@ -48,8 +48,8 @@ metadata:
     class: shadow
     cost: 11 Insight
     distance: Self; see below
-    effect: You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.
-    flavor: You tumble through the battle, stabbing foes and teleporting allies.
+    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
+    flavor: You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.
     keywords:
         - Magic
         - Melee
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders
     target: Self
-    tier1: An enemy takes 6 damage; an ally can teleport up to 3 squares.
-    tier2: An enemy takes 10 damage; an ally can teleport up to 5 squares.
-    tier3: An enemy takes 14 damage; an ally can teleport up to 7 squares.
+    tier1: An enemy takes 6 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares.
+    tier2: An enemy takes 10 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares.
+    tier3: An enemy takes 14 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 7 squares.
     type: ability
 name: Cacophony of Cinders
 target: Self

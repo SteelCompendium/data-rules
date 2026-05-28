@@ -5,7 +5,7 @@ cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
 distance: Ranged 10
-effect: The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
+effect: The target ignores [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) and takes no damage from [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
 feature_type: ability
 file_basename: inertia-soak
 file_dpath: feature/ability/talent/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Clarity
 distance: Ranged 10
 effects:
-    - effect: The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
+    - effect: The target ignores [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) and takes no damage from [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
 feature_type: ability
 flavor: Your psionic energy surrounds the target and pushes everything else away from them.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 5 Clarity
     distance: Ranged 10
-    effect: The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
+    effect: The target ignores [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) and takes no damage from [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
     flavor: Your psionic energy surrounds the target and pushes everything else away from them.
     keywords:
         - Psionic

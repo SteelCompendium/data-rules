@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: The first time each combat round that a creature is force moved, you gain 3 clarity instead of 2.
+    - effect: The first time each combat round that a creature is [force moved](../../../../movement/forced-movement.md), you gain 3 clarity instead of 2.
 feature_type: trait
 metadata:
     class: talent

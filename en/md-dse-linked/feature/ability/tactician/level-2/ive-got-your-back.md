@@ -22,9 +22,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back
 source: mcdm.heroes.v1
 target: One creature
-tier1: 5 + R damage; taunted (EoT)
-tier2: 9 + R damage; taunted (EoT)
-tier3: 12 + R damage; taunted (EoT)
+tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
 type: ability
 ---
 
@@ -34,9 +34,9 @@ distance: Ranged 5
 effects:
     - effect: One ally adjacent to the target can spend a Recovery.
     - roll: Power Roll + Reason
-      tier1: 5 + R damage; taunted (EoT)
-      tier2: 9 + R damage; taunted (EoT)
-      tier3: 12 + R damage; taunted (EoT)
+      tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+      tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+      tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
 feature_type: ability
 flavor: Your enemy will think twice about attacking your friend.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back
     target: One creature
-    tier1: 5 + R damage; taunted (EoT)
-    tier2: 9 + R damage; taunted (EoT)
-    tier3: 12 + R damage; taunted (EoT)
+    tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+    tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+    tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
     type: ability
 name: I've Got Your Back
 target: One creature

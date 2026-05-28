@@ -2,9 +2,9 @@ cost: 5 Ferocity
 distance: Melee 1
 effects:
     - roll: Power Roll + Might
-      tier1: 4 damage; I < WEAK, slowed (save ends)
-      tier2: 6 damage; I < AVERAGE, slowed (save ends)
-      tier3: 10 damage; I < STRONG, slowed (save ends)
+      tier1: 4 damage; I < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 6 damage; I < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier3: 10 damage; I < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     - effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
       name: Effect
 feature_type: ability
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: fury
-    content: "\n*I will hunt you down.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 4 damage; I < WEAK, slowed (save ends)\n- **12-16:** 6 damage; I < AVERAGE, slowed (save ends)\n- **17+:** 10 damage; I < STRONG, slowed (save ends)\n\n**Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move."
+    content: "\n*I will hunt you down.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 4 damage; I < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 6 damage; I < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 10 damage; I < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n\n**Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move."
     distance: Melee 1
     feature_type: ability
     flavor: I will hunt you down.

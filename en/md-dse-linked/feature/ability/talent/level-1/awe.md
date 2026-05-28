@@ -23,9 +23,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/awe
 source: mcdm.heroes.v1
 target: One creature
-tier1: 3 + P psychic damage; I < WEAK, frightened (save ends)
-tier2: 6 + P psychic damage; I < AVERAGE, frightened (save ends)
-tier3: 9 + P psychic damage; I < STRONG, frightened (save ends)
+tier1: 3 + P psychic damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: 6 + P psychic damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: 9 + P psychic damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -35,9 +35,9 @@ distance: Ranged 10
 effects:
     - effect: If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
     - roll: Power Roll + Presence
-      tier1: 3 + P psychic damage; I < WEAK, frightened (save ends)
-      tier2: 6 + P psychic damage; I < AVERAGE, frightened (save ends)
-      tier3: 9 + P psychic damage; I < STRONG, frightened (save ends)
+      tier1: 3 + P psychic damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: 6 + P psychic damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: 9 + P psychic damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 feature_type: ability
 flavor: You project psionic energy out to a creature and take on a new visage in their mind.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/awe
     target: One creature
-    tier1: 3 + P psychic damage; I < WEAK, frightened (save ends)
-    tier2: 6 + P psychic damage; I < AVERAGE, frightened (save ends)
-    tier3: 9 + P psychic damage; I < STRONG, frightened (save ends)
+    tier1: 3 + P psychic damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier2: 6 + P psychic damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier3: 9 + P psychic damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
     type: ability
 name: Awe
 target: One creature
