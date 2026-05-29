@@ -4,9 +4,9 @@
   "effects": [
     {
       "roll": "Power Roll + Presence",
-      "tier1": "5 + P holy damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)",
-      "tier2": "8 + P holy damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)",
-      "tier3": "11 + P holy damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)"
+      "tier1": "5 + P holy damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier2": "8 + P holy damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier3": "11 + P holy damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
     }
   ],
   "feature_type": "ability",
@@ -19,7 +19,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*You conjure memories of their sins to harry your foes.*\n\n| **Magic, Ranged, Strike**  |    **Main action**  |\n|----------------------------|--------------------:|\n| **📏 Ranged 10**           | **🎯 One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 + P holy damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)\n- **12-16:** 8 + P holy damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)\n- **17+:** 11 + P holy damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/[dazed](scc:mcdm.heroes.v1/condition/dazed)) (save ends)",
+    "content": "\n*You conjure memories of their sins to harry your foes.*\n\n| **Magic, Ranged, Strike**  |    **Main action**  |\n|----------------------------|--------------------:|\n| **📏 Ranged 10**           | **🎯 One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 + P holy damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 8 + P holy damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 11 + P holy damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You conjure memories of their sins to harry your foes.",
