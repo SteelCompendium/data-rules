@@ -1,0 +1,12 @@
+---
+file_basename: jump
+file_dpath: skill
+item_id: jump
+item_name: Jump
+name: Jump
+scc: mcdm.heroes.v1/skill/jump
+source: mcdm.heroes.v1
+type: skill
+---
+
+Leap vertical and horizontal distances.

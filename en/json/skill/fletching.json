@@ -1,0 +1,6 @@
+{
+  "content": "Make ranged weapons and ammunition.",
+  "name": "Fletching",
+  "scc": "mcdm.heroes.v1/skill/fletching",
+  "type": "skill"
+}
