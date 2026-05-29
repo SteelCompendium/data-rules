@@ -1,0 +1,28 @@
+---
+action_type: feature
+class: shadow
+feature_type: trait
+file_basename: 9th-level-college-ability
+file_dpath: feature/trait/shadow/level-9
+item_id: 9th-level-college-ability
+item_name: 9th-Level College Ability
+level: "9"
+name: 9th-Level College Ability
+scc: mcdm.heroes.v1/feature.trait.shadow.level-9/9th-level-college-ability
+source: mcdm.heroes.v1
+type: trait
+---
+
+```ds-feature
+effects:
+    - effect: "Your [shadow](../../../../class/shadow.md) college grants your choice of one of two heroic abilities.\n\n##### 9th-Level Black Ash Abilities\n\nChoose one of the following abilities.\n\n##### 9th-Level Caustic Alchemy Abilities\n\nChoose one of the following abilities.\n\n##### 9th-Level Harlequin Mask Abilities\n\nChoose one of the following abilities.\n\n###### Cacophony of Cinders (11 Insight)\n\n>\n> *You tumble through the battle, stabbing foes and [teleporting](../../../../movement/teleport.md) allies.*\n>\n> | **Magic, Melee, Weapon** | **Main action** |\n> |--------------------------|----------------:|\n> | **\U0001F4CF Self; see below**   |     **\U0001F3AF Self** |\n>\n> **Effect:** You [shift](../../../../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).\n>\n> **Power Roll + Agility:**\n>\n> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../movement/teleport.md) up to 3 squares.\n> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.\n> - **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../movement/teleport.md) up to 7 squares."
+feature_type: trait
+metadata:
+    class: shadow
+    level: "9"
+    name: 9th-Level College Ability
+    scc: mcdm.heroes.v1/feature.trait.shadow.level-9/9th-level-college-ability
+    type: trait
+name: 9th-Level College Ability
+type: feature
+```

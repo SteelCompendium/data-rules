@@ -1,0 +1,43 @@
+ability:
+    cost: 11 Piety
+    distance: Ranged 10
+    effects:
+        - effect: The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
+          name: Effect
+    feature_type: ability
+    flavor: You speak inspiring words to a friend and spur them to incredible feats.
+    keywords:
+        - Magic
+        - Ranged
+    metadata:
+        action_type: Maneuver
+        content: "\n*You speak inspiring words to a friend and spur them to incredible feats.*\n\n| **Magic, Ranged**  |    **Maneuver** |\n|--------------------|----------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF One ally** |\n\n**Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource."
+        distance: Ranged 10
+        feature_type: ability
+        flavor: You speak inspiring words to a friend and spur them to incredible feats.
+        item_id: alacrity-of-the-heart
+        item_name: Alacrity of the Heart
+        keywords:
+            - Magic
+            - Ranged
+        target: One ally
+        type: feature/ability/common
+    name: Alacrity of the Heart
+    target: One ally
+    type: feature
+    usage: Maneuver
+effects:
+    - effect: Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](scc:mcdm.heroes.v1/class/conduit) Domain Abilities table.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: conduit
+    feature_type: trait
+    item_id: 9th-level-domain-ability
+    item_name: 9th-Level Domain Ability
+    level: 9
+    scc:
+        - mcdm.heroes.v1/feature.trait.conduit.level-9/9th-level-domain-ability
+    type: feature/trait/conduit/level-9
+name: 9th-Level Domain Ability
+type: feature

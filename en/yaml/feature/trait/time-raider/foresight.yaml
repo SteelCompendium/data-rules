@@ -1,0 +1,13 @@
+effects:
+    - effect: Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with concealment who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
+feature_type: trait
+metadata:
+    action_type: feature
+    feature_type: trait
+    item_id: foresight
+    item_name: Foresight
+    scc:
+        - mcdm.heroes.v1/feature.trait.time-raider/foresight
+    type: feature/trait/time-raider
+name: Foresight
+type: feature

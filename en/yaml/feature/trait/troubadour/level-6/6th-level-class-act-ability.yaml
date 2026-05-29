@@ -1,0 +1,45 @@
+ability:
+    cost: 9 Drama
+    distance: 5 burst
+    effects:
+        - roll: Power Roll + Presence
+          tier1: 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+          tier2: 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+          tier3: 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    feature_type: ability
+    flavor: You give away the ending of this battle, and it's not great for them.
+    keywords:
+        - Area
+        - Magic
+    metadata:
+        action_type: Main action
+        content: "\n*You give away the ending of this battle, and it's not great for them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
+        distance: 5 burst
+        feature_type: ability
+        flavor: You give away the ending of this battle, and it's not great for them.
+        item_id: heres-how-your-story-ends
+        item_name: Here's How Your Story Ends
+        keywords:
+            - Area
+            - Magic
+        target: Each enemy in the area
+        type: feature/ability/common
+    name: Here's How Your Story Ends
+    target: Each enemy in the area
+    type: feature
+    usage: Main action
+effects:
+    - effect: Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants your choice of one of two heroic abilities.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: troubadour
+    feature_type: trait
+    item_id: 6th-level-class-act-ability
+    item_name: 6th-Level Class Act Ability
+    level: 6
+    scc:
+        - mcdm.heroes.v1/feature.trait.troubadour.level-6/6th-level-class-act-ability
+    type: feature/trait/troubadour/level-6
+name: 6th-Level Class Act Ability
+type: feature

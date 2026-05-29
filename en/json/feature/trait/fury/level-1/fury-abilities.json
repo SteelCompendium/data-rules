@@ -1,0 +1,62 @@
+{
+  "ability": {
+    "ability_type": "Signature",
+    "distance": "Melee 1",
+    "effects": [
+      {
+        "roll": "Power Roll + Might",
+        "tier1": "3 + M damage; push 1",
+        "tier2": "6 + M damage; push 2",
+        "tier3": "9 + M damage; push 4"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "The heavy impact of your weapon attacks drives your foes ever back.",
+    "keywords": [
+      "Melee",
+      "Strike",
+      "Weapon"
+    ],
+    "metadata": {
+      "ability_type": "Signature",
+      "action_type": "Main action",
+      "content": "\n*The heavy impact of your weapon attacks drives your foes ever back.*\n\n| **Melee, Strike, Weapon** |                **Main action** |\n|---------------------------|-------------------------------:|\n| **📏 Melee 1**            |  **🎯 One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 + M damage; push 1\n- **12-16:** 6 + M damage; push 2\n- **17+:** 9 + M damage; push 4",
+      "distance": "Melee 1",
+      "feature_type": "ability",
+      "flavor": "The heavy impact of your weapon attacks drives your foes ever back.",
+      "item_id": "brutal-slam",
+      "item_name": "Brutal Slam",
+      "keywords": [
+        "Melee",
+        "Strike",
+        "Weapon"
+      ],
+      "target": "One creature or object",
+      "type": "feature/ability/common"
+    },
+    "name": "Brutal Slam",
+    "target": "One creature or object",
+    "type": "feature",
+    "usage": "Main action"
+  },
+  "effects": [
+    {
+      "effect": "You specialize in dealing massive damage on the battlefield, and have mastered unique martial abilities that allow you to strike hard and keep moving."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "fury-abilities",
+    "item_name": "Fury Abilities",
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.level-1/fury-abilities"
+    ],
+    "type": "feature/trait/fury/level-1"
+  },
+  "name": "Fury Abilities",
+  "type": "feature"
+}

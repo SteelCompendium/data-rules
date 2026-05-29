@@ -1,0 +1,66 @@
+{
+  "ability": {
+    "ability_type": "Triggered",
+    "cost": "11 Discipline",
+    "distance": "Ranged 10",
+    "effects": [
+      {
+        "roll": "Power Roll + Intuition",
+        "tier1": "I \u003c WEAK, the target loses their turn",
+        "tier2": "I \u003c AVERAGE, the target loses their turn",
+        "tier3": "I \u003c STRONG, the target loses their turn"
+      },
+      {
+        "effect": "If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.",
+    "keywords": [
+      "Psionic",
+      "Ranged"
+    ],
+    "metadata": {
+      "ability_type": "Triggered",
+      "action_type": "Free triggered",
+      "content": "\n*You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.*\n\n| **Psionic, Ranged** |  **Free triggered** |\n|---------------------|--------------------:|\n| **📏 Ranged 10**    | **🎯 One creature** |\n\n**Trigger:** The triggering creature starts their turn.\n\n**Power Roll + Intuition:**\n\n- **≤11:** I \u003c WEAK, the target loses their turn\n- **12-16:** I \u003c AVERAGE, the target loses their turn\n- **17+:** I \u003c STRONG, the target loses their turn\n\n**Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.",
+      "distance": "Ranged 10",
+      "feature_type": "ability",
+      "flavor": "You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.",
+      "item_id": "arrestor-cycle",
+      "item_name": "Arrestor Cycle",
+      "keywords": [
+        "Psionic",
+        "Ranged"
+      ],
+      "target": "One creature",
+      "type": "feature/ability/common"
+    },
+    "name": "Arrestor Cycle",
+    "target": "One creature",
+    "trigger": "The triggering creature starts their turn.",
+    "type": "feature",
+    "usage": "Free triggered"
+  },
+  "effects": [
+    {
+      "effect": "Your [null](scc:mcdm.heroes.v1/class/null) tradition grants your choice of one of two heroic abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "null",
+    "feature_type": "trait",
+    "item_id": "9th-level-tradition-ability",
+    "item_name": "9th-Level Tradition Ability",
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.null.level-9/9th-level-tradition-ability"
+    ],
+    "type": "feature/trait/null/level-9"
+  },
+  "name": "9th-Level Tradition Ability",
+  "type": "feature"
+}

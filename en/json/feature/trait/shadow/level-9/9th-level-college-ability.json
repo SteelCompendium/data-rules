@@ -1,0 +1,65 @@
+{
+  "ability": {
+    "cost": "11 Insight",
+    "distance": "Self; see below",
+    "effects": [
+      {
+        "roll": "Power Roll + Agility",
+        "tier1": "An enemy takes 6 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares.",
+        "tier2": "An enemy takes 10 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares.",
+        "tier3": "An enemy takes 14 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 7 squares."
+      },
+      {
+        "effect": "You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.",
+    "keywords": [
+      "Magic",
+      "Melee",
+      "Weapon"
+    ],
+    "metadata": {
+      "action_type": "Main action",
+      "content": "\n*You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.*\n\n| **Magic, Melee, Weapon** | **Main action** |\n|--------------------------|----------------:|\n| **📏 Self; see below**   |     **🎯 Self** |\n\n**Effect:** You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).\n\n**Power Roll + Agility:**\n\n- **≤11:** An enemy takes 6 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares.\n- **12-16:** An enemy takes 10 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares.\n- **17+:** An enemy takes 14 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 7 squares.",
+      "distance": "Self; see below",
+      "feature_type": "ability",
+      "flavor": "You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.",
+      "item_id": "cacophony-of-cinders",
+      "item_name": "Cacophony of Cinders",
+      "keywords": [
+        "Magic",
+        "Melee",
+        "Weapon"
+      ],
+      "target": "Self",
+      "type": "feature/ability/common"
+    },
+    "name": "Cacophony of Cinders",
+    "target": "Self",
+    "type": "feature",
+    "usage": "Main action"
+  },
+  "effects": [
+    {
+      "effect": "Your [shadow](scc:mcdm.heroes.v1/class/shadow) college grants your choice of one of two heroic abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "shadow",
+    "feature_type": "trait",
+    "item_id": "9th-level-college-ability",
+    "item_name": "9th-Level College Ability",
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.shadow.level-9/9th-level-college-ability"
+    ],
+    "type": "feature/trait/shadow/level-9"
+  },
+  "name": "9th-Level College Ability",
+  "type": "feature"
+}

@@ -1,0 +1,59 @@
+{
+  "ability": {
+    "cost": "9 Wrath",
+    "distance": "3 burst",
+    "effects": [
+      {
+        "roll": "Power Roll + Presence",
+        "tier1": "4 psychic damage; slide 3",
+        "tier2": "6 psychic damage; slide 5",
+        "tier3": "8 psychic damage; slide 7"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You terrify your enemies into retreating, creating chaos in their ranks.",
+    "keywords": [
+      "Area",
+      "Magic"
+    ],
+    "metadata": {
+      "action_type": "Main action",
+      "content": "\n*You terrify your enemies into retreating, creating chaos in their ranks.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **📏 3 burst**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 4 psychic damage; slide 3\n- **12-16:** 6 psychic damage; slide 5\n- **17+:** 8 psychic damage; slide 7",
+      "distance": "3 burst",
+      "feature_type": "ability",
+      "flavor": "You terrify your enemies into retreating, creating chaos in their ranks.",
+      "item_id": "begone",
+      "item_name": "Begone!",
+      "keywords": [
+        "Area",
+        "Magic"
+      ],
+      "target": "Each enemy in the area",
+      "type": "feature/ability/common"
+    },
+    "name": "Begone!",
+    "target": "Each enemy in the area",
+    "type": "feature",
+    "usage": "Main action"
+  },
+  "effects": [
+    {
+      "effect": "Your [censor](scc:mcdm.heroes.v1/class/censor) order grants your choice of one of two heroic abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "censor",
+    "feature_type": "trait",
+    "item_id": "6th-level-order-ability",
+    "item_name": "6th-Level Order Ability",
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.censor.level-6/6th-level-order-ability"
+    ],
+    "type": "feature/trait/censor/level-6"
+  },
+  "name": "6th-Level Order Ability",
+  "type": "feature"
+}

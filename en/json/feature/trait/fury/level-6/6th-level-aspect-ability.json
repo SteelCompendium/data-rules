@@ -1,0 +1,61 @@
+{
+  "ability": {
+    "cost": "9 Ferocity",
+    "distance": "Self",
+    "effects": [
+      {
+        "roll": "Power Roll + Might",
+        "tier1": "4 damage; push 1",
+        "tier2": "7 damage; push 2",
+        "tier3": "11 damage; push 3"
+      },
+      {
+        "effect": "You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You leap and crash down, causing a shockwave that devastates foes.",
+    "keywords": [
+      "Magic"
+    ],
+    "metadata": {
+      "action_type": "Maneuver",
+      "content": "\n*You leap and crash down, causing a shockwave that devastates foes.*\n\n| **Magic**   | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.\n\n**Power Roll + Might:**\n\n- **≤11:** 4 damage; push 1\n- **12-16:** 7 damage; push 2\n- **17+:** 11 damage; push 3",
+      "distance": "Self",
+      "feature_type": "ability",
+      "flavor": "You leap and crash down, causing a shockwave that devastates foes.",
+      "item_id": "avalanche-impact",
+      "item_name": "Avalanche Impact",
+      "keywords": [
+        "Magic"
+      ],
+      "target": "Self",
+      "type": "feature/ability/common"
+    },
+    "name": "Avalanche Impact",
+    "target": "Self",
+    "type": "feature",
+    "usage": "Maneuver"
+  },
+  "effects": [
+    {
+      "effect": "Your [primordial aspect](scc:mcdm.heroes.v1/feature.trait.fury.level-1/primordial-aspect) grants your choice of one of two heroic abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "6th-level-aspect-ability",
+    "item_name": "6th-Level Aspect Ability",
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.level-6/6th-level-aspect-ability"
+    ],
+    "type": "feature/trait/fury/level-6"
+  },
+  "name": "6th-Level Aspect Ability",
+  "type": "feature"
+}

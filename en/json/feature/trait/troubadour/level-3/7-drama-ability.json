@@ -1,0 +1,63 @@
+{
+  "ability": {
+    "cost": "7 Drama",
+    "distance": "4 burst",
+    "effects": [
+      {
+        "roll": "Power Roll + Presence",
+        "tier1": "Slide 3; P \u003c WEAK, this slide ignores the target's stability",
+        "tier2": "Slide 5; P \u003c AVERAGE, this slide ignores the target's stability",
+        "tier3": "Slide 7; P \u003c STRONG, this slide ignores the target's stability"
+      },
+      {
+        "effect": "Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "No, this isn't right. That foe was over there!",
+    "keywords": [
+      "Area",
+      "Magic"
+    ],
+    "metadata": {
+      "action_type": "Maneuver",
+      "content": "\n*No, this isn't right. That foe was over there!*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **📏 4 burst**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** Slide 3; P \u003c WEAK, this slide ignores the target's stability\n- **12-16:** Slide 5; P \u003c AVERAGE, this slide ignores the target's stability\n- **17+:** Slide 7; P \u003c STRONG, this slide ignores the target's stability\n\n**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.",
+      "distance": "4 burst",
+      "feature_type": "ability",
+      "flavor": "No, this isn't right. That foe was over there!",
+      "item_id": "extensive-rewrites",
+      "item_name": "Extensive Rewrites",
+      "keywords": [
+        "Area",
+        "Magic"
+      ],
+      "target": "Each enemy in the area",
+      "type": "feature/ability/common"
+    },
+    "name": "Extensive Rewrites",
+    "target": "Each enemy in the area",
+    "type": "feature",
+    "usage": "Maneuver"
+  },
+  "effects": [
+    {
+      "effect": "Choose one heroic ability from the following options, each of which costs 7 drama to use."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "troubadour",
+    "feature_type": "trait",
+    "item_id": "7-drama-ability",
+    "item_name": "7-Drama Ability",
+    "level": 3,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.troubadour.level-3/7-drama-ability"
+    ],
+    "type": "feature/trait/troubadour/level-3"
+  },
+  "name": "7-Drama Ability",
+  "type": "feature"
+}

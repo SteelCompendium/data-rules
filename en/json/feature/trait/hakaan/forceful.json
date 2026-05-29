@@ -1,0 +1,20 @@
+{
+  "effects": [
+    {
+      "effect": "Whenever you [force move](scc:mcdm.heroes.v1/movement/forced-movement) a creature or object, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a +1 bonus."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "feature_type": "trait",
+    "item_id": "forceful",
+    "item_name": "Forceful",
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.hakaan/forceful"
+    ],
+    "type": "feature/trait/hakaan"
+  },
+  "name": "Forceful",
+  "type": "feature"
+}

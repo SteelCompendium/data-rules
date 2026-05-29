@@ -1,0 +1,55 @@
+{
+  "ability": {
+    "cost": "5 Discipline",
+    "distance": "Self",
+    "effects": [
+      {
+        "effect": "You can use a signature or heroic ability. You gain an edge on that ability's power rolls.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You release stored time, allowing you to act twice.",
+    "keywords": [
+      "Psionic"
+    ],
+    "metadata": {
+      "action_type": "Maneuver",
+      "content": "\n*You release stored time, allowing you to act twice.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls.",
+      "distance": "Self",
+      "feature_type": "ability",
+      "flavor": "You release stored time, allowing you to act twice.",
+      "item_id": "blur",
+      "item_name": "Blur",
+      "keywords": [
+        "Psionic"
+      ],
+      "target": "Self",
+      "type": "feature/ability/common"
+    },
+    "name": "Blur",
+    "target": "Self",
+    "type": "feature",
+    "usage": "Maneuver"
+  },
+  "effects": [
+    {
+      "effect": "Your [null](scc:mcdm.heroes.v1/class/null) tradition grants your choice of one of two abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "null",
+    "feature_type": "trait",
+    "item_id": "2nd-level-tradition-ability",
+    "item_name": "2nd-Level Tradition Ability",
+    "level": 2,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.null.level-2/2nd-level-tradition-ability"
+    ],
+    "type": "feature/trait/null/level-2"
+  },
+  "name": "2nd-Level Tradition Ability",
+  "type": "feature"
+}

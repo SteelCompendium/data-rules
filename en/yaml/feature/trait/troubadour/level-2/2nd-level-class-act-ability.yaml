@@ -1,0 +1,43 @@
+ability:
+    cost: 5 Drama
+    distance: Ranged 10
+    effects:
+        - effect: 'A [guest star](scc:mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](scc:mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the [guest star](scc:mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can''t be uplifted this way more than once during an encounter.'
+          name: Effect
+    feature_type: ability
+    flavor: We offered them a percentage of the gross. So they're working for free!
+    keywords:
+        - Magic
+        - Ranged
+    metadata:
+        action_type: Main action
+        content: "\n*We offered them a percentage of the gross. So they're working for free!*\n\n| **Magic, Ranged** | **Main action** |\n|-------------------|----------------:|\n| **\U0001F4CF Ranged 10**  |  **\U0001F3AF Special** |\n\n**Effect:** A [guest star](scc:mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](scc:mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the [guest star](scc:mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter."
+        distance: Ranged 10
+        feature_type: ability
+        flavor: We offered them a percentage of the gross. So they're working for free!
+        item_id: guest-star
+        item_name: Guest Star
+        keywords:
+            - Magic
+            - Ranged
+        target: Special
+        type: feature/ability/common
+    name: Guest Star
+    target: Special
+    type: feature
+    usage: Main action
+effects:
+    - effect: Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants your choice of one of two heroic abilities.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: troubadour
+    feature_type: trait
+    item_id: 2nd-level-class-act-ability
+    item_name: 2nd-Level Class Act Ability
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.trait.troubadour.level-2/2nd-level-class-act-ability
+    type: feature/trait/troubadour/level-2
+name: 2nd-Level Class Act Ability
+type: feature

@@ -1,0 +1,67 @@
+{
+  "ability": {
+    "cost": "11 Ferocity",
+    "distance": "3 burst",
+    "effects": [
+      {
+        "roll": "Power Roll + Might",
+        "tier1": "7 damage; push 3",
+        "tier2": "10 damage; push 5",
+        "tier3": "15 damage; push 7"
+      },
+      {
+        "effect": "If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You use your weapon to create a destructive shockwave.",
+    "keywords": [
+      "Area",
+      "Magic",
+      "Melee",
+      "Weapon"
+    ],
+    "metadata": {
+      "action_type": "Main action",
+      "content": "\n*You use your weapon to create a destructive shockwave.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **📏 3 burst**                 | **🎯 Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 7 damage; push 3\n- **12-16:** 10 damage; push 5\n- **17+:** 15 damage; push 7\n\n**Effect:** If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage.",
+      "distance": "3 burst",
+      "feature_type": "ability",
+      "flavor": "You use your weapon to create a destructive shockwave.",
+      "item_id": "death-comes-for-you-all",
+      "item_name": "Death Comes for You All!",
+      "keywords": [
+        "Area",
+        "Magic",
+        "Melee",
+        "Weapon"
+      ],
+      "target": "Each enemy in the area",
+      "type": "feature/ability/common"
+    },
+    "name": "Death Comes for You All!",
+    "target": "Each enemy in the area",
+    "type": "feature",
+    "usage": "Main action"
+  },
+  "effects": [
+    {
+      "effect": "Your [primordial aspect](scc:mcdm.heroes.v1/feature.trait.fury.level-1/primordial-aspect) grants your choice of one of two heroic abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "9th-level-aspect-ability",
+    "item_name": "9th-Level Aspect Ability",
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.level-9/9th-level-aspect-ability"
+    ],
+    "type": "feature/trait/fury/level-9"
+  },
+  "name": "9th-Level Aspect Ability",
+  "type": "feature"
+}

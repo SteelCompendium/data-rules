@@ -1,0 +1,41 @@
+ability:
+    cost: 11 Ferocity
+    distance: Self
+    effects:
+        - effect: You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.
+          name: Effect
+    feature_type: ability
+    flavor: Your primordial energy makes for instant retribution.
+    keywords:
+        - Magic
+    metadata:
+        action_type: Maneuver
+        content: "\n*Your primordial energy makes for instant retribution.*\n\n| **Magic**   | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina."
+        distance: Self
+        feature_type: ability
+        flavor: Your primordial energy makes for instant retribution.
+        item_id: elemental-ferocity
+        item_name: Elemental Ferocity
+        keywords:
+            - Magic
+        target: Self
+        type: feature/ability/common
+    name: Elemental Ferocity
+    target: Self
+    type: feature
+    usage: Maneuver
+effects:
+    - effect: Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: 11-ferocity-ability
+    item_name: 11-Ferocity Ability
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.level-8/11-ferocity-ability
+    type: feature/trait/fury/level-8
+name: 11-Ferocity Ability
+type: feature

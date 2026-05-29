@@ -1,0 +1,55 @@
+{
+  "ability": {
+    "cost": "9 Discipline",
+    "distance": "Self",
+    "effects": [
+      {
+        "effect": "You can use up to three signature abilities, each of which gains an edge.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You slip into a faster timestream to act more quickly.",
+    "keywords": [
+      "Psionic"
+    ],
+    "metadata": {
+      "action_type": "Main action",
+      "content": "\n*You slip into a faster timestream to act more quickly.*\n\n| **Psionic** | **Main action** |\n|-------------|----------------:|\n| **📏 Self** |     **🎯 Self** |\n\n**Effect:** You can use up to three signature abilities, each of which gains an edge.",
+      "distance": "Self",
+      "feature_type": "ability",
+      "flavor": "You slip into a faster timestream to act more quickly.",
+      "item_id": "interphase",
+      "item_name": "Interphase",
+      "keywords": [
+        "Psionic"
+      ],
+      "target": "Self",
+      "type": "feature/ability/common"
+    },
+    "name": "Interphase",
+    "target": "Self",
+    "type": "feature",
+    "usage": "Main action"
+  },
+  "effects": [
+    {
+      "effect": "Your [null](scc:mcdm.heroes.v1/class/null) tradition grants your choice of one of two heroic abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "null",
+    "feature_type": "trait",
+    "item_id": "6th-level-tradition-ability",
+    "item_name": "6th-Level Tradition Ability",
+    "level": 6,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.null.level-6/6th-level-tradition-ability"
+    ],
+    "type": "feature/trait/null/level-6"
+  },
+  "name": "6th-Level Tradition Ability",
+  "type": "feature"
+}

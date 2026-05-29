@@ -1,0 +1,41 @@
+ability:
+    cost: 11 Focus
+    distance: Ranged 10
+    effects:
+        - effect: The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.
+          name: Effect
+    feature_type: ability
+    flavor: You direct an attack to strike true.
+    keywords:
+        - Ranged
+    metadata:
+        action_type: Main action
+        content: "\n*You direct an attack to strike true.*\n\n| **Ranged**       |         **Main action** |\n|------------------|------------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Self or one ally** |\n\n**Effect:** The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1."
+        distance: Ranged 10
+        feature_type: ability
+        flavor: You direct an attack to strike true.
+        item_id: go-now-and-speed-well
+        item_name: Go Now and Speed Well
+        keywords:
+            - Ranged
+        target: Self or one ally
+        type: feature/ability/common
+    name: Go Now and Speed Well
+    target: Self or one ally
+    type: feature
+    usage: Main action
+effects:
+    - effect: Choose one heroic ability from the following options, each of which costs 11 focus to use.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: tactician
+    feature_type: trait
+    item_id: 11-focus-ability
+    item_name: 11-Focus Ability
+    level: 8
+    scc:
+        - mcdm.heroes.v1/feature.trait.tactician.level-8/11-focus-ability
+    type: feature/trait/tactician/level-8
+name: 11-Focus Ability
+type: feature

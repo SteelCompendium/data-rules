@@ -1,0 +1,6 @@
+{
+  "content": "**Item Prerequisite:** None\n\n**Project Source:** None\n\n**Project Roll Characteristic:** Intuition\n\n**Project Goal:** 240 if your career granted you two skills, or 360 if your career granted you three skills\n\nYou revisit your previous life to freshen up on the experience it provided you. When this project is complete, you gain an edge on tests made using the skills provided by your career.",
+  "name": "Hone Career Skills",
+  "scc": "mcdm.heroes.v1/project/hone-career-skills",
+  "type": "project"
+}

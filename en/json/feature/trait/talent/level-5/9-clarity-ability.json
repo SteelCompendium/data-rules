@@ -1,0 +1,59 @@
+{
+  "ability": {
+    "cost": "9 Clarity",
+    "distance": "Ranged 10",
+    "effects": [
+      {
+        "effect": "Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You encase the target in psionic flame and allow them to flicker without fear of burning out.",
+    "keywords": [
+      "Pyrokinesis",
+      "Psionic",
+      "Ranged"
+    ],
+    "metadata": {
+      "action_type": "Maneuver",
+      "content": "\n*You encase the target in psionic flame and allow them to flicker without fear of burning out.*\n\n| **Pyrokinesis, Psionic, Ranged** |            **Maneuver** |\n|----------------------------------|------------------------:|\n| **📏 Ranged 10**                 | **🎯 Self or one ally** |\n\n**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.\n\n**Strained:** The target gains 2 surges. You are [weakened](scc:mcdm.heroes.v1/condition/weakened) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends).",
+      "distance": "Ranged 10",
+      "feature_type": "ability",
+      "flavor": "You encase the target in psionic flame and allow them to flicker without fear of burning out.",
+      "item_id": "exothermic-shield",
+      "item_name": "Exothermic Shield",
+      "keywords": [
+        "Pyrokinesis",
+        "Psionic",
+        "Ranged"
+      ],
+      "target": "Self or one ally",
+      "type": "feature/ability/common"
+    },
+    "name": "Exothermic Shield",
+    "target": "Self or one ally",
+    "type": "feature",
+    "usage": "Maneuver"
+  },
+  "effects": [
+    {
+      "effect": "Choose one heroic ability from the following options, each of which costs 9 clarity to use."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "talent",
+    "feature_type": "trait",
+    "item_id": "9-clarity-ability",
+    "item_name": "9-Clarity Ability",
+    "level": 5,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.talent.level-5/9-clarity-ability"
+    ],
+    "type": "feature/trait/talent/level-5"
+  },
+  "name": "9-Clarity Ability",
+  "type": "feature"
+}

@@ -1,0 +1,43 @@
+ability:
+    cost: 5 Ferocity
+    distance: Melee 1
+    effects:
+        - effect: You vertically push the target up to 4 squares. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+          name: Effect
+    feature_type: ability
+    flavor: You ready?
+    keywords:
+        - Melee
+        - Weapon
+    metadata:
+        action_type: Maneuver
+        content: "\n*You ready?*\n\n| **Melee, Weapon** |            **Maneuver** |\n|-------------------|------------------------:|\n| **\U0001F4CF Melee 1**    | **\U0001F3AF One willing ally** |\n\n**Effect:** You vertically push the target up to 4 squares. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score."
+        distance: Melee 1
+        feature_type: ability
+        flavor: You ready?
+        item_id: special-delivery
+        item_name: Special Delivery
+        keywords:
+            - Melee
+            - Weapon
+        target: One willing ally
+        type: feature/ability/common
+    name: Special Delivery
+    target: One willing ally
+    type: feature
+    usage: Maneuver
+effects:
+    - effect: Your [primordial aspect](scc:mcdm.heroes.v1/feature.trait.fury.level-1/primordial-aspect) grants your choice of one of two heroic abilities.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: 2nd-level-aspect-ability
+    item_name: 2nd-Level Aspect Ability
+    level: 2
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.level-2/2nd-level-aspect-ability
+    type: feature/trait/fury/level-2
+name: 2nd-Level Aspect Ability
+type: feature

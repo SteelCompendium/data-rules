@@ -1,0 +1,49 @@
+ability:
+    cost: 9 Clarity
+    distance: Melee 2
+    effects:
+        - roll: Power Roll + Presence
+          tier1: 8 + P psychic damage
+          tier2: 13 + P psychic damage
+          tier3: 17 + P psychic damage
+        - effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](scc:mcdm.heroes.v1/condition/prone).
+          name: Effect
+    feature_type: ability
+    flavor: Your foe gets a glimpse of how it will end for them.
+    keywords:
+        - Chronopathy
+        - Psionic
+        - Melee
+    metadata:
+        action_type: Main action
+        content: "\n*Your foe gets a glimpse of how it will end for them.*\n\n| **Chronopathy, Psionic, Melee** |  **Main action** |\n|---------------------------------|-----------------:|\n| **\U0001F4CF Melee 2**                  | **\U0001F3AF One enemy** |\n\n**Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](scc:mcdm.heroes.v1/condition/prone).\n\n**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).\n\n**Power Roll + Presence:**\n\n- **≤11:** 8 + P psychic damage\n- **12-16:** 13 + P psychic damage\n- **17+:** 17 + P psychic damage"
+        distance: Melee 2
+        feature_type: ability
+        flavor: Your foe gets a glimpse of how it will end for them.
+        item_id: fate
+        item_name: Fate
+        keywords:
+            - Chronopathy
+            - Psionic
+            - Melee
+        target: One enemy
+        type: feature/ability/common
+    name: Fate
+    target: One enemy
+    type: feature
+    usage: Main action
+effects:
+    - effect: Your [talent](scc:mcdm.heroes.v1/class/talent) tradition grants your choice of one of two heroic abilities.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: talent
+    feature_type: trait
+    item_id: 6th-level-tradition-ability
+    item_name: 6th-Level Tradition Ability
+    level: 6
+    scc:
+        - mcdm.heroes.v1/feature.trait.talent.level-6/6th-level-tradition-ability
+    type: feature/trait/talent/level-6
+name: 6th-Level Tradition Ability
+type: feature

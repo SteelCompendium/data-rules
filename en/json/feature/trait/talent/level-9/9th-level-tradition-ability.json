@@ -1,0 +1,65 @@
+{
+  "ability": {
+    "cost": "11 Clarity",
+    "distance": "Ranged 5",
+    "effects": [
+      {
+        "roll": "Power Roll + Presence",
+        "tier1": "4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+        "tier2": "6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+        "tier3": "10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
+      },
+      {
+        "effect": "Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.",
+    "keywords": [
+      "Chronopathy",
+      "Psionic",
+      "Ranged"
+    ],
+    "metadata": {
+      "action_type": "Main action",
+      "content": "\n*You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*\n\n| **Chronopathy, Psionic, Ranged** |     **Main action** |\n|----------------------------------|--------------------:|\n| **📏 Ranged 5**                  | **🎯 Three allies** |\n\n**Effect:** Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.\n\n**Strained:** Make a power roll that targets you and each enemy within distance.\n\n**Power Roll + Presence:**\n\n- **≤11:** 4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "distance": "Ranged 5",
+      "feature_type": "ability",
+      "flavor": "You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.",
+      "item_id": "acceleration-field",
+      "item_name": "Acceleration Field",
+      "keywords": [
+        "Chronopathy",
+        "Psionic",
+        "Ranged"
+      ],
+      "target": "Three allies",
+      "type": "feature/ability/common"
+    },
+    "name": "Acceleration Field",
+    "target": "Three allies",
+    "type": "feature",
+    "usage": "Main action"
+  },
+  "effects": [
+    {
+      "effect": "Your [talent](scc:mcdm.heroes.v1/class/talent) tradition grants your choice of one of two heroic abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "talent",
+    "feature_type": "trait",
+    "item_id": "9th-level-tradition-ability",
+    "item_name": "9th-Level Tradition Ability",
+    "level": 9,
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.talent.level-9/9th-level-tradition-ability"
+    ],
+    "type": "feature/trait/talent/level-9"
+  },
+  "name": "9th-Level Tradition Ability",
+  "type": "feature"
+}
