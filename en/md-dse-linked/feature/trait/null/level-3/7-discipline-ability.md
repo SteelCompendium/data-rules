@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 7 discipline to use.\n\n##### Absorption Field (7 Discipline)\n\n>\n> *Your [null](../../../../class/null.md) field absorbs kinetic energy.*\n>\n> | **Psionic** | **Maneuver** |\n> |-------------|-------------:|\n> | **\U0001F4CF Self** |  **\U0001F3AF Self** |\n>\n> **Effect:** Until the end of the encounter, the size of your [Null](../../../../class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls."
+    - effect: "Choose one heroic ability from the following options, each of which costs 7 discipline to use.\n\n##### Absorption Field (7 Discipline)\n\n>\n> *Your [null field](../level-1/null-field.md) absorbs kinetic energy.*\n>\n> | **Psionic** | **Maneuver** |\n> |-------------|-------------:|\n> | **\U0001F4CF Self** |  **\U0001F3AF Self** |\n>\n> **Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls."
 feature_type: trait
 metadata:
     class: "null"

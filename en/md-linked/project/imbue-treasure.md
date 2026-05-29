@@ -133,7 +133,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Goal:** 150
 
-**[Devil's](../ancestry/devil.md) Bargain:** You can [fly](../movement/fly.md). Additionally, if an effect would make you [prone](../condition/prone.md) while [flying](../movement/fly.md), you can choose to not make you [prone](../condition/prone.md) by losing Stamina equal to the distance you would have fallen from make you [prone](../condition/prone.md).
+**Devil's Bargain:** You can [fly](../movement/fly.md). Additionally, if an effect would make you [prone](../condition/prone.md) while [flying](../movement/fly.md), you can choose to not make you [prone](../condition/prone.md) by losing Stamina equal to the distance you would have fallen from make you [prone](../condition/prone.md).
 
 **Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
 
@@ -141,7 +141,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 | Enhancement            | Item Prerequisite                                                                                    | Project Source Language |
 |------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
-| [Devil's](../ancestry/devil.md) Bargain        | The wing of an archdevil                                                                             | Anjali                  |
+| Devil's Bargain        | The wing of an archdevil                                                                             | Anjali                  |
 | Dragon Soul II         | An offering of gems, coins, and art stolen from a dragon's hoard, sacrificed in ritual fire          | Vastariax               |
 | Invulnerable           | Repurposed metal plates from a servok war engine                                                     | Rallarian               |
 | Leyline Walker         | A cutting from an ethereal tree that manifests in the mundane world only once a year                 | Yllyric                 |

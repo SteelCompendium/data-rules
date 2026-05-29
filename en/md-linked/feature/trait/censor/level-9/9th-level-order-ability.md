@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-9/9th-level-order-ability
 type: trait
 ---
 
-Your [censor](../../../../class/censor.md) order grants your choice of one of two heroic abilities.
+Your [censor order](../level-1/censor-order.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Exorcist Abilities
 

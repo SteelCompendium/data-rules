@@ -62,7 +62,7 @@ Complications are presented in alphabetical order.
 | 25   | [Evanesceria](../complication/evanesceria.md)                        | 75   | [Secret Twin](../complication/secret-twin.md)                |
 | 26   | [Exile](../complication/exile.md)                              | 76   | Self-Taught                |
 | 27   | [Fallen Immortal](../complication/fallen-immortal.md)                    | 77   | [Sewer Folk](../complication/sewer-folk.md)                 |
-| 28   | [Famous Relative](../complication/famous-relative.md)                    | 78   | [Shadow](../class/shadow.md) Born                |
+| 28   | [Famous Relative](../complication/famous-relative.md)                    | 78   | [Shadow Born](../complication/shadow-born.md)                |
 | 29   | [Feytouched](../complication/feytouched.md)                         | 79   | [Shared Spirit](../complication/shared-spirit.md)              |
 | 30   | [Fiery Ideal](../complication/fiery-ideal.md)                        | 80   | [Shattered Legacy](../complication/shattered-legacy.md)           |
 | 31   | [Fire and Chaos](../complication/fire-and-chaos.md)                     | 81   | [Shipwrecked](../complication/shipwrecked.md)                |
@@ -167,7 +167,7 @@ Complications are presented in alphabetical order.
 | 75   | [Secret Twin](../complication/secret-twin.md)                        |
 | 76   | Self-Taught                        |
 | 77   | [Sewer Folk](../complication/sewer-folk.md)                         |
-| 78   | [Shadow](../class/shadow.md) Born                        |
+| 78   | [Shadow Born](../complication/shadow-born.md)                        |
 | 79   | [Shared Spirit](../complication/shared-spirit.md)                      |
 | 80   | [Shattered Legacy](../complication/shattered-legacy.md)                   |
 | 81   | [Shipwrecked](../complication/shipwrecked.md)                        |

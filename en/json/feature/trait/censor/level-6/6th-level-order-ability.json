@@ -38,7 +38,7 @@
   },
   "effects": [
     {
-      "effect": "Your [censor](scc:mcdm.heroes.v1/class/censor) order grants your choice of one of two heroic abilities."
+      "effect": "Your [censor order](scc:mcdm.heroes.v1/feature.trait.censor.level-1/censor-order) grants your choice of one of two heroic abilities."
     }
   ],
   "feature_type": "trait",

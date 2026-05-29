@@ -45,7 +45,7 @@
   },
   "effects": [
     {
-      "effect": "Your [null](scc:mcdm.heroes.v1/class/null) tradition grants your choice of one of two heroic abilities."
+      "effect": "Your [null tradition](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-tradition) grants your choice of one of two heroic abilities."
     }
   ],
   "feature_type": "trait",

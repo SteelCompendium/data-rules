@@ -27,7 +27,7 @@ ability:
     type: feature
     usage: Main action
 effects:
-    - effect: Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants your choice of one of two heroic abilities.
+    - effect: Your [troubadour class act](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/troubadour-class-act) grants your choice of one of two heroic abilities.
 feature_type: trait
 metadata:
     action_type: feature

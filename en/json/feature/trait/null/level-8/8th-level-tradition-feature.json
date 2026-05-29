@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [null](scc:mcdm.heroes.v1/class/null) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.\n\n###### 8th-Level Tradition Features Table\n\n| Tradition     | Feature           |\n|---------------|-------------------|\n| Chronokinetic | [Shared Momentum](scc:mcdm.heroes.v1/feature.trait.null.level-8/shared-momentum)   |\n| Cryokinetic   | [Synaptic Triage](scc:mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage)   |\n| Metakinetic   | [Inertial Dampener](scc:mcdm.heroes.v1/feature.trait.null.level-8/inertial-dampener) |"
+      "effect": "Your [null tradition](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-tradition) grants you a feature, as shown on the 8th-Level Tradition Features table.\n\n###### 8th-Level Tradition Features Table\n\n| Tradition     | Feature           |\n|---------------|-------------------|\n| Chronokinetic | [Shared Momentum](scc:mcdm.heroes.v1/feature.trait.null.level-8/shared-momentum)   |\n| Cryokinetic   | [Synaptic Triage](scc:mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage)   |\n| Metakinetic   | [Inertial Dampener](scc:mcdm.heroes.v1/feature.trait.null.level-8/inertial-dampener) |"
     }
   ],
   "feature_type": "trait",

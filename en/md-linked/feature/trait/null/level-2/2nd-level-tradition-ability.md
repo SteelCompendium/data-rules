@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.null.level-2/2nd-level-tradition-ability
 type: trait
 ---
 
-Your [null](../../../../class/null.md) tradition grants your choice of one of two abilities.
+Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 

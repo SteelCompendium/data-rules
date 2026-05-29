@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../../../../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null](../../../../class/null.md) Field ability equal to your Intuition score.
+    - effect: Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../../../../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../level-1/null-field.md) ability equal to your Intuition score.
 feature_type: trait
 metadata:
     class: "null"

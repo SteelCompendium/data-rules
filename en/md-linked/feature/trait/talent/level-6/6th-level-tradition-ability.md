@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-6/6th-level-tradition-ability
 type: trait
 ---
 
-Your [talent](../../../../class/talent.md) tradition grants your choice of one of two heroic abilities.
+Your [talent tradition](../level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronopathy Abilities
 

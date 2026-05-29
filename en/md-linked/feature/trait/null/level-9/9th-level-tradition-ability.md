@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.null.level-9/9th-level-tradition-ability
 type: trait
 ---
 
-Your [null](../../../../class/null.md) tradition grants your choice of one of two heroic abilities.
+Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 

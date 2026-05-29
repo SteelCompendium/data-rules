@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-2/2nd-level-college-ability
 type: trait
 ---
 
-Your [shadow](../../../../class/shadow.md) college grants your choice of one of two heroic abilities.
+Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Black Ash Ability
 

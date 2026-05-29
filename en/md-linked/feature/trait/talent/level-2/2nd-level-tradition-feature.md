@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-2/2nd-level-tradition-feature
 type: trait
 ---
 
-Your [talent](../../../../class/talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent tradition](../level-1/talent-tradition.md) grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 

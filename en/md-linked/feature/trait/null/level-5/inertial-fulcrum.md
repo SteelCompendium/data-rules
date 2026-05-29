@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.trait.null.level-5/inertial-fulcrum
 type: trait
 ---
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../../../../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null](../../../../class/null.md) Field ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../../../../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../level-1/null-field.md) ability equal to your Intuition score.

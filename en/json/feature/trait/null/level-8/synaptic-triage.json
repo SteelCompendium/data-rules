@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](scc:mcdm.heroes.v1/class/null) Field ability also gains this benefit."
+      "effect": "As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null Field](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-field) ability also gains this benefit."
     }
   ],
   "feature_type": "trait",

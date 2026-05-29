@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants your choice of one of two features.
+    - effect: Your [troubadour class act](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/troubadour-class-act) grants your choice of one of two features.
 feature_type: trait
 metadata:
     class: troubadour

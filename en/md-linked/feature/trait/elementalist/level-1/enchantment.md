@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment
 type: trait
 ---
 
-You weave an elemental [enchantment](enchantment.md) into your body that enhances your statistics. Choose one of the following enchantments. You can change your [enchantment](enchantment.md) and ward (see [Elementalist](../../../../class/elementalist.md) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:*  [Enchantment of Destruction](enchantment-of-destruction.md).)
+You weave an elemental [enchantment](enchantment.md) into your body that enhances your statistics. Choose one of the following enchantments. You can change your [enchantment](enchantment.md) and ward (see [Elementalist Ward](elementalist-ward.md) below) by performing a complex ritual as a respite activity. (*Quick Build:*  [Enchantment of Destruction](enchantment-of-destruction.md).)

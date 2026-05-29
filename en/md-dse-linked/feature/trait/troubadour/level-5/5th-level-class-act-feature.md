@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your [troubadour](../../../../class/troubadour.md) class act grants your choice of one of two features.
+    - effect: Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choice of one of two features.
 feature_type: trait
 metadata:
     class: troubadour

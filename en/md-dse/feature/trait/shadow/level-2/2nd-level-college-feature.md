@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your [shadow](scc:mcdm.heroes.v1/class/shadow) college grants you a feature, as shown on the 2nd-Level College Features table.
+        Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants you a feature, as shown on the 2nd-Level College Features table.
 
         ###### 2nd-Level College Features Table
 

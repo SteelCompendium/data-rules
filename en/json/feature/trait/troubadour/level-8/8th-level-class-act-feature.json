@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants you a feature, as shown on the 8th-Level Class Act Features table.\n\n###### 8th-Level Class Act Features Table\n\n| Class Act | Feature         |\n|-----------|-----------------|\n| Auteur    | [Deleted Scene](scc:mcdm.heroes.v1/feature.trait.troubadour.level-8/deleted-scene)   |\n| Duelist   | Masterwork      |\n| Virtuoso  | [Crowd Favorites](scc:mcdm.heroes.v1/feature.trait.troubadour.level-8/crowd-favorites) |"
+      "effect": "Your [troubadour class act](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/troubadour-class-act) grants you a feature, as shown on the 8th-Level Class Act Features table.\n\n###### 8th-Level Class Act Features Table\n\n| Class Act | Feature         |\n|-----------|-----------------|\n| Auteur    | [Deleted Scene](scc:mcdm.heroes.v1/feature.trait.troubadour.level-8/deleted-scene)   |\n| Duelist   | Masterwork      |\n| Virtuoso  | [Crowd Favorites](scc:mcdm.heroes.v1/feature.trait.troubadour.level-8/crowd-favorites) |"
     }
   ],
   "feature_type": "trait",

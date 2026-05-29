@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../../../class/talent.md) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../../null/level-1/force-augmentation.md).)
+    - effect: Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](talent-ward.md) below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../../null/level-1/force-augmentation.md).)
 feature_type: trait
 metadata:
     class: talent

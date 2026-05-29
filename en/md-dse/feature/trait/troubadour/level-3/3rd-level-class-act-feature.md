@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your [troubadour](scc:mcdm.heroes.v1/class/troubadour) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
+        Your [troubadour class act](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/troubadour-class-act) grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
         ###### 3rd-Level Class Act Features Table
 
