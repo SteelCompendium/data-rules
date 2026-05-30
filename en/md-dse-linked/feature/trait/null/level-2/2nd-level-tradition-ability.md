@@ -15,7 +15,20 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two abilities.\n\n##### 2nd-Level Chronokinetic Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Cryokinetic Ability\n\nChoose one of the following heroic abilities.\n\n##### 2nd-Level Metakinetic Ability\n\nChoose one of the following abilities.\n\n###### Blur (5 Discipline)\n\n>\n> *You release stored time, allowing you to act twice.*\n>\n> | **Psionic** | **Maneuver** |\n> |-------------|-------------:|\n> | **\U0001F4CF Self** |  **\U0001F3AF Self** |\n>\n> **Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls."
+    - effect: |-
+        Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two abilities.
+
+        ##### 2nd-Level Chronokinetic Ability
+
+        Choose one of the following abilities.
+
+        ##### 2nd-Level Cryokinetic Ability
+
+        Choose one of the following heroic abilities.
+
+        ##### 2nd-Level Metakinetic Ability
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     class: "null"

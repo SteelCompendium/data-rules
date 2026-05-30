@@ -15,7 +15,20 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your [null tradition](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-tradition) grants your choice of one of two heroic abilities.\n\n##### 6th-Level Chronokinetic Abilities\n\nChoose one of the following abilities.\n\n##### 6th-Level Cryokinetic Abilities\n\nChoose one of the following abilities.\n\n##### 6th-Level Metakinetic Abilities\n\nChoose one of the following abilities.\n\n###### Interphase (9 Discipline)\n\n>\n> *You slip into a faster timestream to act more quickly.*\n>\n> | **Psionic** | **Main action** |\n> |-------------|----------------:|\n> | **\U0001F4CF Self** |     **\U0001F3AF Self** |\n>\n> **Effect:** You can use up to three signature abilities, each of which gains an edge."
+    - effect: |-
+        Your [null tradition](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-tradition) grants your choice of one of two heroic abilities.
+
+        ##### 6th-Level Chronokinetic Abilities
+
+        Choose one of the following abilities.
+
+        ##### 6th-Level Cryokinetic Abilities
+
+        Choose one of the following abilities.
+
+        ##### 6th-Level Metakinetic Abilities
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     class: "null"

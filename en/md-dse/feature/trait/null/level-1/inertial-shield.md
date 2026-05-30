@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your instincts for danger let you predict attacks before they happen.\n\n##### Inertial Shield\n\n> \n> *You intuit the course of an incoming attack, reducing its effects.*\n> \n> | **Psionic** | **Triggered** |\n> |-------------|--------------:|\n> | **\U0001F4CF Self** |   **\U0001F3AF Self** |\n> \n> **Trigger:** You take damage.\n> \n> **Effect:** You take half the damage.\n> \n> **Spend 1 Discipline:** The potency of one effect associated with the damage is reduced by 1 for you."
+    - effect: Your instincts for danger let you predict attacks before they happen.
 feature_type: trait
 metadata:
     class: "null"

@@ -24,7 +24,7 @@ Thellasko was granted sainthood on his deathbed after a generation of successful
 
 Thellasko teaches the virtue of accepting the battle as it is, not as you wish it might be. To take action based on available data, not what tradition says. That wars are not won based solely on the size of one's army, but based on which side is best able to bring its force to bear against the opponent.
 
-##### Uryal the Subtle
+## Uryal the Subtle
 
 **Domains:** Knowledge, Trickery
 
@@ -48,7 +48,7 @@ be used to achieve one's ends. Uryal teaches the virtue of flexibility of charac
 
 Uryal is the Saint of Hell's diplomatic corps. His *unofficial* motto, falsely attributed to him but oft-repeated: "*Do unto the other guy as he would do unto you. But do it to him first.*"
 
-##### Kuryalka the False Principle
+## Kuryalka the False Principle
 
 **Domains:** Death, Trickery
 

@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following signature ability. Signature abilities can be used at will.\n\n###### The Wode Defends\n\n*Thorny vines erupt from every surface and attempt to bind your foe.*\n\n| **Magic, Ranged, Strike** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**          |           **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 2 + M or A damage; A < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 5 + M or A damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
+    - effect: You have the following signature ability. Signature abilities can be used at will.
 feature_type: trait
 metadata:
     ancestry: wode-elf

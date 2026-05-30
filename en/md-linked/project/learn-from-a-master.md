@@ -14,7 +14,7 @@ type: project
 
 When you seek to learn from a master, you choose the goal you wish to work on as well as the benefit you would gain from it. The Director tells you whether the master or the materials they've left behind are able to teach you what you want to learn.
 
-###### Learn From a Master Events Table
+### Learn From a Master Events Table
 
 | d10 | Event                                                                                                                                                                                                                                                                                                                                                           |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ When you seek to learn from a master, you choose the goal you wish to work on as
 | 9   | After the roll, the master gifts the hero with an item prerequisite for a crafting project.                                                                                                                                                                                                                                                                     |
 | 10  | After the roll, the hero uncovers a secret in their studies, something that the master had never anticipated or that their teachings hadn't covered. The project goal is halved.                                                                                                                                                                                |
 
-###### Learn from Master Project Goals Table
+### Learn from Master Project Goals Table
 
 | Project         | Goal  |
 |-----------------|-------|
@@ -37,14 +37,14 @@ When you seek to learn from a master, you choose the goal you wish to work on as
 | Improve control | 500   |
 | Acquire ability | 1,000 |
 
-##### Acquire Ability
+## Acquire Ability
 
 You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../class/tactician.md), you can gain the Strike Now ability instead. You can't gain this benefit again for the same class.
 
-##### Hone Ability
+## Hone Ability
 
 You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the distance of a ranged ability by 2. An ability can be honed only once this way.
 
-##### Improve Control
+## Improve Control
 
 You learn to use one of your heroic abilities more efficiently, reducing its baseline Heroic Resource cost by 1 (to a minimum of 1). An ability can only be improved this way once.

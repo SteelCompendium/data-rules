@@ -15,7 +15,20 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/tactical-doctrine) grants your choice of one of two heroic abilities.\n\n##### 9th-Level Insurgent Abilities\n\nChoose one of the following abilities.\n\n##### 9th-Level Mastermind Abilities\n\nChoose one of the following abilities.\n\n##### 9th-Level Vanguard Abilities\n\nChoose one of the following abilities.\n\n###### Squad! Hit and Run! (11 Focus)\n\n>\n> *I had to pry this secret from the [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college)s.*\n>\n> | **Ranged**       |            **Main action** |\n> |------------------|---------------------------:|\n> | **\U0001F4CF Ranged 10** | **\U0001F3AF Self and two allies** |\n>\n> **Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed."
+    - effect: |-
+        Your [tactical doctrine](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/tactical-doctrine) grants your choice of one of two heroic abilities.
+
+        ##### 9th-Level Insurgent Abilities
+
+        Choose one of the following abilities.
+
+        ##### 9th-Level Mastermind Abilities
+
+        Choose one of the following abilities.
+
+        ##### 9th-Level Vanguard Abilities
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     class: tactician

@@ -1,50 +1,7 @@
 {
-  "ability": {
-    "ability_type": "Triggered",
-    "distance": "Ranged 10",
-    "effects": [
-      {
-        "effect": "The target can spend a Recovery.",
-        "name": "Effect"
-      },
-      {
-        "cost": "Spend 1+ Essence",
-        "effect": "The target can spend an additional Recovery for each essence spent."
-      }
-    ],
-    "feature_type": "ability",
-    "flavor": "The power you channel grants the ability to get back in the fight.",
-    "keywords": [
-      "Green",
-      "Magic",
-      "Ranged"
-    ],
-    "metadata": {
-      "ability_type": "Triggered",
-      "action_type": "Triggered",
-      "content": "\n*The power you channel grants the ability to get back in the fight.*\n\n| **Green, Magic, Ranged**          |           **Triggered** |\n|-----------------------------------|------------------------:|\n| **📏 Ranged 10**                  | **🎯 Self or one ally** |\n\n**Trigger:** The target starts their turn or takes damage.\n\n**Effect:** The target can spend a Recovery.\n\n**Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.",
-      "distance": "Ranged 10",
-      "feature_type": "ability",
-      "flavor": "The power you channel grants the ability to get back in the fight.",
-      "item_id": "breath-of-dawn-remembered",
-      "item_name": "Breath of Dawn Remembered",
-      "keywords": [
-        "Green",
-        "Magic",
-        "Ranged"
-      ],
-      "target": "Self or one ally",
-      "type": "feature/ability/common"
-    },
-    "name": "Breath of Dawn Remembered",
-    "target": "Self or one ally",
-    "trigger": "The target starts their turn or takes damage.",
-    "type": "feature",
-    "usage": "Triggered"
-  },
   "effects": [
     {
-      "effect": "Your [elemental specialization](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization) grants you a triggered action, as shown on the Specialization Triggered Actions table."
+      "effect": "Your [elemental specialization](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization) grants you a triggered action, as shown on the Specialization Triggered Actions table.\n\n###### Elemental Specialization Triggered Actions Table\n\n| Specialization  | Triggered Action          |\n|-----------------|---------------------------|\n| Earth           | [Skin Like Castle Walls](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls)    |\n| Fire            | [Explosive Assistance](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance)      |\n| Green           | [Breath of Dawn Remembered](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/breath-of-dawn-remembered) |\n| Void            | [Subtle Relocation](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/subtle-relocation)         |"
     }
   ],
   "feature_type": "trait",

@@ -10,13 +10,13 @@ Val, the Noble Lord, First Among Equals, is the patron of the elves. He created 
 
 Val holds that the greatest purpose a thinking being can commit themselves to is the creation of art and the appreciation of beauty. He keeps the magical, elf-haunted forests called wodes close to his heart because they represent his vision for Orden. What the world could have been. His growing disgust with the concept of war led him to leave Orden and take up residence in his private manifold, *Arcadia* where all elves hope to someday join their patron.
 
-#### Heroes of the Elves
+## Heroes of the Elves
 
 The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
 
 The [high elf](../ancestry/high-elf.md) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../ancestry/wode-elf.md) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
 
-##### A Sea of Suns
+### A Sea of Suns
 
 **Domains:** Creation, Life
 
@@ -28,7 +28,7 @@ The Composer discovered, or invented, the power of music to manipulate reality. 
 
 _1. If this story wasn't invented by the [dwarves](../ancestry/dwarf.md) or [humans](../ancestry/human.md), it must at least have passed through one of their cultures. The celestials did not reckon time the way younger species do and would not have said "for an entire century."_
 
-##### The Taste of Morning
+### The Taste of Morning
 
 **Domains:** Creation, Knowledge
 
@@ -38,7 +38,7 @@ Credited with building the first library, most scholars consider this a real, hi
 
 He canonized the idea that knowledge, truth, was a kind of beauty. The Library of Morning was a temple to thought, wisdom, scholarship. It contained plays, poems, histories, treatises on the nature of reality. The knowledge held within was incalculable. Legends say it held codices written by the elder dragons, though modern scholars suspect this is a literary conceit, as there is no evidence the elder dragons bothered with writing.
 
-##### Ripples of Honey on a Shore of Gold
+### Ripples of Honey on a Shore of Gold
 
 **Domains:** Life, Protection
 
@@ -46,7 +46,7 @@ Ripples of Honey on a Shore of Gold, also known as Warkiller, the Diplomat, was 
 
 In the end, her efforts failed, and the elder dragons live no more in this world. Like Val, the Diplomat hated war so much, after her failure she sought to pen a new codex. A work so powerful it would bind the world. The Codex Pax Universalis would banish the concept of war from Orden. Alas, in the end she realized there was only one way to finish her great work, and she was not willing to take that final step.
 
-##### Yllin Dyrvis
+### Yllin Dyrvis
 
 **Domains:** Knowledge, Nature
 
@@ -54,7 +54,7 @@ Yllin Dyrvis, also known as the Beast Heart, the Wodespeaker, the Warden, witnes
 
 To this day, many ages of the world later, the [wode elves](../ancestry/wode-elf.md) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](../ancestry/wode-elf.md) for protection.
 
-##### Thyll Hylacae
+### Thyll Hylacae
 
 **Domains:** Life, Nature
 
@@ -62,7 +62,7 @@ Thyll Hylacae, the Forestal, Apothachron, also known as the Sacrifice. Thyll spo
 
 Though she was mighty in warlore, she could not be everywhere. In the end, she sacrificed herself for the trees, the ritual she performed uplifted a small population of trees, creating the derwic—the thinking speaking tree-peoples few of whom remain in Orden.
 
-##### Illwyv li Orchiax
+### Illwyv li Orchiax
 
 **Domains:** Nature, Protection
 

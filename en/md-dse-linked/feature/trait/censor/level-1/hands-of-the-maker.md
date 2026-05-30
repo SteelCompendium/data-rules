@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following ability.\n\n###### Hands of the Maker\n\n> \n> *You craft objects with the power of your mind.*\n> \n> | **Magic**   | **Maneuver** |\n> |-------------|------------:|\n> | **\U0001F4CF Self** | **\U0001F3AF Self** |\n> \n> **Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required)."
+    - effect: You have the following ability.
 feature_type: trait
 metadata:
     class: censor

@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following ability.\n\n###### Star Power (1 Drama)\n\n>\n> *Your years of practicing fencing and dancing pay off on the battlefield.*\n>\n> | **-**       | **Maneuver** |\n> |-------------|-------------:|\n> | **\U0001F4CF Self** |  **\U0001F3AF Self** |\n>\n> **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have an outcome lower than tier 2.\n>\n> **Spend 1 Drama:** You gain a +4 bonus to speed instead."
+    - effect: You have the following ability.
 feature_type: trait
 metadata:
     class: troubadour

@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.\n\n###### Guided to Your Side\n\n> \n> *You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.*\n> \n> | **Magic, Ranged**  |           **Main action** |\n> |--------------------|--------------------------:|\n> | **\U0001F4CF Ranged 10**   | **\U0001F3AF Self and each ally** |\n> \n> **Effect:** Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world."
+    - effect: You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 feature_type: trait
 metadata:
     class: conduit

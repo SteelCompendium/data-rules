@@ -14,11 +14,11 @@ Kul's fire is the fire that destroys, but it is also the fire that creates, the 
 
 Uniquely among the Elder Creator Gods, Kul does not desire worship finds it distasteful. [Orcs](../ancestry/orc.md) still call out to Kul in desperate times as "Kul Who Once Spoke." But in those moments, they do not call out for aid—only that Kul witness them, and that they might prove worthy of his attention.
 
-#### Heroes of the Orcs
+## Heroes of the Orcs
 
 The following heroes are venerated by many [orcs](../ancestry/orc.md) and others who follow Kul.
 
-##### Khorvath Who Slew a Thousand
+### Khorvath Who Slew a Thousand
 
 **Domains:** Sun, War
 
@@ -66,7 +66,7 @@ Khorvath Who Slew a Thousand would probably prefer to be remembered as she was i
 
 Voyrik gave his warleader's torque to her son, who grew to lead the Lightning first as warleader, then chieftain. He was a good ruler for the Lightning.
 
-##### Grole the One-Handed
+### Grole the One-Handed
 
 **Domains:** Life, War
 
@@ -78,7 +78,7 @@ Grole teaches the extraordinary deeds common people can accomplish if they cast 
 
 Grole is the orcish hero of those facing impossible decisions. He is favored by most orcish leaders. Grole teaches that, even alone, even against impossible odds, extraordinary victories are possible. [Censors](../class/censor.md) of Grole often dip their left hand in ink before battle to symbolize Grole's missing hand.
 
-##### Khravila Who Ran Forty Leagues
+### Khravila Who Ran Forty Leagues
 
 **Domains:** Knowledge, Trickery
 
@@ -96,7 +96,7 @@ The elves called off their attacks and Khravila brokered peace between them and 
 
 Khravila teaches the virtue of persistence, endurance, and—above all—wits. Not only the wits necessary to foil the tests that barred her way, but to conceive her legendary plan in the first place, and the dedication to pull it off. "Perhaps another [orc](../ancestry/orc.md) could have run," her brother said. "But only Khravila could have bluffed."
 
-#### Heroes of the Hakaan
+## Heroes of the Hakaan
 
 Most [hakaan](../ancestry/hakaan.md) in Orden are animists. They know and respect the four Elder Gods who created the world and believe these gods watch the world and see what happens within it. But the [Hakaan](../ancestry/hakaan.md) do not create churches or formal belief systems around this attitude.
 
@@ -106,7 +106,7 @@ The [hakaan](../ancestry/hakaan.md) know they are descended from stone giants, b
 
 [Hakaan](../ancestry/hakaan.md) [conduits](../class/conduit.md) and [censors](../class/censor.md) venerate [hakaan](../ancestry/hakaan.md) heroes who, after doing great deeds in life, were chosen by the gods to take their place among the stars, becoming constellations. They see the stars at night as a complex map of legendary [hakaan](../ancestry/hakaan.md) heroes, and their own ancestors who watch from above.
 
-##### Mahsiti the Weaver
+### Mahsiti the Weaver
 
 **Domains:** Creation, Knowledge, Trickery
 
@@ -122,7 +122,7 @@ When the enemy army arrived, they found the clan's villages empty, and did not n
 
 Mahsiti teaches that art and science, creativity and knowledge, are the same thing. Those who follow her teachings believe that the act of creating, of bringing a new idea or work of art into being, is the act of participating in the same process the gods used to create the world.
 
-##### Prexaspes the Stargazer
+### Prexaspes the Stargazer
 
 **Domains:** Nature, Protection, Sun
 
@@ -140,7 +140,7 @@ Though he died in the act, Prexaspes saved his people becoming a hero of all [ha
 
 Prexaspes teaches that nature is a moral good and is worth defending, and that the sun is the source of power for all life on Orden.
 
-##### Atossa the Shepherd
+### Atossa the Shepherd
 
 **Domains:** Fate, Protection, Trickery
 

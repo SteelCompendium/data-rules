@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following ability.\n\n##### \"Strike Now!\"\n\n>\n> *Your foe left an opening. You point this out to an ally!*\n>\n> | **Ranged** | **Main action** |\n> | ---------------------------------------|----------------:|\n> | **\U0001F4CF Ranged 10**  | **\U0001F3AF One ally** |\n>\n> **Effect:** The target can use a signature ability as a free triggered action.\n>\n> **Spend 5 Focus:** You target two allies instead of one."
+    - effect: You have the following ability.
 feature_type: trait
 metadata:
     class: tactician

@@ -1,42 +1,7 @@
 {
-  "ability": {
-    "cost": "5 Piety",
-    "distance": "Ranged 10",
-    "effects": [
-      {
-        "effect": "You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:",
-        "name": "Effect"
-      }
-    ],
-    "feature_type": "ability",
-    "flavor": "Your enemies suffer their fate; your allies embrace their destiny!",
-    "keywords": [
-      "Magic",
-      "Ranged"
-    ],
-    "metadata": {
-      "action_type": "Main action",
-      "content": "\n*Your enemies suffer their fate; your allies embrace their destiny!*\n\n| **Magic, Ranged**  |        **Main action** |\n|--------------------|-----------------------:|\n| **📏 Ranged 10**   | **🎯 Three creatures** |\n\n**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:\n\n- Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.\n- Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.",
-      "distance": "Ranged 10",
-      "feature_type": "ability",
-      "flavor": "Your enemies suffer their fate; your allies embrace their destiny!",
-      "item_id": "blessing-of-fate-and-destiny",
-      "item_name": "Blessing of Fate and Destiny",
-      "keywords": [
-        "Magic",
-        "Ranged"
-      ],
-      "target": "Three creatures",
-      "type": "feature/ability/common"
-    },
-    "name": "Blessing of Fate and Destiny",
-    "target": "Three creatures",
-    "type": "feature",
-    "usage": "Main action"
-  },
   "effects": [
     {
-      "effect": "Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](scc:mcdm.heroes.v1/class/conduit) Domain Abilities table."
+      "effect": "Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](scc:mcdm.heroes.v1/class/conduit) Domain Abilities table.\n\n###### 2nd-Level Conduit Domain Abilities Table\n\n| Domain     | Ability                      |\n|------------|------------------------------|\n| Creation   | [Statue of Power](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power)              |\n| Death      | Reap                         |\n| Fate       | [Blessing of Fate and Destiny](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny) |\n| Knowledge  | [The Gods Command You Obey](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey)    |\n| Life       | [Wellspring of Grace](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace)          |\n| Love       | [Our Hearts Your Strength](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/our-hearts-your-strength)     |\n| Nature     | [Nature Judges Thee](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee)           |\n| Protection | [Sacred Bond](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond)                  |\n| Storm      | Saint's Tempest              |\n| Sun        | [Morning Light](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light)                |\n| Trickery   | [Divine Comedy](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy)                |\n| War        | [Blessing of Insight](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight)          |"
     }
   ],
   "feature_type": "trait",

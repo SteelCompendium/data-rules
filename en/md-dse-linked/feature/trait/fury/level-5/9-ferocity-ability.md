@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 9 ferocity to use.\n\n##### Debilitating Strike (9 Ferocity)\n\n> \n> *You need just one blow to sabotage your target.*\n> \n> | **Melee, Strike, Weapon** |     **Main action** |\n> |---------------------------|--------------------:|\n> | **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n> \n> **Power Roll + Might:**\n> \n> - **≤11:** 10 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n> - **17+:** 20 + M damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)\n> \n> **Effect:** While [slowed](../../../../condition/slowed.md) this way, the target takes 1 damage for every square they move, including from [forced movement](../../../../movement/forced-movement.md)."
+    - effect: Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
 feature_type: trait
 metadata:
     class: fury

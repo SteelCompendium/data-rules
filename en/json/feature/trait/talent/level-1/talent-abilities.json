@@ -1,53 +1,7 @@
 {
-  "ability": {
-    "ability_type": "Signature",
-    "distance": "Ranged 10",
-    "effects": [
-      {
-        "roll": "Power Roll + Presence",
-        "tier1": "2 + P corruption damage; P \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-        "tier2": "3 + P corruption damage; P \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-        "tier3": "5 + P corruption damage; P \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
-      },
-      {
-        "effect": "The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.",
-        "name": "Effect"
-      }
-    ],
-    "feature_type": "ability",
-    "flavor": "You advance an enemy's age for a moment.",
-    "keywords": [
-      "Chronopathy",
-      "Psionic",
-      "Ranged",
-      "Strike"
-    ],
-    "metadata": {
-      "ability_type": "Signature",
-      "action_type": "Main action",
-      "content": "\n*You advance an enemy's age for a moment.*\n\n| **Chronopathy, Psionic, Ranged, Strike** |               **Main action** |\n|------------------------------------------|------------------------------:|\n| **📏 Ranged 10**                         | **🎯 One creature or object** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 2 + P corruption damage; P \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 3 + P corruption damage; P \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 5 + P corruption damage; P \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n\n**Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.\n\n**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.",
-      "distance": "Ranged 10",
-      "feature_type": "ability",
-      "flavor": "You advance an enemy's age for a moment.",
-      "item_id": "entropic-bolt",
-      "item_name": "Entropic Bolt",
-      "keywords": [
-        "Chronopathy",
-        "Psionic",
-        "Ranged",
-        "Strike"
-      ],
-      "target": "One creature or object",
-      "type": "feature/ability/common"
-    },
-    "name": "Entropic Bolt",
-    "target": "One creature or object",
-    "type": "feature",
-    "usage": "Main action"
-  },
   "effects": [
     {
-      "effect": "You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent tradition](scc:mcdm.heroes.v1/feature.trait.talent.level-1/talent-tradition)s or focus on abilities tied to your chosen tradition to dedicate yourself to its power."
+      "effect": "You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent tradition](scc:mcdm.heroes.v1/feature.trait.talent.level-1/talent-tradition)s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.\n\n##### Signature Abilities\n\nChoose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](scc:mcdm.heroes.v1/feature.ability.talent.level-1/incinerate), [Kinetic Grip](scc:mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip).)\n\n##### Heroic Abilities\n\nYou know a range of heroic abilities, all of which cost clarity to fuel them.\n\n###### 3-Clarity Ability\n\nChoose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](scc:mcdm.heroes.v1/feature.ability.talent.level-1/choke).)\n\n###### 5-Clarity Ability\n\nChoose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](scc:mcdm.heroes.v1/feature.ability.talent.level-1/inertia-soak).)"
     }
   ],
   "feature_type": "trait",

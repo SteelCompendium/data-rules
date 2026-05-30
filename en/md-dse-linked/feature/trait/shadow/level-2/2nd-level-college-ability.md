@@ -15,7 +15,20 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.\n\n##### 2nd-Level Black Ash Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Caustic Alchemy Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Harlequin Mask Ability\n\nChoose one of the following abilities.\n\n###### In a Puff of Ash (5 Insight)\n\n>\n> *You enchant a strike with your [teleport](../../../../movement/teleport.md)ation magic.*\n>\n> | **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |\n> |------------------------------------------|--------------------:|\n> | **\U0001F4CF Melee 1 or ranged 5**               | **\U0001F3AF One creature** |\n>\n> **Power Roll + Agility:**\n>\n> - **≤11:** 6 + A damage; you can [teleport](../../../../movement/teleport.md) the target 1 square\n> - **12-16:** 10 + A damage; you can [teleport](../../../../movement/teleport.md) the target up to 3 squares\n> - **17+:** 14 + A damage; you can [teleport](../../../../movement/teleport.md) the target up to 5 squares"
+    - effect: |-
+        Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
+
+        ##### 2nd-Level Black Ash Ability
+
+        Choose one of the following abilities.
+
+        ##### 2nd-Level Caustic Alchemy Ability
+
+        Choose one of the following abilities.
+
+        ##### 2nd-Level Harlequin Mask Ability
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     class: shadow

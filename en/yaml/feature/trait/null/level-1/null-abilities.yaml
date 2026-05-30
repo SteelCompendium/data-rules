@@ -1,40 +1,22 @@
-ability:
-    ability_type: Signature
-    distance: 1 burst
-    effects:
-        - roll: Power Roll + Agility
-          tier1: 3 damage
-          tier2: 4 damage
-          tier3: 5 damage
-        - effect: You can slide one adjacent enemy up to a number of squares equal to your Intuition score.
-          name: Effect
-    feature_type: ability
-    flavor: You strike everywhere at once, tricking an enemy into moving out of position.
-    keywords:
-        - Area
-        - Psionic
-        - Weapon
-    metadata:
-        ability_type: Signature
-        action_type: Main action
-        content: "\n*You strike everywhere at once, tricking an enemy into moving out of position.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF 1 burst**            | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 3 damage\n- **12-16:** 4 damage\n- **17+:** 5 damage\n\n**Effect:** You can slide one adjacent enemy up to a number of squares equal to your Intuition score."
-        distance: 1 burst
-        feature_type: ability
-        flavor: You strike everywhere at once, tricking an enemy into moving out of position.
-        item_id: dance-of-blows
-        item_name: Dance of Blows
-        keywords:
-            - Area
-            - Psionic
-            - Weapon
-        target: Each enemy in the area
-        type: feature/ability/common
-    name: Dance of Blows
-    target: Each enemy in the area
-    type: feature
-    usage: Main action
 effects:
-    - effect: You rely on a unique blend of martial techniques and psionic prowess to take down your foes and defend your allies.
+    - effect: |-
+        You rely on a unique blend of martial techniques and psionic prowess to take down your foes and defend your allies.
+
+        ##### Signature Abilities
+
+        Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](scc:mcdm.heroes.v1/feature.ability.null.level-1/faster-than-the-eye), [Inertial Step](scc:mcdm.heroes.v1/feature.ability.null.level-1/inertial-step).)
+
+        ##### Heroic Abilities
+
+        You have mastered a range of heroic abilities, all of them channeled through your discipline.
+
+        ###### 3-Discipline Ability
+
+        Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](scc:mcdm.heroes.v1/feature.ability.null.level-1/chronal-spike).)
+
+        ###### 5-Discipline Ability
+
+        Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](scc:mcdm.heroes.v1/feature.ability.null.level-1/a-squad-unto-myself).)
 feature_type: trait
 metadata:
     action_type: feature

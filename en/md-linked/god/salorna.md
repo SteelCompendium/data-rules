@@ -20,7 +20,7 @@ Some of Salorna's priests are [conduits](../class/conduit.md); some are mages of
 
 Salorna has few [censors](../class/censor.md), but not none! Favoring light armor and ranged weapons, her [censors](../class/censor.md) are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
 
-##### Draighen the Warden
+## Draighen the Warden
 
 **Domains:** Nature, Sun
 
@@ -40,7 +40,7 @@ The elves were properly chastised and realized their shame. Though the derwic di
 
 Draighen teaches solutions can always be found if people are willing to talk. That even the darkest forest is not a thing to be threatened by if you carry wisdom and an open heart with you. That the proper reaction to unknown territory is curiosity.
 
-##### Eriarwen the Wroth
+## Eriarwen the Wroth
 
 **Domains:** Nature, Storm
 

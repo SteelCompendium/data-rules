@@ -1,47 +1,4 @@
 {
-  "ability": {
-    "cost": "9 Drama",
-    "distance": "3 burst",
-    "effects": [
-      {
-        "roll": "Power Roll + Agility",
-        "tier1": "10 damage",
-        "tier2": "14 damage",
-        "tier3": "20 damage"
-      },
-      {
-        "effect": "Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.",
-        "name": "Effect"
-      }
-    ],
-    "feature_type": "ability",
-    "flavor": "You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.",
-    "keywords": [
-      "Area",
-      "Melee",
-      "Weapon"
-    ],
-    "metadata": {
-      "action_type": "Main action",
-      "content": "\n*You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 3 burst**          | **🎯 Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 damage\n- **12-16:** 14 damage\n- **17+:** 20 damage\n\n**Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.",
-      "distance": "3 burst",
-      "feature_type": "ability",
-      "flavor": "You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.",
-      "item_id": "action-hero",
-      "item_name": "Action Hero",
-      "keywords": [
-        "Area",
-        "Melee",
-        "Weapon"
-      ],
-      "target": "Each enemy in the area",
-      "type": "feature/ability/common"
-    },
-    "name": "Action Hero",
-    "target": "Each enemy in the area",
-    "type": "feature",
-    "usage": "Main action"
-  },
   "effects": [
     {
       "effect": "Choose one heroic ability from the following options, each of which costs 9 drama to use."

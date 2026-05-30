@@ -14,7 +14,7 @@ A watchhouse chaplain is almost certainly a priest of Cavall. A rector serving a
 
 Brother to Adûn and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
 
-##### Llewellyn the Valiant
+## Llewellyn the Valiant
 
 **Domains:** Life, Protection
 
@@ -58,7 +58,7 @@ Llewellyn and Silverheart had rid the people of their cursed, hateful duke.
 
 Saint Llewellyn is Cavall's greatest saint. He teaches that the greatest loyalty is to the well-being of the people, and that it is the responsibility of the strong to protect the weak. That the only proper use of power is in pursuit of justice.
 
-##### Gwenllian the Fell-Handed
+## Gwenllian the Fell-Handed
 
 **Domains:** Protection, War
 

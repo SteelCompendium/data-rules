@@ -12,7 +12,7 @@ She is a stellar nursery leaving a trail of infant stars in her wake. Hers is th
 
 She is the goddess of creation and for some of her followers, life itself, as her children's energies feed all life on all worlds. Her priests teach that life is the opposite of entropy, and the natural byproduct of her solar incubator.
 
-##### The Calling of Lady Magnetar
+## The Calling of Lady Magnetar
 
 **Domains:** Life, Sun
 

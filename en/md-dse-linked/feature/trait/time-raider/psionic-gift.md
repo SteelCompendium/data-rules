@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one signature ability from the following options. Signature abilities can be used at will.\n\n###### Concussive Slam\n\n*You slam an invisible force down upon the target.*\n\n| **Psionic, Ranged, Strike**  | Main action                   |\n|------------------------------|-------------------------------|\n| **\U0001F4CF Ranged 10**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + Reason, Intuition, or Presence:**\n\n- **≤11:** 2 + R, I, or P damage;\n- **12-16:** 5 + R, I, or P damage; push 1\n- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)"
+    - effect: Choose one signature ability from the following options. Signature abilities can be used at will.
 feature_type: trait
 metadata:
     ancestry: time-raider

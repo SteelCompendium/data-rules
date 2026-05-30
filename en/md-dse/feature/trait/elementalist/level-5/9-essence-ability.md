@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 9 essence to use.\n\n##### Combustion Deferred (9 Essence)\n\n> \n> *Your flames dance from kindling to kindling to kindling.*\n> \n> | **Fire, Magic, Ranged, Strike** |               **Main action** |\n> |---------------------------------|------------------------------:|\n> | **\U0001F4CF Ranged 10**                | **\U0001F3AF One creature or object** |\n> \n> **Power Roll + Reason:**\n> \n> - **≤11:** 8 + R fire damage\n> - **12-16:** 13 + R fire damage\n> - **17+:** 17 + R fire damage\n> \n> **Effect:** When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect."
+    - effect: Choose one heroic ability from the following options, each of which costs 9 essence to use.
 feature_type: trait
 metadata:
     class: elementalist

@@ -15,7 +15,16 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants you a triggered action, as shown on the College Triggered Actions table.\n\n###### College Triggered Actions Table\n\n| College         | Triggered Action      |\n|-----------------|-----------------------|\n| Black Ash       | [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) |\n| Caustic Alchemy | [Defensive Roll](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll)        |\n| Harlequin Mask  | [Clever Trick](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick)          |\n\n###### Clever Trick (1 Insight)\n\n>\n> *You sow a moment of confusion in combat, to your enemy's peril.*\n>\n> | **Magic**   | **Triggered** |\n> |-------------|--------------:|\n> | **\U0001F4CF Self** |     **\U0001F3AF Self** |\n>\n> **Trigger:** An enemy targets you with a strike.\n>\n> **Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead."
+    - effect: |-
+        Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants you a triggered action, as shown on the College Triggered Actions table.
+
+        ###### College Triggered Actions Table
+
+        | College         | Triggered Action      |
+        |-----------------|-----------------------|
+        | Black Ash       | [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) |
+        | Caustic Alchemy | [Defensive Roll](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll)        |
+        | Harlequin Mask  | [Clever Trick](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick)          |
 feature_type: trait
 metadata:
     class: shadow

@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn't select at 8th level (see 8th-Level Features).\n\n##### Earth Rejects You (11 Essence)\n\n> \n> *Everyone and everything gets blown away in an eruption of rocks and debris.*\n> \n> | **Area, Earth, Magic, Ranged** |                          **Main action** |\n> |--------------------------------|-----------------------------------------:|\n> | **\U0001F4CF 5 cube within 10**        | **\U0001F3AF Each enemy and object in the area** |\n> \n> **Power Roll + Reason:**\n> \n> - **≤11:** 6 damage\n> - **12-16:** 9 damage\n> - **17+:** 13 damage\n> \n> **Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence."
+    - effect: Choose one heroic ability from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn't select at 8th level (see 8th-Level Features).
 feature_type: trait
 metadata:
     class: elementalist

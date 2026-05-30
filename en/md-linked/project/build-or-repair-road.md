@@ -20,7 +20,7 @@ When you complete the project, you earn Renown among people in the area where th
 
 Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an edge on project rolls to discover lore while you are in those areas.
 
-###### Build or Repair Roads Events Table
+### Build or Repair Roads Events Table
 
 | d10 | Event                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

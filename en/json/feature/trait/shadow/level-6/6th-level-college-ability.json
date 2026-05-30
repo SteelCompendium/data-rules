@@ -1,52 +1,7 @@
 {
-  "ability": {
-    "cost": "9 Insight",
-    "distance": "Melee 1",
-    "effects": [
-      {
-        "roll": "Power Roll + Agility",
-        "tier1": "3 + A damage; vertical push 5",
-        "tier2": "6 + A damage; vertical push 10",
-        "tier3": "9 + A damage; vertical push 15"
-      },
-      {
-        "effect": "A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward.",
-        "name": "Effect"
-      }
-    ],
-    "feature_type": "ability",
-    "flavor": "Your attack produces a cloud of black ash that launches an enemy into the air.",
-    "keywords": [
-      "Magic",
-      "Melee",
-      "Strike",
-      "Weapon"
-    ],
-    "metadata": {
-      "action_type": "Main action",
-      "content": "\n*Your attack produces a cloud of black ash that launches an enemy into the air.*\n\n| **Magic, Melee, Strike, Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **📏 Melee 1**                   | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 3 + A damage; vertical push 5\n- **12-16:** 6 + A damage; vertical push 10\n- **17+:** 9 + A damage; vertical push 15\n\n**Effect:** A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward.",
-      "distance": "Melee 1",
-      "feature_type": "ability",
-      "flavor": "Your attack produces a cloud of black ash that launches an enemy into the air.",
-      "item_id": "black-ash-eruption",
-      "item_name": "Black Ash Eruption",
-      "keywords": [
-        "Magic",
-        "Melee",
-        "Strike",
-        "Weapon"
-      ],
-      "target": "One creature",
-      "type": "feature/ability/common"
-    },
-    "name": "Black Ash Eruption",
-    "target": "One creature",
-    "type": "feature",
-    "usage": "Main action"
-  },
   "effects": [
     {
-      "effect": "Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants your choice of one of two heroic abilities."
+      "effect": "Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants your choice of one of two heroic abilities.\n\n##### 6th-Level Black Ash Abilities\n\nChoose one of the following abilities.\n\n##### 6th-Level Caustic Alchemy Abilities\n\nChoose one of the following abilities.\n\n##### 6th-Level Harlequin Mask Abilities\n\nChoose one of the following abilities."
     }
   ],
   "feature_type": "trait",

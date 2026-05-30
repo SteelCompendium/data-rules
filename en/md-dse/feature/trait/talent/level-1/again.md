@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following ability.\n\n###### Again\n\n>\n> *You step back a split second to see if things play out a little differently.*\n>\n> | **Psionic, Ranged** |               **Triggered** |\n> |---------------------|----------------------------:|\n> | **\U0001F4CF Ranged 10**    | **\U0001F3AF Self or one creature** |\n>\n> **Trigger:** The target makes an ability roll.\n>\n> **Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll."
+    - effect: You have the following ability.
 feature_type: trait
 metadata:
     class: talent

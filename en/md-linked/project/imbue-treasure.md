@@ -14,7 +14,7 @@ Enhancements are broken out by item type (armor, implement, or weapon) and level
 
 Imbuing treasure with supernatural power as a downtime project typically means you undertake that project to make use of the treasure yourself. As such, all the features of imbuing refer to "you" as the user of the item. However, imbued items can be created for other creatures, or created by other creatures and found as treasure.
 
-##### Imbue Armor
+## Imbue Armor
 
 Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to Stamina. A 5th-level enhancement increases the Stamina bonus to +12, and a 9th-level enhancement increases it to +21.
 
@@ -22,7 +22,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 >
 > A hero who has a kit that provides no armor, such as the [Martial Artist](../kit/martial-artist.md) or Sniper kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../class/elementalist.md) and [nulls](../class/null.md), can also benefit from such treasures.
 
-###### 1st-Level Armor Enhancement
+### 1st-Level Armor Enhancement
 
 **Item Prerequisite:** Varies
 
@@ -52,7 +52,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest characteristic score and you can push them 1 square.
 
-###### 1st-Level Armor Enhancements Table
+### 1st-Level Armor Enhancements Table
 
 | Enhancement          | Item Prerequisite                                                                                | Project Source Language |
 |----------------------|--------------------------------------------------------------------------------------------------|-------------------------|
@@ -67,7 +67,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 | Swift                | The feather of a falcon slain as it was diving                                                   | Yllyric                 |
 | Tempest I            | A strip of starmetal struck by lightning                                                         | Ullorvic                |
 
-###### 5th-Level Armor Enhancement
+### 5th-Level Armor Enhancement
 
 **Item Prerequisite:** Armor with a 1st-level enhancement; varies
 
@@ -107,7 +107,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Tempest II:** When you use the armor's Tempest I enhancement, the affected creature takes 8 lightning damage and you push them up to 3 squares.
 
-###### 5th-Level Armor Enhancements Table
+### 5th-Level Armor Enhancements Table
 
 | Enhancement           | Item Prerequisite                                                                 | Project Source Language |
 |-----------------------|-----------------------------------------------------------------------------------|-------------------------|
@@ -123,7 +123,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 | Shattering            | A pound of volcanic obsidian, formed naturally as a single piece                  | Zaliac                  |
 | Tempest II            | The armor must be laid out under a clear sky as a comet passes over               | Ullorvic                |
 
-###### 9th-Level Armor Enhancement
+### 9th-Level Armor Enhancement
 
 **Item Prerequisite:** Armor with a 5th-level enhancement; varies
 
@@ -137,7 +137,39 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
 
-###### 9th-Level Armor Enhancements Table
+### Dragon's Fire
+
+*You open your maw and unleash hell.*
+
+| **Area, Magic**            |               **Main action** |
+|----------------------------|------------------------------:|
+| **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
+
+**Power Roll + Your Highest Characteristic Score:**
+
+- **≤11:** 5 fire damage
+- **12-16:** 8 fire damage
+- **17+:** 11 fire damage
+
+**Invulnerable:** When an ability roll made against you obtains a tier 1 outcome, you can ignore its damage and effects.
+
+**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../movement/teleport.md) that distance.
+
+**Life:** Whenever you would die, you can spend a Recovery to regain Stamina instead. If you have no Recoveries to spend, you die.
+
+**Magic Resistance III:** The benefit of the armor's Magic Resistance II enhancement extends to each ally within 3 squares of you.
+
+**Phasing III:** Your movement doesn't provoke opportunity attacks, and you can move through the space of any enemy as if they were an ally. You can't end your turn in an enemy's space.
+
+**Psionic Resistance III:** The benefit of the armor's Psionic Resistance II enhancement extends to each ally within 3 squares of you.
+
+**Temporal Flux:** Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.
+
+On your turn, you can [teleport](../movement/teleport.md) to the imprint's space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to [teleport](../movement/teleport.md) to your imprint, and the power roll for the ability is an automatic tier 1 result.
+
+**Unbending:** You can't be subjected to [forced movement](../movement/forced-movement.md) unless you choose to be. Effects that ignore Stability also ignore this enhancement.
+
+### 9th-Level Armor Enhancements Table
 
 | Enhancement            | Item Prerequisite                                                                                    | Project Source Language |
 |------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
@@ -152,13 +184,13 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 | Temporal Flux          | An experimental temporal capacitor invented by the kuran'zoi                                         | Voll                    |
 | Unbending              | A spearhead or other weapon broken off in the body of a stone giant, and ossified for a year or more | High Kuric              |
 
-##### Imbue Implement
+## Imbue Implement
 
 Implements are jewelry, spectacles, orbs, staffs, tomes, wands, weapons, and other objects used by those who channel magic and psionic power to focus that power. You decide what object to imbue when you create an implement treasure, but it must be an object you can carry or wear. You must have a mundane version of the item you plan to imbue when you start this project.
 
 An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level enhancement, it grants your magic or psionic abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the bonus to +2, and a 9th-level enhancement increases it to +3. [Censors](../class/censor.md), [conduits](../class/conduit.md), [elementalists](../class/elementalist.md), [nulls](../class/null.md), [talents](../class/talent.md), and [troubadours](../class/troubadour.md) benefit from using implements more than the other classes in this book.
 
-###### 1st-Level Implement Enhancement
+### 1st-Level Implement Enhancement
 
 **Item Prerequisite:** Varies
 
@@ -186,7 +218,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Warding I:** You gain a +6 bonus to Stamina.
 
-###### 1st-Level Implement Enhancements Table
+### 1st-Level Implement Enhancements Table
 
 | Enhancement     | Item Prerequisite                               | Project Source Language |
 |-----------------|-------------------------------------------------|-------------------------|
@@ -200,7 +232,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 | Thought Sending | The brain of a psionic creature                 | Variac                  |
 | Warding I       | Three skulls from the same chimera              | Zaliac                  |
 
-###### 5th-Level Implement Enhancement
+### 5th-Level Implement Enhancement
 
 **Item Prerequisite:** An implement with a 1st-level enhancement; varies
 
@@ -228,7 +260,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Warding II:** The Stamina bonus for the Warding I enhancement becomes +12. Additionally, your characteristic scores are treated as 1 higher for the purpose of resisting potencies.
 
-###### 5th-Level Implement Enhancements Table
+### 5th-Level Implement Enhancements Table
 
 | Enhancement     | Item Prerequisite                                 | Project Source Language |
 |-----------------|---------------------------------------------------|-------------------------|
@@ -242,7 +274,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 | Rejuvenating II | A still-growing bonsai tree at least 30 years old | The First Language      |
 | Warding II      | A metallic dragon's horn                          | Zaliac                  |
 
-###### 9th-Level Implement Enhancement
+### 9th-Level Implement Enhancement
 
 **Item Prerequisite:** An implement with a 5th-level enhancement; varies
 
@@ -270,7 +302,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Warding III:** The Stamina bonus for the Warding I enhancement becomes +18. Additionally, you and each ally within 3 squares of you has their characteristic scores treated as 1 higher for the purpose of resisting potencies. This replaces the benefit of Warding II.
 
-###### 9th-Level Implement Enhancements Table
+### 9th-Level Implement Enhancements Table
 
 | Enhancement      | Item Prerequisite                                         | Project Source Language |
 |------------------|-----------------------------------------------------------|-------------------------|
@@ -284,15 +316,15 @@ An implement imbued with an enhancement grants you special benefits while it is 
 | Rejuvenating III | A live flower that blooms only once a decade              | The First Language      |
 | Warding III      | Heartwood from a two-century-old tree                     | Zaliac                  |
 
-##### Imbue Weapon
+## Imbue Weapon
 
 A weapon imbued with an enhancement grants you special benefits while it is wielded. Additionally, when a weapon receives its 1st-level enhancement, it grants your weapon abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the damage bonus to +2, and a 9th-level enhancement increases it to +3.
 
-###### Unarmed Strike Treasures
+### Unarmed Strike Treasures
 
 A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../kit/martial-artist.md) and [Pugilist](../kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../class/elementalist.md) and [nulls](../class/null.md), can also benefit from such treasures.
 
-###### 1st-Level Weapon Enhancement
+### 1st-Level Weapon Enhancement
 
 **Item Prerequisite:** Varies
 
@@ -320,7 +352,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Wingbane:** Whenever you damage a [flying](../movement/fly.md) creature using this weapon, that creature is also [bleeding](../condition/bleeding.md) (save ends). While [bleeding](../condition/bleeding.md) in this way, the creature takes 1 damage per square they [fly](../movement/fly.md). If the creature starts and ends their turn on the same solid surface, the [bleeding](../condition/bleeding.md) condition ends.
 
-###### 1st-Level Weapon Enhancements Table
+### 1st-Level Weapon Enhancements Table
 
 | Enhancement   | Item Prerequisite                                                    | Project Source Language |
 |---------------|----------------------------------------------------------------------|-------------------------|
@@ -334,7 +366,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 | Vengeance I   | The crown of a usurper                                               | Kalliak                 |
 | Wingbane      | The pinfeather of a giant hawk                                       | Yllyric                 |
 
-###### 5th-Level Weapon Enhancement
+### 5th-Level Weapon Enhancement
 
 **Item Prerequisite:** A weapon with a 1st-level enhancement; varies
 
@@ -346,7 +378,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Chargebreaker:** While you wield this weapon, you have the following ability.
 
-###### Stop Right There
+### Stop Right There
 
 >
 > *Their momentum, your impact.*
@@ -379,7 +411,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
 
-###### 5th-Level Weapon Enhancements
+### 5th-Level Weapon Enhancements
 
 | Enchantment   | Item Prerequisite                                               | Project Source Language |
 |---------------|-----------------------------------------------------------------|-------------------------|
@@ -393,7 +425,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 | Thundering II | An iron rod charged by the death throes of an essence of storms | Low Kuric               |
 | Vengeance II  | The remains of a sworn foe of the creature imbuing the item     | Kalliak                 |
 
-###### 9th-Level Weapon Enhancement
+### 9th-Level Weapon Enhancement
 
 **Item Prerequisite:** A weapon with a 5th-level enhancement; varies
 
@@ -413,7 +445,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are winded, you have the following ability.
 
-###### Nova
+### Nova
 
 >
 > *I am an eternal flame, baby!*
@@ -436,7 +468,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md), each target in the area is instead [slowed](../condition/slowed.md) until the end of their next turn.
 
-###### 9th-Level Weapon Enhancements
+### 9th-Level Weapon Enhancements
 
 | Enhancement    | Item Prerequisite                                                                                                                     | Project Source Language |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------|

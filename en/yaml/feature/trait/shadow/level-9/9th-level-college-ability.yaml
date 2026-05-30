@@ -1,39 +1,18 @@
-ability:
-    cost: 11 Insight
-    distance: Self; see below
-    effects:
-        - roll: Power Roll + Agility
-          tier1: An enemy takes 6 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares.
-          tier2: An enemy takes 10 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares.
-          tier3: An enemy takes 14 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 7 squares.
-        - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
-          name: Effect
-    feature_type: ability
-    flavor: You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.
-    keywords:
-        - Magic
-        - Melee
-        - Weapon
-    metadata:
-        action_type: Main action
-        content: "\n*You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.*\n\n| **Magic, Melee, Weapon** | **Main action** |\n|--------------------------|----------------:|\n| **\U0001F4CF Self; see below**   |     **\U0001F3AF Self** |\n\n**Effect:** You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).\n\n**Power Roll + Agility:**\n\n- **≤11:** An enemy takes 6 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares.\n- **12-16:** An enemy takes 10 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares.\n- **17+:** An enemy takes 14 damage; an ally can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 7 squares."
-        distance: Self; see below
-        feature_type: ability
-        flavor: You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.
-        item_id: cacophony-of-cinders
-        item_name: Cacophony of Cinders
-        keywords:
-            - Magic
-            - Melee
-            - Weapon
-        target: Self
-        type: feature/ability/common
-    name: Cacophony of Cinders
-    target: Self
-    type: feature
-    usage: Main action
 effects:
-    - effect: Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants your choice of one of two heroic abilities.
+    - effect: |-
+        Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants your choice of one of two heroic abilities.
+
+        ##### 9th-Level Black Ash Abilities
+
+        Choose one of the following abilities.
+
+        ##### 9th-Level Caustic Alchemy Abilities
+
+        Choose one of the following abilities.
+
+        ##### 9th-Level Harlequin Mask Abilities
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     action_type: feature

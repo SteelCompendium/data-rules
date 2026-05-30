@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following ability.\n\n##### Careful Observation\n\n> \n> *A moment of focus leaves a foe firmly in your sights.*\n> \n> | **Ranged**       |        **Maneuver** |\n> |------------------|--------------------:|\n> | **\U0001F4CF Ranged 20** | **\U0001F3AF One creature** |\n> \n> **Effect:** As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 surge you can use only on that strike."
+    - effect: You have the following ability.
 feature_type: trait
 metadata:
     class: shadow

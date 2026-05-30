@@ -1,45 +1,4 @@
 {
-  "ability": {
-    "cost": "11 Essence",
-    "distance": "5 cube within 10",
-    "effects": [
-      {
-        "roll": "Power Roll + Reason",
-        "tier1": "6 damage",
-        "tier2": "9 damage",
-        "tier3": "13 damage"
-      }
-    ],
-    "feature_type": "ability",
-    "flavor": "Everyone and everything gets blown away in an eruption of rocks and debris.",
-    "keywords": [
-      "Area",
-      "Earth",
-      "Magic",
-      "Ranged"
-    ],
-    "metadata": {
-      "action_type": "Main action",
-      "content": "\n*Everyone and everything gets blown away in an eruption of rocks and debris.*\n\n| **Area, Earth, Magic, Ranged** |                          **Main action** |\n|--------------------------------|-----------------------------------------:|\n| **📏 5 cube within 10**        | **🎯 Each enemy and object in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 6 damage\n- **12-16:** 9 damage\n- **17+:** 13 damage\n\n**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.",
-      "distance": "5 cube within 10",
-      "feature_type": "ability",
-      "flavor": "Everyone and everything gets blown away in an eruption of rocks and debris.",
-      "item_id": "earth-rejects-you",
-      "item_name": "Earth Rejects You",
-      "keywords": [
-        "Area",
-        "Earth",
-        "Magic",
-        "Ranged"
-      ],
-      "target": "Each enemy and object in the area",
-      "type": "feature/ability/common"
-    },
-    "name": "Earth Rejects You",
-    "target": "Each enemy and object in the area",
-    "type": "feature",
-    "usage": "Main action"
-  },
   "effects": [
     {
       "effect": "Choose one heroic ability from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn't select at 8th level (see 8th-Level Features)."

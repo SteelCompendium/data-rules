@@ -16,7 +16,7 @@ When you start this project, you must be in a settlement or other location where
 
 While undertaking this project, you provide help to people in need, doing odd jobs, tutoring life skills, cleaning streets or public spaces, finding lost valuables, and the like. The Director determines the characteristic that applies to the project roll based on the activities you undertake. When you complete this project, you receive a random consumable treasure of the Director's choice from someone in the community as thanks for your hard work.
 
-###### Community Service Events Table
+### Community Service Events Table
 
 | d10 | Event                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

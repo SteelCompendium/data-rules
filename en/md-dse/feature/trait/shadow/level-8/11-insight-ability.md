@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 11 insight to use.\n\n##### Assassinate (11 Insight)\n\n>\n> *A practiced attack will instantly kill an already weakened foe.*\n>\n> | **Melee, Strike, Weapon** |               **Main action** |\n> |---------------------------|------------------------------:|\n> | **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n>\n> **Power Roll + Agility:**\n>\n> - **≤11:** 12 + A damage\n> - **12-16:** 18 + A damage\n> - **17+:** 24 + A damage\n>\n> **Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina."
+    - effect: Choose one heroic ability from the following options, each of which costs 11 insight to use.
 feature_type: trait
 metadata:
     class: shadow

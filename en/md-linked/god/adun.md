@@ -16,7 +16,7 @@ A knight following Adûn spends their time aiding others through hard work, insp
 
 Adûn and Cavall are brothers and the line between them is not a sharply defined one. Truth and justice are close companions.
 
-##### Gaed the Confessor
+## Gaed the Confessor
 
 **Domains:** Love, Protection
 
@@ -34,7 +34,7 @@ It was Gaed, son of Malgen, son of Germoc, who entered the tavern—it was Saint
 
 Gaed teaches the virtue of being true to one's principles even—especially—when doing so is the most difficult thing in the world. The title "confessor" is granted to those who persisted in their faith in public, even when doing so was dangerous or deadly.
 
-##### Gryffyn the Stout
+## Gryffyn the Stout
 
 **Domains:** Creation, Life
 

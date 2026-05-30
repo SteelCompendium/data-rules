@@ -18,7 +18,7 @@ When the project is completed, you have an airship. You and any creatures you de
 
 An airship is an object (giving it damage immunity all to poison and psychic damage) and can take 200 damage before it is destroyed. If the damage the ship takes is not too severe (as the Director determines), as long as you have access to materials that can repair the ship, you can restore it back to its original condition as a respite activity.
 
-###### Build or Repair Road Renown Table
+### Build or Repair Road Renown Table
 
 | Length              | Renown Earned |
 |---------------------|---------------|

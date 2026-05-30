@@ -1,31 +1,18 @@
-ability:
-    cost: 9 Discipline
-    distance: Self
-    effects:
-        - effect: You can use up to three signature abilities, each of which gains an edge.
-          name: Effect
-    feature_type: ability
-    flavor: You slip into a faster timestream to act more quickly.
-    keywords:
-        - Psionic
-    metadata:
-        action_type: Main action
-        content: "\n*You slip into a faster timestream to act more quickly.*\n\n| **Psionic** | **Main action** |\n|-------------|----------------:|\n| **\U0001F4CF Self** |     **\U0001F3AF Self** |\n\n**Effect:** You can use up to three signature abilities, each of which gains an edge."
-        distance: Self
-        feature_type: ability
-        flavor: You slip into a faster timestream to act more quickly.
-        item_id: interphase
-        item_name: Interphase
-        keywords:
-            - Psionic
-        target: Self
-        type: feature/ability/common
-    name: Interphase
-    target: Self
-    type: feature
-    usage: Main action
 effects:
-    - effect: Your [null tradition](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-tradition) grants your choice of one of two heroic abilities.
+    - effect: |-
+        Your [null tradition](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-tradition) grants your choice of one of two heroic abilities.
+
+        ##### 6th-Level Chronokinetic Abilities
+
+        Choose one of the following abilities.
+
+        ##### 6th-Level Cryokinetic Abilities
+
+        Choose one of the following abilities.
+
+        ##### 6th-Level Metakinetic Abilities
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     action_type: feature

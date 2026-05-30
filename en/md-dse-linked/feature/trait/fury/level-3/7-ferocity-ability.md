@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 7 ferocity to use.\n\n##### Demon Unleashed (7 Ferocity)\n\n> \n> *Foes tremble at the sight of you.*\n> \n> | **Magic**   | **Maneuver** |\n> |-------------|-------------:|\n> | **\U0001F4CF Self** |  **\U0001F3AF Self** |\n> \n> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../../../condition/frightened.md) until the end of their turn."
+    - effect: Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
 feature_type: trait
 metadata:
     class: fury

@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following ability.\n\n###### Feedback Loop\n\n>\n> *Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.*\n>\n> | **Psionic, Ranged** |       **Triggered** |\n> |---------------------|--------------------:|\n> | **\U0001F4CF Ranged 10**    | **\U0001F3AF One creature** |\n>\n> **Trigger:** The target deals damage to an ally.\n>\n> **Effect:** The target takes psychic damage equal to half the triggering damage."
+    - effect: You have the following ability.
 feature_type: trait
 metadata:
     class: talent

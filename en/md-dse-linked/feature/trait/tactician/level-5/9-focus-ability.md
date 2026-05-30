@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 9 focus to use.\n\n##### Squad! Gear Check! (9 Focus)\n\n>\n> *You distract a foe while your allies secure their defensive gear.*\n>\n> | **Melee, Strike, Weapon** | **Main action**     |\n> |---------------------------|---------------------|\n> | **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n>\n> **Power Roll + Might:**\n>\n> - **≤11:** 9 + M damage\n> - **12-16:** 13 + M damage\n> - **17+:** 18 + M damage\n>\n> **Effect:** You and each ally adjacent to the target gain 10 temporary Stamina."
+    - effect: Choose one heroic ability from the following options, each of which costs 9 focus to use.
 feature_type: trait
 metadata:
     class: tactician

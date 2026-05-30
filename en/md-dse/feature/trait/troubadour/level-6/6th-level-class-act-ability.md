@@ -15,7 +15,20 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your [troubadour class act](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/troubadour-class-act) grants your choice of one of two heroic abilities.\n\n##### 6th-Level Auteur Abilities\n\nChoose one of the following abilities.\n\n##### 6th-Level Duelist Abilities\n\nChoose one of the following abilities.\n\n##### 6th-Level Virtuoso Abilities\n\nChoose one of the following abilities.\n\n###### Here's How Your Story Ends (9 Drama)\n\n>\n> *You give away the ending of this battle, and it's not great for them.*\n>\n> | **Area, Magic** |               **Main action** |\n> |-----------------|------------------------------:|\n> | **\U0001F4CF 5 burst**  | **\U0001F3AF Each enemy in the area** |\n>\n> **Power Roll + Presence:**\n>\n> - **≤11:** 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n> - **17+:** 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
+    - effect: |-
+        Your [troubadour class act](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/troubadour-class-act) grants your choice of one of two heroic abilities.
+
+        ##### 6th-Level Auteur Abilities
+
+        Choose one of the following abilities.
+
+        ##### 6th-Level Duelist Abilities
+
+        Choose one of the following abilities.
+
+        ##### 6th-Level Virtuoso Abilities
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     class: troubadour

@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following ability.\n\n###### Accelerate\n\n>\n> *To your ally, it seems as though the world has slowed down.*\n>\n> | **Psionic, Ranged** |                **Maneuver** |\n> |---------------------|----------------------------:|\n> | **\U0001F4CF Ranged 10**    | **\U0001F3AF Self or one creature** |\n>\n> **Effect:** The target shifts up to a number of squares equal to your Reason score.\n>\n> **Spend 2 Clarity:** The target can use a maneuver."
+    - effect: You have the following ability.
 feature_type: trait
 metadata:
     class: talent

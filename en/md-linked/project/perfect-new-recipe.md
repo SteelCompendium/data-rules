@@ -24,7 +24,7 @@ A creature who eats a serving of food from a particular type of recipe gains one
 
 A creature can benefit from the food of only one recipe at a time, and can't benefit from more than one serving of a recipe at a time.
 
-###### Recipe Table
+### Recipe Table
 
 | Type of Recipe  | Item Prerequisite                                                     | Benefits           |
 |-----------------|-----------------------------------------------------------------------|--------------------|

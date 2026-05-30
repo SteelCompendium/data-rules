@@ -15,7 +15,24 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and allows you to hold your own in combat alongside your friends.\n\n##### Signature Abilities\n\nChoose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../ability/conduit/level-1/blessed-light.md), [Staggering Curse](../../../ability/conduit/level-1/staggering-curse.md).)\n\n##### Heroic Abilities\n\nYou make use of a number of heroic abilities, all of which channel piety to empower them.\n\n###### 3-Piety Ability\n\nChoose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../../ability/conduit/level-1/violence-will-not-aid-thee.md).)\n\n###### 5-Piety Ability\n\nChoose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../../ability/conduit/level-1/curse-of-terror.md).)\n\n###### Blessed Light\n\n> \n> *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*\n> \n> | **Magic, Ranged, Strike** |               **Main action** |\n> |---------------------------|------------------------------:|\n> | **\U0001F4CF Ranged 10**          | **\U0001F3AF One creature or object** |\n> \n> **Power Roll + Intuition:**\n> \n> - **≤11:** 3 + I holy damage\n> - **12-16:** 5 + I holy damage\n> - **17+:** 8 + I holy damage\n> \n> **Effect:** One ally within distance gains a number of surges equal to the tier outcome of your power roll."
+    - effect: |-
+        Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and allows you to hold your own in combat alongside your friends.
+
+        ##### Signature Abilities
+
+        Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../ability/conduit/level-1/blessed-light.md), [Staggering Curse](../../../ability/conduit/level-1/staggering-curse.md).)
+
+        ##### Heroic Abilities
+
+        You make use of a number of heroic abilities, all of which channel piety to empower them.
+
+        ###### 3-Piety Ability
+
+        Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../../ability/conduit/level-1/violence-will-not-aid-thee.md).)
+
+        ###### 5-Piety Ability
+
+        Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../../ability/conduit/level-1/curse-of-terror.md).)
 feature_type: trait
 metadata:
     class: conduit

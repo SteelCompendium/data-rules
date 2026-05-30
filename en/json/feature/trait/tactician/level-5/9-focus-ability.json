@@ -1,47 +1,4 @@
 {
-  "ability": {
-    "cost": "9 Focus",
-    "distance": "Melee 1",
-    "effects": [
-      {
-        "roll": "Power Roll + Might",
-        "tier1": "9 + M damage",
-        "tier2": "13 + M damage",
-        "tier3": "18 + M damage"
-      },
-      {
-        "effect": "You and each ally adjacent to the target gain 10 temporary Stamina.",
-        "name": "Effect"
-      }
-    ],
-    "feature_type": "ability",
-    "flavor": "You distract a foe while your allies secure their defensive gear.",
-    "keywords": [
-      "Melee",
-      "Strike",
-      "Weapon"
-    ],
-    "metadata": {
-      "action_type": "Main action",
-      "content": "\n*You distract a foe while your allies secure their defensive gear.*\n\n| **Melee, Strike, Weapon** | **Main action**     |\n|---------------------------|---------------------|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 9 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 18 + M damage\n\n**Effect:** You and each ally adjacent to the target gain 10 temporary Stamina.",
-      "distance": "Melee 1",
-      "feature_type": "ability",
-      "flavor": "You distract a foe while your allies secure their defensive gear.",
-      "item_id": "squad-gear-check",
-      "item_name": "Squad! Gear Check!",
-      "keywords": [
-        "Melee",
-        "Strike",
-        "Weapon"
-      ],
-      "target": "One creature",
-      "type": "feature/ability/common"
-    },
-    "name": "Squad! Gear Check!",
-    "target": "One creature",
-    "type": "feature",
-    "usage": "Main action"
-  },
   "effects": [
     {
       "effect": "Choose one heroic ability from the following options, each of which costs 9 focus to use."

@@ -15,7 +15,20 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.\n\n##### 6th-Level Black Ash Abilities\n\nChoose one of the following abilities.\n\n##### 6th-Level Caustic Alchemy Abilities\n\nChoose one of the following abilities.\n\n##### 6th-Level Harlequin Mask Abilities\n\nChoose one of the following abilities.\n\n###### Black Ash Eruption (9 Insight)\n\n>\n> *Your attack produces a cloud of black ash that launches an enemy into the air.*\n>\n> | **Magic, Melee, Strike, Weapon** |     **Main action** |\n> |----------------------------------|--------------------:|\n> | **\U0001F4CF Melee 1**                   | **\U0001F3AF One creature** |\n>\n> **Power Roll + Agility:**\n>\n> - **≤11:** 3 + A damage; vertical push 5\n> - **12-16:** 6 + A damage; vertical push 10\n> - **17+:** 9 + A damage; vertical push 15\n>\n> **Effect:** A creature [force moved](../../../../movement/forced-movement.md) by this ability must be moved straight upward."
+    - effect: |-
+        Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
+
+        ##### 6th-Level Black Ash Abilities
+
+        Choose one of the following abilities.
+
+        ##### 6th-Level Caustic Alchemy Abilities
+
+        Choose one of the following abilities.
+
+        ##### 6th-Level Harlequin Mask Abilities
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     class: shadow

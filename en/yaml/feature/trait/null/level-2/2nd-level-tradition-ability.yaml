@@ -1,31 +1,18 @@
-ability:
-    cost: 5 Discipline
-    distance: Self
-    effects:
-        - effect: You can use a signature or heroic ability. You gain an edge on that ability's power rolls.
-          name: Effect
-    feature_type: ability
-    flavor: You release stored time, allowing you to act twice.
-    keywords:
-        - Psionic
-    metadata:
-        action_type: Maneuver
-        content: "\n*You release stored time, allowing you to act twice.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls."
-        distance: Self
-        feature_type: ability
-        flavor: You release stored time, allowing you to act twice.
-        item_id: blur
-        item_name: Blur
-        keywords:
-            - Psionic
-        target: Self
-        type: feature/ability/common
-    name: Blur
-    target: Self
-    type: feature
-    usage: Maneuver
 effects:
-    - effect: Your [null tradition](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-tradition) grants your choice of one of two abilities.
+    - effect: |-
+        Your [null tradition](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-tradition) grants your choice of one of two abilities.
+
+        ##### 2nd-Level Chronokinetic Ability
+
+        Choose one of the following abilities.
+
+        ##### 2nd-Level Cryokinetic Ability
+
+        Choose one of the following heroic abilities.
+
+        ##### 2nd-Level Metakinetic Ability
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     action_type: feature

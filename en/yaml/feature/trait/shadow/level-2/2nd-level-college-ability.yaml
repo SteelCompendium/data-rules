@@ -1,41 +1,18 @@
-ability:
-    cost: 5 Insight
-    distance: Melee 1 or ranged 5
-    effects:
-        - roll: Power Roll + Agility
-          tier1: 6 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target 1 square
-          tier2: 10 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 3 squares
-          tier3: 14 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 5 squares
-    feature_type: ability
-    flavor: You enchant a strike with your [teleport](scc:mcdm.heroes.v1/movement/teleport)ation magic.
-    keywords:
-        - Magic
-        - Melee
-        - Ranged
-        - Strike
-        - Weapon
-    metadata:
-        action_type: Main action
-        content: "\n*You enchant a strike with your [teleport](scc:mcdm.heroes.v1/movement/teleport)ation magic.*\n\n| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |\n|------------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**               | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target 1 square\n- **12-16:** 10 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 3 squares\n- **17+:** 14 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 5 squares"
-        distance: Melee 1 or ranged 5
-        feature_type: ability
-        flavor: You enchant a strike with your [teleport](scc:mcdm.heroes.v1/movement/teleport)ation magic.
-        item_id: in-a-puff-of-ash
-        item_name: In a Puff of Ash
-        keywords:
-            - Magic
-            - Melee
-            - Ranged
-            - Strike
-            - Weapon
-        target: One creature
-        type: feature/ability/common
-    name: In a Puff of Ash
-    target: One creature
-    type: feature
-    usage: Main action
 effects:
-    - effect: Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants your choice of one of two heroic abilities.
+    - effect: |-
+        Your [shadow college](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college) grants your choice of one of two heroic abilities.
+
+        ##### 2nd-Level Black Ash Ability
+
+        Choose one of the following abilities.
+
+        ##### 2nd-Level Caustic Alchemy Ability
+
+        Choose one of the following abilities.
+
+        ##### 2nd-Level Harlequin Mask Ability
+
+        Choose one of the following abilities.
 feature_type: trait
 metadata:
     action_type: feature

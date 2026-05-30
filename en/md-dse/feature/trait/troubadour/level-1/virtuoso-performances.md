@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "You have the following performance abilities, which are usable with your [Routines](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/routines) feature.\n\n###### \"Thunder Mother\"\n\n>\n> *All for thunder motherrr! ♪ Run and hide for coverrr!♪*\n>\n> | **Magic, Performance, Ranged, Strike** |       **No action** |\n> |----------------------------------------|--------------------:|\n> | **\U0001F4CF Ranged 10**                       | **\U0001F3AF One creature** |\n>\n> **Effect:** At the end of each combat round while this performance is active, you can make a power roll against the target that ignores cover. You can't target the same creature twice with this effect.\n>\n> **Power Roll + Presence:**\n>\n> - **≤11:** Lightning damage equal to your level\n> - **12-16:** Lightning damage equal to 5 + your level\n> - **17+:** Lightning damage equal to 10 + your level"
+    - effect: You have the following performance abilities, which are usable with your [Routines](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/routines) feature.
 feature_type: trait
 metadata:
     class: troubadour

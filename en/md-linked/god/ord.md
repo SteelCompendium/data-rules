@@ -10,11 +10,11 @@ Ord, the Maker, the Engineer, is the patron of the [dwarves](../ancestry/dwarf.m
 
 Ord values integrity, honor, faithfulness to an ideal. Courage in battle and fair play. Treating your opponent honorably, Ord teaches, is an expression of your own worthiness. Ord is associated with permanence, which some elder [dwarves](../ancestry/dwarf.md) take to mean a kind of slavish devotion to tradition. But Ord teaches permanence is the quality of reliability, of steadfastness. Young [dwarves](../ancestry/dwarf.md) who chafe at the stale and stifling traditions of their elders remind the greybeards that Ord is the Maker. He expects his children to create marvels, to bring forth new discoveries, new insights. To remake the world anew each generation.
 
-#### Heroes of the Dwarves
+## Heroes of the Dwarves
 
 The following heroes are venerated by many [dwarves](../ancestry/dwarf.md) and others who follow Ord.
 
-##### Zarok the Law-Giver
+### Zarok the Law-Giver
 
 **Domains:** Protection, War
 
@@ -30,7 +30,7 @@ Zarok teaches that all people should be equal under the law. His is the principl
 
 Zarok's *The Conversations* are still quoted today. There is a long legal tradition, when a prestigious lawyer in Capital wishes to write an amicus brief without revealing their identity, they sign it "Z."
 
-##### Valak-koth the Seeker
+### Valak-koth the Seeker
 
 **Domains:** Knowledge, Sun
 
@@ -40,7 +40,7 @@ She would run, heedless of danger, into the dark caves below and wherever she po
 
 Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, to seek endlessly and quest for knowledge, not to fear the darkness. To bring light into dark places. Valak-koth it was who first discovered the World Below, the Dark Under All, though it was not recognized as a separate manifold until after her death. After her death, the original Sungem she found refused to dim. It was enshrined in her temple-tomb, now lost along with the ancient stone [dwarf](../ancestry/dwarf.md) city of Kas Koriar.
 
-##### Stakros the Engineer
+### Stakros the Engineer
 
 **Domains:** Creation, Knowledge
 

@@ -14,7 +14,7 @@ OV is the god of navigators and those who seek safe passage through treacherous 
 
 When a [time raider](../ancestry/time-raider.md) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
 
-##### The Calling of Cho'kassa the Time Rider
+## The Calling of Cho'kassa the Time Rider
 
 **Domains:** Storm, Sun
 

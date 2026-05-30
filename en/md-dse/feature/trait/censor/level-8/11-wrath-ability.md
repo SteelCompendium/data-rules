@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 11 wrath to use.\n\n##### Excommunication (11 Wrath)\n\n> \n> *You curse your foe to become a bane to their allies.*\n> \n> | **Melee, Strike, Weapon** |     **Main action** |\n> |---------------------------|--------------------:|\n> | **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n> \n> **Power Roll + Might:**\n> \n> - **≤11:** 9 + M damage; I < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n> - **12-16:** 13 + M damage; I < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n> - **17+:** 18 + M damage; I < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n> \n> **Effect:** At the end of each of your turns, a target [weakened](scc:mcdm.heroes.v1/condition/weakened) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](scc:mcdm.heroes.v1/condition/weakened) this way can't be targeted by their allies' abilities."
+    - effect: Choose one heroic ability from the following options, each of which costs 11 wrath to use.
 feature_type: trait
 metadata:
     class: censor

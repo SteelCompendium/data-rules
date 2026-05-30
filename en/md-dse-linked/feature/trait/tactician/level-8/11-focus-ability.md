@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 11 focus to use.\n\n##### Go Now and Speed Well (11 Focus)\n\n>\n> *You direct an attack to strike true.*\n>\n> | **Ranged**       |         **Main action** |\n> |------------------|------------------------:|\n> | **\U0001F4CF Ranged 10** | **\U0001F3AF Self or one ally** |\n>\n> **Effect:** The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1."
+    - effect: Choose one heroic ability from the following options, each of which costs 11 focus to use.
 feature_type: trait
 metadata:
     class: tactician

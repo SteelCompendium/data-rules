@@ -1,47 +1,4 @@
 {
-  "ability": {
-    "cost": "9 Ferocity",
-    "distance": "Melee 1",
-    "effects": [
-      {
-        "roll": "Power Roll + Might",
-        "tier1": "10 + M damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-        "tier2": "14 + M damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-        "tier3": "20 + M damage; M \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
-      },
-      {
-        "effect": "While [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, the target takes 1 damage for every square they move, including from [forced movement](scc:mcdm.heroes.v1/movement/forced-movement).",
-        "name": "Effect"
-      }
-    ],
-    "feature_type": "ability",
-    "flavor": "You need just one blow to sabotage your target.",
-    "keywords": [
-      "Melee",
-      "Strike",
-      "Weapon"
-    ],
-    "metadata": {
-      "action_type": "Main action",
-      "content": "\n*You need just one blow to sabotage your target.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 10 + M damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 14 + M damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 20 + M damage; M \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n\n**Effect:** While [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, the target takes 1 damage for every square they move, including from [forced movement](scc:mcdm.heroes.v1/movement/forced-movement).",
-      "distance": "Melee 1",
-      "feature_type": "ability",
-      "flavor": "You need just one blow to sabotage your target.",
-      "item_id": "debilitating-strike",
-      "item_name": "Debilitating Strike",
-      "keywords": [
-        "Melee",
-        "Strike",
-        "Weapon"
-      ],
-      "target": "One creature",
-      "type": "feature/ability/common"
-    },
-    "name": "Debilitating Strike",
-    "target": "One creature",
-    "type": "feature",
-    "usage": "Main action"
-  },
   "effects": [
     {
       "effect": "Choose one heroic ability from the following options, each of which costs 9 ferocity to use."

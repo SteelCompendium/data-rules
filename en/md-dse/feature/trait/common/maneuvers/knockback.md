@@ -13,7 +13,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.\n\n##### Knockback\n\n>\n> | **Melee, Weapon** |        **Maneuver** |\n> |-------------------|--------------------:|\n> | **\U0001F4CF Melee 1**    | **\U0001F3AF One creature** |\n>\n> **Power Roll + Might:**\n>\n> - **≤11:** Push 1\n> - **12-16:** Push 2\n> - **17+:** Push 3\n>\n> **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score."
+    - effect: A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
 feature_type: trait
 metadata:
     name: Knockback

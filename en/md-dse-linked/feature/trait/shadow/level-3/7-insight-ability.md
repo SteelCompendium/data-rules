@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: "Choose one heroic ability from the following options, each of which costs 7 insight to use.\n\n##### Dancer (7 Insight)\n\n>\n> *You enter a flow state that makes you nearly impossible to pin down.*\n>\n> | **-**       | **Maneuver** |\n> |-------------|-------------:|\n> | **\U0001F4CF Self** |  **\U0001F3AF Self** |\n>\n> **Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../../../movement/forced-movement.md) adjacent to you or damages you, you can take the Disengage move action as a free triggered action."
+    - effect: Choose one heroic ability from the following options, each of which costs 7 insight to use.
 feature_type: trait
 metadata:
     class: shadow

@@ -1,44 +1,22 @@
-ability:
-    ability_type: Signature
-    distance: Ranged 10
-    effects:
-        - roll: Power Roll + Reason
-          tier1: 2 + R corruption damage
-          tier2: 4 + R corruption damage
-          tier3: 6 + R corruption damage
-        - effect: Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
-          name: Effect
-    feature_type: ability
-    flavor: Your curse causes your foe's flesh to rot off as spores that aid your allies.
-    keywords:
-        - Green
-        - Magic
-        - Ranged
-        - Rot
-        - Strike
-    metadata:
-        ability_type: Signature
-        action_type: Main action
-        content: "\n*Your curse causes your foe's flesh to rot off as spores that aid your allies.*\n\n| **Green, Magic, Ranged, Rot, Strike**  |     **Main action** |\n|----------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                       | **\U0001F3AF One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R corruption damage\n- **12-16:** 4 + R corruption damage\n- **17+:** 6 + R corruption damage\n\n**Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn."
-        distance: Ranged 10
-        feature_type: ability
-        flavor: Your curse causes your foe's flesh to rot off as spores that aid your allies.
-        item_id: afflict-a-bountiful-decay
-        item_name: Afflict a Bountiful Decay
-        keywords:
-            - Green
-            - Magic
-            - Ranged
-            - Rot
-            - Strike
-        target: One creature
-        type: feature/ability/common
-    name: Afflict a Bountiful Decay
-    target: One creature
-    type: feature
-    usage: Main action
 effects:
-    - effect: Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+    - effect: |-
+        Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+
+        ##### Signature Abilities
+
+        Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration), [Viscous Fire](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire).)
+
+        ##### Heroic Abilities
+
+        You channel a variety of heroic abilities, all of them fueled by your essence.
+
+        ###### 3-Essence Ability
+
+        Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
+
+        ###### 5-Essence Ability
+
+        Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration).)
 feature_type: trait
 metadata:
     action_type: feature
