@@ -15,13 +15,13 @@ ability:
         distance: Self
         feature_type: ability
         flavor: In a swirl of black ash, you step from one place to another.
-        item_id: black-ash-teleport-scc-mcdm-heroes-v1-movement-teleport
-        item_name: Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)
+        item_id: black-ash-teleport
+        item_name: Black Ash Teleport
         keywords:
             - Magic
         target: Self
         type: feature/ability/common
-    name: Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)
+    name: Black Ash Teleport
     target: Self
     type: feature
     usage: Maneuver
