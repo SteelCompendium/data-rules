@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: rewards
 item_name: Rewards
 name: Rewards
+order: 16
 scc: mcdm.heroes.v1/chapter/rewards
 source: mcdm.heroes.v1
 type: chapter

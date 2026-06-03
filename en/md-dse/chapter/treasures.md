@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: treasures
 item_name: Treasures
 name: Treasures
+order: 17
 scc: mcdm.heroes.v1/chapter/treasures
 source: mcdm.heroes.v1
 type: chapter

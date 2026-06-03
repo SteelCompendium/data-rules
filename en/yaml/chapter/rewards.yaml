@@ -67,5 +67,6 @@ content: |-
     | 5           | Church; keep; wizard tower                                                                                                            |
     | 6           | Castle; shipyard                                                                                                                      |
 name: Rewards
+order: 16
 scc: mcdm.heroes.v1/chapter/rewards
 type: chapter

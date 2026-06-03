@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: combat
 item_name: Combat
 name: Combat
+order: 13
 scc: mcdm.heroes.v1/chapter/combat
 source: mcdm.heroes.v1
 type: chapter

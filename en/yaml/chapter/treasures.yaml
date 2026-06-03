@@ -127,5 +127,6 @@ content: |-
 
     **Beneath Contempt:** Deities and their servants always overlook the Mortal Coil and its host—either unable to notice it, or not considering it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid in the manifold where it was destroyed, then reforms in a hidden place.
 name: Treasures
+order: 17
 scc: mcdm.heroes.v1/chapter/treasures
 type: chapter

@@ -52,5 +52,6 @@ content: |-
 
     Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You're building a hero—a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That's why the game lets you build a culture rather than simply saying, "Pick three skills and a bonus language." We want players to imagine their heroes as complex and intricate characters.
 name: Background
+order: 4
 scc: mcdm.heroes.v1/chapter/background
 type: chapter

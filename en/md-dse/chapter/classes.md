@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: classes
 item_name: Classes
 name: Classes
+order: 7
 scc: mcdm.heroes.v1/chapter/classes
 source: mcdm.heroes.v1
 type: chapter

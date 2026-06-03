@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: cultures
 item_name: Culture
 name: Culture
+order: 5
 scc: mcdm.heroes.v1/chapter/cultures
 source: mcdm.heroes.v1
 type: chapter

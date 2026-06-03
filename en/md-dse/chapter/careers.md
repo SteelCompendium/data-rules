@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: careers
 item_name: Careers
 name: Careers
+order: 6
 scc: mcdm.heroes.v1/chapter/careers
 source: mcdm.heroes.v1
 type: chapter

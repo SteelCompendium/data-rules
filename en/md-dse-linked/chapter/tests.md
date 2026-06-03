@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: tests
 item_name: Tests
 name: Tests
+order: 11
 scc: mcdm.heroes.v1/chapter/tests
 source: mcdm.heroes.v1
 type: chapter

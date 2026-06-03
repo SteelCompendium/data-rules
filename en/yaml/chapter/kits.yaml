@@ -174,5 +174,6 @@ content: |-
     | [Warrior Priest](scc:mcdm.heroes.v1/kit/warrior-priest)   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
     | [Whirlwind](scc:mcdm.heroes.v1/kit/whirlwind)        | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
 name: Kits
+order: 8
 scc: mcdm.heroes.v1/chapter/kits
 type: chapter

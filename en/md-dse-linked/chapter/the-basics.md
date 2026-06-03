@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: the-basics
 item_name: The Basics
 name: The Basics
+order: 1
 scc: mcdm.heroes.v1/chapter/the-basics
 source: mcdm.heroes.v1
 type: chapter

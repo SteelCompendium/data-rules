@@ -1,5 +1,6 @@
 ---
 name: Rewards
+order: 16
 scc: mcdm.heroes.v1/chapter/rewards
 type: chapter
 ---

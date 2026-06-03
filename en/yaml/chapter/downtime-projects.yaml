@@ -114,5 +114,6 @@ content: |-
 
     Not all heroes want to craft or research during their time between adventures. Some might wish to build organizations, reconnect with family or friends, or just go fishing.
 name: Downtime Projects
+order: 15
 scc: mcdm.heroes.v1/chapter/downtime-projects
 type: chapter

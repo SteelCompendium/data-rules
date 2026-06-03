@@ -510,5 +510,6 @@ content: |-
 
     The heroes could have attempted other tests during their travels, such as an Agility test using the Sneak skill to lead the group through dangerous shortcuts in the desert without being seen or waylaid by predators, a Reason test using the Nature skill to find enough food and water to keep the group hydrated and fed, or a Presence test using the Music skill to inspire allies to travel faster with song.
 name: Tests
+order: 11
 scc: mcdm.heroes.v1/chapter/tests
 type: chapter

@@ -167,5 +167,6 @@ content: |-
     | Strategy            | Knowing about battle tactics and logistics                                                 |
     | Timescape           | Knowing about the many worlds of the timescape                                             |
 name: Skills
+order: 12
 scc: mcdm.heroes.v1/chapter/skills
 type: chapter

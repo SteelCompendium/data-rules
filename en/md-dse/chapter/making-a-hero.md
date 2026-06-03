@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: making-a-hero
 item_name: Making a Hero
 name: Making a Hero
+order: 2
 scc: mcdm.heroes.v1/chapter/making-a-hero
 source: mcdm.heroes.v1
 type: chapter

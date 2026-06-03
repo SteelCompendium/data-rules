@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: skills
 item_name: Skills
 name: Skills
+order: 12
 scc: mcdm.heroes.v1/chapter/skills
 source: mcdm.heroes.v1
 type: chapter

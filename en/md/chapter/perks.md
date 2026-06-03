@@ -1,5 +1,6 @@
 ---
 name: Perks
+order: 9
 scc: mcdm.heroes.v1/chapter/perks
 type: chapter
 ---

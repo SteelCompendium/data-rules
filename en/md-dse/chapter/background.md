@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: background
 item_name: Background
 name: Background
+order: 4
 scc: mcdm.heroes.v1/chapter/background
 source: mcdm.heroes.v1
 type: chapter

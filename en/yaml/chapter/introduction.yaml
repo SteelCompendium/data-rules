@@ -579,5 +579,6 @@ content: |-
 
     **Wrath:** The [censor's](scc:mcdm.heroes.v1/class/censor) Heroic Resource.
 name: Introduction
+order: 0
 scc: mcdm.heroes.v1/chapter/introduction
 type: chapter

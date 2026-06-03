@@ -178,5 +178,6 @@ content: |-
     | 9th   | 64-71               | 256-287           |
     | 10th  | 72+                 | 288+              |
 name: Making a Hero
+order: 2
 scc: mcdm.heroes.v1/chapter/making-a-hero
 type: chapter

@@ -49,5 +49,6 @@ content: |-
 
     It might be the case that you're obsessed with getting back what you lost. You might be in a position where you'll never recover what was taken from you, but you want to prevent that same loss from happening to others. Perhaps your loss left you in a position where helping others is the only thing that gives your life meaning. Whatever the case, the loss you've suffered is part of what drives you to be a hero. Record what was taken from you on your character sheet, and let your Director know.
 name: Careers
+order: 6
 scc: mcdm.heroes.v1/chapter/careers
 type: chapter

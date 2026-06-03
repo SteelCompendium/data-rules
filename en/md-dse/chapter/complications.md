@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: complications
 item_name: Complications
 name: Complications
+order: 10
 scc: mcdm.heroes.v1/chapter/complications
 source: mcdm.heroes.v1
 type: chapter

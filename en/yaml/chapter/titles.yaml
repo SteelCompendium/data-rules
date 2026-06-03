@@ -45,5 +45,6 @@ content: |-
 
     There is no hard-and-fast rule for the number of titles characters should accumulate by a certain level. If a character wins a title whenever they accomplish a truly notable deed—once every few adventures—then they might earn about one title per echelon. Sticking to this rate isn't a requirement, though. Characters might easily earn twice or half as many titles, making them a bit more or less powerful than they otherwise would be. A Director can even skip granting titles altogether if they wish.
 name: Titles
+order: 18
 scc: mcdm.heroes.v1/chapter/titles
 type: chapter

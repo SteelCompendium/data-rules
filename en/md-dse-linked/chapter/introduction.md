@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: introduction
 item_name: Introduction
 name: Introduction
+order: 0
 scc: mcdm.heroes.v1/chapter/introduction
 source: mcdm.heroes.v1
 type: chapter

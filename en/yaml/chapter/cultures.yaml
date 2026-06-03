@@ -3,5 +3,6 @@ content: |-
 
     For our purposes, a hero's culture represents people, not a place. Yes, you might have grown up in the great city of Capital, but your culture is more specific than that. One hero's culture might be House Alvaro, a noble house in Capital where they were raised. Another's culture could be a group or organization that moves around, such as a band of pirates or a secret order of sorcerers sworn to protect books of fell magic. It helps to get specific when thinking about your culture, and working with the four aspects of a culture can help you do that: **language**, **environment**, **organization**, and **upbringing**.
 name: Culture
+order: 5
 scc: mcdm.heroes.v1/chapter/cultures
 type: chapter

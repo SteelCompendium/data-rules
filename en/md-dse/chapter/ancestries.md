@@ -4,6 +4,7 @@ file_dpath: chapter
 item_id: ancestries
 item_name: Ancestries
 name: Ancestries
+order: 3
 scc: mcdm.heroes.v1/chapter/ancestries
 source: mcdm.heroes.v1
 type: chapter
