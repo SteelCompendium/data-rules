@@ -5,7 +5,7 @@ file_dpath: title
 item_id: tireless
 item_name: Tireless
 name: Tireless
-prerequisite: You have the [Unstoppable](scc:mcdm.heroes.v1/title/unstoppable) title, and you make or assist on a test as part of a montage test that obtains a full success.
+prerequisite: You have the [Unstoppable](unstoppable.md) title, and you make or assist on a test as part of a montage test that obtains a full success.
 scc: mcdm.heroes.v1/title/tireless
 source: mcdm.heroes.v1
 type: title

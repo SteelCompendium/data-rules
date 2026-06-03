@@ -20,9 +20,9 @@ scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
-tier1: 2 + P psychic damage; P < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
-tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
-tier3: 7 + P psychic damage; P < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 type: ability
 ---
 
@@ -30,9 +30,9 @@ type: ability
 distance: Ranged 10
 effects:
     - roll: Power Roll + Presence
-      tier1: 2 + P psychic damage; P < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
-      tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
-      tier3: 7 + P psychic damage; P < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+      tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 feature_type: ability
 flavor: There you are, radiating your usual charisma.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm
     subtype: signature
     target: One creature
-    tier1: 2 + P psychic damage; P < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
-    tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
-    tier3: 7 + P psychic damage; P < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+    tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+    tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+    tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
     type: ability
 name: Cutting Sarcasm
 target: One creature

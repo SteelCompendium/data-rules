@@ -5,11 +5,11 @@ item_id: politician
 item_name: Politician
 language: One language
 name: Politician
-perk: One interpersonal perk (*Quick Build:* [Engrossing Monologue](scc:mcdm.heroes.v1/perk/engrossing-monologue).)
+perk: One interpersonal perk (*Quick Build:* [Engrossing Monologue](../perk/engrossing-monologue.md).)
 renown: "+1"
 scc: mcdm.heroes.v1/career/politician
 skills:
-    - Two skills from the interpersonal skill group (*Quick Build:* [Lead](scc:mcdm.heroes.v1/skill/lead), [Lie](scc:mcdm.heroes.v1/skill/lie).)
+    - Two skills from the interpersonal skill group (*Quick Build:* [Lead](../skill/lead.md), [Lie](../skill/lie.md).)
 source: mcdm.heroes.v1
 type: career
 wealth: "+1"

@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: 2 burst
-effect: You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.
+effect: You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
 feature_type: ability
 file_basename: lightfall
 file_dpath: feature/ability/conduit/level-1
@@ -28,7 +28,7 @@ type: ability
 ```ds-feature
 distance: 2 burst
 effects:
-    - effect: You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.
+    - effect: You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
     - roll: Power Roll + Intuition
       tier1: 2 holy damage
       tier2: 3 holy damage
@@ -42,7 +42,7 @@ metadata:
     action_type: Main action
     class: conduit
     distance: 2 burst
-    effect: You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.
+    effect: You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
     flavor: A rain of holy light scours your enemies and repositions your allies.
     keywords:
         - Area

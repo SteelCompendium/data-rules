@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you push them.
+effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you push them.
 feature_type: ability
 file_basename: fancy-footwork
 file_dpath: feature/ability/swashbuckler
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you push them.
+    - effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you push them.
 feature_type: ability
 flavor: All combat is a dance—and you'll be the one leading.
 keywords:
@@ -34,7 +34,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: Melee 1
-    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you push them.
+    effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you push them.
     flavor: All combat is a dance—and you'll be the one leading.
     keywords:
         - Melee

@@ -23,9 +23,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 4 + M damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier2: 6 + M damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier3: 10 + M damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier1: 4 + M damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 6 + M damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 10 + M damage; R < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 
@@ -35,9 +35,9 @@ distance: Melee 1 or ranged 5
 effects:
     - effect: You mark the target.
     - roll: Power Roll + Might
-      tier1: 4 + M damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier2: 6 + M damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier3: 10 + M damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier1: 4 + M damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 6 + M damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 10 + M damage; R < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 feature_type: ability
 flavor: Your attack demoralizes your foe. Your allies begin to think you can win.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game
     target: One creature or object
-    tier1: 4 + M damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    tier2: 6 + M damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    tier3: 10 + M damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier1: 4 + M damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+    tier2: 6 + M damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+    tier3: 10 + M damage; R < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
     type: ability
 name: Mind Game
 target: One creature or object

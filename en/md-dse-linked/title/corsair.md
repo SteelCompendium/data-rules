@@ -5,7 +5,7 @@ file_dpath: title
 item_id: corsair
 item_name: Corsair
 name: Corsair
-prerequisite: You have the [Ship Captain](scc:mcdm.heroes.v1/title/ship-captain) title, and you sink or capture a ship of equal or greater size than your own.
+prerequisite: You have the [Ship Captain](ship-captain.md) title, and you sink or capture a ship of equal or greater size than your own.
 scc: mcdm.heroes.v1/title/corsair
 source: mcdm.heroes.v1
 type: title

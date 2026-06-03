@@ -9,7 +9,7 @@ effect: This ability deals your primordial damage type and ignores damage immuni
 feature_type: ability
 file_basename: deluge
 file_dpath: feature/ability/fury/level-9
-flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury/primordial-storm).
+flavor: You summon your [primordial storm](../../../trait/fury/primordial-storm.md).
 item_id: deluge
 item_name: Deluge
 keywords:
@@ -38,7 +38,7 @@ effects:
       tier2: 10 damage
       tier3: 15 damage
 feature_type: ability
-flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury/primordial-storm).
+flavor: You summon your [primordial storm](../../../trait/fury/primordial-storm.md).
 keywords:
     - Area
     - Magic
@@ -49,7 +49,7 @@ metadata:
     cost: 11 Ferocity
     distance: 5 cube within 10
     effect: This ability deals your primordial damage type and ignores damage immunity.
-    flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury/primordial-storm).
+    flavor: You summon your [primordial storm](../../../trait/fury/primordial-storm.md).
     keywords:
         - Area
         - Magic

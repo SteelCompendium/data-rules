@@ -9,7 +9,7 @@ effect: Choose acid, cold, corruption, fire, lightning, poison, or sonic damage.
 feature_type: ability
 file_basename: primordial-rage
 file_dpath: feature/ability/fury/level-8
-flavor: Your ferocity manifests into [primordial power](scc:mcdm.heroes.v1/feature.trait.fury.level-10/primordial-power).
+flavor: Your ferocity manifests into [primordial power](../../../trait/fury/level-10/primordial-power.md).
 item_id: primordial-rage
 item_name: Primordial Rage
 keywords:
@@ -28,7 +28,7 @@ distance: Self
 effects:
     - effect: Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.
 feature_type: ability
-flavor: Your ferocity manifests into [primordial power](scc:mcdm.heroes.v1/feature.trait.fury.level-10/primordial-power).
+flavor: Your ferocity manifests into [primordial power](../../../trait/fury/level-10/primordial-power.md).
 keywords:
     - Magic
 metadata:
@@ -37,7 +37,7 @@ metadata:
     cost: 11 Ferocity
     distance: Self
     effect: Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.
-    flavor: Your ferocity manifests into [primordial power](scc:mcdm.heroes.v1/feature.trait.fury.level-10/primordial-power).
+    flavor: Your ferocity manifests into [primordial power](../../../trait/fury/level-10/primordial-power.md).
     keywords:
         - Magic
     level: "8"

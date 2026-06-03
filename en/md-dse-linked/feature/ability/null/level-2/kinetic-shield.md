@@ -5,7 +5,7 @@ cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
 distance: Self
-effect: While you have temporary Stamina from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while dying.
+effect: While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.
 feature_type: ability
 file_basename: kinetic-shield
 file_dpath: feature/ability/null/level-2
@@ -30,7 +30,7 @@ type: ability
 cost: 5 Discipline
 distance: Self
 effects:
-    - effect: While you have temporary Stamina from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while dying.
+    - effect: While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.
     - roll: Power Roll + Intuition
       tier1: You gain 10 temporary Stamina.
       tier2: You gain 15 temporary Stamina.
@@ -44,7 +44,7 @@ metadata:
     class: "null"
     cost: 5 Discipline
     distance: Self
-    effect: While you have temporary Stamina from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while dying.
+    effect: While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.
     flavor: You manifest a force barrier that absorbs incoming kinetic energy.
     keywords:
         - Psionic

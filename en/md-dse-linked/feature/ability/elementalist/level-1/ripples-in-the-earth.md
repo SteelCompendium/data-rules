@@ -24,7 +24,7 @@ source: mcdm.heroes.v1
 target: Each enemy in the area
 tier1: 3 damage
 tier2: 5 damage
-tier3: 8 damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: 8 damage; M < STRONG[, prone](../../../../condition/prone.md)
 type: ability
 ---
 
@@ -36,7 +36,7 @@ effects:
     - roll: Power Roll + Reason
       tier1: 3 damage
       tier2: 5 damage
-      tier3: 8 damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+      tier3: 8 damage; M < STRONG[, prone](../../../../condition/prone.md)
 feature_type: ability
 flavor: Like a stone was dropped into a pond, waves in the earth radiate from you.
 keywords:
@@ -61,7 +61,7 @@ metadata:
     target: Each enemy in the area
     tier1: 3 damage
     tier2: 5 damage
-    tier3: 8 damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+    tier3: 8 damage; M < STRONG[, prone](../../../../condition/prone.md)
     type: ability
 name: Ripples in the Earth
 target: Each enemy in the area

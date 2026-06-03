@@ -5,7 +5,7 @@ cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
 distance: Self
-effect: You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares between each use.
+effect: You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](../../../../movement/shifting.md) up to 2 squares between each use.
 feature_type: ability
 file_basename: speed-of-shadows
 file_dpath: feature/ability/shadow/level-8
@@ -26,7 +26,7 @@ type: ability
 cost: 11 Insight
 distance: Self
 effects:
-    - effect: You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares between each use.
+    - effect: You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](../../../../movement/shifting.md) up to 2 squares between each use.
 feature_type: ability
 flavor: You make multiple strikes against a foe before they even notice they're dead.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: shadow
     cost: 11 Insight
     distance: Self
-    effect: You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares between each use.
+    effect: You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](../../../../movement/shifting.md) up to 2 squares between each use.
     flavor: You make multiple strikes against a foe before they even notice they're dead.
     keywords:
         - Magic

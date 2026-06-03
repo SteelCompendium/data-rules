@@ -5,7 +5,7 @@ cost: 11 Ferocity
 cost_amount: "11"
 cost_resource: Ferocity
 distance: 3 burst
-effect: If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
 feature_type: ability
 file_basename: primordial-vortex
 file_dpath: feature/ability/fury/level-9
@@ -33,7 +33,7 @@ type: ability
 cost: 11 Ferocity
 distance: 3 burst
 effects:
-    - effect: If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+    - effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
     - roll: Power Roll + Might
       tier1: 3 damage; vertical pull 3
       tier2: 5 damage; vertical pull 5
@@ -50,7 +50,7 @@ metadata:
     class: fury
     cost: 11 Ferocity
     distance: 3 burst
-    effect: If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+    effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
     flavor: You channel the power of the Primordial Chaos to pull foes to you.
     keywords:
         - Area

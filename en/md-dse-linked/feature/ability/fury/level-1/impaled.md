@@ -19,9 +19,9 @@ scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature of your size or smaller
-tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier3: 7 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 
@@ -29,9 +29,9 @@ type: ability
 distance: Melee 1
 effects:
     - roll: Power Roll + Might
-      tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-      tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-      tier3: 7 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+      tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+      tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 feature_type: ability
 flavor: You skewer your enemy like a boar upon a spit.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
     subtype: signature
     target: One creature of your size or smaller
-    tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-    tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-    tier3: 7 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+    tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+    tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
     type: ability
 name: Impaled!
 target: One creature of your size or smaller

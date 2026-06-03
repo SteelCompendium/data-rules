@@ -5,7 +5,7 @@ file_dpath: title
 item_id: fey-friend
 item_name: Fey Friend
 name: Fey Friend
-prerequisite: You eat and drink with an elf [monarch](scc:mcdm.heroes.v1/title/monarch) or archfey.
+prerequisite: You eat and drink with an elf [monarch](monarch.md) or archfey.
 scc: mcdm.heroes.v1/title/fey-friend
 source: mcdm.heroes.v1
 type: title

@@ -9,7 +9,7 @@ effect: When a target who is not a leader or solo creature is made winded by thi
 feature_type: ability
 file_basename: censored
 file_dpath: feature/ability/censor/level-1
-flavor: Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).
+flavor: Judged and [sentenced](../level-2/sentenced.md).
 item_id: censored
 item_name: Censored
 keywords:
@@ -38,7 +38,7 @@ effects:
       tier2: 3 + M holy damage
       tier3: 5 + M holy damage
 feature_type: ability
-flavor: Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).
+flavor: Judged and [sentenced](../level-2/sentenced.md).
 keywords:
     - Melee
     - Strike
@@ -49,7 +49,7 @@ metadata:
     cost: 5 Wrath
     distance: Melee 1
     effect: When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
-    flavor: Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).
+    flavor: Judged and [sentenced](../level-2/sentenced.md).
     keywords:
         - Melee
         - Strike

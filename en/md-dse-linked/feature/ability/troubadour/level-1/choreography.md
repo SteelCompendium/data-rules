@@ -6,7 +6,7 @@ effect: While this performance is active, each target who starts their turn in t
 feature_type: ability
 file_basename: choreography
 file_dpath: feature/ability/troubadour/level-1
-flavor: Taps, kicks, steps. It's all "[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography)."
+flavor: Taps, kicks, steps. It's all "[choreography](choreography.md)."
 item_id: choreography
 item_name: Choreography
 keywords:
@@ -26,7 +26,7 @@ distance: 5 aura
 effects:
     - effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
 feature_type: ability
-flavor: Taps, kicks, steps. It's all "[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography)."
+flavor: Taps, kicks, steps. It's all "[choreography](choreography.md)."
 keywords:
     - Area
     - Magic
@@ -36,7 +36,7 @@ metadata:
     class: troubadour
     distance: 5 aura
     effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
-    flavor: Taps, kicks, steps. It's all "[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography)."
+    flavor: Taps, kicks, steps. It's all "[choreography](choreography.md)."
     keywords:
         - Area
         - Magic

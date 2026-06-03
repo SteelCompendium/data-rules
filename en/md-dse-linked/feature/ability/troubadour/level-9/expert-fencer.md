@@ -25,7 +25,7 @@ source: mcdm.heroes.v1
 target: One creature or object
 tier1: 15 + A damage
 tier2: 21 + A damage
-tier3: 28 + A damage; M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+tier3: 28 + A damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 type: ability
 ---
 
@@ -37,7 +37,7 @@ effects:
     - roll: Power Roll + Agility
       tier1: 15 + A damage
       tier2: 21 + A damage
-      tier3: 28 + A damage; M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+      tier3: 28 + A damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 feature_type: ability
 flavor: If you can land the strike, the crowd goes wild.
 keywords:
@@ -64,7 +64,7 @@ metadata:
     target: One creature or object
     tier1: 15 + A damage
     tier2: 21 + A damage
-    tier3: 28 + A damage; M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+    tier3: 28 + A damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
     type: ability
 name: Expert Fencer
 target: One creature or object

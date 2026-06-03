@@ -20,9 +20,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier2: 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier3: 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier1: 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 
@@ -31,9 +31,9 @@ cost: 9 Drama
 distance: 5 burst
 effects:
     - roll: Power Roll + Presence
-      tier1: 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-      tier2: 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-      tier3: 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier1: 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 feature_type: ability
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends
     target: Each enemy in the area
-    tier1: 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-    tier2: 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-    tier3: 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier1: 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+    tier2: 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+    tier3: 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
     type: ability
 name: Here's How Your Story Ends
 target: Each enemy in the area

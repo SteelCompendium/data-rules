@@ -5,7 +5,7 @@ cost: 7 Piety
 cost_amount: "7"
 cost_resource: Piety
 distance: 5 cube within 10
-effect: Each target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or a creature you choose within distance.
+effect: Each target is [frightened](../../../../condition/frightened.md) of you or a creature you choose within distance.
 feature_type: ability
 file_basename: fear-of-the-gods
 file_dpath: feature/ability/conduit/level-3
@@ -22,9 +22,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 6 psychic damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier2: 9 psychic damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier3: 13 psychic damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier1: 6 psychic damage; I < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 9 psychic damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 13 psychic damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 
@@ -32,11 +32,11 @@ type: ability
 cost: 7 Piety
 distance: 5 cube within 10
 effects:
-    - effect: Each target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or a creature you choose within distance.
+    - effect: Each target is [frightened](../../../../condition/frightened.md) of you or a creature you choose within distance.
     - roll: Power Roll + Intuition
-      tier1: 6 psychic damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-      tier2: 9 psychic damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-      tier3: 13 psychic damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier1: 6 psychic damage; I < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: 9 psychic damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: 13 psychic damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 feature_type: ability
 flavor: Your divine magic makes a creature appear as what your enemies fear most.
 keywords:
@@ -48,7 +48,7 @@ metadata:
     class: conduit
     cost: 7 Piety
     distance: 5 cube within 10
-    effect: Each target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or a creature you choose within distance.
+    effect: Each target is [frightened](../../../../condition/frightened.md) of you or a creature you choose within distance.
     flavor: Your divine magic makes a creature appear as what your enemies fear most.
     keywords:
         - Area
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods
     target: Each enemy in the area
-    tier1: 6 psychic damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-    tier2: 9 psychic damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-    tier3: 13 psychic damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier1: 6 psychic damage; I < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+    tier2: 9 psychic damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+    tier3: 13 psychic damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
     type: ability
 name: Fear of the Gods
 target: Each enemy in the area

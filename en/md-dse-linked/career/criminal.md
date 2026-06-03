@@ -5,11 +5,11 @@ item_id: criminal
 item_name: Criminal
 language: One language
 name: Criminal
-perk: One intrigue perk (*Quick Build:* [Criminal Contacts](scc:mcdm.heroes.v1/perk/criminal-contacts).)
+perk: One intrigue perk (*Quick Build:* [Criminal Contacts](../perk/criminal-contacts.md).)
 project_points: "120"
 scc: mcdm.heroes.v1/career/criminal
 skills:
-    - The [Criminal Underworld](scc:mcdm.heroes.v1/skill/criminal-underworld) skill (from the lore skill group), plus two skills from the intrigue group (*Quick Build:* [Criminal Underworld](scc:mcdm.heroes.v1/skill/criminal-underworld), Pick Lock, Pick Pocket.)
+    - The [Criminal Underworld](../skill/criminal-underworld.md) skill (from the lore skill group), plus two skills from the intrigue group (*Quick Build:* [Criminal Underworld](../skill/criminal-underworld.md), Pick Lock, Pick Pocket.)
 source: mcdm.heroes.v1
 type: career
 ---

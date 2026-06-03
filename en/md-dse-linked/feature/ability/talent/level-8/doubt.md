@@ -23,9 +23,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/doubt
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 10 + P damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier2: 14 + P damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier3: 20 + P damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier1: 10 + P damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 14 + P damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 20 + P damage; P < STRONG, [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
@@ -35,9 +35,9 @@ distance: Ranged 10
 effects:
     - effect: 'This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.'
     - roll: Power Roll + Presence
-      tier1: 10 + P damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier2: 14 + P damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier3: 20 + P damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier1: 10 + P damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 14 + P damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 20 + P damage; P < STRONG, [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends)
 feature_type: ability
 flavor: You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.talent.level-8/doubt
     target: One creature or object
-    tier1: 10 + P damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    tier2: 14 + P damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    tier3: 20 + P damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier1: 10 + P damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+    tier2: 14 + P damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+    tier3: 20 + P damage; P < STRONG, [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends)
     type: ability
 name: Doubt
 target: One creature or object

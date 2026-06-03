@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 distance: Melee 1
-effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
+effect: The target is [taunted](../../../../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
 feature_type: ability
 file_basename: instigator
 file_dpath: feature/ability/troubadour/level-1
@@ -29,7 +29,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
+    - effect: The target is [taunted](../../../../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
     - roll: Power Roll + Presence
       tier1: 3 + P damage
       tier2: 6 + P damage
@@ -44,7 +44,7 @@ metadata:
     action_type: Main action
     class: troubadour
     distance: Melee 1
-    effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
+    effect: The target is [taunted](../../../../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
     flavor: I didn't do it! What?
     keywords:
         - Melee

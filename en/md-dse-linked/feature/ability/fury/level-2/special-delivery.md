@@ -5,7 +5,7 @@ cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
 distance: Melee 1
-effect: You vertically push the target up to 4 squares. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+effect: You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
 feature_type: ability
 file_basename: special-delivery
 file_dpath: feature/ability/fury/level-2
@@ -27,7 +27,7 @@ type: ability
 cost: 5 Ferocity
 distance: Melee 1
 effects:
-    - effect: You vertically push the target up to 4 squares. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+    - effect: You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
 feature_type: ability
 flavor: You ready?
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: fury
     cost: 5 Ferocity
     distance: Melee 1
-    effect: You vertically push the target up to 4 squares. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+    effect: You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
     flavor: You ready?
     keywords:
         - Melee

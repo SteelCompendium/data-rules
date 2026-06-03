@@ -7,7 +7,7 @@ item_name: "Null"
 name: "Null"
 scc: mcdm.heroes.v1/class/null
 skills:
-    - 'You gain the [Psionics](scc:mcdm.heroes.v1/skill/psionics) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Timescape.)'
+    - 'You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)'
 source: mcdm.heroes.v1
 strong_potency: Intuition
 type: class

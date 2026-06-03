@@ -5,7 +5,7 @@ cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
 distance: 1 burst
-effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up.
+effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.
 feature_type: ability
 file_basename: orison-of-victory
 file_dpath: feature/ability/censor/level-5
@@ -30,7 +30,7 @@ type: ability
 cost: 9 Wrath
 distance: 1 burst
 effects:
-    - effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up.
+    - effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.
     - roll: Power Roll + Presence
       tier1: Each target gains 1 surge.
       tier2: Each target gains 2 surges.
@@ -44,7 +44,7 @@ metadata:
     class: censor
     cost: 9 Wrath
     distance: 1 burst
-    effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up.
+    effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.
     flavor: You channel your god's will to overcome hardship and inflict pain.
     keywords:
         - Area

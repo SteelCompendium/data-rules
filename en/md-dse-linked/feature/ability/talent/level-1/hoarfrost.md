@@ -20,9 +20,9 @@ scc: mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
-tier1: 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-tier2: 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-tier3: 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
+tier1: 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) (EoT)
+tier2: 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (EoT)
+tier3: 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) (EoT)
 type: ability
 ---
 
@@ -30,9 +30,9 @@ type: ability
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-      tier2: 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-      tier3: 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
+      tier1: 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) (EoT)
+      tier2: 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (EoT)
+      tier3: 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) (EoT)
 feature_type: ability
 flavor: You blast a foe with a pulse of cold energy.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost
     subtype: signature
     target: One creature
-    tier1: 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-    tier2: 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-    tier3: 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
+    tier1: 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) (EoT)
+    tier2: 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (EoT)
+    tier3: 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) (EoT)
     type: ability
 name: Hoarfrost
 target: One creature

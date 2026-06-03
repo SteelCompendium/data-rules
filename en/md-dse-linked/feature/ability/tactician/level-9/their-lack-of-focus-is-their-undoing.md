@@ -22,9 +22,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing
 source: mcdm.heroes.v1
 target: Three enemies
-tier1: R < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier2: R < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier3: R < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier1: R < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: R < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: R < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -34,9 +34,9 @@ distance: Ranged 10
 effects:
     - effect: Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
     - roll: Power Roll + Might
-      tier1: R < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier2: R < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier3: R < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier1: R < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+      tier2: R < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+      tier3: R < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 feature_type: ability
 flavor: You trick your enemies into attacking each other and leave them confused by the aftermath.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing
     target: Three enemies
-    tier1: R < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-    tier2: R < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-    tier3: R < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier1: R < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+    tier2: R < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+    tier3: R < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
     type: ability
 name: Their Lack of Focus Is Their Undoing
 target: Three enemies

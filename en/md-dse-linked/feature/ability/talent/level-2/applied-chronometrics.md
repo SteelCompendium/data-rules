@@ -5,7 +5,7 @@ cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
 distance: Ranged 10
-effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that condition ends for them.
+effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
 feature_type: ability
 file_basename: applied-chronometrics
 file_dpath: feature/ability/talent/level-2
@@ -32,7 +32,7 @@ type: ability
 cost: 5 Clarity
 distance: Ranged 10
 effects:
-    - effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that condition ends for them.
+    - effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
     - roll: Power Roll + Presence
       tier1: You target two creatures, one of which can be you.
       tier2: You target three creatures, one of which can be you.
@@ -48,7 +48,7 @@ metadata:
     class: talent
     cost: 5 Clarity
     distance: Ranged 10
-    effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that condition ends for them.
+    effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
     flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
     keywords:
         - Chronopathy

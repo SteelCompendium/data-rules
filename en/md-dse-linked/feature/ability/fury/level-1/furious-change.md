@@ -2,7 +2,7 @@
 action_type: Triggered
 class: fury
 distance: Self
-effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](scc:mcdm.heroes.v1/complication/animal-form) or hybrid form.
+effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.
 feature_type: ability
 file_basename: furious-change
 file_dpath: feature/ability/fury/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Self
 effects:
-    - effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](scc:mcdm.heroes.v1/complication/animal-form) or hybrid form.
+    - effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.
     - effect: '1 Ferocity: If you are not dying, you can spend a Recovery.'
       name: Spend
 feature_type: ability
@@ -36,7 +36,7 @@ metadata:
     action_type: Triggered
     class: fury
     distance: Self
-    effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](scc:mcdm.heroes.v1/complication/animal-form) or hybrid form.
+    effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.
     flavor: In your anger, you revert to a more bestial form.
     keywords:
         - '-'

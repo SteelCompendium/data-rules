@@ -20,9 +20,9 @@ scc: mcdm.heroes.v1/feature.ability.null.level-1/joint-lock
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier2: 7 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier3: 9 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier1: 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
+tier2: 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+tier3: 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 
@@ -30,9 +30,9 @@ type: ability
 distance: Melee 1
 effects:
     - roll: Power Roll + Agility
-      tier1: 4 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-      tier2: 7 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-      tier3: 9 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier1: 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
+      tier2: 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+      tier3: 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 feature_type: ability
 flavor: You contort your enemy's body into a stance they struggle to escape from.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.null.level-1/joint-lock
     subtype: signature
     target: One creature or object
-    tier1: 4 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-    tier2: 7 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-    tier3: 9 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier1: 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
+    tier2: 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+    tier3: 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
     type: ability
 name: Joint Lock
 target: One creature or object

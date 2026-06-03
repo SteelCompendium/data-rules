@@ -5,7 +5,7 @@ cost: 5 Drama
 cost_amount: "5"
 cost_resource: Drama
 distance: Melee 1
-effect: You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target.
+effect: You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
 feature_type: ability
 file_basename: method-acting
 file_dpath: feature/ability/troubadour/level-1
@@ -22,9 +22,9 @@ power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting
 source: mcdm.heroes.v1
 target: One creature
-tier1: 6 + A damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier2: 10 + A damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier3: 14 + A damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier1: 6 + A damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 10 + A damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 14 + A damage; P < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 
@@ -32,11 +32,11 @@ type: ability
 cost: 5 Drama
 distance: Melee 1
 effects:
-    - effect: You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target.
+    - effect: You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
     - roll: Power Roll + Agility
-      tier1: 6 + A damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier2: 10 + A damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier3: 14 + A damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier1: 6 + A damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 10 + A damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 14 + A damage; P < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 feature_type: ability
 flavor: They're so hurt by your performance, you start to believe it yourself.
 keywords:
@@ -48,7 +48,7 @@ metadata:
     class: troubadour
     cost: 5 Drama
     distance: Melee 1
-    effect: You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target.
+    effect: You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
     flavor: They're so hurt by your performance, you start to believe it yourself.
     keywords:
         - Melee
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting
     target: One creature
-    tier1: 6 + A damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    tier2: 10 + A damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    tier3: 14 + A damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier1: 6 + A damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+    tier2: 10 + A damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+    tier3: 14 + A damage; P < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
     type: ability
 name: Method Acting
 target: One creature

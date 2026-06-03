@@ -4,11 +4,11 @@ file_dpath: career
 item_id: disciple
 item_name: Disciple
 name: Disciple
-perk: One supernatural perk (*Quick Build:* [Ritualist](scc:mcdm.heroes.v1/perk/ritualist).)
+perk: One supernatural perk (*Quick Build:* [Ritualist](../perk/ritualist.md).)
 project_points: "240"
 scc: mcdm.heroes.v1/career/disciple
 skills:
-    - The [Religion](scc:mcdm.heroes.v1/skill/religion) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](scc:mcdm.heroes.v1/skill/culture), [Magic](scc:mcdm.heroes.v1/skill/magic), [Religion](scc:mcdm.heroes.v1/skill/religion).)
+    - The [Religion](../skill/religion.md) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](../skill/culture.md), [Magic](../skill/magic.md), [Religion](../skill/religion.md).)
 source: mcdm.heroes.v1
 type: career
 ---

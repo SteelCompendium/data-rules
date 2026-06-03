@@ -5,7 +5,7 @@ cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
 distance: Melee 1
-effect: When the target ends this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), each creature within 2 squares of the target is pushed 3 squares.
+effect: When the target ends this [forced movement](../../../../movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
 feature_type: ability
 file_basename: force-of-storms
 file_dpath: feature/ability/fury/level-6
@@ -32,7 +32,7 @@ type: ability
 cost: 9 Ferocity
 distance: Melee 1
 effects:
-    - effect: When the target ends this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), each creature within 2 squares of the target is pushed 3 squares.
+    - effect: When the target ends this [forced movement](../../../../movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
     - roll: Power Roll + Might
       tier1: 7 + M damage; push 3
       tier2: 11 + M damage; push 5
@@ -48,7 +48,7 @@ metadata:
     class: fury
     cost: 9 Ferocity
     distance: Melee 1
-    effect: When the target ends this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), each creature within 2 squares of the target is pushed 3 squares.
+    effect: When the target ends this [forced movement](../../../../movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
     flavor: You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.
     keywords:
         - Melee

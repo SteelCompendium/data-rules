@@ -22,9 +22,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 3 + M damage; M < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier2: 5 + M damage; M < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier3: 8 + M damage; M < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier1: 3 + M damage; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 8 + M damage; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -33,9 +33,9 @@ cost: 3 Focus
 distance: Melee 1 or ranged 5
 effects:
     - roll: Power Roll + Might
-      tier1: 3 + M damage; M < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier2: 5 + M damage; M < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier3: 8 + M damage; M < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier1: 3 + M damage; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+      tier2: 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+      tier3: 8 + M damage; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 feature_type: ability
 flavor: Your precise strike leaves your foe struggling to respond.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike
     target: One creature or object
-    tier1: 3 + M damage; M < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-    tier2: 5 + M damage; M < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-    tier3: 8 + M damage; M < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier1: 3 + M damage; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+    tier2: 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+    tier3: 8 + M damage; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
     type: ability
 name: Concussive Strike
 target: One creature or object

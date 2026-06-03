@@ -22,9 +22,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror
 source: mcdm.heroes.v1
 target: Each ally and enemy in the area
-tier1: R < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier2: R < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier3: R < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier1: R < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: R < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: R < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 
@@ -34,9 +34,9 @@ distance: 3 burst
 effects:
     - effect: You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
     - roll: Power Roll + Reason
-      tier1: R < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-      tier2: R < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-      tier3: R < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier1: R < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: R < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: R < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 feature_type: ability
 flavor: You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror
     target: Each ally and enemy in the area
-    tier1: R < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-    tier2: R < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-    tier3: R < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier1: R < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+    tier2: R < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+    tier3: R < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
     type: ability
 name: Synaptic Terror
 target: Each ally and enemy in the area

@@ -1,5 +1,5 @@
 ---
-effect: You gain a visible scar in a location of your choice. Additionally, your Stamina maximum increases by 20, and the creature who [scarred](scc:mcdm.heroes.v1/title/scarred) you takes a bane on abilities against you.
+effect: You gain a visible scar in a location of your choice. Additionally, your Stamina maximum increases by 20, and the creature who [scarred](scarred.md) you takes a bane on abilities against you.
 file_basename: scarred
 file_dpath: title
 item_id: scarred

@@ -21,9 +21,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 2 damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-tier2: 3 damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-tier3: 7 damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier1: 2 damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+tier2: 3 damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+tier3: 7 damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 5 Piety
 distance: 3 cube within 10
 effects:
     - roll: Power Roll + Intuition
-      tier1: 2 damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-      tier2: 3 damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-      tier3: 7 damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier1: 2 damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 3 damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 7 damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 feature_type: ability
 flavor: Mystical thorned vines appear at your bidding and bind your foes.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee
     target: Each enemy in the area
-    tier1: 2 damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-    tier2: 3 damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-    tier3: 7 damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+    tier1: 2 damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+    tier2: 3 damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+    tier3: 7 damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
     type: ability
 name: Nature Judges Thee
 target: Each enemy in the area

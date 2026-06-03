@@ -1,6 +1,6 @@
 ---
 benefit: You have the following ability.
-drawback: 'Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See Renown in Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards).'
+drawback: 'Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See Renown in Chapter 13: [Rewards](../chapter/rewards.md).'
 file_basename: stripped-of-rank
 file_dpath: complication
 item_id: stripped-of-rank

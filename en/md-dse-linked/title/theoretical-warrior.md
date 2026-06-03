@@ -5,7 +5,7 @@ file_dpath: title
 item_id: theoretical-warrior
 item_name: Theoretical Warrior
 name: Theoretical Warrior
-prerequisite: You have the [Master Librarian](scc:mcdm.heroes.v1/title/master-librarian) title, and you complete a Learn From a Master project with a project goal of 1,000.
+prerequisite: You have the [Master Librarian](master-librarian.md) title, and you complete a Learn From a Master project with a project goal of 1,000.
 scc: mcdm.heroes.v1/title/theoretical-warrior
 source: mcdm.heroes.v1
 type: title

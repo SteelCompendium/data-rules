@@ -5,7 +5,7 @@ file_dpath: title
 item_id: faction-officer
 item_name: Faction Officer
 name: Faction Officer
-prerequisite: You have the [Faction Member](scc:mcdm.heroes.v1/title/faction-member) title, and you greatly advance the faction's goals.
+prerequisite: You have the [Faction Member](faction-member.md) title, and you greatly advance the faction's goals.
 scc: mcdm.heroes.v1/title/faction-officer
 source: mcdm.heroes.v1
 type: title

@@ -5,7 +5,7 @@ file_dpath: title
 item_id: dwarven-legionnaire
 item_name: Dwarven Legionnaire
 name: Dwarven Legionnaire
-prerequisite: You fight alongside three or more [dwarves](scc:mcdm.heroes.v1/ancestry/dwarf).
+prerequisite: You fight alongside three or more [dwarves](../ancestry/dwarf.md).
 scc: mcdm.heroes.v1/title/dwarven-legionnaire
 source: mcdm.heroes.v1
 type: title

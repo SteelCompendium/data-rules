@@ -1,5 +1,5 @@
 ---
-benefit: 'You have a leveled weapon of your choice (see Treasures in Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards)).'
+benefit: 'You have a leveled weapon of your choice (see Treasures in Chapter 13: [Rewards](../chapter/rewards.md)).'
 drawback: You have damage weakness 2.
 file_basename: cursed-weapon
 file_dpath: complication
