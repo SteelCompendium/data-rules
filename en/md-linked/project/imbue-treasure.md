@@ -137,7 +137,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
 
-### Dragon's Fire
+### Dragon's Fire {data-scc="mcdm.heroes.v1/feature.ability.common/dragons-fire"}
 
 *You open your maw and unleash hell.*
 

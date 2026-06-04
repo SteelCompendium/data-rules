@@ -8,7 +8,7 @@ type: trait
 
 You have the following ability.
 
-## Remember Growth and Sun and Rain
+## Remember Growth and Sun and Rain {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/remember-growth-and-sun-and-rain"}
 
 
 *You stir any wood's memory and learn what it has seen.*

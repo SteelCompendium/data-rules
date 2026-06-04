@@ -12,7 +12,7 @@ Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of 
 
 Choose one of the following abilities.
 
-### Squad! Hit and Run!
+### Squad! Hit and Run! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/squad-hit-and-run"}
 
 
 *I had to pry this secret from the [shadow college](../../shadow/level-1/shadow-college.md)s.*
@@ -23,7 +23,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
 
-### Their Lack of Focus Is Their Undoing
+### Their Lack of Focus Is Their Undoing {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing"}
 
 
 *You trick your enemies into attacking each other and leave them confused by the aftermath.*
@@ -44,7 +44,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Blot Out the Sun!
+### Blot Out the Sun! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/blot-out-the-sun"}
 
 
 *What makes a good soldier? The ability to fire four shots a minute in any weather.*
@@ -55,7 +55,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
 
-### Counterstrategy
+### Counterstrategy {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy"}
 
 
 *I've identified a way to negate their strengths.*
@@ -70,7 +70,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### No Escape
+### No Escape {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/no-escape"}
 
 
 *Nothing will stop you from reaching your foe.*
@@ -89,7 +89,7 @@ Choose one of the following abilities.
 
 **Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as [difficult terrain](../../../../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
 
-### That One Is Mine!
+### That One Is Mine! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine"}
 
 
 *You focus on making an enemy irrelevant.*

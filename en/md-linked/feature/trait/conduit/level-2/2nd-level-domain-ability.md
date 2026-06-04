@@ -25,7 +25,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | Trickery   | [Divine Comedy](../../../ability/conduit/level-2/divine-comedy.md)                |
 | War        | [Blessing of Insight](../../../ability/conduit/level-2/blessing-of-insight.md)          |
 
-### Blessing of Fate and Destiny
+### Blessing of Fate and Destiny {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny"}
 
 
 *Your enemies suffer their fate; your allies embrace their destiny!*
@@ -39,7 +39,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.
 - Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
 
-### Blessing of Insight
+### Blessing of Insight {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight"}
 
 
 *The gods grant insight revealing where best to strike your enemies.*
@@ -50,7 +50,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
 
-### Divine Comedy
+### Divine Comedy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy"}
 
 
 *You and your allies swap places to confound your foes.*
@@ -61,7 +61,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
 
-### The Gods Command You Obey
+### The Gods Command You Obey {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey"}
 
 
 *You speak with the voice of your saint, commanding your enemies.*
@@ -76,7 +76,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
-### Morning Light
+### Morning Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light"}
 
 
 *Light shines at your command, burning your foes and blessing your allies.*
@@ -93,7 +93,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
 
-### Nature Judges Thee
+### Nature Judges Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee"}
 
 
 *Mystical thorned vines appear at your bidding and bind your foes.*
@@ -108,7 +108,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
 - **17+:** 7 damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 
-### Our Hearts Your Strength
+### Our Hearts Your Strength {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/our-hearts-your-strength"}
 
 
 *An ally gains strength from their friends.*
@@ -119,7 +119,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until the target is dying, at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
 
-### Reap
+### Reap {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/reap"}
 
 
 *The gods reward those who smite their foes.*
@@ -130,7 +130,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.
 
-### Sacred Bond
+### Sacred Bond {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond"}
 
 
 *You forge a divine connection between two creatures.*
@@ -141,7 +141,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../level-1/triggered-action.md) to spend a Recovery.
 
-### Saint's Tempest
+### Saint's Tempest {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest"}
 
 
 *A raging storm appears, striking your foes with lightning and throwing them around with wind.*
@@ -156,7 +156,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - **12-16:** 5 lightning damage; vertical slide 2
 - **17+:** 7 lightning damage; vertical slide 3
 
-### Statue of Power
+### Statue of Power {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power"}
 
 
 *A marble statue of your deity rises from the earth.*
@@ -167,7 +167,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
-### Wellspring of Grace
+### Wellspring of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace"}
 
 
 *A holy light is emitted from your body, healing your allies.*

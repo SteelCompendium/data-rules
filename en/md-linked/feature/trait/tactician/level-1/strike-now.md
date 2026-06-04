@@ -8,7 +8,7 @@ type: trait
 
 You have the following ability.
 
-## "Strike Now!"
+## "Strike Now!" {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/strike-now"}
 
 
 *Your foe left an opening. You point this out to an ally!*

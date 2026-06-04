@@ -27,7 +27,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ## Signature Ability
 
-### Double Strike
+### Double Strike {data-scc="mcdm.heroes.v1/feature.ability.dual-wielder/double-strike"}
 
 *Why strike once when you could do it twice?*
 

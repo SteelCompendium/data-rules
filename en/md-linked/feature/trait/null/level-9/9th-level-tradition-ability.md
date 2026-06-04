@@ -12,7 +12,7 @@ Your [null tradition](../level-1/null-tradition.md) grants your choice of one of
 
 Choose one of the following abilities.
 
-### Arrestor Cycle
+### Arrestor Cycle {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/arrestor-cycle"}
 
 
 *You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.*
@@ -31,7 +31,7 @@ Choose one of the following abilities.
 
 **Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.
 
-### Time Loop
+### Time Loop {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/time-loop"}
 
 
 *You show shadows what true speed is.*
@@ -48,7 +48,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Absolute Zero
+### Absolute Zero {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/absolute-zero"}
 
 
 *You become the coldest thing in the timescape.*
@@ -65,7 +65,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
 
-### Heat Drain
+### Heat Drain {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/heat-drain"}
 
 
 *You drain all the heat from the target.*
@@ -86,7 +86,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Inertial Absorption
+### Inertial Absorption {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/inertial-absorption"}
 
 
 *You absorb an attack to empower your body.*
@@ -99,7 +99,7 @@ Choose one of the following abilities.
 
 **Effect:** You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.
 
-### Realitas
+### Realitas {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/realitas"}
 
 
 *Your essential hyperreality disrupts your enemy's connection to existence.*
