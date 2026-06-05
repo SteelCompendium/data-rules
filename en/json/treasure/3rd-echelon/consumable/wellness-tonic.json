@@ -1,0 +1,13 @@
+{
+  "content": "*This thick purple liquid has a bitter scent that lingers.*\n\n**Keywords:** Potion, Psionic\n\n**Item Prerequisite:** An ounce of troll's blood, raw honey\n\n**Project Source:** Texts or lore in Variac\n\n**Project Roll Characteristic:** Might or Intuition\n\n**Project Goal:** 180\n\n**Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a saving throw.",
+  "echelon": "3",
+  "effect": "When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a saving throw.",
+  "keywords": [
+    "Potion",
+    "Psionic"
+  ],
+  "name": "Wellness Tonic",
+  "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/wellness-tonic",
+  "treasure_type": "consumable",
+  "type": "treasure"
+}

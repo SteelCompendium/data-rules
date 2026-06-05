@@ -1,0 +1,13 @@
+{
+  "content": "*Thick and red, this liquid tastes of sour beer.*\n\n**Keywords:** Magic, Potion\n\n**Item Prerequisite:** An ounce of costmary leaves\n\n**Project Source:** Texts or lore in Caelian\n\n**Project Roll Characteristic:** Reason or Intuition\n\n**Project Goal:** 45\n\n**Effect:** When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.",
+  "echelon": "1",
+  "effect": "When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.",
+  "keywords": [
+    "Magic",
+    "Potion"
+  ],
+  "name": "Healing Potion",
+  "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/healing-potion",
+  "treasure_type": "consumable",
+  "type": "treasure"
+}

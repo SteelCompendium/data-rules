@@ -1,0 +1,13 @@
+{
+  "content": "*A perfectly preserved eyeball hangs unnervingly from a gold chain.*\n\n**Keywords:** Neck, Psionic\n\n**Item Prerequisite:** An eyeball from a pirate captain who drowned at sea\n\n**Project Source:** Texts or lore in Caelian\n\n**Project Roll Characteristic:** Reason or Intuition\n\n**Project Goal:** 300\n\n**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 surge.",
+  "echelon": "2",
+  "effect": "As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 surge.",
+  "keywords": [
+    "Neck",
+    "Psionic"
+  ],
+  "name": "Evilest Eye",
+  "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/evilest-eye",
+  "treasure_type": "trinket",
+  "type": "treasure"
+}
