@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-1/mind-spike
 type: trait
 ---
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../../common/main-actions/free-strike.md).
 
 ## Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike"}
 

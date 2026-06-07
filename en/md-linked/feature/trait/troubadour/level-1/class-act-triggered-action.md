@@ -42,7 +42,7 @@ Your [troubadour class act](troubadour-class-act.md) grants you a triggered acti
 
 **Trigger:** The target takes damage from a melee strike.
 
-**Effect:** The target makes a free strike against the creature who made the triggering strike.
+**Effect:** The target makes a [free strike](../../common/main-actions/free-strike.md) against the creature who made the triggering strike.
 
 ### Turnabout Is Fair Play {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play"}
 

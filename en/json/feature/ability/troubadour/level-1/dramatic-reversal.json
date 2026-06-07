@@ -4,9 +4,9 @@
   "effects": [
     {
       "roll": "Power Roll + Presence",
-      "tier1": "The target can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square and make a free strike.",
-      "tier2": "The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares and make a free strike that gains an edge.",
-      "tier3": "The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery."
+      "tier1": "The target can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square and make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).",
+      "tier2": "The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares and make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) that gains an edge.",
+      "tier3": "The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares and make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) that gains an edge, then can spend a Recovery."
     }
   ],
   "feature_type": "ability",
@@ -18,7 +18,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*Give the audience a surprise.*\n\n| **Area, Magic** |                       **Main action** |\n|-----------------|--------------------------------------:|\n| **📏 3 burst**  | **🎯 Self and each ally in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** The target can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square and make a free strike.\n- **12-16:** The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares and make a free strike that gains an edge.\n- **17+:** The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.",
+    "content": "\n*Give the audience a surprise.*\n\n| **Area, Magic** |                       **Main action** |\n|-----------------|--------------------------------------:|\n| **📏 3 burst**  | **🎯 Self and each ally in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** The target can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square and make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).\n- **12-16:** The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares and make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) that gains an edge.\n- **17+:** The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares and make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) that gains an edge, then can spend a Recovery.",
     "distance": "3 burst",
     "feature_type": "ability",
     "flavor": "Give the audience a surprise.",

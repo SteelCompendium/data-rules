@@ -163,7 +163,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+**Effect:** You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 ### Psychic Pulse {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/psychic-pulse"}
 
@@ -278,4 +278,4 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Effect:** You can take the Disengage move action as a free maneuver before or after you use this ability.
+**Effect:** You can take the [Disengage](../../common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.

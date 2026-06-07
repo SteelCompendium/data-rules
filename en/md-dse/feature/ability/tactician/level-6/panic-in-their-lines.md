@@ -5,7 +5,7 @@ cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
 distance: Melee 1 or ranged 5
-effect: If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a free strike against that creature.
+effect: If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against that creature.
 feature_type: ability
 file_basename: panic-in-their-lines
 file_dpath: feature/ability/tactician/level-6
@@ -33,7 +33,7 @@ type: ability
 cost: 9 Focus
 distance: Melee 1 or ranged 5
 effects:
-    - effect: If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a free strike against that creature.
+    - effect: If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against that creature.
     - roll: Power Roll + Might
       tier1: 6 + M damage; slide 1
       tier2: 9 + M damage; slide 3
@@ -50,7 +50,7 @@ metadata:
     class: tactician
     cost: 9 Focus
     distance: Melee 1 or ranged 5
-    effect: If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a free strike against that creature.
+    effect: If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against that creature.
     flavor: You confuse your foes, causing them to turn on each other.
     keywords:
         - Melee

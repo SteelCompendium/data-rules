@@ -5,7 +5,7 @@ cost: 9 Discipline
 cost_amount: "9"
 cost_resource: Discipline
 distance: Melee 1
-effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the [Escape Grab](scc:mcdm.heroes.v1/feature.trait.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 feature_type: ability
 file_basename: iron-grip
 file_dpath: feature/ability/null/level-5
@@ -33,7 +33,7 @@ type: ability
 cost: 9 Discipline
 distance: Melee 1
 effects:
-    - effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+    - effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the [Escape Grab](scc:mcdm.heroes.v1/feature.trait.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
     - roll: Power Roll + Agility
       tier1: 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
       tier2: 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
@@ -50,7 +50,7 @@ metadata:
     class: "null"
     cost: 9 Discipline
     distance: Melee 1
-    effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+    effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the [Escape Grab](scc:mcdm.heroes.v1/feature.trait.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
     flavor: You grab the target with supernatural force.
     keywords:
         - Melee

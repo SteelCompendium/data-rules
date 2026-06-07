@@ -5,7 +5,7 @@ cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
 distance: Melee 1
-effect: If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+effect: If you are disguised as a creature the target knew using your [I'm No Threat](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/im-no-threat) ability, this ability deals extra damage equal to three times your Agility score.
 feature_type: ability
 file_basename: it-was-me-all-along
 file_dpath: feature/ability/shadow/level-9
@@ -32,7 +32,7 @@ type: ability
 cost: 11 Insight
 distance: Melee 1
 effects:
-    - effect: If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+    - effect: If you are disguised as a creature the target knew using your [I'm No Threat](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/im-no-threat) ability, this ability deals extra damage equal to three times your Agility score.
     - roll: Power Roll + Agility
       tier1: 15 + A damage
       tier2: 21 + A damage
@@ -48,7 +48,7 @@ metadata:
     class: shadow
     cost: 11 Insight
     distance: Melee 1
-    effect: If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+    effect: If you are disguised as a creature the target knew using your [I'm No Threat](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/im-no-threat) ability, this ability deals extra damage equal to three times your Agility score.
     flavor: After everything you've been through together, you twist the blade and make the pain extra personal.
     keywords:
         - Melee

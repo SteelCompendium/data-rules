@@ -17,7 +17,7 @@ A watchhouse chaplain is almost certainly a priest of Cavall. A rector serving a
 
 [Censors](../class/censor.md) of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
 
-Brother to Adûn and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
+Brother to [Adûn](adun.md) and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
 
 ##### Llewellyn the Valiant
 

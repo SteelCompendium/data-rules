@@ -1,7 +1,7 @@
 cost: 9 Drama
 distance: Melee 1
 effects:
-    - effect: You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature's free strike targets. You then slide the target 5 squares, ignoring stability.
+    - effect: You and the target each make a melee [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) targets and which enemies the target creature's [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) targets. You then slide the target 5 squares, ignoring stability.
       name: Effect
 feature_type: ability
 flavor: You and your partner make a flashy show of derring-do, then get back to your corners.
@@ -12,7 +12,7 @@ keywords:
 metadata:
     action_type: Main action
     class: troubadour
-    content: "\n*You and your partner make a flashy show of derring-do, then get back to your corners.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Effect:** You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature's free strike targets. You then slide the target 5 squares, ignoring stability."
+    content: "\n*You and your partner make a flashy show of derring-do, then get back to your corners.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Effect:** You and the target each make a melee [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) targets and which enemies the target creature's [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) targets. You then slide the target 5 squares, ignoring stability."
     distance: Melee 1
     feature_type: ability
     flavor: You and your partner make a flashy show of derring-do, then get back to your corners.

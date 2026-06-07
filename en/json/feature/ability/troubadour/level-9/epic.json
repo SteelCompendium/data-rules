@@ -9,7 +9,7 @@
       "tier3": "The target has a double bane on power rolls (save ends)."
     },
     {
-      "effect": "Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.",
+      "effect": "Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against them after the ability is resolved.",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "troubadour",
-    "content": "\n*Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*\n\n| **Magic, Melee, Ranged**    |        **Maneuver** |\n|-----------------------------|--------------------:|\n| **📏 Melee 1 or ranged 10** | **🎯 One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** The target takes a bane on ability rolls (save ends).\n- **12-16:** The target has a double bane on ability rolls (save ends).\n- **17+:** The target has a double bane on power rolls (save ends).\n\n**Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.",
+    "content": "\n*Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*\n\n| **Magic, Melee, Ranged**    |        **Maneuver** |\n|-----------------------------|--------------------:|\n| **📏 Melee 1 or ranged 10** | **🎯 One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** The target takes a bane on ability rolls (save ends).\n- **12-16:** The target has a double bane on ability rolls (save ends).\n- **17+:** The target has a double bane on power rolls (save ends).\n\n**Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against them after the ability is resolved.",
     "distance": "Melee 1 or ranged 10",
     "feature_type": "ability",
     "flavor": "Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.",

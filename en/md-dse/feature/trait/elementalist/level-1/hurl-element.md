@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability, which can be used as a ranged free strike.
+    - effect: You have the following ability, which can be used as a ranged [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).
 feature_type: trait
 metadata:
     class: elementalist

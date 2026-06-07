@@ -18,13 +18,13 @@ Your god blesses you with the ability to stretch your divine magic farther. You 
 
 ## Prayer of Soldier's Skill {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-soldiers-skill"}
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
 ## Prayer of Speed {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-speed"}
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../../../../movement/shifting.md) when you take the Disengage move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
 
 ## Prayer of Steel {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-steel"}
 

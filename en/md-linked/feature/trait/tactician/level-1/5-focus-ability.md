@@ -53,7 +53,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Effect:** Each target can make a free strike.
+**Effect:** Each target can make a [free strike](../../common/main-actions/free-strike.md).
 
 ## This Is What We Planned For {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/this-is-what-we-planned-for"}
 

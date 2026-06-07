@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following ability, which can be used as a ranged free strike.
+    - effect: You have the following ability, which can be used as a ranged [free strike](../../common/main-actions/free-strike.md).
 feature_type: trait
 metadata:
     class: conduit

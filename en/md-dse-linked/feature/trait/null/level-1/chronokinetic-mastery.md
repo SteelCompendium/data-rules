@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Whenever you use the [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can use the Disengage move action as a free triggered action.
+        Whenever you use the [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can use the [Disengage](../../common/move-actions/disengage.md) move action as a free triggered action.
 
         Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -24,11 +24,11 @@ effects:
 
         | Discipline      | Benefit                                                                                                                                                                                     |
         |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-        | 2               | Whenever you use the Knockback maneuver, you can use the Disengage move action as a free triggered action either before or after the maneuver.                                              |
+        | 2               | Whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, you can use the [Disengage](../../common/move-actions/disengage.md) move action as a free triggered action either before or after the maneuver.                                              |
         | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                 |
-        | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                       |
+        | 6               | You gain an edge on the [Grab](../../common/maneuvers/grab.md) and [Knockback](../../common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
         | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                |
-        | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
+        | 10 (7th level)  | You have a double edge on the [Grab](../../common/maneuvers/grab.md) and [Knockback](../../common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
         | 12 (10th level) | Whenever you force move a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
 feature_type: trait
 metadata:

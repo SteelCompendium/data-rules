@@ -5,7 +5,7 @@ cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
 distance: 2 burst
-effect: You can take the Disengage move action as a free maneuver before or after you use this ability.
+effect: You can take the [Disengage](../../../trait/common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
 feature_type: ability
 file_basename: a-squad-unto-myself
 file_dpath: feature/ability/null/level-1
@@ -32,7 +32,7 @@ type: ability
 cost: 5 Discipline
 distance: 2 burst
 effects:
-    - effect: You can take the Disengage move action as a free maneuver before or after you use this ability.
+    - effect: You can take the [Disengage](../../../trait/common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
     - roll: Power Roll + Agility
       tier1: 6 damage
       tier2: 9 damage
@@ -48,7 +48,7 @@ metadata:
     class: "null"
     cost: 5 Discipline
     distance: 2 burst
-    effect: You can take the Disengage move action as a free maneuver before or after you use this ability.
+    effect: You can take the [Disengage](../../../trait/common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
     flavor: You move so quickly, it seems as though an army assaulted your foes.
     keywords:
         - Area

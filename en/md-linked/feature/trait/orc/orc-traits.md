@@ -9,7 +9,7 @@ type: trait
 
 ## Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
 
-Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 
 ## Purchased Orc Traits
 
@@ -21,7 +21,7 @@ The magic coursing through your veins makes you run faster in the heat of battle
 
 ### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
 
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../common/maneuvers/catch-breath.md) maneuver, you can spend as many Recoveries as you like.
 
 ### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
 

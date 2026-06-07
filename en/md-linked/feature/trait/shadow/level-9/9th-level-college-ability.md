@@ -114,4 +114,4 @@ Choose one of the following abilities.
 - **12-16:** 21 + A damage
 - **17+:** 28 + A damage
 
-**Effect:** If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+**Effect:** If you are disguised as a creature the target knew using your [I'm No Threat](../../../ability/shadow/level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your Agility score.

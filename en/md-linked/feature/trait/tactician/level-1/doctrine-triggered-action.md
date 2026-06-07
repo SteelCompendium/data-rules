@@ -42,7 +42,7 @@ Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as
 
 **Trigger:** The target moves.
 
-**Effect:** At any time during the target's movement, one ally can make a free strike against them.
+**Effect:** At any time during the target's movement, one ally can make a [free strike](../../common/main-actions/free-strike.md) against them.
 
 **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../../condition/slowed.md) (EoT).
 

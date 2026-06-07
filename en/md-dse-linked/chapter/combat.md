@@ -135,9 +135,9 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 ### Movement
 
-During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or Disengage move action (detailed under Move Actions below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../feature/trait/common/move-actions/advance.md) or [Disengage](../feature/trait/common/move-actions/disengage.md) move action (detailed under Move Actions below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the Advance move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../feature/trait/common/move-actions/advance.md) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
 All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
@@ -229,7 +229,7 @@ After any damage you take is reduced by damage immunity or other effects, your S
 
 #### Recoveries and Recovery Value
 
-Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the Catch Breath maneuver in combat (see Maneuvers above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
 
 #### Winded
 
@@ -239,7 +239,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the Catch Breath maneuver in combat. Additionally, you are [bleeding](../condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
@@ -296,7 +296,7 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat
 
-A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the [Ride](../feature/trait/common/move-actions/ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
 If a creature riding a mount is [force moved](../movement/forced-movement.md), they are knocked off the mount and must make a test to determine how they land (see Climbing Other Creatures\). If a mount is [force moved](../movement/forced-movement.md), they carry any riders with them. Riders and mounts [teleport](../movement/teleport.md) separately.
 

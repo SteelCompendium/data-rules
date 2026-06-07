@@ -107,7 +107,7 @@ Choose one of the following abilities.
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 
-**Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
+**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../common/main-actions/free-strike.md) until the end of the target's next turn.
 
 ### Synaptic Override {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override"}
 
@@ -120,7 +120,7 @@ Choose one of the following abilities.
 
 **Power Roll + Reason:**
 
-- **≤11:** The target makes a free strike against one enemy of your choice.
+- **≤11:** The target makes a [free strike](../../common/main-actions/free-strike.md) against one enemy of your choice.
 - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 

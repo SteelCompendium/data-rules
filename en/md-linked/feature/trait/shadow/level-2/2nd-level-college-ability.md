@@ -38,7 +38,7 @@ Choose one of the following abilities.
 
 **Trigger:** You use your [In All This Confusion](../../../ability/shadow/level-1/in-all-this-confusion.md) ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../ability/shadow/level-1/in-all-this-confusion.md) ability. Before you [teleport](../../../../movement/teleport.md), you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../../../ability/shadow/level-1/in-all-this-confusion.md). After you [teleport](../../../../movement/teleport.md), you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../ability/shadow/level-1/in-all-this-confusion.md) ability. Before you [teleport](../../../../movement/teleport.md), you can make a [free strike](../../common/main-actions/free-strike.md) against a creature who damaged you to trigger [In All This Confusion](../../../ability/shadow/level-1/in-all-this-confusion.md). After you [teleport](../../../../movement/teleport.md), you can spend a Recovery.
 
 ## 2nd-Level Caustic Alchemy Ability
 
@@ -110,4 +110,4 @@ Choose one of the following abilities.
 
 **Trigger:** Another creature targets you with a strike.
 
-**Effect:** You use your [Clever Trick](../../../ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+**Effect:** You use your [Clever Trick](../../../ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../common/main-actions/free-strike.md) against them. You can then spend a Recovery.

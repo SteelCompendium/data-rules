@@ -5,7 +5,7 @@ cost: 7 Ferocity
 cost_amount: "7"
 cost_resource: Ferocity
 distance: Melee 1
-effect: If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+effect: If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../../../trait/common/main-actions/free-strike.md) against them.
 feature_type: ability
 file_basename: you-are-already-dead
 file_dpath: feature/ability/fury/level-3
@@ -28,7 +28,7 @@ type: ability
 cost: 7 Ferocity
 distance: Melee 1
 effects:
-    - effect: If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+    - effect: If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../../../trait/common/main-actions/free-strike.md) against them.
 feature_type: ability
 flavor: Slash. Walk away.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: fury
     cost: 7 Ferocity
     distance: Melee 1
-    effect: If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+    effect: If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../../../trait/common/main-actions/free-strike.md) against them.
     flavor: Slash. Walk away.
     keywords:
         - Melee

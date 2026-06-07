@@ -5,7 +5,7 @@ cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
 distance: Ranged 10
-effect: Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
+effect: Each target is marked by you, and must immediately make a [free strike](../../../trait/common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 feature_type: ability
 file_basename: fog-of-war
 file_dpath: feature/ability/tactician/level-2
@@ -26,7 +26,7 @@ type: ability
 cost: 5 Focus
 distance: Ranged 10
 effects:
-    - effect: Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
+    - effect: Each target is marked by you, and must immediately make a [free strike](../../../trait/common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 feature_type: ability
 flavor: Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 5 Focus
     distance: Ranged 10
-    effect: Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
+    effect: Each target is marked by you, and must immediately make a [free strike](../../../trait/common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
     flavor: Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.
     keywords:
         - Ranged

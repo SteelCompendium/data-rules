@@ -169,9 +169,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 **Power Roll + Presence:**
 
-- **≤11:** The target can [shift](../../../../movement/shifting.md) 1 square and make a free strike.
-- **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a free strike that gains an edge.
-- **17+:** The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
+- **≤11:** The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../common/main-actions/free-strike.md).
+- **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../common/main-actions/free-strike.md) that gains an edge.
+- **17+:** The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../common/main-actions/free-strike.md) that gains an edge, then can spend a Recovery.
 
 ### Fake Your Death {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death"}
 

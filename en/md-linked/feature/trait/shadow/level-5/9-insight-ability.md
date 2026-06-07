@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 |-----------------|---------------:|
 | **📏 3 burst**  | **🎯 Special** |
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../../../../movement/shifting.md) to a new location within the area and make a free strike against them.
+**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../../../../movement/shifting.md) to a new location within the area and make a [free strike](../../common/main-actions/free-strike.md) against them.
 
 ## Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 

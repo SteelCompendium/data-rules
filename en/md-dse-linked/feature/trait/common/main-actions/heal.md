@@ -13,7 +13,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: A creature who uses the Heal main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
+    - effect: A creature who uses the [Heal](heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
 feature_type: trait
 metadata:
     name: Heal

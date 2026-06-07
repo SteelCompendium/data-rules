@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Ranged 10**  |  **🎯 Special** |
 
-**Effect:** A [guest star](../../../ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../../../ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the [guest star](../../../ability/troubadour/level-2/guest-star.md) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+**Effect:** A [guest star](../../../ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../../../ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../../../ability/troubadour/level-2/guest-star.md) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 ### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
 
@@ -47,7 +47,7 @@ Choose one of the following abilities.
 |---------------------------|---------------------------------:|
 | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 
-**Effect:** Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
+**Effect:** Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to twice their highest characteristic score.
 
 ### En Garde! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde"}
 
@@ -64,7 +64,7 @@ Choose one of the following abilities.
 - **12-16:** 11 + **A** damage
 - **17+:** 16 + **A** damage
 
-**Effect:** The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.
+**Effect:** The target can make a melee [free strike](../../common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../common/main-actions/free-strike.md) against the target.
 
 ## 2nd-Level Virtuoso Ability
 

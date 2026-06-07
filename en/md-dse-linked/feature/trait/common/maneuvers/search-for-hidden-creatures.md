@@ -13,7 +13,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'The Search for Hidden Creatures maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)).'
+    - effect: 'The [Search for Hidden Creatures](search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)).'
 feature_type: trait
 metadata:
     name: Search for Hidden Creatures

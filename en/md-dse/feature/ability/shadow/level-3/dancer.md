@@ -5,7 +5,7 @@ cost: 7 Insight
 cost_amount: "7"
 cost_resource: Insight
 distance: Self
-effect: Until the end of the encounter, whenever an enemy moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
+effect: Until the end of the encounter, whenever an enemy moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) adjacent to you or damages you, you can take the [Disengage](scc:mcdm.heroes.v1/feature.trait.common.move-actions/disengage) move action as a free triggered action.
 feature_type: ability
 file_basename: dancer
 file_dpath: feature/ability/shadow/level-3
@@ -26,7 +26,7 @@ type: ability
 cost: 7 Insight
 distance: Self
 effects:
-    - effect: Until the end of the encounter, whenever an enemy moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
+    - effect: Until the end of the encounter, whenever an enemy moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) adjacent to you or damages you, you can take the [Disengage](scc:mcdm.heroes.v1/feature.trait.common.move-actions/disengage) move action as a free triggered action.
 feature_type: ability
 flavor: You enter a flow state that makes you nearly impossible to pin down.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: shadow
     cost: 7 Insight
     distance: Self
-    effect: Until the end of the encounter, whenever an enemy moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
+    effect: Until the end of the encounter, whenever an enemy moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) adjacent to you or damages you, you can take the [Disengage](scc:mcdm.heroes.v1/feature.trait.common.move-actions/disengage) move action as a free triggered action.
     flavor: You enter a flow state that makes you nearly impossible to pin down.
     keywords:
         - '-'

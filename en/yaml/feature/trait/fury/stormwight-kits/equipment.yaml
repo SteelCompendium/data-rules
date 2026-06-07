@@ -1,0 +1,14 @@
+effects:
+    - effect: You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: equipment
+    item_name: Equipment
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.stormwight-kits/equipment
+    type: feature/trait/fury/stormwight-kits
+name: Equipment
+type: feature

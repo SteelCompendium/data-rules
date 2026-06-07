@@ -5,7 +5,7 @@ cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
 distance: Self
-effect: You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+effect: You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them. You can then spend a Recovery.
 feature_type: ability
 file_basename: so-gullible
 file_dpath: feature/ability/shadow/level-2
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Insight
 distance: Self
 effects:
-    - effect: You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+    - effect: You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them. You can then spend a Recovery.
 feature_type: ability
 flavor: When your enemy strikes, you reveal you were in a different place all along.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: shadow
     cost: 5 Insight
     distance: Self
-    effect: You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+    effect: You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them. You can then spend a Recovery.
     flavor: When your enemy strikes, you reveal you were in a different place all along.
     keywords:
         - Magic

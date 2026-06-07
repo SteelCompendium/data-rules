@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../../../../movement/shifting.md) when you take the Disengage move action.
+    - effect: Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
 feature_type: trait
 metadata:
     class: conduit

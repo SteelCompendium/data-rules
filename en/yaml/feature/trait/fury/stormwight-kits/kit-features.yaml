@@ -1,0 +1,19 @@
+effects:
+    - effect: |-
+        All stormwight kits have the following features in common.
+
+        ##### Signature Ability
+
+        You gain a new signature ability from your kit.
+feature_type: trait
+metadata:
+    action_type: feature
+    class: fury
+    feature_type: trait
+    item_id: kit-features
+    item_name: Kit Features
+    scc:
+        - mcdm.heroes.v1/feature.trait.fury.stormwight-kits/kit-features
+    type: feature/trait/fury/stormwight-kits
+name: Kit Features
+type: feature

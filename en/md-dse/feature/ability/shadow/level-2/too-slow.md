@@ -5,7 +5,7 @@ cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
 distance: Self; see below
-effect: You ignore any effects associated with the damage that triggered your [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) ability. Before you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can make a free strike against a creature who damaged you to trigger [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion). After you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can spend a Recovery.
+effect: You ignore any effects associated with the damage that triggered your [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) ability. Before you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against a creature who damaged you to trigger [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion). After you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can spend a Recovery.
 feature_type: ability
 file_basename: too-slow
 file_dpath: feature/ability/shadow/level-2
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Insight
 distance: Self; see below
 effects:
-    - effect: You ignore any effects associated with the damage that triggered your [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) ability. Before you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can make a free strike against a creature who damaged you to trigger [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion). After you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can spend a Recovery.
+    - effect: You ignore any effects associated with the damage that triggered your [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) ability. Before you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against a creature who damaged you to trigger [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion). After you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can spend a Recovery.
 feature_type: ability
 flavor: Your foe made a big mistake.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: shadow
     cost: 5 Insight
     distance: Self; see below
-    effect: You ignore any effects associated with the damage that triggered your [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) ability. Before you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can make a free strike against a creature who damaged you to trigger [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion). After you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can spend a Recovery.
+    effect: You ignore any effects associated with the damage that triggered your [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) ability. Before you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against a creature who damaged you to trigger [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion). After you [teleport](scc:mcdm.heroes.v1/movement/teleport), you can spend a Recovery.
     flavor: Your foe made a big mistake.
     keywords:
         - '-'

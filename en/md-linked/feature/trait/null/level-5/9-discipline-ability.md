@@ -42,7 +42,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
 - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 
-**Effect:** While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../../common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 ## Phase Leap {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/phase-leap"}
 

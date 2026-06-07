@@ -9,7 +9,7 @@
       "tier3": "13 damage"
     },
     {
-      "effect": "You can take the Disengage move action as a free maneuver before or after you use this ability.",
+      "effect": "You can take the [Disengage](scc:mcdm.heroes.v1/feature.trait.common.move-actions/disengage) move action as a free maneuver before or after you use this ability.",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You move so quickly, it seems as though an army assaulted your foes.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 2 burst**            | **🎯 Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 damage\n- **12-16:** 9 damage\n- **17+:** 13 damage\n\n**Effect:** You can take the Disengage move action as a free maneuver before or after you use this ability.",
+    "content": "\n*You move so quickly, it seems as though an army assaulted your foes.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 2 burst**            | **🎯 Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 damage\n- **12-16:** 9 damage\n- **17+:** 13 damage\n\n**Effect:** You can take the [Disengage](scc:mcdm.heroes.v1/feature.trait.common.move-actions/disengage) move action as a free maneuver before or after you use this ability.",
     "distance": "2 burst",
     "feature_type": "ability",
     "flavor": "You move so quickly, it seems as though an army assaulted your foes.",

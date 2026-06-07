@@ -50,4 +50,4 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+**Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../../common/main-actions/free-strike.md) against them.

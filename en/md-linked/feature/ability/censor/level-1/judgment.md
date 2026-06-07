@@ -29,7 +29,7 @@ When a creature judged by you is reduced to 0 Stamina, you can use a free trigge
 
 Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 
-- When an adjacent creature judged by you starts to [shift](../../../../movement/shifting.md), you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../../../../movement/shifting.md).
+- When an adjacent creature judged by you starts to [shift](../../../../movement/shifting.md), you make a melee [free strike](../../../trait/common/main-actions/free-strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../../../../movement/shifting.md).
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
 - If you damage a creature judged by you with a melee ability, the creature is [taunted](../../../../condition/taunted.md) by you until the end of their next turn.

@@ -14,7 +14,7 @@ Your [shadow college](shadow-college.md) grants you one or two features, as show
 |-----------------|----------------------------|
 | Black Ash       | [Black Ash Teleport](../../../ability/shadow/level-1/black-ash-teleport.md)         |
 | Caustic Alchemy | [Coat the Blade](../../../ability/shadow/level-1/coat-the-blade.md), [Smoke Bomb](smoke-bomb.md) |
-| Harlequin Mask  | I'm No Threat              |
+| Harlequin Mask  | [I'm No Threat](../../../ability/shadow/level-1/im-no-threat.md)              |
 
 ## Black Ash Teleport {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/black-ash-teleport"}
 
@@ -29,7 +29,7 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You [teleport](../../../../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+**Effect:** You [teleport](../../../../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../common/maneuvers/hide.md) maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 
 **Spend 1+ Insight:** You [teleport](../../../../movement/teleport.md) 1 additional square for each insight spent.
 
@@ -63,7 +63,7 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |    **🎯 Self** |
 
-**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can [shift](../../../../movement/shifting.md).
+**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../../common/move-actions/disengage.md) move action, you gain a +1 bonus to the distance you can [shift](../../../../movement/shifting.md).
 
 The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 
@@ -71,4 +71,4 @@ The illusion ends when you harm another creature, when you physically interact w
 
 ## Smoke Bomb {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/smoke-bomb"}
 
-You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can [shift](../../../../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the [Hide](../../common/maneuvers/hide.md) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can [shift](../../../../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.

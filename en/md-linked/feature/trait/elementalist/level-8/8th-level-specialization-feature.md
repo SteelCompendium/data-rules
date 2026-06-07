@@ -64,7 +64,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 >
 >|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
 >|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
->|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>Free Strike |
+>|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>[Free Strike](../../common/main-actions/free-strike.md) |
 >| **-**<br>Immunities | **[Burrow](../../../../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
 >|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
 >

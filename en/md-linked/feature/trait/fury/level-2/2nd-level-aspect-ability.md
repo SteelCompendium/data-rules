@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 Melee 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+**Effect:** You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to your Might score.
 
 ### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
@@ -114,4 +114,4 @@ Choose one of the following abilities.
 - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
 - **17+:** 7 damage; push 3; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 
-**Effect:** This ability deals your primordial damage type (see [Stormwight Kits](../stormwight-kits.md)).
+**Effect:** This ability deals your primordial damage type (see [Stormwight Kits](../stormwight-kits/kit-features.md)).

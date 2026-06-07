@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "Each target can make a free strike.",
+      "effect": "Each target can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "tactician",
-    "content": "\n*Your allies wait for your command—then unleash death!*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **📏 Ranged 10** | **🎯 Three allies** |\n\n**Effect:** Each target can make a free strike.",
+    "content": "\n*Your allies wait for your command—then unleash death!*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **📏 Ranged 10** | **🎯 Three allies** |\n\n**Effect:** Each target can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Your allies wait for your command—then unleash death!",

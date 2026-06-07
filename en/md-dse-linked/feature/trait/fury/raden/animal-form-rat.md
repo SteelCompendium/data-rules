@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../../../ability/fury/aspect-of-the-wild.md).
+    - effect: While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the [Hide](../../common/maneuvers/hide.md) maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../../../ability/fury/stormwight-kits/aspect-of-the-wild.md).
 feature_type: trait
 metadata:
     class: fury

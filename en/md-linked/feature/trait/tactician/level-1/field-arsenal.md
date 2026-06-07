@@ -10,7 +10,7 @@ You have drilled with a broad array of arms and armor, and have developed techni
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the [Shining Armor](../../../../kit/shining-armor.md) and Sniper kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](../../../../kit/shining-armor.md) and [Sniper](../../../../kit/sniper.md) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1

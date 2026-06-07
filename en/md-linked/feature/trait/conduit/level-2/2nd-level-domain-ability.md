@@ -72,7 +72,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Power Roll + Intuition:**
 
-- **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a free strike against a target you choose
+- **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../common/main-actions/free-strike.md) against a target you choose
 - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 

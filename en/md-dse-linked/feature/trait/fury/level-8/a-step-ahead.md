@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can [shift](../../../../movement/shifting.md) gains a bonus equal to your Agility score.
+    - effect: You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../../common/move-actions/disengage.md) move action, the distance you can [shift](../../../../movement/shifting.md) gains a bonus equal to your Agility score.
 feature_type: trait
 metadata:
     class: fury

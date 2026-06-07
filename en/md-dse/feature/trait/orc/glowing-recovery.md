@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.
+    - effect: Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](scc:mcdm.heroes.v1/feature.trait.common.maneuvers/catch-breath) maneuver, you can spend as many Recoveries as you like.
 feature_type: trait
 metadata:
     ancestry: orc

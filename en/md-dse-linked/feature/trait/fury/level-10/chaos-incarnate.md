@@ -16,7 +16,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your [Primordial Storm](../primordial-storm.md) feature (see [Stormwight Kits](../stormwight-kits.md)) increases to three times your Might score.
+        Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your [Primordial Storm](../stormwight-kits/primordial-storm.md) feature (see [Stormwight Kits](../stormwight-kits/kit-features.md)) increases to three times your Might score.
 
         When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../../../../condition/frightened.md) of you (save ends).
 

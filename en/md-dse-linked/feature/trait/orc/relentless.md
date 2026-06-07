@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+    - effect: Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 feature_type: trait
 metadata:
     ancestry: orc

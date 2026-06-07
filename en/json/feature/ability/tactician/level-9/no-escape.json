@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*Nothing will stop you from reaching your foe.*\n\n| **Charge, Melee, Strike, Weapon** |     **Main action** |\n| --------------------------------- | ------------------: |\n| **📏 Melee 1**                    | **🎯 One creature** |\n\n**Effect:** You mark the target.\n\n**Power Roll + Might:**\n\n- **≤11:** 11 + M damage\n- **12-16:** 16 + M damage\n- **17+:** 21 + M damage\n\n**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.",
+    "content": "\n*Nothing will stop you from reaching your foe.*\n\n| **Charge, Melee, Strike, Weapon** |     **Main action** |\n| --------------------------------- | ------------------: |\n| **📏 Melee 1**                    | **🎯 One creature** |\n\n**Effect:** You mark the target.\n\n**Power Roll + Might:**\n\n- **≤11:** 11 + M damage\n- **12-16:** 16 + M damage\n- **17+:** 21 + M damage\n\n**Effect:** If you use this ability as part of the [Charge](scc:mcdm.heroes.v1/feature.trait.common.main-actions/charge) main action, enemies' spaces don't count as [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "Nothing will stop you from reaching your foe.",

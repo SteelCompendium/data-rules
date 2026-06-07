@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.
+    - effect: Whenever you use the [Charge](../../common/main-actions/charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../common/main-actions/free-strike.md). Additionally, you can jump as part of your charge.
 feature_type: trait
 metadata:
     class: fury

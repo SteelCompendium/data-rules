@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee free strike.
+**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../common/main-actions/free-strike.md).
 
 ## Power Ballad {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"}
 

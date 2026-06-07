@@ -8,7 +8,7 @@ effects:
     - effect: This ability deals your primordial damage type and ignores damage immunity.
       name: Effect
 feature_type: ability
-flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury/primordial-storm).
+flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury.stormwight-kits/primordial-storm).
 keywords:
     - Area
     - Magic
@@ -16,10 +16,10 @@ keywords:
 metadata:
     action_type: Main action
     class: fury
-    content: "\n*You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury/primordial-storm).*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 5 cube within 10** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 7 damage\n- **12-16:** 10 damage\n- **17+:** 15 damage\n\n**Effect:** This ability deals your primordial damage type and ignores damage immunity."
+    content: "\n*You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury.stormwight-kits/primordial-storm).*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 5 cube within 10** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 7 damage\n- **12-16:** 10 damage\n- **17+:** 15 damage\n\n**Effect:** This ability deals your primordial damage type and ignores damage immunity."
     distance: 5 cube within 10
     feature_type: ability
-    flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury/primordial-storm).
+    flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury.stormwight-kits/primordial-storm).
     item_id: deluge
     item_name: Deluge
     keywords:

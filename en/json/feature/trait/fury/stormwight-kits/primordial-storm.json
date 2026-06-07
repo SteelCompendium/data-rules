@@ -1,0 +1,21 @@
+{
+  "effects": [
+    {
+      "effect": "Each stormwight kit is associated with a [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury.stormwight-kits/primordial-storm), which channels a specific damage type used by some of your abilities."
+    }
+  ],
+  "feature_type": "trait",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "trait",
+    "item_id": "primordial-storm",
+    "item_name": "Primordial Storm",
+    "scc": [
+      "mcdm.heroes.v1/feature.trait.fury.stormwight-kits/primordial-storm"
+    ],
+    "type": "feature/trait/fury/stormwight-kits"
+  },
+  "name": "Primordial Storm",
+  "type": "feature"
+}

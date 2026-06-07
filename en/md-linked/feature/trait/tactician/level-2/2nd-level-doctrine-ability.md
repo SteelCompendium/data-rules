@@ -21,9 +21,9 @@ Choose one of the following abilities.
 |------------------|---------------------:|
 | **📏 Ranged 10** | **🎯 Two creatures** |
 
-**Effect:** Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
+**Effect:** Each target is marked by you, and must immediately make a [free strike](../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
 ### Try Me Instead {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/try-me-instead"}
 

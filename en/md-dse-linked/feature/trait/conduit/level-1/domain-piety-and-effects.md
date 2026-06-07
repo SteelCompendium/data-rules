@@ -47,7 +47,7 @@ effects:
 
         ###### Love Domain Piety and Effect
 
-        - **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the Aid Attack maneuver or an ability that targets an ally.
+        - **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../common/maneuvers/aid-attack.md) maneuver or an ability that targets an ally.
         - **Prayer Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
         ###### Nature Domain Piety and Effect
@@ -72,7 +72,7 @@ effects:
 
         ###### Trickery Domain Piety and Effect
 
-        - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or [Hide](../../../../skill/hide.md) maneuver.
+        - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../common/maneuvers/aid-attack.md) or [Hide](../../../../skill/hide.md) maneuver.
         - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../class/conduit.md) level.
 
         ###### War Domain Piety and Effect

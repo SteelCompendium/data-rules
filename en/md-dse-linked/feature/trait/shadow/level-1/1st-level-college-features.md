@@ -24,7 +24,7 @@ effects:
         |-----------------|----------------------------|
         | Black Ash       | [Black Ash Teleport](../../../ability/shadow/level-1/black-ash-teleport.md)         |
         | Caustic Alchemy | [Coat the Blade](../../../ability/shadow/level-1/coat-the-blade.md), [Smoke Bomb](smoke-bomb.md) |
-        | Harlequin Mask  | I'm No Threat              |
+        | Harlequin Mask  | [I'm No Threat](../../../ability/shadow/level-1/im-no-threat.md)              |
 feature_type: trait
 metadata:
     class: shadow

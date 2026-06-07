@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Might score.
+    - effect: Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Might score.
 feature_type: trait
 metadata:
     class: fury

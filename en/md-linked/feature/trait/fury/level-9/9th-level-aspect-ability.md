@@ -106,7 +106,7 @@ Choose one of the following abilities.
 ### Deluge {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/deluge"}
 
 
-*You summon your [primordial storm](../primordial-storm.md).*
+*You summon your [primordial storm](../stormwight-kits/primordial-storm.md).*
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|

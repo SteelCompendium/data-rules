@@ -53,7 +53,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 3 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
+**Effect:** Each target can make a ranged [free strike](../../common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
 
 ### Counterstrategy {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy"}
 
@@ -87,7 +87,7 @@ Choose one of the following abilities.
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as [difficult terrain](../../../../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+**Effect:** If you use this ability as part of the [Charge](../../common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../../../../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
 
 ### That One Is Mine! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine"}
 
@@ -106,4 +106,4 @@ Choose one of the following abilities.
 - **12-16:** 13 + M damage
 - **17+:** 17 + M damage
 
-**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.
+**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../common/main-actions/free-strike.md) against any target marked by you.

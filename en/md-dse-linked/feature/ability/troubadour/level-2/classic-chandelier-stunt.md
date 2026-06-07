@@ -5,7 +5,7 @@ cost: 5 Drama
 cost_amount: "5"
 cost_resource: Drama
 distance: Melee 1
-effect: Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
+effect: Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../trait/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest characteristic score.
 feature_type: ability
 file_basename: classic-chandelier-stunt
 file_dpath: feature/ability/troubadour/level-2
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Drama
 distance: Melee 1
 effects:
-    - effect: Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
+    - effect: Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../trait/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest characteristic score.
 feature_type: ability
 flavor: Audiences love this bit.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: troubadour
     cost: 5 Drama
     distance: Melee 1
-    effect: Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
+    effect: Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../trait/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest characteristic score.
     flavor: Audiences love this bit.
     keywords:
         - Melee

@@ -15,7 +15,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.
+    - effect: Whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, you can then use the [Aid Attack](../../common/maneuvers/aid-attack.md) maneuver as a free triggered action.
 feature_type: trait
 metadata:
     class: fury

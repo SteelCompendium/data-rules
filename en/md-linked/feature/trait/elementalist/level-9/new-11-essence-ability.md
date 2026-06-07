@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------|------------------------:|
 | **📏 Ranged 10**         | **🎯 Self or one ally** |
 
-**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the Defend main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../../common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 
 **Persistent 2:** The effect lasts until the start of your next turn.
 
