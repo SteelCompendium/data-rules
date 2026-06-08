@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 |----------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                             | **🎯 One creature or object** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 3 + P corruption damage; P < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../../../condition/weakened.md) (save ends)
@@ -32,15 +32,15 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 *Spheres of solid psionic energy float around you.*
 
-| **Psionic, Ranged, Strike, Telekinesis** | **Main action** |
+| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telekinesis** | **Main action** |
 |------------------------------------------|----------------:|
 | **📏 Self; see below**                   |     **🎯 Self** |
 
-**Effect:** You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb.
+**Effect:** You create three [size](../../../rule/character/size.md) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](../../../rule/damage/damage-immunity.md) 1. Each time you take damage, you lose 1 orb.
 
-Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.
+Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged [strike](../../../rule/combat/strike.md), losing the orb after the [strike](../../../rule/combat/strike.md).
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 3 damage
@@ -70,12 +70,12 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 |---------------------------------------------|--------------------:|
 | **📏 Ranged 10**                            | **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 6 + P damage; P < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 10 + P damage; P < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
 - **17+:** 14 + P damage; P < STRONG, [dazed](../../../condition/dazed.md) (save ends)
 
-**Effect:** The target takes a bane on Presence tests until the end of the encounter.
+**Effect:** The target takes a [bane](../../../rule/dice/bane.md) on [Presence](../../../rule/character/presence.md) tests until the end of the encounter.
 
 **Strained:** The potency of this ability increases by 1. You take 2d6 damage and gain 3 [surges](../../../rule/resource/surge.md) that you can use immediately.

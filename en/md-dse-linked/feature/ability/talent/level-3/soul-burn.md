@@ -5,7 +5,7 @@ cost: 7 Clarity
 cost_amount: "7"
 cost_resource: Clarity
 distance: Ranged 10
-effect: The target takes a bane on Presence tests until the end of the encounter.
+effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
 feature_type: ability
 file_basename: soul-burn
 file_dpath: feature/ability/talent/level-3
@@ -19,13 +19,9 @@ keywords:
     - Strike
 level: "3"
 name: Soul Burn
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn
 source: mcdm.heroes.v1
 target: One creature
-tier1: 6 + P damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: 10 + P damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: 14 + P damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -33,11 +29,7 @@ type: ability
 cost: 7 Clarity
 distance: Ranged 10
 effects:
-    - effect: The target takes a bane on Presence tests until the end of the encounter.
-    - roll: Power Roll + Presence
-      tier1: 6 + P damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-      tier2: 10 + P damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-      tier3: 14 + P damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+    - effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
 feature_type: ability
 flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
 keywords:
@@ -50,7 +42,7 @@ metadata:
     class: talent
     cost: 7 Clarity
     distance: Ranged 10
-    effect: The target takes a bane on Presence tests until the end of the encounter.
+    effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
     flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
     keywords:
         - Animapathy
@@ -59,12 +51,8 @@ metadata:
         - Strike
     level: "3"
     name: Soul Burn
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn
     target: One creature
-    tier1: 6 + P damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-    tier2: 10 + P damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-    tier3: 14 + P damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
     type: ability
 name: Soul Burn
 target: One creature

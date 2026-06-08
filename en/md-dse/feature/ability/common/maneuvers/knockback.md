@@ -1,7 +1,7 @@
 ---
 action_type: Maneuver
 distance: Melee 1
-effect: You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
 feature_type: ability
 file_basename: knockback
 file_dpath: feature/ability/common/maneuvers
@@ -11,24 +11,16 @@ keywords:
     - Melee
     - Weapon
 name: Knockback
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/knockback
 source: mcdm.heroes.v1
 target: One creature
-tier1: Push 1
-tier2: Push 2
-tier3: Push 3
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
-    - roll: Power Roll + Might
-      tier1: Push 1
-      tier2: Push 2
-      tier3: Push 3
+    - effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
 feature_type: ability
 keywords:
     - Melee
@@ -36,17 +28,13 @@ keywords:
 metadata:
     action_type: Maneuver
     distance: Melee 1
-    effect: You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+    effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
     keywords:
         - Melee
         - Weapon
     name: Knockback
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.common.maneuvers/knockback
     target: One creature
-    tier1: Push 1
-    tier2: Push 2
-    tier3: Push 3
     type: ability
 name: Knockback
 target: One creature

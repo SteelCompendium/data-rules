@@ -3,7 +3,7 @@ action_type: Main action
 distance: Ranged 5
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 name: Ranged Weapon Free Strike
 scc: mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike
@@ -12,11 +12,11 @@ target: One creature or object
 type: ability
 ---
 
-| **Ranged, Strike, Weapon**  |               **Main action** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 Ranged 5**             | **🎯 One creature or object** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage
 - **12-16:** 4 + M or A damage

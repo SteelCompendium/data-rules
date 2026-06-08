@@ -18,13 +18,9 @@ keywords:
     - Ranged
 level: "1"
 name: Conflagration
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 4 fire damage
-tier2: 6 fire damage
-tier3: 10 fire damage
 type: ability
 ---
 
@@ -32,10 +28,7 @@ type: ability
 cost: 5 Essence
 distance: 3 cube within 10
 effects:
-    - roll: Power Roll + Reason
-      tier1: 4 fire damage
-      tier2: 6 fire damage
-      tier3: 10 fire damage
+    - effect: "\n*A storm of fire descends upon your enemies.*\n\n| **Area, Fire, Magic, Ranged** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 10**       | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 4 fire damage\n- **12-16:** 6 fire damage\n- **17+:** 10 fire damage\n\n**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence."
 feature_type: ability
 flavor: A storm of fire descends upon your enemies.
 keywords:
@@ -56,12 +49,8 @@ metadata:
         - Ranged
     level: "1"
     name: Conflagration
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration
     target: Each enemy in the area
-    tier1: 4 fire damage
-    tier2: 6 fire damage
-    tier3: 10 fire damage
     type: ability
 name: Conflagration
 target: Each enemy in the area

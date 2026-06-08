@@ -10,7 +10,7 @@ item_id: battle-grace
 item_name: Battle Grace
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: martial-artist
 name: Battle Grace
@@ -29,7 +29,7 @@ feature_type: ability
 flavor: You feint to move your enemies into perfect position.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -38,7 +38,7 @@ metadata:
     flavor: You feint to move your enemies into perfect position.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: martial-artist
     name: Battle Grace

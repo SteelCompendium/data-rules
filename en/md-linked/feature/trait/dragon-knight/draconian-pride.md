@@ -15,7 +15,7 @@ You have the following signature ability.
 |-----------------|------------------------------:|
 | **📏 1 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Might or Presence:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage; push 1

@@ -8,7 +8,7 @@ type: project
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Presence
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Presence](../rule/character/presence.md)
 
 **Project Goal:** 60
 

@@ -18,11 +18,11 @@ Your [tactical doctrine](tactical-doctrine.md) grants you a feature, as shown on
 
 ## Commanding Presence {data-scc="mcdm.heroes.v1/feature.tactician.level-1/commanding-presence"}
 
-You command any room you walk into. While you are present during a negotiation, each hero with you treats their Renown as 2 higher than usual. Additionally, each hero with you during a combat encounter has a double edge on tests made to stop combat and start a negotiation.
+You command any room you walk into. While you are present during a negotiation, each hero with you treats their Renown as 2 higher than usual. Additionally, each hero with you during a combat encounter has a double [edge](../../../rule/dice/edge.md) on tests made to stop combat and start a negotiation.
 
 ## Covert Operations {data-scc="mcdm.heroes.v1/feature.tactician.level-1/covert-operations"}
 
-While in your presence or working according to your plans, each of your allies gains an edge on tests using any skill from the intrigue skill group. Additionally, you can use the [Lead](../../../skill/lead.md) skill to assist another creature with any test made using a skill from the intrigue group.
+While in your presence or working according to your plans, each of your allies gains an [edge](../../../rule/dice/edge.md) on tests using any skill from the intrigue skill group. Additionally, you can use the [Lead](../../../skill/lead.md) skill to assist another creature with any test made using a skill from the intrigue group.
 
 At the Director's discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
 
@@ -30,7 +30,7 @@ At the Director's discretion, you and your allies can use skills from the intrig
 
 Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are present, each hero with you treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Chapter 12: [Downtime Projects](../../../chapter/downtime-projects.md) for more information.)
 
-Additionally, if you have 24 hours or more before a combat encounter or negotiation, and you have one or more clues or rumors regarding the encounter or negotiation, you can make a Reason test as a respite activity. The following test outcomes apply to a combat encounter:
+Additionally, if you have 24 hours or more before a combat encounter or negotiation, and you have one or more clues or rumors regarding the encounter or negotiation, you can make a [Reason](../../../rule/character/reason.md) test as a respite activity. The following test outcomes apply to a combat encounter:
 
 - **≤11:** The Director tells you the number of creatures in the encounter.
 - **12-16:** The Director tells you the number and level of the creatures in the encounter.
@@ -40,6 +40,6 @@ The following test outcomes apply to a negotiation:
 
 - **≤11:** The Director gives you three motivations, one of which belongs to an NPC in the negotiation.
 - **12-16:** The Director gives you one motivation for an NPC in the negotiation.
-- **17+:** The Director tells you the tier 2 outcome information, and you and each of your allies gains an edge on tests made to influence NPCs during the negotiation.
+- **17+:** The Director tells you the tier 2 outcome information, and you and each of your allies gains an [edge](../../../rule/dice/edge.md) on tests made to influence NPCs during the negotiation.
 
 You can make this test only once for any encounter or negotiation.

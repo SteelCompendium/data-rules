@@ -3,12 +3,6 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Reason",
-      "tier1": "3 + R damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier2": "5 + R damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier3": "8 + R damage; M \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
-    },
-    {
       "effect": "You can vertical pull the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their stability.",
       "name": "Effect"
     }
@@ -24,7 +18,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "talent",
-    "content": "\n*You crush a foe in a telekinetic grip.*\n\n| **Psionic, Ranged**, **Strike, Telekinesis** |     **Main action** |\n|----------------------------------------------|--------------------:|\n| **📏 Ranged 10**                             | **🎯 One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 3 + R damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 5 + R damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 8 + R damage; M \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their stability.",
+    "content": "\n*You crush a foe in a telekinetic grip.*\n\n| **Psionic, Ranged**, **Strike, Telekinesis** |     **Main action** |\n|----------------------------------------------|--------------------:|\n| **📏 Ranged 10**                             | **🎯 One creature** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 + R damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 5 + R damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 8 + R damage; M \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their stability.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You crush a foe in a telekinetic grip.",

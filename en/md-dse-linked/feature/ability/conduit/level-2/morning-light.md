@@ -5,7 +5,7 @@ cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
 distance: 3 burst
-effect: Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
+effect: Each ally in the area deals fire damage equal to your [Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next turn.
 feature_type: ability
 file_basename: morning-light
 file_dpath: feature/ability/conduit/level-2
@@ -17,13 +17,9 @@ keywords:
     - Magic
 level: "2"
 name: Morning Light
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 4 fire damage
-tier2: 6 fire damage
-tier3: 10 fire damage
 type: ability
 ---
 
@@ -31,11 +27,7 @@ type: ability
 cost: 5 Piety
 distance: 3 burst
 effects:
-    - effect: Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
-    - roll: Power Roll + Intuition
-      tier1: 4 fire damage
-      tier2: 6 fire damage
-      tier3: 10 fire damage
+    - effect: Each ally in the area deals fire damage equal to your [Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next turn.
 feature_type: ability
 flavor: Light shines at your command, burning your foes and blessing your allies.
 keywords:
@@ -46,19 +38,15 @@ metadata:
     class: conduit
     cost: 5 Piety
     distance: 3 burst
-    effect: Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
+    effect: Each ally in the area deals fire damage equal to your [Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next turn.
     flavor: Light shines at your command, burning your foes and blessing your allies.
     keywords:
         - Area
         - Magic
     level: "2"
     name: Morning Light
-    power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light
     target: Each enemy in the area
-    tier1: 4 fire damage
-    tier2: 6 fire damage
-    tier3: 10 fire damage
     type: ability
 name: Morning Light
 target: Each enemy in the area

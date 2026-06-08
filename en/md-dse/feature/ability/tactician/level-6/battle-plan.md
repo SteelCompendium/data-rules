@@ -5,7 +5,7 @@ cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
 distance: Ranged 10
-effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: battle-plan
 file_dpath: feature/ability/tactician/level-6
@@ -26,7 +26,7 @@ type: ability
 cost: 9 Focus
 distance: Ranged 10
 effects:
-    - effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+    - effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 flavor: With new understanding of your foes, you create the perfect plan to win the battle.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 9 Focus
     distance: Ranged 10
-    effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+    effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: With new understanding of your foes, you create the perfect plan to win the battle.
     keywords:
         - Ranged

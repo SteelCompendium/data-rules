@@ -11,12 +11,8 @@ keywords:
     - Weapon
 level: "9"
 name: Cacophony of Cinders
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders
 target: Self
-tier1: An enemy takes 6 damage; an ally can [teleport](../../../../movement/teleport.md) up to 3 squares.
-tier2: An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.
-tier3: An enemy takes 14 damage; an ally can [teleport](../../../../movement/teleport.md) up to 7 squares.
 type: ability
 ---
 
@@ -29,7 +25,7 @@ type: ability
 
 **Effect:** You [shift](../../../../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../movement/teleport.md) up to 3 squares.
 - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.

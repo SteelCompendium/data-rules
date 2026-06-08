@@ -22,20 +22,20 @@ Your order has trained you to understand fragments of the visions granted to you
 
 ## Judge of Character {data-scc="mcdm.heroes.v1/feature.censor.level-2/judge-of-character"}
 
-Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an Intuition test, you can make a Presence test instead.
+Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an [Intuition](../../../rule/character/intuition.md) test, you can make a [Presence](../../../rule/character/presence.md) test instead.
 
 ## Lead by Example {data-scc="mcdm.heroes.v1/feature.censor.level-2/lead-by-example"}
 
-Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of [flanking](../../../rule/combat/flanking.md) against that creature. Additionally, your allies gain an edge on tests made to aid other creatures with their tests.
+Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of [flanking](../../../rule/combat/flanking.md) against that creature. Additionally, your allies gain an [edge](../../../rule/dice/edge.md) on tests made to aid other creatures with their tests.
 
 ## Saint's Vigilance {data-scc="mcdm.heroes.v1/feature.censor.level-2/saints-vigilance"}
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../common/maneuvers/hide.md) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../ability/censor/level-1/judgment.md) ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../common/maneuvers/hide.md) maneuver. Additionally, you gain an [edge](../../../rule/dice/edge.md) when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../ability/censor/level-1/judgment.md) ability against them as a free triggered action.
 
 ## A Sense for Truth {data-scc="mcdm.heroes.v1/feature.censor.level-2/a-sense-for-truth"}
 
-You are trained in secret techniques from your order that allow you to discern the truth with supernatural precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you gain an edge on tests made to detect lies or hidden motives.
+You are trained in secret techniques from your order that allow you to discern the truth with supernatural precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you gain an [edge](../../../rule/dice/edge.md) on tests made to detect lies or hidden motives.
 
 ## Stalwart Icon {data-scc="mcdm.heroes.v1/feature.censor.level-2/stalwart-icon"}
 
-You exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an edge on tests made to intimidate or persuade others.
+You exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an [edge](../../../rule/dice/edge.md) on tests made to intimidate or persuade others.

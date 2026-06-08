@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Reason score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.
+    - effect: Your [Reason](../../../rule/character/reason.md) score increases to 3. Additionally, you can increase one of your [characteristic](../../../rule/character/characteristic.md) scores by 1, to a maximum of 3.
 feature_type: feature
 metadata:
     class: elementalist

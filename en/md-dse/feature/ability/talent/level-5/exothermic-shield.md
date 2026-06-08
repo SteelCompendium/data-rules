@@ -5,7 +5,7 @@ cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
 distance: Ranged 10
-effect: Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+effect: Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their [strikes](scc:mcdm.heroes.v1/rule.combat/strike) deal extra fire damage equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 feature_type: ability
 file_basename: exothermic-shield
 file_dpath: feature/ability/talent/level-5
@@ -28,7 +28,7 @@ type: ability
 cost: 9 Clarity
 distance: Ranged 10
 effects:
-    - effect: Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+    - effect: Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their [strikes](scc:mcdm.heroes.v1/rule.combat/strike) deal extra fire damage equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 feature_type: ability
 flavor: You encase the target in psionic flame and allow them to flicker without fear of burning out.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 9 Clarity
     distance: Ranged 10
-    effect: Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+    effect: Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their [strikes](scc:mcdm.heroes.v1/rule.combat/strike) deal extra fire damage equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
     flavor: You encase the target in psionic flame and allow them to flicker without fear of burning out.
     keywords:
         - Pyrokinesis

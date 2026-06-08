@@ -28,7 +28,7 @@ At some point, a player will have their hero attempt a task that has a risk of f
 
 **Grace (playing Val, a [conduit](../class/conduit.md)):** *Before anyone steps on them, I want to examine the symbols and figure out what they mean.*
 
-**Director:** *Okay, well for that, I need you to make an easy Reason test.*
+**Director:** *Okay, well for that, I need you to make an easy [Reason](../rule/character/reason.md) test.*
 
 **Grace:** *I got a 12! What do I know?*
 

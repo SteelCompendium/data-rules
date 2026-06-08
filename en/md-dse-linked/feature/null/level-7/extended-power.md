@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability is ranged, the distance gains a bonus equal to your Intuition score. If the ability is melee, the distance gains a +2 bonus.
+    - effect: If the ability is ranged, the [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score. If the ability is melee, the [distance](../../../rule/combat/distance.md) gains a +2 bonus.
 feature_type: feature
 metadata:
     class: "null"

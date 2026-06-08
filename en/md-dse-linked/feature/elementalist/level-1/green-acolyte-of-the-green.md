@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your Reason score.
+    - effect: You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your [Reason](../../../rule/character/reason.md) score.
 feature_type: feature
 metadata:
     class: elementalist

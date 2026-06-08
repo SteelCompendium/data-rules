@@ -5,7 +5,7 @@ cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
 distance: Ranged 10
-effect: The target has damage immunity 5 and can't be made [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a +5 bonus.
+effect: The target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 and can't be made [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus.
 feature_type: ability
 file_basename: steel
 file_dpath: feature/ability/talent/level-8
@@ -28,7 +28,7 @@ type: ability
 cost: 11 Clarity
 distance: Ranged 10
 effects:
-    - effect: The target has damage immunity 5 and can't be made [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a +5 bonus.
+    - effect: The target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 and can't be made [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus.
 feature_type: ability
 flavor: The target's skin becomes covered in tough metal.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 11 Clarity
     distance: Ranged 10
-    effect: The target has damage immunity 5 and can't be made [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a +5 bonus.
+    effect: The target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 and can't be made [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus.
     flavor: The target's skin becomes covered in tough metal.
     keywords:
         - Metamorphosis

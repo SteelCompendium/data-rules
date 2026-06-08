@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.fury.level-1/relentless-hunter
 type: feature
 ---
 
-You gain an edge on tests made using the [Track](../../../skill/track.md) skill.
+You gain an [edge](../../../rule/dice/edge.md) on tests made using the [Track](../../../skill/track.md) skill.

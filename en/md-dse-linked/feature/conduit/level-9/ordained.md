@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your god elevates the power flowing through you. Your characteristic scores are treated as 1 higher for the purpose of resisting potencies. Additionally, while you have 5 or more Victories, you speak with the voice of your deity. You have a double edge on Presence tests made to influence other creatures.
+    - effect: Your god elevates the power flowing through you. Your [characteristic](../../../rule/character/characteristic.md) scores are treated as 1 higher for the purpose of resisting potencies. Additionally, while you have 5 or more Victories, you speak with the voice of your deity. You have a double [edge](../../../rule/dice/edge.md) on [Presence](../../../rule/character/presence.md) tests made to influence other creatures.
 feature_type: feature
 metadata:
     class: conduit

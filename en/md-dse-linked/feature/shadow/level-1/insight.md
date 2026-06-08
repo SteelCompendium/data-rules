@@ -24,7 +24,7 @@ effects:
 
         Additionally, the first time each combat round that you deal damage incorporating 1 or more [surges](../../../rule/resource/surge.md), you gain 1 insight.
 
-        Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
+        Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an [edge](../../../rule/dice/edge.md) or double [edge](../../../rule/dice/edge.md) on it. If the ability has multiple targets, the cost is reduced even if the ability gains an [edge](../../../rule/dice/edge.md) or has a double [edge](../../../rule/dice/edge.md) against only one target.
 
         You lose any remaining insight at the end of the encounter.
 

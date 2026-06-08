@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability targets individual creatures or objects, you target one additional creature or object within distance.
+    - effect: If the ability targets individual creatures or objects, you target one additional creature or object within [distance](../../../rule/combat/distance.md).
 feature_type: feature
 metadata:
     class: talent

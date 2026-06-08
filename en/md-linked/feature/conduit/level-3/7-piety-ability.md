@@ -17,13 +17,13 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 |--------------------------|------------------------------:|
 | **📏 5 cube within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 6 psychic damage; I < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
 - **17+:** 13 psychic damage; I < STRONG, [frightened](../../../condition/frightened.md) (save ends)
 
-**Effect:** Each target is [frightened](../../../condition/frightened.md) of you or a creature you choose within distance.
+**Effect:** Each target is [frightened](../../../condition/frightened.md) of you or a creature you choose within [distance](../../../rule/combat/distance.md).
 
 ## Saint's Raiment {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment"}
 
@@ -41,17 +41,17 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
 
-| **Magic, Ranged, Strike** |  **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |  **Main action** |
 |---------------------------|-----------------:|
 | **📏 Ranged 10**          | **🎯 One enemy** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 7 + I corruption damage
 - **12-16:** 10 + I corruption damage
 - **17+:** 15 + I corruption damage
 
-**Effect:** One ally within distance can spend any number of [Recoveries](../../../rule/health/recoveries.md).
+**Effect:** One ally within [distance](../../../rule/combat/distance.md) can spend any number of [Recoveries](../../../rule/health/recoveries.md).
 
 ## Words of Wrath and Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace"}
 
@@ -62,7 +62,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 |------------------|------------------------------:|
 | **📏 5 burst**   | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 holy damage
 - **12-16:** 5 holy damage

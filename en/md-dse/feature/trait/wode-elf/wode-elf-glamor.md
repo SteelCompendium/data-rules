@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.
+    - effect: You can magically alter your appearance to better blend in with your surroundings. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on tests made to hide and sneak, and tests made to search for you while you are hidden take a [bane](scc:mcdm.heroes.v1/rule.dice/bane).
 feature_type: trait
 metadata:
     ancestry: wode-elf

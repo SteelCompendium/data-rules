@@ -40,7 +40,7 @@ Your [troubadour class act](troubadour-class-act.md) grants you a triggered acti
 |----------------|------------------------:|
 | **📏 Melee 1** | **🎯 Self or one ally** |
 
-**Trigger:** The target takes damage from a melee strike.
+**Trigger:** The target takes damage from a melee [strike](../../../rule/combat/strike.md).
 
 **Effect:** The target makes a [free strike](../../common/main-actions/free-strike.md) against the creature who made the triggering strike.
 
@@ -53,8 +53,8 @@ Your [troubadour class act](troubadour-class-act.md) grants you a triggered acti
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 One creature** |
 
-**Trigger:** The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.
+**Trigger:** The target makes an ability roll that has an [edge](../../../rule/dice/edge.md), a double [edge](../../../rule/dice/edge.md), a [bane](../../../rule/dice/bane.md), or a double [bane](../../../rule/dice/bane.md).
 
-**Effect:** An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.
+**Effect:** An [edge](../../../rule/dice/edge.md) on the triggering roll becomes a [bane](../../../rule/dice/bane.md), or a double [edge](../../../rule/dice/edge.md) becomes an [edge](../../../rule/dice/edge.md). A [bane](../../../rule/dice/bane.md) becomes an [edge](../../../rule/dice/edge.md), or a double [bane](../../../rule/dice/bane.md) becomes a [bane](../../../rule/dice/bane.md).
 
-**Spend 3 Drama:** An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.
+**Spend 3 Drama:** An [edge](../../../rule/dice/edge.md) on the triggering roll becomes a double [bane](../../../rule/dice/bane.md), or a double [edge](../../../rule/dice/edge.md) is negated. A [bane](../../../rule/dice/bane.md) becomes a double [edge](../../../rule/dice/edge.md), or a double [bane](../../../rule/dice/bane.md) is negated.

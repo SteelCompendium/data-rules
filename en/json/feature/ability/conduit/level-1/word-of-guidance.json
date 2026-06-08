@@ -3,12 +3,12 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The power roll gains an edge.",
+      "effect": "The power roll gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).",
       "name": "Effect"
     },
     {
       "cost": "Spend 1 Piety",
-      "effect": "The power roll has a double edge."
+      "effect": "The power roll has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge)."
     }
   ],
   "feature_type": "ability",
@@ -21,7 +21,7 @@
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "conduit",
-    "content": "\n*You invigorate an attacking ally with divine energy.*\n\n| **Magic, Ranged**      |        **Triggered** |\n|------------------------|---------------------:|\n| **📏 Ranged 10**       |      **🎯 One ally** |\n\n**Trigger:** The target makes an ability roll for a damage-dealing ability.\n\n**Effect:** The power roll gains an edge.\n\n**Spend 1 Piety:** The power roll has a double edge.",
+    "content": "\n*You invigorate an attacking ally with divine energy.*\n\n| **Magic, Ranged**      |        **Triggered** |\n|------------------------|---------------------:|\n| **📏 Ranged 10**       |      **🎯 One ally** |\n\n**Trigger:** The target makes an ability roll for a damage-dealing ability.\n\n**Effect:** The power roll gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).\n\n**Spend 1 Piety:** The power roll has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You invigorate an attacking ally with divine energy.",

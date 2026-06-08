@@ -11,11 +11,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You slam an invisible force down upon the target.*
 
-| **Psionic, Ranged, Strike**  | Main action                   |
+| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
@@ -25,11 +25,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You shoot forth a purple beam of psychic force that moves your target.*
 
-| **Psionic, Ranged, Strike**  | Main action                   |
+| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P psychic damage; slide 1
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
@@ -43,4 +43,4 @@ Choose one signature ability from the following options. Signature abilities can
 |-------------------|------------------------|
 | **📏 Melee 1**    | **🎯 Self or one ally** |
 
-**Effect:** The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+**Effect:** The target gains a bonus to speed equal to your [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md) score (your choice) until the start of your next turn.

@@ -1,6 +1,6 @@
 ---
 benefit: 'You have three skills of your choice, and you know one dead language of your choice (see Languages in Orden in Chapter 4: [Background](../chapter/background.md)).'
-drawback: The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
+drawback: The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a [bane](../rule/dice/bane.md) on any test to which that skill would apply.
 file_basename: ivory-tower
 file_dpath: complication
 item_id: ivory-tower
@@ -15,4 +15,4 @@ You studied in an academy or other educational institution. Your training was th
 
 **Benefit:** You have three skills of your choice, and you know one dead language of your choice (see Languages in Orden in Chapter 4: [Background](../chapter/background.md)).
 
-**Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
+**Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a [bane](../rule/dice/bane.md) on any test to which that skill would apply.

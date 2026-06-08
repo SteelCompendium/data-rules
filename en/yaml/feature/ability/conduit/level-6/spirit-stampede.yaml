@@ -1,10 +1,7 @@
 cost: 9 Piety
 distance: 10 x 2 line within 5
 effects:
-    - roll: Power Roll + Intuition
-      tier1: 5 damage; M < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
-      tier2: 8 damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
-      tier3: 11 damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+    - effect: ""
 feature_type: ability
 flavor: Animal spirits run through the battlefield, trampling your foes.
 keywords:
@@ -14,7 +11,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*Animal spirits run through the battlefield, trampling your foes.*\n\n| **Area, Magic, Ranged**     |               **Main action** |\n|-----------------------------|------------------------------:|\n| **\U0001F4CF 10 x 2 line within 5** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 5 damage; M < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **12-16:** 8 damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **17+:** 11 damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)"
+    content: "\n*Animal spirits run through the battlefield, trampling your foes.*\n\n| **Area, Magic, Ranged**     |               **Main action** |\n|-----------------------------|------------------------------:|\n| **\U0001F4CF 10 x 2 line within 5** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 5 damage; M < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **12-16:** 8 damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **17+:** 11 damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)"
     distance: 10 x 2 line within 5
     feature_type: ability
     flavor: Animal spirits run through the battlefield, trampling your foes.

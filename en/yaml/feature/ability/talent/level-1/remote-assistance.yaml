@@ -1,6 +1,6 @@
 distance: Ranged 10
 effects:
-    - effect: The next ability roll an ally makes against the target before the start of your next turn gains an edge.
+    - effect: The next ability roll an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
       name: Effect
     - cost: Spend 1 Clarity
       effect: You target one additional creature or object.
@@ -12,7 +12,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: talent
-    content: "\n*An ally gains the benefit of your intellect.*\n\n| **Psionic, Ranged** |                  **Maneuver** |\n|---------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF One creature or object** |\n\n\n**Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an edge.\n\n**Spend 1 Clarity:** You target one additional creature or object."
+    content: "\n*An ally gains the benefit of your intellect.*\n\n| **Psionic, Ranged** |                  **Maneuver** |\n|---------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF One creature or object** |\n\n\n**Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).\n\n**Spend 1 Clarity:** You target one additional creature or object."
     distance: Ranged 10
     feature_type: ability
     flavor: An ally gains the benefit of your intellect.

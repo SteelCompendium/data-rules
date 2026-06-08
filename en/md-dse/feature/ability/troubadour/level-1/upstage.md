@@ -14,7 +14,7 @@ item_id: upstage
 item_name: Upstage
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: Upstage
@@ -33,7 +33,7 @@ feature_type: ability
 flavor: As you bob and weave through the crowd, you can't help but leave the audience wanting more.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Maneuver
@@ -44,7 +44,7 @@ metadata:
     flavor: As you bob and weave through the crowd, you can't help but leave the audience wanting more.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: Upstage

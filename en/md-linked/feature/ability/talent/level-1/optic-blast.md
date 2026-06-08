@@ -11,13 +11,9 @@ keywords:
     - Strike
 level: "1"
 name: Optic Blast
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast
 subtype: signature
 target: One creature or object
-tier1: 2 + R damage; M < WEAK[, prone](../../../../condition/prone.md)
-tier2: 4 + R damage; M < AVERAGE[, prone](../../../../condition/prone.md)
-tier3: 6 + R damage; M < STRONG[, prone](../../../../condition/prone.md)
 type: ability
 ---
 
@@ -28,7 +24,7 @@ type: ability
 |------------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                               | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R damage; M < WEAK[, prone](../../../../condition/prone.md)
 - **12-16:** 4 + R damage; M < AVERAGE[, prone](../../../../condition/prone.md)
@@ -36,4 +32,4 @@ type: ability
 
 **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 
-**Strained:** You gain 1 [surge](../../../../rule/resource/surge.md) that you can use immediately, and you take damage equal to your Reason score that can't be reduced in any way.
+**Strained:** You gain 1 [surge](../../../../rule/resource/surge.md) that you can use immediately, and you take damage equal to your [Reason](../../../../rule/character/reason.md) score that can't be reduced in any way.

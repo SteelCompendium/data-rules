@@ -15,17 +15,13 @@ item_name: Misdirecting Strike
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "3"
 name: Misdirecting Strike
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike
 source: mcdm.heroes.v1
 target: One creature
-tier1: 9 + A damage
-tier2: 13 + A damage
-tier3: 18 + A damage
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 7 Insight
 distance: Melee 1 or ranged 5
 effects:
     - effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) by a willing ally within 5 squares of you until the end of the target's next turn.
-    - roll: Power Roll + Agility
-      tier1: 9 + A damage
-      tier2: 13 + A damage
-      tier3: 18 + A damage
 feature_type: ability
 flavor: '"Why are you looking at ME?!"'
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Melee
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "3"
     name: Misdirecting Strike
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike
     target: One creature
-    tier1: 9 + A damage
-    tier2: 13 + A damage
-    tier3: 18 + A damage
     type: ability
 name: Misdirecting Strike
 target: One creature

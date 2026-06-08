@@ -17,13 +17,9 @@ keywords:
     - Weapon
 level: "1"
 name: Tide of Death
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/tide-of-death
 source: mcdm.heroes.v1
 target: Self
-tier1: 2 damage
-tier2: 3 damage
-tier3: 5 damage
 type: ability
 ---
 
@@ -32,10 +28,6 @@ cost: 3 Ferocity
 distance: Self; see below
 effects:
     - effect: You move up to your speed in a straight line, and enemy squares are not [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
-    - roll: Power Roll + Might
-      tier1: 2 damage
-      tier2: 3 damage
-      tier3: 5 damage
 feature_type: ability
 flavor: Teach them the folly of lining up for you.
 keywords:
@@ -53,12 +45,8 @@ metadata:
         - Weapon
     level: "1"
     name: Tide of Death
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/tide-of-death
     target: Self
-    tier1: 2 damage
-    tier2: 3 damage
-    tier3: 5 damage
     type: ability
 name: Tide of Death
 target: Self

@@ -21,7 +21,7 @@ effects:
 
         ##### Purchased Revenant Traits
 
-        You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your size is 1S. (*Quick Build:* Bloodless, plus Undead Influence if size 1S.)
+        You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your [size](../../../rule/character/size.md) is 1S. (*Quick Build:* Bloodless, plus Undead Influence if [size](../../../rule/character/size.md) 1S.)
 feature_type: trait
 metadata:
     ancestry: revenant

@@ -10,15 +10,15 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ## Entropy Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/entropy-ward"}
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your [Reason](../../../rule/character/reason.md) score and they can't use triggered actions until the end of their next turn.
 
 ## Repulsive Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/repulsive-ward"}
 
-You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push them up to a number of squares equal to your Reason score.
+You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push them up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Steel Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/steel-ward"}
 
-Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain damage immunity equal to your Reason score until the end of your next turn.
+Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../../../rule/damage/damage-immunity.md) equal to your [Reason](../../../rule/character/reason.md) score until the end of your next turn.
 
 ## Vanishing Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/vanishing-ward"}
 

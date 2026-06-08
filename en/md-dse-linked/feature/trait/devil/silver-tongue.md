@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../../chapter/tests.md)), and you gain an edge on tests when attempting to discover an NPC''s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../../chapter/negotiation.md)).'
+    - effect: 'Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../../chapter/tests.md)), and you gain an [edge](../../../rule/dice/edge.md) on tests when attempting to discover an NPC''s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../../chapter/negotiation.md)).'
 feature_type: trait
 metadata:
     ancestry: devil

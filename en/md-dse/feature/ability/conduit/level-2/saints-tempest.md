@@ -17,13 +17,9 @@ keywords:
     - Ranged
 level: "2"
 name: Saint's Tempest
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 2 lightning damage; vertical slide 1
-tier2: 5 lightning damage; vertical slide 2
-tier3: 7 lightning damage; vertical slide 3
 type: ability
 ---
 
@@ -31,10 +27,7 @@ type: ability
 cost: 5 Piety
 distance: 3 cube within 10
 effects:
-    - roll: Power Roll + Intuition
-      tier1: 2 lightning damage; vertical slide 1
-      tier2: 5 lightning damage; vertical slide 2
-      tier3: 7 lightning damage; vertical slide 3
+    - effect: "\n*A raging storm appears, striking your foes with lightning and throwing them around with wind.*\n\n| **Area, Magic, Ranged**  |               **Main action** |\n|--------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 10**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 lightning damage; vertical slide 1\n- **12-16:** 5 lightning damage; vertical slide 2\n- **17+:** 7 lightning damage; vertical slide 3"
 feature_type: ability
 flavor: A raging storm appears, striking your foes with lightning and throwing them around with wind.
 keywords:
@@ -53,12 +46,8 @@ metadata:
         - Ranged
     level: "2"
     name: Saint's Tempest
-    power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest
     target: Each enemy in the area
-    tier1: 2 lightning damage; vertical slide 1
-    tier2: 5 lightning damage; vertical slide 2
-    tier3: 7 lightning damage; vertical slide 3
     type: ability
 name: Saint's Tempest
 target: Each enemy in the area

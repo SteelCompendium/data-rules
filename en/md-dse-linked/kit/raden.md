@@ -17,11 +17,11 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 *Your enemies try in vain to fall back from your pouncing attack.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage
 - **12-16:** 7 + A damage; push 1

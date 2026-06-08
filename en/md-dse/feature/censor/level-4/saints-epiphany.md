@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your Presence score to the roll.
+    - effect: At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score to the roll.
 feature_type: feature
 metadata:
     class: censor

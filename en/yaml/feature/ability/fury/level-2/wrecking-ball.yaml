@@ -1,10 +1,6 @@
 cost: 5 Ferocity
 distance: Self; see below
 effects:
-    - roll: Power Roll + Might
-      tier1: Push 1
-      tier2: Push 2
-      tier3: Push 3
     - effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
       name: Effect
 feature_type: ability
@@ -15,7 +11,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: fury
-    content: "\n*It's easier to destroy than to create. Much easier, in fact!*\n\n| **Melee, Weapon**      | **Maneuver** |\n|------------------------|-------------:|\n| **\U0001F4CF Self; see below** |  **\U0001F3AF Self** |\n\n**Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).\n\nAdditionally, you make one power roll that targets each enemy you move adjacent to during this movement.\n\n**Power Roll + Might:**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3"
+    content: "\n*It's easier to destroy than to create. Much easier, in fact!*\n\n| **Melee, Weapon**      | **Maneuver** |\n|------------------------|-------------:|\n| **\U0001F4CF Self; see below** |  **\U0001F3AF Self** |\n\n**Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).\n\nAdditionally, you make one power roll that targets each enemy you move adjacent to during this movement.\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3"
     distance: Self; see below
     feature_type: ability
     flavor: It's easier to destroy than to create. Much easier, in fact!

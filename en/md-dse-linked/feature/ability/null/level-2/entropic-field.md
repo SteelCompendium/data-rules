@@ -17,13 +17,9 @@ keywords:
     - Weapon
 level: "2"
 name: Entropic Field
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-2/entropic-field
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-tier3: 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
@@ -31,10 +27,7 @@ type: ability
 cost: 5 Discipline
 distance: 3 cube within 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-      tier2: 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-      tier3: 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
+    - effect: "\n*You drastically increase the local entropy.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 1**    | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
 feature_type: ability
 flavor: You drastically increase the local entropy.
 keywords:
@@ -53,12 +46,8 @@ metadata:
         - Weapon
     level: "2"
     name: Entropic Field
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.null.level-2/entropic-field
     target: Each enemy in the area
-    tier1: 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-    tier2: 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-    tier3: 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
     type: ability
 name: Entropic Field
 target: Each enemy in the area

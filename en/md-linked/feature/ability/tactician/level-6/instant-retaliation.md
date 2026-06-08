@@ -10,13 +10,9 @@ keywords:
     - Weapon
 level: "6"
 name: Instant Retaliation
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
 subtype: triggered
 target: One ally
-tier1: A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 trigger: A creature deals damage to the target.
 type: ability
 ---
@@ -32,7 +28,7 @@ type: ability
 
 **Effect:** The target takes half the damage. You then make a power roll against the triggering creature.
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

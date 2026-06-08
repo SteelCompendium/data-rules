@@ -3,12 +3,6 @@
     "distance": "Ranged 10",
     "effects": [
       {
-        "roll": "Power Roll + Intuition",
-        "tier1": "2 + I damage",
-        "tier2": "4 + I damage",
-        "tier3": "6 + I damage"
-      },
-      {
         "effect": "You can have this ability deal holy damage.",
         "name": "Effect"
       }
@@ -18,11 +12,11 @@
     "keywords": [
       "Magic",
       "Ranged",
-      "Strike"
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "metadata": {
       "action_type": "Main action",
-      "content": "\n*You unleash a blast of holy light upon your foe.*\n\n| **Magic, Ranged, Strike**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 2 + I damage\n- **12-16:** 4 + I damage\n- **17+:** 6 + I damage\n\n**Effect:** You can have this ability deal holy damage.",
+      "content": "\n*You unleash a blast of holy light upon your foe.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 + I damage\n- **12-16:** 4 + I damage\n- **17+:** 6 + I damage\n\n**Effect:** You can have this ability deal holy damage.",
       "distance": "Ranged 10",
       "feature_type": "ability",
       "flavor": "You unleash a blast of holy light upon your foe.",
@@ -31,7 +25,7 @@
       "keywords": [
         "Magic",
         "Ranged",
-        "Strike"
+        "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
       ],
       "target": "One creature or object",
       "type": "feature/ability/common"

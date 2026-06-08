@@ -13,28 +13,28 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You curse your foe to become a bane to their allies.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 + M damage; I < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 13 + M damage; I < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
 - **17+:** 18 + M damage; I < STRONG, [weakened](../../../condition/weakened.md) (save ends)
 
-**Effect:** At the end of each of your turns, a target [weakened](../../../condition/weakened.md) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](../../../condition/weakened.md) this way can't be targeted by their allies' abilities.
+**Effect:** At the end of each of your turns, a target [weakened](../../../condition/weakened.md) this way deals holy damage equal to twice your [Presence](../../../rule/character/presence.md) score to each enemy within 2 squares of them. Additionally, a target [weakened](../../../condition/weakened.md) this way can't be targeted by their allies' abilities.
 
 ## Hand of the Gods {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/hand-of-the-gods"}
 
 
 *You use your foe as a tool against your enemies.*
 
-| **Ranged, Strike, Weapon** |               **Main action** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           |           **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage
 - **12-16:** 15 + M damage
@@ -47,28 +47,28 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 
-| **Melee, Strike, Weapon**  |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Melee 1**             | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 + M damage; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 13 + M damage; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
 - **17+:** 18 + M damage; I < STRONG, [dazed](../../../condition/dazed.md) (save ends)
 
-**Effect:** At the end of each of your turns, a target [dazed](../../../condition/dazed.md) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
+**Effect:** At the end of each of your turns, a target [dazed](../../../condition/dazed.md) this way deals holy damage equal to twice your [Presence](../../../rule/character/presence.md) score to each enemy within 2 squares of them.
 
 ## Your Allies Turn on You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you"}
 
 
 *You turn your enemies' ire to the target.*
 
-| **Ranged, Strike, Weapon** |               **Main action** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           |           **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage; I < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)

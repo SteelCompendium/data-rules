@@ -6,7 +6,6 @@ file_dpath: kit
 item_id: retiarius
 item_name: Retiarius
 melee_damage_bonus: +2/+2/+2
-melee_distance_bonus: "+1"
 name: Retiarius
 scc: mcdm.heroes.v1/kit/retiarius
 source: mcdm.heroes.v1
@@ -28,7 +27,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 **Melee Damage Bonus:** +2/+2/+2
 
-**Melee Distance Bonus:** +1
+**Melee [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +1
 
 **Disengage Bonus:** +1
 
@@ -38,11 +37,11 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 *The well-thrown net that follows your main attack leaves your foes right where you want them.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 2**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 4 + M or A damage; A < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
 - **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
@@ -51,12 +50,12 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 ```ds-feature
 distance: Melee 2
 effects:
-    - effect: "*The well-thrown net that follows your main attack leaves your foes right where you want them.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 4 + M or A damage; A < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)\n- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)\n- **17+:** 8 + M or A damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (EoT)"
+    - effect: "*The well-thrown net that follows your main attack leaves your foes right where you want them.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; A < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)\n- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)\n- **17+:** 8 + M or A damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (EoT)"
 feature_type: ability
 flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -64,7 +63,7 @@ metadata:
     flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Net and Stab
     subtype: signature

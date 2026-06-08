@@ -13,7 +13,7 @@ type: project
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Presence
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Presence](../rule/character/presence.md)
 
 **Project Goal:** Varies
 
@@ -23,7 +23,7 @@ The number of project points required to complete work on the road equals 10 x t
 
 When you complete the project, you earn Renown among people in the area where the road is built, depending on the length of the road.
 
-Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an edge on project rolls to discover lore while you are in those areas.
+Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an [edge](../rule/dice/edge.md) on project rolls to discover lore while you are in those areas.
 
 ###### Build or Repair Roads Events Table
 

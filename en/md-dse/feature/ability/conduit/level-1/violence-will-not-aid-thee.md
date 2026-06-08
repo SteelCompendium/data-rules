@@ -15,16 +15,12 @@ item_name: Violence Will Not Aid Thee
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Violence Will Not Aid Thee
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/violence-will-not-aid-thee
 source: mcdm.heroes.v1
 target: One creature
-tier1: 3 + I lightning damage
-tier2: 6 + I lightning damage
-tier3: 9 + I lightning damage
 type: ability
 ---
 
@@ -33,16 +29,12 @@ cost: 3 Piety
 distance: Ranged 10
 effects:
     - effect: The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
-    - roll: Power Roll + Intuition
-      tier1: 3 + I lightning damage
-      tier2: 6 + I lightning damage
-      tier3: 9 + I lightning damage
 feature_type: ability
 flavor: After some holy lightning, your enemy will think twice about their next attack.
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: conduit
@@ -53,15 +45,11 @@ metadata:
     keywords:
         - Magic
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Violence Will Not Aid Thee
-    power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/violence-will-not-aid-thee
     target: One creature
-    tier1: 3 + I lightning damage
-    tier2: 6 + I lightning damage
-    tier3: 9 + I lightning damage
     type: ability
 name: Violence Will Not Aid Thee
 target: One creature

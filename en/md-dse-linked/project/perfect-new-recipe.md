@@ -13,7 +13,7 @@ type: project
 
 **Project Source:** A recipe in a language you know, or someone who can tutor you in that recipe
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Reason](../rule/character/reason.md) or [Intuition](../rule/character/intuition.md)
 
 **Project Goal:** 100
 
@@ -25,7 +25,7 @@ A creature who eats a serving of food from a particular type of recipe gains one
 
 - **Comforting:** When the creature fails a saving throw, they can choose to succeed instead. This benefit then ends.
 - **Hearty:** The creature increases their [Recoveries](../rule/health/recoveries.md) by 1 at the end of the respite in which the food is consumed.
-- **Supernatural Power:** The creature temporarily increases one of their characteristic scores by 1 (to a maximum of 6).
+- **Supernatural Power:** The creature temporarily increases one of their [characteristic](../rule/character/characteristic.md) scores by 1 (to a maximum of 6).
 
 A creature can benefit from the food of only one recipe at a time, and can't benefit from more than one serving of a recipe at a time.
 

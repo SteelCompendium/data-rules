@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Select one damage immunity granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
+    - effect: Select one [damage immunity](../../../rule/damage/damage-immunity.md) granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
 feature_type: trait
 metadata:
     ancestry: dragon-knight

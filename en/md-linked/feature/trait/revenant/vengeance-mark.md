@@ -15,11 +15,11 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 *A magic sigil you placed on a creature explodes with energy.*
 
-| **Magic, Ranged, Strike** |                        **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |                        **Main action** |
 |---------------------------|---------------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 3 + R, I, or P damage; slide 1
 - **12-16:** 5 + R, I, or P damage; slide 2

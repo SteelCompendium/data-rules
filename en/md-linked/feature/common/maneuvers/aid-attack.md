@@ -4,4 +4,4 @@ scc: mcdm.heroes.v1/feature.common.maneuvers/aid-attack
 type: feature
 ---
 
-A creature who uses the [Aid Attack](aid-attack.md) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
+A creature who uses the [Aid Attack](aid-attack.md) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an [edge](../../../rule/dice/edge.md).

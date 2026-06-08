@@ -7,27 +7,23 @@ effect: You can become [bleeding](../../../../condition/bleeding.md) (save ends)
 flavor: They're so hurt by your performance, you start to believe it yourself.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Method Acting
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting
 target: One creature
-tier1: 6 + A damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
-tier2: 10 + A damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
-tier3: 14 + A damage; P < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 
 
 *They're so hurt by your performance, you start to believe it yourself.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 6 + A damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
 - **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)

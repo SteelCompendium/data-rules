@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.
+effect: You can move up to 3 squares straight toward the target before this [strike](../../../rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way.
 feature_type: ability
 file_basename: devastating-rush
 file_dpath: feature/ability/panther
@@ -10,7 +10,7 @@ item_id: devastating-rush
 item_name: Devastating Rush
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: panther
 name: Devastating Rush
@@ -24,21 +24,21 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.
+    - effect: You can move up to 3 squares straight toward the target before this [strike](../../../rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way.
 feature_type: ability
 flavor: The faster you move, the harder you hit.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     distance: Melee 1
-    effect: You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.
+    effect: You can move up to 3 squares straight toward the target before this [strike](../../../rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way.
     flavor: The faster you move, the harder you hit.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: panther
     name: Devastating Rush

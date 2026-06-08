@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an edge on tests made to intimidate or persuade others.
+    - effect: You exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an [edge](../../../rule/dice/edge.md) on tests made to intimidate or persuade others.
 feature_type: feature
 metadata:
     class: censor

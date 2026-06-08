@@ -5,4 +5,4 @@ scc: mcdm.heroes.v1/feature.trait.hakaan/big
 type: trait
 ---
 
-Your stature reflects your giant forebears. Your size is 1L.
+Your stature reflects your giant forebears. Your [size](../../../rule/character/size.md) is 1L.

@@ -15,13 +15,13 @@ Choose one of the following abilities.
 ### In a Puff of Ash {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash"}
 
 
-*You enchant a strike with your [teleport](../../../movement/teleport.md)ation magic.*
+*You enchant a [strike](../../../rule/combat/strike.md) with your [teleport](../../../movement/teleport.md)ation magic.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 + A damage; you can [teleport](../../../movement/teleport.md) the target 1 square
 - **12-16:** 10 + A damage; you can [teleport](../../../movement/teleport.md) the target up to 3 squares
@@ -55,7 +55,7 @@ Choose one of the following abilities.
 
 **Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A fire damage
 - **12-16:** 7 + A fire damage
@@ -70,7 +70,7 @@ Choose one of the following abilities.
 |-------------------------|---------------------------------:|
 | **📏 3 cube within 10** | **🎯 Each creature in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2 poison damage
 - **12-16:** 5 poison damage
@@ -91,13 +91,13 @@ Choose one of the following abilities.
 |-------------------------|---------------------------------:|
 | **📏 3 cube within 10** | **🎯 Each creature in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** Slide 4
 - **12-16:** Slide 5
 - **17+:** Slide 7
 
-**Effect:** This [forced movement](../../../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../../../movement/forced-movement.md) is reduced by a number equal to the target's Intuition score.
+**Effect:** This [forced movement](../../../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../rule/character/intuition.md) score.
 
 ### So Gullible {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible"}
 
@@ -108,6 +108,6 @@ Choose one of the following abilities.
 |----------------------|-------------------:|
 | **📏 Self**          |        **🎯 Self** |
 
-**Trigger:** Another creature targets you with a strike.
+**Trigger:** Another creature targets you with a [strike](../../../rule/combat/strike.md).
 
 **Effect:** You use your [Clever Trick](../../ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../common/main-actions/free-strike.md) against them. You can then spend a [Recovery](../../../rule/health/recoveries.md).

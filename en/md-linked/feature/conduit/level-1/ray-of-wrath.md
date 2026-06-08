@@ -13,11 +13,11 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 *You unleash a blast of holy light upon your foe.*
 
-| **Magic, Ranged, Strike**  |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 + I damage
 - **12-16:** 4 + I damage

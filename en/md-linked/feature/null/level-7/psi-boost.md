@@ -10,7 +10,7 @@ Whenever you use an ability that is a main action or a maneuver with the Psionic
 
 ## Dynamic Power {data-scc="mcdm.heroes.v1/feature.null.level-7/dynamic-power"}
 
-If the ability force moves a target, the [forced movement](../../../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
+If the ability force moves a target, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Expanded Power {data-scc="mcdm.heroes.v1/feature.null.level-7/expanded-power"}
 
@@ -18,20 +18,20 @@ If the ability targets an area, you increase the size of the area by 1. If the a
 
 ## Extended Power {data-scc="mcdm.heroes.v1/feature.null.level-7/extended-power"}
 
-If the ability is ranged, the distance gains a bonus equal to your Intuition score. If the ability is melee, the distance gains a +2 bonus.
+If the ability is ranged, the [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score. If the ability is melee, the [distance](../../../rule/combat/distance.md) gains a +2 bonus.
 
 ## Heightened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/heightened-power"}
 
-If the ability deals rolled damage, it deals extra damage equal to your Intuition score.
+If the ability deals rolled damage, it deals extra damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Magnified Power {data-scc="mcdm.heroes.v1/feature.null.level-7/magnified-power"}
 
-If the ability has a potency, you increase that potency by an amount equal to your Intuition score.
+If the ability has a potency, you increase that potency by an amount equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Shared Power {data-scc="mcdm.heroes.v1/feature.null.level-7/shared-power"}
 
-If the ability targets individual creatures or objects, you target one additional creature or object within distance.
+If the ability targets individual creatures or objects, you target one additional creature or object within [distance](../../../rule/combat/distance.md).
 
 ## Sharpened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/sharpened-power"}
 
-If the ability has any power roll, that roll gains an edge.
+If the ability has any power roll, that roll gains an [edge](../../../rule/dice/edge.md).

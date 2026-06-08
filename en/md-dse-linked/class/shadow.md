@@ -1,5 +1,5 @@
 ---
-average_potency: Agility − 1
+average_potency: '[Agility](../rule/character/agility.md) − 1'
 file_basename: shadow
 file_dpath: class
 item_id: shadow
@@ -9,9 +9,9 @@ scc: mcdm.heroes.v1/class/shadow
 skills:
     - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
 source: mcdm.heroes.v1
-strong_potency: Agility
+strong_potency: '[Agility](../rule/character/agility.md)'
 type: class
-weak_potency: Agility − 2
+weak_potency: '[Agility](../rule/character/agility.md) − 2'
 ---
 
 Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](shadow.md)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
@@ -22,18 +22,18 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ### Basics
 
-**Starting Characteristics:** You start with an Agility of 2, and you can choose one of the following arrays for your other characteristic scores:
+**Starting [Characteristics](../rule/character/characteristic.md):** You start with an [Agility](../rule/character/agility.md) of 2, and you can choose one of the following arrays for your other [characteristic](../rule/character/characteristic.md) scores:
 
 - 2, 2, −1, −1
 - 2, 1, 1, −1
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-**Weak Potency:** Agility − 2
+**Weak Potency:** [Agility](../rule/character/agility.md) − 2
 
-**Average Potency:** Agility − 1
+**Average Potency:** [Agility](../rule/character/agility.md) − 1
 
-**Strong Potency:** Agility
+**Strong Potency:** [Agility](../rule/character/agility.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 

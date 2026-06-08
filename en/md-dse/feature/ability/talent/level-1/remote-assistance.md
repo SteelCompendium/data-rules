@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: talent
 distance: Ranged 10
-effect: The next ability roll an ally makes against the target before the start of your next turn gains an edge.
+effect: The next ability roll an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
 feature_type: ability
 file_basename: remote-assistance
 file_dpath: feature/ability/talent/level-1
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: The next ability roll an ally makes against the target before the start of your next turn gains an edge.
+    - effect: The next ability roll an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
     - effect: '1 Clarity: You target one additional creature or object.'
       name: Spend
 feature_type: ability
@@ -36,7 +36,7 @@ metadata:
     action_type: Maneuver
     class: talent
     distance: Ranged 10
-    effect: The next ability roll an ally makes against the target before the start of your next turn gains an edge.
+    effect: The next ability roll an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
     flavor: An ally gains the benefit of your intellect.
     keywords:
         - Psionic

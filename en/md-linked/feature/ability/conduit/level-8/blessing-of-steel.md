@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 11 Piety
 distance: 5 aura
-effect: Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.
+effect: Until the end of the encounter, any ability roll made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5.
 flavor: A protective aura defends your allies from harm.
 keywords:
     - Area
@@ -22,4 +22,4 @@ type: ability
 |-------------------|--------------------------------------:|
 | **📏 5 aura**     | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.
+**Effect:** Until the end of the encounter, any ability roll made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5.

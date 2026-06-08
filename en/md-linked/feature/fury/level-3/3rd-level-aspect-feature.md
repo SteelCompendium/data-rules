@@ -18,9 +18,9 @@ Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, 
 
 ## Immovable Object {data-scc="mcdm.heroes.v1/feature.fury.level-3/immovable-object"}
 
-You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../../../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../../../condition/grabbed.md).
+You add your level to your effective [size](../../../rule/character/size.md) for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../../../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../../../condition/grabbed.md).
 
-Additionally, you have a bonus to stability equal to your Might score.
+Additionally, you have a bonus to stability equal to your [Might](../../../rule/character/might.md) score.
 
 ## Nature's Knight {data-scc="mcdm.heroes.v1/feature.fury.level-3/natures-knight"}
 
@@ -30,4 +30,4 @@ When you are in a negotiation with an animal or elemental, you treat your Renown
 
 ## See Through Their Tricks {data-scc="mcdm.heroes.v1/feature.fury.level-3/see-through-their-tricks"}
 
-You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!
+You have a double [edge](../../../rule/dice/edge.md) on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double [edge](../../../rule/dice/edge.md) on tests made to gamble!

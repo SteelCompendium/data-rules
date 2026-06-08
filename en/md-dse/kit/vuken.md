@@ -17,11 +17,11 @@ With this stormwight kit, you channel your [primordial ferocity](scc:mcdm.heroes
 
 *A wild assault forces your foe onto their back.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**
 
 - **≤11:** 4 + M damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
 - **12-16:** 7 + M damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
@@ -30,15 +30,12 @@ With this stormwight kit, you channel your [primordial ferocity](scc:mcdm.heroes
 ```ds-feature
 distance: Melee 1
 effects:
-    - roll: Power Roll + Might
-      tier1: 4 + M damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-      tier2: 7 + M damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-      tier3: 9 + M damage; A < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+    - effect: "*A wild assault forces your foe onto their back.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 4 + M damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **12-16:** 7 + M damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **17+:** 9 + M damage; A < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)"
 feature_type: ability
 flavor: A wild assault forces your foe onto their back.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -46,15 +43,11 @@ metadata:
     flavor: A wild assault forces your foe onto their back.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Unbalancing Attack
-    power_roll_characteristic: Might
     subtype: signature
     target: One creature or object
-    tier1: 4 + M damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-    tier2: 7 + M damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-    tier3: 9 + M damage; A < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
     type: ability
 name: Unbalancing Attack
 target: One creature or object

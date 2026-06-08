@@ -17,28 +17,28 @@ Choose one of the following abilities.
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, Strike, Weapon**  |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Melee 1**             | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 5 + M damage; P < WEAK, the target is banished (save ends)
 - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 
-**Effect:** This ability gains an edge against demons, [devils](../../../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) while banished, they are lost to the timescape.
+**Effect:** This ability gains an [edge](../../../rule/dice/edge.md) against demons, [devils](../../../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double [edge](../../../rule/dice/edge.md). While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) while banished, they are lost to the timescape.
 
 ### Terror Manifest {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest"}
 
 
 *"I know what you fear."*
 
-| **Magic, Ranged, Strike**  |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 7 + P psychic damage; P < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 
 **Trigger:** The target makes a power roll.
 
-**Effect:** The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
+**Effect:** The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](../../../rule/combat/distance.md), who obtains the opposite outcome on their next power roll.
 
 ### Fulfill Your Destiny {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/fulfill-your-destiny"}
 
@@ -74,7 +74,7 @@ Choose one of the following abilities.
 
 **Trigger:** You or another hero ends their turn.
 
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.
+**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../../rule/dice/edge.md) on power rolls.
 
 ## 9th-Level Paragon Abilities
 
@@ -85,17 +85,17 @@ Choose one of the following abilities.
 
 *You channel holy energy to seal an enemy's fate.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 13 + M holy damage
 - **12-16:** 19 + M holy damage
 - **17+:** 26 + M holy damage
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), the target has damage weakness 10.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), the target has [damage weakness](../../../rule/damage/damage-weakness.md) 10.
 
 ### Edict of Unyielding Resolve {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/edict-of-unyielding-resolve"}
 

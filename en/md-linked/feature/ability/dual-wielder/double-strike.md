@@ -5,7 +5,7 @@ effect: If you use this ability on your turn, you can use it against one target,
 flavor: Why strike once when you could do it twice?
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: dual-wielder
 name: Double Strike
@@ -17,11 +17,11 @@ type: ability
 
 *Why strike once when you could do it twice?*
 
-| **Melee, Strike, Weapon** |                 **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage

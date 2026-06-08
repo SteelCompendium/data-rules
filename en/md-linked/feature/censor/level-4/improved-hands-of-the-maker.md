@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.censor.level-4/improved-hands-of-the-maker
 type: feature
 ---
 
-When you use your [Hands of the Maker](../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is [size](../../../rule/character/size.md) 2 or smaller.

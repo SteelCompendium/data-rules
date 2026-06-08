@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
+    - effect: Your [Agility](../../../rule/character/agility.md) score increases to 5. Additionally, you can increase one of your [characteristic](../../../rule/character/characteristic.md) scores by 1, to a maximum of 5.
 feature_type: feature
 metadata:
     class: shadow

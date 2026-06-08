@@ -2,7 +2,7 @@
 action_type: Triggered
 class: elementalist
 distance: Ranged 10
-effect: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
+effect: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
 feature_type: ability
 file_basename: subtle-relocation
 file_dpath: feature/ability/elementalist/level-1
@@ -17,7 +17,7 @@ level: "1"
 name: Subtle Relocation
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/subtle-relocation
 source: mcdm.heroes.v1
-spend: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.'
+spend: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your [Reason](../../../../rule/character/reason.md) score instead.'
 subtype: triggered
 target: Self or one ally
 trigger: The target starts their turn, moves, or is [force moved](../../../../movement/forced-movement.md).
@@ -27,8 +27,8 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
-    - effect: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.'
+    - effect: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
+    - effect: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your [Reason](../../../../rule/character/reason.md) score instead.'
       name: Spend
 feature_type: ability
 flavor: You call on the void to swallow and spit out an ally.
@@ -40,7 +40,7 @@ metadata:
     action_type: Triggered
     class: elementalist
     distance: Ranged 10
-    effect: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
+    effect: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
     flavor: You call on the void to swallow and spit out an ally.
     keywords:
         - Magic
@@ -49,7 +49,7 @@ metadata:
     level: "1"
     name: Subtle Relocation
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/subtle-relocation
-    spend: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.'
+    spend: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your [Reason](../../../../rule/character/reason.md) score instead.'
     subtype: triggered
     target: Self or one ally
     trigger: The target starts their turn, moves, or is [force moved](../../../../movement/forced-movement.md).

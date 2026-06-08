@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Ranged 10**  |  **🎯 Special** |
 
-**Effect:** A [guest star](../../ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../../ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their [Stamina](../../../rule/health/stamina.md) maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../../ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../../../rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+**Effect:** A [guest star](../../ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within [distance](../../../rule/combat/distance.md) uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within [distance](../../../rule/combat/distance.md). This [guest star](../../ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your [characteristics](../../../rule/character/characteristic.md). Their [Stamina](../../../rule/health/stamina.md) maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../../ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../../../rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 ### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
 
@@ -43,22 +43,22 @@ Choose one of the following abilities.
 
 *Audiences love this bit.*
 
-| **Melee, Strike, Weapon** |                  **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                  **Main action** |
 |---------------------------|---------------------------------:|
 | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 
-**Effect:** Each target can [shift](../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to twice their highest characteristic score.
+**Effect:** Each target can [shift](../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to twice their highest [characteristic](../../../rule/character/characteristic.md) score.
 
 ### En Garde! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde"}
 
 
 *Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 + **A** damage
 - **12-16:** 11 + **A** damage
@@ -75,11 +75,11 @@ Choose one of the following abilities.
 
 *Again! Again!*
 
-| **Magic, Strike** | **Main action** |
+| **Magic, [Strike](../../../rule/combat/strike.md)** | **Main action** |
 |-------------------|----------------:|
 | **📏 Special**    |  **🎯 Special** |
 
-**Effect:** You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a [Heroic Resource](../../../rule/resource/heroic-resource.md), and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
+**Effect:** You use an ability that you have observed being used this combat round. The ability must have the [Strike](../../../rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../../../rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../../../rule/combat/strike.md), you use your [Presence](../../../rule/character/presence.md) score for any power rolls, and any damage you deal is sonic damage.
 
 ### Tough Crowd {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd"}
 
@@ -92,7 +92,7 @@ Choose one of the following abilities.
 
 **Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 corruption damage; M < WEAK, pull 1 toward the center of the area
 - **12-16:** 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area

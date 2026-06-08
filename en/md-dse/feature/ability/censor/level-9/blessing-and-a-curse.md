@@ -5,7 +5,7 @@ cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
 distance: Ranged 10
-effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
+effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next power roll.
 feature_type: ability
 file_basename: blessing-and-a-curse
 file_dpath: feature/ability/censor/level-9
@@ -29,7 +29,7 @@ type: ability
 cost: 11 Wrath
 distance: Ranged 10
 effects:
-    - effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
+    - effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next power roll.
 feature_type: ability
 flavor: The gods bless and damn in equal measure.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: censor
     cost: 11 Wrath
     distance: Ranged 10
-    effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
+    effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next power roll.
     flavor: The gods bless and damn in equal measure.
     keywords:
         - Magic

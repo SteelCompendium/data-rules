@@ -17,7 +17,7 @@ You have the following ability.
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
+**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../../../rule/combat/distance.md). The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
 
 The source starts an encounter at full [Stamina](../../../rule/health/stamina.md), but maintains their current [Stamina](../../../rule/health/stamina.md) throughout the encounter, even if they are dismissed and you use this ability again. They can't regain [Stamina](../../../rule/health/stamina.md) during the encounter. When the source's [Stamina](../../../rule/health/stamina.md) is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
 
@@ -31,9 +31,9 @@ The source starts an encounter at full [Stamina](../../../rule/health/stamina.md
 >
 >|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
 >|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
->|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>[Stamina](../../../rule/health/stamina.md) |  **5**<br>Stability   | **5**<br>[Free Strike](../../common/main-actions/free-strike.md) |
+>|    **2**<br>[Size](../../../rule/character/size.md)    |     **6**<br>Speed     | **45**<br>[Stamina](../../../rule/health/stamina.md) |  **5**<br>Stability   | **5**<br>[Free Strike](../../common/main-actions/free-strike.md) |
 >| **-**<br>Immunities | **[Burrow](../../../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
->|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
+>|   **+3**<br>[Might](../../../rule/character/might.md)   |   **+1**<br>[Agility](../../../rule/character/agility.md)    | **-5**<br>[Reason](../../../rule/character/reason.md)  |  **-5**<br>[Intuition](../../../rule/character/intuition.md)  |  **-3**<br>[Presence](../../../rule/character/presence.md)  |
 >
 >> **Earthwalk**
 >>
@@ -41,7 +41,7 @@ The source starts an encounter at full [Stamina](../../../rule/health/stamina.md
 >
 >> **Tunneler**
 >>
->> When the source burrows, they create a size 2 tunnel.
+>> When the source burrows, they create a [size](../../../rule/character/size.md) 2 tunnel.
 >
 >> **Earth Harness**
 >>
@@ -49,7 +49,7 @@ The source starts an encounter at full [Stamina](../../../rule/health/stamina.md
 >
 >> **Boulder Bash**
 >>
->> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
+>> | **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Signature** |
 >> |-----------------------------------|------------------------------:|
 >> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >>

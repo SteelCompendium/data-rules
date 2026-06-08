@@ -16,7 +16,7 @@
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "troubadour",
-    "content": "\n*\"I'd have brought treats had I known I'd be fighting a dog.\"*\n\n| **Melee**      |           **Triggered** |\n|----------------|------------------------:|\n| **📏 Melee 1** | **🎯 Self or one ally** |\n\n**Trigger:** The target takes damage from a melee strike.\n\n**Effect:** The target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the creature who made the triggering strike.",
+    "content": "\n*\"I'd have brought treats had I known I'd be fighting a dog.\"*\n\n| **Melee**      |           **Triggered** |\n|----------------|------------------------:|\n| **📏 Melee 1** | **🎯 Self or one ally** |\n\n**Trigger:** The target takes damage from a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike).\n\n**Effect:** The target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the creature who made the triggering strike.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "\"I'd have brought treats had I known I'd be fighting a dog.\"",
@@ -34,7 +34,7 @@
   },
   "name": "Riposte",
   "target": "Self or one ally",
-  "trigger": "The target takes damage from a melee strike.",
+  "trigger": "The target takes damage from a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike).",
   "type": "feature",
   "usage": "Triggered"
 }

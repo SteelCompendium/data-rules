@@ -1,9 +1,6 @@
 distance: 2 burst
 effects:
-    - roll: Power Roll + Presence
-      tier1: Push 1
-      tier2: Push 2
-      tier3: Push 3
+    - effect: ""
 feature_type: ability
 flavor: Your instrument rings true and your music blows everyone away.
 keywords:
@@ -12,7 +9,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: troubadour
-    content: "\n*Your instrument rings true and your music blows everyone away.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3"
+    content: "\n*Your instrument rings true and your music blows everyone away.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3"
     distance: 2 burst
     feature_type: ability
     flavor: Your instrument rings true and your music blows everyone away.

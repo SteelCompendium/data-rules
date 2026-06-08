@@ -5,7 +5,7 @@ cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
 distance: Ranged 10
-effect: The target's stability increases by an amount equal to your Reason score, and they gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). This stability increase lasts until the target no longer has [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability.
+effect: The target's stability increases by an amount equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and they gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). This stability increase lasts until the target no longer has [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability.
 feature_type: ability
 file_basename: iron
 file_dpath: feature/ability/talent/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Clarity
 distance: Ranged 10
 effects:
-    - effect: The target's stability increases by an amount equal to your Reason score, and they gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). This stability increase lasts until the target no longer has [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability.
+    - effect: The target's stability increases by an amount equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and they gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). This stability increase lasts until the target no longer has [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability.
 feature_type: ability
 flavor: The target's skin turns to hard, dark metal, impenetrable and dense.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 5 Clarity
     distance: Ranged 10
-    effect: The target's stability increases by an amount equal to your Reason score, and they gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). This stability increase lasts until the target no longer has [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability.
+    effect: The target's stability increases by an amount equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and they gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). This stability increase lasts until the target no longer has [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability.
     flavor: The target's skin turns to hard, dark metal, impenetrable and dense.
     keywords:
         - Metamorphosis

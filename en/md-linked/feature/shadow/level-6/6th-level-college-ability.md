@@ -17,11 +17,11 @@ Choose one of the following abilities.
 
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + A damage; vertical push 5
 - **12-16:** 6 + A damage; vertical push 10
@@ -38,7 +38,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 4 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can [teleport](../../../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in [concealment](../../../rule/combat/concealment.md) or [cover](../../../rule/combat/cover.md) can use the [Hide](../../common/maneuvers/hide.md) maneuver even if they are observed.
+**Effect:** Each target can [teleport](../../../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your [Agility](../../../rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../../../rule/combat/concealment.md) or [cover](../../../rule/combat/cover.md) can use the [Hide](../../common/maneuvers/hide.md) maneuver even if they are observed.
 
 ## 6th-Level Caustic Alchemy Abilities
 
@@ -70,7 +70,7 @@ A creature who drinks the potion can spend up to 2 [Recoveries](../../../rule/he
 
 A creature who drinks the potion receives benefits based on your power roll.
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
 - **12-16:** The creature can [fly](../../../movement/fly.md) until the end of the encounter.
@@ -89,7 +89,7 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 5 burst**  | **🎯 Each enemy in the area** |
 
-**Effect:** Until the start of your next turn, any ability roll made against a target gains an edge.
+**Effect:** Until the start of your next turn, any ability roll made against a target gains an [edge](../../../rule/dice/edge.md).
 
 ### Puppet Strings {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings"}
 
@@ -100,7 +100,7 @@ Choose one of the following abilities.
 |--------------------------------------|-------------------:|
 | **📏 Melee 1**                       | **🎯 Two enemies** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../common/main-actions/free-strike.md).
 - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.

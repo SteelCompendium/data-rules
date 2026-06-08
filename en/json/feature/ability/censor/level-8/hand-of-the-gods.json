@@ -3,12 +3,6 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Might",
-      "tier1": "10 + M damage",
-      "tier2": "15 + M damage",
-      "tier3": "21 + M damage"
-    },
-    {
       "effect": "Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](scc:mcdm.heroes.v1/rule.combat/flanking).",
       "name": "Effect"
     }
@@ -17,13 +11,13 @@
   "flavor": "You use your foe as a tool against your enemies.",
   "keywords": [
     "Ranged",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*You use your foe as a tool against your enemies.*\n\n| **Ranged, Strike, Weapon** |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           |           **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 10 + M damage\n- **12-16:** 15 + M damage\n- **17+:** 21 + M damage\n\n**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](scc:mcdm.heroes.v1/rule.combat/flanking).",
+    "content": "\n*You use your foe as a tool against your enemies.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           |           **🎯 One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 10 + M damage\n- **12-16:** 15 + M damage\n- **17+:** 21 + M damage\n\n**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](scc:mcdm.heroes.v1/rule.combat/flanking).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You use your foe as a tool against your enemies.",
@@ -31,7 +25,7 @@
     "item_name": "Hand of the Gods",
     "keywords": [
       "Ranged",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 8,

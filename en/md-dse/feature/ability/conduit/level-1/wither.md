@@ -11,33 +11,26 @@ item_name: Wither
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Wither
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/wither
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 3 + I corruption damage; P < WEAK, the target takes a bane on their next power roll
-tier2: 5 + I corruption damage; P < AVERAGE, the target takes a bane on their next power roll
-tier3: 8 + I corruption damage; P < STRONG, the target takes a bane on their next power roll
 type: ability
 ---
 
 ```ds-feature
 distance: Ranged 10
 effects:
-    - roll: Power Roll + Intuition
-      tier1: 3 + I corruption damage; P < WEAK, the target takes a bane on their next power roll
-      tier2: 5 + I corruption damage; P < AVERAGE, the target takes a bane on their next power roll
-      tier3: 8 + I corruption damage; P < STRONG, the target takes a bane on their next power roll
+    - effect: "\n*A bolt of holy energy saps the life from a foe.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next power roll\n- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next power roll\n- **17+:** 8 + I corruption damage; P < STRONG, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next power roll"
 feature_type: ability
 flavor: A bolt of holy energy saps the life from a foe.
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: conduit
@@ -46,16 +39,12 @@ metadata:
     keywords:
         - Magic
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Wither
-    power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/wither
     subtype: signature
     target: One creature or object
-    tier1: 3 + I corruption damage; P < WEAK, the target takes a bane on their next power roll
-    tier2: 5 + I corruption damage; P < AVERAGE, the target takes a bane on their next power roll
-    tier3: 8 + I corruption damage; P < STRONG, the target takes a bane on their next power roll
     type: ability
 name: Wither
 target: One creature or object

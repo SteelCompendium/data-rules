@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 aura
-effect: 'While this performance is active, each target who starts their turn in the area doesn''t take a bane on strikes against creatures with [concealment](../../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)).'
+effect: 'While this performance is active, each target who starts their turn in the area doesn''t take a [bane](../../../../rule/dice/bane.md) on [strikes](../../../../rule/combat/strike.md) against creatures with [concealment](../../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)).'
 feature_type: ability
 file_basename: fire-up-the-night
 file_dpath: feature/ability/troubadour/level-3
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: 5 aura
 effects:
-    - effect: 'While this performance is active, each target who starts their turn in the area doesn''t take a bane on strikes against creatures with [concealment](../../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)).'
+    - effect: 'While this performance is active, each target who starts their turn in the area doesn''t take a [bane](../../../../rule/dice/bane.md) on [strikes](../../../../rule/combat/strike.md) against creatures with [concealment](../../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)).'
 feature_type: ability
 flavor: Maybe you and I ♪ We can still bring the light!♪
 keywords:
@@ -35,7 +35,7 @@ metadata:
     action_type: No action
     class: troubadour
     distance: 5 aura
-    effect: 'While this performance is active, each target who starts their turn in the area doesn''t take a bane on strikes against creatures with [concealment](../../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)).'
+    effect: 'While this performance is active, each target who starts their turn in the area doesn''t take a [bane](../../../../rule/dice/bane.md) on [strikes](../../../../rule/combat/strike.md) against creatures with [concealment](../../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)).'
     flavor: Maybe you and I ♪ We can still bring the light!♪
     keywords:
         - Area

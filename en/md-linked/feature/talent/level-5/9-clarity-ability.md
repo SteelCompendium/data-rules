@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 |----------------------------------|------------------------:|
 | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their [strikes](../../../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../../rule/character/reason.md) score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
 **Strained:** The target gains 2 [surges](../../../rule/resource/surge.md). You are [weakened](../../../condition/weakened.md) and [slowed](../../../condition/slowed.md) (save ends).
 
@@ -32,7 +32,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 **Effect:** You [teleport](../../../movement/teleport.md) to a square on the opposite side of the area before making the power roll.
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 12 sonic damage
 - **12-16:** 18 sonic damage
@@ -45,11 +45,11 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
 
-| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
+| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -57,23 +57,23 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 **Effect:** While [slowed](../../../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
 
-**Strained:** While [slowed](../../../condition/slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../../../condition/slowed.md) this way.
+**Strained:** While [slowed](../../../condition/slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double [bane](../../../rule/dice/bane.md) on ability rolls made against the target while they are [slowed](../../../condition/slowed.md) this way.
 
 ## Soulbound {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/soulbound"}
 
 
 *You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
 
-| **Animapathy, Psionic, Ranged, Strike** |    **Main action** |
+| **Animapathy, Psionic, Ranged, [Strike](../../../rule/combat/strike.md)** |    **Main action** |
 |-----------------------------------------|-------------------:|
 | **📏 Ranged 10**                        | **🎯 Two enemies** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 8 damage; A < WEAK, the target is stitched to the other target (save ends)
 - **12-16:** 13 damage; A < AVERAGE, the target is stitched to the other target (save ends)
 - **17+:** 17 damage; A < STRONG, the target is stitched to the other target (save ends)
 
-**Effect:** If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a bane on power rolls while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+**Effect:** If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../rule/dice/bane.md) on power rolls while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
 
 **Strained:** You target yourself and three enemies instead.

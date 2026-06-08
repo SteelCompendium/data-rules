@@ -7,29 +7,25 @@ effect: Add your current [Stamina](../../../../rule/health/stamina.md) to your t
 flavor: No, no. You don't die until the sequel.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
 name: Renegotiated Contract
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/renegotiated-contract
 target: One creature
-tier1: You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.
-tier2: You and the target can end any effects on yourselves that are ended by a saving throw or that end at the end of your turns.
-tier3: You can choose any of the current effects on you and the target that are ended by a saving throw or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
 type: ability
 ---
 
 
 *No, no. You don't die until the sequel.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
 **Effect:** Add your current [Stamina](../../../../rule/health/stamina.md) to your target's current [Stamina](../../../../rule/health/stamina.md), then you have half that total [Stamina](../../../../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../../../../rule/health/stamina.md) this way than their [Stamina](../../../../rule/health/stamina.md) maximum, the difference in [Stamina](../../../../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../../../../rule/health/stamina.md) than your maximum this way. You then make a power roll.
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.
 - **12-16:** You and the target can end any effects on yourselves that are ended by a saving throw or that end at the end of your turns.

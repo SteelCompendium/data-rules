@@ -11,7 +11,7 @@ Additionally, when your [Stamina](../../../rule/health/stamina.md) reaches the n
 
 ## Purchased Revenant Traits
 
-You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your size is 1S. (*Quick Build:* Bloodless, plus Undead Influence if size 1S.)
+You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your [size](../../../rule/character/size.md) is 1S. (*Quick Build:* Bloodless, plus Undead Influence if [size](../../../rule/character/size.md) 1S.)
 
 ## Bloodless {data-scc="mcdm.heroes.v1/feature.trait.revenant/bloodless"}
 
@@ -27,7 +27,7 @@ You select a purchased trait that costs 2 ancestry points from your previous anc
 
 ## Undead Influence {data-scc="mcdm.heroes.v1/feature.trait.revenant/undead-influence"}
 
-Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.
+Your supernatural gifts allow you to influence other undead. You gain an [edge](../../../rule/dice/edge.md) on [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), and [Presence](../../../rule/character/presence.md) tests made to interact with undead creatures.
 
 ## Vengeance Mark {data-scc="mcdm.heroes.v1/feature.trait.revenant/vengeance-mark"}
 
@@ -41,11 +41,11 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 *A magic sigil you placed on a creature explodes with energy.*
 
-| **Magic, Ranged, Strike** |                        **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |                        **Main action** |
 |---------------------------|---------------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 3 + R, I, or P damage; slide 1
 - **12-16:** 5 + R, I, or P damage; slide 2

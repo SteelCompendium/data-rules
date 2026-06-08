@@ -14,17 +14,13 @@ item_name: Coup de Grace
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: Coup de Grace
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace
 source: mcdm.heroes.v1
 target: One creature
-tier1: 2d6 + 7 + A damage
-tier2: 2d6 + 11 + A damage
-tier3: 2d6 + 16 + A damage
 type: ability
 ---
 
@@ -32,16 +28,13 @@ type: ability
 cost: 5 Insight
 distance: Melee 1 or ranged 5
 effects:
-    - roll: Power Roll + Agility
-      tier1: 2d6 + 7 + A damage
-      tier2: 2d6 + 11 + A damage
-      tier3: 2d6 + 16 + A damage
+    - effect: "\n*Your blade might be the last thing they see.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2d6 + 7 + A damage\n- **12-16:** 2d6 + 11 + A damage\n- **17+:** 2d6 + 16 + A damage"
 feature_type: ability
 flavor: Your blade might be the last thing they see.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -52,16 +45,12 @@ metadata:
     keywords:
         - Melee
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: Coup de Grace
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace
     target: One creature
-    tier1: 2d6 + 7 + A damage
-    tier2: 2d6 + 11 + A damage
-    tier3: 2d6 + 16 + A damage
     type: ability
 name: Coup de Grace
 target: One creature

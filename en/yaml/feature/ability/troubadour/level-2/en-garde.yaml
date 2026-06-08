@@ -1,22 +1,18 @@
 cost: 5 Drama
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 7 + **A** damage
-      tier2: 11 + **A** damage
-      tier3: 16 + **A** damage
     - effect: The target can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you. If they do, you can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target.
       name: Effect
 feature_type: ability
 flavor: Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: troubadour
-    content: "\n*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 7 + **A** damage\n- **12-16:** 11 + **A** damage\n- **17+:** 16 + **A** damage\n\n**Effect:** The target can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you. If they do, you can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target."
+    content: "\n*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 7 + **A** damage\n- **12-16:** 11 + **A** damage\n- **17+:** 16 + **A** damage\n\n**Effect:** The target can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you. If they do, you can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target."
     distance: Melee 1
     feature_type: ability
     flavor: Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!
@@ -24,7 +20,7 @@ metadata:
     item_name: En Garde!
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 2
     scc:

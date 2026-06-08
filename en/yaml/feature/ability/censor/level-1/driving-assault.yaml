@@ -1,22 +1,18 @@
 cost: 3 Wrath
 distance: Melee 1
 effects:
-    - roll: Power Roll + Might
-      tier1: 3 + M damage; push 1
-      tier2: 6 + M damage; push 3
-      tier3: 9 + M damage; push 5
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed in a straight line toward the target after pushing them.
       name: Effect
 feature_type: ability
 flavor: As you force your enemy back with your weapon, you use your faith to stay close.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
-    content: "\n*As you force your enemy back with your weapon, you use your faith to stay close.*\n\n| **Melee, Strike, Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 + M damage; push 1\n- **12-16:** 6 + M damage; push 3\n- **17+:** 9 + M damage; push 5\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed in a straight line toward the target after pushing them."
+    content: "\n*As you force your enemy back with your weapon, you use your faith to stay close.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 3 + M damage; push 1\n- **12-16:** 6 + M damage; push 3\n- **17+:** 9 + M damage; push 5\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed in a straight line toward the target after pushing them."
     distance: Melee 1
     feature_type: ability
     flavor: As you force your enemy back with your weapon, you use your faith to stay close.
@@ -24,7 +20,7 @@ metadata:
     item_name: Driving Assault
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 1
     scc:

@@ -23,20 +23,20 @@ Choose one of the following abilities.
 
 **Effect:** Each target is marked by you, and must immediately make a [free strike](../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a [strike](../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
 ### Try Me Instead {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/try-me-instead"}
 
 
-*"Try picking on someone my size."*
+*"Try picking on someone my [size](../../../rule/character/size.md)."*
 
-| **Melee, Strike, Weapon** | **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** | **Main action** |
 |---------------------------|----------------:|
 | **📏 Self; see below**    |     **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../rule/health/recoveries.md), and you can make the following weapon strike with a distance of melee 1 against a creature.
+**Effect:** You [shift](../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../rule/health/recoveries.md), and you can make the following weapon [strike](../../../rule/combat/strike.md) with a [distance](../../../rule/combat/distance.md) of melee 1 against a creature.
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R damage; R < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -51,11 +51,11 @@ Choose one of the following abilities.
 
 *Your enemy will think twice about attacking your friend.*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 5 + R damage; [taunted](../../../condition/taunted.md) (EoT)
 - **12-16:** 9 + R damage; [taunted](../../../condition/taunted.md) (EoT)
@@ -74,7 +74,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target is marked by you, and you gain two [surges](../../../rule/resource/surge.md).
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a [strike](../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to add one additional target to the [strike](../../../rule/combat/strike.md).
 
 ## 2nd-Level Vanguard Ability
 
@@ -85,7 +85,7 @@ Choose one of the following abilities.
 
 *You prioritize saving an ally over your own safety.*
 
-| **Ranged, Strike, Weapon** |    **Triggered** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |    **Triggered** |
 |----------------------------|-----------------:|
 | **📏 Ranged 5**            | **🎯 One enemy** |
 
@@ -93,7 +93,7 @@ Choose one of the following abilities.
 
 **Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a power roll against the target.
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** R < WEAK, the target is [frightened](../../../condition/frightened.md) of the triggering ally (save ends)
 - **12-16:** R < AVERAGE, the target is [frightened](../../../condition/frightened.md) of the triggering ally (save ends)
@@ -108,4 +108,4 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 1 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 [surges](../../../rule/resource/surge.md).
+**Effect:** Until the start of your next turn, each target has a bonus to stability equal to your [Might](../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../rule/resource/surge.md).

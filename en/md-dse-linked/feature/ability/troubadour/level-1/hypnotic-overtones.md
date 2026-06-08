@@ -16,14 +16,10 @@ keywords:
     - Magic
 level: "1"
 name: Hypnotic Overtones
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones
 source: mcdm.heroes.v1
 spend: '2+ Drama: The size of the burst increases by 1 for every 2 drama spent.'
 target: Each enemy in the area
-tier1: Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -31,10 +27,6 @@ type: ability
 cost: 3 Drama
 distance: 2 burst
 effects:
-    - roll: Power Roll + Presence
-      tier1: Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-      tier2: Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-      tier3: Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
     - effect: '2+ Drama: The size of the burst increases by 1 for every 2 drama spent.'
       name: Spend
 feature_type: ability
@@ -53,13 +45,9 @@ metadata:
         - Magic
     level: "1"
     name: Hypnotic Overtones
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones
     spend: '2+ Drama: The size of the burst increases by 1 for every 2 drama spent.'
     target: Each enemy in the area
-    tier1: Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-    tier2: Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-    tier3: Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
     type: ability
 name: Hypnotic Overtones
 target: Each enemy in the area

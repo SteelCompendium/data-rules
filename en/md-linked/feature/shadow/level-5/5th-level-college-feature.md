@@ -20,7 +20,7 @@ Your [shadow college](../level-1/shadow-college.md) grants you a feature, as sho
 
 Whenever you reduce an adjacent non-minion creature to 0 [Stamina](../../../rule/health/stamina.md), you can immediately use a free maneuver to use your [I'm No Threat](../../ability/shadow/level-1/im-no-threat.md) ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using [I'm No Threat](../../ability/shadow/level-1/im-no-threat.md) without spending insight. If you do, while [I'm No Threat](../../ability/shadow/level-1/im-no-threat.md) is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same [size](../../../rule/character/size.md) as you, you can disguise yourself as them using [I'm No Threat](../../ability/shadow/level-1/im-no-threat.md) without spending insight. If you do, while [I'm No Threat](../../ability/shadow/level-1/im-no-threat.md) is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 ## Trail of Cinders {data-scc="mcdm.heroes.v1/feature.shadow.level-5/trail-of-cinders"}
 
@@ -30,6 +30,6 @@ Additionally, you can now bring an adjacent willing creature along with you when
 
 ## Volatile Reagents {data-scc="mcdm.heroes.v1/feature.shadow.level-5/volatile-reagents"}
 
-Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
+Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your [Agility](../../../rule/character/agility.md) score.
 
 Additionally, your [Defensive Roll](../../ability/shadow/level-1/defensive-roll.md) ability now allows you to [shift](../../../movement/shifting.md) up to 5 squares, including [shifting](../../../movement/shifting.md) vertically. If you don't end this [shift](../../../movement/shifting.md) on solid ground and are not [flying](../../../movement/fly.md), you fall.

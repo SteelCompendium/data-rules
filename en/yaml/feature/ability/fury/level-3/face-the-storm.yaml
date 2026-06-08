@@ -1,7 +1,7 @@
 cost: 7 Ferocity
 distance: Self
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee strike against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score and increases its potency by 1.
       name: Effect
 feature_type: ability
 flavor: Shocked in the face of your naked brutality, your enemy's instincts take over.
@@ -10,7 +10,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: fury
-    content: "\n*Shocked in the face of your naked brutality, your enemy's instincts take over.*\n\n| **Magic**   | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee strike against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1."
+    content: "\n*Shocked in the face of your naked brutality, your enemy's instincts take over.*\n\n| **Magic**   | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score and increases its potency by 1."
     distance: Self
     feature_type: ability
     flavor: Shocked in the face of your naked brutality, your enemy's instincts take over.

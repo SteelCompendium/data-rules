@@ -7,27 +7,23 @@ effect: While [slowed](../../../../condition/slowed.md) this way, the target tak
 flavor: You need just one blow to sabotage your target.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
 name: Debilitating Strike
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike
 target: One creature
-tier1: 10 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 14 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-tier3: 20 + M damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
 
 *You need just one blow to sabotage your target.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)

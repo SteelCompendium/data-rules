@@ -3,10 +3,7 @@
   "distance": "Melee 2",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "5 + A psychic damage; vertical pull 1",
-      "tier2": "8 + A psychic damage; vertical pull 2",
-      "tier3": "11 + A psychic damage; vertical pull 3"
+      "effect": ""
     }
   ],
   "feature_type": "ability",
@@ -14,14 +11,14 @@
   "keywords": [
     "Melee",
     "Psionic",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*The force of your blow extends past the limits of your body, pulling your enemy closer.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 2**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 5 + A psychic damage; vertical pull 1\n- **12-16:** 8 + A psychic damage; vertical pull 2\n- **17+:** 11 + A psychic damage; vertical pull 3",
+    "content": "\n*The force of your blow extends past the limits of your body, pulling your enemy closer.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 2**                     | **🎯 One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 5 + A psychic damage; vertical pull 1\n- **12-16:** 8 + A psychic damage; vertical pull 2\n- **17+:** 11 + A psychic damage; vertical pull 3",
     "distance": "Melee 2",
     "feature_type": "ability",
     "flavor": "The force of your blow extends past the limits of your body, pulling your enemy closer.",
@@ -30,7 +27,7 @@
     "keywords": [
       "Melee",
       "Psionic",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 1,

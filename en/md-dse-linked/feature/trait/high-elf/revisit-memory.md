@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
+    - effect: Accessing memories is as easy as living in the present for you. You gain an [edge](../../../rule/dice/edge.md) on tests made to recall lore.
 feature_type: trait
 metadata:
     ancestry: high-elf

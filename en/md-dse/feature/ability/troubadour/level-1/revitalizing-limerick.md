@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 aura
-effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: revitalizing-limerick
 file_dpath: feature/ability/troubadour/level-1
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: 5 aura
 effects:
-    - effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    - effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 flavor: There once was a man from Capital...
 keywords:
@@ -35,7 +35,7 @@ metadata:
     action_type: No action
     class: troubadour
     distance: 5 aura
-    effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: There once was a man from Capital...
     keywords:
         - Area

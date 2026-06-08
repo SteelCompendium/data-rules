@@ -1,6 +1,6 @@
 ---
 benefit: 'You have a leveled weapon of your choice (see Treasures in Chapter 13: [Rewards](../chapter/rewards.md)).'
-drawback: You have damage weakness 2.
+drawback: You have [damage weakness](../rule/damage/damage-weakness.md) 2.
 file_basename: cursed-weapon
 file_dpath: complication
 item_id: cursed-weapon
@@ -15,4 +15,4 @@ When you were young, you found or were given a magic weapon. Since then, you've 
 
 **Benefit:** You have a leveled weapon of your choice (see Treasures in Chapter 13: [Rewards](../chapter/rewards.md)).
 
-**Drawback:** You have damage weakness 2.
+**Drawback:** You have [damage weakness](../rule/damage/damage-weakness.md) 2.

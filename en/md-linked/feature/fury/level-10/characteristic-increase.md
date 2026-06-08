@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.fury.level-10/characteristic-increase
 type: feature
 ---
 
-Your Might and Agility scores each increase to 5.
+Your [Might](../../../rule/character/might.md) and [Agility](../../../rule/character/agility.md) scores each increase to 5.

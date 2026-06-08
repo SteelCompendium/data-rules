@@ -3,7 +3,7 @@
   "distance": "Self",
   "effects": [
     {
-      "effect": "You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.",
+      "effect": "You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your stability gains a bonus equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "null",
-    "content": "\n*You focus until your body becomes as hard as iron.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.",
+    "content": "\n*You focus until your body becomes as hard as iron.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your stability gains a bonus equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "You focus until your body becomes as hard as iron.",

@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.talent.level-4/characteristic-increase
 type: feature
 ---
 
-Your Reason and Presence scores each increase to 3.
+Your [Reason](../../../rule/character/reason.md) and [Presence](../../../rule/character/presence.md) scores each increase to 3.

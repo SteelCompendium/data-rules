@@ -1,10 +1,6 @@
 cost: 5 Wrath
 distance: Melee 1
 effects:
-    - roll: Power Roll + Presence
-      tier1: 5 + P damage; P < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-      tier2: 9 + P damage; P < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-      tier3: 12 + P damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
     - effect: While the target is [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, your abilities that impose [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can still move them.
       name: Effect
 feature_type: ability
@@ -12,12 +8,12 @@ flavor: The shock of your condemnation freezes your enemy in their boots.
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
-    content: "\n*The shock of your condemnation freezes your enemy in their boots.*\n\n| **Magic, Melee, Strike, Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                   |           **\U0001F3AF One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 + P damage; P < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 9 + P damage; P < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 12 + P damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** While the target is [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, your abilities that impose [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can still move them."
+    content: "\n*The shock of your condemnation freezes your enemy in their boots.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                   |           **\U0001F3AF One creature** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 5 + P damage; P < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 9 + P damage; P < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 12 + P damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** While the target is [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, your abilities that impose [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can still move them."
     distance: Melee 1
     feature_type: ability
     flavor: The shock of your condemnation freezes your enemy in their boots.
@@ -26,7 +22,7 @@ metadata:
     keywords:
         - Magic
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 2
     scc:

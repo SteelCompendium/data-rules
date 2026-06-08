@@ -3,13 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Might",
-      "tier1": "13 + M holy damage",
-      "tier2": "19 + M holy damage",
-      "tier3": "26 + M holy damage"
-    },
-    {
-      "effect": "Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the target has damage weakness 10.",
+      "effect": "Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 10.",
       "name": "Effect"
     }
   ],
@@ -17,13 +11,13 @@
   "flavor": "You channel holy energy to seal an enemy's fate.",
   "keywords": [
     "Melee",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*You channel holy energy to seal an enemy's fate.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 13 + M holy damage\n- **12-16:** 19 + M holy damage\n- **17+:** 26 + M holy damage\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the target has damage weakness 10.",
+    "content": "\n*You channel holy energy to seal an enemy's fate.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 13 + M holy damage\n- **12-16:** 19 + M holy damage\n- **17+:** 26 + M holy damage\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 10.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You channel holy energy to seal an enemy's fate.",
@@ -31,7 +25,7 @@
     "item_name": "Apostate",
     "keywords": [
       "Melee",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 9,

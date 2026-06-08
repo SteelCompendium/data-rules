@@ -3,7 +3,7 @@
   "distance": "4 aura",
   "effects": [
     {
-      "effect": "Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability for your allies.",
+      "effect": "Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability for your allies.",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*A whirlwind of souls of the dead flies around you at your command.*\n\n| **Area, Magic**  |                     **Maneuver** |\n|------------------|---------------------------------:|\n| **📏 4 aura**    | **🎯 Each creature in the area** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability for your allies.",
+    "content": "\n*A whirlwind of souls of the dead flies around you at your command.*\n\n| **Area, Magic**  |                     **Maneuver** |\n|------------------|---------------------------------:|\n| **📏 4 aura**    | **🎯 Each creature in the area** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score. This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability for your allies.",
     "distance": "4 aura",
     "feature_type": "ability",
     "flavor": "A whirlwind of souls of the dead flies around you at your command.",

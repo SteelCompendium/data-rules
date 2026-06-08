@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 |------------------|------------------------:|
 | **📏 Ranged 10** | **🎯 Self or one ally** |
 
-**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../condition/prone.md) can stand up. The target then gains 2 [surges](../../../rule/resource/surge.md), can [shift](../../../movement/shifting.md) up to their speed while ignoring [difficult terrain](../../../movement/difficult-terrain.md), and can use a strike signature ability as a free triggered action.
+**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../condition/prone.md) can stand up. The target then gains 2 [surges](../../../rule/resource/surge.md), can [shift](../../../movement/shifting.md) up to their speed while ignoring [difficult terrain](../../../movement/difficult-terrain.md), and can use a [strike](../../../rule/combat/strike.md) signature ability as a free triggered action.
 
 ## Orison of Victory {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory"}
 
@@ -28,7 +28,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 |----------------|--------------------------------------:|
 | **📏 1 burst** | **🎯 Self and each ally in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** Each target gains 1 [surge](../../../rule/resource/surge.md).
 - **12-16:** Each target gains 2 [surges](../../../rule/resource/surge.md).
@@ -41,11 +41,11 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 *You amplify the power of your [judgment](../../ability/censor/level-1/judgment.md).*
 
-| **Melee, Strike, Weapon**   |          **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**   |          **Main action** |
 |----------------------------|-------------------------:|
 | **📏 Melee 1**             |      **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage
 - **12-16:** 14 + M damage
@@ -58,11 +58,11 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
-| **Melee, Strike, Weapon** |          **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |          **Main action** |
 |---------------------------|-------------------------:|
 | **📏 Melee 1**            |      **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../rule/health/temporary-stamina.md)
 - **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../rule/health/temporary-stamina.md)

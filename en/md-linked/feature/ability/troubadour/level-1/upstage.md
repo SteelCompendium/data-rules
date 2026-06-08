@@ -7,7 +7,7 @@ effect: You [shift](../../../../movement/shifting.md) up to your speed. You make
 flavor: As you bob and weave through the crowd, you can't help but leave the audience wanting more.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Upstage
@@ -19,13 +19,13 @@ type: ability
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-| **Melee, Strike, Weapon** | **Maneuver** |
+| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** | **Maneuver** |
 |---------------------------|-------------:|
 | **📏 Self; see below**    |  **🎯 Self** |
 
 **Effect:** You [shift](../../../../movement/shifting.md) up to your speed. You make one power roll that targets each enemy you move adjacent to during this [shift](../../../../movement/shifting.md).
 
-**Power Roll + Agility or Presence:**
+**Power Roll + [Agility](../../../../rule/character/agility.md) or [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** [Taunted](../../../../condition/taunted.md) (EoT); A < WEAK[, prone](../../../../condition/prone.md)
 - **12-16:** [Taunted](../../../../condition/taunted.md) (EoT); A < AVERAGE[, prone](../../../../condition/prone.md)

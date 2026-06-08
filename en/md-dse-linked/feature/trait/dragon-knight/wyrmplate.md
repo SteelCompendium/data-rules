@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: 'Your hardened scales grant you damage immunity equal to your level to one of the following damage types: acid, cold, corruption, fire, lightning, or poison. You can change your damage immunity type when you finish a respite.'
+    - effect: 'Your hardened scales grant you [damage immunity](../../../rule/damage/damage-immunity.md) equal to your level to one of the following [damage types](../../../rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, or poison. You can change your [damage immunity](../../../rule/damage/damage-immunity.md) type when you finish a respite.'
 feature_type: trait
 metadata:
     ancestry: dragon-knight

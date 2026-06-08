@@ -10,7 +10,7 @@ item_id: double-strike
 item_name: Double Strike
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 kit: dual-wielder
 name: Double Strike
@@ -29,7 +29,7 @@ feature_type: ability
 flavor: Why strike once when you could do it twice?
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -38,7 +38,7 @@ metadata:
     flavor: Why strike once when you could do it twice?
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     kit: dual-wielder
     name: Double Strike

@@ -6,28 +6,24 @@ flavor: A bolt of holy energy saps the life from a foe.
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Wither
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/wither
 subtype: signature
 target: One creature or object
-tier1: 3 + I corruption damage; P < WEAK, the target takes a bane on their next power roll
-tier2: 5 + I corruption damage; P < AVERAGE, the target takes a bane on their next power roll
-tier3: 8 + I corruption damage; P < STRONG, the target takes a bane on their next power roll
 type: ability
 ---
 
 
 *A bolt of holy energy saps the life from a foe.*
 
-| **Magic, Ranged, Strike**  |               **Main action** |
+| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
 
-- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a bane on their next power roll
-- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a bane on their next power roll
-- **17+:** 8 + I corruption damage; P < STRONG, the target takes a bane on their next power roll
+- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a [bane](../../../../rule/dice/bane.md) on their next power roll
+- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../../../../rule/dice/bane.md) on their next power roll
+- **17+:** 8 + I corruption damage; P < STRONG, the target takes a [bane](../../../../rule/dice/bane.md) on their next power roll

@@ -15,17 +15,13 @@ item_name: Relentless Nemesis
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Relentless Nemesis
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 6 + A damage
-tier2: 8 + A damage
-tier3: 12 + A damage
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 3 Discipline
 distance: Melee 1
 effects:
     - effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free triggered action to [shift](../../../../movement/shifting.md) up to your speed. You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
-    - roll: Power Roll + Agility
-      tier1: 6 + A damage
-      tier2: 8 + A damage
-      tier3: 12 + A damage
 feature_type: ability
 flavor: You strike, and for the next few moments, your enemy can't escape you.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"
     name: Relentless Nemesis
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis
     target: One creature or object
-    tier1: 6 + A damage
-    tier2: 8 + A damage
-    tier3: 12 + A damage
     type: ability
 name: Relentless Nemesis
 target: One creature or object

@@ -1,7 +1,7 @@
 cost: 5 Wrath
 distance: Ranged 10
 effects:
-    - effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost by 3 (to a minimum cost of 0).
+    - effect: The target can use a free triggered action to use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability or a [strike](scc:mcdm.heroes.v1/rule.combat/strike) heroic ability, and has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost by 3 (to a minimum cost of 0).
       name: Effect
 feature_type: ability
 flavor: A word in prayer, and the gods show the way.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Main action
     class: censor
-    content: "\n*A word in prayer, and the gods show the way.*\n\n| **Magic, Ranged** |         **Main action** |\n|-------------------|------------------------:|\n| **\U0001F4CF Ranged 10**  | **\U0001F3AF Self or one ally** |\n\n**Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost by 3 (to a minimum cost of 0)."
+    content: "\n*A word in prayer, and the gods show the way.*\n\n| **Magic, Ranged** |         **Main action** |\n|-------------------|------------------------:|\n| **\U0001F4CF Ranged 10**  | **\U0001F3AF Self or one ally** |\n\n**Effect:** The target can use a free triggered action to use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability or a [strike](scc:mcdm.heroes.v1/rule.combat/strike) heroic ability, and has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost by 3 (to a minimum cost of 0)."
     distance: Ranged 10
     feature_type: ability
     flavor: A word in prayer, and the gods show the way.

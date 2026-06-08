@@ -1,7 +1,7 @@
 cost: 5 Discipline
 distance: Self
 effects:
-    - effect: You can use a signature or heroic ability. You gain an edge on that ability's power rolls.
+    - effect: You can use a signature or heroic ability. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on that ability's power rolls.
       name: Effect
 feature_type: ability
 flavor: You release stored time, allowing you to act twice.
@@ -10,7 +10,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: "null"
-    content: "\n*You release stored time, allowing you to act twice.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls."
+    content: "\n*You release stored time, allowing you to act twice.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You can use a signature or heroic ability. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on that ability's power rolls."
     distance: Self
     feature_type: ability
     flavor: You release stored time, allowing you to act twice.

@@ -5,7 +5,7 @@ cost: 7 Discipline
 cost_amount: "7"
 cost_resource: Discipline
 distance: Self
-effect: Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+effect: Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on ability rolls.
 feature_type: ability
 file_basename: absorption-field
 file_dpath: feature/ability/null/level-3
@@ -26,7 +26,7 @@ type: ability
 cost: 7 Discipline
 distance: Self
 effects:
-    - effect: Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+    - effect: Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on ability rolls.
 feature_type: ability
 flavor: Your [null field](../../../null/level-1/null-field.md) absorbs kinetic energy.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: "null"
     cost: 7 Discipline
     distance: Self
-    effect: Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+    effect: Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on ability rolls.
     flavor: Your [null field](../../../null/level-1/null-field.md) absorbs kinetic energy.
     keywords:
         - Psionic

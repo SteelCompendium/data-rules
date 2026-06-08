@@ -1,10 +1,6 @@
 cost: 7 Drama
 distance: 4 burst
 effects:
-    - roll: Power Roll + Presence
-      tier1: Slide 3; P < WEAK, this slide ignores the target's stability
-      tier2: Slide 5; P < AVERAGE, this slide ignores the target's stability
-      tier3: Slide 7; P < STRONG, this slide ignores the target's stability
     - effect: Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
       name: Effect
 feature_type: ability
@@ -15,7 +11,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: troubadour
-    content: "\n*No, this isn't right. That foe was over there!*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** Slide 3; P < WEAK, this slide ignores the target's stability\n- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's stability\n- **17+:** Slide 7; P < STRONG, this slide ignores the target's stability\n\n**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability."
+    content: "\n*No, this isn't right. That foe was over there!*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** Slide 3; P < WEAK, this slide ignores the target's stability\n- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's stability\n- **17+:** Slide 7; P < STRONG, this slide ignores the target's stability\n\n**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability."
     distance: 4 burst
     feature_type: ability
     flavor: No, this isn't right. That foe was over there!

@@ -30,11 +30,11 @@ Choose one of the following abilities.
 
 *You confuse your foes, causing them to turn on each other.*
 
-| **Melee, Ranged, Strike, Weapon** |      **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |      **Main action** |
 |-----------------------------------|---------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M damage; slide 1
 - **12-16:** 9 + M damage; slide 3
@@ -55,9 +55,9 @@ Choose one of the following abilities.
 |------------------|-----------------------:|
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](../../../rule/resource/surge.md).
+**Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have [damage immunity](../../../rule/damage/damage-immunity.md) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](../../../rule/resource/surge.md).
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a [strike](../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to make the [strike](../../../rule/combat/strike.md) ignore [damage immunity](../../../rule/damage/damage-immunity.md) and deal extra damage equal to three times your [Reason](../../../rule/character/reason.md) score.
 
 ### Hustle! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/hustle"}
 
@@ -87,7 +87,7 @@ Choose one of the following abilities.
 
 **Effect:** The target takes half the damage. You then make a power roll against the triggering creature.
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** A < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** A < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -98,14 +98,14 @@ Choose one of the following abilities.
 
 *You lead your allies in a charge.*
 
-| **Charge, Melee, Strike, Weapon** |     **Main action** |
+| **Charge, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1**                    | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
-- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
-- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can use a melee [strike](../../../rule/combat/strike.md) signature ability instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can use a melee [strike](../../../rule/combat/strike.md) signature ability that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can each use a melee [strike](../../../rule/combat/strike.md) signature ability that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
 
-**Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../condition/dazed.md) (save ends). If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) before one or both allies has made their strike, the ally or allies can pick a different target.
+**Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../condition/dazed.md) (save ends). If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) before one or both allies has made their [strike](../../../rule/combat/strike.md), the ally or allies can pick a different target.

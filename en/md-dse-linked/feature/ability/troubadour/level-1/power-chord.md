@@ -13,23 +13,16 @@ keywords:
     - Magic
 level: "1"
 name: Power Chord
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: Push 1
-tier2: Push 2
-tier3: Push 3
 type: ability
 ---
 
 ```ds-feature
 distance: 2 burst
 effects:
-    - roll: Power Roll + Presence
-      tier1: Push 1
-      tier2: Push 2
-      tier3: Push 3
+    - effect: "\n*Your instrument rings true and your music blows everyone away.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3"
 feature_type: ability
 flavor: Your instrument rings true and your music blows everyone away.
 keywords:
@@ -45,12 +38,8 @@ metadata:
         - Magic
     level: "1"
     name: Power Chord
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord
     target: Each enemy in the area
-    tier1: Push 1
-    tier2: Push 2
-    tier3: Push 3
     type: ability
 name: Power Chord
 target: Each enemy in the area

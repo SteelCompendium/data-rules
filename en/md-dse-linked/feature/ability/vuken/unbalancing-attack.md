@@ -9,33 +9,26 @@ item_id: unbalancing-attack
 item_name: Unbalancing Attack
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: vuken
 name: Unbalancing Attack
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)
-tier2: 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)
-tier3: 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - roll: Power Roll + Might
-      tier1: 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)
-      tier2: 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)
-      tier3: 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)
+    - effect: "*A wild assault forces your foe onto their back.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](../../../rule/character/might.md):**\n\n- **≤11:** 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)\n- **12-16:** 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)\n- **17+:** 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)"
 feature_type: ability
 flavor: A wild assault forces your foe onto their back.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -43,17 +36,13 @@ metadata:
     flavor: A wild assault forces your foe onto their back.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: vuken
     name: Unbalancing Attack
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack
     subtype: signature
     target: One creature or object
-    tier1: 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)
-    tier2: 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)
-    tier3: 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)
     type: ability
 name: Unbalancing Attack
 target: One creature or object

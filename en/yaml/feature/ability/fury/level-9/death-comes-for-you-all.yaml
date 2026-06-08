@@ -1,10 +1,6 @@
 cost: 11 Ferocity
 distance: 3 burst
 effects:
-    - roll: Power Roll + Might
-      tier1: 7 damage; push 3
-      tier2: 10 damage; push 5
-      tier3: 15 damage; push 7
     - effect: If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage.
       name: Effect
 feature_type: ability
@@ -17,7 +13,7 @@ keywords:
 metadata:
     action_type: Main action
     class: fury
-    content: "\n*You use your weapon to create a destructive shockwave.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 3 burst**                 | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 7 damage; push 3\n- **12-16:** 10 damage; push 5\n- **17+:** 15 damage; push 7\n\n**Effect:** If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage."
+    content: "\n*You use your weapon to create a destructive shockwave.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 3 burst**                 | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 7 damage; push 3\n- **12-16:** 10 damage; push 5\n- **17+:** 15 damage; push 7\n\n**Effect:** If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage."
     distance: 3 burst
     feature_type: ability
     flavor: You use your weapon to create a destructive shockwave.

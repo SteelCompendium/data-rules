@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Whenever you use your [Inertial Shield](../../ability/null/level-1/inertial-shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
+    - effect: Whenever you use your [Inertial Shield](../../ability/null/level-1/inertial-shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your [Intuition](../../../rule/character/intuition.md) score against the triggering damage.
 feature_type: feature
 metadata:
     class: "null"

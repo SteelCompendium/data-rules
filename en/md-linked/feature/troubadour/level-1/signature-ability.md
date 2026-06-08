@@ -13,11 +13,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *And they said practicing fencing was a waste!*
 
-| **Melee, Strike, Weapon** |                 **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage
@@ -32,11 +32,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *There you are, radiating your usual charisma.*
 
-| **Magic, Ranged, Strike, Weapon** |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Ranged 10**                  | **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../condition/bleeding.md) (save ends)
 - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../condition/bleeding.md) (save ends)
@@ -47,11 +47,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *I didn't do it! What?*
 
-| **Melee, Strike, Weapon**             | **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**             | **Main action** |
 |---------------------------------------|----------------:|
 | **📏 Melee 1**                        | **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 3 + P damage
 - **12-16:** 6 + P damage
@@ -64,11 +64,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Magic, Melee, Ranged, Strike** |     **Main action** |
+| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 4 + P psychic damage
 - **12-16:** 5 + P psychic damage
@@ -91,11 +91,11 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, Strike** |               **Main action** |
+| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 7 + P sonic damage
 - **12-16:** 10 + P sonic damage
@@ -112,7 +112,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 |-----------------|------------------------------:|
 | **📏 2 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** Slide 1; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** Slide 1; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -129,7 +129,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 |-----------------------------|------------------------------:|
 | **📏 3 cube within 10**     | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 4 damage; P < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -142,13 +142,13 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-| **Melee, Strike, Weapon** | **Maneuver** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** | **Maneuver** |
 |---------------------------|-------------:|
 | **📏 Self; see below**    |  **🎯 Self** |
 
 **Effect:** You [shift](../../../movement/shifting.md) up to your speed. You make one power roll that targets each enemy you move adjacent to during this [shift](../../../movement/shifting.md).
 
-**Power Roll + Agility or Presence:**
+**Power Roll + [Agility](../../../rule/character/agility.md) or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** [Taunted](../../../condition/taunted.md) (EoT); A < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** [Taunted](../../../condition/taunted.md) (EoT); A < AVERAGE[, prone](../../../condition/prone.md)
@@ -167,11 +167,11 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 |-----------------|--------------------------------------:|
 | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** The target can [shift](../../../movement/shifting.md) 1 square and make a [free strike](../../common/main-actions/free-strike.md).
-- **12-16:** The target can [shift](../../../movement/shifting.md) up to 2 squares and make a [free strike](../../common/main-actions/free-strike.md) that gains an edge.
-- **17+:** The target can [shift](../../../movement/shifting.md) up to 3 squares and make a [free strike](../../common/main-actions/free-strike.md) that gains an edge, then can spend a [Recovery](../../../rule/health/recoveries.md).
+- **12-16:** The target can [shift](../../../movement/shifting.md) up to 2 squares and make a [free strike](../../common/main-actions/free-strike.md) that gains an [edge](../../../rule/dice/edge.md).
+- **17+:** The target can [shift](../../../movement/shifting.md) up to 3 squares and make a [free strike](../../common/main-actions/free-strike.md) that gains an [edge](../../../rule/dice/edge.md), then can spend a [Recovery](../../../rule/health/recoveries.md).
 
 ### Fake Your Death {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death"}
 
@@ -200,11 +200,11 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 *They're so hurt by your performance, you start to believe it yourself.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 + A damage; P < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)

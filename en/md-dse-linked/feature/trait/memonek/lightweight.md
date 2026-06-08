@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your size as one size smaller than it is.
+    - effect: Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your [size](../../../rule/character/size.md) as one [size](../../../rule/character/size.md) smaller than it is.
 feature_type: trait
 metadata:
     ancestry: memonek

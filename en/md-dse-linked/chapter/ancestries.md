@@ -46,7 +46,7 @@ This chapter details twelve ancestries for the game:
 >
 > The rules for using ancestries refer to lots of other parts of the game. You can find information on specific topics as follows:
 >
-> Edges and banes, [Recoveries](../rule/health/recoveries.md), respites: Chapter 1: [The Basics](the-basics.md)
+> [Edges](../rule/dice/edge.md) and [banes](../rule/dice/bane.md), [Recoveries](../rule/health/recoveries.md), respites: Chapter 1: [The Basics](the-basics.md)
 >
 > Languages: Chapter 4: [Background](background.md)
 >
@@ -56,7 +56,7 @@ This chapter details twelve ancestries for the game:
 >
 > Crafting projects: Chapter 12: [Downtime Projects](downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and [Stamina](../rule/health/stamina.md), [dying](../rule/health/dying.md) and death, [flanking](../rule/combat/flanking.md), movement and [forced movement](../movement/forced-movement.md), [winded](../rule/health/winded.md): Chapter 10: [Combat](combat.md)
+> Main actions and maneuvers, creature [size](../rule/character/size.md), damage and [Stamina](../rule/health/stamina.md), [dying](../rule/health/dying.md) and death, [flanking](../rule/combat/flanking.md), movement and [forced movement](../movement/forced-movement.md), [winded](../rule/health/winded.md): Chapter 10: [Combat](combat.md)
 
 ### On the Origin of Species
 

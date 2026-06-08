@@ -5,7 +5,7 @@ cost: 1 Insight
 cost_amount: "1"
 cost_resource: Insight
 distance: Self
-effect: Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
+effect: Choose an enemy within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the triggering strike, including the enemy who targeted you. The [strike](scc:mcdm.heroes.v1/rule.combat/strike) targets that enemy instead.
 feature_type: ability
 file_basename: clever-trick
 file_dpath: feature/ability/shadow/level-1
@@ -20,7 +20,7 @@ scc: mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick
 source: mcdm.heroes.v1
 subtype: triggered
 target: Self
-trigger: An enemy targets you with a strike.
+trigger: An enemy targets you with a [strike](scc:mcdm.heroes.v1/rule.combat/strike).
 type: ability
 ---
 
@@ -28,7 +28,7 @@ type: ability
 cost: 1 Insight
 distance: Self
 effects:
-    - effect: Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
+    - effect: Choose an enemy within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the triggering strike, including the enemy who targeted you. The [strike](scc:mcdm.heroes.v1/rule.combat/strike) targets that enemy instead.
 feature_type: ability
 flavor: You sow a moment of confusion in combat, to your enemy's peril.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: shadow
     cost: 1 Insight
     distance: Self
-    effect: Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
+    effect: Choose an enemy within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the triggering strike, including the enemy who targeted you. The [strike](scc:mcdm.heroes.v1/rule.combat/strike) targets that enemy instead.
     flavor: You sow a moment of confusion in combat, to your enemy's peril.
     keywords:
         - Magic
@@ -47,11 +47,11 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick
     subtype: triggered
     target: Self
-    trigger: An enemy targets you with a strike.
+    trigger: An enemy targets you with a [strike](scc:mcdm.heroes.v1/rule.combat/strike).
     type: ability
 name: Clever Trick
 target: Self
-trigger: An enemy targets you with a strike.
+trigger: An enemy targets you with a [strike](scc:mcdm.heroes.v1/rule.combat/strike).
 type: feature
 usage: Triggered
 ```

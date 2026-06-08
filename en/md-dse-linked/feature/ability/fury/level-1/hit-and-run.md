@@ -11,18 +11,14 @@ item_id: hit-and-run
 item_name: Hit and Run
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Hit and Run
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 2 + M damage
-tier2: 5 + M damage
-tier3: 7 + M damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
@@ -30,15 +26,11 @@ type: ability
 distance: Melee 1
 effects:
     - effect: You can [shift](../../../../movement/shifting.md) 1 square.
-    - roll: Power Roll + Might
-      tier1: 2 + M damage
-      tier2: 5 + M damage
-      tier3: 7 + M damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 feature_type: ability
 flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -48,17 +40,13 @@ metadata:
     flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"
     name: Hit and Run
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run
     subtype: signature
     target: One creature or object
-    tier1: 2 + M damage
-    tier2: 5 + M damage
-    tier3: 7 + M damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
     type: ability
 name: Hit and Run
 target: One creature or object

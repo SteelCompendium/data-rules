@@ -17,45 +17,45 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
 
-| **Magic, Ranged, Strike** |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage
 - **12-16:** 5 + I holy damage
 - **17+:** 8 + I holy damage
 
-**Effect:** One ally within distance gains a number of [surges](../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
+**Effect:** One ally within [distance](../../../rule/combat/distance.md) gains a number of [surges](../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
 
 ### Drain {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/drain"}
 
 
 *You drain the energy from your target to revitalize yourself or an ally.*
 
-| **Magic, Melee, Strike** |     **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |--------------------------|--------------------:|
 | **📏 Melee 1**           | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 + I corruption damage
 - **12-16:** 5 + I corruption damage
 - **17+:** 7 + I corruption damage
 
-**Effect:** You or one ally within distance can spend a [Recovery](../../../rule/health/recoveries.md).
+**Effect:** You or one ally within [distance](../../../rule/combat/distance.md) can spend a [Recovery](../../../rule/health/recoveries.md).
 
 ### Holy Lash {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash"}
 
 
 *A tendril of divine energy shoots forth to draw in your foe.*
 
-| **Magic, Ranged, Strike**  |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage; vertical pull 2
 - **12-16:** 5 + I holy damage; vertical pull 3
@@ -70,7 +70,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------|------------------------------:|
 | **📏 2 burst**   | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 holy damage
 - **12-16:** 3 holy damage
@@ -83,28 +83,28 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *Divine magic tears at your foe and defends a nearby friend.*
 
-| **Magic, Ranged, Strike**  |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 + I corruption damage
 - **12-16:** 4 + I corruption damage
 - **17+:** 6 + I corruption damage
 
-**Effect:** Choose yourself or one ally within distance. That character can impose a bane on one power roll made against them before the end of their next turn.
+**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can impose a [bane](../../../rule/dice/bane.md) on one power roll made against them before the end of their next turn.
 
 ### Staggering Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse"}
 
 
 *A blast of judgment disorients your foe.*
 
-| **Magic, Melee, Strike**  |               **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage; slide 1
 - **12-16:** 5 + I holy damage; slide 2
@@ -115,32 +115,32 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
 
-| **Magic, Ranged, Strike**  |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage
 - **12-16:** 6 + I holy damage
 - **17+:** 9 + I holy damage
 
-**Effect:** You or one ally within distance gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your Intuition score.
+**Effect:** You or one ally within [distance](../../../rule/combat/distance.md) gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Wither {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/wither"}
 
 
 *A bolt of holy energy saps the life from a foe.*
 
-| **Magic, Ranged, Strike**  |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a bane on their next power roll
-- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a bane on their next power roll
-- **17+:** 8 + I corruption damage; P < STRONG, the target takes a bane on their next power roll
+- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a [bane](../../../rule/dice/bane.md) on their next power roll
+- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../../../rule/dice/bane.md) on their next power roll
+- **17+:** 8 + I corruption damage; P < STRONG, the target takes a [bane](../../../rule/dice/bane.md) on their next power roll
 
 ## Heroic Abilities
 
@@ -159,13 +159,13 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 |-------------------------|------------------------------:|
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 sonic damage; push 1
 - **12-16:** 3 sonic damage; push 2
 - **17+:** 5 sonic damage; push 3
 
-**Effect:** You can push each willing ally in the area the same distance, ignoring stability.
+**Effect:** You can push each willing ally in the area the same [distance](../../../rule/combat/distance.md), ignoring stability.
 
 ### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
 
@@ -176,18 +176,18 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 |--------------------|----------------:|
 | **📏 Ranged 10**   |  **🎯 Special** |
 
-**Effect:** You summon a spirit of size 2 who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your Intuition score.
+**Effect:** You summon a spirit of [size](../../../rule/character/size.md) 2 who can't be harmed, and who appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Judgment's Hammer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer"}
 
 
 *Your divine [fury](../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*
 
-| **Magic, Ranged, Strike**  |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage; A < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../../../condition/prone.md)
@@ -198,11 +198,11 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 *After some holy lightning, your enemy will think twice about their next attack.*
 
-| **Magic, Ranged, Strike**  |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I lightning damage
 - **12-16:** 6 + I lightning damage
@@ -219,26 +219,26 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 
 *Cursed by you, your enemy takes more damage from your allies.*
 
-| **Magic, Ranged, Strike**  |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 3 + I corruption damage; M < WEAK, damage weakness 5 (save ends)
-- **12-16:** 6 + I corruption damage; M < AVERAGE, damage weakness 5 (save ends)
-- **17+:** 9 + I corruption damage; M < STRONG, damage weakness 5 (save ends)
+- **≤11:** 3 + I corruption damage; M < WEAK, [damage weakness](../../../rule/damage/damage-weakness.md) 5 (save ends)
+- **12-16:** 6 + I corruption damage; M < AVERAGE, [damage weakness](../../../rule/damage/damage-weakness.md) 5 (save ends)
+- **17+:** 9 + I corruption damage; M < STRONG, [damage weakness](../../../rule/damage/damage-weakness.md) 5 (save ends)
 
 ### Curse of Terror {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/curse-of-terror"}
 
 
 *Fear of divine judgment overwhelms your foe.*
 
-| **Magic, Ranged, Strike**  |                      **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |                      **Main action** |
 |----------------------------|-------------------------------------:|
 | **📏 Ranged 10**           |                  **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -255,7 +255,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 
 **Effect:** You can target yourself instead of one ally with this ability.
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** The target gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - **12-16:** The target gains 10 [temporary Stamina](../../../rule/health/temporary-stamina.md).

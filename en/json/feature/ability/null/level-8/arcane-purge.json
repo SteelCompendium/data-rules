@@ -3,13 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "13 + A damage; M \u003c WEAK, the target is suppressed (save ends)",
-      "tier2": "19 + A damage; M \u003c AVERAGE, the target is suppressed (save ends)",
-      "tier3": "24 + A damage; M \u003c STRONG, the target is suppressed (save ends)"
-    },
-    {
-      "effect": "While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.",
+      "effect": "While suppressed, a target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.",
       "name": "Effect"
     }
   ],
@@ -18,13 +12,13 @@
   "keywords": [
     "Melee",
     "Psionic",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You focus your [null field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) into a pressure point strike that prevents your foe from channeling sorcery.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 13 + A damage; M \u003c WEAK, the target is suppressed (save ends)\n- **12-16:** 19 + A damage; M \u003c AVERAGE, the target is suppressed (save ends)\n- **17+:** 24 + A damage; M \u003c STRONG, the target is suppressed (save ends)\n\n**Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.",
+    "content": "\n*You focus your [null field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) into a pressure point strike that prevents your foe from channeling sorcery.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **📏 Melee 1**                     | **🎯 One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 13 + A damage; M \u003c WEAK, the target is suppressed (save ends)\n- **12-16:** 19 + A damage; M \u003c AVERAGE, the target is suppressed (save ends)\n- **17+:** 24 + A damage; M \u003c STRONG, the target is suppressed (save ends)\n\n**Effect:** While suppressed, a target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You focus your [null field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) into a pressure point strike that prevents your foe from channeling sorcery.",
@@ -33,7 +27,7 @@
     "keywords": [
       "Melee",
       "Psionic",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 8,

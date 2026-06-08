@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a [bane](../../../rule/dice/bane.md) on ability rolls.
 
 ## Molecular Rearrangement Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/molecular-rearrangement-field"}
 
@@ -28,7 +28,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Stabilizing Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/stabilizing-field"}
 
@@ -50,4 +50,4 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your [Intuition](../../../rule/character/intuition.md) score.

@@ -16,13 +16,9 @@ keywords:
     - Magic
 level: "1"
 name: Dramatic Reversal
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-tier1: The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../../common/main-actions/free-strike.md).
-tier2: The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge.
-tier3: The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge, then can spend a [Recovery](../../../../rule/health/recoveries.md).
 type: ability
 ---
 
@@ -30,10 +26,7 @@ type: ability
 cost: 5 Drama
 distance: 3 burst
 effects:
-    - roll: Power Roll + Presence
-      tier1: The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../../common/main-actions/free-strike.md).
-      tier2: The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge.
-      tier3: The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge, then can spend a [Recovery](../../../../rule/health/recoveries.md).
+    - effect: "\n*Give the audience a surprise.*\n\n| **Area, Magic** |                       **Main action** |\n|-----------------|--------------------------------------:|\n| **\U0001F4CF 3 burst**  | **\U0001F3AF Self and each ally in the area** |\n\n**Power Roll + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../../common/main-actions/free-strike.md).\n- **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md).\n- **17+:** The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md), then can spend a [Recovery](../../../../rule/health/recoveries.md)."
 feature_type: ability
 flavor: Give the audience a surprise.
 keywords:
@@ -50,12 +43,8 @@ metadata:
         - Magic
     level: "1"
     name: Dramatic Reversal
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal
     target: Self and each ally in the area
-    tier1: The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../../common/main-actions/free-strike.md).
-    tier2: The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge.
-    tier3: The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge, then can spend a [Recovery](../../../../rule/health/recoveries.md).
     type: ability
 name: Dramatic Reversal
 target: Self and each ally in the area

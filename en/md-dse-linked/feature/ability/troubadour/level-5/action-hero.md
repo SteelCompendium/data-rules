@@ -18,13 +18,9 @@ keywords:
     - Weapon
 level: "5"
 name: Action Hero
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/action-hero
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 10 damage
-tier2: 14 damage
-tier3: 20 damage
 type: ability
 ---
 
@@ -33,10 +29,6 @@ cost: 9 Drama
 distance: 3 burst
 effects:
     - effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md).
-    - roll: Power Roll + Agility
-      tier1: 10 damage
-      tier2: 14 damage
-      tier3: 20 damage
 feature_type: ability
 flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
 keywords:
@@ -56,12 +48,8 @@ metadata:
         - Weapon
     level: "5"
     name: Action Hero
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/action-hero
     target: Each enemy in the area
-    tier1: 10 damage
-    tier2: 14 damage
-    tier3: 20 damage
     type: ability
 name: Action Hero
 target: Each enemy in the area

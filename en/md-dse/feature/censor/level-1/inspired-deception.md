@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Presence on the test instead of another characteristic.
+    - effect: The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use [Presence](scc:mcdm.heroes.v1/rule.character/presence) on the test instead of another [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic).
 feature_type: feature
 metadata:
     class: censor

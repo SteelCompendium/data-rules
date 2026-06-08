@@ -7,27 +7,23 @@ flavor: Your precise strike leaves your foe struggling to respond.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Concussive Strike
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike
 target: One creature or object
-tier1: 3 + M damage; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: 8 + M damage; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
 
 *Your precise strike leaves your foe struggling to respond.*
 
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

@@ -30,4 +30,4 @@ You start off with the [Choreography](../../ability/troubadour/level-1/choreogra
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score. Each chosen target can spend a [Recovery](../../../rule/health/recoveries.md).
+**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../rule/health/recoveries.md).

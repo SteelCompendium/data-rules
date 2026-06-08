@@ -7,28 +7,24 @@ flavor: Your attack gives an ally hope.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Inspiring Strike
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/inspiring-strike
 target: One creature or object
-tier1: 3 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)
-tier2: 5 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)
-tier3: 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md), and each of you gains an edge on the next ability roll you make during the encounter
 type: ability
 ---
 
 
 *Your attack gives an ally hope.*
 
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)
 - **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)
-- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md), and each of you gains an edge on the next ability roll you make during the encounter
+- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md), and each of you gains an [edge](../../../../rule/dice/edge.md) on the next ability roll you make during the encounter

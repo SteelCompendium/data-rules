@@ -23,7 +23,7 @@ Choose one of the following abilities.
 
 **Effect:** You [shift](../../../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../../../movement/shifting.md).
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../movement/teleport.md) up to 3 squares.
 - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../movement/teleport.md) up to 5 squares.
@@ -34,11 +34,11 @@ Choose one of the following abilities.
 
 *You create a temporary portal to allow a massive demonic hand to reach through.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
 | **📏 Melee 3**                   | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 13 + A corruption damage; push 3
 - **12-16:** 18 + A corruption damage; push 5
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 
 **Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 damage
 - **12-16:** 10 damage
@@ -72,11 +72,11 @@ Choose one of the following abilities.
 
 *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 
-| **Melee, Ranged, Strike**   |               **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md)**   |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A fire damage; vertical push 8
 - **12-16:** 7 + A fire damage; vertical push 10
@@ -104,14 +104,14 @@ Choose one of the following abilities.
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 15 + A damage
 - **12-16:** 21 + A damage
 - **17+:** 28 + A damage
 
-**Effect:** If you are disguised as a creature the target knew using your [I'm No Threat](../../ability/shadow/level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your Agility score.
+**Effect:** If you are disguised as a creature the target knew using your [I'm No Threat](../../ability/shadow/level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your [Agility](../../../rule/character/agility.md) score.

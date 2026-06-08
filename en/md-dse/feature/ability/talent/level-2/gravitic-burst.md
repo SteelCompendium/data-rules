@@ -17,13 +17,9 @@ keywords:
     - Telekinesis
 level: "2"
 name: Gravitic Burst
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 3 damage; vertical push 2
-tier2: 6 damage; vertical push 4
-tier3: 9 damage; vertical push 6
 type: ability
 ---
 
@@ -31,10 +27,7 @@ type: ability
 cost: 5 Clarity
 distance: 1 burst
 effects:
-    - roll: Power Roll + Reason
-      tier1: 3 damage; vertical push 2
-      tier2: 6 damage; vertical push 4
-      tier3: 9 damage; vertical push 6
+    - effect: "\n*Everyone get away from me!*\n\n| **Area, Psionic, Telekinesis** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 1 burst**                 | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 damage; vertical push 2\n- **12-16:** 6 damage; vertical push 4\n- **17+:** 9 damage; vertical push 6\n\n**Strained:** The size of the burst increases by 1, and you are [weakened](scc:mcdm.heroes.v1/condition/weakened) until the end of your turn."
 feature_type: ability
 flavor: Everyone get away from me!
 keywords:
@@ -53,12 +46,8 @@ metadata:
         - Telekinesis
     level: "2"
     name: Gravitic Burst
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst
     target: Each enemy in the area
-    tier1: 3 damage; vertical push 2
-    tier2: 6 damage; vertical push 4
-    tier3: 9 damage; vertical push 6
     type: ability
 name: Gravitic Burst
 target: Each enemy in the area

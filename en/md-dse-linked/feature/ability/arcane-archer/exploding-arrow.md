@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Ranged 15
-effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
+effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
 feature_type: ability
 file_basename: exploding-arrow
 file_dpath: feature/ability/arcane-archer
@@ -11,7 +11,7 @@ item_name: Exploding Arrow
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: arcane-archer
 name: Exploding Arrow
@@ -25,23 +25,23 @@ type: ability
 ```ds-feature
 distance: Ranged 15
 effects:
-    - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
+    - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
 feature_type: ability
 flavor: Your ammunition explodes with magical energy.
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     distance: Ranged 15
-    effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
+    effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
     flavor: Your ammunition explodes with magical energy.
     keywords:
         - Magic
         - Ranged
-        - Strike
+        - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: arcane-archer
     name: Exploding Arrow

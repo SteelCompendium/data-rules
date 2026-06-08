@@ -3,12 +3,6 @@
   "distance": "Melee 3",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "13 + A corruption damage; push 3",
-      "tier2": "18 + A corruption damage; push 5",
-      "tier3": "25 + A corruption damage; push 7"
-    },
-    {
       "effect": "On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.",
       "name": "Effect"
     }
@@ -18,13 +12,13 @@
   "keywords": [
     "Magic",
     "Melee",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*You create a temporary portal to allow a massive demonic hand to reach through.*\n\n| **Magic, Melee, Strike, Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **📏 Melee 3**                   | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 13 + A corruption damage; push 3\n- **12-16:** 18 + A corruption damage; push 5\n- **17+:** 25 + A corruption damage; push 7\n\n**Effect:** On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.",
+    "content": "\n*You create a temporary portal to allow a massive demonic hand to reach through.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **📏 Melee 3**                   | **🎯 One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 13 + A corruption damage; push 3\n- **12-16:** 18 + A corruption damage; push 5\n- **17+:** 25 + A corruption damage; push 7\n\n**Effect:** On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.",
     "distance": "Melee 3",
     "feature_type": "ability",
     "flavor": "You create a temporary portal to allow a massive demonic hand to reach through.",
@@ -33,7 +27,7 @@
     "keywords": [
       "Magic",
       "Melee",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 9,

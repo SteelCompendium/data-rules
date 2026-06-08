@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "If the ability has a potency, you increase that potency by an amount equal to your Intuition score."
+      "effect": "If the ability has a potency, you increase that potency by an amount equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score."
     }
   ],
   "feature_type": "feature",

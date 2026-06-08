@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge) and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.",
+      "effect": "The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge) and can use a signature or heroic ability as a free triggered action. The ability has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the power roll, ignores [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity), and increases the potency of any potency effects by 1.",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*You direct an attack to strike true.*\n\n| **Ranged**       |         **Main action** |\n|------------------|------------------------:|\n| **📏 Ranged 10** | **🎯 Self or one ally** |\n\n**Effect:** The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge) and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.",
+    "content": "\n*You direct an attack to strike true.*\n\n| **Ranged**       |         **Main action** |\n|------------------|------------------------:|\n| **📏 Ranged 10** | **🎯 Self or one ally** |\n\n**Effect:** The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge) and can use a signature or heroic ability as a free triggered action. The ability has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the power roll, ignores [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity), and increases the potency of any potency effects by 1.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You direct an attack to strike true.",

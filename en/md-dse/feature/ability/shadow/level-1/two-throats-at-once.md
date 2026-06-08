@@ -14,17 +14,13 @@ item_name: Two Throats at Once
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: Two Throats at Once
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/two-throats-at-once
 source: mcdm.heroes.v1
 target: Two creatures or objects
-tier1: 4 damage
-tier2: 6 damage
-tier3: 10 damage
 type: ability
 ---
 
@@ -32,16 +28,13 @@ type: ability
 cost: 3 Insight
 distance: Melee 1 or ranged 5
 effects:
-    - roll: Power Roll + Agility
-      tier1: 4 damage
-      tier2: 6 damage
-      tier3: 10 damage
+    - effect: "\n*A bargain.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|-----------------------------------|--------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 10 damage"
 feature_type: ability
 flavor: A bargain.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -52,16 +45,12 @@ metadata:
     keywords:
         - Melee
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: Two Throats at Once
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/two-throats-at-once
     target: Two creatures or objects
-    tier1: 4 damage
-    tier2: 6 damage
-    tier3: 10 damage
     type: ability
 name: Two Throats at Once
 target: Two creatures or objects

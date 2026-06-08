@@ -15,9 +15,9 @@ You have the following ability.
 
 | **Psionic, Ranged** |                                 **Maneuver** |
 |---------------------|---------------------------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one size 1 creature or object** |
+| **📏 Ranged 10**    | **🎯 Self or one [size](../../../rule/character/size.md) 1 creature or object** |
 
-**Effect:** You slide the target up to a number of squares equal to your Reason score.
+**Effect:** You slide the target up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 

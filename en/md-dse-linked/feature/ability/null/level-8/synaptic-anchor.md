@@ -5,7 +5,7 @@ cost: 11 Discipline
 cost_amount: "11"
 cost_resource: Discipline
 distance: Self; see below
-effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score whenever they use a main action.
 feature_type: ability
 file_basename: synaptic-anchor
 file_dpath: feature/ability/null/level-8
@@ -28,7 +28,7 @@ type: ability
 cost: 11 Discipline
 distance: Self; see below
 effects:
-    - effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+    - effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score whenever they use a main action.
 feature_type: ability
 flavor: You disrupt an enemy's strike and create a [feedback loop](../../talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: "null"
     cost: 11 Discipline
     distance: Self; see below
-    effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+    effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score whenever they use a main action.
     flavor: You disrupt an enemy's strike and create a [feedback loop](../../talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.
     keywords:
         - Psionic

@@ -3,10 +3,7 @@
   "distance": "5 x 1 line within 5",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "12 damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier2": "18 damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier3": "24 damage; M \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
+      "effect": ""
     }
   ],
   "feature_type": "ability",
@@ -19,7 +16,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*\n\n| **Area, Ranged, Weapon**   |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 12 damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 18 damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 24 damage; M \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+    "content": "\n*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*\n\n| **Area, Ranged, Weapon**   |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 12 damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 18 damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 24 damage; M \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
     "distance": "5 x 1 line within 5",
     "feature_type": "ability",
     "flavor": "You fire a projectile so fast that it passes through a line of foes, hamstringing them.",

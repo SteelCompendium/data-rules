@@ -15,17 +15,13 @@ item_name: Panic in Their Lines
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "6"
 name: Panic in Their Lines
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines
 source: mcdm.heroes.v1
 target: Two creatures
-tier1: 6 + M damage; slide 1
-tier2: 9 + M damage; slide 3
-tier3: 13 + M damage; slide 5
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 9 Focus
 distance: Melee 1 or ranged 5
 effects:
     - effect: If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against that creature.
-    - roll: Power Roll + Might
-      tier1: 6 + M damage; slide 1
-      tier2: 9 + M damage; slide 3
-      tier3: 13 + M damage; slide 5
 feature_type: ability
 flavor: You confuse your foes, causing them to turn on each other.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Melee
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "6"
     name: Panic in Their Lines
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines
     target: Two creatures
-    tier1: 6 + M damage; slide 1
-    tier2: 9 + M damage; slide 3
-    tier3: 13 + M damage; slide 5
     type: ability
 name: Panic in Their Lines
 target: Two creatures

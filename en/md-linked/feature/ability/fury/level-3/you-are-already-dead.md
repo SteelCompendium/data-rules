@@ -7,7 +7,7 @@ effect: If the target is not a leader or solo creature, they are reduced to 0 [S
 flavor: Slash. Walk away.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "3"
 name: You Are Already Dead
@@ -19,7 +19,7 @@ type: ability
 
 *Slash. Walk away.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 

@@ -5,7 +5,7 @@ cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
 distance: Self; see below
-effect: You use a strike signature ability twice.
+effect: You use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability twice.
 feature_type: ability
 file_basename: shadowstrike
 file_dpath: feature/ability/shadow/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Insight
 distance: Self; see below
 effects:
-    - effect: You use a strike signature ability twice.
+    - effect: You use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability twice.
 feature_type: ability
 flavor: They have no idea what the college taught you.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: shadow
     cost: 5 Insight
     distance: Self; see below
-    effect: You use a strike signature ability twice.
+    effect: You use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability twice.
     flavor: They have no idea what the college taught you.
     keywords:
         - Magic

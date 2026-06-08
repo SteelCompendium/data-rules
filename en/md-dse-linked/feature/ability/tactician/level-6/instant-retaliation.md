@@ -17,14 +17,10 @@ keywords:
     - Weapon
 level: "6"
 name: Instant Retaliation
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
 source: mcdm.heroes.v1
 subtype: triggered
 target: One ally
-tier1: A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 trigger: A creature deals damage to the target.
 type: ability
 ---
@@ -34,10 +30,6 @@ cost: 9 Focus
 distance: Melee 1
 effects:
     - effect: The target takes half the damage. You then make a power roll against the triggering creature.
-    - roll: Power Roll + Might
-      tier1: A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-      tier2: A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-      tier3: A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 feature_type: ability
 flavor: You [parry](../level-1/parry.md) with almost supernatural speed.
 keywords:
@@ -55,13 +47,9 @@ metadata:
         - Weapon
     level: "6"
     name: Instant Retaliation
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
     subtype: triggered
     target: One ally
-    tier1: A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-    tier2: A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-    tier3: A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
     trigger: A creature deals damage to the target.
     type: ability
 name: Instant Retaliation

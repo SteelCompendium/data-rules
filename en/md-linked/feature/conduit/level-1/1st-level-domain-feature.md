@@ -27,9 +27,9 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ## Blessing of Compassion {data-scc="mcdm.heroes.v1/feature.conduit.level-1/blessing-of-compassion"}
 
-You exude a magic presence that can soothe those willing to socially engage with you. You gain an edge on any test made to assist another creature with a test.
+You exude a magic presence that can soothe those willing to socially engage with you. You gain an [edge](../../../rule/dice/edge.md) on any test made to assist another creature with a test.
 
-Additionally, when you are present at the start of a negotiation, one NPC of your choice has their patience increased by 1 (to a maximum of 5), and the first test made to influence them gains an edge.
+Additionally, when you are present at the start of a negotiation, one NPC of your choice has their patience increased by 1 (to a maximum of 5), and the first test made to influence them gains an [edge](../../../rule/dice/edge.md).
 
 ## Blessing of Comprehension {data-scc="mcdm.heroes.v1/feature.conduit.level-1/blessing-of-comprehension"}
 
@@ -39,11 +39,11 @@ You can interpret diagrams and charts even if you don't understand the language 
 
 Each time you finish a respite, you can decide the weather conditions within 100 squares. Until you finish another respite, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:
 
-**Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
+**Clear:** You and your allies gain an [edge](../../../rule/dice/edge.md) on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the [Endurance](../../../skill/endurance.md) skill.
+**Foggy:** You and your allies gain an [edge](../../../rule/dice/edge.md) on tests that use the Hide skill. **Overcast:** You and your allies gain an [edge](../../../rule/dice/edge.md) on tests that use the [Endurance](../../../skill/endurance.md) skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the [Track](../../../skill/track.md) skill.
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../../../rule/dice/edge.md) on tests that use the [Track](../../../skill/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
@@ -90,7 +90,7 @@ You have the following ability.
 |--------------------------|--------------:|
 | **📏 Self**              |   **🎯 Self** |
 
-**Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
+**Effect:** You create a mundane object of [size](../../../rule/character/size.md) 1S or smaller. You can maintain a number of objects created this way equal to your [Intuition](../../../rule/character/intuition.md) score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
 ## Inner Light {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inner-light"}
 
@@ -98,15 +98,15 @@ Each time you finish a respite, you can choose yourself or one ally who is also 
 
 ## Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Intuition on the test instead of another characteristic.
+The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use [Intuition](../../../rule/character/intuition.md) on the test instead of another [characteristic](../../../rule/character/characteristic.md).
 
 ## Oracular Visions {data-scc="mcdm.heroes.v1/feature.conduit.level-1/oracular-visions"}
 
-Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
+Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an [edge](../../../rule/dice/edge.md) on the test. You lose any remaining fate points when you finish a respite.
 
 ## Protective Circle {data-scc="mcdm.heroes.v1/feature.conduit.level-1/protective-circle"}
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../censor/level-1/protective-circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../censor/level-1/protective-circle.md), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../../censor/level-1/protective-circle.md) on the ground large enough to hold one [size](../../../rule/character/size.md) 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../censor/level-1/protective-circle.md), a creature can't be targeted by strikes.
 
 ## Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.conduit.level-1/revitalizing-ritual"}
 

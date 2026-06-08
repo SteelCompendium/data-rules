@@ -11,12 +11,8 @@ keywords:
     - Ranged
 level: "9"
 name: Acceleration Field
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
 target: Three allies
-tier1: 4 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-tier3: 10 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
@@ -29,9 +25,9 @@ type: ability
 
 **Effect:** Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
 
-**Strained:** Make a power roll that targets you and each enemy within distance.
+**Strained:** Make a power roll that targets you and each enemy within [distance](../../../../rule/combat/distance.md).
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 4 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)

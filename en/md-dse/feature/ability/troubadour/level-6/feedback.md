@@ -17,13 +17,9 @@ keywords:
     - Magic
 level: "6"
 name: Feedback
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/feedback
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 7 sonic damage; P < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-tier2: 10 sonic damage; P < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-tier3: 13 sonic damage; P < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -32,10 +28,6 @@ cost: 9 Drama
 distance: Three 3 cubes within 1
 effects:
     - effect: A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.
-    - roll: Power Roll + Presence
-      tier1: 7 sonic damage; P < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-      tier2: 10 sonic damage; P < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-      tier3: 13 sonic damage; P < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: Your music pounds the crowd to the beat until their hearts can't stand it anymore.
 keywords:
@@ -53,12 +45,8 @@ metadata:
         - Magic
     level: "6"
     name: Feedback
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/feedback
     target: Each enemy in the area
-    tier1: 7 sonic damage; P < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-    tier2: 10 sonic damage; P < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-    tier3: 13 sonic damage; P < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
     type: ability
 name: Feedback
 target: Each enemy in the area

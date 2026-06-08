@@ -1,5 +1,5 @@
 effects:
-    - effect: Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](scc:mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours) ability regains [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), they regain additional [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your Presence score.
+    - effect: Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of your [My Life for Yours](scc:mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours) ability regains [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), they regain additional [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
 feature_type: feature
 metadata:
     action_type: feature

@@ -18,6 +18,6 @@ You have the following ability.
 | **📏 Ranged 10**    | **🎯 One creature or object** |
 
 
-**Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an edge.
+**Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an [edge](../../../rule/dice/edge.md).
 
 **Spend 1 Clarity:** You target one additional creature or object.

@@ -3,12 +3,6 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Presence",
-      "tier1": "5 + P damage; I \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier2": "9 + P damage; I \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier3": "12 + P damage; I \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
-    },
-    {
       "effect": "While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.",
       "name": "Effect"
     }
@@ -17,13 +11,13 @@
   "flavor": "You turn your enemies' ire to the target.",
   "keywords": [
     "Ranged",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*You turn your enemies' ire to the target.*\n\n| **Ranged, Strike, Weapon** |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           |           **🎯 One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 + P damage; I \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 9 + P damage; I \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 12 + P damage; I \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n\n**Effect:** While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.",
+    "content": "\n*You turn your enemies' ire to the target.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           |           **🎯 One creature** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 5 + P damage; I \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 9 + P damage; I \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 12 + P damage; I \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n\n**Effect:** While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You turn your enemies' ire to the target.",
@@ -31,7 +25,7 @@
     "item_name": "Your Allies Turn on You!",
     "keywords": [
       "Ranged",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 8,

@@ -17,11 +17,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *The heavy impact of your weapon attacks drives your foes ever back.*
 
-| **Melee, Strike, Weapon** |                **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                **Main action** |
 |---------------------------|-------------------------------:|
 | **📏 Melee 1**            |  **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; push 1
 - **12-16:** 6 + M damage; push 2
@@ -32,11 +32,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *Staying in constant motion helps you slip out of reach after a brutal assault.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 + M damage
 - **12-16:** 5 + M damage
@@ -49,11 +49,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You skewer your enemy like a boar upon a spit.*
 
-| **Melee, Strike, Weapon** |                             **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                             **Main action** |
 |---------------------------|--------------------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature of your size or smaller** |
+| **📏 Melee 1**            | **🎯 One creature of your [size](../../../rule/character/size.md) or smaller** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../condition/grabbed.md)
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../condition/grabbed.md)
@@ -64,11 +64,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *Your reckless assault leaves you tactically vulnerable.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
@@ -93,7 +93,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 |-------------------------|------------------------------:|
 | **📏 1 burst**          | **🎯 Each enemy in the area** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 5 damage
 - **12-16:** 8 damage; push 1
@@ -104,11 +104,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 *Your enemies will clear your path—whether they want to or not.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; slide 2
 - **12-16:** 5 + M damage; slide 3
@@ -127,30 +127,30 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** You move up to your speed in a straight line, and enemy squares are not [difficult terrain](../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 3 damage
 - **17+:** 5 damage
 
-**Effect:** The last target you damage takes extra damage equal to your Might score for each opportunity attack you trigger during your move.
+**Effect:** The last target you damage takes extra damage equal to your [Might](../../../rule/character/might.md) score for each opportunity attack you trigger during your move.
 
 ### Your Entrails Are Your Extrails! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/your-entrails-are-your-extrails"}
 
 
 *Hard for them to fight when they're busy holding in their giblets.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../condition/bleeding.md) (save ends)
 - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../condition/bleeding.md) (save ends)
 - **17+:** 8 + M damage; M < STRONG, [bleeding](../../../condition/bleeding.md) (save ends)
 
-**Effect:** While [bleeding](../../../condition/bleeding.md) this way, the target takes damage equal to your Might score at the end of each of your turns.
+**Effect:** While [bleeding](../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../rule/character/might.md) score at the end of each of your turns.
 
 ### 5-Ferocity Ability
 
@@ -161,11 +161,11 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 *See how well they fight after you've bled them dry.*
 
-| **Melee, Strike, Weapon**   |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**   |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 Melee 1**              | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../condition/bleeding.md) and [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../condition/bleeding.md) and [weakened](../../../condition/weakened.md) (save ends)
@@ -193,7 +193,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 damage; push 2
 - **12-16:** 9 damage; push 4
@@ -206,14 +206,14 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 *You gut your life force to ensure a foe's demise.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 7 + M damage
 - **12-16:** 11 + M damage
 - **17+:** 16 + M damage
 
-**Spend 1+ Ferocity:** While you are [winded](../../../rule/health/winded.md), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](../../../rule/health/dying.md), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](../../../rule/health/stamina.md) after making this strike.
+**Spend 1+ Ferocity:** While you are [winded](../../../rule/health/winded.md), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](../../../rule/health/dying.md), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](../../../rule/health/stamina.md) after making this [strike](../../../rule/combat/strike.md).

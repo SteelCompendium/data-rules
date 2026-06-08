@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with [concealment](../../../rule/combat/concealment.md).
+    - effect: Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) made against creatures with [concealment](../../../rule/combat/concealment.md).
 feature_type: trait
 metadata:
     ancestry: devil

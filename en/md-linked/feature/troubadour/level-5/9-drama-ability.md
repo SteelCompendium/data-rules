@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 |-------------------------|------------------------------:|
 | **📏 3 burst**          | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 10 damage
 - **12-16:** 14 damage
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 |-------------------|---------------------------:|
 | **📏 Ranged 10**  | **🎯 One enemy or object** |
 
-**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../../../rule/health/stamina.md), is [weakened](../../../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 [Stamina](../../../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../../../rule/health/stamina.md).
+**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within [distance](../../../rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../../../rule/health/stamina.md), is [weakened](../../../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 [Stamina](../../../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../../../rule/health/stamina.md).
 
 ## Love Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song"}
 
@@ -45,7 +45,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 |-------------------|------------------------------:|
 | **📏 Ranged 10**  | **🎯 One creature or object** |
 
-**Effect:** The target gains 20 [temporary Stamina](../../../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within distance, you can choose to take the damage instead of the target.
+**Effect:** The target gains 20 [temporary Stamina](../../../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within [distance](../../../rule/combat/distance.md), you can choose to take the damage instead of the target.
 
 ## Patter Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song"}
 
@@ -56,8 +56,8 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 |-------------------|---------------:|
 | **📏 Ranged 10**  | **🎯 Special** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** One ally within distance can take their turn immediately after yours.
-- **12-16:** Two allies within distance can take their turns immediately after yours in any order.
-- **17+:** Three allies within distance can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round.
+- **≤11:** One ally within [distance](../../../rule/combat/distance.md) can take their turn immediately after yours.
+- **12-16:** Two allies within [distance](../../../rule/combat/distance.md) can take their turns immediately after yours in any order.
+- **17+:** Three allies within [distance](../../../rule/combat/distance.md) can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round.

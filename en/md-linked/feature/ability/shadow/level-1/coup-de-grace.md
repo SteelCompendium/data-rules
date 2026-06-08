@@ -7,27 +7,23 @@ flavor: Your blade might be the last thing they see.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Coup de Grace
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace
 target: One creature
-tier1: 2d6 + 7 + A damage
-tier2: 2d6 + 11 + A damage
-tier3: 2d6 + 16 + A damage
 type: ability
 ---
 
 
 *Your blade might be the last thing they see.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 2d6 + 7 + A damage
 - **12-16:** 2d6 + 11 + A damage

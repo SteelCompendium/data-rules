@@ -59,4 +59,4 @@ Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as
 
 **Effect:** You can [shift](../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
 
-**Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can [shift](../../../movement/shifting.md) up to a number of squares equal to your Reason score instead of 1 square.
+**Spend 1 Focus:** This ability's [distance](../../../rule/combat/distance.md) becomes Melee 1 + your [Reason](../../../rule/character/reason.md) score, and you can [shift](../../../movement/shifting.md) up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score instead of 1 square.

@@ -17,28 +17,28 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
 
-| **Green, Magic, Ranged, Rot, Strike**  |     **Main action** |
+| **Green, Magic, Ranged, Rot, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R corruption damage
 - **12-16:** 4 + R corruption damage
 - **17+:** 6 + R corruption damage
 
-**Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
 ### Bifurcated Incineration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration"}
 
 
 *Two jets of flame lance out at your command.*
 
-| **Fire, Magic, Ranged, Strike** |                 **Main action** |
+| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |                 **Main action** |
 |---------------------------------|--------------------------------:|
 | **📏 Ranged 10**                | **🎯 Two creatures or objects** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 fire damage
 - **12-16:** 4 fire damage
@@ -49,28 +49,28 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *You absorb the life energy of another creature and use it to [teleport](../../../movement/teleport.md).*
 
-| **Magic, Melee, Strike, Void** |     **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Void** |     **Main action** |
 |--------------------------------|--------------------:|
 | **📏 Melee 1**                 | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R corruption damage
 - **12-16:** 6 + R corruption damage
 - **17+:** 9 + R corruption damage
 
-**Effect:** You can [teleport](../../../movement/teleport.md) up to a number of squares equal to your Reason score.
+**Effect:** You can [teleport](../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 ### The Green Within, the Green Without {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/the-green-within-the-green-without"}
 
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
 
-| **Green, Magic, Ranged, Strike** |      **Main action** |
+| **Green, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
 | **📏 Ranged 10**                 |  **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R damage
 - **12-16:** 5 + R damage
@@ -83,11 +83,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *You give your enemy a gentle tap-like an asteroid impact.*
 
-| **Earth, Magic, Melee, Strike** |               **Main action** |
+| **Earth, Magic, Melee, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
 | **📏 Melee 1**                  | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R damage; push 2
 - **12-16:** 5 + R damage; push 3
@@ -98,11 +98,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *You inflict pain and doubt in equal measure.*
 
-| **Magic, Ranged, Strike, Void** |               **Main action** | 
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md), Void** |               **Main action** | 
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -117,7 +117,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |--------------------------------|------------------------------:|
 | **📏 2 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage
@@ -130,11 +130,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *A jet of heavy fire erupts where you strike.*
 
-| **Fire, Magic, Ranged, Strike** |               **Main action** | 
+| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** | 
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R fire damage; push 2
 - **12-16:** 5 + R fire damage; push 3
@@ -157,7 +157,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 |-------------------------------|------------------------------:|
 | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 psychic damage
 - **12-16:** 4 psychic damage
@@ -170,28 +170,28 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 *Fire engulfs your target and continues to churn.*
 
-| **Fire, Magic, Ranged, Strike** |               **Main action** |
+| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 5 + R fire damage
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
+**Persistent 1:** If the target is within [distance](../../../rule/combat/distance.md) at the start of your turn, you can make the power roll again without spending essence (no action required).
 
 ### Invigorating Growth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth"}
 
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
-| **Green, Magic, Ranged, Strike** |      **Main action** |
+| **Green, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
 | **📏 Ranged 10**                 |  **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 4 + R poison damage
 - **12-16:** 7 + R poison damage
@@ -208,13 +208,13 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 |------------------------|------------------------------:|
 | **📏 2 burst**         | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 5 damage
 - **17+:** 8 damage; M < STRONG[, prone](../../../condition/prone.md)
 
-**Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
+**Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your [Reason](../../../rule/character/reason.md) score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 
 ### 5-Essence Ability
 
@@ -229,7 +229,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |-------------------------------|------------------------------:|
 | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 4 fire damage
 - **12-16:** 6 fire damage
@@ -246,9 +246,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+**Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** The target can [shift](../../../movement/shifting.md) 1 square from the edge of the hole to the nearest unoccupied space of their choice.
 - **12-16:** The target falls into the hole.
@@ -278,7 +278,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |--------------------------------|------------------------------:|
 | **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 4 acid damage
 - **12-16:** 6 acid damage

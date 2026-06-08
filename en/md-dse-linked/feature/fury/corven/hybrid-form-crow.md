@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](../../../movement/fly.md).
+    - effect: While you are in your hybrid form, your [size](../../../rule/character/size.md) is your choice of 1S or 1M. At 4th level, you can [fly](../../../movement/fly.md).
 feature_type: feature
 metadata:
     class: fury

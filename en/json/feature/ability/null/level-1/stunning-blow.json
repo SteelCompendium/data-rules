@@ -3,10 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "4 + A damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier2": "5 + A damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier3": "7 + A damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
+      "effect": ""
     }
   ],
   "feature_type": "ability",
@@ -14,13 +11,13 @@
   "keywords": [
     "Melee",
     "Psionic",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You focus your psionic technique into a concussive punch.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 5 + A damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 7 + A damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+    "content": "\n*You focus your psionic technique into a concussive punch.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 5 + A damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 7 + A damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You focus your psionic technique into a concussive punch.",
@@ -29,7 +26,7 @@
     "keywords": [
       "Melee",
       "Psionic",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 1,

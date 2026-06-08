@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability force moves a target, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a bonus equal to your Intuition score.
+    - effect: If the ability force moves a target, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: feature
 metadata:
     class: "null"

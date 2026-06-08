@@ -5,7 +5,7 @@ cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
 distance: Ranged 10
-effect: The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost reduced by 1 + your Reason score (minimum cost 0).
+effect: The target uses a heroic ability with the [Strike](../../../../rule/combat/strike.md) keyword as a free triggered action, and deals extra damage with that ability equal to your [Reason](../../../../rule/character/reason.md) score. The ability has its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost reduced by 1 + your [Reason](../../../../rule/character/reason.md) score (minimum cost 0).
 feature_type: ability
 file_basename: youve-still-got-something-left
 file_dpath: feature/ability/tactician/level-5
@@ -26,7 +26,7 @@ type: ability
 cost: 9 Focus
 distance: Ranged 10
 effects:
-    - effect: The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost reduced by 1 + your Reason score (minimum cost 0).
+    - effect: The target uses a heroic ability with the [Strike](../../../../rule/combat/strike.md) keyword as a free triggered action, and deals extra damage with that ability equal to your [Reason](../../../../rule/character/reason.md) score. The ability has its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost reduced by 1 + your [Reason](../../../../rule/character/reason.md) score (minimum cost 0).
 feature_type: ability
 flavor: You push an ally to use a heroic ability sooner than they otherwise would.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 9 Focus
     distance: Ranged 10
-    effect: The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost reduced by 1 + your Reason score (minimum cost 0).
+    effect: The target uses a heroic ability with the [Strike](../../../../rule/combat/strike.md) keyword as a free triggered action, and deals extra damage with that ability equal to your [Reason](../../../../rule/character/reason.md) score. The ability has its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost reduced by 1 + your [Reason](../../../../rule/character/reason.md) score (minimum cost 0).
     flavor: You push an ally to use a heroic ability sooner than they otherwise would.
     keywords:
         - Ranged

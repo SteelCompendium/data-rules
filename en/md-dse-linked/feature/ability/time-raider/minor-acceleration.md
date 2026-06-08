@@ -2,7 +2,7 @@
 action_type: Maneuver
 ancestry: time-raider
 distance: Melee 1
-effect: The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+effect: The target gains a bonus to speed equal to your [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md) score (your choice) until the start of your next turn.
 feature_type: ability
 file_basename: minor-acceleration
 file_dpath: feature/ability/time-raider
@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+    - effect: The target gains a bonus to speed equal to your [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md) score (your choice) until the start of your next turn.
 feature_type: ability
 flavor: You fill yourself or an ally with a burst of speed.
 keywords:
@@ -33,7 +33,7 @@ metadata:
     action_type: Maneuver
     ancestry: time-raider
     distance: Melee 1
-    effect: The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+    effect: The target gains a bonus to speed equal to your [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md) score (your choice) until the start of your next turn.
     flavor: You fill yourself or an ally with a burst of speed.
     keywords:
         - Psionic

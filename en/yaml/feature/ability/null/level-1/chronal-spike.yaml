@@ -1,23 +1,19 @@
 cost: 3 Discipline
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 7 + A damage
-      tier2: 10 + A damage
-      tier3: 13 + A damage
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike). Additionally, whenever an effect lets you make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
       name: Effect
 feature_type: ability
 flavor: You foresee the best moment to strike, then exploit it.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: "null"
-    content: "\n*You foresee the best moment to strike, then exploit it.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 7 + A damage\n- **12-16:** 10 + A damage\n- **17+:** 13 + A damage\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual."
+    content: "\n*You foresee the best moment to strike, then exploit it.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 7 + A damage\n- **12-16:** 10 + A damage\n- **17+:** 13 + A damage\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike). Additionally, whenever an effect lets you make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual."
     distance: Melee 1
     feature_type: ability
     flavor: You foresee the best moment to strike, then exploit it.
@@ -26,7 +22,7 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 1
     scc:

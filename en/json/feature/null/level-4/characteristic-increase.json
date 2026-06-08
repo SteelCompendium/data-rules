@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your Agility and Intuition scores each increase to 3."
+      "effect": "Your [Agility](scc:mcdm.heroes.v1/rule.character/agility) and [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) scores each increase to 3."
     }
   ],
   "feature_type": "feature",

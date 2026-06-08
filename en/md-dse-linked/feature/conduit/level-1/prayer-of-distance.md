@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the distance of your ranged magic abilities.
+    - effect: Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the [distance](../../../rule/combat/distance.md) of your ranged magic abilities.
 feature_type: feature
 metadata:
     class: conduit

@@ -9,12 +9,8 @@ keywords:
     - Magic
 level: "1"
 name: Dramatic Reversal
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal
 target: Self and each ally in the area
-tier1: The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../../common/main-actions/free-strike.md).
-tier2: The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge.
-tier3: The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge, then can spend a [Recovery](../../../../rule/health/recoveries.md).
 type: ability
 ---
 
@@ -25,8 +21,8 @@ type: ability
 |-----------------|--------------------------------------:|
 | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../../common/main-actions/free-strike.md).
-- **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge.
-- **17+:** The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge, then can spend a [Recovery](../../../../rule/health/recoveries.md).
+- **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md).
+- **17+:** The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md), then can spend a [Recovery](../../../../rule/health/recoveries.md).

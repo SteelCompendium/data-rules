@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability deals rolled damage, it deals extra damage equal to your Intuition score.
+    - effect: If the ability deals rolled damage, it deals extra damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 feature_type: feature
 metadata:
     class: "null"

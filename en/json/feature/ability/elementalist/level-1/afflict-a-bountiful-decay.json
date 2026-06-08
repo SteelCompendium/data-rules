@@ -3,13 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Reason",
-      "tier1": "2 + R corruption damage",
-      "tier2": "4 + R corruption damage",
-      "tier3": "6 + R corruption damage"
-    },
-    {
-      "effect": "Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.",
+      "effect": "Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.",
       "name": "Effect"
     }
   ],
@@ -20,13 +14,13 @@
     "Magic",
     "Ranged",
     "Rot",
-    "Strike"
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*Your curse causes your foe's flesh to rot off as spores that aid your allies.*\n\n| **Green, Magic, Ranged, Rot, Strike**  |     **Main action** |\n|----------------------------------------|--------------------:|\n| **📏 Ranged 10**                       | **🎯 One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 2 + R corruption damage\n- **12-16:** 4 + R corruption damage\n- **17+:** 6 + R corruption damage\n\n**Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.",
+    "content": "\n*Your curse causes your foe's flesh to rot off as spores that aid your allies.*\n\n| **Green, Magic, Ranged, Rot, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |     **Main action** |\n|----------------------------------------|--------------------:|\n| **📏 Ranged 10**                       | **🎯 One creature** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 + R corruption damage\n- **12-16:** 4 + R corruption damage\n- **17+:** 6 + R corruption damage\n\n**Effect:** Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Your curse causes your foe's flesh to rot off as spores that aid your allies.",
@@ -37,7 +31,7 @@
       "Magic",
       "Ranged",
       "Rot",
-      "Strike"
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 1,
     "scc": [

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have a bonus to speed equal to your Agility score, and you ignore [difficult terrain](../../../movement/difficult-terrain.md).
+    - effect: You have a bonus to speed equal to your [Agility](../../../rule/character/agility.md) score, and you ignore [difficult terrain](../../../movement/difficult-terrain.md).
 feature_type: feature
 metadata:
     class: fury

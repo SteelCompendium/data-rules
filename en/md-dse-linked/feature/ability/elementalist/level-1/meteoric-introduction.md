@@ -12,34 +12,27 @@ keywords:
     - Earth
     - Magic
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Meteoric Introduction
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/meteoric-introduction
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 3 + R damage; push 2
-tier2: 5 + R damage; push 3
-tier3: 8 + R damage; push 4
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - roll: Power Roll + Reason
-      tier1: 3 + R damage; push 2
-      tier2: 5 + R damage; push 3
-      tier3: 8 + R damage; push 4
+    - effect: "\n*You give your enemy a gentle tap-like an asteroid impact.*\n\n| **Earth, Magic, Melee, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                  | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 3 + R damage; push 2\n- **12-16:** 5 + R damage; push 3\n- **17+:** 8 + R damage; push 4"
 feature_type: ability
 flavor: You give your enemy a gentle tap-like an asteroid impact.
 keywords:
     - Earth
     - Magic
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: elementalist
@@ -49,16 +42,12 @@ metadata:
         - Earth
         - Magic
         - Melee
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Meteoric Introduction
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/meteoric-introduction
     subtype: signature
     target: One creature or object
-    tier1: 3 + R damage; push 2
-    tier2: 5 + R damage; push 3
-    tier3: 8 + R damage; push 4
     type: ability
 name: Meteoric Introduction
 target: One creature or object

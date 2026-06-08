@@ -8,7 +8,7 @@ type: project
 
 **Project Source:** An NPC of a higher level, or records of such an NPC's teachings in a language you know
 
-**Project Roll Characteristic:** Your highest characteristic
+**Project Roll [Characteristic](../rule/character/characteristic.md):** Your highest [characteristic](../rule/character/characteristic.md)
 
 **Project Goal:** Varies
 
@@ -43,7 +43,7 @@ You gain one signature ability of your choice from the master's class (gaining a
 
 ## Hone Ability
 
-You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the distance of a ranged ability by 2. An ability can be honed only once this way.
+You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the [distance](../rule/combat/distance.md) of a ranged ability by 2. An ability can be honed only once this way.
 
 ## Improve Control
 

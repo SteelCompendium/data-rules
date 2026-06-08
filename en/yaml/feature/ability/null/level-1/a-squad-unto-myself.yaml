@@ -1,10 +1,6 @@
 cost: 5 Discipline
 distance: 2 burst
 effects:
-    - roll: Power Roll + Agility
-      tier1: 6 damage
-      tier2: 9 damage
-      tier3: 13 damage
     - effect: You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a free maneuver before or after you use this ability.
       name: Effect
 feature_type: ability
@@ -16,7 +12,7 @@ keywords:
 metadata:
     action_type: Main action
     class: "null"
-    content: "\n*You move so quickly, it seems as though an army assaulted your foes.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF 2 burst**            | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 damage\n- **12-16:** 9 damage\n- **17+:** 13 damage\n\n**Effect:** You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a free maneuver before or after you use this ability."
+    content: "\n*You move so quickly, it seems as though an army assaulted your foes.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF 2 burst**            | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 6 damage\n- **12-16:** 9 damage\n- **17+:** 13 damage\n\n**Effect:** You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a free maneuver before or after you use this ability."
     distance: 2 burst
     feature_type: ability
     flavor: You move so quickly, it seems as though an army assaulted your foes.

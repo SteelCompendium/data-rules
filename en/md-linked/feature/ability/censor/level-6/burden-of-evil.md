@@ -7,26 +7,22 @@ flavor: You reveal a vision of your enemies' fate that causes them to scramble a
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Burden of Evil
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
 target: Three enemies
-tier1: Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
 
 *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
 
-| **Magic, Ranged, Strike** |         **Maneuver** |
+| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |         **Maneuver** |
 |---------------------------|---------------------:|
 | **📏 Ranged 10**          | **🎯 Three enemies** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

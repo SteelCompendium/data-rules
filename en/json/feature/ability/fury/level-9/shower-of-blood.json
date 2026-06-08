@@ -3,35 +3,29 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Might",
-      "tier1": "12 + M damage",
-      "tier2": "18 + M damage",
-      "tier3": "24 + M damage"
-    },
-    {
-      "effect": "Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.",
+      "effect": "Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge), and their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores are considered 1 lower for the purpose of resisting potencies.",
       "name": "Effect"
     }
   ],
   "feature_type": "ability",
-  "flavor": "You shock your foes with the brutality of your strike, resetting the balance of combat.",
+  "flavor": "You shock your foes with the brutality of your [strike](scc:mcdm.heroes.v1/rule.combat/strike), resetting the balance of combat.",
   "keywords": [
     "Melee",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "fury",
-    "content": "\n*You shock your foes with the brutality of your strike, resetting the balance of combat.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 12 + M damage\n- **12-16:** 18 + M damage\n- **17+:** 24 + M damage\n\n**Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.",
+    "content": "\n*You shock your foes with the brutality of your [strike](scc:mcdm.heroes.v1/rule.combat/strike), resetting the balance of combat.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 12 + M damage\n- **12-16:** 18 + M damage\n- **17+:** 24 + M damage\n\n**Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge), and their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores are considered 1 lower for the purpose of resisting potencies.",
     "distance": "Melee 1",
     "feature_type": "ability",
-    "flavor": "You shock your foes with the brutality of your strike, resetting the balance of combat.",
+    "flavor": "You shock your foes with the brutality of your [strike](scc:mcdm.heroes.v1/rule.combat/strike), resetting the balance of combat.",
     "item_id": "shower-of-blood",
     "item_name": "Shower of Blood",
     "keywords": [
       "Melee",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 9,

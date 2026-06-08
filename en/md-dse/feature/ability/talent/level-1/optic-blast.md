@@ -16,14 +16,10 @@ keywords:
     - Strike
 level: "1"
 name: Optic Blast
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 2 + R damage; M < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-tier2: 4 + R damage; M < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-tier3: 6 + R damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -31,10 +27,6 @@ type: ability
 distance: Ranged 10
 effects:
     - effect: When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
-    - roll: Power Roll + Reason
-      tier1: 2 + R damage; M < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-      tier2: 4 + R damage; M < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-      tier3: 6 + R damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: Your eyes emit rays of powerful enervating force.
 keywords:
@@ -55,13 +47,9 @@ metadata:
         - Strike
     level: "1"
     name: Optic Blast
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast
     subtype: signature
     target: One creature or object
-    tier1: 2 + R damage; M < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-    tier2: 4 + R damage; M < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-    tier3: 6 + R damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
     type: ability
 name: Optic Blast
 target: One creature or object

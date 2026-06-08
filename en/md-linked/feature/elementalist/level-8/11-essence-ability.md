@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 [Stamina](../../../rule/health/stamina.md) and can't be [force moved](../../../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../../common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../../../condition/prone.md). Each ally within distance also gains this benefit.
+**Effect:** A [size](../../../rule/character/size.md) 5 tree appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The tree has 100 [Stamina](../../../rule/health/stamina.md) and can't be [force moved](../../../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../../common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../../../condition/prone.md). Each ally within [distance](../../../rule/combat/distance.md) also gains this benefit.
 
 Each enemy who ends their turn within 3 squares of the tree is [restrained](../../../condition/restrained.md) until the end of their next turn. A creature [restrained](../../../condition/restrained.md) this way can use a main action to end the effect early.
 
@@ -30,7 +30,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 |-------------------------------|------------------------------:|
 | **📏 5 cube within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)
 - **12-16:** 10 fire damage; the Director loses 3 Malice
@@ -47,7 +47,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 |-------------------------------|----------------:|
 | **📏 Ranged 10**              |  **🎯 Special** |
 
-**Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../../condition/prone.md). At the end of the round, if a [winded](../../../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a [size](../../../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../../condition/prone.md). At the end of the round, if a [winded](../../../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 ## World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 
@@ -58,10 +58,10 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 |------------------------|------------------------------:|
 | **📏 5 burst**         | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** M < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** M < AVERAGE[, prone](../../../condition/prone.md)
 - **17+:** M < STRONG[, prone](../../../condition/prone.md)
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../condition/prone.md) and size 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../condition/prone.md) and [size](../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.

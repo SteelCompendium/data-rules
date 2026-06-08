@@ -14,17 +14,13 @@ item_id: ive-got-your-back
 item_name: I've Got Your Back
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "2"
 name: I've Got Your Back
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back
 source: mcdm.heroes.v1
 target: One creature
-tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
 type: ability
 ---
 
@@ -33,15 +29,11 @@ cost: 5 Focus
 distance: Ranged 5
 effects:
     - effect: One ally adjacent to the target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
-    - roll: Power Roll + Reason
-      tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-      tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-      tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
 feature_type: ability
 flavor: Your enemy will think twice about attacking your friend.
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -52,16 +44,12 @@ metadata:
     flavor: Your enemy will think twice about attacking your friend.
     keywords:
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "2"
     name: I've Got Your Back
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back
     target: One creature
-    tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-    tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-    tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
     type: ability
 name: I've Got Your Back
 target: One creature

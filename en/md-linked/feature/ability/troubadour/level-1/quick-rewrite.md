@@ -11,12 +11,8 @@ keywords:
     - Ranged
 level: "1"
 name: Quick Rewrite
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
 target: Each enemy in the area
-tier1: 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-tier3: 6 damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
@@ -27,7 +23,7 @@ type: ability
 |-----------------------------|------------------------------:|
 | **📏 3 cube within 10**     | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)

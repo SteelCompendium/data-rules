@@ -20,7 +20,7 @@ You gain a +6 bonus to [Stamina](../../../rule/health/stamina.md), and this bonu
 
 ## Distance Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/distance-augmentation"}
 
-Your ranged psionic abilities gain a +2 bonus to distance.
+Your ranged psionic abilities gain a +2 bonus to [distance](../../../rule/combat/distance.md).
 
 ## Force Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/force-augmentation"}
 
@@ -28,4 +28,4 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ## Speed Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/speed-augmentation"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
+You gain a +1 bonus to speed and to the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.

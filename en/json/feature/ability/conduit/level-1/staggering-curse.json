@@ -3,10 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Intuition",
-      "tier1": "3 + I holy damage; slide 1",
-      "tier2": "5 + I holy damage; slide 2",
-      "tier3": "8 + I holy damage; slide 3"
+      "effect": ""
     }
   ],
   "feature_type": "ability",
@@ -14,13 +11,13 @@
   "keywords": [
     "Magic",
     "Melee",
-    "Strike"
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*A blast of judgment disorients your foe.*\n\n| **Magic, Melee, Strike**  |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 3 + I holy damage; slide 1\n- **12-16:** 5 + I holy damage; slide 2\n- **17+:** 8 + I holy damage; slide 3",
+    "content": "\n*A blast of judgment disorients your foe.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 + I holy damage; slide 1\n- **12-16:** 5 + I holy damage; slide 2\n- **17+:** 8 + I holy damage; slide 3",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "A blast of judgment disorients your foe.",
@@ -29,7 +26,7 @@
     "keywords": [
       "Magic",
       "Melee",
-      "Strike"
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 1,
     "scc": [

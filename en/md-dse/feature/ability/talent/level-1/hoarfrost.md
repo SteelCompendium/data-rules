@@ -15,24 +15,17 @@ keywords:
     - Strike
 level: "1"
 name: Hoarfrost
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
-tier1: 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-tier2: 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-tier3: 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
 type: ability
 ---
 
 ```ds-feature
 distance: Ranged 10
 effects:
-    - roll: Power Roll + Reason
-      tier1: 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-      tier2: 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-      tier3: 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
+    - effect: "\n*You blast a foe with a pulse of cold energy.*\n\n| **Cryokinesis, Psionic, Ranged**, **Strike** |     **Main action** |\n|----------------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                             | **\U0001F3AF One creature** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)\n- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)\n- **17+:** 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)\n\n**Strained:** You are [slowed](scc:mcdm.heroes.v1/condition/slowed) until the end of your next turn. Additionally, a target [slowed](scc:mcdm.heroes.v1/condition/slowed) by this ability is [restrained](scc:mcdm.heroes.v1/condition/restrained) instead."
 feature_type: ability
 flavor: You blast a foe with a pulse of cold energy.
 keywords:
@@ -52,13 +45,9 @@ metadata:
         - Strike
     level: "1"
     name: Hoarfrost
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost
     subtype: signature
     target: One creature
-    tier1: 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-    tier2: 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-    tier3: 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
     type: ability
 name: Hoarfrost
 target: One creature

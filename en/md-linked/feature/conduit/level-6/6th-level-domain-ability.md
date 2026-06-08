@@ -34,18 +34,18 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |------------------|---------------------------------:|
 | **📏 4 aura**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](../../../movement/forced-movement.md) ignores stability for your allies.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score. This [forced movement](../../../movement/forced-movement.md) ignores stability for your allies.
 
 ### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
 
-| **Magic, Ranged, Strike**  |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 8 + I damage; A < WEAK, [prone and](../../../condition/prone.md) [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 12 + I damage; A < AVERAGE, [prone and](../../../condition/prone.md) [restrained](../../../condition/restrained.md) (save ends)
@@ -60,7 +60,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |------------------|------------------------------------------:|
 | **📏 4 aura**    | **🎯 Self and each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 [surge](../../../rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../rule/dice/bane.md) on power rolls, and you and each ally in the area gain 1 [surge](../../../rule/resource/surge.md) at the end of each of your turns.
 
 ### Cuirass of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods"}
 
@@ -71,7 +71,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------------|-----------------------:|
 | **📏 Ranged 10**         | **🎯 Three creatures** |
 
-**Effect:** You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.
+**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../../rule/damage/damage-immunity.md) 5 until the start of your next turn.
 
 ### Gods' Machine {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine"}
 
@@ -82,15 +82,15 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |-------------------|-----------------|
 | **📏 Ranged 10**  | **🎯 Special**  |
 
-**Effect:** You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 [Stamina](../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md). When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.
+**Effect:** You conjure a [size](../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md). When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 5 damage
 - **17+:** 8 damage
 
-Once on each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll.
+Once on each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your [Intuition](../../../rule/character/intuition.md) score then repeat the power roll.
 
 ### Invocation of Mystery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery"}
 
@@ -112,7 +112,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 |------------------|------------------------------:|
 | **📏 4 burst**   | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 sonic damage; push 3
 - **12-16:** 6 sonic damage; push 5
@@ -140,7 +140,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 |------------------------------------|------------------------------:|
 | **📏 Three 10 x 1 lines within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 6 lightning damage; push 1
 - **12-16:** 9 lightning damage; push 2
@@ -168,7 +168,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 |-----------------------------|------------------------------:|
 | **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 5 damage; M < WEAK, [prone and](../../../condition/prone.md) can't stand (save ends)
 - **12-16:** 8 damage; M < AVERAGE, [prone and](../../../condition/prone.md) can't stand (save ends)
@@ -179,14 +179,14 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 *You bend the fate of a foe, willing them to die.*
 
-| **Magic, Ranged, Strike** |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Ranged 10**          | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
 - **17+:** 19 + I corruption damage; R < STRONG, [weakened](../../../condition/weakened.md) (save ends)
 
-**Effect:** If this damage kills the target, you and each ally within distance can spend a [Recovery](../../../rule/health/recoveries.md).
+**Effect:** If this damage kills the target, you and each ally within [distance](../../../rule/combat/distance.md) can spend a [Recovery](../../../rule/health/recoveries.md).

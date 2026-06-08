@@ -14,7 +14,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
+    - effect: You wear no armor and wield only your unarmed [strikes](../../../rule/combat/strike.md)—which become devastating natural weapons as your ferocity grows.
 feature_type: feature
 metadata:
     class: fury

@@ -4,12 +4,6 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Might",
-      "tier1": "6 + M damage",
-      "tier2": "9 + M damage",
-      "tier3": "13 + M damage"
-    },
-    {
       "effect": "You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
       "name": "Effect"
     }
@@ -18,14 +12,14 @@
   "flavor": "You quickly strike back at a foe.",
   "keywords": [
     "Melee",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "ability_type": "Triggered",
     "action_type": "Free triggered",
     "class": "fury",
-    "content": "\n*You quickly strike back at a foe.*\n\n| **Melee, Strike, Weapon** |             **Free triggered** |\n|---------------------------|-------------------------------:|\n| **📏 Melee 1**            | **🎯 The triggering creature** |\n\n**Trigger:** A creature causes you to be [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying), or damages you while you are [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying).\n\n**Power Roll + Might:**\n\n- **≤11:** 6 + M damage\n- **12-16:** 9 + M damage\n- **17+:** 13 + M damage\n\n**Effect:** You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
+    "content": "\n*You quickly strike back at a foe.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |             **Free triggered** |\n|---------------------------|-------------------------------:|\n| **📏 Melee 1**            | **🎯 The triggering creature** |\n\n**Trigger:** A creature causes you to be [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying), or damages you while you are [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying).\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 6 + M damage\n- **12-16:** 9 + M damage\n- **17+:** 13 + M damage\n\n**Effect:** You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You quickly strike back at a foe.",
@@ -33,7 +27,7 @@
     "item_name": "My Turn!",
     "keywords": [
       "Melee",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 5,

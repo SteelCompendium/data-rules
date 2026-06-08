@@ -3,13 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Reason",
-      "tier1": "3 fire damage",
-      "tier2": "5 fire damage",
-      "tier3": "8 fire damage"
-    },
-    {
-      "effect": "The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.",
+      "effect": "The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a power roll that affects each enemy adjacent to the target's new space.",
       "name": "Effect"
     }
   ],
@@ -24,7 +18,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*Your ally disappears, then reappears in a burst of fire.*\n\n| **Fire, Magic, Ranged, Void** |         **Main action** |\n|-------------------------------|------------------------:|\n| **📏 Ranged 10**              | **🎯 Self or one ally** |\n\n**Effect:** The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.\n\n**Power Roll + Reason:**\n\n- **≤11:** 3 fire damage\n- **12-16:** 5 fire damage\n- **17+:** 8 fire damage",
+    "content": "\n*Your ally disappears, then reappears in a burst of fire.*\n\n| **Fire, Magic, Ranged, Void** |         **Main action** |\n|-------------------------------|------------------------:|\n| **📏 Ranged 10**              | **🎯 Self or one ally** |\n\n**Effect:** The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a power roll that affects each enemy adjacent to the target's new space.\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 fire damage\n- **12-16:** 5 fire damage\n- **17+:** 8 fire damage",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Your ally disappears, then reappears in a burst of fire.",

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have damage immunity against area abilities and effects equal to your Agility score. You also have the following ability, which you can use once per round on your turn.
+    - effect: You have [damage immunity](../../../rule/damage/damage-immunity.md) against area abilities and effects equal to your [Agility](../../../rule/character/agility.md) score. You also have the following ability, which you can use once per round on your turn.
 feature_type: feature
 metadata:
     class: shadow

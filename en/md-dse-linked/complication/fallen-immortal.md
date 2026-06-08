@@ -1,6 +1,6 @@
 ---
 benefit: You have the Religion skill (from the lore skill group). Additionally, whenever you use an ability that deals untyped damage, that ability can deal holy damage instead.
-drawback: You will never fully gain a mortal's comfort with untruth. Any test you make to deceive another creature takes a bane.
+drawback: You will never fully gain a mortal's comfort with untruth. Any test you make to deceive another creature takes a [bane](../rule/dice/bane.md).
 file_basename: fallen-immortal
 file_dpath: complication
 item_id: fallen-immortal
@@ -15,4 +15,4 @@ You used to be an immortal creature, dispensing justice and doing the bidding of
 
 **Benefit:** You have the Religion skill (from the lore skill group). Additionally, whenever you use an ability that deals untyped damage, that ability can deal holy damage instead.
 
-**Drawback:** You will never fully gain a mortal's comfort with untruth. Any test you make to deceive another creature takes a bane.
+**Drawback:** You will never fully gain a mortal's comfort with untruth. Any test you make to deceive another creature takes a [bane](../rule/dice/bane.md).

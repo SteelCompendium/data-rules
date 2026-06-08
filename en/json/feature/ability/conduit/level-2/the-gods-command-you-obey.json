@@ -3,10 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Intuition",
-      "tier1": "4 + I holy damage; P \u003c WEAK, before taking damage, the target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a target you choose",
-      "tier2": "7 + I holy damage; P \u003c AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability",
-      "tier3": "11 + I holy damage; P \u003c STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability"
+      "effect": ""
     }
   ],
   "feature_type": "ability",
@@ -14,12 +11,12 @@
   "keywords": [
     "Magic",
     "Ranged",
-    "Strike"
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*You speak with the voice of your saint, commanding your enemies.*\n\n| **Magic, Ranged, Strike** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Ranged 10**          | **🎯 One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 4 + I holy damage; P \u003c WEAK, before taking damage, the target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a target you choose\n- **12-16:** 7 + I holy damage; P \u003c AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability\n- **17+:** 11 + I holy damage; P \u003c STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability",
+    "content": "\n*You speak with the voice of your saint, commanding your enemies.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Ranged 10**          | **🎯 One creature** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 4 + I holy damage; P \u003c WEAK, before taking damage, the target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a target you choose\n- **12-16:** 7 + I holy damage; P \u003c AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability\n- **17+:** 11 + I holy damage; P \u003c STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You speak with the voice of your saint, commanding your enemies.",
@@ -28,7 +25,7 @@
     "keywords": [
       "Magic",
       "Ranged",
-      "Strike"
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 2,
     "scc": [

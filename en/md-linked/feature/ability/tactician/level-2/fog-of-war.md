@@ -23,4 +23,4 @@ type: ability
 
 **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a [strike](../../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.

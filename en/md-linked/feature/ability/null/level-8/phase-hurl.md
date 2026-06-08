@@ -8,27 +8,23 @@ flavor: You throw your foe out of phase with this manifold, causing them to harm
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "8"
 name: Phase Hurl
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl
 target: One creature
-tier1: 9 + A damage; push 5; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: 18 + A damage; push 10; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
 
 *You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

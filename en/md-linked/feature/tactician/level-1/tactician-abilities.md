@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** Each target gains 1 [surge](../../../rule/resource/surge.md).
 - **12-16:** Each target gains 2 [surges](../../../rule/resource/surge.md).
@@ -40,11 +40,11 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 *Your precise strike leaves your foe struggling to respond.*
 
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; M < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -55,15 +55,15 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 *Your attack gives an ally hope.*
 
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../rule/health/recoveries.md)
 - **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../rule/health/recoveries.md)
-- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../../../rule/health/recoveries.md), and each of you gains an edge on the next ability roll you make during the encounter
+- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../../../rule/health/recoveries.md), and each of you gains an [edge](../../../rule/dice/edge.md) on the next ability roll you make during the encounter
 
 ### Squad! Forward! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/squad-forward"}
 

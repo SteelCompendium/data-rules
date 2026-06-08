@@ -26,11 +26,11 @@ While you are not [dying](../../../rule/health/dying.md), time behaves irregular
 
 ## Kinetic Amplifier {data-scc="mcdm.heroes.v1/feature.talent.level-5/kinetic-amplifier"}
 
-Whenever you force move a creature, you can spend up to 2 [surges](../../../rule/resource/surge.md). For each [surge](../../../rule/resource/surge.md) spent, the [forced movement](../../../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
+Whenever you force move a creature, you can spend up to 2 [surges](../../../rule/resource/surge.md). For each [surge](../../../rule/resource/surge.md) spent, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Remote Amplification {data-scc="mcdm.heroes.v1/feature.talent.level-5/remote-amplification"}
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to 1 mile.
+The [distance](../../../rule/combat/distance.md) of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to 1 mile.
 
 ## Speed of Thought {data-scc="mcdm.heroes.v1/feature.talent.level-5/speed-of-thought"}
 
@@ -38,4 +38,4 @@ Once per combat round while you are not [dying](../../../rule/health/dying.md), 
 
 ## Triangulate {data-scc="mcdm.heroes.v1/feature.talent.level-5/triangulate"}
 
-Whenever an ally uses a ranged ability while you are within the ability's distance, you can spend 1 clarity as a free triggered action to allow them to use the ability as if they were in your space.
+Whenever an ally uses a ranged ability while you are within the ability's [distance](../../../rule/combat/distance.md), you can spend 1 clarity as a free triggered action to allow them to use the ability as if they were in your space.

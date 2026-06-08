@@ -84,7 +84,7 @@ Polearms are two-handed melee weapons with long hafts that increase the wielder'
 
 ##### Unarmed Strikes
 
-Any kit that uses unarmed strikes allows you to use your body as a weapon. Punches, kicks, eye gouges, and the like are your forte.
+Any kit that uses unarmed [strikes](../rule/combat/strike.md) allows you to use your body as a weapon. Punches, kicks, eye gouges, and the like are your forte.
 
 ##### Whip
 
@@ -98,7 +98,7 @@ If you find a piece of equipment you really want to use that isn't part of your 
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your [Stamina](../rule/health/stamina.md), speed, and stability, as well as the damage and distance of your weapon abilities, including your [free strikes](../feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your [Stamina](../rule/health/stamina.md), speed, and stability, as well as the damage and [distance](../rule/combat/distance.md) of your weapon abilities, including your [free strikes](../feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
@@ -124,9 +124,9 @@ For example, the [Shining Armor](../kit/shining-armor.md) kit has a +2/+2/+2 mel
 
 #### Distance Bonus
 
-A kit's melee distance bonus increases the distance of abilities with the Melee and Weapon keywords. A kit's ranged distance bonus increases the distance of abilities with the Ranged and Weapon keywords.
+A kit's melee [distance](../rule/combat/distance.md) bonus increases the [distance](../rule/combat/distance.md) of abilities with the Melee and Weapon keywords. A kit's ranged [distance](../rule/combat/distance.md) bonus increases the [distance](../rule/combat/distance.md) of abilities with the Ranged and Weapon keywords.
 
-A distance bonus doesn't increase the size of any ability's area of effect.
+A [distance](../rule/combat/distance.md) bonus doesn't increase the size of any ability's area of effect.
 
 #### Disengage Bonus
 
@@ -134,7 +134,7 @@ A kit that has a disengage bonus increases the number of squares you can [shift]
 
 ### Kit Signature Ability
 
-Each kit grants a signature ability, **whose distance and damage already includes the kit's bonuses**. For instance, the [Guisarmier](../kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a distance of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that distance and damage including the bonuses from the kit.
+Each kit grants a signature ability, **whose [distance](../rule/combat/distance.md) and damage already includes the kit's bonuses**. For instance, the [Guisarmier](../kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a [distance](../rule/combat/distance.md) of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that [distance](../rule/combat/distance.md) and damage including the bonuses from the kit.
 
 For details on the ability format, see Abilities in Chapter 5: [Classes](classes.md).
 
@@ -144,7 +144,7 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 > **Improvised Weapons**
 >
-> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../feature/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed [strikes](../rule/combat/strike.md), then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../feature/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
 >
 > Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../feature/common/main-actions/free-strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
@@ -154,24 +154,24 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 - If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's [Stamina](../rule/health/stamina.md) bonus and stability bonus. If you lose your shield but keep the rest of your armor, your [Stamina](../rule/health/stamina.md) decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its [Stamina](../rule/health/stamina.md) bonus, even if you aren't actively wielding it.
 - If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's melee damage bonus.
-- If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and distance bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
-- If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee distance bonus.
+- If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and [distance](../rule/combat/distance.md) bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
+- If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee [distance](../rule/combat/distance.md) bonus.
 - If your kit has an ensnaring weapon you aren't wielding, you lose the kit's signature ability.
-- If your kit has a bow weapon you aren't wielding, you lose the kit's ranged damage bonus and distance bonus.
+- If your kit has a bow weapon you aren't wielding, you lose the kit's ranged damage bonus and [distance](../rule/combat/distance.md) bonus.
 
 ###### Kits Table
 
-| Kit              | Armor          | Weapon             | [Stamina](../rule/health/stamina.md) per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
+| Kit              | Armor          | Weapon             | [Stamina](../rule/health/stamina.md) per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee [Distance](../rule/combat/distance.md) | Ranged [Distance](../rule/combat/distance.md) | Disengage |
 |------------------|----------------|--------------------|---------------------|-------|-----------|--------------|---------------|----------------|-----------------|-----------|
 | [Arcane Archer](../kit/arcane-archer.md)    | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
 | [Battlemind](../kit/battlemind.md)       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
 | [Cloak and Dagger](../kit/cloak-and-dagger.md) | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | [Dual Wielder](../kit/dual-wielder.md)     | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
 | [Guisarmier](../kit/guisarmier.md)       | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
-| [Martial Artist](../kit/martial-artist.md)   | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Martial Artist](../kit/martial-artist.md)   | None           | Unarmed [strikes](../rule/combat/strike.md)    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
 | [Mountain](../kit/mountain.md)         | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
 | [Panther](../kit/panther.md)          | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
-| [Pugilist](../kit/pugilist.md)         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| [Pugilist](../kit/pugilist.md)         | None           | Unarmed [strikes](../rule/combat/strike.md)    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
 | [Raider](../kit/raider.md)           | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | [Ranger](../kit/ranger.md)           | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | [Rapid-Fire](../kit/rapid-fire.md)       | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |

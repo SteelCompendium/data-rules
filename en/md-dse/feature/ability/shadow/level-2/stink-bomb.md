@@ -17,13 +17,9 @@ keywords:
     - Ranged
 level: "2"
 name: Stink Bomb
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/stink-bomb
 source: mcdm.heroes.v1
 target: Each creature in the area
-tier1: 2 poison damage
-tier2: 5 poison damage
-tier3: 7 poison damage
 type: ability
 ---
 
@@ -32,10 +28,6 @@ cost: 5 Insight
 distance: 3 cube within 10
 effects:
     - effect: The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).
-    - roll: Power Roll + Agility
-      tier1: 2 poison damage
-      tier2: 5 poison damage
-      tier3: 7 poison damage
 feature_type: ability
 flavor: Putrid yellow gas explodes from a bomb you toss.
 keywords:
@@ -53,12 +45,8 @@ metadata:
         - Ranged
     level: "2"
     name: Stink Bomb
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-2/stink-bomb
     target: Each creature in the area
-    tier1: 2 poison damage
-    tier2: 5 poison damage
-    tier3: 7 poison damage
     type: ability
 name: Stink Bomb
 target: Each creature in the area

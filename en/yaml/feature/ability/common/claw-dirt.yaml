@@ -1,15 +1,12 @@
 distance: Self
 effects:
-    - roll: Power Roll + Might
-      tier1: You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](scc:mcdm.heroes.v1/condition/slowed) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (EoT).
-      tier2: You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).
-      tier3: You can move 1 square into, out of, or through ground you are touching that can be burrowed through.
+    - effect: ""
 feature_type: ability
 keywords:
     - '-'
 metadata:
     action_type: Maneuver
-    content: "| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Power Roll + Might:**\n\n- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](scc:mcdm.heroes.v1/condition/slowed) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (EoT).\n- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).\n- **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through."
+    content: "| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](scc:mcdm.heroes.v1/condition/slowed) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (EoT).\n- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).\n- **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through."
     distance: Self
     feature_type: ability
     item_id: claw-dirt

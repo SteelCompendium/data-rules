@@ -5,7 +5,7 @@ cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
 distance: 5 cube within 10
-effect: Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
+effect: Each ally within [distance](../../../../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
 feature_type: ability
 file_basename: the-show-must-go-on
 file_dpath: feature/ability/troubadour/level-8
@@ -18,13 +18,9 @@ keywords:
     - Ranged
 level: "8"
 name: The Show Must Go On
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 6 damage; P < WEAK, the target can't willingly leave the area (EoT)
-tier2: 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
-tier3: 12 damage; the target can't willingly leave the area (EoT); if P < STRONG, they can't willingly leave the area (save ends)
 type: ability
 ---
 
@@ -32,11 +28,7 @@ type: ability
 cost: 11 Drama
 distance: 5 cube within 10
 effects:
-    - effect: Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
-    - roll: Power Roll + Presence
-      tier1: 6 damage; P < WEAK, the target can't willingly leave the area (EoT)
-      tier2: 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
-      tier3: 12 damage; the target can't willingly leave the area (EoT); if P < STRONG, they can't willingly leave the area (save ends)
+    - effect: Each ally within [distance](../../../../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
 feature_type: ability
 flavor: You shine a bright light on the players on the stage and compel them to finish the performance.
 keywords:
@@ -48,7 +40,7 @@ metadata:
     class: troubadour
     cost: 11 Drama
     distance: 5 cube within 10
-    effect: Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
+    effect: Each ally within [distance](../../../../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
     flavor: You shine a bright light on the players on the stage and compel them to finish the performance.
     keywords:
         - Area
@@ -56,12 +48,8 @@ metadata:
         - Ranged
     level: "8"
     name: The Show Must Go On
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on
     target: Each enemy in the area
-    tier1: 6 damage; P < WEAK, the target can't willingly leave the area (EoT)
-    tier2: 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
-    tier3: 12 damage; the target can't willingly leave the area (EoT); if P < STRONG, they can't willingly leave the area (save ends)
     type: ability
 name: The Show Must Go On
 target: Each enemy in the area

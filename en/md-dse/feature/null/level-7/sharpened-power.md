@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability has any power roll, that roll gains an edge.
+    - effect: If the ability has any power roll, that roll gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
 feature_type: feature
 metadata:
     class: "null"

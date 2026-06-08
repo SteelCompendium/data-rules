@@ -32,10 +32,10 @@ As your ferocity grows, you gain benefits as noted on the Reaver [Growing Feroci
 
 ## Primordial Strength {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-strength"}
 
-Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
+Whenever you damage an object with a weapon [strike](../../../rule/combat/strike.md), the [strike](../../../rule/combat/strike.md) deals extra damage equal to your [Might](../../../rule/character/might.md) score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your [Might](../../../rule/character/might.md) score.
 
 As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ## Relentless Hunter {data-scc="mcdm.heroes.v1/feature.fury.level-1/relentless-hunter"}
 
-You gain an edge on tests made using the [Track](../../../skill/track.md) skill.
+You gain an [edge](../../../rule/dice/edge.md) on tests made using the [Track](../../../skill/track.md) skill.

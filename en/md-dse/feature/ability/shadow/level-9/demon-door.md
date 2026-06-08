@@ -15,17 +15,13 @@ item_name: Demon Door
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "9"
 name: Demon Door
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/demon-door
 source: mcdm.heroes.v1
 target: One creature
-tier1: 13 + A corruption damage; push 3
-tier2: 18 + A corruption damage; push 5
-tier3: 25 + A corruption damage; push 7
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 11 Insight
 distance: Melee 3
 effects:
     - effect: On a critical hit, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
-    - roll: Power Roll + Agility
-      tier1: 13 + A corruption damage; push 3
-      tier2: 18 + A corruption damage; push 5
-      tier3: 25 + A corruption damage; push 7
 feature_type: ability
 flavor: You create a temporary portal to allow a massive demonic hand to reach through.
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Magic
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "9"
     name: Demon Door
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-9/demon-door
     target: One creature
-    tier1: 13 + A corruption damage; push 3
-    tier2: 18 + A corruption damage; push 5
-    tier3: 25 + A corruption damage; push 7
     type: ability
 name: Demon Door
 target: One creature

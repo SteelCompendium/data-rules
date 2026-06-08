@@ -17,11 +17,11 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 *Attacks with your sharp and deadly claws grab the weak.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../rule/character/might.md):**
 
 - **≤11:** 2 + M damage; M < WEAK, [grabbed](../condition/grabbed.md)
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)

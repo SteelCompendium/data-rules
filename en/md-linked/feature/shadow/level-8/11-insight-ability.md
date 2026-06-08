@@ -13,11 +13,11 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 *A practiced attack will instantly kill an already weakened foe.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 12 + A damage
 - **12-16:** 18 + A damage
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 |-----------------|------------------------------:|
 | **📏 2 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 11 corruption damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -43,13 +43,13 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 ## Speed of Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/speed-of-shadows"}
 
 
-*You make multiple strikes against a foe before they even notice they're dead.*
+*You make multiple [strikes](../../../rule/combat/strike.md) against a foe before they even notice they're dead.*
 
 | **Magic**   | **Main action** |
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](../../../movement/shifting.md) up to 2 squares between each use.
+**Effect:** You can use a [strike](../../../rule/combat/strike.md) signature ability four times, use a [strike](../../../rule/combat/strike.md) signature ability that gains an [edge](../../../rule/dice/edge.md) three times, or use a [strike](../../../rule/combat/strike.md) signature ability that has a double [edge](../../../rule/dice/edge.md) twice. You can [shift](../../../movement/shifting.md) up to 2 squares between each use.
 
 ## They Always Line Up {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up"}
 
@@ -60,7 +60,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 12 damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 18 damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)

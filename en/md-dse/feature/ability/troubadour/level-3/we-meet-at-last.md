@@ -5,7 +5,7 @@ cost: 7 Drama
 cost_amount: "7"
 cost_resource: Drama
 distance: Ranged 10
-effect: Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by an ability used beyond distance this way.
+effect: Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](scc:mcdm.heroes.v1/rule.combat/distance), with the [distance](scc:mcdm.heroes.v1/rule.combat/distance) of this ability replacing those abilities' [distances](scc:mcdm.heroes.v1/rule.combat/distance). The target can't be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by an ability used beyond [distance](scc:mcdm.heroes.v1/rule.combat/distance) this way.
 feature_type: ability
 file_basename: we-meet-at-last
 file_dpath: feature/ability/troubadour/level-3
@@ -27,7 +27,7 @@ type: ability
 cost: 7 Drama
 distance: Ranged 10
 effects:
-    - effect: Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by an ability used beyond distance this way.
+    - effect: Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](scc:mcdm.heroes.v1/rule.combat/distance), with the [distance](scc:mcdm.heroes.v1/rule.combat/distance) of this ability replacing those abilities' [distances](scc:mcdm.heroes.v1/rule.combat/distance). The target can't be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by an ability used beyond [distance](scc:mcdm.heroes.v1/rule.combat/distance) this way.
 feature_type: ability
 flavor: You magically intertwine your fate with another creature—for better or worse.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: troubadour
     cost: 7 Drama
     distance: Ranged 10
-    effect: Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by an ability used beyond distance this way.
+    effect: Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](scc:mcdm.heroes.v1/rule.combat/distance), with the [distance](scc:mcdm.heroes.v1/rule.combat/distance) of this ability replacing those abilities' [distances](scc:mcdm.heroes.v1/rule.combat/distance). The target can't be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by an ability used beyond [distance](scc:mcdm.heroes.v1/rule.combat/distance) this way.
     flavor: You magically intertwine your fate with another creature—for better or worse.
     keywords:
         - Magic

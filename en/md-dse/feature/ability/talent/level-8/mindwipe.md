@@ -15,17 +15,13 @@ item_name: Mindwipe
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Telepathy
 level: "8"
 name: Mindwipe
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/mindwipe
 source: mcdm.heroes.v1
 target: One creature
-tier1: 12 + R damage; R < WEAK, the target takes a bane on their next power roll
-tier2: 17 + R damage; R < AVERAGE, the target takes a bane on power rolls (save ends)
-tier3: 23 + R damage; R < STRONG, the target has a double bane on power rolls (save ends)
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 11 Clarity
 distance: Melee 2
 effects:
     - effect: The target can't communicate with anyone until the end of the encounter.
-    - roll: Power Roll + Reason
-      tier1: 12 + R damage; R < WEAK, the target takes a bane on their next power roll
-      tier2: 17 + R damage; R < AVERAGE, the target takes a bane on power rolls (save ends)
-      tier3: 23 + R damage; R < STRONG, the target has a double bane on power rolls (save ends)
 feature_type: ability
 flavor: You attempt to make them forget all their training.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Telepathy
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Telepathy
     level: "8"
     name: Mindwipe
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-8/mindwipe
     target: One creature
-    tier1: 12 + R damage; R < WEAK, the target takes a bane on their next power roll
-    tier2: 17 + R damage; R < AVERAGE, the target takes a bane on power rolls (save ends)
-    tier3: 23 + R damage; R < STRONG, the target has a double bane on power rolls (save ends)
     type: ability
 name: Mindwipe
 target: One creature

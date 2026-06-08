@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |--------------------------------|------------------------------:|
 | **📏 3 burst**                 | **🎯 Each enemy in the area** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 7 damage; push 3
 - **12-16:** 10 damage; push 5
@@ -38,7 +38,7 @@ Choose one of the following abilities.
 |--------------------------------|------------------------------:|
 | **📏 3 burst**                 | **🎯 Each enemy in the area** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 damage; vertical pull 3
 - **12-16:** 5 damage; vertical pull 5
@@ -55,34 +55,34 @@ Choose one of the following abilities.
 
 *You attune the target to be weaker to a specific element.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 11 + M damage
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity to the chosen type and gains weakness 10 to the chosen type (save ends).
+**Effect:** Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any [damage immunity](../../../rule/damage/damage-immunity.md) to the chosen type and gains weakness 10 to the chosen type (save ends).
 
 ### Shower of Blood {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/shower-of-blood"}
 
 
-*You shock your foes with the brutality of your strike, resetting the balance of combat.*
+*You shock your foes with the brutality of your [strike](../../../rule/combat/strike.md), resetting the balance of combat.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 12 + M damage
 - **12-16:** 18 + M damage
 - **17+:** 24 + M damage
 
-**Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.
+**Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an [edge](../../../rule/dice/edge.md), and their [characteristic](../../../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting potencies.
 
 ## 9th-Level Stormwight Abilities
 
@@ -97,7 +97,7 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 3 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../rule/health/stamina.md)
 - **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../rule/health/stamina.md), as does one [winded](../../../rule/health/winded.md) target who is not a leader or solo creature
@@ -112,10 +112,10 @@ Choose one of the following abilities.
 |-------------------------|------------------------------:|
 | **📏 5 cube within 10** | **🎯 Each enemy in the area** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 7 damage
 - **12-16:** 10 damage
 - **17+:** 15 damage
 
-**Effect:** This ability deals your primordial damage type and ignores damage immunity.
+**Effect:** This ability deals your primordial [damage type](../../../rule/damage/damage-type.md) and ignores [damage immunity](../../../rule/damage/damage-immunity.md).

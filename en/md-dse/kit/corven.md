@@ -21,7 +21,7 @@ With this stormwight kit, you channel your [primordial ferocity](scc:mcdm.heroes
 |-------------------------|------------------------------:|
 | **📏 1 burst**          | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 3 damage
 - **12-16:** 6 damage
@@ -33,10 +33,6 @@ With this stormwight kit, you channel your [primordial ferocity](scc:mcdm.heroes
 distance: 1 burst
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares before or after making the power roll.
-    - roll: Power Roll + Agility
-      tier1: 3 damage
-      tier2: 6 damage
-      tier3: 8 damage
 feature_type: ability
 flavor: Foes who try to close in around you do so at their peril.
 keywords:
@@ -53,12 +49,8 @@ metadata:
         - Melee
         - Weapon
     name: Wing Buffet
-    power_roll_characteristic: Agility
     subtype: signature
     target: Each enemy in the area
-    tier1: 3 damage
-    tier2: 6 damage
-    tier3: 8 damage
     type: ability
 name: Wing Buffet
 target: Each enemy in the area

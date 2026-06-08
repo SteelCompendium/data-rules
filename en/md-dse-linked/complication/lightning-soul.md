@@ -1,6 +1,6 @@
 ---
 benefit: Whenever you regain [Stamina](../rule/health/stamina.md) in combat, you gain 1 [surge](../rule/resource/surge.md). Whenever you spend a [surge](../rule/resource/surge.md) to deal extra damage, you can make that extra damage into lightning damage.
-drawback: Whenever you are wet, you have damage weakness 5.
+drawback: Whenever you are wet, you have [damage weakness](../rule/damage/damage-weakness.md) 5.
 file_basename: lightning-soul
 file_dpath: complication
 item_id: lightning-soul
@@ -15,4 +15,4 @@ You were caught in a storm and struck by lightning—but something saved you fro
 
 **Benefit:** Whenever you regain [Stamina](../rule/health/stamina.md) in combat, you gain 1 [surge](../rule/resource/surge.md). Whenever you spend a [surge](../rule/resource/surge.md) to deal extra damage, you can make that extra damage into lightning damage.
 
-**Drawback:** Whenever you are wet, you have damage weakness 5.
+**Drawback:** Whenever you are wet, you have [damage weakness](../rule/damage/damage-weakness.md) 5.

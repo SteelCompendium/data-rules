@@ -27,7 +27,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ## Blessing of Iron {data-scc="mcdm.heroes.v1/feature.conduit.level-7/blessing-of-iron"}
 
-The gods send divine favor to you and your allies. While you are not [dying](../../../rule/health/dying.md), enemies take a bane on strikes against you or any ally within 3 squares of you.
+The gods send divine favor to you and your allies. While you are not [dying](../../../rule/health/dying.md), enemies take a [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) against you or any ally within 3 squares of you.
 
 ## Covenant of the Heart {data-scc="mcdm.heroes.v1/feature.conduit.level-7/covenant-of-the-heart"}
 
@@ -64,17 +64,17 @@ Sun infuses your body. Whenever you use an ability to deal rolled damage to anot
 
 When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:
 
-- Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different damage immunity each time.
+- Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different [damage immunity](../../../rule/damage/damage-immunity.md) each time.
 - Each creature gains 20 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - Each creature gains a +1 bonus to speed.
 - Each creature gains a +1 bonus to saving throws.
-- Each creature gains an edge on tests made to influence other creatures.
+- Each creature gains an [edge](../../../rule/dice/edge.md) on tests made to influence other creatures.
 
 Each benefit lasts until the creature who gains it finishes another respite.
 
 ## Thunderstruck {data-scc="mcdm.heroes.v1/feature.conduit.level-7/thunderstruck"}
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../../../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../../../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
+Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../../../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.conduit.level-7/trinity-of-trickery"}
 
@@ -89,11 +89,11 @@ You have the following ability.
 |--------------------|------------------------:|
 | **📏 Ranged 10**   | **🎯 Self or one ally** |
 
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../../../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ## Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.conduit.level-7/word-of-death-deferred"}
 
-You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../ability/conduit/level-1/healing-grace.md) ability dies and you are not [dying](../../../rule/health/dying.md), you can use a free [triggered action](../level-1/triggered-action.md) to instead have that ally fall unconscious until they regain [Stamina](../../../rule/health/stamina.md).
+You can stop death from taking your allies. When an ally within [distance](../../../rule/combat/distance.md) of your [Healing Grace](../../ability/conduit/level-1/healing-grace.md) ability dies and you are not [dying](../../../rule/health/dying.md), you can use a free [triggered action](../level-1/triggered-action.md) to instead have that ally fall unconscious until they regain [Stamina](../../../rule/health/stamina.md).
 
 Additionally, your abilities deal an extra 5 damage to [winded](../../../rule/health/winded.md) creatures.
 

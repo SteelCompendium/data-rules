@@ -17,7 +17,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with [concealment](../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../chapter/tests.md)).
+**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) against creatures with [concealment](../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../chapter/tests.md)).
 
 ## "Never-Ending Hero" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero"}
 
@@ -28,4 +28,4 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn [dying](../../../rule/health/dying.md) while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../condition/bleeding.md) until the end of their turn.
+**Effect:** While this performance is active, each target who starts their turn [dying](../../../rule/health/dying.md) while in the area gains an [edge](../../../rule/dice/edge.md) on power rolls and ignores the effects of [bleeding](../../../condition/bleeding.md) until the end of their turn.

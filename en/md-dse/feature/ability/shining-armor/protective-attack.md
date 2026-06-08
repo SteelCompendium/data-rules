@@ -10,7 +10,7 @@ item_id: protective-attack
 item_name: Protective Attack
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 kit: shining-armor
 name: Protective Attack
@@ -29,7 +29,7 @@ feature_type: ability
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -38,7 +38,7 @@ metadata:
     flavor: The strength of your assault makes it impossible for your foe to ignore you.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     kit: shining-armor
     name: Protective Attack

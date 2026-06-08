@@ -16,7 +16,7 @@ If you have a kit, you can't take this [enchantment](enchantment.md).
 
 ## Enchantment of Celerity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-celerity"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
+You gain a +1 bonus to speed and to the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
 
 ## Enchantment of Destruction {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-destruction"}
 
@@ -24,7 +24,7 @@ You gain a +1 bonus to rolled damage with magic abilities.
 
 ## Enchantment of Distance {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-distance"}
 
-You have a +2 bonus to the distance of your ranged magic abilities.
+You have a +2 bonus to the [distance](../../../rule/combat/distance.md) of your ranged magic abilities.
 
 ## Enchantment of Permanence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-permanence"}
 

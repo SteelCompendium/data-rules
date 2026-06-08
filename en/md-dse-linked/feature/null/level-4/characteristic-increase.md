@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Agility and Intuition scores each increase to 3.
+    - effect: Your [Agility](../../../rule/character/agility.md) and [Intuition](../../../rule/character/intuition.md) scores each increase to 3.
 feature_type: feature
 metadata:
     class: "null"

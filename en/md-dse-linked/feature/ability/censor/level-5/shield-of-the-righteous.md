@@ -13,17 +13,13 @@ item_id: shield-of-the-righteous
 item_name: Shield of the Righteous
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
 name: Shield of the Righteous
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous
 source: mcdm.heroes.v1
 target: One creature
-tier1: 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
-tier2: 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
-tier3: 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
 type: ability
 ---
 
@@ -31,15 +27,12 @@ type: ability
 cost: 9 Wrath
 distance: Melee 1
 effects:
-    - roll: Power Roll + Might
-      tier1: 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
-      tier2: 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
-      tier3: 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+    - effect: "\n*You strike a foe and create a fleet of divine shields that protect your allies.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |          **Main action** |\n|---------------------------|-------------------------:|\n| **\U0001F4CF Melee 1**            |      **\U0001F3AF One creature** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)\n- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)\n- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)"
 feature_type: ability
 flavor: You strike a foe and create a fleet of divine shields that protect your allies.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -49,16 +42,12 @@ metadata:
     flavor: You strike a foe and create a fleet of divine shields that protect your allies.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "5"
     name: Shield of the Righteous
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous
     target: One creature
-    tier1: 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
-    tier2: 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
-    tier3: 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
     type: ability
 name: Shield of the Righteous
 target: One creature

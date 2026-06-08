@@ -39,7 +39,7 @@ Strategy is: "What are we trying to do?" Break a siege, free a prisoner, rescue 
 
 Tactics is about: "How are we going to do that?" We're going to... surround them! Sneak around them! Pick them off one by one! Kill their leader first. Kill their priest first! "No resurrections!"
 
-In a tactical game, *positioning matters*. So our game is played on a grid. Effects and distances are measured in squares. This means all players are focused on the same problem, and there is no ambiguity regarding where the heroes and villains are in relation to each other. The hobgoblin troopers are setting themselves up in a line to stop our [tactician](../class/tactician.md) and [fury](../class/fury.md) from getting into melee with the hobgoblin war mage. We're all aware of what's happening, and we can talk about what we're going to do to stop it.
+In a tactical game, *positioning matters*. So our game is played on a grid. Effects and [distances](../rule/combat/distance.md) are measured in squares. This means all players are focused on the same problem, and there is no ambiguity regarding where the heroes and villains are in relation to each other. The hobgoblin troopers are setting themselves up in a line to stop our [tactician](../class/tactician.md) and [fury](../class/fury.md) from getting into melee with the hobgoblin war mage. We're all aware of what's happening, and we can talk about what we're going to do to stop it.
 
 That means *teamwork matters*. That's why the order of combat works the way it does—to encourage the players to plan! "Okay, you use [Concussive Slam](../feature/ability/time-raider/concussive-slam.md) on that trooper, it'll push him back, and on my turn, I can use Squad! Forward! to get us all into melee with the death captain." We think focusing on teamwork also makes the game more heroic!
 
@@ -47,7 +47,7 @@ In a tactical game, you have many choices each combat round. You are never reduc
 
 As you play with the same group of characters, you learn what they can all do. You discover synergies, "combos." Some of them intended by the designers, some not! You start to learn these unique characters, and to rely on them to do their cool things. It's a great feeling when another player comes up with a cool plan that relies on your unique abilities.
 
-You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push themselves right to the edge and keep fighting. "Don't worry about healing Barlaca. She's our [fury](../class/fury.md). She's happier with 3 [Stamina](../rule/health/stamina.md)." Our game is not *about* tactics. It's not a wargame. But it is tactical.
+You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push themselves right to the [edge](../rule/dice/edge.md) and keep fighting. "Don't worry about healing Barlaca. She's our [fury](../class/fury.md). She's happier with 3 [Stamina](../rule/health/stamina.md)." Our game is not *about* tactics. It's not a wargame. But it is tactical.
 
 ### Heroic
 
@@ -94,12 +94,12 @@ For us, fantasy includes magic, like wizards casting spells, and psionics, the n
 We know that many folks are coming to this game having only experienced d20 fantasy RPGs. This section details a few key distinctions between this game and typical d20 fantasy that you'll notice right away. These aren't the only distinctions, but they're the most obvious.
 
 - **Character options are different.** We strongly recommend you start exploring *Draw Steel* by looking through the character creation section before you decide what you want to play. You can't just assume the [conduit](../class/conduit.md) is "basically a cleric." In some ways, it is! But in other ways, it's quite different. You might have some cool character archetype you love to play in d20 fantasy, and you're [dying](../rule/health/dying.md) to see how that might work in *Draw Steel*. But you'll have a lot more fun if you start by browsing the [Ancestries](ancestries.md) and [Classes](classes.md) sections and getting inspired. Once you know a bit more about how the game works, you'll have a better handle on how to build your favorite character the *Draw Steel* way.
-- **Smaller bonuses and penalties.** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes—tier 1, tier 2, or tier 3. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes—success or failure. But we've run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you make to determine success both in and out of combat—if you have a decent characteristic bonus to add to those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you'll do even better.
+- **Smaller bonuses and penalties.** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes—tier 1, tier 2, or tier 3. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes—success or failure. But we've run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you make to determine success both in and out of combat—if you have a decent [characteristic](../rule/character/characteristic.md) bonus to add to those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you'll do even better.
 - **Abilities automatically deal damage.** When you use an ability—one of the unique combat features that defines your character—you can still have a bad turn! A tier 1 outcome with minimal damage and effects is the worst outcome you can obtain with an ability. It's not awesome. But you're still always making progress. The question is: Who's making progress faster? You or the monsters? Since there's no, "I miss, who's next?" in this game, fights typically last 3 or fewer rounds. A fight that lasts 5 rounds is a *long* fight. Because everyone's always doing damage!
 - **You don't need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other features dwindle as the adventuring day goes on. In *Draw Steel*, you need to rest to regain your [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md)—the stats that determine how robust you are in combat. But all characters earn the capability to use their magic and other awesome abilities as they adventure, encouraging you to press on heroically.
-- **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the [Tests](tests.md) chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to characteristics. If you're trying to lose someone in a crowd, you can use Presence—the characteristic that represents your character's force of personality—to try to hide! Why not?
+- **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the [Tests](tests.md) chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to [characteristics](../rule/character/characteristic.md). If you're trying to lose someone in a crowd, you can use [Presence](../rule/character/presence.md)—the [characteristic](../rule/character/characteristic.md) that represents your character's force of personality—to try to hide! Why not?
 - **We won't be able to point out every difference.** Beyond what's noted here, don't assume that these rules work like any d20 fantasy game you've played. We don't have the space to point out every exception. So if you're in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you'll find that things make better sense. If you're still confused, stop by the *MCDM Discord* and ask. We've got tons of awesome community members ready to help!
-- **We don't expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don't stress if you need to look something up or make a ruling about an edge case on the fly. If everyone's having fun, you're doing it right.
+- **We don't expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don't stress if you need to look something up or make a ruling about an [edge](../rule/dice/edge.md) case on the fly. If everyone's having fun, you're doing it right.
 
 ## Glossary Index
 
@@ -115,15 +115,15 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Advance](../feature/common/move-actions/advance.md) Move Action:** A move action that allows a creature to move a number of squares up to their speed. This movement can be broken up by a creature's maneuver and main action.
 
-**[Agility](../rule/character/agility.md):** A characteristic that represents a creature's coordination and nimbleness.
+**[Agility](../rule/character/agility.md):** A [characteristic](../rule/character/characteristic.md) that represents a creature's coordination and nimbleness.
 
-**[Aid Attack](../feature/common/maneuvers/aid-attack.md) Maneuver:** A maneuver that allows a creature to choose an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
+**[Aid Attack](../feature/common/maneuvers/aid-attack.md) Maneuver:** A maneuver that allows a creature to choose an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an [edge](../rule/dice/edge.md).
 
 **[Ally](../rule/combat/ally.md):** A creature who is willingly friendly to another creature.
 
 **[Ancestry](ancestries.md):** A humanoid creature's species. Every hero has an ancestry.
 
-**[Area of Effect](../rule/combat/area-of-effect.md):** The squares affected by an ability that creates an aura, burst, cube, line, or wall. (An ability that creates an area of effect affects targets simply by those targets being in its area, as opposed to a strike.)
+**[Area of Effect](../rule/combat/area-of-effect.md):** The squares affected by an ability that creates an aura, burst, cube, line, or wall. (An ability that creates an area of effect affects targets simply by those targets being in its area, as opposed to a [strike](../rule/combat/strike.md).)
 
 **[Argument](negotiation.md):** A plea the heroes make during a negotiation to convince one or more NPCs to work with them.
 
@@ -137,7 +137,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Bane](../rule/dice/bane.md):** A situational disadvantage that gives a creature a −2 penalty to a power roll.
 
-**[Bleeding](../condition/bleeding.md):** A condition that causes a creature to take 1d6 + level damage whenever they use a main action or triggered action, or make a power roll using Might or Agility.
+**[Bleeding](../condition/bleeding.md):** A condition that causes a creature to take 1d6 + level damage whenever they use a main action or triggered action, or make a power roll using [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md).
 
 **[Bonus](../rule/dice/bonuses-and-penalties.md):** A positive number that increases a creature's statistics or the roll of a die.
 
@@ -155,7 +155,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Censor](../class/censor.md):** A class for a hero who is a trained warrior devoted to a saint or god.
 
-**[Characteristics](../rule/character/characteristic.md):** Statistics used to represent a creature's mental and physical prowess, broken out as Might, Agility, Reason, Intuition, and Presence. Each characteristic has a score that ranges from −5 to +5.
+**[Characteristics](../rule/character/characteristic.md):** Statistics used to represent a creature's mental and physical prowess, broken out as [Might](../rule/character/might.md), [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), and [Presence](../rule/character/presence.md). Each characteristic has a score that ranges from −5 to +5.
 
 **[Charge](../feature/common/main-actions/charge.md) Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../feature/common/main-actions/free-strike.md) or use an ability with the Charge keyword against a target when they end their move.
 
@@ -173,7 +173,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Complication](complications.md):** A dramatic narrative twist that deepens a hero's backstory and gives them a rules benefit and drawback. Complications are an optional rule.
 
-**[Concealment](../rule/combat/concealment.md):** A state where a target has their form entirely covered in a concealing effect that doesn't block line of effect, such as darkness or fog. While a target has concealment, strikes used against them take a bane.
+**[Concealment](../rule/combat/concealment.md):** A state where a target has their form entirely covered in a concealing effect that doesn't block line of effect, such as darkness or fog. While a target has concealment, strikes used against them take a [bane](../rule/dice/bane.md).
 
 **[Condition](../rule/combat/condition.md):** A negative effect that applies to a creature and uses a universal shorthand name. [Bleeding](../condition/bleeding.md), [dazed](../condition/dazed.md), [frightened](../condition/frightened.md), [grabbed](../condition/grabbed.md), [prone](../condition/prone.md),  [restrained](../condition/restrained.md), [slowed](../condition/slowed.md), [taunted](../condition/taunted.md), and [weakened](../condition/weakened.md) are conditions in *Draw Steel*.
 
@@ -183,7 +183,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Consumable](../rule/treasure/consumable.md):** A treasure that can be used a limited number of times before it is expended.
 
-**[Cover](../rule/combat/cover.md):** A state where a target has at least half their form, but not all their form, blocked by a solid obstruction. While a target has cover, damage-dealing abilities used against them take a bane.
+**[Cover](../rule/combat/cover.md):** A state where a target has at least half their form, but not all their form, blocked by a solid obstruction. While a target has cover, damage-dealing abilities used against them take a [bane](../rule/dice/bane.md).
 
 **[Crafting Project](../rule/downtime/crafting-project.md):** A downtime project undertaken to create a treasure, a vehicle, or some other object.
 
@@ -217,13 +217,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Dazed](../condition/dazed.md):** A condition that limits a creature to doing only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](../condition/dazed.md) creature also can't use triggered actions, free triggered actions, or free maneuvers.
 
-**[Defend](../feature/common/main-actions/defend.md) Main Action:** A main action that allows a creature to impose a double bane on all ability rolls made against them until the start of their next turn. Additionally, the creature has a double edge on tests when called for to resist environmental effects or a creature's traits or abilities.
+**[Defend](../feature/common/main-actions/defend.md) Main Action:** A main action that allows a creature to impose a double [bane](../rule/dice/bane.md) on all ability rolls made against them until the start of their next turn. Additionally, the creature has a double [edge](../rule/dice/edge.md) on tests when called for to resist environmental effects or a creature's traits or abilities.
 
 **[Devil](../ancestry/devil.md):** An ancestry from the Seven Cities of Hell.
 
 **[Difficult Terrain](../movement/difficult-terrain.md):** An area of obstacles that are difficult to move through. It costs 1 additional square of movement to enter a square of [difficult terrain](../movement/difficult-terrain.md). A creature can't shift into or out of [difficult terrain](../movement/difficult-terrain.md), and can't jump out of [difficult terrain](../movement/difficult-terrain.md).
 
-**[Dig Maneuver](../movement/burrow.md):** A maneuver that allows a creature with "[burrow](../movement/burrow.md)" in their speed entry or the temporary ability to [burrow](../movement/burrow.md) to move a number of squares equal to their size vertically through dirt.
+**[Dig Maneuver](../movement/burrow.md):** A maneuver that allows a creature with "[burrow](../movement/burrow.md)" in their speed entry or the temporary ability to [burrow](../movement/burrow.md) to move a number of squares equal to their [size](../rule/character/size.md) vertically through dirt.
 
 **[Director](for-the-director.md):** The player who prepares, presents, and adjudicates the game for all the other players, who each create and run a hero.
 
@@ -233,9 +233,9 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Distance](../rule/combat/distance.md):** The number of squares away that a creature using an ability can affect targets with that ability. The "Distance" entry in an area ability also includes the type of area of effect created by that ability.
 
-**[Double Bane](../rule/dice/bane.md):** When a creature has two or more banes and no edges applied to a power roll, they have a double bane on the roll. A double bane applies no penalty to a power roll, but instead automatically decreases the tier outcome of the roll by one tier.
+**[Double Bane](../rule/dice/bane.md):** When a creature has two or more [banes](../rule/dice/bane.md) and no [edges](../rule/dice/edge.md) applied to a power roll, they have a double [bane](../rule/dice/bane.md) on the roll. A double [bane](../rule/dice/bane.md) applies no penalty to a power roll, but instead automatically decreases the tier outcome of the roll by one tier.
 
-**[Double Edge](../rule/dice/edge.md):** When a creature has two or more edges and no banes applied to a power roll, they have a double edge on the roll. A double edge adds no bonus to a power roll, but instead automatically increases the tier outcome of the roll by one tier.
+**[Double Edge](../rule/dice/edge.md):** When a creature has two or more [edges](../rule/dice/edge.md) and no [banes](../rule/dice/bane.md) applied to a power roll, they have a double [edge](../rule/dice/edge.md) on the roll. A double [edge](../rule/dice/edge.md) adds no bonus to a power roll, but instead automatically increases the tier outcome of the roll by one tier.
 
 **[Downtime Project](downtime-projects.md):** A task a hero undertakes during one or more respites.
 
@@ -265,11 +265,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Experience (XP)](../rule/resource/experience.md):** A hero's Victories convert to Experience when they finish a respite. Experience permanently increases a hero's capabilities by allowing them to increase in level.
 
-**[Falling](../rule/health/falling.md):** When a creature falls 2 or more squares, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](../condition/prone.md). A falling creature can reduce the effective height of their fall by a number of squares equal to their Agility score (minimum 0).
+**[Falling](../rule/health/falling.md):** When a creature falls 2 or more squares, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](../condition/prone.md). A falling creature can reduce the effective height of their fall by a number of squares equal to their [Agility](../rule/character/agility.md) score (minimum 0).
 
 **[Ferocity](../feature/fury/level-1/ferocity.md):** The [fury's](../class/fury.md) [Heroic Resource](../rule/resource/heroic-resource.md).
 
-**[Flanking](../rule/combat/flanking.md):** When two or more allied creatures are adjacent to and on opposite sides of an enemy, those creatures are flanking that enemy. A creature flanking an enemy gains an edge on melee strikes against that enemy.
+**[Flanking](../rule/combat/flanking.md):** When two or more allied creatures are adjacent to and on opposite sides of an enemy, those creatures are flanking that enemy. A creature flanking an enemy gains an [edge](../rule/dice/edge.md) on melee [strikes](../rule/combat/strike.md) against that enemy.
 
 **[Fly](../movement/fly.md):** A movement mode available to creatures with "[fly](../movement/fly.md)" in their speed entry, or who gain the capability to temporarily [fly](../movement/fly.md). Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a flying creature is made [prone](../condition/prone.md) or has their speed reduced to 0, they fall.
 
@@ -285,7 +285,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Free Triggered Action](../rule/combat/triggered-action.md):** An action a creature can use on any turn, including their own, but only when a specific trigger occurs. There is no limit to the number of free triggered actions a creature can take during combat.
 
-**[Frightened](../condition/frightened.md):** A condition that causes a creature to take a bane on ability rolls against the source of their fear. The creature can't willingly move closer to the source of their fear, and that source gains an edge on ability rolls made against the creature.
+**[Frightened](../condition/frightened.md):** A condition that causes a creature to take a [bane](../rule/dice/bane.md) on ability rolls against the source of their fear. The creature can't willingly move closer to the source of their fear, and that source gains an [edge](../rule/dice/edge.md) on ability rolls made against the creature.
 
 **[Fury](../class/fury.md):** A class for a hero warrior who courses with the ferocity of the Primordial Chaos.
 
@@ -293,7 +293,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Grab](../feature/common/maneuvers/grab.md) Maneuver:** A maneuver that allows a creature to make an ability roll to make another creature [grabbed](../condition/grabbed.md) by them.
 
-**[Grabbed](../condition/grabbed.md):** A condition that reduces a creature's speed to 0 and causes them to take a bane on abilities that don't target the creature, object, or effect that has them [grabbed](../condition/grabbed.md).
+**[Grabbed](../condition/grabbed.md):** A condition that reduces a creature's speed to 0 and causes them to take a [bane](../rule/dice/bane.md) on abilities that don't target the creature, object, or effect that has them [grabbed](../condition/grabbed.md).
 
 **[Ground](../rule/general/ground.md):** Any surface a creature could typically stand, sit, or lie upon.
 
@@ -317,13 +317,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[High Elves](../ancestry/high-elf.md):** A fey ancestry in tune with innate magic that affects how others interact with them.
 
-**[High Ground](../movement/high-ground.md):** A creature has the advantage of [high ground](../movement/high-ground.md) when they use an ability against a target while standing on the ground and occupying a space that is fully above the target's space. This advantage grants the creature an edge on the ability roll.
+**[High Ground](../movement/high-ground.md):** A creature has the advantage of [high ground](../movement/high-ground.md) when they use an ability against a target while standing on the ground and occupying a space that is fully above the target's space. This advantage grants the creature an [edge](../rule/dice/edge.md) on the ability roll.
 
 **[Hover](../movement/hover.md):** A creature who has "[hover](../movement/hover.md)" in their speed entry (commonly alongside "[fly](../movement/fly.md)" or "[teleport](../movement/teleport.md)"), or who gains the ability to temporarily [hover](../movement/hover.md), can remain motionless in midair. They don't fall even if they are knocked [prone](../condition/prone.md) or their speed is reduced to 0.
 
 **[Human](../ancestry/human.md):** An ancestry much like [humans](../ancestry/human.md) in the real world, except that they can sense magic.
 
-**[Humanoid](ancestries.md):** Creatures who are of similar size to, have similar limb arrangements as, and have sapience on par with [humans](../ancestry/human.md).
+**[Humanoid](ancestries.md):** Creatures who are of similar [size](../rule/character/size.md) to, have similar limb arrangements as, and have sapience on par with [humans](../ancestry/human.md).
 
 **[Implement](../rule/treasure/implement.md):** A piece of jewelry, a staff, an orb, a wand, or some other object used by a creature to channel supernatural power.
 
@@ -331,11 +331,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Interest](../rule/negotiation/interest.md):** A negotiation statistic that determines how interested an NPC is in helping out the heroes.
 
-**[Intuition](../rule/character/intuition.md):** A characteristic that represents a creature's instincts and experience.
+**[Intuition](../rule/character/intuition.md):** A [characteristic](../rule/character/characteristic.md) that represents a creature's instincts and experience.
 
 **[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Raw materials, a foundational object, or some other item that must be obtained before a downtime project can be started.
 
-**[Jump](../movement/jump.md):** A creature can automatically long jump a number of squares up to their Might or Agility score (their choice). The height of their jump is automatically 1 square as part of that movement. A creature who wants to jump farther or higher must make a Might or Agility test.
+**[Jump](../movement/jump.md):** A creature can automatically long jump a number of squares up to their [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score (their choice). The height of their jump is automatically 1 square as part of that movement. A creature who wants to jump farther or higher must make a [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) test.
 
 **[Kit](kits.md):** A fighting style that comes with equipment to match. Kits are available to most heroes who wield weapons and wear armor.
 
@@ -363,7 +363,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Memonek](../ancestry/memonek.md):** An ancestry of machine people.
 
-**[Might](../rule/character/might.md):** A characteristic that represents a creature's strength and brawn.
+**[Might](../rule/character/might.md):** A [characteristic](../rule/character/characteristic.md) that represents a creature's strength and brawn.
 
 **[Montage Test](../rule/test/montage-test.md):** Heroes making a series of different tests that represent them working together over time to accomplish a common goal.
 
@@ -413,11 +413,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Polder](../ancestry/polder.md):** An ancestry of short folk who can slip into shadows to hide.
 
-**[Potency](../rule/character/potency.md):** A value that determines if a target has a characteristic low enough to be affected by an effect.
+**[Potency](../rule/character/potency.md):** A value that determines if a target has a [characteristic](../rule/character/characteristic.md) low enough to be affected by an effect.
 
-**[Power Roll](../rule/dice/power-roll.md):** A roll of 2d10 plus a characteristic score that has three different possible tier outcomes—tier 1, tier 2, or tier 3. A power roll can be an ability roll or a test.
+**[Power Roll](../rule/dice/power-roll.md):** A roll of 2d10 plus a [characteristic](../rule/character/characteristic.md) score that has three different possible tier outcomes—tier 1, tier 2, or tier 3. A power roll can be an ability roll or a test.
 
-**[Presence](../rule/character/presence.md):** A characteristic that represents a creature's force of personality.
+**[Presence](../rule/character/presence.md):** A [characteristic](../rule/character/characteristic.md) that represents a creature's force of personality.
 
 **[Project Event](../rule/downtime/project-event.md):** An event that can occur when a hero undertakes a project roll for a downtime project.
 
@@ -429,7 +429,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Project Source](../rule/downtime/project-source.md):** Lore that must be obtained before a downtime project can be started.
 
-**[Prone](../condition/prone.md):** A condition that causes a creature to become flat on the ground. Strikes made by a [prone](../condition/prone.md) creature take a bane, and melee abilities used against a [prone](../condition/prone.md) creature gain an edge.
+**[Prone](../condition/prone.md):** A condition that causes a creature to become flat on the ground. [Strikes](../rule/combat/strike.md) made by a [prone](../condition/prone.md) creature take a [bane](../rule/dice/bane.md), and melee abilities used against a [prone](../condition/prone.md) creature gain an [edge](../rule/dice/edge.md).
 
 **[Pull](../movement/forced-movement.md):** A form of [forced movement](../movement/forced-movement.md) that pulls a target toward a creature or effect, moving them in a horizontal straight line.
 
@@ -441,7 +441,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Reactive Test](../rule/test/reactive-test.md):** When the Director asks for a test without context to see if a hero can react to an event or effect they are unaware of.
 
-**[Reason](../rule/character/reason.md):** A characteristic that represents a creature's logical mind and education.
+**[Reason](../rule/character/reason.md):** A [characteristic](../rule/character/characteristic.md) that represents a creature's logical mind and education.
 
 **[Recoveries](../rule/health/recoveries.md):** A limited healing resource that all heroes have, allowing them to regain [Stamina](../rule/health/stamina.md) lost to damage.
 
@@ -493,13 +493,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Slowed](../condition/slowed.md):** A condition that reduces a creature's speed to 2.
 
-**[Space](../rule/character/size.md):** The number of squares taken up by a creature or object in length, width, and height, and the area of the same size that a creature or object occupies on an encounter map.
+**[Space](../rule/character/size.md):** The number of squares taken up by a creature or object in length, width, and height, and the area of the same [size](../rule/character/size.md) that a creature or object occupies on an encounter map.
 
 **[Speed](../rule/character/speed.md):** A measure of how many squares a creature can move when taking the [Advance](../feature/common/move-actions/advance.md) move action during combat.
 
-**[Square](../rule/combat/distance.md):** The smallest unit of measurement on an encounter map. Distance, space, and speed are all reckoned in squares.
+**[Square](../rule/combat/distance.md):** The smallest unit of measurement on an encounter map. [Distance](../rule/combat/distance.md), space, and speed are all reckoned in squares.
 
-**[Stability](../rule/character/stability.md):** A measure of a creature's immovability. When a creature is [force moved](../movement/forced-movement.md), the distance they can be [force moved](../movement/forced-movement.md) is reduced by a number of squares equal to their stability.
+**[Stability](../rule/character/stability.md):** A measure of a creature's immovability. When a creature is [force moved](../movement/forced-movement.md), the [distance](../rule/combat/distance.md) they can be [force moved](../movement/forced-movement.md) is reduced by a number of squares equal to their stability.
 
 **[Stamina](../rule/health/stamina.md):** A measure of a creature's health and vitality. When a hero's Stamina is reduced to 0 or lower, they are [dying](../rule/health/dying.md). When a nonhero creature's Stamina is reduced to 0, they die or are knocked unconscious, as determined by the creature who reduced them to 0 Stamina.
 
@@ -517,7 +517,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Surge](../rule/resource/surge.md):** A universal benefit any hero can gain and spend to deal extra damage with an ability or to increase an ability's potency.
 
-**[Surprised](../rule/combat/surprised.md):** A creature who is surprised can't take triggered actions or free triggered actions, and ability rolls against them gain an edge.
+**[Surprised](../rule/combat/surprised.md):** A creature who is surprised can't take triggered actions or free triggered actions, and ability rolls against them gain an [edge](../rule/dice/edge.md).
 
 **[Swim](../movement/climb-or-swim.md):** A movement mode that allows a creature to swim without using additional squares of movement. A creature without "swim" in their speed entry or the temporary ability to swim must use 2 squares of movement to swim 1 square.
 
@@ -525,7 +525,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Talent](../class/talent.md):** A class for a hero who is a master of psionics.
 
-**[Taunted](../condition/taunted.md):** A condition that causes a creature to have a double bane on ability rolls that don't target the creature or effect that [taunted](../condition/taunted.md) them.
+**[Taunted](../condition/taunted.md):** A condition that causes a creature to have a double [bane](../rule/dice/bane.md) on ability rolls that don't target the creature or effect that [taunted](../condition/taunted.md) them.
 
 **[Target](../rule/combat/target.md):** A creature or object affected by an ability or other effect. The target of an enemy's ability typically takes damage, has a condition or harmful effect imposed on them, or both. The target of an ally's ability typically gains some beneficial effect.
 
@@ -563,7 +563,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Underwater combat](../rule/combat/underwater-combat.md):** Special rules that apply when creatures fight beneath the sea, in rivers or pools, in underwater lairs, and similar areas.
 
-**[Untyped Damage](../rule/damage/damage-type.md):** Damage dealt by an ability or other effect that has no damage type associated with it.
+**[Untyped Damage](../rule/damage/damage-type.md):** Damage dealt by an ability or other effect that has no [damage type](../rule/damage/damage-type.md) associated with it.
 
 **[Vasloria](../rule/world/vasloria.md):** A forested, feudal-medieval continent in Orden.
 
@@ -575,7 +575,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Wall](../rule/combat/wall.md):** When an ability or other effect creates a wall, that area is expressed as "X wall." The number X is how many squares are used to make the wall. Each square must share at least one side (not just a corner) with another square of the wall. A wall effect has a duration specified by the effect, or it lasts indefinitely or until destroyed.
 
-**[Weakened](../condition/weakened.md):** A condition that causes a creature to take a bane on power rolls.
+**[Weakened](../condition/weakened.md):** A condition that causes a creature to take a [bane](../rule/dice/bane.md) on power rolls.
 
 **[Wealth](../rule/resource/wealth.md):** A measure of a hero's material worth.
 

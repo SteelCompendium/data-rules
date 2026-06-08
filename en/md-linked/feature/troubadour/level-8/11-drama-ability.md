@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../../../rule/health/stamina.md) using an ability, you can use a free triggered action to [teleport](../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../movement/teleport.md)ed ally can then make a melee [free strike](../../common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../../../rule/health/stamina.md) using an ability, you can use a free triggered action to [teleport](../../../movement/teleport.md) an ally within [distance](../../../rule/combat/distance.md) of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../movement/teleport.md)ed ally can then make a melee [free strike](../../common/main-actions/free-strike.md).
 
 ## Power Ballad {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"}
 
@@ -41,10 +41,10 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 
 **Effect:** Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a [Recovery](../../../rule/health/recoveries.md), you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending [Recoveries](../../../rule/health/recoveries.md) simultaneously, each target receives the same effect:
 
-- The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
-- The target has damage immunity equal to your Presence score.
-- The target has a bonus to stability and a penalty to speed equal to your Presence score.
-- The target has a bonus to speed and a penalty to stability equal to your Presence score.
+- The target has [damage weakness](../../../rule/damage/damage-weakness.md) equal to your [Presence](../../../rule/character/presence.md) score against any magic, psionic, or weapon ability.
+- The target has [damage immunity](../../../rule/damage/damage-immunity.md) equal to your [Presence](../../../rule/character/presence.md) score.
+- The target has a bonus to stability and a penalty to speed equal to your [Presence](../../../rule/character/presence.md) score.
+- The target has a bonus to speed and a penalty to stability equal to your [Presence](../../../rule/character/presence.md) score.
 
 ## The Show Must Go On {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on"}
 
@@ -55,10 +55,10 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 |-------------------------|-------------------------------|
 | **📏 5 cube within 10** | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 6 damage; P < WEAK, the target can't willingly leave the area (EoT)
 - **12-16:** 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
 - **17+:** 12 damage; the target can't willingly leave the area (EoT); if P < STRONG, they can't willingly leave the area (save ends)
 
-**Effect:** Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
+**Effect:** Each ally within [distance](../../../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.

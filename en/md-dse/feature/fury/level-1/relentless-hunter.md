@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You gain an edge on tests made using the [Track](scc:mcdm.heroes.v1/skill/track) skill.
+    - effect: You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on tests made using the [Track](scc:mcdm.heroes.v1/skill/track) skill.
 feature_type: feature
 metadata:
     class: fury

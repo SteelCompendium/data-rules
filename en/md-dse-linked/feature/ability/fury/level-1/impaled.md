@@ -10,33 +10,26 @@ item_id: impaled
 item_name: Impaled!
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Impaled!
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
 source: mcdm.heroes.v1
 subtype: signature
-target: One creature of your size or smaller
-tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
-tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
-tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
+target: One creature of your [size](../../../../rule/character/size.md) or smaller
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - roll: Power Roll + Might
-      tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
-      tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
-      tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
+    - effect: "\n*You skewer your enemy like a boar upon a spit.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |                             **Main action** |\n|---------------------------|--------------------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature of your [size](../../../../rule/character/size.md) or smaller** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)\n- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)\n- **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)"
 feature_type: ability
 flavor: You skewer your enemy like a boar upon a spit.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -45,20 +38,16 @@ metadata:
     flavor: You skewer your enemy like a boar upon a spit.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"
     name: Impaled!
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
     subtype: signature
-    target: One creature of your size or smaller
-    tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
-    tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
-    tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
+    target: One creature of your [size](../../../../rule/character/size.md) or smaller
     type: ability
 name: Impaled!
-target: One creature of your size or smaller
+target: One creature of your [size](../../../../rule/character/size.md) or smaller
 type: feature
 usage: Main action
 ```

@@ -18,13 +18,9 @@ keywords:
     - Ranged
 level: "2"
 name: Applied Chronometrics
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics
 source: mcdm.heroes.v1
 target: Special
-tier1: You target two creatures, one of which can be you.
-tier2: You target three creatures, one of which can be you.
-tier3: You target four creatures, one of which can be you.
 type: ability
 ---
 
@@ -33,10 +29,6 @@ cost: 5 Clarity
 distance: Ranged 10
 effects:
     - effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that condition ends for them.
-    - roll: Power Roll + Presence
-      tier1: You target two creatures, one of which can be you.
-      tier2: You target three creatures, one of which can be you.
-      tier3: You target four creatures, one of which can be you.
 feature_type: ability
 flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
 keywords:
@@ -56,12 +48,8 @@ metadata:
         - Ranged
     level: "2"
     name: Applied Chronometrics
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics
     target: Special
-    tier1: You target two creatures, one of which can be you.
-    tier2: You target three creatures, one of which can be you.
-    tier3: You target four creatures, one of which can be you.
     type: ability
 name: Applied Chronometrics
 target: Special

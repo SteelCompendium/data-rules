@@ -11,34 +11,27 @@ item_name: Kinetic Strike
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: Kinetic Strike
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/kinetic-strike
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-tier2: 5 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 1
-tier3: 6 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 2
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 4 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-      tier2: 5 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 1
-      tier3: 6 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 2
+    - effect: "\n*Your opponent staggers. They cannot ignore you.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)\n- **12-16:** 5 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 1\n- **17+:** 6 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 2"
 feature_type: ability
 flavor: Your opponent staggers. They cannot ignore you.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -48,17 +41,13 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: Kinetic Strike
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.null.level-1/kinetic-strike
     subtype: signature
     target: One creature or object
-    tier1: 4 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-    tier2: 5 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 1
-    tier3: 6 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 2
     type: ability
 name: Kinetic Strike
 target: One creature or object

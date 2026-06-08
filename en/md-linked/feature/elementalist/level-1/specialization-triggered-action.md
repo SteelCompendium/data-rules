@@ -43,9 +43,9 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 
 **Trigger:** The target [force move](../../../movement/forced-movement.md)s a creature or object. 
 
-**Effect:** The [forced movement](../../../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
+**Effect:** The [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Reason](../../../rule/character/reason.md) score.
 
-**Spend 1 Essence:** The [forced movement](../../../movement/forced-movement.md) distance gains a bonus equal to twice your Reason score instead.
+**Spend 1 Essence:** The [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to twice your [Reason](../../../rule/character/reason.md) score instead.
 
 ### Skin Like Castle Walls {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls"}
 
@@ -73,6 +73,6 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 
 **Trigger:** The target starts their turn, moves, or is [force moved](../../../movement/forced-movement.md). 
 
-**Effect:** You [teleport](../../../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../movement/teleport.md) them at any point during the move.
+**Effect:** You [teleport](../../../movement/teleport.md) the target up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../../../movement/teleport.md) them at any point during the move.
 
-**Spend 1 Essence:** You [teleport](../../../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence:** You [teleport](../../../movement/teleport.md) the target up to a number of squares equal to twice your [Reason](../../../rule/character/reason.md) score instead.

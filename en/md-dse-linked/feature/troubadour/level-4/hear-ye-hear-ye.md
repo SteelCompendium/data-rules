@@ -16,11 +16,11 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:
+        By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a [Presence](../../../rule/character/presence.md) test:
 
         - **≤11:** Your information reaches no one.
-        - **12-16:** Your information reaches the nearest populated area of town size or larger. You and each ally present when you make the test gain an edge on Presence tests in that area until one of you spends a [Recovery](../../../rule/health/recoveries.md).
-        - **17+:** Your information reaches the nearest populated area of town size or larger, plus the next closest such population. You and allies present for your test gain an edge on Presence tests made in those areas until you start your next respite.
+        - **12-16:** Your information reaches the nearest populated area of town [size](../../../rule/character/size.md) or larger. You and each ally present when you make the test gain an [edge](../../../rule/dice/edge.md) on [Presence](../../../rule/character/presence.md) tests in that area until one of you spends a [Recovery](../../../rule/health/recoveries.md).
+        - **17+:** Your information reaches the nearest populated area of town [size](../../../rule/character/size.md) or larger, plus the next closest such population. You and allies present for your test gain an [edge](../../../rule/dice/edge.md) on [Presence](../../../rule/character/presence.md) tests made in those areas until you start your next respite.
 feature_type: feature
 metadata:
     class: troubadour

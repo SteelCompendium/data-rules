@@ -2,7 +2,7 @@
 action_type: Triggered
 class: talent
 distance: Ranged 10
-effect: The target takes half the triggering damage, or the distance of the triggering [forced movement](../../../../movement/forced-movement.md) is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../../../../movement/forced-movement.md) a number of squares equal to your Reason score.
+effect: The target takes half the triggering damage, or the [distance](../../../../rule/combat/distance.md) of the triggering [forced movement](../../../../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../../../../movement/forced-movement.md) a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
 feature_type: ability
 file_basename: repel
 file_dpath: feature/ability/talent/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: The target takes half the triggering damage, or the distance of the triggering [forced movement](../../../../movement/forced-movement.md) is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../../../../movement/forced-movement.md) a number of squares equal to your Reason score.
+    - effect: The target takes half the triggering damage, or the [distance](../../../../rule/combat/distance.md) of the triggering [forced movement](../../../../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../../../../movement/forced-movement.md) a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
 feature_type: ability
 flavor: They aren't going anywhere, but you might!
 keywords:
@@ -35,7 +35,7 @@ metadata:
     action_type: Triggered
     class: talent
     distance: Ranged 10
-    effect: The target takes half the triggering damage, or the distance of the triggering [forced movement](../../../../movement/forced-movement.md) is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../../../../movement/forced-movement.md) a number of squares equal to your Reason score.
+    effect: The target takes half the triggering damage, or the [distance](../../../../rule/combat/distance.md) of the triggering [forced movement](../../../../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../../../../movement/forced-movement.md) a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
     flavor: They aren't going anywhere, but you might!
     keywords:
         - Psionic

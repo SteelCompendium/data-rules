@@ -1,5 +1,5 @@
 {
-  "content": "The [Spellsword](scc:mcdm.heroes.v1/kit/spellsword) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.\n\n##### Equipment\n\nYou wear light armor and wield a shield and a medium weapon.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per echelon\n\n**Speed Bonus:** +1\n\n**Stability Bonus:** +1\n\n**Melee Damage Bonus:** +2/+2/+2\n\n##### Signature Ability\n\n###### Leaping Lightning\n\n*Lightning jumps from your weapon as you strike to harm a nearby foe.*\n\n| **Magic, Melee, Strike, Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 Melee 1**                   | **🎯 One creature or object** |\n\n**Power Roll + Might, Reason, Intuition, or Presence:**\n\n- **≤11:** 5 + M, R, I, or P lightning damage\n- **12-16:** 8 + M, R, I, or P lightning damage\n- **17+:** 11 + M, R, I, or P lightning damage\n\n**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.",
+  "content": "The [Spellsword](scc:mcdm.heroes.v1/kit/spellsword) kit combines melee [strikes](scc:mcdm.heroes.v1/rule.combat/strike) and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.\n\n##### Equipment\n\nYou wear light armor and wield a shield and a medium weapon.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per echelon\n\n**Speed Bonus:** +1\n\n**Stability Bonus:** +1\n\n**Melee Damage Bonus:** +2/+2/+2\n\n##### Signature Ability\n\n###### Leaping Lightning\n\n*Lightning jumps from your weapon as you strike to harm a nearby foe.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 Melee 1**                   | **🎯 One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 5 + M, R, I, or P lightning damage\n- **12-16:** 8 + M, R, I, or P lightning damage\n- **17+:** 11 + M, R, I, or P lightning damage\n\n**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.",
   "equipment_text": "You wear light armor and wield a shield and a medium weapon.",
   "melee_damage_bonus": "+2/+2/+2",
   "name": "Spellsword",
@@ -9,7 +9,7 @@
     "distance": "Melee 1",
     "effects": [
       {
-        "effect": "A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.",
+        "effect": "A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.",
         "name": "Effect"
       }
     ],
@@ -18,13 +18,13 @@
     "keywords": [
       "Magic",
       "Melee",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "metadata": {
       "ability_type": "Signature",
       "action_type": "Main action",
-      "content": "*Lightning jumps from your weapon as you strike to harm a nearby foe.*\n\n| **Magic, Melee, Strike, Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 Melee 1**                   | **🎯 One creature or object** |\n\n**Power Roll + Might, Reason, Intuition, or Presence:**\n\n- **≤11:** 5 + M, R, I, or P lightning damage\n- **12-16:** 8 + M, R, I, or P lightning damage\n- **17+:** 11 + M, R, I, or P lightning damage\n\n**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.",
+      "content": "*Lightning jumps from your weapon as you strike to harm a nearby foe.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 Melee 1**                   | **🎯 One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 5 + M, R, I, or P lightning damage\n- **12-16:** 8 + M, R, I, or P lightning damage\n- **17+:** 11 + M, R, I, or P lightning damage\n\n**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.",
       "distance": "Melee 1",
       "feature_type": "ability",
       "flavor": "Lightning jumps from your weapon as you strike to harm a nearby foe.",
@@ -33,7 +33,7 @@
       "keywords": [
         "Magic",
         "Melee",
-        "Strike",
+        "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
         "Weapon"
       ],
       "target": "One creature or object",

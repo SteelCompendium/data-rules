@@ -22,7 +22,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: "| **Charge, Melee, Stike, Weapon** |               **Main action** |\n| -------------------------------- | -----------------------------:|\n| **\U0001F4CF Melee 1**                   | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 5 + M or A damage\n- **17+:** 7 + M or A damage"
+    - effect: "| **Charge, Melee, Stike, Weapon** |               **Main action** |\n| -------------------------------- | -----------------------------:|\n| **\U0001F4CF Melee 1**                   | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 5 + M or A damage\n- **17+:** 7 + M or A damage"
 feature_type: ability
 keywords:
     - Charge

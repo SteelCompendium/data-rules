@@ -4,7 +4,7 @@ distance: Melee 3
 flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: whirlwind
 name: Extension of My Arm
@@ -16,11 +16,11 @@ type: ability
 
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 3**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage; vertical pull 1
 - **12-16:** 7 + M or A damage; vertical pull 2

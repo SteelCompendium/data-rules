@@ -1,5 +1,5 @@
 ---
-average_potency: Reason − 1
+average_potency: '[Reason](../rule/character/reason.md) − 1'
 file_basename: talent
 file_dpath: class
 item_id: talent
@@ -9,9 +9,9 @@ scc: mcdm.heroes.v1/class/talent
 skills:
     - 'You gain the Psionics and [Read Person](../skill/read-person.md) skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/read-person.md), Timescape.)'
 source: mcdm.heroes.v1
-strong_potency: Reason
+strong_potency: '[Reason](../rule/character/reason.md)'
 type: class
-weak_potency: Reason − 2
+weak_potency: '[Reason](../rule/character/reason.md) − 2'
 ---
 
 Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent's](talent.md) abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
@@ -24,17 +24,17 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ### Basics
 
-**Starting Characteristics:** You start with a Reason of 2 and a Presence of 2, and you can choose one of the following arrays for your other characteristic scores:
+**Starting [Characteristics](../rule/character/characteristic.md):** You start with a [Reason](../rule/character/reason.md) of 2 and a [Presence](../rule/character/presence.md) of 2, and you can choose one of the following arrays for your other [characteristic](../rule/character/characteristic.md) scores:
 
 - 2, −1, −1
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** Reason − 2
+**Weak Potency:** [Reason](../rule/character/reason.md) − 2
 
-**Average Potency:** Reason − 1
+**Average Potency:** [Reason](../rule/character/reason.md) − 1
 
-**Strong Potency:** Reason
+**Strong Potency:** [Reason](../rule/character/reason.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 

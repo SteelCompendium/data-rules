@@ -14,7 +14,7 @@ item_id: you-are-already-dead
 item_name: You Are Already Dead
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "3"
 name: You Are Already Dead
@@ -33,7 +33,7 @@ feature_type: ability
 flavor: Slash. Walk away.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -44,7 +44,7 @@ metadata:
     flavor: Slash. Walk away.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "3"
     name: You Are Already Dead

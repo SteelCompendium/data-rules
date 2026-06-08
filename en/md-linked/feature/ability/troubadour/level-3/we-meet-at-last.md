@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 7 Drama
 distance: Ranged 10
-effect: Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be [force moved](../../../../movement/forced-movement.md) by an ability used beyond distance this way.
+effect: Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](../../../../rule/combat/distance.md), with the [distance](../../../../rule/combat/distance.md) of this ability replacing those abilities' [distances](../../../../rule/combat/distance.md). The target can't be [force moved](../../../../movement/forced-movement.md) by an ability used beyond [distance](../../../../rule/combat/distance.md) this way.
 flavor: You magically intertwine your fate with another creature—for better or worse.
 keywords:
     - Magic
@@ -22,6 +22,6 @@ type: ability
 |-------------------|--------------------:|
 | **📏 Ranged 10**  | **🎯 One creature** |
 
-**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be [force moved](../../../../movement/forced-movement.md) by an ability used beyond distance this way.
+**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](../../../../rule/combat/distance.md), with the [distance](../../../../rule/combat/distance.md) of this ability replacing those abilities' [distances](../../../../rule/combat/distance.md). The target can't be [force moved](../../../../movement/forced-movement.md) by an ability used beyond [distance](../../../../rule/combat/distance.md) this way.
 
-Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../../../rule/resource/surge.md) or forcing them to take a bane on the next ability roll they make before the start of your next turn.
+Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../../../rule/resource/surge.md) or forcing them to take a [bane](../../../../rule/dice/bane.md) on the next ability roll they make before the start of your next turn.

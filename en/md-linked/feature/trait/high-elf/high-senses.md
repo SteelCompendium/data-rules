@@ -5,4 +5,4 @@ scc: mcdm.heroes.v1/feature.trait.high-elf/high-senses
 type: trait
 ---
 
-Your senses are especially keen and perceptive. You gain an edge on tests made to notice threats.
+Your senses are especially keen and perceptive. You gain an [edge](../../../rule/dice/edge.md) on tests made to notice threats.

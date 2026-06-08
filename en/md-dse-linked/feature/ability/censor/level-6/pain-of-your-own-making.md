@@ -5,7 +5,7 @@ cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
 distance: Ranged 10
-effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
+effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../../rule/character/presence.md) score.
 feature_type: ability
 file_basename: pain-of-your-own-making
 file_dpath: feature/ability/censor/level-6
@@ -29,7 +29,7 @@ type: ability
 cost: 9 Wrath
 distance: Ranged 10
 effects:
-    - effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
+    - effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../../rule/character/presence.md) score.
 feature_type: ability
 flavor: You reverse the effects from an evildoer.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: censor
     cost: 9 Wrath
     distance: Ranged 10
-    effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
+    effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../../rule/character/presence.md) score.
     flavor: You reverse the effects from an evildoer.
     keywords:
         - Magic

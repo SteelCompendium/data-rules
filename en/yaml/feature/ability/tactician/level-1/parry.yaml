@@ -4,7 +4,7 @@ effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square. If the target is you, or if you end this [shift](scc:mcdm.heroes.v1/movement/shifting) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
       name: Effect
     - cost: Spend 1 Focus
-      effect: This ability's distance becomes Melee 1 + your Reason score, and you can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your Reason score instead of 1 square.
+      effect: This ability's [distance](scc:mcdm.heroes.v1/rule.combat/distance) becomes Melee 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and you can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead of 1 square.
 feature_type: ability
 flavor: Your quick reflexes cost an enemy the precision they seek.
 keywords:
@@ -14,7 +14,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: tactician
-    content: "\n*Your quick reflexes cost an enemy the precision they seek.*\n\n| **Melee, Weapon** |            **Triggered** |\n|-------------------|-------------------------:|\n| **\U0001F4CF Melee 2**    |  **\U0001F3AF Self or one ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square. If the target is you, or if you end this [shift](scc:mcdm.heroes.v1/movement/shifting) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.\n\n**Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your Reason score instead of 1 square."
+    content: "\n*Your quick reflexes cost an enemy the precision they seek.*\n\n| **Melee, Weapon** |            **Triggered** |\n|-------------------|-------------------------:|\n| **\U0001F4CF Melee 2**    |  **\U0001F3AF Self or one ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square. If the target is you, or if you end this [shift](scc:mcdm.heroes.v1/movement/shifting) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.\n\n**Spend 1 Focus:** This ability's [distance](scc:mcdm.heroes.v1/rule.combat/distance) becomes Melee 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and you can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead of 1 square."
     distance: Melee 2
     feature_type: ability
     flavor: Your quick reflexes cost an enemy the precision they seek.

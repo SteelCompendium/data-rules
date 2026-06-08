@@ -8,27 +8,23 @@ flavor: You fire a telepathic bolt empowered by every consciousness within reach
 keywords:
     - Psionic
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 level: "9"
 name: Resonant Mind Spike
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike
 target: One creature
-tier1: 15 + R psychic damage
-tier2: 24 + R psychic damage
-tier3: 28 + R psychic damage
 type: ability
 ---
 
 
 *You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
 
-| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
+| **Psionic, Ranged, [Strike](../../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 | ------------------------------------|--------------------:|
 | **📏 Ranged 10**  | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 15 + R psychic damage
 - **12-16:** 24 + R psychic damage

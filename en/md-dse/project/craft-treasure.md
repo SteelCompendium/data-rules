@@ -9,4 +9,4 @@ source: mcdm.heroes.v1
 type: project
 ---
 
-You can craft the items found in Treasures in Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards). Each treasure notes its item prerequisite, project source, project roll characteristic, and project goal.
+You can craft the items found in Treasures in Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards). Each treasure notes its item prerequisite, project source, project roll [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic), and project goal.

@@ -9,6 +9,6 @@ source: mcdm.heroes.v1
 type: rule
 ---
 
-Unless otherwise noted, a character of any of these ancestries is size 1M and has speed 5 and stability 0.
+Unless otherwise noted, a character of any of these ancestries is [size](size.md) 1M and has speed 5 and stability 0.
 
 Where an ancestry provides you with an ability, see Abilities in Chapter 5: [Classes](../../chapter/classes.md) for details of the ability format.

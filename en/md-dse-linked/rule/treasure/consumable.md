@@ -29,6 +29,6 @@ Your character can carry any number of consumables at a time.
 >
 > Item creation rules, crafting and research projects: Chapter 12: [Downtime Projects](../../chapter/downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and [Stamina](../health/stamina.md), [dying](../health/dying.md) and death, movement and [forced movement](../../movement/forced-movement.md), [winded](../health/winded.md): Chapter 10: [Combat](../../chapter/combat.md)
+> Main actions and maneuvers, creature [size](../character/size.md), damage and [Stamina](../health/stamina.md), [dying](../health/dying.md) and death, movement and [forced movement](../../movement/forced-movement.md), [winded](../health/winded.md): Chapter 10: [Combat](../../chapter/combat.md)
 >
 > Negotiation rules, motivations, pitfalls, interest, and patience: Chapter 11: [Negotiation](../../chapter/negotiation.md).

@@ -10,12 +10,8 @@ keywords:
     - Ranged
 level: "6"
 name: Spirit Stampede
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede
 target: Each enemy in the area
-tier1: 5 damage; M < WEAK, [prone and](../../../../condition/prone.md) can't stand (save ends)
-tier2: 8 damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
-tier3: 11 damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 type: ability
 ---
 
@@ -26,7 +22,7 @@ type: ability
 |-----------------------------|------------------------------:|
 | **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 5 damage; M < WEAK, [prone and](../../../../condition/prone.md) can't stand (save ends)
 - **12-16:** 8 damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)

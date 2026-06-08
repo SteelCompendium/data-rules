@@ -14,17 +14,13 @@ item_name: Stunning Blow
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: Stunning Blow
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 4 + A damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier2: 5 + A damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier3: 7 + A damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -32,16 +28,13 @@ type: ability
 cost: 3 Discipline
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 4 + A damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-      tier2: 5 + A damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-      tier3: 7 + A damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    - effect: "\n*You focus your psionic technique into a concussive punch.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 5 + A damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 7 + A damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
 feature_type: ability
 flavor: You focus your psionic technique into a concussive punch.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -52,16 +45,12 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: Stunning Blow
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow
     target: One creature or object
-    tier1: 4 + A damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-    tier2: 5 + A damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-    tier3: 7 + A damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     type: ability
 name: Stunning Blow
 target: One creature or object

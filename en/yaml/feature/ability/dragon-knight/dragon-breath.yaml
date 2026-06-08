@@ -1,7 +1,7 @@
 ability_type: Signature
 distance: 3 cube within 1
 effects:
-    - effect: You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
+    - effect: You choose the ability's [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) from acid, cold, corruption, fire, lightning, or poison.
       name: Effect
 feature_type: ability
 flavor: A furious exhalation of energy washes over your foes.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     ability_type: Signature
     action_type: Main action
-    content: "*A furious exhalation of energy washes over your foes.*\n\n| **Area, Magic**        |               **Main action** |\n|------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 1** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Might or Presence:**\n\n- **≤11:** 2 damage\n- **12-16:** 4 damage\n- **17+:** 6 damage\n\n**Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison."
+    content: "*A furious exhalation of energy washes over your foes.*\n\n| **Area, Magic**        |               **Main action** |\n|------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 1** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 2 damage\n- **12-16:** 4 damage\n- **17+:** 6 damage\n\n**Effect:** You choose the ability's [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) from acid, cold, corruption, fire, lightning, or poison."
     distance: 3 cube within 1
     feature_type: ability
     flavor: A furious exhalation of energy washes over your foes.

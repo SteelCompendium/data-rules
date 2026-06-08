@@ -2,7 +2,7 @@
 action_type: Triggered
 class: troubadour
 distance: Ranged 10
-effect: An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.
+effect: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge). A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane).
 feature_type: ability
 file_basename: turnabout-is-fair-play
 file_dpath: feature/ability/troubadour/level-1
@@ -15,18 +15,18 @@ level: "1"
 name: Turnabout Is Fair Play
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play
 source: mcdm.heroes.v1
-spend: '3 Drama: An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.'
+spend: '3 Drama: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a double [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) is negated. A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) is negated.'
 subtype: triggered
 target: One creature
-trigger: The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.
+trigger: The target makes an ability roll that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
 type: ability
 ---
 
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.
-    - effect: '3 Drama: An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.'
+    - effect: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge). A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane).
+    - effect: '3 Drama: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a double [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) is negated. A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) is negated.'
       name: Spend
 feature_type: ability
 flavor: All's fair in love and whatever.
@@ -36,21 +36,21 @@ metadata:
     action_type: Triggered
     class: troubadour
     distance: Ranged 10
-    effect: An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.
+    effect: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge). A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane).
     flavor: All's fair in love and whatever.
     keywords:
         - Ranged
     level: "1"
     name: Turnabout Is Fair Play
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play
-    spend: '3 Drama: An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.'
+    spend: '3 Drama: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a double [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) is negated. A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) is negated.'
     subtype: triggered
     target: One creature
-    trigger: The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.
+    trigger: The target makes an ability roll that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
     type: ability
 name: Turnabout Is Fair Play
 target: One creature
-trigger: The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.
+trigger: The target makes an ability roll that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
 type: feature
 usage: Triggered
 ```

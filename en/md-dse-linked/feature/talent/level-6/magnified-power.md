@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability has a potency, you increase that potency by an amount equal to your Reason score.
+    - effect: If the ability has a potency, you increase that potency by an amount equal to your [Reason](../../../rule/character/reason.md) score.
 feature_type: feature
 metadata:
     class: talent

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Each of your characteristic scores increases by 1, to a maximum of 4.
+    - effect: Each of your [characteristic](../../../rule/character/characteristic.md) scores increases by 1, to a maximum of 4.
 feature_type: feature
 metadata:
     class: "null"

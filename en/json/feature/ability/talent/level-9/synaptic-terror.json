@@ -3,12 +3,6 @@
   "distance": "3 burst",
   "effects": [
     {
-      "roll": "Power Roll + Reason",
-      "tier1": "R \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
-      "tier2": "R \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
-      "tier3": "R \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
-    },
-    {
       "effect": "You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.",
       "name": "Effect"
     }
@@ -23,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "talent",
-    "content": "\n*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*\n\n| **Area, Psionic, Telepathy** |                        **Main action** |\n|------------------------------|---------------------------------------:|\n| **📏 3 burst**               | **🎯 Each ally and enemy in the area** |\n\n**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.\n\n**Power Roll + Reason:**\n\n- **≤11:** R \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** R \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** R \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n\n**Strained:** You can't use this ability if doing so would cause you to have negative clarity.",
+    "content": "\n*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*\n\n| **Area, Psionic, Telepathy** |                        **Main action** |\n|------------------------------|---------------------------------------:|\n| **📏 3 burst**               | **🎯 Each ally and enemy in the area** |\n\n**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** R \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** R \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** R \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n\n**Strained:** You can't use this ability if doing so would cause you to have negative clarity.",
     "distance": "3 burst",
     "feature_type": "ability",
     "flavor": "You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.",

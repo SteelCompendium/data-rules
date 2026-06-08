@@ -18,13 +18,9 @@ keywords:
     - Ranged
 level: "2"
 name: Tough Crowd
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd
 source: mcdm.heroes.v1
 target: Special
-tier1: 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-tier2: 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-tier3: 12 corruption damage; M < STRONG, pull 3 toward the center of the area
 type: ability
 ---
 
@@ -33,10 +29,6 @@ cost: 5 Drama
 distance: 3 cube within 10
 effects:
     - effect: The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.
-    - roll: Power Roll + Presence
-      tier1: 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-      tier2: 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-      tier3: 12 corruption damage; M < STRONG, pull 3 toward the center of the area
 feature_type: ability
 flavor: Your fans don't seem to like the opening act...
 keywords:
@@ -56,12 +48,8 @@ metadata:
         - Ranged
     level: "2"
     name: Tough Crowd
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd
     target: Special
-    tier1: 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-    tier2: 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-    tier3: 12 corruption damage; M < STRONG, pull 3 toward the center of the area
     type: ability
 name: Tough Crowd
 target: Special

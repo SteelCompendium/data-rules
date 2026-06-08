@@ -4,7 +4,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
+      "effect": "The target is unaffected by the [strike](scc:mcdm.heroes.v1/rule.combat/strike) and you become the target instead, even if you aren't a valid target for it. You take half the damage from the [strike](scc:mcdm.heroes.v1/rule.combat/strike), and the target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
       "name": "Effect"
     }
   ],
@@ -18,7 +18,7 @@
     "ability_type": "Triggered",
     "action_type": "Free triggered",
     "class": "censor",
-    "content": "\n*You take your ally's place.*\n\n| **Magic, Ranged** | **Free triggered** |\n|-------------------|-------------------:|\n| **📏 Ranged 10**  |    **🎯 One ally** |\n\n**Trigger:** A creature makes a strike against the target.\n\n**Effect:** The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
+    "content": "\n*You take your ally's place.*\n\n| **Magic, Ranged** | **Free triggered** |\n|-------------------|-------------------:|\n| **📏 Ranged 10**  |    **🎯 One ally** |\n\n**Trigger:** A creature makes a [strike](scc:mcdm.heroes.v1/rule.combat/strike) against the target.\n\n**Effect:** The target is unaffected by the [strike](scc:mcdm.heroes.v1/rule.combat/strike) and you become the target instead, even if you aren't a valid target for it. You take half the damage from the [strike](scc:mcdm.heroes.v1/rule.combat/strike), and the target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You take your ally's place.",
@@ -37,7 +37,7 @@
   },
   "name": "Intercede",
   "target": "One ally",
-  "trigger": "A creature makes a strike against the target.",
+  "trigger": "A creature makes a [strike](scc:mcdm.heroes.v1/rule.combat/strike) against the target.",
   "type": "feature",
   "usage": "Free triggered"
 }

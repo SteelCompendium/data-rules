@@ -1,10 +1,6 @@
 cost: 7 Piety
 distance: 5 burst
 effects:
-    - roll: Power Roll + Intuition
-      tier1: 2 holy damage
-      tier2: 5 holy damage
-      tier3: 7 holy damage
     - effect: Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability
@@ -15,7 +11,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*Your saint grants your enemies a vision of pain and fills your allies with healing energy.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF 5 burst**   | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 2 holy damage\n- **12-16:** 5 holy damage\n- **17+:** 7 holy damage\n\n**Effect:** Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
+    content: "\n*Your saint grants your enemies a vision of pain and fills your allies with healing energy.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF 5 burst**   | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 holy damage\n- **12-16:** 5 holy damage\n- **17+:** 7 holy damage\n\n**Effect:** Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
     distance: 5 burst
     feature_type: ability
     flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.

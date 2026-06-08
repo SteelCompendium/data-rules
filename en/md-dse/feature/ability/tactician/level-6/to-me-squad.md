@@ -5,7 +5,7 @@ cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
 distance: Melee 1
-effect: If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends). If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both allies has made their strike, the ally or allies can pick a different target.
+effect: If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends). If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both allies has made their [strike](scc:mcdm.heroes.v1/rule.combat/strike), the ally or allies can pick a different target.
 feature_type: ability
 file_basename: to-me-squad
 file_dpath: feature/ability/tactician/level-6
@@ -15,17 +15,13 @@ item_name: To Me Squad!
 keywords:
     - Charge
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "6"
 name: To Me Squad!
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/to-me-squad
 source: mcdm.heroes.v1
 target: One creature
-tier1: 6 + M damage; one ally within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
-tier2: 9 + M damage; one ally within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
-tier3: 13 + M damage; two allies within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
 type: ability
 ---
 
@@ -33,38 +29,30 @@ type: ability
 cost: 9 Focus
 distance: Melee 1
 effects:
-    - effect: If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends). If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both allies has made their strike, the ally or allies can pick a different target.
-    - roll: Power Roll + Might
-      tier1: 6 + M damage; one ally within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
-      tier2: 9 + M damage; one ally within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
-      tier3: 13 + M damage; two allies within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
+    - effect: If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends). If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both allies has made their [strike](scc:mcdm.heroes.v1/rule.combat/strike), the ally or allies can pick a different target.
 feature_type: ability
 flavor: You lead your allies in a charge.
 keywords:
     - Charge
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: tactician
     cost: 9 Focus
     distance: Melee 1
-    effect: If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends). If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both allies has made their strike, the ally or allies can pick a different target.
+    effect: If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends). If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both allies has made their [strike](scc:mcdm.heroes.v1/rule.combat/strike), the ally or allies can pick a different target.
     flavor: You lead your allies in a charge.
     keywords:
         - Charge
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "6"
     name: To Me Squad!
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.tactician.level-6/to-me-squad
     target: One creature
-    tier1: 6 + M damage; one ally within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
-    tier2: 9 + M damage; one ally within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
-    tier3: 13 + M damage; two allies within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge
     type: ability
 name: To Me Squad!
 target: One creature

@@ -13,11 +13,11 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 
 *You distract a foe while your allies secure their defensive gear.*
 
-| **Melee, Strike, Weapon** | **Main action**     |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** | **Main action**     |
 |---------------------------|---------------------|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 + M damage
 - **12-16:** 13 + M damage
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 |------------------------------|----------------------------------------:|
 | **📏 Ranged 10**  | **🎯 Self and two allies** |
 
-**Effect:** Each target gains 1 [surge](../../../rule/resource/surge.md) and can use a signature ability that has a double edge.
+**Effect:** Each target gains 1 [surge](../../../rule/resource/surge.md) and can use a signature ability that has a double [edge](../../../rule/dice/edge.md).
 
 ## Win This Day! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/win-this-day"}
 
@@ -56,4 +56,4 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 |------------------|----------------:|
 | **📏 Ranged 10** | **🎯 One ally** |
 
-**Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its [Heroic Resource](../../../rule/resource/heroic-resource.md) cost reduced by 1 + your Reason score (minimum cost 0).
+**Effect:** The target uses a heroic ability with the [Strike](../../../rule/combat/strike.md) keyword as a free triggered action, and deals extra damage with that ability equal to your [Reason](../../../rule/character/reason.md) score. The ability has its [Heroic Resource](../../../rule/resource/heroic-resource.md) cost reduced by 1 + your [Reason](../../../rule/character/reason.md) score (minimum cost 0).

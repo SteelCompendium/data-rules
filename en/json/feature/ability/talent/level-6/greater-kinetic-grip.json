@@ -3,10 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Reason",
-      "tier1": "Slide 4 + R; M \u003c WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical",
-      "tier2": "Slide 8 + R; M \u003c AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical",
-      "tier3": "Slide 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M \u003c STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical"
+      "effect": ""
     }
   ],
   "feature_type": "ability",
@@ -20,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "talent",
-    "content": "\n*You raise the target into the air without breaking a sweat.*\n\n| **Psionic, Ranged**, **Strike, Telekinesis** |               **Main action** |\n|----------------------------------------------|------------------------------:|\n| **📏 Ranged 10**                             | **🎯 One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** Slide 4 + R; M \u003c WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n- **12-16:** Slide 8 + R; M \u003c AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n- **17+:** Slide 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M \u003c STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n\n**Strained:** The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability. You take 2d6 damage and are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).",
+    "content": "\n*You raise the target into the air without breaking a sweat.*\n\n| **Psionic, Ranged**, **Strike, Telekinesis** |               **Main action** |\n|----------------------------------------------|------------------------------:|\n| **📏 Ranged 10**                             | **🎯 One creature or object** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** Slide 4 + R; M \u003c WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n- **12-16:** Slide 8 + R; M \u003c AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n- **17+:** Slide 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M \u003c STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n\n**Strained:** The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability. You take 2d6 damage and are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You raise the target into the air without breaking a sweat.",

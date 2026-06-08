@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------------|-----------------------------------------:|
 | **📏 5 cube within 10**        | **🎯 Each enemy and object in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 6 damage
 - **12-16:** 9 damage
@@ -54,11 +54,11 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 *You let fly a fiery missile braided with pure primal energy.*
 
-| **Fire, Magic, Ranged, Strike** |            **Main action** |
+| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |            **Main action** |
 |---------------------------------|---------------------------:|
 | **📏 Ranged 10**                | **🎯 One enemy or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)

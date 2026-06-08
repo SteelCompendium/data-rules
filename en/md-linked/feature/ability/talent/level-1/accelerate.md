@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: talent
 distance: Ranged 10
-effect: The target shifts up to a number of squares equal to your Reason score.
+effect: The target shifts up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
 flavor: To your ally, it seems as though the world has slowed down.
 keywords:
     - Psionic
@@ -22,6 +22,6 @@ type: ability
 |---------------------|----------------------------:|
 | **📏 Ranged 10**    | **🎯 Self or one creature** |
 
-**Effect:** The target shifts up to a number of squares equal to your Reason score.
+**Effect:** The target shifts up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
 
 **Spend 2 Clarity:** The target can use a maneuver.

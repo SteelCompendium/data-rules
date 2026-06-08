@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The gods send divine favor to you and your allies. While you are not [dying](../../../rule/health/dying.md), enemies take a bane on strikes against you or any ally within 3 squares of you.
+    - effect: The gods send divine favor to you and your allies. While you are not [dying](../../../rule/health/dying.md), enemies take a [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) against you or any ally within 3 squares of you.
 feature_type: feature
 metadata:
     class: conduit

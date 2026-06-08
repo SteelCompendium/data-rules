@@ -5,7 +5,7 @@ flavor: A stab, and a few quick, careful steps back.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: cloak-and-dagger
 name: Fade
@@ -17,11 +17,11 @@ type: ability
 
 *A stab, and a few quick, careful steps back.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square
 - **12-16:** 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares

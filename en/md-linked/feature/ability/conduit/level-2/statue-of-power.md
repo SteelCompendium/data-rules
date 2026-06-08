@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 5 Piety
 distance: Ranged 10
-effect: A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../../../../rule/resource/surge.md) at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
+effect: A [size](../../../../rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within [distance](../../../../rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../../../../rule/resource/surge.md) at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 flavor: A marble statue of your deity rises from the earth.
 keywords:
     - Magic
@@ -22,4 +22,4 @@ type: ability
 |--------------------|---------------:|
 | **📏 Ranged 10**   | **🎯 Special** |
 
-**Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../../../../rule/resource/surge.md) at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
+**Effect:** A [size](../../../../rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within [distance](../../../../rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../../../../rule/resource/surge.md) at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.

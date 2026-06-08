@@ -19,13 +19,9 @@ keywords:
     - Telekinesis
 level: "5"
 name: Hypersonic
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 12 sonic damage
-tier2: 18 sonic damage
-tier3: 24 sonic damage
 type: ability
 ---
 
@@ -34,10 +30,6 @@ cost: 9 Clarity
 distance: 5 x 2 line within 1
 effects:
     - effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) to a square on the opposite side of the area before making the power roll.
-    - roll: Power Roll + Reason
-      tier1: 12 sonic damage
-      tier2: 18 sonic damage
-      tier3: 24 sonic damage
 feature_type: ability
 flavor: You move fast enough to turn around and watch your foes feel the aftermath.
 keywords:
@@ -59,12 +51,8 @@ metadata:
         - Telekinesis
     level: "5"
     name: Hypersonic
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic
     target: Each enemy in the area
-    tier1: 12 sonic damage
-    tier2: 18 sonic damage
-    tier3: 24 sonic damage
     type: ability
 name: Hypersonic
 target: Each enemy in the area

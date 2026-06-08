@@ -22,8 +22,8 @@ You can use all [stormwight kits](../stormwight-kits/kit-features.md). During a 
 
 ## A Step Ahead {data-scc="mcdm.heroes.v1/feature.fury.level-8/a-step-ahead"}
 
-You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../../common/move-actions/disengage.md) move action, the distance you can [shift](../../../movement/shifting.md) gains a bonus equal to your Agility score.
+You move with legendary grace. Whenever you make an [Agility](../../../rule/character/agility.md) test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../../common/move-actions/disengage.md) move action, the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) gains a bonus equal to your [Agility](../../../rule/character/agility.md) score.
 
 ## Strongest There Is {data-scc="mcdm.heroes.v1/feature.fury.level-8/strongest-there-is"}
 
-Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, the [forced movement](../../../movement/forced-movement.md) distance gains a bonus equal to your Might score.
+Your strength is unmatched. Whenever you make a [Might](../../../rule/character/might.md) test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Might](../../../rule/character/might.md) score.

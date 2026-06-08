@@ -4,7 +4,7 @@ distance: Ranged 10
 flavor: A well-placed shot leaves your enemy struggling to move.
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: ranger
 name: Hamstring Shot
@@ -16,11 +16,11 @@ type: ability
 
 *A well-placed shot leaves your enemy struggling to move.*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)

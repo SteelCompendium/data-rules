@@ -1,6 +1,6 @@
 ---
 benefit: 'You have a supernatural possession—a 1st-echelon trinket of your choice (see Treasures in Chapter 13: [Rewards](../chapter/rewards.md)) that might have some connection with your former life.'
-drawback: You take a bane on any test made to recall lore.
+drawback: You take a [bane](../rule/dice/bane.md) on any test made to recall lore.
 file_basename: amnesia
 file_dpath: complication
 item_id: amnesia
@@ -15,4 +15,4 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 **Benefit:** You have a supernatural possession—a 1st-echelon trinket of your choice (see Treasures in Chapter 13: [Rewards](../chapter/rewards.md)) that might have some connection with your former life.
 
-**Drawback:** You take a bane on any test made to recall lore.
+**Drawback:** You take a [bane](../rule/dice/bane.md) on any test made to recall lore.

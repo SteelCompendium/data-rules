@@ -3,7 +3,7 @@
   "distance": "5 burst",
   "effects": [
     {
-      "effect": "Until the start of your next turn, any ability roll made against a target gains an edge.",
+      "effect": "Until the start of your next turn, any ability roll made against a target gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "shadow",
-    "content": "\n*You distract your foes, allowing your allies to take advantage of that distraction.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **📏 5 burst**  | **🎯 Each enemy in the area** |\n\n**Effect:** Until the start of your next turn, any ability roll made against a target gains an edge.",
+    "content": "\n*You distract your foes, allowing your allies to take advantage of that distraction.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **📏 5 burst**  | **🎯 Each enemy in the area** |\n\n**Effect:** Until the start of your next turn, any ability roll made against a target gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).",
     "distance": "5 burst",
     "feature_type": "ability",
     "flavor": "You distract your foes, allowing your allies to take advantage of that distraction.",

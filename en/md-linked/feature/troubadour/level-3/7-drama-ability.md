@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 |-----------------|------------------------------:|
 | **📏 4 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** Slide 3; P < WEAK, this slide ignores the target's stability
 - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's stability
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 |--------------------------------|------------------------------:|
 | **📏 3 burst**                 | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 fire damage; A < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 7 fire damage; A < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
@@ -47,11 +47,11 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |               **Main action** |
+| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage
 - **12-16:** 8 + P damage; push 3
@@ -68,6 +68,6 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 |-------------------|--------------------:|
 | **📏 Ranged 10**  | **🎯 One creature** |
 
-**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be [force moved](../../../movement/forced-movement.md) by an ability used beyond distance this way.
+**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](../../../rule/combat/distance.md), with the [distance](../../../rule/combat/distance.md) of this ability replacing those abilities' [distances](../../../rule/combat/distance.md). The target can't be [force moved](../../../movement/forced-movement.md) by an ability used beyond [distance](../../../rule/combat/distance.md) this way.
 
-Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../../rule/resource/surge.md) or forcing them to take a bane on the next ability roll they make before the start of your next turn.
+Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../../rule/resource/surge.md) or forcing them to take a [bane](../../../rule/dice/bane.md) on the next ability roll they make before the start of your next turn.

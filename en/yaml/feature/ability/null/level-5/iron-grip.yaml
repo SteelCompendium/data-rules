@@ -1,23 +1,19 @@
 cost: 9 Discipline
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-      tier2: 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-      tier3: 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-    - effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+    - effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score.
       name: Effect
 feature_type: ability
 flavor: You grab the target with supernatural force.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: "null"
-    content: "\n*You grab the target with supernatural force.*\n\n| **Melee, Psionic, Strike, Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **12-16:** 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **17+:** 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n\n**Effect:** While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a bane on the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score."
+    content: "\n*You grab the target with supernatural force.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **12-16:** 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **17+:** 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n\n**Effect:** While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score."
     distance: Melee 1
     feature_type: ability
     flavor: You grab the target with supernatural force.
@@ -26,7 +22,7 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 5
     scc:

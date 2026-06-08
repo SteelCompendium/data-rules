@@ -11,7 +11,7 @@ source: mcdm.heroes.v1
 type: title
 ---
 
-*I will follow you to the ends of the earth—just so I can kick you off the edge.*
+*I will follow you to the ends of the earth—just so I can kick you off the [edge](../rule/dice/edge.md).*
 
 **Prerequisite:** You have the [Marshal](marshal.md) title, and you take down an entire criminal organization.
 

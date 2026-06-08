@@ -5,4 +5,4 @@ scc: mcdm.heroes.v1/feature.trait.memonek/lightweight
 type: trait
 ---
 
-Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your size as one size smaller than it is.
+Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your [size](../../../rule/character/size.md) as one [size](../../../rule/character/size.md) smaller than it is.

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You and any ally within 10 squares of you can move at full speed while sneaking. Additionally, enemies within 10 squares of you take a bane on tests made to search for you or your allies while any of you are hidden.
+    - effect: You and any ally within 10 squares of you can move at full speed while sneaking. Additionally, enemies within 10 squares of you take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on tests made to search for you or your allies while any of you are hidden.
 feature_type: feature
 metadata:
     class: tactician

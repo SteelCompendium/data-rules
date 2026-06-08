@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your primordial damage type is corruption.
+    - effect: Your primordial [damage type](../../../rule/damage/damage-type.md) is corruption.
 feature_type: feature
 metadata:
     class: fury

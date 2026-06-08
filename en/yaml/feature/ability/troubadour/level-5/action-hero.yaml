@@ -1,10 +1,6 @@
 cost: 9 Drama
 distance: 3 burst
 effects:
-    - roll: Power Roll + Agility
-      tier1: 10 damage
-      tier2: 14 damage
-      tier3: 20 damage
     - effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
       name: Effect
 feature_type: ability
@@ -16,7 +12,7 @@ keywords:
 metadata:
     action_type: Main action
     class: troubadour
-    content: "\n*You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 3 burst**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 damage\n- **12-16:** 14 damage\n- **17+:** 20 damage\n\n**Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)."
+    content: "\n*You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 3 burst**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 10 damage\n- **12-16:** 14 damage\n- **17+:** 20 damage\n\n**Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)."
     distance: 3 burst
     feature_type: ability
     flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.

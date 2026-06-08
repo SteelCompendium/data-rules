@@ -1,10 +1,6 @@
 cost: 9 Insight
 distance: Melee 1 or ranged 5
 effects:
-    - roll: Power Roll + Agility
-      tier1: 10 + A damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier2: 15 + A damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier3: 21 + A damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     - effect: The target can't communicate with anyone until the end of the encounter.
       name: Effect
 feature_type: ability
@@ -12,12 +8,12 @@ flavor: Silence is a virtue. A knife pinning their mouth shut is the next best t
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
-    content: "\n*Silence is a virtue. A knife pinning their mouth shut is the next best thing.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 10 + A damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 15 + A damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 21 + A damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n\n**Effect:** The target can't communicate with anyone until the end of the encounter."
+    content: "\n*Silence is a virtue. A knife pinning their mouth shut is the next best thing.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 10 + A damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 15 + A damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 21 + A damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n\n**Effect:** The target can't communicate with anyone until the end of the encounter."
     distance: Melee 1 or ranged 5
     feature_type: ability
     flavor: Silence is a virtue. A knife pinning their mouth shut is the next best thing.
@@ -26,7 +22,7 @@ metadata:
     keywords:
         - Melee
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 5
     scc:

@@ -7,7 +7,6 @@ item_id: sniper
 item_name: Sniper
 name: Sniper
 ranged_damage_bonus: +0/+0/+4
-ranged_distance_bonus: "+10"
 scc: mcdm.heroes.v1/kit/sniper
 source: mcdm.heroes.v1
 speed_bonus: "+1"
@@ -26,7 +25,7 @@ You wear no armor and wield a bow.
 
 **Ranged Damage Bonus:** +0/+0/+4
 
-**Ranged Distance Bonus:** +10
+**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +10
 
 **Disengage Bonus:** +1
 
@@ -36,36 +35,36 @@ You wear no armor and wield a bow.
 
 *Breathe... aim... wait... then strike!*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 15**           | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+**Effect:** If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
 
 ```ds-feature
 distance: Ranged 15
 effects:
-    - effect: If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+    - effect: If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
 feature_type: ability
 flavor: Breathe... aim... wait... then strike!
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     distance: Ranged 15
-    effect: If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+    effect: If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
     flavor: Breathe... aim... wait... then strike!
     keywords:
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Patient Shot
     subtype: signature

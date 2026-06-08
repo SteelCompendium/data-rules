@@ -16,16 +16,12 @@ keywords:
     - Fire
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "9"
 name: Unquenchable Fire
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/unquenchable-fire
 source: mcdm.heroes.v1
 target: One enemy or object
-tier1: 13 + R fire damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier2: 18 + R fire damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier3: 25 + R fire damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -34,17 +30,13 @@ cost: 11 Essence
 distance: Ranged 10
 effects:
     - effect: This damage ignores immunity.
-    - roll: Power Roll + Reason
-      tier1: 13 + R fire damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier2: 18 + R fire damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier3: 25 + R fire damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 feature_type: ability
 flavor: You let fly a fiery missile braided with pure primal energy.
 keywords:
     - Fire
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: elementalist
@@ -56,15 +48,11 @@ metadata:
         - Fire
         - Magic
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "9"
     name: Unquenchable Fire
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/unquenchable-fire
     target: One enemy or object
-    tier1: 13 + R fire damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-    tier2: 18 + R fire damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-    tier3: 25 + R fire damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     type: ability
 name: Unquenchable Fire
 target: One enemy or object

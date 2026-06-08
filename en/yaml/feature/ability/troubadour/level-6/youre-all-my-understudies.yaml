@@ -1,7 +1,7 @@
 cost: 9 Drama
 distance: 5 burst
 effects:
-    - effect: Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
+    - effect: Until the end of the encounter, each target gains the speed bonus, weapon [distance](scc:mcdm.heroes.v1/rule.combat/distance) bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
       name: Effect
 feature_type: ability
 flavor: It's important for everyone to know each other's lines, just in case...
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: troubadour
-    content: "\n*It's important for everyone to know each other's lines, just in case...*\n\n| **Area, Magic** |                 **Maneuver** |\n|-----------------|-----------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each ally in the area** |\n\n**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses."
+    content: "\n*It's important for everyone to know each other's lines, just in case...*\n\n| **Area, Magic** |                 **Maneuver** |\n|-----------------|-----------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each ally in the area** |\n\n**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon [distance](scc:mcdm.heroes.v1/rule.combat/distance) bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses."
     distance: 5 burst
     feature_type: ability
     flavor: It's important for everyone to know each other's lines, just in case...

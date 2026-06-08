@@ -11,34 +11,27 @@ item_name: Pressure Points
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: Pressure Points
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/pressure-points
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    - effect: "\n*You strike at key nerve clusters to leave your foe staggered.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)"
 feature_type: ability
 flavor: You strike at key nerve clusters to leave your foe staggered.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -48,17 +41,13 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: Pressure Points
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.null.level-1/pressure-points
     subtype: signature
     target: One creature or object
-    tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Pressure Points
 target: One creature or object

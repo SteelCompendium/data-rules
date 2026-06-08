@@ -9,7 +9,7 @@ type: trait
 
 ## Signature Trait: Big! {data-scc="mcdm.heroes.v1/feature.trait.hakaan/big"}
 
-Your stature reflects your giant forebears. Your size is 1L.
+Your stature reflects your giant forebears. Your [size](../../../rule/character/size.md) is 1L.
 
 ## Purchased Hakaan Traits
 
@@ -17,7 +17,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Doo
 
 ### All Is a Feather {data-scc="mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather"}
 
-You are exceptionally strong. You gain an edge on tests made to lift and haul heavy objects.
+You are exceptionally strong. You gain an [edge](../../../rule/dice/edge.md) on tests made to lift and haul heavy objects.
 
 ### Doomsight {data-scc="mcdm.heroes.v1/feature.trait.hakaan/doomsight"}
 
@@ -29,7 +29,7 @@ Additionally, when your [Stamina](../../../rule/health/stamina.md) reaches the n
 
 ### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
 
-Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) distance gains a +1 bonus.
+Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +1 bonus.
 
 ### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.hakaan/great-fortitude"}
 
@@ -37,4 +37,4 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 ### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.hakaan/stand-tough"}
 
-Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
+Your body is made to withstand the blows of your enemies. Your [Might](../../../rule/character/might.md) score is treated as 1 higher for the purpose of resisting potencies, and you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) tests when called for to resist environmental effects or a creature's traits or abilities.

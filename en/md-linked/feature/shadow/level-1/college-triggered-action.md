@@ -25,9 +25,9 @@ Your [shadow college](shadow-college.md) grants you a triggered action, as shown
 |-------------|--------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Trigger:** An enemy targets you with a strike.
+**Trigger:** An enemy targets you with a [strike](../../../rule/combat/strike.md).
 
-**Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
+**Effect:** Choose an enemy within [distance](../../../rule/combat/distance.md) of the triggering strike, including the enemy who targeted you. The [strike](../../../rule/combat/strike.md) targets that enemy instead.
 
 ### Defensive Roll {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll"}
 

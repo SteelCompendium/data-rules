@@ -21,7 +21,7 @@ type: ability
 ```ds-feature
 distance: Ranged 5
 effects:
-    - effect: "| **Ranged, Stike, Weapon** |               **Main action** |\n|---------------------------| -----------------------------:|\n| **\U0001F4CF Ranged 5**           | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 4 + M or A damage\n- **17+:** 6 + M or A damage"
+    - effect: "| **Ranged, Stike, Weapon** |               **Main action** |\n|---------------------------| -----------------------------:|\n| **\U0001F4CF Ranged 5**           | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 4 + M or A damage\n- **17+:** 6 + M or A damage"
 feature_type: ability
 keywords:
     - Ranged

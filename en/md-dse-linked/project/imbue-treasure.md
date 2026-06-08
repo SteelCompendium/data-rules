@@ -25,7 +25,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../kit/martial-artist.md) and [Pugilist](../kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../class/elementalist.md) and [nulls](../class/null.md), can also benefit from such treasures.
+A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such as the [Martial Artist](../kit/martial-artist.md) and [Pugilist](../kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed [strikes](../rule/combat/strike.md) by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../class/elementalist.md) and [nulls](../class/null.md), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 
@@ -33,7 +33,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -43,7 +43,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 [Stamina](../rule/health/stamina.md) or less, they drop to 0 [Stamina](../rule/health/stamina.md).
 
-**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md) conditions.
+**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's [distance](../rule/combat/distance.md) as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md) conditions.
 
 **Merciful:** Whenever you reduce a non-undead creature to 0 [Stamina](../rule/health/stamina.md) using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 [Stamina](../rule/health/stamina.md).
 
@@ -75,7 +75,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -86,7 +86,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > *Their momentum, your impact.*
 >
-> | **Melee, Strike, Weapon** | **Free triggered** |
+> | **Melee, [Strike](../rule/combat/strike.md), Weapon** | **Free triggered** |
 > |---------------------------|-------------------:|
 > | **📏 Melee 1**            |   **🎯 One enemy** |
 >
@@ -103,7 +103,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 > **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
 >
 > - **Concealed:** The weapon shrinks to the size of a piece of jewelry and can be worn as an earring, necklace, or similar accessory. While in this form, the weapon can't be used for weapon abilities.
-> - **Large:** Abilities using this weapon gain a +1 melee distance bonus or a +3 ranged distance bonus.
+> - **Large:** Abilities using this weapon gain a +1 melee [distance](../rule/combat/distance.md) bonus or a +3 ranged [distance](../rule/combat/distance.md) bonus.
 > - **Vicious:** Whenever you damage a creature using this weapon, you deal an extra 1 damage on a tier 1 outcome, an extra 2 damage on a tier 2 outcome, and an extra 3 damage on a tier 3 outcome.
 >
 > **Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next turn.
@@ -134,7 +134,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -157,7 +157,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 > |-----------------|------------------------------:|
 > | **📏 3 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + Your Highest Characteristic Score:**
+> **Power Roll + Your Highest [Characteristic](../rule/character/characteristic.md) Score:**
 >
 > - **≤11:** 7 fire damage
 > - **12-16:** 11 fire damage
@@ -169,7 +169,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >
-> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md), each target in the area is instead [slowed](../condition/slowed.md) until the end of their next turn.
+> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a [bane](../rule/dice/bane.md) on the ability to target each enemy in a cube 3 within [distance](../rule/combat/distance.md). If your signature ability would usually cause its target to become [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md), each target in the area is instead [slowed](../condition/slowed.md) until the end of their next turn.
 
 ###### 9th-Level Weapon Enhancements
 

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Intuition score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
+    - effect: Your [Intuition](../../../rule/character/intuition.md) score increases to 5. Additionally, you can increase one of your [characteristic](../../../rule/character/characteristic.md) scores by 1, to a maximum of 5.
 feature_type: feature
 metadata:
     class: conduit

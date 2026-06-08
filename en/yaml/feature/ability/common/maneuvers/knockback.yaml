@@ -1,10 +1,6 @@
 distance: Melee 1
 effects:
-    - roll: Power Roll + Might
-      tier1: Push 1
-      tier2: Push 2
-      tier3: Push 3
-    - effect: You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+    - effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
       name: Effect
 feature_type: ability
 keywords:
@@ -12,7 +8,7 @@ keywords:
     - Weapon
 metadata:
     action_type: Maneuver
-    content: "\n| **Melee, Weapon** |        **Maneuver** |\n|-------------------|--------------------:|\n| **\U0001F4CF Melee 1**    | **\U0001F3AF One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3\n\n**Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score."
+    content: "\n| **Melee, Weapon** |        **Maneuver** |\n|-------------------|--------------------:|\n| **\U0001F4CF Melee 1**    | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3\n\n**Effect:** You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score."
     distance: Melee 1
     feature_type: ability
     item_id: knockback

@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.tactician.level-10/characteristic-increase
 type: feature
 ---
 
-Your Might and Reason scores each increase to 5.
+Your [Might](../../../rule/character/might.md) and [Reason](../../../rule/character/reason.md) scores each increase to 5.

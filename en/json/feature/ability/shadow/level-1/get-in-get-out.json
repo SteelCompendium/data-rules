@@ -3,13 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "5 + A damage",
-      "tier2": "8 + A damage",
-      "tier3": "11 + A damage"
-    },
-    {
-      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed, dividing that movement before or after your strike as desired.",
+      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed, dividing that movement before or after your [strike](scc:mcdm.heroes.v1/rule.combat/strike) as desired.",
       "name": "Effect"
     }
   ],
@@ -17,13 +11,13 @@
   "flavor": "Move unexpectedly, strike fast, and be gone!",
   "keywords": [
     "Melee",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*Move unexpectedly, strike fast, and be gone!*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 5 + A damage\n- **12-16:** 8 + A damage\n- **17+:** 11 + A damage\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed, dividing that movement before or after your strike as desired.",
+    "content": "\n*Move unexpectedly, strike fast, and be gone!*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 5 + A damage\n- **12-16:** 8 + A damage\n- **17+:** 11 + A damage\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed, dividing that movement before or after your [strike](scc:mcdm.heroes.v1/rule.combat/strike) as desired.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "Move unexpectedly, strike fast, and be gone!",
@@ -31,7 +25,7 @@
     "item_name": "Get In Get Out",
     "keywords": [
       "Melee",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 1,

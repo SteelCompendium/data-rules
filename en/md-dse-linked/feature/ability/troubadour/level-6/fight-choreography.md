@@ -14,7 +14,7 @@ item_id: fight-choreography
 item_name: Fight Choreography
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
 name: Fight Choreography
@@ -33,7 +33,7 @@ feature_type: ability
 flavor: You and your partner make a flashy show of derring-do, then get back to your corners.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -44,7 +44,7 @@ metadata:
     flavor: You and your partner make a flashy show of derring-do, then get back to your corners.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "6"
     name: Fight Choreography

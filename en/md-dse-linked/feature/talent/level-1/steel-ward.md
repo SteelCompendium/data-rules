@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain damage immunity equal to your Reason score until the end of your next turn.
+    - effect: Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../../../rule/damage/damage-immunity.md) equal to your [Reason](../../../rule/character/reason.md) score until the end of your next turn.
 feature_type: feature
 metadata:
     class: talent

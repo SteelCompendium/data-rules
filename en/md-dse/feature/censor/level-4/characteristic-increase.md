@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Might and Presence scores each increase to 3.
+    - effect: Your [Might](scc:mcdm.heroes.v1/rule.character/might) and [Presence](scc:mcdm.heroes.v1/rule.character/presence) scores each increase to 3.
 feature_type: feature
 metadata:
     class: censor

@@ -1,5 +1,5 @@
 ---
-average_potency: Intuition − 1
+average_potency: '[Intuition](../rule/character/intuition.md) − 1'
 file_basename: "null"
 file_dpath: class
 item_id: "null"
@@ -9,9 +9,9 @@ scc: mcdm.heroes.v1/class/null
 skills:
     - 'You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)'
 source: mcdm.heroes.v1
-strong_potency: Intuition
+strong_potency: '[Intuition](../rule/character/intuition.md)'
 type: class
-weak_potency: Intuition − 2
+weak_potency: '[Intuition](../rule/character/intuition.md) − 2'
 ---
 
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
@@ -24,17 +24,17 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ### Basics
 
-**Starting Characteristics:** You start with an Agility of 2 and an Intuition of 2, and you can choose one of the following arrays for your other characteristic scores:
+**Starting [Characteristics](../rule/character/characteristic.md):** You start with an [Agility](../rule/character/agility.md) of 2 and an [Intuition](../rule/character/intuition.md) of 2, and you can choose one of the following arrays for your other [characteristic](../rule/character/characteristic.md) scores:
 
 - 2, −1, −1
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** Intuition − 2
+**Weak Potency:** [Intuition](../rule/character/intuition.md) − 2
 
-**Average Potency:** Intuition − 1
+**Average Potency:** [Intuition](../rule/character/intuition.md) − 1
 
-**Strong Potency:** Intuition
+**Strong Potency:** [Intuition](../rule/character/intuition.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 

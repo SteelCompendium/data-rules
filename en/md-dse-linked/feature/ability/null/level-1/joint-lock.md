@@ -11,34 +11,27 @@ item_name: Joint Lock
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Joint Lock
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/joint-lock
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
-tier2: 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
-tier3: 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
-      tier2: 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
-      tier3: 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
+    - effect: "\n*You contort your enemy's body into a stance they struggle to escape from.*\n\n| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)\n- **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)\n- **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)"
 feature_type: ability
 flavor: You contort your enemy's body into a stance they struggle to escape from.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -48,17 +41,13 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"
     name: Joint Lock
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.null.level-1/joint-lock
     subtype: signature
     target: One creature or object
-    tier1: 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
-    tier2: 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
-    tier3: 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
     type: ability
 name: Joint Lock
 target: One creature or object

@@ -9,12 +9,8 @@ keywords:
     - Psionic
 level: "2"
 name: Kinetic Shield
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield
 target: Self
-tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
-tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
-tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 type: ability
 ---
 
@@ -25,7 +21,7 @@ type: ability
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 - **12-16:** You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).

@@ -28,7 +28,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 |-------------------|--------------------------------------:|
 | **📏 5 aura**     | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.
+**Effect:** Until the end of the encounter, any ability roll made against a target takes a [bane](../../../rule/dice/bane.md) and each target has [damage immunity](../../../rule/damage/damage-immunity.md) 5.
 
 ## Blessing of the Blade {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-the-blade"}
 
@@ -46,11 +46,11 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 *You conjure an angel who moves a foe and heals your allies.*
 
-| **Magic, Ranged, Strike**  |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 9 + I holy damage; slide 3
 - **12-16:** 13 + I holy damage; slide 4

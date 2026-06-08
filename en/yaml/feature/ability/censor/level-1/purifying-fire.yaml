@@ -1,10 +1,6 @@
 cost: 5 Wrath
 distance: Melee 1 or ranged 5
 effects:
-    - roll: Power Roll + Might
-      tier1: 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)
-      tier2: 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)
-      tier3: 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends)
     - effect: While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
       name: Effect
 feature_type: ability
@@ -13,12 +9,12 @@ keywords:
     - Magic
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
-    content: "\n*The gods judge, fire cleanses.*\n\n| **Magic, Melee, Ranged, Strike, Weapon**  |               **Main action** |\n|-------------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**                |           **\U0001F3AF One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)\n- **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)\n- **17+:** 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends)\n\n**Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage."
+    content: "\n*The gods judge, fire cleanses.*\n\n| **Magic, Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|-------------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**                |           **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)\n- **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)\n- **17+:** 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends)\n\n**Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage."
     distance: Melee 1 or ranged 5
     feature_type: ability
     flavor: The gods judge, fire cleanses.
@@ -28,7 +24,7 @@ metadata:
         - Magic
         - Melee
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 1
     scc:

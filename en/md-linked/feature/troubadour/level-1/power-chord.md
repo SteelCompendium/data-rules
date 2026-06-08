@@ -17,7 +17,7 @@ You have the following ability.
 |-----------------|------------------------------:|
 | **📏 2 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** Push 1
 - **12-16:** Push 2

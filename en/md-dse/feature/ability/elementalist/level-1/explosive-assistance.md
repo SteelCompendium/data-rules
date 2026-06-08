@@ -2,7 +2,7 @@
 action_type: Triggered
 class: elementalist
 distance: Ranged 10
-effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a bonus equal to your Reason score.
+effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
 feature_type: ability
 file_basename: explosive-assistance
 file_dpath: feature/ability/elementalist/level-1
@@ -17,7 +17,7 @@ level: "1"
 name: Explosive Assistance
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance
 source: mcdm.heroes.v1
-spend: '1 Essence: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a bonus equal to twice your Reason score instead.'
+spend: '1 Essence: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead.'
 subtype: triggered
 target: Self or one ally
 trigger: The target [force move](scc:mcdm.heroes.v1/movement/forced-movement)s a creature or object.
@@ -27,8 +27,8 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a bonus equal to your Reason score.
-    - effect: '1 Essence: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a bonus equal to twice your Reason score instead.'
+    - effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
+    - effect: '1 Essence: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead.'
       name: Spend
 feature_type: ability
 flavor: You add a little magic to an ally's aggression at just the right time.
@@ -40,7 +40,7 @@ metadata:
     action_type: Triggered
     class: elementalist
     distance: Ranged 10
-    effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a bonus equal to your Reason score.
+    effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
     flavor: You add a little magic to an ally's aggression at just the right time.
     keywords:
         - Fire
@@ -49,7 +49,7 @@ metadata:
     level: "1"
     name: Explosive Assistance
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance
-    spend: '1 Essence: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance gains a bonus equal to twice your Reason score instead.'
+    spend: '1 Essence: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead.'
     subtype: triggered
     target: Self or one ally
     trigger: The target [force move](scc:mcdm.heroes.v1/movement/forced-movement)s a creature or object.

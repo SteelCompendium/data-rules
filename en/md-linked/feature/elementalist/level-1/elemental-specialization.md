@@ -28,8 +28,8 @@ You become an expert at wielding destructive flames. Your abilities that have th
 
 ## Green: Acolyte of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/green-acolyte-of-the-green"}
 
-You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your Reason score.
+You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Void: Acolyte of the Mystery {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/void-acolyte-of-the-mystery"}
 
-You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The distance of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.
+You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../../../rule/combat/distance.md) of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.

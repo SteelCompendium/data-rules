@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../common/main-actions/free-strike.md) using a weapon from one of your equipped kits, you gain an edge.
+    - effect: Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../common/main-actions/free-strike.md) using a weapon from one of your equipped kits, you gain an [edge](../../../rule/dice/edge.md).
 feature_type: feature
 metadata:
     class: tactician

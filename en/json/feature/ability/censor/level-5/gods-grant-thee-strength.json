@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up. The target then gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), can [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed while ignoring [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and can use a strike signature ability as a free triggered action.",
+      "effect": "The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up. The target then gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), can [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed while ignoring [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and can use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability as a free triggered action.",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*You channel divine force for movement that cannot be stopped.*\n\n| **Ranged** |         **Main action** |\n|------------------|------------------------:|\n| **📏 Ranged 10** | **🎯 Self or one ally** |\n\n**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up. The target then gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), can [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed while ignoring [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and can use a strike signature ability as a free triggered action.",
+    "content": "\n*You channel divine force for movement that cannot be stopped.*\n\n| **Ranged** |         **Main action** |\n|------------------|------------------------:|\n| **📏 Ranged 10** | **🎯 Self or one ally** |\n\n**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up. The target then gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), can [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed while ignoring [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and can use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability as a free triggered action.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You channel divine force for movement that cannot be stopped.",

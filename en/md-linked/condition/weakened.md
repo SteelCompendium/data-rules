@@ -4,4 +4,4 @@ scc: mcdm.heroes.v1/condition/weakened
 type: condition
 ---
 
-A creature who is [weakened](weakened.md) takes a bane on power rolls.
+A creature who is [weakened](weakened.md) takes a [bane](../rule/dice/bane.md) on power rolls.

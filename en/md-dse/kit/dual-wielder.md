@@ -35,11 +35,11 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 *Why strike once when you could do it twice?*
 
-| **Melee, Strike, Weapon** |                 **Main action** |
+| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage
@@ -55,7 +55,7 @@ feature_type: ability
 flavor: Why strike once when you could do it twice?
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -64,7 +64,7 @@ metadata:
     flavor: Why strike once when you could do it twice?
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Double Strike
     subtype: signature

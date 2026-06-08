@@ -14,16 +14,12 @@ item_name: Repent!
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Repent!
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/repent
 source: mcdm.heroes.v1
 target: One creature
-tier1: 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier2: 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier3: 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -31,16 +27,13 @@ type: ability
 cost: 3 Wrath
 distance: Ranged 10
 effects:
-    - roll: Power Roll + Presence
-      tier1: 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier2: 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-      tier3: 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    - effect: "\n*You conjure memories of their sins to harry your foes.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |    **Main action**  |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
 feature_type: ability
 flavor: You conjure memories of their sins to harry your foes.
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: censor
@@ -50,15 +43,11 @@ metadata:
     keywords:
         - Magic
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Repent!
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/repent
     target: One creature
-    tier1: 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-    tier2: 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-    tier3: 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     type: ability
 name: Repent!
 target: One creature

@@ -17,6 +17,6 @@ You have the following ability.
 |---------------------|----------------------------:|
 | **📏 Ranged 10**    | **🎯 Self or one creature** |
 
-**Effect:** The target shifts up to a number of squares equal to your Reason score.
+**Effect:** The target shifts up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 **Spend 2 Clarity:** The target can use a maneuver.

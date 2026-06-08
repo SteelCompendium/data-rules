@@ -29,7 +29,7 @@ You have the following ability.
 |---------------------|----------------------------:|
 | **📏 Ranged 10**    | **🎯 Self or one creature** |
 
-**Effect:** The target shifts up to a number of squares equal to your Reason score.
+**Effect:** The target shifts up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 **Spend 2 Clarity:** The target can use a maneuver.
 
@@ -78,9 +78,9 @@ You have the following ability.
 
 | **Psionic, Ranged** |                                 **Maneuver** |
 |---------------------|---------------------------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one size 1 creature or object** |
+| **📏 Ranged 10**    | **🎯 Self or one [size](../../../rule/character/size.md) 1 creature or object** |
 
-**Effect:** You slide the target up to a number of squares equal to your Reason score.
+**Effect:** You slide the target up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 
@@ -100,6 +100,6 @@ You have the following ability.
 | **📏 Ranged 10**    | **🎯 One creature or object** |
 
 
-**Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an edge.
+**Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an [edge](../../../rule/dice/edge.md).
 
 **Spend 1 Clarity:** You target one additional creature or object.

@@ -24,11 +24,11 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 *"Why are you looking at ME?!"*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 9 + A damage
 - **12-16:** 13 + A damage
@@ -41,11 +41,11 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 *One missile—placed well and placed hard.*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + A damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -56,11 +56,11 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 *There's no recovering from this.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 + A damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 11 + A damage; M < AVERAGE, [prone and](../../../condition/prone.md) can't stand (save ends)

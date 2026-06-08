@@ -11,34 +11,27 @@ item_name: Ray of Agonizing Self-Reflection
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Void
 level: "1"
 name: Ray of Agonizing Self-Reflection
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-reflection
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
 ```ds-feature
 distance: Ranged 10
 effects:
-    - roll: Power Roll + Reason
-      tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-      tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-      tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    - effect: "\n*You inflict pain and doubt in equal measure.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Void** |               **Main action** | \n|---------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
 feature_type: ability
 flavor: You inflict pain and doubt in equal measure.
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Void
 metadata:
     action_type: Main action
@@ -48,17 +41,13 @@ metadata:
     keywords:
         - Magic
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Void
     level: "1"
     name: Ray of Agonizing Self-Reflection
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-reflection
     subtype: signature
     target: One creature or object
-    tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-    tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-    tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     type: ability
 name: Ray of Agonizing Self-Reflection
 target: One creature or object

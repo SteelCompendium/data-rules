@@ -27,7 +27,7 @@ effects:
         - Melee Damage Bonus: +2/+2/+2
         - Ranged Damage Bonus: +0/+0/+4
         - Speed Bonus: +1
-        - Ranged Distance Bonus: +10
+        - Ranged [Distance](../../../rule/combat/distance.md) Bonus: +10
         - Disengage Bonus: +1
         - You can use the [Patient Shot](../../ability/sniper/patient-shot.md) and [Protective Attack](../../ability/shining-armor/protective-attack.md) signature abilities.
 

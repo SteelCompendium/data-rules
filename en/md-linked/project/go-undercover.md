@@ -8,7 +8,7 @@ type: project
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Intuition](../rule/character/intuition.md) or [Presence](../rule/character/presence.md)
 
 **Project Goal:** 15
 

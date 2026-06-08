@@ -6,27 +6,23 @@ distance: Melee 1
 flavor: Your unbridled rage strikes terror in their hearts.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
 name: Death... Death!
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/death-death
 target: One creature
-tier1: 3 + M damage; P < WEAK, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)
-tier2: 5 + M damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)
-tier3: 8 + M damage; P < STRONG, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 
 
 *Your unbridled rage strikes terror in their hearts.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)
 - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)

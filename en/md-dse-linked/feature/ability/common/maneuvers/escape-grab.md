@@ -1,7 +1,7 @@
 ---
 action_type: Maneuver
 distance: Self
-effect: You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
+effect: You take a [bane](../../../../rule/dice/bane.md) on this maneuver if your [size](../../../../rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
 feature_type: ability
 file_basename: escape-grab
 file_dpath: feature/ability/common/maneuvers
@@ -19,14 +19,14 @@ type: ability
 ```ds-feature
 distance: Self
 effects:
-    - effect: You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
+    - effect: You take a [bane](../../../../rule/dice/bane.md) on this maneuver if your [size](../../../../rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
 feature_type: ability
 keywords:
     - '-'
 metadata:
     action_type: Maneuver
     distance: Self
-    effect: You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
+    effect: You take a [bane](../../../../rule/dice/bane.md) on this maneuver if your [size](../../../../rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
     keywords:
         - '-'
     name: Escape Grab

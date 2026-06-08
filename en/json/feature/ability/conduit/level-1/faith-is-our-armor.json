@@ -3,12 +3,6 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Intuition",
-      "tier1": "The target gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
-      "tier2": "The target gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
-      "tier3": "The target gains 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)."
-    },
-    {
       "effect": "You can target yourself instead of one ally with this ability.",
       "name": "Effect"
     }
@@ -22,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*The heroes' armor glows with golden light, granting divine protection.*\n\n| **Magic, Ranged**        |       **Maneuver** |\n|--------------------------|-------------------:|\n| **📏 Ranged 10**         | **🎯 Four allies** |\n\n**Effect:** You can target yourself instead of one ally with this ability.\n\n**Power Roll + Intuition:**\n\n- **≤11:** The target gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **12-16:** The target gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **17+:** The target gains 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
+    "content": "\n*The heroes' armor glows with golden light, granting divine protection.*\n\n| **Magic, Ranged**        |       **Maneuver** |\n|--------------------------|-------------------:|\n| **📏 Ranged 10**         | **🎯 Four allies** |\n\n**Effect:** You can target yourself instead of one ally with this ability.\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** The target gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **12-16:** The target gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **17+:** The target gains 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "The heroes' armor glows with golden light, granting divine protection.",

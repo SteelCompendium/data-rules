@@ -3,12 +3,6 @@
   "distance": "Melee 1 or ranged 5",
   "effects": [
     {
-      "roll": "Power Roll + Might",
-      "tier1": "8 + M damage",
-      "tier2": "13 + M damage",
-      "tier3": "17 + M damage"
-    },
-    {
       "effect": "The target is marked by you.",
       "name": "Effect"
     }
@@ -18,13 +12,13 @@
   "keywords": [
     "Melee",
     "Ranged",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*You focus on making an enemy irrelevant.*\n\n| **Melee, Ranged, Strike, Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Effect:** The target is marked by you.\n\n**Power Roll + Might:**\n\n- **≤11:** 8 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 17 + M damage\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), you can use a signature or heroic ability instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against any target marked by you.",
+    "content": "\n*You focus on making an enemy irrelevant.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Effect:** The target is marked by you.\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 8 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 17 + M damage\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), you can use a signature or heroic ability instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against any target marked by you.",
     "distance": "Melee 1 or ranged 5",
     "feature_type": "ability",
     "flavor": "You focus on making an enemy irrelevant.",
@@ -33,7 +27,7 @@
     "keywords": [
       "Melee",
       "Ranged",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 9,

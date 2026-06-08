@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) distance gains a +1 bonus.
+    - effect: Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +1 bonus.
 feature_type: trait
 metadata:
     ancestry: hakaan

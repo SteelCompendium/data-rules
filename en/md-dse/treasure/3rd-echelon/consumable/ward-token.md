@@ -1,6 +1,6 @@
 ---
 echelon: "3"
-effect: As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double bane.
+effect: As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
 file_basename: ward-token
 file_dpath: treasure/3rd-echelon/consumable
 item_id: ward-token
@@ -22,8 +22,8 @@ type: treasure
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Might or Intuition
+**Project Roll [Characteristic](scc:mcdm.heroes.v1/rule.character/characteristic):** [Might](scc:mcdm.heroes.v1/rule.character/might) or [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double bane.
+**Effect:** As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).

@@ -14,17 +14,13 @@ item_name: Staggering Blow
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "3"
 name: Staggering Blow
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow
 source: mcdm.heroes.v1
 target: One creature
-tier1: 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
-tier3: 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 type: ability
 ---
 
@@ -32,16 +28,13 @@ type: ability
 cost: 7 Insight
 distance: Melee 1 or ranged 5
 effects:
-    - roll: Power Roll + Agility
-      tier1: 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-      tier2: 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
-      tier3: 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
+    - effect: "\n*There's no recovering from this.*\n\n| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)\n- **17+:** 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)"
 feature_type: ability
 flavor: There's no recovering from this.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -52,16 +45,12 @@ metadata:
     keywords:
         - Melee
         - Ranged
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "3"
     name: Staggering Blow
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow
     target: One creature
-    tier1: 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-    tier2: 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
-    tier3: 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
     type: ability
 name: Staggering Blow
 target: One creature

@@ -18,13 +18,9 @@ keywords:
     - Weapon
 level: "1"
 name: Thunder Roar
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 6 damage; push 2
-tier2: 9 damage; push 4
-tier3: 13 damage; push 6
 type: ability
 ---
 
@@ -33,10 +29,6 @@ cost: 5 Ferocity
 distance: 5 x 1 line within 1
 effects:
     - effect: The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
-    - roll: Power Roll + Might
-      tier1: 6 damage; push 2
-      tier2: 9 damage; push 4
-      tier3: 13 damage; push 6
 feature_type: ability
 flavor: You unleash a howl that hurls your enemies back.
 keywords:
@@ -56,12 +48,8 @@ metadata:
         - Weapon
     level: "1"
     name: Thunder Roar
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar
     target: Each enemy in the area
-    tier1: 6 damage; push 2
-    tier2: 9 damage; push 4
-    tier3: 13 damage; push 6
     type: ability
 name: Thunder Roar
 target: Each enemy in the area

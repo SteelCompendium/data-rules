@@ -4,7 +4,7 @@ distance: Ranged 12
 flavor: When you fire two arrows back-to-back, both hit their mark.
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: rapid-fire
 name: Two Shot
@@ -16,11 +16,11 @@ type: ability
 
 *When you fire two arrows back-to-back, both hit their mark.*
 
-| **Ranged, Strike, Weapon** |                 **Main action** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |----------------------------|--------------------------------:|
 | **📏 Ranged 12**           | **🎯 Two creatures or objects** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage

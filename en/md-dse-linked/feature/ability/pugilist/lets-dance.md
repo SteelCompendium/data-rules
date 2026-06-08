@@ -10,7 +10,7 @@ item_id: lets-dance
 item_name: Let's Dance
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: pugilist
 name: Let's Dance
@@ -29,7 +29,7 @@ feature_type: ability
 flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -38,7 +38,7 @@ metadata:
     flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: pugilist
     name: Let's Dance

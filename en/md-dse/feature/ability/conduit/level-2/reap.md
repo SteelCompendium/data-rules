@@ -5,7 +5,7 @@ cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
 distance: Ranged 10
-effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your Intuition score.
+effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
 file_basename: reap
 file_dpath: feature/ability/conduit/level-2
@@ -27,7 +27,7 @@ type: ability
 cost: 5 Piety
 distance: Ranged 10
 effects:
-    - effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your Intuition score.
+    - effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
 flavor: The gods reward those who smite their foes.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 5 Piety
     distance: Ranged 10
-    effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your Intuition score.
+    effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
     flavor: The gods reward those who smite their foes.
     keywords:
         - Magic

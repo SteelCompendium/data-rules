@@ -3,12 +3,6 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Presence",
-      "tier1": "7 + P psychic damage; P \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
-      "tier2": "10 + P psychic damage; P \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
-      "tier3": "13 + P psychic damage; P \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
-    },
-    {
       "effect": "While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded), they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is [winded](scc:mcdm.heroes.v1/rule.health/winded), they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).",
       "name": "Effect"
     }
@@ -18,12 +12,12 @@
   "keywords": [
     "Magic",
     "Ranged",
-    "Strike"
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*\"I know what you fear.\"*\n\n| **Magic, Ranged, Strike**  |     **Main action** |\n|----------------------------|--------------------:|\n| **📏 Ranged 10**           | **🎯 One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** 7 + P psychic damage; P \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 10 + P psychic damage; P \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 13 + P psychic damage; P \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n\n**Effect:** While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded), they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is [winded](scc:mcdm.heroes.v1/rule.health/winded), they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).",
+    "content": "\n*\"I know what you fear.\"*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |     **Main action** |\n|----------------------------|--------------------:|\n| **📏 Ranged 10**           | **🎯 One creature** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 7 + P psychic damage; P \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 10 + P psychic damage; P \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 13 + P psychic damage; P \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n\n**Effect:** While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded), they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is [winded](scc:mcdm.heroes.v1/rule.health/winded), they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "\"I know what you fear.\"",
@@ -32,7 +26,7 @@
     "keywords": [
       "Magic",
       "Ranged",
-      "Strike"
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 9,
     "scc": [

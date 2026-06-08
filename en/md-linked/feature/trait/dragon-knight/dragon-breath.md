@@ -15,10 +15,10 @@ You have the following signature ability.
 |------------------------|------------------------------:|
 | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Might or Presence:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 4 damage
 - **17+:** 6 damage
 
-**Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
+**Effect:** You choose the ability's [damage type](../../../rule/damage/damage-type.md) from acid, cold, corruption, fire, lightning, or poison.

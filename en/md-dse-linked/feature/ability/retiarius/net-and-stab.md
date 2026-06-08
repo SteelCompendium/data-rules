@@ -9,7 +9,7 @@ item_id: net-and-stab
 item_name: Net and Stab
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: retiarius
 name: Net and Stab
@@ -23,12 +23,12 @@ type: ability
 ```ds-feature
 distance: Melee 2
 effects:
-    - effect: "*The well-thrown net that follows your main attack leaves your foes right where you want them.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (EoT)\n- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (EoT)\n- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (EoT)"
+    - effect: "*The well-thrown net that follows your main attack leaves your foes right where you want them.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (EoT)\n- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (EoT)\n- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (EoT)"
 feature_type: ability
 flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -36,7 +36,7 @@ metadata:
     flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: retiarius
     name: Net and Stab

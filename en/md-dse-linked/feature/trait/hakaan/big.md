@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your stature reflects your giant forebears. Your size is 1L.
+    - effect: Your stature reflects your giant forebears. Your [size](../../../rule/character/size.md) is 1L.
 feature_type: trait
 metadata:
     ancestry: hakaan

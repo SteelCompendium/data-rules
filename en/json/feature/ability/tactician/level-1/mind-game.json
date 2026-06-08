@@ -3,12 +3,6 @@
   "distance": "Melee 1 or ranged 5",
   "effects": [
     {
-      "roll": "Power Roll + Might",
-      "tier1": "4 + M damage; R \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)",
-      "tier2": "6 + M damage; R \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)",
-      "tier3": "10 + M damage; R \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)"
-    },
-    {
       "effect": "You mark the target.",
       "name": "Effect"
     }
@@ -18,13 +12,13 @@
   "keywords": [
     "Melee",
     "Ranged",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*Your attack demoralizes your foe. Your allies begin to think you can win.*\n\n| **Melee, Ranged, Strike, Weapon** |               **Main action** |\n|-----------------------------------|------------------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |\n\n**Effect:** You mark the target.\n\n**Power Roll + Might:**\n\n- **≤11:** 4 + M damage; R \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 6 + M damage; R \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 10 + M damage; R \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
+    "content": "\n*Your attack demoralizes your foe. Your allies begin to think you can win.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|-----------------------------------|------------------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |\n\n**Effect:** You mark the target.\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 4 + M damage; R \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 6 + M damage; R \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 10 + M damage; R \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
     "distance": "Melee 1 or ranged 5",
     "feature_type": "ability",
     "flavor": "Your attack demoralizes your foe. Your allies begin to think you can win.",
@@ -33,7 +27,7 @@
     "keywords": [
       "Melee",
       "Ranged",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 1,

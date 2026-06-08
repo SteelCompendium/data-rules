@@ -3,13 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "roll": "Power Roll + Reason",
-      "tier1": "3 + R damage",
-      "tier2": "5 + R damage",
-      "tier3": "8 + R damage"
-    },
-    {
-      "effect": "A worthless size 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).",
+      "effect": "A worthless [size](scc:mcdm.heroes.v1/rule.character/size) 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).",
       "name": "Effect"
     }
   ],
@@ -19,13 +13,13 @@
     "Psionic",
     "Ranged",
     "Resopathy",
-    "Strike"
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "talent",
-    "content": "\n*You picture an object in your mind and give it form—directly above your opponent's head.*\n\n| **Psionic, Ranged, Resopathy, Strike** |               **Main action** |\n|----------------------------------------|------------------------------:|\n| **📏 Ranged 10**                       | **🎯 One creature or object** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 3 + R damage\n- **12-16:** 5 + R damage\n- **17+:** 8 + R damage\n\n**Effect:** A worthless size 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).\n\n**Strained:** The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your Reason score. You also take damage equal to your Reason score that can't be reduced in any way.",
+    "content": "\n*You picture an object in your mind and give it form—directly above your opponent's head.*\n\n| **Psionic, Ranged, Resopathy, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|----------------------------------------|------------------------------:|\n| **📏 Ranged 10**                       | **🎯 One creature or object** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 + R damage\n- **12-16:** 5 + R damage\n- **17+:** 8 + R damage\n\n**Effect:** A worthless [size](scc:mcdm.heroes.v1/rule.character/size) 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).\n\n**Strained:** The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. You also take damage equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score that can't be reduced in any way.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You picture an object in your mind and give it form—directly above your opponent's head.",
@@ -35,7 +29,7 @@
       "Psionic",
       "Ranged",
       "Resopathy",
-      "Strike"
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 1,
     "scc": [

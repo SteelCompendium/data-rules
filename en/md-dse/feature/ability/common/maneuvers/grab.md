@@ -1,7 +1,7 @@
 ---
 action_type: Maneuver
 distance: Melee 1
-effect: You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
 feature_type: ability
 file_basename: grab
 file_dpath: feature/ability/common/maneuvers
@@ -11,24 +11,16 @@ keywords:
     - Melee
     - Weapon
 name: Grab
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
 source: mcdm.heroes.v1
 target: One creature
-tier1: No effect.
-tier2: You can grab the target, but if you do, the target can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
-tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
 type: ability
 ---
 
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
-    - roll: Power Roll + Might
-      tier1: No effect.
-      tier2: You can grab the target, but if you do, the target can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
-      tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
+    - effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
 feature_type: ability
 keywords:
     - Melee
@@ -36,17 +28,13 @@ keywords:
 metadata:
     action_type: Maneuver
     distance: Melee 1
-    effect: You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+    effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
     keywords:
         - Melee
         - Weapon
     name: Grab
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
     target: One creature
-    tier1: No effect.
-    tier2: You can grab the target, but if you do, the target can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
-    tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
     type: ability
 name: Grab
 target: One creature

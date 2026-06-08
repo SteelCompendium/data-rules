@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Reason and Presence scores each increase to 5.
+    - effect: Your [Reason](../../../rule/character/reason.md) and [Presence](../../../rule/character/presence.md) scores each increase to 5.
 feature_type: feature
 metadata:
     class: talent

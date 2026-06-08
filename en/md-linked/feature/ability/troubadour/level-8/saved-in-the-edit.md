@@ -23,7 +23,7 @@ type: ability
 
 **Effect:** Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a [Recovery](../../../../rule/health/recoveries.md), you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending [Recoveries](../../../../rule/health/recoveries.md) simultaneously, each target receives the same effect:
 
-- The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
-- The target has damage immunity equal to your Presence score.
-- The target has a bonus to stability and a penalty to speed equal to your Presence score.
-- The target has a bonus to speed and a penalty to stability equal to your Presence score.
+- The target has [damage weakness](../../../../rule/damage/damage-weakness.md) equal to your [Presence](../../../../rule/character/presence.md) score against any magic, psionic, or weapon ability.
+- The target has [damage immunity](../../../../rule/damage/damage-immunity.md) equal to your [Presence](../../../../rule/character/presence.md) score.
+- The target has a bonus to stability and a penalty to speed equal to your [Presence](../../../../rule/character/presence.md) score.
+- The target has a bonus to speed and a penalty to stability equal to your [Presence](../../../../rule/character/presence.md) score.

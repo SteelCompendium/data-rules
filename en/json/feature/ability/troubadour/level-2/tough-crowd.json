@@ -3,12 +3,6 @@
   "distance": "3 cube within 10",
   "effects": [
     {
-      "roll": "Power Roll + Presence",
-      "tier1": "5 corruption damage; M \u003c WEAK, pull 1 toward the center of the area",
-      "tier2": "9 corruption damage; M \u003c AVERAGE, pull 2 toward the center of the area",
-      "tier3": "12 corruption damage; M \u003c STRONG, pull 3 toward the center of the area"
-    },
-    {
       "effect": "The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.",
       "name": "Effect"
     }
@@ -23,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*Your fans don't seem to like the opening act...*\n\n| **Area, Magic, Ranged** | **Main action** |\n|-------------------------|----------------:|\n| **📏 3 cube within 10** |  **🎯 Special** |\n\n**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.\n\n**Power Roll + Presence:**\n\n- **≤11:** 5 corruption damage; M \u003c WEAK, pull 1 toward the center of the area\n- **12-16:** 9 corruption damage; M \u003c AVERAGE, pull 2 toward the center of the area\n- **17+:** 12 corruption damage; M \u003c STRONG, pull 3 toward the center of the area",
+    "content": "\n*Your fans don't seem to like the opening act...*\n\n| **Area, Magic, Ranged** | **Main action** |\n|-------------------------|----------------:|\n| **📏 3 cube within 10** |  **🎯 Special** |\n\n**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 5 corruption damage; M \u003c WEAK, pull 1 toward the center of the area\n- **12-16:** 9 corruption damage; M \u003c AVERAGE, pull 2 toward the center of the area\n- **17+:** 12 corruption damage; M \u003c STRONG, pull 3 toward the center of the area",
     "distance": "3 cube within 10",
     "feature_type": "ability",
     "flavor": "Your fans don't seem to like the opening act...",

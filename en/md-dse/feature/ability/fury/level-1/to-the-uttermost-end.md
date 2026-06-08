@@ -13,18 +13,14 @@ item_id: to-the-uttermost-end
 item_name: To the Uttermost End
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: To the Uttermost End
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/to-the-uttermost-end
 source: mcdm.heroes.v1
-spend: '1+ Ferocity: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this strike.'
+spend: '1+ Ferocity: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this [strike](scc:mcdm.heroes.v1/rule.combat/strike).'
 target: One creature
-tier1: 7 + M damage
-tier2: 11 + M damage
-tier3: 16 + M damage
 type: ability
 ---
 
@@ -32,17 +28,13 @@ type: ability
 cost: 5 Ferocity
 distance: Melee 1
 effects:
-    - roll: Power Roll + Might
-      tier1: 7 + M damage
-      tier2: 11 + M damage
-      tier3: 16 + M damage
-    - effect: '1+ Ferocity: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this strike.'
+    - effect: '1+ Ferocity: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this [strike](scc:mcdm.heroes.v1/rule.combat/strike).'
       name: Spend
 feature_type: ability
 flavor: You gut your life force to ensure a foe's demise.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -52,17 +44,13 @@ metadata:
     flavor: You gut your life force to ensure a foe's demise.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: To the Uttermost End
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/to-the-uttermost-end
-    spend: '1+ Ferocity: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this strike.'
+    spend: '1+ Ferocity: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this [strike](scc:mcdm.heroes.v1/rule.combat/strike).'
     target: One creature
-    tier1: 7 + M damage
-    tier2: 11 + M damage
-    tier3: 16 + M damage
     type: ability
 name: To the Uttermost End
 target: One creature

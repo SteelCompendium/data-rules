@@ -15,17 +15,13 @@ item_name: Black Ash Eruption
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
 name: Black Ash Eruption
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption
 source: mcdm.heroes.v1
 target: One creature
-tier1: 3 + A damage; vertical push 5
-tier2: 6 + A damage; vertical push 10
-tier3: 9 + A damage; vertical push 15
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 9 Insight
 distance: Melee 1
 effects:
     - effect: A creature [force moved](../../../../movement/forced-movement.md) by this ability must be moved straight upward.
-    - roll: Power Roll + Agility
-      tier1: 3 + A damage; vertical push 5
-      tier2: 6 + A damage; vertical push 10
-      tier3: 9 + A damage; vertical push 15
 feature_type: ability
 flavor: Your attack produces a cloud of black ash that launches an enemy into the air.
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Magic
         - Melee
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "6"
     name: Black Ash Eruption
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption
     target: One creature
-    tier1: 3 + A damage; vertical push 5
-    tier2: 6 + A damage; vertical push 10
-    tier3: 9 + A damage; vertical push 15
     type: ability
 name: Black Ash Eruption
 target: One creature

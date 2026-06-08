@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your Intuition score.
+    - effect: Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: feature
 metadata:
     class: conduit

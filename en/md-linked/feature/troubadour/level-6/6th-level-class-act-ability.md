@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 5 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -36,7 +36,7 @@ Choose one of the following abilities.
 |-----------------|-----------------------------:|
 | **📏 5 burst**  | **🎯 Each ally in the area** |
 
-**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
+**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon [distance](../../../rule/combat/distance.md) bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
 
 ## 6th-Level Duelist Abilities
 
@@ -47,11 +47,11 @@ Choose one of the following abilities.
 
 *It's love and blood or drama and blood. Either way, there's always blood.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 12 + A damage; M < WEAK, [bleeding](../../../condition/bleeding.md) (save ends)
 - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../../../condition/bleeding.md) (save ends)
@@ -62,7 +62,7 @@ Choose one of the following abilities.
 
 *You and your partner make a flashy show of derring-do, then get back to your corners.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -83,7 +83,7 @@ Choose one of the following abilities.
 
 **Effect:** A [prone target](../../../condition/prone.md) ignores this ability.
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 7 sonic damage; P < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** 10 sonic damage; P < AVERAGE[, prone](../../../condition/prone.md)

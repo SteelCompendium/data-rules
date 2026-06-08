@@ -30,11 +30,11 @@ You have the following ability.
 
 ## Primordial Storm {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/primordial-storm"}
 
-Each stormwight kit is associated with a [primordial storm](primordial-storm.md), which channels a specific damage type used by some of your abilities.
+Each stormwight kit is associated with a [primordial storm](primordial-storm.md), which channels a specific [damage type](../../../rule/damage/damage-type.md) used by some of your abilities.
 
 ## Equipment {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/equipment"}
 
-You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
+You wear no armor and wield only your unarmed [strikes](../../../rule/combat/strike.md)—which become devastating natural weapons as your ferocity grows.
 
 ## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/kit-bonuses"}
 

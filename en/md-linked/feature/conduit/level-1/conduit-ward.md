@@ -14,12 +14,12 @@ Your god grants you a holy countenance that protects you at all times. You gain 
 
 ## Quickness Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/quickness-ward"}
 
-The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../../../movement/shifting.md) up to a number of squares equal to your Intuition score after the damage is dealt.
+The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../../../movement/shifting.md) up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score after the damage is dealt.
 
 ## Sanctuary Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/sanctuary-ward"}
 
-In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a strike until you harm them or one of their allies, or until the end of their next turn.
+In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a [strike](../../../rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next turn.
 
 ## Spirit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/spirit-ward"}
 
-Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your Intuition score.
+Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your [Intuition](../../../rule/character/intuition.md) score.

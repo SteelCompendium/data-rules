@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.
+effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.
 feature_type: ability
 file_basename: leaping-lightning
 file_dpath: feature/ability/spellsword
@@ -11,7 +11,7 @@ item_name: Leaping Lightning
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 kit: spellsword
 name: Leaping Lightning
@@ -25,23 +25,23 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.
+    - effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.
 feature_type: ability
 flavor: Lightning jumps from your weapon as you strike to harm a nearby foe.
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     distance: Melee 1
-    effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.
+    effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.
     flavor: Lightning jumps from your weapon as you strike to harm a nearby foe.
     keywords:
         - Magic
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     kit: spellsword
     name: Leaping Lightning

@@ -9,4 +9,4 @@ source: mcdm.heroes.v1
 type: skill
 ---
 
-Leap vertical and horizontal distances.
+Leap vertical and horizontal [distances](scc:mcdm.heroes.v1/rule.combat/distance).

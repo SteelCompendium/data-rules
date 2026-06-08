@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |------------------|---------------------------:|
 | **📏 Ranged 10** | **🎯 Self and two allies** |
 
-**Effect:** Each target gains 2 [surges](../../../rule/resource/surge.md), and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../../../movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../../../rule/combat/cover.md) or [concealment](../../../rule/combat/concealment.md), or if they are observed.
+**Effect:** Each target gains 2 [surges](../../../rule/resource/surge.md), and can use a free triggered action to use a signature ability that gains an [edge](../../../rule/dice/edge.md). After resolving their ability, each target can [shift](../../../movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../../../rule/combat/cover.md) or [concealment](../../../rule/combat/concealment.md), or if they are observed.
 
 ### Their Lack of Focus Is Their Undoing {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing"}
 
@@ -34,7 +34,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** R < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** R < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -53,7 +53,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 3 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can make a ranged [free strike](../../common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
+**Effect:** Each target can make a ranged [free strike](../../common/main-actions/free-strike.md) that gains an [edge](../../../rule/dice/edge.md) against any enemy marked by you within [distance](../../../rule/combat/distance.md) of their ranged [free strike](../../common/main-actions/free-strike.md). A target ignores [banes](../../../rule/dice/bane.md) and double [banes](../../../rule/dice/bane.md) when making this [strike](../../../rule/combat/strike.md).
 
 ### Counterstrategy {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy"}
 
@@ -75,13 +75,13 @@ Choose one of the following abilities.
 
 *Nothing will stop you from reaching your foe.*
 
-| **Charge, Melee, Strike, Weapon** |     **Main action** |
+| **Charge, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
 | **📏 Melee 1**                    | **🎯 One creature** |
 
 **Effect:** You mark the target.
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 11 + M damage
 - **12-16:** 16 + M damage
@@ -94,13 +94,13 @@ Choose one of the following abilities.
 
 *You focus on making an enemy irrelevant.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
 **Effect:** The target is marked by you.
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 8 + M damage
 - **12-16:** 13 + M damage

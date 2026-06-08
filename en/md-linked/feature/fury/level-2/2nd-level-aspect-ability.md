@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 Melee 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This [forced movement](../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to your Might score.
+**Effect:** You vertically push the target up to 4 squares. This [forced movement](../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../../rule/character/might.md) score.
 
 ### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
@@ -36,7 +36,7 @@ Choose one of the following abilities.
 
 Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** Push 1
 - **12-16:** Push 2
@@ -51,11 +51,11 @@ Choose one of the following abilities.
 
 *Your unbridled rage strikes terror in their hearts.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../condition/dazed.md) and [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../condition/dazed.md) and [frightened](../../../condition/frightened.md) (save ends)
@@ -72,7 +72,7 @@ Choose one of the following abilities.
 
 **Effect:** You [shift](../../../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies you move adjacent to during this [shift](../../../movement/shifting.md).
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 damage; A < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -87,11 +87,11 @@ Choose one of the following abilities.
 
 *I will hunt you down.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 4 damage; I < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 6 damage; I < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -108,10 +108,10 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 2 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
 - **17+:** 7 damage; push 3; M < STRONG, [dazed](../../../condition/dazed.md) (save ends)
 
-**Effect:** This ability deals your primordial damage type (see [Stormwight Kits](../stormwight-kits/kit-features.md)).
+**Effect:** This ability deals your primordial [damage type](../../../rule/damage/damage-type.md) (see [Stormwight Kits](../stormwight-kits/kit-features.md)).

@@ -1,5 +1,5 @@
 ---
-average_potency: Presence − 1
+average_potency: '[Presence](../rule/character/presence.md) − 1'
 file_basename: troubadour
 file_dpath: class
 item_id: troubadour
@@ -9,9 +9,9 @@ scc: mcdm.heroes.v1/class/troubadour
 skills:
     - 'You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)'
 source: mcdm.heroes.v1
-strong_potency: Presence
+strong_potency: '[Presence](../rule/character/presence.md)'
 type: class
-weak_potency: Presence − 2
+weak_potency: '[Presence](../rule/character/presence.md) − 2'
 ---
 
 The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](troubadour.md). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
@@ -20,21 +20,21 @@ The whole world's a stage, and everyone on it, an actor. No one knows this bette
 
 "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
 
-There is no visible text in the image provided. The image appears to show a decorative or scalloped edge pattern, but contains no recognizable letters, words, or symbols.
+There is no visible text in the image provided. The image appears to show a decorative or scalloped [edge](../rule/dice/edge.md) pattern, but contains no recognizable letters, words, or symbols.
 
 ### Basics
 
-**Starting Characteristics:** You start with an Agility of 2 and a Presence of 2, and you can choose one of the following arrays for your other characteristic scores:
+**Starting [Characteristics](../rule/character/characteristic.md):** You start with an [Agility](../rule/character/agility.md) of 2 and a [Presence](../rule/character/presence.md) of 2, and you can choose one of the following arrays for your other [characteristic](../rule/character/characteristic.md) scores:
 
 - 2, −1, −1
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** Presence − 2
+**Weak Potency:** [Presence](../rule/character/presence.md) − 2
 
-**Average Potency:** Presence − 1
+**Average Potency:** [Presence](../rule/character/presence.md) − 1
 
-**Strong Potency:** Presence
+**Strong Potency:** [Presence](../rule/character/presence.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 

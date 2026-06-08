@@ -8,26 +8,22 @@ flavor: Vines burst forth from the ground and bind your foe, slowly closing arou
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: Thorn Cage
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/thorn-cage
 target: One creature
-tier1: 10 + I damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-tier2: 15 + I damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-tier3: 21 + I damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
 
 *Vines burst forth from the ground and bind your foe, slowly closing around them.*
 
-| **Magic, Ranged, Strike**  |     **Main action** |
+| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 10 + I damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
 - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)

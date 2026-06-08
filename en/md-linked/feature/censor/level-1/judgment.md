@@ -19,14 +19,14 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 
 **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../../class/censor.md) judges the target.
 
-Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
+Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your [Presence](../../../rule/character/presence.md) score to them.
 
 When a creature judged by you is reduced to 0 [Stamina](../../../rule/health/stamina.md), you can use a free triggered action to use this ability against a new target.
 
 Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 
 - When an adjacent creature judged by you starts to [shift](../../../movement/shifting.md), you make a melee [free strike](../../common/main-actions/free-strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../../../movement/shifting.md).
-- When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
+- When a creature judged by you within 10 squares makes a power roll, you cause them to take a [bane](../../../rule/dice/bane.md) on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
 - If you damage a creature judged by you with a melee ability, the creature is [taunted](../../../condition/taunted.md) by you until the end of their next turn.
   
@@ -36,6 +36,6 @@ You can choose only one free triggered action option at a time, even if multiple
 
 The first time on a turn that you use your [Judgment](../../ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
-- **Exorcist:** You can [teleport](../../../movement/teleport.md) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
-- **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
-- **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.
+- **Exorcist:** You can [teleport](../../../movement/teleport.md) up to a number of squares equal to twice your [Presence](../../../rule/character/presence.md) score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
+- **Oracle:** You can deal holy damage equal to twice your [Presence](../../../rule/character/presence.md) score to the judged creature.
+- **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your [Presence](../../../rule/character/presence.md) score.

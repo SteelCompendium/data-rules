@@ -18,13 +18,9 @@ keywords:
     - Ranged
 level: "1"
 name: Quick Rewrite
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 4 damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier2: 5 damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier3: 6 damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 type: ability
 ---
 
@@ -33,10 +29,6 @@ cost: 3 Drama
 distance: 3 cube within 10
 effects:
     - effect: The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
-    - roll: Power Roll + Presence
-      tier1: 4 damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-      tier2: 5 damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-      tier3: 6 damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 feature_type: ability
 flavor: You write something unexpected into the scene that hinders your enemy.
 keywords:
@@ -56,12 +48,8 @@ metadata:
         - Ranged
     level: "1"
     name: Quick Rewrite
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
     target: Each enemy in the area
-    tier1: 4 damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-    tier2: 5 damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-    tier3: 6 damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
     type: ability
 name: Quick Rewrite
 target: Each enemy in the area

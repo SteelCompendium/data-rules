@@ -37,7 +37,7 @@ Your stone skin affords you potent protection. You have a +6 bonus to [Stamina](
 
 ### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 
-Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
+Your body is made to withstand the blows of your enemies. Your [Might](../../../rule/character/might.md) score is treated as 1 higher for the purpose of resisting potencies, and you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) tests when called for to resist environmental effects or a creature's traits or abilities.
 
 ### Stone Singer {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stone-singer"}
 

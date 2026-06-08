@@ -13,17 +13,17 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 *Your flames dance from kindling to kindling to kindling.*
 
-| **Fire, Magic, Ranged, Strike** |               **Main action** |
+| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 8 + R fire damage
 - **12-16:** 13 + R fire damage
 - **17+:** 17 + R fire damage
 
-**Effect:** When the target ends their next turn, or if they drop to 0 [Stamina](../../../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
+**Effect:** When the target ends their next turn, or if they drop to 0 [Stamina](../../../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your [Reason](../../../rule/character/reason.md) score. Each affected enemy then gains this same effect.
 
 ## Storm of Sands {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands"}
 
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------|------------------------------:|
 | **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage
@@ -49,11 +49,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 *You rip an enemy's world in twain.*
 
-| **Magic, Ranged, Strike, Void** |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md), Void** |               **Main action** |
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 9 + R corruption damage
 - **12-16:** 10 + R corruption damage; the target has line of effect only to creatures and objects within 4 squares of them until the start of your next turn
@@ -68,7 +68,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------|------------------------------:|
 | **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 corruption damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)

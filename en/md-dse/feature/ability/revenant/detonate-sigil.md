@@ -12,7 +12,7 @@ item_name: Detonate Sigil
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 name: Detonate Sigil
 scc: mcdm.heroes.v1/feature.ability.revenant/detonate-sigil
 source: mcdm.heroes.v1
@@ -30,7 +30,7 @@ flavor: A magic sigil you placed on a creature explodes with energy.
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     ancestry: revenant
@@ -40,7 +40,7 @@ metadata:
     keywords:
         - Magic
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     name: Detonate Sigil
     scc: mcdm.heroes.v1/feature.ability.revenant/detonate-sigil
     subtype: signature

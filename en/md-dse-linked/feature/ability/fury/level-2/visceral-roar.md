@@ -5,7 +5,7 @@ cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
 distance: 2 burst
-effect: This ability deals your primordial damage type (see [Stormwight Kits](../../../fury/stormwight-kits/kit-features.md)).
+effect: This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) (see [Stormwight Kits](../../../fury/stormwight-kits/kit-features.md)).
 feature_type: ability
 file_basename: visceral-roar
 file_dpath: feature/ability/fury/level-2
@@ -17,13 +17,9 @@ keywords:
     - Magic
 level: "2"
 name: Visceral Roar
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 2 damage; push 1; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: 5 damage; push 2; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: 7 damage; push 3; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -31,11 +27,7 @@ type: ability
 cost: 5 Ferocity
 distance: 2 burst
 effects:
-    - effect: This ability deals your primordial damage type (see [Stormwight Kits](../../../fury/stormwight-kits/kit-features.md)).
-    - roll: Power Roll + Might
-      tier1: 2 damage; push 1; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-      tier2: 5 damage; push 2; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-      tier3: 7 damage; push 3; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+    - effect: This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) (see [Stormwight Kits](../../../fury/stormwight-kits/kit-features.md)).
 feature_type: ability
 flavor: The sound of the storm within you staggers your opponents.
 keywords:
@@ -46,19 +38,15 @@ metadata:
     class: fury
     cost: 5 Ferocity
     distance: 2 burst
-    effect: This ability deals your primordial damage type (see [Stormwight Kits](../../../fury/stormwight-kits/kit-features.md)).
+    effect: This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) (see [Stormwight Kits](../../../fury/stormwight-kits/kit-features.md)).
     flavor: The sound of the storm within you staggers your opponents.
     keywords:
         - Area
         - Magic
     level: "2"
     name: Visceral Roar
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar
     target: Each enemy in the area
-    tier1: 2 damage; push 1; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-    tier2: 5 damage; push 2; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-    tier3: 7 damage; push 3; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
     type: ability
 name: Visceral Roar
 target: Each enemy in the area

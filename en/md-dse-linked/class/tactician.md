@@ -1,5 +1,5 @@
 ---
-average_potency: Reason − 1
+average_potency: '[Reason](../rule/character/reason.md) − 1'
 file_basename: tactician
 file_dpath: class
 item_id: tactician
@@ -9,9 +9,9 @@ scc: mcdm.heroes.v1/class/tactician
 skills:
     - 'You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
 source: mcdm.heroes.v1
-strong_potency: Reason
+strong_potency: '[Reason](../rule/character/reason.md)'
 type: class
-weak_potency: Reason − 2
+weak_potency: '[Reason](../rule/character/reason.md) − 2'
 ---
 
 Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
@@ -24,17 +24,17 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 ### Basics
 
-**Starting Characteristics:** You start with a Might of 2 and a Reason of 2, and you can choose one of the following arrays for your other characteristic scores:
+**Starting [Characteristics](../rule/character/characteristic.md):** You start with a [Might](../rule/character/might.md) of 2 and a [Reason](../rule/character/reason.md) of 2, and you can choose one of the following arrays for your other [characteristic](../rule/character/characteristic.md) scores:
 
 - 2, −1, −1
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** Reason − 2
+**Weak Potency:** [Reason](../rule/character/reason.md) − 2
 
-**Average Potency:** Reason − 1
+**Average Potency:** [Reason](../rule/character/reason.md) − 1
 
-**Strong Potency:** Reason
+**Strong Potency:** [Reason](../rule/character/reason.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 

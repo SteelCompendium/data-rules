@@ -14,17 +14,13 @@ item_id: assassinate
 item_name: Assassinate
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "8"
 name: Assassinate
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/assassinate
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 12 + A damage
-tier2: 18 + A damage
-tier3: 24 + A damage
 type: ability
 ---
 
@@ -33,15 +29,11 @@ cost: 11 Insight
 distance: Melee 1
 effects:
     - effect: A target who is not a minion, leader, or solo creature and who is [winded](scc:mcdm.heroes.v1/rule.health/winded) after taking this damage is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
-    - roll: Power Roll + Agility
-      tier1: 12 + A damage
-      tier2: 18 + A damage
-      tier3: 24 + A damage
 feature_type: ability
 flavor: A practiced attack will instantly kill an already weakened foe.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -52,16 +44,12 @@ metadata:
     flavor: A practiced attack will instantly kill an already weakened foe.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "8"
     name: Assassinate
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-8/assassinate
     target: One creature or object
-    tier1: 12 + A damage
-    tier2: 18 + A damage
-    tier3: 24 + A damage
     type: ability
 name: Assassinate
 target: One creature or object

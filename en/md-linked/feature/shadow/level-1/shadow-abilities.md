@@ -17,11 +17,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *Your precise strikes let your allies take advantage of a target's agony.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + A damage
 - **12-16:** 5 + A damage
@@ -34,11 +34,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *"It's better, just you and me. Isn't it?"*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + A damage
 - **12-16:** 6 + A damage
@@ -51,11 +51,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You attack an enemy as an ally exposes their weakness.*
 
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + A damage
 - **12-16:** 6 + A damage
@@ -68,11 +68,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *They can't watch both of you at once.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + A damage
 - **12-16:** 5 + A damage
@@ -93,11 +93,11 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 *Your attack leaves them reeling, allowing you to follow up.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; slide 2
 - **12-16:** 6 + A damage; slide 3
@@ -110,11 +110,11 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 *You leave your foe bleeding out after a devastating attack.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../condition/bleeding.md) (save ends)
 - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../condition/bleeding.md) (save ends)
@@ -125,28 +125,28 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 *Move unexpectedly, strike fast, and be gone!*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 5 + A damage
 - **12-16:** 8 + A damage
 - **17+:** 11 + A damage
 
-**Effect:** You can [shift](../../../movement/shifting.md) up to your speed, dividing that movement before or after your strike as desired.
+**Effect:** You can [shift](../../../movement/shifting.md) up to your speed, dividing that movement before or after your [strike](../../../rule/combat/strike.md) as desired.
 
 ### Two Throats at Once {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/two-throats-at-once"}
 
 
 *A bargain.*
 
-| **Melee, Ranged, Strike, Weapon** |                 **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |-----------------------------------|--------------------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage
@@ -161,11 +161,11 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 *Your blade might be the last thing they see.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2d6 + 7 + A damage
 - **12-16:** 2d6 + 11 + A damage
@@ -182,7 +182,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 **Effect:** You [shift](../../../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 6 damage
@@ -193,15 +193,15 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 *Your friends will thank you.*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 6 + A damage; R < WEAK, the target has damage weakness 5 (save ends)
-- **12-16:** 9 + A damage; R < AVERAGE, the target has damage weakness 5 (save ends)
-- **17+:** 13 + A damage; R < STRONG, the target has damage weakness 5 (save ends)
+- **≤11:** 6 + A damage; R < WEAK, the target has [damage weakness](../../../rule/damage/damage-weakness.md) 5 (save ends)
+- **12-16:** 9 + A damage; R < AVERAGE, the target has [damage weakness](../../../rule/damage/damage-weakness.md) 5 (save ends)
+- **17+:** 13 + A damage; R < STRONG, the target has [damage weakness](../../../rule/damage/damage-weakness.md) 5 (save ends)
 
 ### Shadowstrike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/shadowstrike"}
 
@@ -212,4 +212,4 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You use a strike signature ability twice.
+**Effect:** You use a [strike](../../../rule/combat/strike.md) signature ability twice.

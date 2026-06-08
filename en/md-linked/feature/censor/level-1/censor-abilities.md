@@ -21,7 +21,7 @@ Choose one signature ability from the following options. Signature abilities can
 |--------------------------------|------------------------------:|
 | **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 holy damage; push 1
 - **12-16:** 4 holy damage; push 2
@@ -32,11 +32,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You show your foe a glimpse of their fate after death.*
 
-| **Magic, Ranged, Strike** |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          |           **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P psychic damage
 - **12-16:** 7 + P psychic damage
@@ -49,11 +49,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
-| **Melee, Strike, Weapon**  |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -62,19 +62,19 @@ Choose one signature ability from the following options. Signature abilities can
 ### Your Allies Cannot Save You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you"}
 
 
-*Your magic strike turns your foe's guilt into a burst of holy power.*
+*Your magic [strike](../../../rule/combat/strike.md) turns your foe's guilt into a burst of holy power.*
 
-| **Melee, Strike, Weapon**  |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M holy damage
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.
+**Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../rule/character/presence.md) score.
 
 ## Heroic Abilities
 
@@ -89,28 +89,28 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 
-| **Melee, Strike, Weapon**  |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M holy damage
 - **12-16:** 6 + M holy damage
 - **17+:** 9 + M holy damage
 
-**Effect:** Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.
+**Effect:** Until the start of your next turn, enemies take a [bane](../../../rule/dice/bane.md) on ability rolls made against you or any ally adjacent to you.
 
 ### Driving Assault {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault"}
 
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
-| **Melee, Strike, Weapon**  |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; push 1
 - **12-16:** 6 + M damage; push 3
@@ -123,11 +123,11 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *You channel holy energy to smite a foe and heal an ally.*
 
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 5 + M holy damage
 - **12-16:** 8 + M holy damage
@@ -140,11 +140,11 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *You conjure memories of their sins to harry your foes.*
 
-| **Magic, Ranged, Strike**  |    **Main action**  |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |    **Main action**  |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P holy damage; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -159,45 +159,45 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *"I got you, you son of a bitch."*
 
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   |           **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M holy damage; [grabbed](../../../condition/grabbed.md)
 - **12-16:** 9 + M holy damage; [grabbed](../../../condition/grabbed.md)
 - **17+:** 13 + M holy damage; [grabbed](../../../condition/grabbed.md)
 
-**Effect:** If the target makes a strike against a creature while [grabbed](../../../condition/grabbed.md) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a [strike](../../../rule/combat/strike.md) against a creature while [grabbed](../../../condition/grabbed.md) this way, you can spend 3 wrath to deal holy damage to them equal to your [Presence](../../../rule/character/presence.md) score, then change the target of the [strike](../../../rule/combat/strike.md) to another target within the [strike](../../../rule/combat/strike.md)'s [distance](../../../rule/combat/distance.md).
 
 ### Behold the Face of Justice! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-the-face-of-justice"}
 
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
-| **Magic, Melee, Ranged, Strike, Weapon**  |               **Main action** |
+| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |-------------------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](../../../condition/frightened.md) of you (save ends)
 - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../../condition/frightened.md) of you (save ends)
 - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../../../condition/frightened.md) of you (save ends)
 
-**Effect:** Each enemy [frightened](../../../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
+**Effect:** Each enemy [frightened](../../../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../rule/character/presence.md) score.
 
 ### Censored {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/censored"}
 
 
 *Judged and [sentenced](../../ability/censor/level-2/sentenced.md).*
 
-| **Melee, Strike, Weapon**  |               **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             |           **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 + M holy damage
 - **12-16:** 3 + M holy damage
@@ -210,11 +210,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *The gods judge, fire cleanses.*
 
-| **Magic, Melee, Ranged, Strike, Weapon**  |               **Main action** |
+| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |-------------------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)
 - **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)

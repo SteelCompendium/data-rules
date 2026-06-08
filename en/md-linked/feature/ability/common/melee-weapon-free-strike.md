@@ -4,7 +4,7 @@ distance: Melee 1
 keywords:
     - Charge
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 name: Melee Weapon Free Strike
 scc: mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike
@@ -13,11 +13,11 @@ target: One creature or object
 type: ability
 ---
 
-| **Charge, Melee, Strike, Weapon**  |               **Main action** |
+| **Charge, Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage
 - **12-16:** 5 + M or A damage

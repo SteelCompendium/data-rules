@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 7 Focus
 distance: Self
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../../../../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../../../common/main-actions/charge.md) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../../../common/main-actions/free-strike.md).
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../../../../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../../../common/main-actions/charge.md) main action to target a creature marked by you can use a melee [strike](../../../../rule/combat/strike.md) signature ability or a melee [strike](../../../../rule/combat/strike.md) heroic ability instead of a melee [free strike](../../../common/main-actions/free-strike.md).
 flavor: The purpose of a charge is to break their morale and force a retreat.
 keywords:
     - '-'
@@ -21,4 +21,4 @@ type: ability
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../../../../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../../../common/main-actions/charge.md) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../../../common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../../../../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../../../common/main-actions/charge.md) main action to target a creature marked by you can use a melee [strike](../../../../rule/combat/strike.md) signature ability or a melee [strike](../../../../rule/combat/strike.md) heroic ability instead of a melee [free strike](../../../common/main-actions/free-strike.md).

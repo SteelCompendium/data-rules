@@ -67,19 +67,19 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------|----------------:|
 | **📏 Ranged 10**   |  **🎯 Special** |
 
-**Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../movement/fly.md), stability 4, 100 [Stamina](../../../rule/health/stamina.md), immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md).
+**Effect:** You conjure a [size](../../../rule/character/size.md) 4 dragon that appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The dragon has speed 6 and can [fly](../../../movement/fly.md), stability 4, 100 [Stamina](../../../rule/health/stamina.md), immunity all to fire damage, and uses your [characteristics](../../../rule/character/characteristic.md). The dragon disappears at the end of the encounter, if their [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md).
 
 On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 5 fire damage
 - **12-16:** 9 fire damage
 - **17+:** 12 fire damage
 
-Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../common/main-actions/free-strike.md).
+Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon [strike](../../../rule/combat/strike.md) with their claw against an adjacent creature or object. The dragon can also make this [strike](../../../rule/combat/strike.md) as a [free strike](../../common/main-actions/free-strike.md).
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I damage
 - **12-16:** 5 + I damage
@@ -94,7 +94,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 |-------------------------|------------------------------:|
 | **📏 5 cube within 5**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 lightning damage, 2 sonic damage
 - **12-16:** 3 lightning damage, 3 sonic damage
@@ -144,7 +144,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 |-------------------------|------------------------------:|
 | **📏 5 cube within 10** | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 9 fire damage
 - **12-16:** 14 fire damage
@@ -155,11 +155,11 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 *Vines burst forth from the ground and bind your foe, slowly closing around them.*
 
-| **Magic, Ranged, Strike**  |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 10 + I damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -185,14 +185,14 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 *You utter a divine word that makes a foe brittle.*
 
-| **Magic, Ranged, Strike** |               **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
 - **17+:** 21 + I corruption damage; A < STRONG, [weakened](../../../condition/weakened.md) (save ends)
 
-**Effect:** While [weakened](../../../condition/weakened.md) this way, the target has damage weakness 10.
+**Effect:** While [weakened](../../../condition/weakened.md) this way, the target has [damage weakness](../../../rule/damage/damage-weakness.md) 10.

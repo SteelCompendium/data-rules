@@ -13,11 +13,11 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 *You need just one blow to sabotage your target.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -30,13 +30,13 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 *You quickly strike back at a foe.*
 
-| **Melee, Strike, Weapon** |             **Free triggered** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |             **Free triggered** |
 |---------------------------|-------------------------------:|
 | **📏 Melee 1**            | **🎯 The triggering creature** |
 
 **Trigger:** A creature causes you to be [winded](../../../rule/health/winded.md) or [dying](../../../rule/health/dying.md), or damages you while you are [winded](../../../rule/health/winded.md) or [dying](../../../rule/health/dying.md).
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M damage
 - **12-16:** 9 + M damage
@@ -49,28 +49,28 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 *You knock around enemies like playthings.*
 
-| **Melee, Strike, Weapon** |                 **Main action** |
+| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 damage; push 3
 - **12-16:** 14 damage; push 5
 - **17+:** 19 damage; push 7
 
-**Effect:** When a target would end this [forced movement](../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
+**Effect:** When a target would end this [forced movement](../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining [distance](../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 
 ## To Stone! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/to-stone"}
 
 
 *You channel the Primordial Chaos into blows that petrify your foe... literally.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 + M damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)

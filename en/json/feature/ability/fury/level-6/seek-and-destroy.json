@@ -3,12 +3,6 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Might",
-      "tier1": "4 + M damage; P \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
-      "tier2": "6 + M damage; P \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
-      "tier3": "10 + M damage; P \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
-    },
-    {
       "effect": "You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed.",
       "name": "Effect"
     }
@@ -17,13 +11,13 @@
   "flavor": "You break through the enemy lines to make an example.",
   "keywords": [
     "Melee",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "fury",
-    "content": "\n*You break through the enemy lines to make an example.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Effect:** You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed.\n\n**Power Roll + Might:**\n\n- **≤11:** 4 + M damage; P \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 6 + M damage; P \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 10 + M damage; P \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n\n**Effect:** If a target who is not a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded) by this strike, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) and you choose an enemy within 5 squares of you. If that enemy has P \u003c AVERAGE, they are [frightened](scc:mcdm.heroes.v1/condition/frightened) of you (save ends).",
+    "content": "\n*You break through the enemy lines to make an example.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Effect:** You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed.\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 4 + M damage; P \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 6 + M damage; P \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 10 + M damage; P \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n\n**Effect:** If a target who is not a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded) by this [strike](scc:mcdm.heroes.v1/rule.combat/strike), they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) and you choose an enemy within 5 squares of you. If that enemy has P \u003c AVERAGE, they are [frightened](scc:mcdm.heroes.v1/condition/frightened) of you (save ends).",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You break through the enemy lines to make an example.",
@@ -31,7 +25,7 @@
     "item_name": "Seek and Destroy",
     "keywords": [
       "Melee",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 6,

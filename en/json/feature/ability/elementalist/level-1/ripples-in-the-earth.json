@@ -3,13 +3,7 @@
   "distance": "2 burst",
   "effects": [
     {
-      "roll": "Power Roll + Reason",
-      "tier1": "3 damage",
-      "tier2": "5 damage",
-      "tier3": "8 damage; M \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)"
-    },
-    {
-      "effect": "You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.",
+      "effect": "You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.",
       "name": "Effect"
     }
   ],
@@ -23,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*Like a stone was dropped into a pond, waves in the earth radiate from you.*\n\n| **Area, Earth, Magic** |               **Main action** |\n|------------------------|------------------------------:|\n| **📏 2 burst**         | **🎯 Each enemy in the area** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 3 damage\n- **12-16:** 5 damage\n- **17+:** 8 damage; M \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)\n\n**Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.",
+    "content": "\n*Like a stone was dropped into a pond, waves in the earth radiate from you.*\n\n| **Area, Earth, Magic** |               **Main action** |\n|------------------------|------------------------------:|\n| **📏 2 burst**         | **🎯 Each enemy in the area** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 damage\n- **12-16:** 5 damage\n- **17+:** 8 damage; M \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)\n\n**Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.",
     "distance": "2 burst",
     "feature_type": "ability",
     "flavor": "Like a stone was dropped into a pond, waves in the earth radiate from you.",

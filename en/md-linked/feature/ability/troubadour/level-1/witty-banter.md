@@ -8,28 +8,24 @@ keywords:
     - Magic
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Witty Banter
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter
 spend: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
 subtype: signature
 target: One creature
-tier1: 4 + P psychic damage
-tier2: 5 + P psychic damage
-tier3: 7 + P psychic damage
 type: ability
 ---
 
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Magic, Melee, Ranged, Strike** |     **Main action** |
+| **Magic, Melee, Ranged, [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
 |----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 4 + P psychic damage
 - **12-16:** 5 + P psychic damage

@@ -14,18 +14,14 @@ item_id: no-dying-on-my-watch
 item_name: No Dying on My Watch
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
 name: No Dying on My Watch
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/no-dying-on-my-watch
 source: mcdm.heroes.v1
 subtype: triggered
 target: One enemy
-tier1: R < WEAK, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
-tier2: R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
-tier3: R < STRONG, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
 trigger: The target deals damage to an ally.
 type: ability
 ---
@@ -35,15 +31,11 @@ cost: 5 Focus
 distance: Ranged 5
 effects:
     - effect: You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a power roll against the target.
-    - roll: Power Roll + Might
-      tier1: R < WEAK, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
-      tier2: R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
-      tier3: R < STRONG, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
 feature_type: ability
 flavor: You prioritize saving an ally over your own safety.
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Triggered
@@ -54,17 +46,13 @@ metadata:
     flavor: You prioritize saving an ally over your own safety.
     keywords:
         - Ranged
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "2"
     name: No Dying on My Watch
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.tactician.level-2/no-dying-on-my-watch
     subtype: triggered
     target: One enemy
-    tier1: R < WEAK, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
-    tier2: R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
-    tier3: R < STRONG, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
     trigger: The target deals damage to an ally.
     type: ability
 name: No Dying on My Watch

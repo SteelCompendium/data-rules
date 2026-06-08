@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Might and Presence scores each increase to 5.
+    - effect: Your [Might](../../../rule/character/might.md) and [Presence](../../../rule/character/presence.md) scores each increase to 5.
 feature_type: feature
 metadata:
     class: censor

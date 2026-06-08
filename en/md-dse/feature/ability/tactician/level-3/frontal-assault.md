@@ -5,7 +5,7 @@ cost: 7 Focus
 cost_amount: "7"
 cost_resource: Focus
 distance: Self
-effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares. Additionally, any ally using the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
+effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares. Additionally, any ally using the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action to target a creature marked by you can use a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability or a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) heroic ability instead of a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
 feature_type: ability
 file_basename: frontal-assault
 file_dpath: feature/ability/tactician/level-3
@@ -26,7 +26,7 @@ type: ability
 cost: 7 Focus
 distance: Self
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares. Additionally, any ally using the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
+    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares. Additionally, any ally using the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action to target a creature marked by you can use a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability or a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) heroic ability instead of a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
 feature_type: ability
 flavor: The purpose of a charge is to break their morale and force a retreat.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 7 Focus
     distance: Self
-    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares. Additionally, any ally using the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
+    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares. Additionally, any ally using the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action to target a creature marked by you can use a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) signature ability or a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) heroic ability instead of a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
     flavor: The purpose of a charge is to break their morale and force a retreat.
     keywords:
         - '-'

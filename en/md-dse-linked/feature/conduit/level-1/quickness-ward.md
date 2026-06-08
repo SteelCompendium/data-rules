@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../../../movement/shifting.md) up to a number of squares equal to your Intuition score after the damage is dealt.
+    - effect: The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../../../movement/shifting.md) up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score after the damage is dealt.
 feature_type: feature
 metadata:
     class: conduit

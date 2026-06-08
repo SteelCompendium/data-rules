@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your [Stamina](../../../rule/health/stamina.md) increases by 21 and you can't be made [bleeding](../../../condition/bleeding.md) even while [dying](../../../rule/health/dying.md). You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+    - effect: Your [Stamina](../../../rule/health/stamina.md) increases by 21 and you can't be made [bleeding](../../../condition/bleeding.md) even while [dying](../../../rule/health/dying.md). You no longer age or have need of food. Additionally, you can use [Intuition](../../../rule/character/intuition.md) instead of another [characteristic](../../../rule/character/characteristic.md) when resisting potencies.
 feature_type: feature
 metadata:
     class: "null"

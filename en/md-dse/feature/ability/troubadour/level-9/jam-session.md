@@ -5,7 +5,7 @@ cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
 distance: 5 burst
-effect: Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
 feature_type: ability
 file_basename: jam-session
 file_dpath: feature/ability/troubadour/level-9
@@ -17,13 +17,9 @@ keywords:
     - Magic
 level: "9"
 name: Jam Session
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 8 sonic damage
-tier2: 11 sonic damage
-tier3: 15 sonic damage
 type: ability
 ---
 
@@ -31,11 +27,7 @@ type: ability
 cost: 11 Drama
 distance: 5 burst
 effects:
-    - effect: Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
-    - roll: Power Roll + Presence
-      tier1: 8 sonic damage
-      tier2: 11 sonic damage
-      tier3: 15 sonic damage
+    - effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
 feature_type: ability
 flavor: Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.
 keywords:
@@ -46,19 +38,15 @@ metadata:
     class: troubadour
     cost: 11 Drama
     distance: 5 burst
-    effect: Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+    effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
     flavor: Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.
     keywords:
         - Area
         - Magic
     level: "9"
     name: Jam Session
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session
     target: Each enemy in the area
-    tier1: 8 sonic damage
-    tier2: 11 sonic damage
-    tier3: 15 sonic damage
     type: ability
 name: Jam Session
 target: Each enemy in the area

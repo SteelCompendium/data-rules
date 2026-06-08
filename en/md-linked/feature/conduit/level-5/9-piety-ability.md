@@ -13,17 +13,17 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
-| **Magic, Ranged, Strike** |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Ranged 10**          | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 8 + I holy damage
 - **12-16:** 13 + I holy damage
 - **17+:** 17 + I holy damage
 
-**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a [Recovery](../../../rule/health/recoveries.md). If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) before the end of the encounter, you can use a free [triggered action](../level-1/triggered-action.md) to move this effect to another creature within distance.
+**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a [Recovery](../../../rule/health/recoveries.md). If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) before the end of the encounter, you can use a free [triggered action](../level-1/triggered-action.md) to move this effect to another creature within [distance](../../../rule/combat/distance.md).
 
 ## Penance {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/penance"}
 
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 |--------------------------|------------------------------:|
 | **📏 4 cube within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 4 corruption damage; I < WEAK, [prone and](../../../condition/prone.md) can't stand (save ends)
 - **12-16:** 7 corruption damage; I < AVERAGE, [prone and](../../../condition/prone.md) can't stand (save ends)

@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You can use up to three signature abilities, each of which gains an edge.
+**Effect:** You can use up to three signature abilities, each of which gains an [edge](../../../rule/dice/edge.md).
 
 ### Phase Step {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/phase-step"}
 
@@ -34,7 +34,7 @@ Choose one of the following abilities.
 
 **Effect:** You can [shift](../../../movement/shifting.md) up to your speed, and squares occupied by enemies or objects are not [difficult terrain](../../../movement/difficult-terrain.md) for this [shift](../../../movement/shifting.md). You make one power roll that targets each enemy you moved through during this [shift](../../../movement/shifting.md).
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 damage; M < WEAK, [dazed](../../../condition/dazed.md)
 - **12-16:** 8 damage; M < AVERAGE, [dazed](../../../condition/dazed.md)
@@ -53,7 +53,7 @@ Choose one of the following abilities.
 |---------------------|----------------------------------:|
 | **📏 Ranged 10**    | **🎯 Three creatures or objects** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** Vertical slide 6
 - **12-16:** Vertical slide 8
@@ -85,7 +85,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** Vertical slide 5
 - **12-16:** Vertical slide 7
@@ -102,4 +102,4 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain 20 [temporary Stamina](../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
+**Effect:** You gain 20 [temporary Stamina](../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your stability gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score.

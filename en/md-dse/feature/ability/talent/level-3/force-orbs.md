@@ -5,7 +5,7 @@ cost: 7 Clarity
 cost_amount: "7"
 cost_resource: Clarity
 distance: Self; see below
-effect: You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb.
+effect: You create three [size](scc:mcdm.heroes.v1/rule.character/size) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 1. Each time you take damage, you lose 1 orb.
 feature_type: ability
 file_basename: force-orbs
 file_dpath: feature/ability/talent/level-3
@@ -15,17 +15,13 @@ item_name: Force Orbs
 keywords:
     - Psionic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Telekinesis
 level: "3"
 name: Force Orbs
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs
 source: mcdm.heroes.v1
 target: Self
-tier1: 2 damage
-tier2: 3 damage
-tier3: 5 damage
 type: ability
 ---
 
@@ -33,38 +29,30 @@ type: ability
 cost: 7 Clarity
 distance: Self; see below
 effects:
-    - effect: You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb.
-    - roll: Power Roll + Reason
-      tier1: 2 damage
-      tier2: 3 damage
-      tier3: 5 damage
+    - effect: You create three [size](scc:mcdm.heroes.v1/rule.character/size) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 1. Each time you take damage, you lose 1 orb.
 feature_type: ability
 flavor: Spheres of solid psionic energy float around you.
 keywords:
     - Psionic
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Telekinesis
 metadata:
     action_type: Main action
     class: talent
     cost: 7 Clarity
     distance: Self; see below
-    effect: You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb.
+    effect: You create three [size](scc:mcdm.heroes.v1/rule.character/size) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 1. Each time you take damage, you lose 1 orb.
     flavor: Spheres of solid psionic energy float around you.
     keywords:
         - Psionic
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Telekinesis
     level: "3"
     name: Force Orbs
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs
     target: Self
-    tier1: 2 damage
-    tier2: 3 damage
-    tier3: 5 damage
     type: ability
 name: Force Orbs
 target: Self

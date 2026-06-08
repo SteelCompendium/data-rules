@@ -1,7 +1,7 @@
 ability:
     distance: Ranged 20
     effects:
-        - effect: As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that strike.
+        - effect: As long as you remain within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the target, maintain line of effect to them, and strike no other creature first, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that [strike](scc:mcdm.heroes.v1/rule.combat/strike).
           name: Effect
     feature_type: ability
     flavor: A moment of focus leaves a foe firmly in your sights.
@@ -9,7 +9,7 @@ ability:
         - Ranged
     metadata:
         action_type: Maneuver
-        content: "\n*A moment of focus leaves a foe firmly in your sights.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 20** | **\U0001F3AF One creature** |\n\n**Effect:** As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that strike."
+        content: "\n*A moment of focus leaves a foe firmly in your sights.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 20** | **\U0001F3AF One creature** |\n\n**Effect:** As long as you remain within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the target, maintain line of effect to them, and strike no other creature first, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that [strike](scc:mcdm.heroes.v1/rule.combat/strike)."
         distance: Ranged 20
         feature_type: ability
         flavor: A moment of focus leaves a foe firmly in your sights.

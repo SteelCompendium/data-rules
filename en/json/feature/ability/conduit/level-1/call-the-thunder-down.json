@@ -3,13 +3,7 @@
   "distance": "3 cube within 10",
   "effects": [
     {
-      "roll": "Power Roll + Intuition",
-      "tier1": "2 sonic damage; push 1",
-      "tier2": "3 sonic damage; push 2",
-      "tier3": "5 sonic damage; push 3"
-    },
-    {
-      "effect": "You can push each willing ally in the area the same distance, ignoring stability.",
+      "effect": "You can push each willing ally in the area the same [distance](scc:mcdm.heroes.v1/rule.combat/distance), ignoring stability.",
       "name": "Effect"
     }
   ],
@@ -23,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*You ask your saint for thunder and your prayer is answered.*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 3 cube within 10** | **🎯 Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 2 sonic damage; push 1\n- **12-16:** 3 sonic damage; push 2\n- **17+:** 5 sonic damage; push 3\n\n**Effect:** You can push each willing ally in the area the same distance, ignoring stability.",
+    "content": "\n*You ask your saint for thunder and your prayer is answered.*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 3 cube within 10** | **🎯 Each enemy in the area** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 sonic damage; push 1\n- **12-16:** 3 sonic damage; push 2\n- **17+:** 5 sonic damage; push 3\n\n**Effect:** You can push each willing ally in the area the same [distance](scc:mcdm.heroes.v1/rule.combat/distance), ignoring stability.",
     "distance": "3 cube within 10",
     "feature_type": "ability",
     "flavor": "You ask your saint for thunder and your prayer is answered.",

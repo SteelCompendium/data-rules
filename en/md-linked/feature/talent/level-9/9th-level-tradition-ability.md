@@ -23,9 +23,9 @@ Choose one of the following abilities.
 
 **Effect:** Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
 
-**Strained:** Make a power roll that targets you and each enemy within distance.
+**Strained:** Make a power roll that targets you and each enemy within [distance](../../../rule/combat/distance.md).
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 4 corruption damage; [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 6 corruption damage; [slowed](../../../condition/slowed.md) (save ends)
@@ -55,15 +55,15 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------------------:|
 | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 
-**Effect:** Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of size 1L or smaller.
+**Effect:** Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../rule/character/size.md) 1L or smaller.
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 burst
 - **12-16:** 3 burst
 - **17+:** 4 burst
 
-**Strained:** You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the [forced movement](../../../movement/forced-movement.md) distance a +2 bonus. You take half the total damage all targets take from [forced movement](../../../movement/forced-movement.md).
+**Strained:** You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) a +2 bonus. You take half the total damage all targets take from [forced movement](../../../movement/forced-movement.md).
 
 ### Gravitic Nova {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova"}
 
@@ -74,7 +74,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------------------:|
 | **📏 3 burst**                 | **🎯 Each enemy and object in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 6 damage; push 7
 - **12-16:** 9 damage; push 10
@@ -93,11 +93,11 @@ Choose one of the following abilities.
 
 *You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
 
-| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
+| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 | ------------------------------------|--------------------:|
 | **📏 Ranged 10**  | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 15 + R psychic damage
 - **12-16:** 24 + R psychic damage
@@ -118,7 +118,7 @@ Choose one of the following abilities.
 
 **Effect:** You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** R < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** R < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)

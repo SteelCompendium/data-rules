@@ -3,10 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "4 + A damage; A \u003c WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
-      "tier2": "7 + A damage; A \u003c AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
-      "tier3": "9 + A damage; A \u003c STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)"
+      "effect": ""
     }
   ],
   "feature_type": "ability",
@@ -14,14 +11,14 @@
   "keywords": [
     "Melee",
     "Psionic",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You contort your enemy's body into a stance they struggle to escape from.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage; A \u003c WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **12-16:** 7 + A damage; A \u003c AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **17+:** 9 + A damage; A \u003c STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+    "content": "\n*You contort your enemy's body into a stance they struggle to escape from.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; A \u003c WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **12-16:** 7 + A damage; A \u003c AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **17+:** 9 + A damage; A \u003c STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You contort your enemy's body into a stance they struggle to escape from.",
@@ -30,7 +27,7 @@
     "keywords": [
       "Melee",
       "Psionic",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "level": 1,

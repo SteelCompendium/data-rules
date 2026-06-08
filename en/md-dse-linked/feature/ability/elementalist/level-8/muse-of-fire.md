@@ -19,13 +19,9 @@ keywords:
     - Ranged
 level: "8"
 name: Muse of Fire
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: '7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)'
-tier2: 10 fire damage; the Director loses 3 Malice
-tier3: 15 fire damage; the Director loses 4 Malice
 type: ability
 ---
 
@@ -34,10 +30,6 @@ cost: 11 Essence
 distance: 5 cube within 10
 effects:
     - effect: The Director's Malice can become negative as a result of this ability.
-    - roll: Power Roll + Reason
-      tier1: '7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)'
-      tier2: 10 fire damage; the Director loses 3 Malice
-      tier3: 15 fire damage; the Director loses 4 Malice
 feature_type: ability
 flavor: The fire burns hot enough to sear the face of any god watching.
 keywords:
@@ -59,12 +51,8 @@ metadata:
         - Ranged
     level: "8"
     name: Muse of Fire
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire
     target: Each enemy in the area
-    tier1: '7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)'
-    tier2: 10 fire damage; the Director loses 3 Malice
-    tier3: 15 fire damage; the Director loses 4 Malice
     type: ability
 name: Muse of Fire
 target: Each enemy in the area

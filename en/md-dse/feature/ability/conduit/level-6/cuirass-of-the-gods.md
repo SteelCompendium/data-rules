@@ -5,7 +5,7 @@ cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
 distance: Ranged 10
-effect: You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.
+effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next turn.
 feature_type: ability
 file_basename: cuirass-of-the-gods
 file_dpath: feature/ability/conduit/level-6
@@ -28,7 +28,7 @@ type: ability
 cost: 9 Piety
 distance: Ranged 10
 effects:
-    - effect: You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.
+    - effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next turn.
 feature_type: ability
 flavor: Your allies are covered in spiritual armor.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: conduit
     cost: 9 Piety
     distance: Ranged 10
-    effect: You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.
+    effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next turn.
     flavor: Your allies are covered in spiritual armor.
     keywords:
         - Area

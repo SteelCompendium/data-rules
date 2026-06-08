@@ -1,22 +1,19 @@
 ability_type: Signature
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-      tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    - effect: ""
 feature_type: ability
 flavor: You strike at key nerve clusters to leave your foe staggered.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     ability_type: Signature
     action_type: Main action
     class: "null"
-    content: "\n*You strike at key nerve clusters to leave your foe staggered.*\n\n| **Melee, Psionic, Strike, Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)"
+    content: "\n*You strike at key nerve clusters to leave your foe staggered.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)"
     distance: Melee 1
     feature_type: ability
     flavor: You strike at key nerve clusters to leave your foe staggered.
@@ -25,7 +22,7 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 1
     scc:

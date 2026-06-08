@@ -15,17 +15,13 @@ item_name: Resonant Mind Spike
 keywords:
     - Psionic
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 level: "9"
 name: Resonant Mind Spike
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike
 source: mcdm.heroes.v1
 target: One creature
-tier1: 15 + R psychic damage
-tier2: 24 + R psychic damage
-tier3: 28 + R psychic damage
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 11 Clarity
 distance: Ranged 10
 effects:
     - effect: This ability ignores [cover](../../../../rule/combat/cover.md) and [concealment](../../../../rule/combat/concealment.md).
-    - roll: Power Roll + Reason
-      tier1: 15 + R psychic damage
-      tier2: 24 + R psychic damage
-      tier3: 28 + R psychic damage
 feature_type: ability
 flavor: You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.
 keywords:
     - Psionic
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Psionic
         - Ranged
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Telepathy
     level: "9"
     name: Resonant Mind Spike
-    power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike
     target: One creature
-    tier1: 15 + R psychic damage
-    tier2: 24 + R psychic damage
-    tier3: 28 + R psychic damage
     type: ability
 name: Resonant Mind Spike
 target: One creature

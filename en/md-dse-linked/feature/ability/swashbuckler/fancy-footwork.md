@@ -10,7 +10,7 @@ item_id: fancy-footwork
 item_name: Fancy Footwork
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: swashbuckler
 name: Fancy Footwork
@@ -29,7 +29,7 @@ feature_type: ability
 flavor: All combat is a dance—and you'll be the one leading.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -38,7 +38,7 @@ metadata:
     flavor: All combat is a dance—and you'll be the one leading.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: swashbuckler
     name: Fancy Footwork

@@ -16,13 +16,9 @@ keywords:
     - Psionic
 level: "6"
 name: Gravitic Charge
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.null.level-6/gravitic-charge
 source: mcdm.heroes.v1
 target: Self
-tier1: Vertical slide 5
-tier2: Vertical slide 7
-tier3: Vertical slide 9
 type: ability
 ---
 
@@ -31,10 +27,6 @@ cost: 9 Discipline
 distance: Self
 effects:
     - effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
-    - roll: Power Roll + Intuition
-      tier1: Vertical slide 5
-      tier2: Vertical slide 7
-      tier3: Vertical slide 9
 feature_type: ability
 flavor: You channel your discipline into momentum that defies gravity.
 keywords:
@@ -50,12 +42,8 @@ metadata:
         - Psionic
     level: "6"
     name: Gravitic Charge
-    power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.null.level-6/gravitic-charge
     target: Self
-    tier1: Vertical slide 5
-    tier2: Vertical slide 7
-    tier3: Vertical slide 9
     type: ability
 name: Gravitic Charge
 target: Self

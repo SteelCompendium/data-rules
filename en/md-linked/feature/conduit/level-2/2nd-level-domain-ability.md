@@ -66,11 +66,11 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 *You speak with the voice of your saint, commanding your enemies.*
 
-| **Magic, Ranged, Strike** |     **Main action** |
+| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Ranged 10**          | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../common/main-actions/free-strike.md) against a target you choose
 - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
@@ -85,13 +85,13 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |------------------|------------------------------:|
 | **📏 3 burst**   | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 4 fire damage
 - **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
-**Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
+**Effect:** Each ally in the area deals fire damage equal to your [Intuition](../../../rule/character/intuition.md) score with their next strike made before the end of their next turn.
 
 ### Nature Judges Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee"}
 
@@ -102,7 +102,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------------|------------------------------:|
 | **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -128,7 +128,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------|-----------------:|
 | **📏 Ranged 10**   | **🎯 Each ally** |
 
-**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](../../../rule/health/stamina.md) equal to 5 + your Intuition score.
+**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](../../../rule/health/stamina.md) equal to 5 + your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Sacred Bond {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond"}
 
@@ -150,7 +150,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------------|------------------------------:|
 | **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 lightning damage; vertical slide 1
 - **12-16:** 5 lightning damage; vertical slide 2
@@ -165,7 +165,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------|---------------:|
 | **📏 Ranged 10**   | **🎯 Special** |
 
-**Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../../../rule/resource/surge.md) at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
+**Effect:** A [size](../../../rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within [distance](../../../rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../../../rule/resource/surge.md) at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
 ### Wellspring of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace"}
 

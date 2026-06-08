@@ -17,11 +17,11 @@ With this stormwight kit, you channel your [primordial ferocity](scc:mcdm.heroes
 
 *Your enemies try in vain to fall back from your pouncing attack.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 4 + A damage
 - **12-16:** 7 + A damage; push 1
@@ -33,15 +33,11 @@ With this stormwight kit, you channel your [primordial ferocity](scc:mcdm.heroes
 distance: Melee 1
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you pushed the target.
-    - roll: Power Roll + Agility
-      tier1: 4 + A damage
-      tier2: 7 + A damage; push 1
-      tier3: 9 + A damage; push 2
 feature_type: ability
 flavor: Your enemies try in vain to fall back from your pouncing attack.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -50,15 +46,11 @@ metadata:
     flavor: Your enemies try in vain to fall back from your pouncing attack.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Driving Pounce
-    power_roll_characteristic: Agility
     subtype: signature
     target: One creature or object
-    tier1: 4 + A damage
-    tier2: 7 + A damage; push 1
-    tier3: 9 + A damage; push 2
     type: ability
 name: Driving Pounce
 target: One creature or object

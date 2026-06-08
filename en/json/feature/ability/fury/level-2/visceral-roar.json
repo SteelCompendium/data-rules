@@ -3,13 +3,7 @@
   "distance": "2 burst",
   "effects": [
     {
-      "roll": "Power Roll + Might",
-      "tier1": "2 damage; push 1; M \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
-      "tier2": "5 damage; push 2; M \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
-      "tier3": "7 damage; push 3; M \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
-    },
-    {
-      "effect": "This ability deals your primordial damage type (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features)).",
+      "effect": "This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features)).",
       "name": "Effect"
     }
   ],
@@ -22,7 +16,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "fury",
-    "content": "\n*The sound of the storm within you staggers your opponents.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **📏 2 burst**  | **🎯 Each enemy in the area** |\n\n**Power Roll + Might:**\n\n- **≤11:** 2 damage; push 1; M \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 5 damage; push 2; M \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 7 damage; push 3; M \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n\n**Effect:** This ability deals your primordial damage type (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features)).",
+    "content": "\n*The sound of the storm within you staggers your opponents.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **📏 2 burst**  | **🎯 Each enemy in the area** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 2 damage; push 1; M \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 5 damage; push 2; M \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 7 damage; push 3; M \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n\n**Effect:** This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features)).",
     "distance": "2 burst",
     "feature_type": "ability",
     "flavor": "The sound of the storm within you staggers your opponents.",

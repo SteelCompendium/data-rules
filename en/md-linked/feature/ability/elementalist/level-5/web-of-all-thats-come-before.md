@@ -12,12 +12,8 @@ keywords:
     - Ranged
 level: "5"
 name: Web of All That's Come Before
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before
 target: Each enemy in the area
-tier1: 2 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-tier2: 3 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-tier3: 5 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
@@ -28,7 +24,7 @@ type: ability
 |--------------------------------|------------------------------:|
 | **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 2 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
 - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)

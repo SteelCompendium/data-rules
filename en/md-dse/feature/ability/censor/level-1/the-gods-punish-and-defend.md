@@ -15,17 +15,13 @@ item_name: The Gods Punish and Defend
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: The Gods Punish and Defend
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 5 + M holy damage
-tier2: 8 + M holy damage
-tier3: 11 + M holy damage
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 3 Wrath
 distance: Melee 1
 effects:
     - effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) to allow yourself or one ally within 10 squares to regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries).
-    - roll: Power Roll + Might
-      tier1: 5 + M holy damage
-      tier2: 8 + M holy damage
-      tier3: 11 + M holy damage
 feature_type: ability
 flavor: You channel holy energy to smite a foe and heal an ally.
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Magic
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: The Gods Punish and Defend
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend
     target: One creature or object
-    tier1: 5 + M holy damage
-    tier2: 8 + M holy damage
-    tier3: 11 + M holy damage
     type: ability
 name: The Gods Punish and Defend
 target: One creature or object

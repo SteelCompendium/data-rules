@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |----------------------------------|---------------:|
 | **📏 Ranged 10**                 | **🎯 Special** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** You target two creatures, one of which can be you.
 - **12-16:** You target three creatures, one of which can be you.
@@ -40,7 +40,7 @@ Choose one of the following abilities.
 |----------------------------------|----------------------------------:|
 | **📏 Ranged 10**                 | **🎯 Three creatures or objects** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../condition/slowed.md) (save ends).
 - **12-16:** The target is [slowed](../../../condition/slowed.md) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
@@ -63,7 +63,7 @@ Choose one of the following abilities.
 |--------------------------------|------------------------------:|
 | **📏 1 burst**                 | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 damage; vertical push 2
 - **12-16:** 6 damage; vertical push 4
@@ -76,11 +76,11 @@ Choose one of the following abilities.
 
 *You raise the target slightly into the air, then smother them against the ground.*
 
-| **Psionic, Ranged, Strike, Telekinesis** |               **Main action** |
+| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telekinesis** |               **Main action** |
 |------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                         | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 6 + R damage; M < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** 10 + R damage; M < AVERAGE[, prone](../../../condition/prone.md)
@@ -97,11 +97,11 @@ Choose one of the following abilities.
 
 *You overload their senses, turning all their subconscious thoughts into conscious ones.*
 
-| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
+| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
@@ -118,7 +118,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------:|
 | **📏 Ranged 10**               | **🎯 One enemy** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** The target makes a [free strike](../../common/main-actions/free-strike.md) against one enemy of your choice.
 - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.

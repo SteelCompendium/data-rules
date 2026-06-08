@@ -1,5 +1,5 @@
 ---
-effect: 'Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
+effect: 'Your choice of your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: tireless
 file_dpath: title
 item_id: tireless
@@ -15,7 +15,7 @@ type: title
 
 **Prerequisite:** You have the [Unstoppable](scc:mcdm.heroes.v1/title/unstoppable) title, and you make or assist on a test as part of a montage test that obtains a full success.
 
-**Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
+**Effect:** Your choice of your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a respite. Once you use this benefit, you can't use it again until you have taken a regular respite.
 - *Reserves of Strength:* Your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries) is half your [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)

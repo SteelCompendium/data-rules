@@ -24,11 +24,11 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 *You strike so no damage is wasted.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M damage
 - **12-16:** 10 + M damage
@@ -52,13 +52,13 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 *You won't escape your fate.*
 
-| **Magic, Melee, Strike, Weapon** | **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** | **Main action** |
 |----------------------------------|----------------:|
 | **📏 Self; see below**           |     **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this [shift](../../../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
+**Effect:** You [shift](../../../movement/shifting.md) up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your [Might](../../../rule/character/might.md) score. Then make one power roll that targets each enemy you move adjacent to during this [shift](../../../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../rule/character/might.md):**
 
 - **≤11:** Any target whose [Stamina](../../../rule/health/stamina.md) is equal to or less than 8 dies.
 - **12-16:** Any target whose [Stamina](../../../rule/health/stamina.md) is equal to or less than 11 dies.

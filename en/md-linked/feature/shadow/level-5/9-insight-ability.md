@@ -24,13 +24,13 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
 
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
+| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
 **Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + A corruption damage
 - **12-16:** 13 + A corruption damage
@@ -45,7 +45,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 |-----------------------------|------------------------------:|
 | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 10 damage
 - **12-16:** 14 damage
@@ -58,11 +58,11 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 10 + A damage; P < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 15 + A damage; P < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)

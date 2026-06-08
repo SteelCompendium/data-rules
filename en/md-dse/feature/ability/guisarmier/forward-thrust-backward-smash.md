@@ -9,7 +9,7 @@ item_id: forward-thrust-backward-smash
 item_name: Forward Thrust, Backward Smash
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 kit: guisarmier
 name: Forward Thrust, Backward Smash
@@ -23,12 +23,12 @@ type: ability
 ```ds-feature
 distance: Melee 2
 effects:
-    - effect: "*In your hands, the haft is as good as the head.*\n\n| **Melee, Strike, Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
+    - effect: "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
 feature_type: ability
 flavor: In your hands, the haft is as good as the head.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -36,7 +36,7 @@ metadata:
     flavor: In your hands, the haft is as good as the head.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     kit: guisarmier
     name: Forward Thrust, Backward Smash

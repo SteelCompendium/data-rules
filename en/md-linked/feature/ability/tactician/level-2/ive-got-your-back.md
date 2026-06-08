@@ -7,27 +7,23 @@ effect: One ally adjacent to the target can spend a [Recovery](../../../../rule/
 flavor: Your enemy will think twice about attacking your friend.
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
 name: I've Got Your Back
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back
 target: One creature
-tier1: 5 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
-tier2: 9 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
-tier3: 12 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
 type: ability
 ---
 
 
 *Your enemy will think twice about attacking your friend.*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 5 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
 - **12-16:** 9 + R damage; [taunted](../../../../condition/taunted.md) (EoT)

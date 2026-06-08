@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your primordial damage type is fire.
+    - effect: Your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) is fire.
 feature_type: feature
 metadata:
     class: fury

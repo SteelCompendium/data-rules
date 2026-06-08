@@ -8,27 +8,23 @@ flavor: You channel the Primordial Chaos into blows that petrify your foe... lit
 keywords:
     - Magic
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
 name: To Stone!
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-5/to-stone
 target: One creature
-tier1: 9 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 13 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-tier3: 18 + M damage; M < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
 
 *You channel the Primordial Chaos into blows that petrify your foe... literally.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
+| **Magic, Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 9 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)

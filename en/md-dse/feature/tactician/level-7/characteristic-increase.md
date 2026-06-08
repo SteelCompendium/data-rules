@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Each of your characteristic scores increases by 1, to a maximum of 4.
+    - effect: Each of your [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores increases by 1, to a maximum of 4.
 feature_type: feature
 metadata:
     class: tactician

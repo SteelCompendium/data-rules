@@ -2,24 +2,20 @@ ability_type: Triggered
 cost: 9 Discipline
 distance: Melee 1
 effects:
-    - roll: Power Roll + Agility
-      tier1: 7 + A damage; I < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-      tier2: 10 + A damage; I < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-      tier3: 13 + A damage; I < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-    - effect: This strike resolves before the triggering movement or main action.
+    - effect: This [strike](scc:mcdm.heroes.v1/rule.combat/strike) resolves before the triggering movement or main action.
       name: Effect
 feature_type: ability
 flavor: You suddenly strike an enemy, then grab them in a psionically enhanced grip.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     ability_type: Triggered
     action_type: Free triggered
     class: "null"
-    content: "\n*You suddenly strike an enemy, then grab them in a psionically enhanced grip.*\n\n| **Melee, Psionic, Strike, Weapon** |  **Free triggered** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Trigger:** The target moves or uses a main action.\n\n**Power Roll + Agility:**\n\n- **≤11:** 7 + A damage; I < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 10 + A damage; I < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 13 + A damage; I < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** This strike resolves before the triggering movement or main action."
+    content: "\n*You suddenly strike an enemy, then grab them in a psionically enhanced grip.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |  **Free triggered** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature** |\n\n**Trigger:** The target moves or uses a main action.\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 7 + A damage; I < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 10 + A damage; I < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 13 + A damage; I < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** This [strike](scc:mcdm.heroes.v1/rule.combat/strike) resolves before the triggering movement or main action."
     distance: Melee 1
     feature_type: ability
     flavor: You suddenly strike an enemy, then grab them in a psionically enhanced grip.
@@ -28,7 +24,7 @@ metadata:
     keywords:
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 5
     scc:

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a strike until you harm them or one of their allies, or until the end of their next turn.
+    - effect: In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a [strike](scc:mcdm.heroes.v1/rule.combat/strike) until you harm them or one of their allies, or until the end of their next turn.
 feature_type: feature
 metadata:
     class: conduit

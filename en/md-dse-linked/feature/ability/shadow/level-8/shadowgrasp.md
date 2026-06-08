@@ -16,13 +16,9 @@ keywords:
     - Magic
 level: "8"
 name: Shadowgrasp
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 11 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-tier2: 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-tier3: 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
@@ -30,10 +26,7 @@ type: ability
 cost: 11 Insight
 distance: 2 burst
 effects:
-    - roll: Power Roll + Agility
-      tier1: 11 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-      tier2: 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-      tier3: 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
+    - effect: "\n*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 11 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)"
 feature_type: ability
 flavor: The shadows around you give way, allowing the shadow creature within you to grasp at your foes.
 keywords:
@@ -50,12 +43,8 @@ metadata:
         - Magic
     level: "8"
     name: Shadowgrasp
-    power_roll_characteristic: Agility
     scc: mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp
     target: Each enemy in the area
-    tier1: 11 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-    tier2: 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-    tier3: 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
     type: ability
 name: Shadowgrasp
 target: Each enemy in the area

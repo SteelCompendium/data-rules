@@ -7,7 +7,6 @@ item_id: rapid-fire
 item_name: Rapid-Fire
 name: Rapid-Fire
 ranged_damage_bonus: +2/+2/+2
-ranged_distance_bonus: "+7"
 scc: mcdm.heroes.v1/kit/rapid-fire
 source: mcdm.heroes.v1
 speed_bonus: "+1"
@@ -28,7 +27,7 @@ You wear light armor and wield a bow.
 
 **Ranged Damage Bonus:** +2/+2/+2
 
-**Ranged Distance Bonus:** +7
+**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +7
 
 **Disengage Bonus:** +1
 
@@ -38,11 +37,11 @@ You wear light armor and wield a bow.
 
 *When you fire two arrows back-to-back, both hit their mark.*
 
-| **Ranged, Strike, Weapon** |                 **Main action** |
+| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |
 |----------------------------|--------------------------------:|
 | **📏 Ranged 12**           | **🎯 Two creatures or objects** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage
@@ -51,12 +50,12 @@ You wear light armor and wield a bow.
 ```ds-feature
 distance: Ranged 12
 effects:
-    - effect: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, Strike, Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + Might or Agility:**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
+    - effect: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
 feature_type: ability
 flavor: When you fire two arrows back-to-back, both hit their mark.
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -64,7 +63,7 @@ metadata:
     flavor: When you fire two arrows back-to-back, both hit their mark.
     keywords:
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Two Shot
     subtype: signature

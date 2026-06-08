@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Might and Reason scores each increase to 5.
+    - effect: Your [Might](../../../rule/character/might.md) and [Reason](../../../rule/character/reason.md) scores each increase to 5.
 feature_type: feature
 metadata:
     class: tactician

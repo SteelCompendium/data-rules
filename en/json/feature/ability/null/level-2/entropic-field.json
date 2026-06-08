@@ -3,10 +3,7 @@
   "distance": "3 cube within 1",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "6 cold damage; A \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier2": "9 cold damage; A \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-      "tier3": "13 cold damage; A \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
+      "effect": ""
     }
   ],
   "feature_type": "ability",
@@ -19,7 +16,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You drastically increase the local entropy.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 3 cube within 1**    | **🎯 Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 6 cold damage; A \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 9 cold damage; A \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 13 cold damage; A \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+    "content": "\n*You drastically increase the local entropy.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 3 cube within 1**    | **🎯 Each enemy in the area** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 6 cold damage; A \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 9 cold damage; A \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 13 cold damage; A \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
     "distance": "3 cube within 1",
     "feature_type": "ability",
     "flavor": "You drastically increase the local entropy.",

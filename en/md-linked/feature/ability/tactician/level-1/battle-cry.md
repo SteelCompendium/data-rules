@@ -8,12 +8,8 @@ keywords:
     - Ranged
 level: "1"
 name: Battle Cry
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry
 target: Three allies
-tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
-tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
-tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 type: ability
 ---
 
@@ -24,7 +20,7 @@ type: ability
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** Each target gains 1 [surge](../../../../rule/resource/surge.md).
 - **12-16:** Each target gains 2 [surges](../../../../rule/resource/surge.md).

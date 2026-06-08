@@ -7,27 +7,23 @@ effect: While the target is [slowed](../../../../condition/slowed.md) this way, 
 flavor: You turn your enemies' ire to the target.
 keywords:
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "8"
 name: Your Allies Turn on You!
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you
 target: One creature
-tier1: 5 + P damage; I < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 9 + P damage; I < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-tier3: 12 + P damage; I < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
 
 *You turn your enemies' ire to the target.*
 
-| **Ranged, Strike, Weapon** |               **Main action** |
+| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           |           **🎯 One creature** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage; I < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)

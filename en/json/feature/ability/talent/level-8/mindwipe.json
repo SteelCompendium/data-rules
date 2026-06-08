@@ -3,12 +3,6 @@
   "distance": "Melee 2",
   "effects": [
     {
-      "roll": "Power Roll + Reason",
-      "tier1": "12 + R damage; R \u003c WEAK, the target takes a bane on their next power roll",
-      "tier2": "17 + R damage; R \u003c AVERAGE, the target takes a bane on power rolls (save ends)",
-      "tier3": "23 + R damage; R \u003c STRONG, the target has a double bane on power rolls (save ends)"
-    },
-    {
       "effect": "The target can't communicate with anyone until the end of the encounter.",
       "name": "Effect"
     }
@@ -18,13 +12,13 @@
   "keywords": [
     "Melee",
     "Psionic",
-    "Strike",
+    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Telepathy"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "talent",
-    "content": "\n*You attempt to make them forget all their training.*\n\n| **Melee, Psionic, Strike, Telepathy** |     **Main action** |\n|---------------------------------------|--------------------:|\n| **📏 Melee 2**                        | **🎯 One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 12 + R damage; R \u003c WEAK, the target takes a bane on their next power roll\n- **12-16:** 17 + R damage; R \u003c AVERAGE, the target takes a bane on power rolls (save ends)\n- **17+:** 23 + R damage; R \u003c STRONG, the target has a double bane on power rolls (save ends)\n\n**Effect:** The target can't communicate with anyone until the end of the encounter.\n\n**Strained:** You take 3d6 damage.",
+    "content": "\n*You attempt to make them forget all their training.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Telepathy** |     **Main action** |\n|---------------------------------------|--------------------:|\n| **📏 Melee 2**                        | **🎯 One creature** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 12 + R damage; R \u003c WEAK, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next power roll\n- **12-16:** 17 + R damage; R \u003c AVERAGE, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls (save ends)\n- **17+:** 23 + R damage; R \u003c STRONG, the target has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls (save ends)\n\n**Effect:** The target can't communicate with anyone until the end of the encounter.\n\n**Strained:** You take 3d6 damage.",
     "distance": "Melee 2",
     "feature_type": "ability",
     "flavor": "You attempt to make them forget all their training.",
@@ -33,7 +27,7 @@
     "keywords": [
       "Melee",
       "Psionic",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Telepathy"
     ],
     "level": 8,

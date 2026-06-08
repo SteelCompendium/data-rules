@@ -44,7 +44,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|---------------------------------:|
 | **📏 2 aura**                | **🎯 Each creature in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../rule/health/dying.md), or result in them suffering a condition or other negative effect.
+**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../rule/character/presence.md) score and [teleport](../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../rule/health/dying.md), or result in them suffering a condition or other negative effect.
 
 ## Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/dramatic-monologue"}
 
@@ -61,9 +61,9 @@ You have the following ability.
 
 **Effect:** Choose one of the following effects:
 
-- You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
-- You weave a tale of high-stakes heroics. One ally within distance gains 1 [surge](../../../rule/resource/surge.md).
-- You insult a foe where they're most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.
+- You orate a rousing tale of victory. One ally within [distance](../../../rule/combat/distance.md) gains an [edge](../../../rule/dice/edge.md) on the next power roll they make before the start of your next turn.
+- You weave a tale of high-stakes heroics. One ally within [distance](../../../rule/combat/distance.md) gains 1 [surge](../../../rule/resource/surge.md).
+- You insult a foe where they're most vulnerable. One enemy within [distance](../../../rule/combat/distance.md) takes a [bane](../../../rule/dice/bane.md) on the next power roll they make before the end of their next turn.
 
 **Spend 1 Drama:** You can choose two targets for the chosen effect.
 
@@ -80,7 +80,7 @@ You have the following ability.
 |-----------------|------------------------------:|
 | **📏 2 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** Push 1
 - **12-16:** Push 2
@@ -112,13 +112,13 @@ You have the following performance abilities, which are usable with your [Routin
 
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
-| **Magic, Performance, Ranged, Strike** |       **No action** |
+| **Magic, Performance, Ranged, [Strike](../../../rule/combat/strike.md)** |       **No action** |
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Effect:** At the end of each combat round while this performance is active, you can make a power roll against the target that ignores [cover](../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** Lightning damage equal to your level
 - **12-16:** Lightning damage equal to 5 + your level

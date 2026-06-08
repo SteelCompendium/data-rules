@@ -15,17 +15,13 @@ item_name: That One Is Mine!
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "9"
 name: That One Is Mine!
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine
 source: mcdm.heroes.v1
 target: One creature
-tier1: 8 + M damage
-tier2: 13 + M damage
-tier3: 17 + M damage
 type: ability
 ---
 
@@ -34,16 +30,12 @@ cost: 11 Focus
 distance: Melee 1 or ranged 5
 effects:
     - effect: The target is marked by you.
-    - roll: Power Roll + Might
-      tier1: 8 + M damage
-      tier2: 13 + M damage
-      tier3: 17 + M damage
 feature_type: ability
 flavor: You focus on making an enemy irrelevant.
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -55,16 +47,12 @@ metadata:
     keywords:
         - Melee
         - Ranged
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "9"
     name: That One Is Mine!
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine
     target: One creature
-    tier1: 8 + M damage
-    tier2: 13 + M damage
-    tier3: 17 + M damage
     type: ability
 name: That One Is Mine!
 target: One creature

@@ -3,13 +3,7 @@
   "distance": "1 burst",
   "effects": [
     {
-      "roll": "Power Roll + Agility",
-      "tier1": "3 damage",
-      "tier2": "4 damage",
-      "tier3": "5 damage"
-    },
-    {
-      "effect": "You can slide one adjacent enemy up to a number of squares equal to your Intuition score.",
+      "effect": "You can slide one adjacent enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
       "name": "Effect"
     }
   ],
@@ -24,7 +18,7 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You strike everywhere at once, tricking an enemy into moving out of position.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 1 burst**            | **🎯 Each enemy in the area** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 3 damage\n- **12-16:** 4 damage\n- **17+:** 5 damage\n\n**Effect:** You can slide one adjacent enemy up to a number of squares equal to your Intuition score.",
+    "content": "\n*You strike everywhere at once, tricking an enemy into moving out of position.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 1 burst**            | **🎯 Each enemy in the area** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 damage\n- **12-16:** 4 damage\n- **17+:** 5 damage\n\n**Effect:** You can slide one adjacent enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
     "distance": "1 burst",
     "feature_type": "ability",
     "flavor": "You strike everywhere at once, tricking an enemy into moving out of position.",

@@ -14,7 +14,7 @@ Your god infuses wrath within your being. You gain a +1 bonus to rolled damage w
 
 ## Prayer of Distance {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-distance"}
 
-Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the distance of your ranged magic abilities.
+Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the [distance](../../../rule/combat/distance.md) of your ranged magic abilities.
 
 ## Prayer of Soldier's Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-soldiers-skill"}
 
@@ -24,7 +24,7 @@ If you have a kit, you can't take this blessing.
 
 ## Prayer of Speed {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-speed"}
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
 
 ## Prayer of Steel {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-steel"}
 

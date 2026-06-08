@@ -21,18 +21,18 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls.
+**Effect:** You can use a signature or heroic ability. You gain an [edge](../../../rule/dice/edge.md) on that ability's power rolls.
 
 ### Force Redirected {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/force-redirected"}
 
 
-*The force of your strike moves your target in a surprising direction.*
+*The force of your [strike](../../../rule/combat/strike.md) moves your target in a surprising direction.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 3**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + A damage; slide 1
 - **12-16:** 12 + A damage; slide 3
@@ -51,7 +51,7 @@ Choose one of the following heroic abilities.
 |---------------------------|------------------------------:|
 | **📏 3 cube within 1**    | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -66,7 +66,7 @@ Choose one of the following heroic abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the start of your next turn, the size of your [Null Field](../level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+**Effect:** Until the start of your next turn, the size of your [Null Field](../level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## 2nd-Level Metakinetic Ability
 
@@ -77,11 +77,11 @@ Choose one of the following abilities.
 
 *Your fist emanates gravitic force that pulls a distant enemy closer.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 3**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + A psychic damage; vertical pull 3
 - **12-16:** 12 + A psychic damage; vertical pull 5
@@ -96,7 +96,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** You gain 10 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - **12-16:** You gain 15 [temporary Stamina](../../../rule/health/temporary-stamina.md).

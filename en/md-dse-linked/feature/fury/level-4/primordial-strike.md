@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You can manifest your ferocity directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 [surge](../../../rule/resource/surge.md) that must be used for that strike. The extra damage dealt by the [surge](../../../rule/resource/surge.md) can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).
+    - effect: You can manifest your ferocity directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 [surge](../../../rule/resource/surge.md) that must be used for that [strike](../../../rule/combat/strike.md). The extra damage dealt by the [surge](../../../rule/resource/surge.md) can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).
 feature_type: feature
 metadata:
     class: fury

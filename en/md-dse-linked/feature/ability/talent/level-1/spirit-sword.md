@@ -13,17 +13,13 @@ keywords:
     - Animapathy
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Spirit Sword
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 3 + P damage
-tier2: 6 + P damage
-tier3: 9 + P damage
 type: ability
 ---
 
@@ -31,17 +27,13 @@ type: ability
 distance: Melee 2
 effects:
     - effect: You gain 1 [surge](../../../../rule/resource/surge.md).
-    - roll: Power Roll + Presence
-      tier1: 3 + P damage
-      tier2: 6 + P damage
-      tier3: 9 + P damage
 feature_type: ability
 flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 keywords:
     - Animapathy
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: talent
@@ -52,16 +44,12 @@ metadata:
         - Animapathy
         - Melee
         - Psionic
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Spirit Sword
-    power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword
     subtype: signature
     target: One creature or object
-    tier1: 3 + P damage
-    tier2: 6 + P damage
-    tier3: 9 + P damage
     type: ability
 name: Spirit Sword
 target: One creature or object

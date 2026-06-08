@@ -14,7 +14,7 @@ item_id: death-strike
 item_name: Death Strike
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
 name: Death Strike
@@ -22,7 +22,7 @@ scc: mcdm.heroes.v1/feature.ability.fury.level-6/death-strike
 source: mcdm.heroes.v1
 subtype: triggered
 target: Self
-trigger: You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a strike.
+trigger: You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a [strike](../../../../rule/combat/strike.md).
 type: ability
 ---
 
@@ -35,7 +35,7 @@ feature_type: ability
 flavor: Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Free triggered
@@ -46,18 +46,18 @@ metadata:
     flavor: Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "6"
     name: Death Strike
     scc: mcdm.heroes.v1/feature.ability.fury.level-6/death-strike
     subtype: triggered
     target: Self
-    trigger: You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a strike.
+    trigger: You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a [strike](../../../../rule/combat/strike.md).
     type: ability
 name: Death Strike
 target: Self
-trigger: You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a strike.
+trigger: You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a [strike](../../../../rule/combat/strike.md).
 type: feature
 usage: Free triggered
 ```

@@ -7,7 +7,6 @@ item_id: sniper
 item_name: Sniper
 name: Sniper
 ranged_damage_bonus: +0/+0/+4
-ranged_distance_bonus: "+10"
 scc: mcdm.heroes.v1/kit/sniper
 source: mcdm.heroes.v1
 speed_bonus: "+1"
@@ -26,7 +25,7 @@ You wear no armor and wield a bow.
 
 **Ranged Damage Bonus:** +0/+0/+4
 
-**Ranged Distance Bonus:** +10
+**Ranged [Distance](../rule/combat/distance.md) Bonus:** +10
 
 **Disengage Bonus:** +1
 
@@ -36,14 +35,14 @@ You wear no armor and wield a bow.
 
 *Breathe... aim... wait... then strike!*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 15**           | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+**Effect:** If you don't take a move action this turn, this [strike](../rule/combat/strike.md) deals extra damage equal to your [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score (your choice).

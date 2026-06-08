@@ -14,17 +14,13 @@ item_id: driving-assault
 item_name: Driving Assault
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: Driving Assault
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 3 + M damage; push 1
-tier2: 6 + M damage; push 3
-tier3: 9 + M damage; push 5
 type: ability
 ---
 
@@ -33,15 +29,11 @@ cost: 3 Wrath
 distance: Melee 1
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed in a straight line toward the target after pushing them.
-    - roll: Power Roll + Might
-      tier1: 3 + M damage; push 1
-      tier2: 6 + M damage; push 3
-      tier3: 9 + M damage; push 5
 feature_type: ability
 flavor: As you force your enemy back with your weapon, you use your faith to stay close.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -52,16 +44,12 @@ metadata:
     flavor: As you force your enemy back with your weapon, you use your faith to stay close.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: Driving Assault
-    power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault
     target: One creature or object
-    tier1: 3 + M damage; push 1
-    tier2: 6 + M damage; push 3
-    tier3: 9 + M damage; push 5
     type: ability
 name: Driving Assault
 target: One creature or object

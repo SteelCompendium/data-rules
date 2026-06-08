@@ -23,13 +23,13 @@ Choose one of the following abilities.
 
 **Trigger:** The triggering creature starts their turn.
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** I < WEAK, the target loses their turn
 - **12-16:** I < AVERAGE, the target loses their turn
 - **17+:** I < STRONG, the target loses their turn
 
-**Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.
+**Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your [Intuition](../../../rule/character/intuition.md) score for each main action they take until the end of their next turn.
 
 ### Time Loop {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/time-loop"}
 
@@ -57,30 +57,30 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** You gain 20 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - **12-16:** You gain 30 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - **17+:** You gain 40 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../../../rule/health/dying.md), and you have a +2 bonus to potencies.
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](../../../rule/damage/damage-immunity.md) granted by your [Entropic Adaptability](../level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../../../rule/health/dying.md), and you have a +2 bonus to potencies.
 
 ### Heat Drain {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/heat-drain"}
 
 
 *You drain all the heat from the target.*
 
-| **Melee, Psionic, Strike** |        **Maneuver** |
+| **Melee, Psionic, [Strike](../../../rule/combat/strike.md)** |        **Maneuver** |
 |----------------------------|--------------------:|
 | **📏 Melee 1**             | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 8 + I cold damage; M < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
 - **17+:** 15 + I cold damage; M < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 
-**Effect:** While [restrained](../../../condition/restrained.md) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../../condition/restrained.md) this way, any potency associated with the damage is reduced by 2.
+**Effect:** While [restrained](../../../condition/restrained.md) this way, the target takes cold damage equal to your [Intuition](../../../rule/character/intuition.md) score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../../condition/restrained.md) this way, any potency associated with the damage is reduced by 2.
 
 ## 9th-Level Metakinetic Abilities
 
@@ -104,14 +104,14 @@ Choose one of the following abilities.
 
 *Your essential hyperreality disrupts your enemy's connection to existence.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../../../condition/dazed.md)
 - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../../../condition/dazed.md)
 - **17+:** 13 + A psychic damage; I < STRONG, [dazed](../../../condition/dazed.md)
 
-**Effect:** While [dazed](../../../condition/dazed.md) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become [winded](../../../rule/health/winded.md), they are instead reduced to 0 [Stamina](../../../rule/health/stamina.md). Any creature reduced to 0 [Stamina](../../../rule/health/stamina.md) by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+**Effect:** While [dazed](../../../condition/dazed.md) this way, the target takes psychic damage equal to twice your [Intuition](../../../rule/character/intuition.md) score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become [winded](../../../rule/health/winded.md), they are instead reduced to 0 [Stamina](../../../rule/health/stamina.md). Any creature reduced to 0 [Stamina](../../../rule/health/stamina.md) by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.

@@ -1,5 +1,5 @@
 {
-  "content": "The [Warrior Priest](scc:mcdm.heroes.v1/kit/warrior-priest) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.\n\n##### Equipment\n\nYou wear heavy armor and wield a light weapon.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +9 per echelon\n\n**Speed Bonus:** +1\n\n**Stability Bonus:** +1\n\n**Melee Damage Bonus:** +1/+1/+1\n\n##### Signature Ability\n\n###### Weakening Brand\n\n*The impact of your weapon brands your target for destruction.*\n\n| **Magic, Melee, Strike, Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 Melee 1**                   | **🎯 One creature or object** |\n\n**Power Roll + Might, Reason, Intuition, or Presence:**\n\n- **≤11:** 3 + M, R, I, or P holy damage\n- **12-16:** 5 + M, R, I, or P holy damage\n- **17+:** 8 + M, R, I, or P holy damage\n\n**Effect:** Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.",
+  "content": "The [Warrior Priest](scc:mcdm.heroes.v1/kit/warrior-priest) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.\n\n##### Equipment\n\nYou wear heavy armor and wield a light weapon.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +9 per echelon\n\n**Speed Bonus:** +1\n\n**Stability Bonus:** +1\n\n**Melee Damage Bonus:** +1/+1/+1\n\n##### Signature Ability\n\n###### Weakening Brand\n\n*The impact of your weapon brands your target for destruction.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 Melee 1**                   | **🎯 One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 3 + M, R, I, or P holy damage\n- **12-16:** 5 + M, R, I, or P holy damage\n- **17+:** 8 + M, R, I, or P holy damage\n\n**Effect:** Until the end of the target's next turn, they have [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.",
   "equipment_text": "You wear heavy armor and wield a light weapon.",
   "melee_damage_bonus": "+1/+1/+1",
   "name": "Warrior Priest",
@@ -9,7 +9,7 @@
     "distance": "Melee 1",
     "effects": [
       {
-        "effect": "Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.",
+        "effect": "Until the end of the target's next turn, they have [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.",
         "name": "Effect"
       }
     ],
@@ -18,13 +18,13 @@
     "keywords": [
       "Magic",
       "Melee",
-      "Strike",
+      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "metadata": {
       "ability_type": "Signature",
       "action_type": "Main action",
-      "content": "*The impact of your weapon brands your target for destruction.*\n\n| **Magic, Melee, Strike, Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 Melee 1**                   | **🎯 One creature or object** |\n\n**Power Roll + Might, Reason, Intuition, or Presence:**\n\n- **≤11:** 3 + M, R, I, or P holy damage\n- **12-16:** 5 + M, R, I, or P holy damage\n- **17+:** 8 + M, R, I, or P holy damage\n\n**Effect:** Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.",
+      "content": "*The impact of your weapon brands your target for destruction.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 Melee 1**                   | **🎯 One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 3 + M, R, I, or P holy damage\n- **12-16:** 5 + M, R, I, or P holy damage\n- **17+:** 8 + M, R, I, or P holy damage\n\n**Effect:** Until the end of the target's next turn, they have [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.",
       "distance": "Melee 1",
       "feature_type": "ability",
       "flavor": "The impact of your weapon brands your target for destruction.",
@@ -33,7 +33,7 @@
       "keywords": [
         "Magic",
         "Melee",
-        "Strike",
+        "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
         "Weapon"
       ],
       "target": "One creature or object",

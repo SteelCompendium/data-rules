@@ -8,7 +8,7 @@ type: project
 
 **Project Source:** Texts or lore in Voll
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Reason](../rule/character/reason.md)
 
 **Project Goal:** 1,500
 

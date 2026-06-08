@@ -9,12 +9,8 @@ keywords:
     - Area
 level: "5"
 name: Orison of Victory
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory
 target: Self and each ally in the area
-tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
-tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
-tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 type: ability
 ---
 
@@ -25,7 +21,7 @@ type: ability
 |----------------|--------------------------------------:|
 | **📏 1 burst** | **🎯 Self and each ally in the area** |
 
-**Power Roll + Presence:**
+**Power Roll + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** Each target gains 1 [surge](../../../../rule/resource/surge.md).
 - **12-16:** Each target gains 2 [surges](../../../../rule/resource/surge.md).

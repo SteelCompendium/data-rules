@@ -1,11 +1,7 @@
 cost: 11 Drama
 distance: Melee 1 or ranged 10
 effects:
-    - roll: Power Roll + Presence
-      tier1: The target takes a bane on ability rolls (save ends).
-      tier2: The target has a double bane on ability rolls (save ends).
-      tier3: The target has a double bane on power rolls (save ends).
-    - effect: Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them after the ability is resolved.
+    - effect: Choose one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them after the ability is resolved.
       name: Effect
 feature_type: ability
 flavor: Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.
@@ -16,7 +12,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: troubadour
-    content: "\n*Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*\n\n| **Magic, Melee, Ranged**    |        **Maneuver** |\n|-----------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 10** | **\U0001F3AF One creature** |\n\n**Power Roll + Presence:**\n\n- **≤11:** The target takes a bane on ability rolls (save ends).\n- **12-16:** The target has a double bane on ability rolls (save ends).\n- **17+:** The target has a double bane on power rolls (save ends).\n\n**Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them after the ability is resolved."
+    content: "\n*Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*\n\n| **Magic, Melee, Ranged**    |        **Maneuver** |\n|-----------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 10** | **\U0001F3AF One creature** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on ability rolls (save ends).\n- **12-16:** The target has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on ability rolls (save ends).\n- **17+:** The target has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls (save ends).\n\n**Effect:** Choose one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them after the ability is resolved."
     distance: Melee 1 or ranged 10
     feature_type: ability
     flavor: Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.

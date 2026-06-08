@@ -32,11 +32,11 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 5 + M or A damage
 - **12-16:** 8 + M or A damage
@@ -52,7 +52,7 @@ feature_type: ability
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
@@ -61,7 +61,7 @@ metadata:
     flavor: The strength of your assault makes it impossible for your foe to ignore you.
     keywords:
         - Melee
-        - Strike
+        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Protective Attack
     subtype: signature

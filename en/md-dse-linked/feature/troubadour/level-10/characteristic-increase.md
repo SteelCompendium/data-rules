@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your Agility and Presence scores each increase to 5.
+    - effect: Your [Agility](../../../rule/character/agility.md) and [Presence](../../../rule/character/presence.md) scores each increase to 5.
 feature_type: feature
 metadata:
     class: troubadour

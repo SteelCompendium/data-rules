@@ -32,11 +32,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Effect:** Until the start of your next turn, the target has the following benefits:
 
-- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../../condition/restrained.md) until the effect ends.
+- Their [size](../../../rule/character/size.md) and stability increase by 2, with any [size](../../../rule/character/size.md) 1 target becoming [size](../../../rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../../condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
-- Their strikes deal extra fire damage equal to twice your Reason score.
-- When the target force moves a creature or object, the [forced movement](../../../movement/forced-movement.md) distance gains a +2 bonus.
-- They can use their highest characteristic instead of Might for Might power rolls.
+- Their [strikes](../../../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../../rule/character/reason.md) score.
+- When the target force moves a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +2 bonus.
+- They can use their highest [characteristic](../../../rule/character/characteristic.md) instead of [Might](../../../rule/character/might.md) for [Might](../../../rule/character/might.md) power rolls.
 
 **Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 [Recoveries](../../../rule/health/recoveries.md).
 
@@ -49,13 +49,13 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------------|------------------------------:|
 | **📏 Ranged 10**                     | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** You [teleport](../../../movement/teleport.md) the target up to 4 squares.
 - **12-16:** You [teleport](../../../movement/teleport.md) the target up to 6 squares.
 - **17+:** You [teleport](../../../movement/teleport.md) the target up to 8 squares.
 
-**Effect:** If the target is [teleport](../../../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../../../movement/difficult-terrain.md).
+**Effect:** If the target is [teleport](../../../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their [Agility](../../../rule/character/agility.md) score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../../../movement/difficult-terrain.md).
 
 ## The Wode Remembers and Returns {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/the-wode-remembers-and-returns"}
 

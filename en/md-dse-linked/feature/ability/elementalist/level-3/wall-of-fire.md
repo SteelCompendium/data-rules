@@ -5,7 +5,7 @@ cost: 7 Essence
 cost_amount: "7"
 cost_resource: Essence
 distance: 10 wall within 10
-effect: The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.
+effect: The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your [Reason](../../../../rule/character/reason.md) score for each square of the area they start their turn in or enter.
 feature_type: ability
 file_basename: wall-of-fire
 file_dpath: feature/ability/elementalist/level-3
@@ -29,7 +29,7 @@ type: ability
 cost: 7 Essence
 distance: 10 wall within 10
 effects:
-    - effect: The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.
+    - effect: The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your [Reason](../../../../rule/character/reason.md) score for each square of the area they start their turn in or enter.
 feature_type: ability
 flavor: A blazing, beautifully organized inferno erupts at your command.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: elementalist
     cost: 7 Essence
     distance: 10 wall within 10
-    effect: The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.
+    effect: The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your [Reason](../../../../rule/character/reason.md) score for each square of the area they start their turn in or enter.
     flavor: A blazing, beautifully organized inferno erupts at your command.
     keywords:
         - Area

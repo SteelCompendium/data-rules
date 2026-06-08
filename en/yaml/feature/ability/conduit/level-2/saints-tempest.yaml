@@ -1,10 +1,7 @@
 cost: 5 Piety
 distance: 3 cube within 10
 effects:
-    - roll: Power Roll + Intuition
-      tier1: 2 lightning damage; vertical slide 1
-      tier2: 5 lightning damage; vertical slide 2
-      tier3: 7 lightning damage; vertical slide 3
+    - effect: ""
 feature_type: ability
 flavor: A raging storm appears, striking your foes with lightning and throwing them around with wind.
 keywords:
@@ -14,7 +11,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*A raging storm appears, striking your foes with lightning and throwing them around with wind.*\n\n| **Area, Magic, Ranged**  |               **Main action** |\n|--------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 10**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 2 lightning damage; vertical slide 1\n- **12-16:** 5 lightning damage; vertical slide 2\n- **17+:** 7 lightning damage; vertical slide 3"
+    content: "\n*A raging storm appears, striking your foes with lightning and throwing them around with wind.*\n\n| **Area, Magic, Ranged**  |               **Main action** |\n|--------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 10**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 lightning damage; vertical slide 1\n- **12-16:** 5 lightning damage; vertical slide 2\n- **17+:** 7 lightning damage; vertical slide 3"
     distance: 3 cube within 10
     feature_type: ability
     flavor: A raging storm appears, striking your foes with lightning and throwing them around with wind.
