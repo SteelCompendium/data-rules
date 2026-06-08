@@ -4,7 +4,7 @@ class: fury
 cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: my-turn
@@ -13,7 +13,7 @@ flavor: You quickly strike back at a foe.
 item_id: my-turn
 item_name: My Turn!
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "5"
@@ -28,24 +28,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 flavor: You quickly strike back at a foe.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Free triggered
     class: fury
     cost: 9 Ferocity
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: You quickly strike back at a foe.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "5"

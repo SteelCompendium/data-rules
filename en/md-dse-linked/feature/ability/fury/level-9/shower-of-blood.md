@@ -4,7 +4,7 @@ class: fury
 cost: 11 Ferocity
 cost_amount: "11"
 cost_resource: Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take [triggered actions](../../../../rule/combat/triggered-action.md) or free [triggered actions](../../../../rule/combat/triggered-action.md), [ability rolls](../../../../rule/dice/ability-roll.md) made against them gain an [edge](../../../../rule/dice/edge.md), and their [characteristic](../../../../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting [potencies](../../../../rule/character/potency.md).
 feature_type: ability
 file_basename: shower-of-blood
@@ -13,7 +13,7 @@ flavor: You shock your foes with the brutality of your [strike](../../../../rule
 item_id: shower-of-blood
 item_name: Shower of Blood
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 11 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take [triggered actions](../../../../rule/combat/triggered-action.md) or free [triggered actions](../../../../rule/combat/triggered-action.md), [ability rolls](../../../../rule/dice/ability-roll.md) made against them gain an [edge](../../../../rule/dice/edge.md), and their [characteristic](../../../../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting [potencies](../../../../rule/character/potency.md).
 feature_type: ability
 flavor: You shock your foes with the brutality of your [strike](../../../../rule/combat/strike.md), resetting the balance of combat.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 11 Ferocity
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take [triggered actions](../../../../rule/combat/triggered-action.md) or free [triggered actions](../../../../rule/combat/triggered-action.md), [ability rolls](../../../../rule/dice/ability-roll.md) made against them gain an [edge](../../../../rule/dice/edge.md), and their [characteristic](../../../../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting [potencies](../../../../rule/character/potency.md).
     flavor: You shock your foes with the brutality of your [strike](../../../../rule/combat/strike.md), resetting the balance of combat.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "9"

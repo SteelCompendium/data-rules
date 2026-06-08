@@ -20,9 +20,9 @@ effects:
 
         ##### Focus in Combat
 
-        At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 focus.
+        At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../../rule/combat/combat-round.md) (as determined by the Director), you gain focus equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 2 focus.
 
-        Additionally, the first time each combat round that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a combat round that any ally within 10 squares of you uses a [heroic ability](../../../rule/general/heroic-ability.md), you gain 1 focus.
+        Additionally, the first time each [combat round](../../../rule/combat/combat-round.md) that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a [combat round](../../../rule/combat/combat-round.md) that any ally within 10 squares of you uses a [heroic ability](../../../rule/general/heroic-ability.md), you gain 1 focus.
 
         You lose any remaining focus at the end of the encounter.
 

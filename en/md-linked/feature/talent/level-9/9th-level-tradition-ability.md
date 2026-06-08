@@ -17,11 +17,11 @@ Choose one of the following abilities.
 
 *You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
 
-| **Chronopathy, Psionic, Ranged** |     **Main action** |
+| **Chronopathy, Psionic, [Ranged](../../../rule/combat/ranged.md)** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Ranged 5**                  | **🎯 Three allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 5**                  | **🎯 Three allies** |
 
-**Effect:** Each target can use any main action available to them as a free [triggered action](../../../rule/combat/triggered-action.md), but they lose their main action on their next turn.
+**Effect:** Each target can use any main action available to them as a free [triggered action](../../../rule/combat/triggered-action.md), but they lose their main action on their next [turn](../../../rule/combat/turn.md).
 
 **Strained:** Make a [power roll](../../../rule/dice/power-roll.md) that targets you and each enemy within [distance](../../../rule/combat/distance.md).
 
@@ -40,7 +40,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------:|
 | **📏 2 [burst](../../../rule/combat/burst.md)**                 | **🎯 Each ally in the area** |
 
-**Effect:** The targets share 6 of their [Heroic Resource](../../../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
+**Effect:** The targets share 6 of their [Heroic Resource](../../../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next [combat round](../../../rule/combat/combat-round.md).
 
 ## 9th-Level Telekinesis Abilities
 
@@ -63,7 +63,7 @@ Choose one of the following abilities.
 - **12-16:** 3 [burst](../../../rule/combat/burst.md)
 - **17+:** 4 [burst](../../../rule/combat/burst.md)
 
-**Strained:** You can choose to reduce the size of the [burst](../../../rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../../../rule/combat/burst.md)) to give the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) a +2 bonus. You take half the total damage all targets take from [forced movement](../../../movement/forced-movement.md).
+**Strained:** You can choose to reduce the size of the [burst](../../../rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../../../rule/combat/burst.md)) to give the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md). You take half the total damage all targets take from [forced movement](../../../movement/forced-movement.md).
 
 ### Gravitic Nova {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova"}
 
@@ -93,9 +93,9 @@ Choose one of the following abilities.
 
 *You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
 
-| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 | ------------------------------------|--------------------:|
-| **📏 Ranged 10**  | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -116,7 +116,7 @@ Choose one of the following abilities.
 |------------------------------|---------------------------------------:|
 | **📏 3 [burst](../../../rule/combat/burst.md)**               | **🎯 Each ally and enemy in the area** |
 
-**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../../../rule/dice/power-roll.md) until the start of your next turn. Each target enemy is affected by the ability's [power roll](../../../rule/dice/power-roll.md).
+**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../../../rule/dice/power-roll.md) until the start of your next [turn](../../../rule/combat/turn.md). Each target enemy is affected by the ability's [power roll](../../../rule/dice/power-roll.md).
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 

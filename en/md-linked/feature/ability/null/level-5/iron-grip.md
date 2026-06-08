@@ -2,11 +2,11 @@
 action_type: Main action
 class: "null"
 cost: 9 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: While [grabbed](../../../../condition/grabbed.md) this way, the target takes a [bane](../../../../rule/dice/bane.md) on the [Escape Grab](../../../common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your [Agility](../../../../rule/character/agility.md) score.
-flavor: You grab the target with supernatural force.
+flavor: You grab the target with [supernatural](../../../../rule/general/supernatural.md) force.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -18,11 +18,11 @@ type: ability
 ---
 
 
-*You grab the target with supernatural force.*
+*You grab the target with [supernatural](../../../../rule/general/supernatural.md) force.*
 
-| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

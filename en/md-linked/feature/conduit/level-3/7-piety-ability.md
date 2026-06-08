@@ -13,7 +13,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your divine magic makes a creature appear as what your enemies fear most.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 5 [cube](../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -30,9 +30,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *An ally becomes the wearer of an empowered golden cloak.*
 
-| **Magic, Ranged**         |    **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**         |    **Maneuver** |
 |---------------------------|----------------:|
-| **📏 Ranged 10**          | **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One ally** |
 
 **Effect:** The target gains 20 [temporary Stamina](../../../rule/health/temporary-stamina.md) and 3 [surges](../../../rule/resource/surge.md).
 
@@ -41,9 +41,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |  **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |  **Main action** |
 |---------------------------|-----------------:|
-| **📏 Ranged 10**          | **🎯 One enemy** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One enemy** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -56,7 +56,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 ## Words of Wrath and Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace"}
 
 
-*Your saint grants your enemies a vision of pain and fills your allies with healing energy.*
+*Your [saint](../../../rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.*
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|

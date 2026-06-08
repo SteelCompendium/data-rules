@@ -17,9 +17,9 @@ Choose one of the following abilities.
 
 *I am but a vessel. Your own deeds weigh upon you.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -38,7 +38,7 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 3 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes holy damage equal to twice your [Presence](../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../../ability/censor/level-1/judgment.md) ability against one target as a free [triggered action](../../../rule/combat/triggered-action.md).
+**Effect:** Each target takes holy damage equal to twice your [Presence](../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next [turn](../../../rule/combat/turn.md). You can then use your [Judgment](../../ability/censor/level-1/judgment.md) ability against one target as a free [triggered action](../../../rule/combat/triggered-action.md).
 
 ## 2nd-Level Oracle Ability
 
@@ -49,22 +49,22 @@ Choose one of the following abilities.
 
 *Gifted by a prescient vision, you warn an ally of an impending attack.*
 
-| **Magic, Ranged** |          **Triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |          **Triggered** |
 |-------------------|-----------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** An enemy within 10 squares starts their turn.
+**Trigger:** An enemy within 10 squares starts their [turn](../../../rule/combat/turn.md).
 
-**Effect:** You can spend a [Recovery](../../../rule/health/recoveries.md) to allow the target to regain [Stamina](../../../rule/health/stamina.md) equal to your [recovery value](../../../rule/health/recoveries.md). The target can then take their turn immediately before the triggering enemy.
+**Effect:** You can spend a [Recovery](../../../rule/health/recoveries.md) to allow the target to regain [Stamina](../../../rule/health/stamina.md) equal to your [recovery value](../../../rule/health/recoveries.md). The target can then take their [turn](../../../rule/combat/turn.md) immediately before the triggering enemy.
 
 ### With My Blessing {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing"}
 
 
 *A word in prayer, and the gods show the way.*
 
-| **Magic, Ranged** |         **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |         **Main action** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
 **Effect:** The target can use a free [triggered action](../../../rule/combat/triggered-action.md) to use a [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) or a [strike](../../../rule/combat/strike.md) [heroic ability](../../../rule/general/heroic-ability.md), and has a double [edge](../../../rule/dice/edge.md) on that ability. If a [heroic ability](../../../rule/general/heroic-ability.md) is chosen, reduce its [Heroic Resource](../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 
@@ -81,16 +81,16 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 3 [aura](../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each target gains 1 [surge](../../../rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each target gains 1 [surge](../../../rule/resource/surge.md) at the end of each of your [turns](../../../rule/combat/turn.md).
 
 ### Sentenced {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/sentenced"}
 
 
 *The shock of your condemnation freezes your enemy in their boots.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   |           **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 

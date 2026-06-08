@@ -2,11 +2,11 @@
 action_type: Triggered
 class: tactician
 cost: 5 Focus
-distance: Ranged 5
-effect: You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
+effect: You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement [adjacent](../../../../rule/combat/adjacent.md) to them or in the nearest square if you can't reach an [adjacent](../../../../rule/combat/adjacent.md) square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came [adjacent](../../../../rule/combat/adjacent.md) to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
 flavor: You prioritize saving an ally over your own safety.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -21,13 +21,13 @@ type: ability
 
 *You prioritize saving an ally over your own safety.*
 
-| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |    **Triggered** |
+| **[Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |    **Triggered** |
 |----------------------------|-----------------:|
-| **📏 Ranged 5**            | **🎯 One enemy** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 5**            | **🎯 One enemy** |
 
 **Trigger:** The target deals damage to an ally.
 
-**Effect:** You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
+**Effect:** You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement [adjacent](../../../../rule/combat/adjacent.md) to them or in the nearest square if you can't reach an [adjacent](../../../../rule/combat/adjacent.md) square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came [adjacent](../../../../rule/combat/adjacent.md) to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

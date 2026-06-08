@@ -1,11 +1,9 @@
 ---
-disengage_bonus: "+1"
 equipment_text: You wear medium armor and wield a light weapon and a medium weapon.
 file_basename: dual-wielder
 file_dpath: kit
 item_id: dual-wielder
 item_name: Dual Wielder
-melee_damage_bonus: +2/+2/+2
 name: Dual Wielder
 scc: mcdm.heroes.v1/kit/dual-wielder
 source: mcdm.heroes.v1
@@ -20,13 +18,13 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
 
-**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +2
+**[Speed](scc:mcdm.heroes.v1/rule.character/speed) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +2
 
-**Melee Damage Bonus:** +2/+2/+2
+**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +2/+2/+2
 
-**Disengage Bonus:** +1
+**Disengage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
 ##### Signature Ability
 
@@ -34,9 +32,9 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 *Why strike once when you could do it twice?*
 
-| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |
+| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
@@ -44,25 +42,25 @@ You wear medium armor and wield a light weapon and a medium weapon.
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-**Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
+**Effect:** If you use this ability on your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use it against one target, then use your maneuver and your move action for that [turn](scc:mcdm.heroes.v1/rule.combat/turn) before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
+    - effect: If you use this ability on your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use it against one target, then use your maneuver and your move action for that [turn](scc:mcdm.heroes.v1/rule.combat/turn) before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
 feature_type: ability
 flavor: Why strike once when you could do it twice?
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
-    effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: If you use this ability on your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use it against one target, then use your maneuver and your move action for that [turn](scc:mcdm.heroes.v1/rule.combat/turn) before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
     flavor: Why strike once when you could do it twice?
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Double Strike

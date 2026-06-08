@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 7 Essence
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of your next turn, each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 bonus to [saving throws](../../../../rule/general/saving-throw.md).
+effect: Until the end of your next [turn](../../../../rule/combat/turn.md), each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../../rule/general/saving-throw.md).
 flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
 keywords:
     - Area
@@ -29,6 +29,6 @@ type: ability
 - **12-16:** 6 damage
 - **17+:** 9 damage
 
-**Effect:** Until the end of your next turn, each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 bonus to [saving throws](../../../../rule/general/saving-throw.md).
+**Effect:** Until the end of your next [turn](../../../../rule/combat/turn.md), each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../../rule/general/saving-throw.md).
 
-**Persistent 1:** You make the [power roll](../../../../rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
+**Persistent 1:** You make the [power roll](../../../../rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next [turn](../../../../rule/combat/turn.md).

@@ -4,7 +4,7 @@ class: shadow
 cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: If you are disguised as a creature the target knew using your [I'm No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your [Agility](../../../../rule/character/agility.md) score.
 feature_type: ability
 file_basename: it-was-me-all-along
@@ -13,7 +13,7 @@ flavor: After everything you've been through together, you twist the blade and m
 item_id: it-was-me-all-along
 item_name: It Was Me All Along
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 11 Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: If you are disguised as a creature the target knew using your [I'm No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your [Agility](../../../../rule/character/agility.md) score.
 feature_type: ability
 flavor: After everything you've been through together, you twist the blade and make the pain extra personal.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 11 Insight
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: If you are disguised as a creature the target knew using your [I'm No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your [Agility](../../../../rule/character/agility.md) score.
     flavor: After everything you've been through together, you twist the blade and make the pain extra personal.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "9"

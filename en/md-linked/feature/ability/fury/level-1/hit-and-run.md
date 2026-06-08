@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: fury
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../../movement/shifting.md) 1 square.
 flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -19,9 +19,9 @@ type: ability
 
 *Staying in constant motion helps you slip out of reach after a brutal assault.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

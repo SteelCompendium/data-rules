@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 ancestry: time-raider
-distance: Ranged 10
+distance: '[Ranged](../../../rule/combat/ranged.md) 10'
 flavor: You shoot forth a purple beam of psychic force that moves your target.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
 name: Psionic Bolt
 scc: mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt
@@ -16,9 +16,9 @@ type: ability
 
 *You shoot forth a purple beam of psychic force that moves your target.*
 
-| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md)**  | Main action                   |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
-| **📏 Ranged 10**             | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 

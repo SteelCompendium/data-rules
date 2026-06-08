@@ -5,7 +5,7 @@ cost: 9 Insight
 cost_amount: "9"
 cost_resource: Insight
 distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-effect: Until the start of your next turn, any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
+effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
 feature_type: ability
 file_basename: look
 file_dpath: feature/ability/shadow/level-6
@@ -27,7 +27,7 @@ type: ability
 cost: 9 Insight
 distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: Until the start of your next turn, any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
+    - effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
 feature_type: ability
 flavor: You distract your foes, allowing your allies to take advantage of that distraction.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: shadow
     cost: 9 Insight
     distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-    effect: Until the start of your next turn, any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
+    effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
     flavor: You distract your foes, allowing your allies to take advantage of that distraction.
     keywords:
         - Area

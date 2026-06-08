@@ -11,13 +11,13 @@
   "flavor": "You unleash a howl that hurls your enemies back.",
   "keywords": [
     "Area",
-    "Melee",
+    "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "fury",
-    "content": "\n*You unleash a howl that hurls your enemies back.*\n\n| **Area, Melee, Weapon**    |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 6 damage; push 2\n- **12-16:** 9 damage; push 4\n- **17+:** 13 damage; push 6\n\n**Effect:** The targets are [force moved](scc:mcdm.heroes.v1/movement/forced-movement) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.",
+    "content": "\n*You unleash a howl that hurls your enemies back.*\n\n| **Area, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), Weapon**    |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 6 damage; push 2\n- **12-16:** 9 damage; push 4\n- **17+:** 13 damage; push 6\n\n**Effect:** The targets are [force moved](scc:mcdm.heroes.v1/movement/forced-movement) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.",
     "distance": "5 x 1 line within 1",
     "feature_type": "ability",
     "flavor": "You unleash a howl that hurls your enemies back.",
@@ -25,7 +25,7 @@
     "item_name": "Thunder Roar",
     "keywords": [
       "Area",
-      "Melee",
+      "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
       "Weapon"
     ],
     "level": 1,

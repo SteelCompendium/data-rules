@@ -1,23 +1,23 @@
 cost: 11 Insight
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
       name: Effect
 feature_type: ability
 flavor: One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: shadow
-    content: "\n*One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*\n\n| **Ranged**       |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF One creature or object** |\n\n**Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 7 damage\n- **12-16:** 10 damage\n- **17+:** 15 damage"
-    distance: Ranged 10
+    content: "\n*One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*\n\n| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**       |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10** | **\U0001F3AF One creature or object** |\n\n**Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 7 damage\n- **12-16:** 10 damage\n- **17+:** 15 damage"
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     feature_type: ability
     flavor: One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.
     item_id: chain-reaction
     item_name: Chain Reaction
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: 9
     scc:
         - mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction

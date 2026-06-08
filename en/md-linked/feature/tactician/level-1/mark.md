@@ -13,9 +13,9 @@ You know how to focus the attention of your allies as you push them toward [vict
 
 *You draw your allies' attention to a specific foe—with devastating effect.*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Effect:** The target is marked by you until the end of the encounter, until you are [dying](../../../rule/health/dying.md), or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../../class/tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 [Stamina](../../../rule/health/stamina.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to mark a new target within [distance](../../../rule/combat/distance.md).
 
@@ -26,6 +26,6 @@ While a creature marked by you is within your [line of effect](../../../rule/com
 - The ability deals extra damage equal to twice your [Reason](../../../rule/character/reason.md) score.
 - The creature dealing the damage can spend a [Recovery](../../../rule/health/recoveries.md).
 - The creature dealing the damage can [shift](../../../movement/shifting.md) up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
-- If you damage a creature marked by you with a melee ability, the creature is [taunted](../../../condition/taunted.md) by you until the end of their next turn.
+- If you damage a creature marked by you with a [melee](../../../rule/combat/melee.md) ability, the creature is [taunted](../../../condition/taunted.md) by you until the end of their next [turn](../../../rule/combat/turn.md).
 
 You can't gain more than one benefit from the same trigger.

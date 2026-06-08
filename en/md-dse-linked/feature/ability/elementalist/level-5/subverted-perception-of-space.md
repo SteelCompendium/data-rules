@@ -4,7 +4,7 @@ class: elementalist
 cost: 9 Essence
 cost_amount: "9"
 cost_resource: Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 feature_type: ability
 file_basename: subverted-perception-of-space
 file_dpath: feature/ability/elementalist/level-5
@@ -13,7 +13,7 @@ item_id: subverted-perception-of-space
 item_name: Subverted Perception of Space
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Void
 level: "5"
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 9 Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*You rip an enemy's world in twain.*\n\n| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md), Void** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 9 + R corruption damage\n- **12-16:** 10 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next turn\n- **17+:** 15 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to adjacent creatures and objects until the start of your next turn"
+    - effect: "\n*You rip an enemy's world in twain.*\n\n| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Void** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**                | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 9 + R corruption damage\n- **12-16:** 10 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next [turn](../../../../rule/combat/turn.md)\n- **17+:** 15 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to [adjacent](../../../../rule/combat/adjacent.md) creatures and objects until the start of your next [turn](../../../../rule/combat/turn.md)"
 feature_type: ability
 flavor: You rip an enemy's world in twain.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Void
 metadata:
     action_type: Main action
     class: elementalist
     cost: 9 Essence
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     flavor: You rip an enemy's world in twain.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Void
     level: "5"

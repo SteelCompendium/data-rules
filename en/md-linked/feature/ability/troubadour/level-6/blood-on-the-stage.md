@@ -2,10 +2,10 @@
 action_type: Main action
 class: troubadour
 cost: 9 Drama
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 flavor: It's love and blood or drama and blood. Either way, there's always blood.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -18,9 +18,9 @@ type: ability
 
 *It's love and blood or drama and blood. Either way, there's always blood.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

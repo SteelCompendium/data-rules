@@ -4,8 +4,8 @@ class: talent
 cost: 3 Clarity
 cost_amount: "3"
 cost_resource: Clarity
-distance: Ranged 10
-effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 feature_type: ability
 file_basename: stasis-shield
 file_dpath: feature/ability/talent/level-8
@@ -14,7 +14,7 @@ item_id: stasis-shield
 item_name: Stasis Shield
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "8"
 name: Stasis Shield
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield
@@ -27,24 +27,24 @@ type: ability
 
 ```ds-feature
 cost: 3 Clarity
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+    - effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 feature_type: ability
 flavor: You freeze time just long enough to bring the victim to safety!
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Triggered
     class: talent
     cost: 3 Clarity
-    distance: Ranged 10
-    effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
     flavor: You freeze time just long enough to bring the victim to safety!
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "8"
     name: Stasis Shield
     scc: mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield

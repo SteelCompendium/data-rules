@@ -7,7 +7,7 @@ flavor: Mystical thorned vines appear at your bidding and bind your foes.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Nature Judges Thee
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee
@@ -18,7 +18,7 @@ type: ability
 
 *Mystical thorned vines appear at your bidding and bind your foes.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 3 [cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 

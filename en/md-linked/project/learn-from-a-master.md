@@ -43,7 +43,7 @@ You gain one [signature ability](../rule/combat/signature-ability.md) of your ch
 
 ## Hone Ability
 
-You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the [distance](../rule/combat/distance.md) of a ranged ability by 2. An ability can be honed only once this way.
+You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage [bonus](../rule/dice/bonuses-and-penalties.md) to the ability, or improving the [distance](../rule/combat/distance.md) of a [ranged](../rule/combat/ranged.md) ability by 2. An ability can be honed only once this way.
 
 ## Improve Control
 

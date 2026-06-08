@@ -15,7 +15,7 @@ item_name: Night Falls
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Night Falls
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls
@@ -34,7 +34,7 @@ flavor: You summon darkness that thwarts only your foes.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: conduit
@@ -45,7 +45,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "9"
     name: Night Falls
     scc: mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls

@@ -4,7 +4,6 @@ file_basename: guisarmier
 file_dpath: kit
 item_id: guisarmier
 item_name: Guisarmier
-melee_damage_bonus: +2/+2/+2
 name: Guisarmier
 scc: mcdm.heroes.v1/kit/guisarmier
 source: mcdm.heroes.v1
@@ -19,13 +18,13 @@ You wear medium armor and wield a polearm.
 
 ##### Kit Bonuses
 
-**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
 
-**[Stability](scc:mcdm.heroes.v1/rule.character/stability) Bonus:** +1
+**[Stability](scc:mcdm.heroes.v1/rule.character/stability) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
-**Melee Damage Bonus:** +2/+2/+2
+**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +2/+2/+2
 
-**Melee [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +1
+**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) [Distance](scc:mcdm.heroes.v1/rule.combat/distance) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
 ##### Signature Ability
 
@@ -33,9 +32,9 @@ You wear medium armor and wield a polearm.
 
 *In your hands, the haft is as good as the head.*
 
-| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |
+| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 2**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
@@ -44,21 +43,21 @@ You wear medium armor and wield a polearm.
 - **17+:** 9 damage
 
 ```ds-feature
-distance: Melee 2
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
 effects:
-    - effect: "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
+    - effect: "*In your hands, the haft is as good as the head.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2**            | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
 feature_type: ability
 flavor: In your hands, the haft is as good as the head.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 2
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
     flavor: In your hands, the haft is as good as the head.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Forward Thrust, Backward Smash

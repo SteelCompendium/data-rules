@@ -38,9 +38,9 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 
 *You concentrate on a friend and [teleport](../../../movement/teleport.md) to them.*
 
-| **Magic, Ranged**  |           **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |           **Main action** |
 |--------------------|--------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and each ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Self and each ally** |
 
 **Effect:** Each target is [teleport](../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need [line of effect](../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
 
@@ -50,7 +50,7 @@ Each time you finish a [respite](../../../rule/resource/respite.md), you can cho
 
 ## Font of Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-7/font-of-grace"}
 
-Each time you use your [Healing Grace](../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same [turn](../../../rule/combat/turn.md). If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
 
 ## Gods' Library {data-scc="mcdm.heroes.v1/feature.conduit.level-7/gods-library"}
 
@@ -66,15 +66,15 @@ When you finish a [respite](../../../rule/resource/respite.md), you can prepare 
 
 - Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different [damage immunity](../../../rule/damage/damage-immunity.md) each time.
 - Each creature gains 20 [temporary Stamina](../../../rule/health/temporary-stamina.md).
-- Each creature gains a +1 bonus to [speed](../../../rule/character/speed.md).
-- Each creature gains a +1 bonus to [saving throws](../../../rule/general/saving-throw.md).
+- Each creature gains a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md).
+- Each creature gains a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../rule/general/saving-throw.md).
 - Each creature gains an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to influence other creatures.
 
 Each benefit lasts until the creature who gains it finishes another [respite](../../../rule/resource/respite.md).
 
 ## Thunderstruck {data-scc="mcdm.heroes.v1/feature.conduit.level-7/thunderstruck"}
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../../../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score.
+Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../../../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.conduit.level-7/trinity-of-trickery"}
 
@@ -85,11 +85,11 @@ You have the following ability.
 
 *Hey! I'm over here. No, here, numbskull.*
 
-| **Magic, Ranged**  |            **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |            **Maneuver** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../../../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their [speed](../../../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../level-1/triggered-action.md) to switch places with a duplicate within their [line of effect](../../../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../../../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../../../rule/combat/turn.md), the target can move each duplicate up to their [speed](../../../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../level-1/triggered-action.md) to switch places with a duplicate within their [line of effect](../../../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ## Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.conduit.level-7/word-of-death-deferred"}
 

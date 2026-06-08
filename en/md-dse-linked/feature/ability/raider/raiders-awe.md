@@ -1,7 +1,7 @@
 ---
 action_type: Main action
-distance: Melee 1 or ranged 10
-effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next turn.
+distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
+effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next [turn](../../../rule/combat/turn.md).
 feature_type: ability
 file_basename: raiders-awe
 file_dpath: feature/ability/raider
@@ -9,8 +9,8 @@ flavor: You execute a brutal strike that leaves your foe reeling. (Previously kn
 item_id: raiders-awe
 item_name: Raider's Awe
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../rule/combat/melee.md)'
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: raider
@@ -23,24 +23,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1 or ranged 10
+distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next turn.
+    - effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next [turn](../../../rule/combat/turn.md).
 feature_type: ability
 flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../tactician/level-7/shock-and-awe.md)")
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../rule/combat/melee.md)'
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1 or ranged 10
-    effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next turn.
+    distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
+    effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next [turn](../../../rule/combat/turn.md).
     flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../tactician/level-7/shock-and-awe.md)")
     keywords:
-        - Melee
-        - Ranged
+        - '[Melee](../../../rule/combat/melee.md)'
+        - '[Ranged](../../../rule/combat/ranged.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: raider

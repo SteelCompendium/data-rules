@@ -6,7 +6,7 @@ flavor: You channel power through your weapon to repel foes.
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "1"
 name: Back Blasphemer!
@@ -19,7 +19,7 @@ type: ability
 
 *You channel power through your weapon to repel foes.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 2 [cube](../../../../rule/combat/cube.md) within 1**         | **🎯 Each enemy in the area** |
 

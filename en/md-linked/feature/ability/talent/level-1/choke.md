@@ -2,12 +2,12 @@
 action_type: Main action
 class: talent
 cost: 3 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
 flavor: You crush a foe in a telekinetic grip.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Strike
     - Telekinesis
 level: "1"
@@ -20,9 +20,9 @@ type: ability
 
 *You crush a foe in a telekinetic grip.*
 
-| **Psionic, Ranged**, **Strike, Telekinesis** |     **Main action** |
+| **Psionic, [Ranged](../../../../rule/combat/ranged.md)**, **Strike, Telekinesis** |     **Main action** |
 |----------------------------------------------|--------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                             | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

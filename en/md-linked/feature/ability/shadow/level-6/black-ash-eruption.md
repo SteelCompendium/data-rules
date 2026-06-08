@@ -2,12 +2,12 @@
 action_type: Main action
 class: shadow
 cost: 9 Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: A creature [force moved](../../../../movement/forced-movement.md) by this ability must be moved straight upward.
 flavor: Your attack produces a cloud of black ash that launches an enemy into the air.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -20,9 +20,9 @@ type: ability
 
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
 
-| **Magic, Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

@@ -5,7 +5,7 @@ cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
 distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-effect: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), then gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the start of each combat round until the end of the encounter.
+effect: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), then gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the start of each [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round) until the end of the encounter.
 feature_type: ability
 file_basename: legendary-drum-fill
 file_dpath: feature/ability/troubadour/level-6
@@ -27,7 +27,7 @@ type: ability
 cost: 9 Drama
 distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), then gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the start of each combat round until the end of the encounter.
+    - effect: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), then gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the start of each [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round) until the end of the encounter.
 feature_type: ability
 flavor: You start a drumroll that roars like thunder with every impact the heroes make.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: troubadour
     cost: 9 Drama
     distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-    effect: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), then gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the start of each combat round until the end of the encounter.
+    effect: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), then gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the start of each [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round) until the end of the encounter.
     flavor: You start a drumroll that roars like thunder with every impact the heroes make.
     keywords:
         - Area

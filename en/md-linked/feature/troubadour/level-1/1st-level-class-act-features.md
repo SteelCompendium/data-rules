@@ -29,7 +29,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one [test](../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../../../rule/combat/turn.md) in the area can automatically obtain a tier 3 outcome on one [test](../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their [turn](../../../rule/combat/turn.md).
 
 ## Blocking {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/blocking"}
 
@@ -44,7 +44,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|---------------------------------:|
 | **📏 2 [aura](../../../rule/combat/aura.md)**                | **🎯 Each creature in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../rule/character/presence.md) score and [teleport](../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../rule/health/dying.md), or result in them suffering a condition or other negative effect.
+**Effect:** At the end of each of your [turns](../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../rule/character/presence.md) score and [teleport](../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../rule/health/dying.md), or result in them suffering a [condition](../../../rule/combat/condition.md) or other negative effect.
 
 ## Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/dramatic-monologue"}
 
@@ -55,15 +55,15 @@ You have the following ability.
 
 *It doesn't need to make sense. Just say it with emotion.*
 
-| **Magic, Ranged** |   **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |   **Maneuver** |
 |-------------------|---------------:|
-| **📏 Ranged 10**  | **🎯 Special** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 Special** |
 
 **Effect:** Choose one of the following effects:
 
-- You orate a rousing tale of [victory](../../../rule/resource/victories.md). One ally within [distance](../../../rule/combat/distance.md) gains an [edge](../../../rule/dice/edge.md) on the next [power roll](../../../rule/dice/power-roll.md) they make before the start of your next turn.
+- You orate a rousing tale of [victory](../../../rule/resource/victories.md). One ally within [distance](../../../rule/combat/distance.md) gains an [edge](../../../rule/dice/edge.md) on the next [power roll](../../../rule/dice/power-roll.md) they make before the start of your next [turn](../../../rule/combat/turn.md).
 - You weave a tale of high-stakes heroics. One ally within [distance](../../../rule/combat/distance.md) gains 1 [surge](../../../rule/resource/surge.md).
-- You insult a foe where they're most vulnerable. One enemy within [distance](../../../rule/combat/distance.md) takes a [bane](../../../rule/dice/bane.md) on the next [power roll](../../../rule/dice/power-roll.md) they make before the end of their next turn.
+- You insult a foe where they're most vulnerable. One enemy within [distance](../../../rule/combat/distance.md) takes a [bane](../../../rule/dice/bane.md) on the next [power roll](../../../rule/dice/power-roll.md) they make before the end of their next [turn](../../../rule/combat/turn.md).
 
 **Spend 1 Drama:** You can choose two targets for the chosen effect.
 
@@ -99,9 +99,9 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain a +2 bonus to [speed](../../../rule/character/speed.md) until the end of your turn. Additionally, the next [power roll](../../../rule/dice/power-roll.md) you make this turn can't have an outcome lower than tier 2.
+**Effect:** You gain a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of your [turn](../../../rule/combat/turn.md). Additionally, the next [power roll](../../../rule/dice/power-roll.md) you make this [turn](../../../rule/combat/turn.md) can't have an outcome lower than tier 2.
 
-**Spend 1 Drama:** You gain a +4 bonus to [speed](../../../rule/character/speed.md) instead.
+**Spend 1 Drama:** You gain a +4 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) instead.
 
 ## Virtuoso Performances {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/virtuoso-performances"}
 
@@ -112,11 +112,11 @@ You have the following performance abilities, which are usable with your [Routin
 
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
-| **Magic, Performance, Ranged, [Strike](../../../rule/combat/strike.md)** |       **No action** |
+| **Magic, Performance, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |       **No action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
-**Effect:** At the end of each combat round while this performance is active, you can make a [power roll](../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
+**Effect:** At the end of each [combat round](../../../rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -133,4 +133,4 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 [surge](../../../rule/resource/surge.md).
+**Effect:** While this performance is active, each target who starts their [turn](../../../rule/combat/turn.md) in the area gains 1 [surge](../../../rule/resource/surge.md).

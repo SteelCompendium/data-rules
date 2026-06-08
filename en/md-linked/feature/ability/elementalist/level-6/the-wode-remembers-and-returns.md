@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 9 Essence
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../../rule/combat/cover.md).
+effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../../../../rule/combat/turn.md). The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../../../../rule/combat/turn.md) in the area has [cover](../../../../rule/combat/cover.md).
 flavor: You create a terrarium that spans from canopy above to underbrush below.
 keywords:
     - Area
@@ -25,6 +25,6 @@ type: ability
 |-------------------------------------|----------------:|
 | **📏 4 [burst](../../../../rule/combat/burst.md)**                      |  **🎯 Special** |
 
-**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../../rule/combat/cover.md).
+**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../../../../rule/combat/turn.md). The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../../../../rule/combat/turn.md) in the area has [cover](../../../../rule/combat/cover.md).
 
-**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).
+**Persistent 2:** The area remains until the start of your next [turn](../../../../rule/combat/turn.md). Additionally, at the start of your [turn](../../../../rule/combat/turn.md), each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).

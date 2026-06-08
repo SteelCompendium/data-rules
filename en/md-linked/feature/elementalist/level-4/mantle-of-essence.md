@@ -19,15 +19,15 @@ While you have 3 or more essence and are not [dying](../../../rule/health/dying.
 
 ## Burning Grounds {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/burning-grounds"}
 
-At the end of each of your turns, each enemy in the area takes fire damage equal to your [Reason](../../../rule/character/reason.md) score.
+At the end of each of your [turns](../../../rule/combat/turn.md), each enemy in the area takes fire damage equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Flowering Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/flowering-bed"}
 
-At the end of each of your turns, each ally in the area gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your [Reason](../../../rule/character/reason.md) score.
+At the end of each of your [turns](../../../rule/combat/turn.md), each ally in the area gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
-At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
+At the end of each of your [turns](../../../rule/combat/turn.md), you can push each enemy in the area up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 

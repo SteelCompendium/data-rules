@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety.
+    - effect: When you roll for piety at the start of your [turn](scc:mcdm.heroes.v1/rule.combat/turn) in combat and you pray, you gain 1 additional piety.
 feature_type: feature
 metadata:
     class: conduit

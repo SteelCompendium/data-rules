@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3.
+    - effect: When you gain discipline at the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn) during combat, you gain 4 discipline instead of 3.
 feature_type: feature
 metadata:
     class: "null"

@@ -2,10 +2,10 @@
 action_type: Main action
 class: shadow
 cost: 7 Insight
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 flavor: One missile—placed well and placed hard.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "3"
@@ -18,9 +18,9 @@ type: ability
 
 *One missile—placed well and placed hard.*
 
-| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

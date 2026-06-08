@@ -10,11 +10,11 @@ During battles, you are fueled by the dynamic ups, downs, and upside downs of th
 
 ## Drama in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 drama.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../../rule/combat/combat-round.md) (as determined by the Director), you gain drama equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 1d3 drama.
 
 Additionally, you gain drama when certain events occur during a combat encounter:
 
-- The first time three or more heroes use an ability on the same turn, you gain 2 drama.
+- The first time three or more heroes use an ability on the same [turn](../../../rule/combat/turn.md), you gain 2 drama.
 - The first time any hero is made [winded](../../../rule/health/winded.md) during the encounter, you gain 2 drama.
 - Whenever a creature within your [line of effect](../../../rule/combat/line-of-effect.md) rolls a [natural 19 or 20](../../../rule/dice/natural-19-20.md), you gain 3 drama.
 - When you or another hero dies, you gain 10 drama.

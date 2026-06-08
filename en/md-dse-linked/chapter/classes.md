@@ -14,17 +14,17 @@ While all your character creation decisions bear narrative weight, none influenc
 
 Your class provides you with many of your features, most of your abilities—your most potent combat moves and noncombat options and a [Heroic Resource](../rule/resource/heroic-resource.md) that fuels many of those abilities. This book presents nine classes to choose from.
 
-**[Censor](../class/censor.md):** A [censor](../class/censor.md) is a trained warrior devoted to a saint or god. They hunt down the forces of evil using melee weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
+**[Censor](../class/censor.md):** A [censor](../class/censor.md) is a trained warrior devoted to a [saint](../rule/world/saint.md) or god. They hunt down the forces of evil using [melee](../rule/combat/melee.md) weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
 
-**[Conduit](../class/conduit.md):** A [conduit](../class/conduit.md) is the devoted priest of a saint or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are [renown](../rule/resource/renown.md)ed for their healing abilities.
+**[Conduit](../class/conduit.md):** A [conduit](../class/conduit.md) is the devoted priest of a [saint](../rule/world/saint.md) or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are [renown](../rule/resource/renown.md)ed for their healing abilities.
 
 **[Elementalist](../class/elementalist.md):** An [elementalist](../class/elementalist.md) studies the elemental forces of the timescape and controls earth, fire, the void, and more with magic. Many of their abilities cover wide areas of the battlefield, and they have a versatile array of tricks that allow them to both control combat and manipulate the environment around them when the fight is done.
 
 **[Fury](../class/fury.md):** Coursing with the ferocity of the Primordial Chaos in their veins, a [fury](../class/fury.md) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](../class/fury.md) lives.
 
-**[Null](../class/null.md):** Disciplined and calm, the [null](../class/null.md) is an unarmed warrior who manifests an [aura](../rule/combat/aura.md) that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
+**[Null](../class/null.md):** Disciplined and calm, the [null](../class/null.md) is an unarmed warrior who manifests an [aura](../rule/combat/aura.md) that quells the [supernatural](../rule/general/supernatural.md) and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
 
-**[Shadow](../class/shadow.md):** Stalking from the darkness, the [shadow](../class/shadow.md) is an expert assassin and thief who fights equally well in melee and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
+**[Shadow](../class/shadow.md):** Stalking from the darkness, the [shadow](../class/shadow.md) is an expert assassin and thief who fights equally well in [melee](../rule/combat/melee.md) and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
 
 **[Tactician](../class/tactician.md):** A brilliant strategist and weapons master, the [tactician](../class/tactician.md) excels at granting allies more movement and actions on the battlefield. They also support allies outside of combat, always inspiring their friends to greatness.
 
@@ -40,7 +40,7 @@ Abilities are presented in a special format that first describes the ability, th
 
 > **Abilities in Combat**
 >
-> All the abilities appearing in this book are used as a main action, a maneuver, a [triggered action](../rule/combat/triggered-action.md), or some other part of your turn. As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as combat rounds. If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
+> All the abilities appearing in this book are used as a main action, a maneuver, a [triggered action](../rule/combat/triggered-action.md), or some other part of your [turn](../rule/combat/turn.md). As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as [combat rounds](../rule/combat/combat-round.md). If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
 
 #### Name and Story Text
 
@@ -66,7 +66,7 @@ The nine [Heroic Resources](../rule/resource/heroic-resource.md) in the game are
 
 #### Type
 
-Each ability notes the type of activity required to use it, on the right side of the first line beneath the flavor text. Most abilities require you to use a main action, a maneuver, a move action, a [triggered action](../rule/combat/triggered-action.md), a [free maneuver](../rule/combat/free-maneuver.md), or a free [triggered action](../rule/combat/triggered-action.md) (with all those terms explained in Taking a Turn in Chapter 10: [Combat](combat.md)). For instance, if you use an ability that has "Main Action" as its type entry, you must use your main action to activate the ability.
+Each ability notes the type of activity required to use it, on the right side of the first line beneath the flavor text. Most abilities require you to use a main action, a maneuver, a move action, a [triggered action](../rule/combat/triggered-action.md), a [free maneuver](../rule/combat/free-maneuver.md), or a free [triggered action](../rule/combat/triggered-action.md) (with all those terms explained in Taking a [Turn](../rule/combat/turn.md) in Chapter 10: [Combat](combat.md)). For instance, if you use an ability that has "Main Action" as its type entry, you must use your main action to activate the ability.
 
 ##### Trigger
 
@@ -96,15 +96,15 @@ Some abilities have a "Spend X [Heroic Resource]" entry in the body of the abili
 
 #### Stacking Unique Effects
 
-The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest bonus—from each use of the ability applies. The most recently used ability applies for determining duration.
+The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest [bonus](../rule/dice/bonuses-and-penalties.md)—from each use of the ability applies. The most recently used ability applies for determining duration.
 
 For example, the [null's](../class/null.md) [Null Field](../feature/null/level-1/null-field.md) ability reduces the [potencies](../rule/character/potency.md) of enemies within the field by 1. If two allied [nulls](../class/null.md) each have their [Null Field](../feature/null/level-1/null-field.md) ability active and an enemy cultist is targeted by both abilities, that cultist's [potencies](../rule/character/potency.md) are reduced by 1, not by 2.
 
-Different effects that impose the same condition (see Conditions below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../condition/weakened.md) (imposing a [bane](../rule/dice/bane.md) on the target's [power rolls](../rule/dice/power-roll.md)), the target isn't [weakened](../condition/weakened.md) twice to impose a double [bane](../rule/dice/bane.md) on those rolls. A character who is [grabbed](../condition/grabbed.md) by an enemy can't be [grabbed](../condition/grabbed.md) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their [recovery value](../rule/health/recoveries.md), the hero's [recovery value](../rule/health/recoveries.md) is halved only once.
+Different effects that impose the same [condition](../rule/combat/condition.md) (see [Conditions](../rule/combat/condition.md) below) don't stack to impose the [condition](../rule/combat/condition.md) twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../condition/weakened.md) (imposing a [bane](../rule/dice/bane.md) on the target's [power rolls](../rule/dice/power-roll.md)), the target isn't [weakened](../condition/weakened.md) twice to impose a double [bane](../rule/dice/bane.md) on those rolls. A character who is [grabbed](../condition/grabbed.md) by an enemy can't be [grabbed](../condition/grabbed.md) again by another enemy. The same holds true for game effects that aren't [conditions](../rule/combat/condition.md). For example, if a hero is targeted by multiple abilities or effects that can halve their [recovery value](../rule/health/recoveries.md), the hero's [recovery value](../rule/health/recoveries.md) is halved only once.
 
 #### Ending Effects
 
-When a creature suffers a lasting effect, whatever ability, feature, hazard, or other mechanic imposed the effect specifies how long the effect lasts. Unless otherwise noted, all effects and conditions that are imposed on heroes during a combat encounter end when the encounter is over if the hero wants them to, except for being [winded](../rule/health/winded.md), unconscious, or [dying](../rule/health/dying.md). After combat, effects and conditions imposed on other creatures end when it's convenient for the heroes, allowing characters to easily bind or slip away from unconscious foes. However, the Director is free to decide that an unconscious dragon doesn't stay that way long enough to be tied up.
+When a creature suffers a lasting effect, whatever ability, feature, hazard, or other mechanic imposed the effect specifies how long the effect lasts. Unless otherwise noted, all effects and [conditions](../rule/combat/condition.md) that are imposed on heroes during a combat encounter end when the encounter is over if the hero wants them to, except for being [winded](../rule/health/winded.md), unconscious, or [dying](../rule/health/dying.md). After combat, effects and [conditions](../rule/combat/condition.md) imposed on other creatures end when it's convenient for the heroes, allowing characters to easily bind or slip away from unconscious foes. However, the Director is free to decide that an unconscious dragon doesn't stay that way long enough to be tied up.
 
 ##### End of Encounter
 

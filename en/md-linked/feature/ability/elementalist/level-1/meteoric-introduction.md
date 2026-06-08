@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 flavor: You give your enemy a gentle tap-like an asteroid impact.
 keywords:
     - Earth
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Meteoric Introduction
@@ -19,9 +19,9 @@ type: ability
 
 *You give your enemy a gentle tap-like an asteroid impact.*
 
-| **Earth, Magic, Melee, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
+| **Earth, Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Melee 1**                  | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                  | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

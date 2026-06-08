@@ -17,11 +17,11 @@ Choose one of the following abilities.
 
 *You tumble through the battle, stabbing foes and [teleporting](../../../movement/teleport.md) allies.*
 
-| **Magic, Melee, Weapon** | **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), Weapon** | **Main action** |
 |--------------------------|----------------:|
 | **📏 Self; see below**   |     **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to twice your [speed](../../../rule/character/speed.md), making one [power roll](../../../rule/dice/power-roll.md) that targets each creature you come adjacent to during the [shift](../../../movement/shifting.md).
+**Effect:** You [shift](../../../movement/shifting.md) up to twice your [speed](../../../rule/character/speed.md), making one [power roll](../../../rule/dice/power-roll.md) that targets each creature you come [adjacent](../../../rule/combat/adjacent.md) to during the [shift](../../../movement/shifting.md).
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -34,9 +34,9 @@ Choose one of the following abilities.
 
 *You create a temporary portal to allow a massive demonic hand to reach through.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 3**                   | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 3**                   | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -55,9 +55,9 @@ Choose one of the following abilities.
 
 *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
 
-| **Ranged**       |               **Main action** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |               **Main action** |
 |------------------|------------------------------:|
-| **📏 Ranged 10** | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 One creature or object** |
 
 **Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
 
@@ -72,9 +72,9 @@ Choose one of the following abilities.
 
 *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md)**   |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**   |               **Main action** |
 |-----------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10** | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -93,20 +93,20 @@ Choose one of the following abilities.
 
 *Your mask reflects your foe's face. Surely they won't need it much longer.*
 
-| **Magic, Ranged** |            **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |            **Maneuver** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  |     **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  |     **🎯 One creature** |
 
-**Effect:** Until the end of the encounter, you gain the target's damage immunities and [speed](../../../rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../../../rule/combat/signature-ability.md), using their bonus for the [power roll](../../../rule/dice/power-roll.md).
+**Effect:** Until the end of the encounter, you gain the target's damage immunities and [speed](../../../rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../../../rule/combat/signature-ability.md), using their [bonus](../../../rule/dice/bonuses-and-penalties.md) for the [power roll](../../../rule/dice/power-roll.md).
 
 ### It Was Me All Along {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along"}
 
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 

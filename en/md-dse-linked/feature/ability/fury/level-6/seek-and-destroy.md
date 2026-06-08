@@ -4,7 +4,7 @@ class: fury
 cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
 feature_type: ability
 file_basename: seek-and-destroy
@@ -13,7 +13,7 @@ flavor: You break through the enemy lines to make an example.
 item_id: seek-and-destroy
 item_name: Seek and Destroy
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
 feature_type: ability
 flavor: You break through the enemy lines to make an example.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 9 Ferocity
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
     flavor: You break through the enemy lines to make an example.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "6"

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have the following ability, which you can use once on your turn.
+    - effect: You have the following ability, which you can use once on your [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: feature
 metadata:
     class: conduit

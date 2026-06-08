@@ -5,7 +5,7 @@ cost: 3 Discipline
 cost_amount: "3"
 cost_resource: Discipline
 distance: 2 [burst](../../../../rule/combat/burst.md)
-effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next turn, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
+effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next [turn](../../../../rule/combat/turn.md), the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current [turn](../../../../rule/combat/turn.md), each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
 feature_type: ability
 file_basename: psychic-pulse
 file_dpath: feature/ability/null/level-1
@@ -27,7 +27,7 @@ type: ability
 cost: 3 Discipline
 distance: 2 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next turn, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
+    - effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next [turn](../../../../rule/combat/turn.md), the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current [turn](../../../../rule/combat/turn.md), each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
 feature_type: ability
 flavor: A burst of psionic energy interferes with your enemy's synapses.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: "null"
     cost: 3 Discipline
     distance: 2 [burst](../../../../rule/combat/burst.md)
-    effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next turn, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
+    effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next [turn](../../../../rule/combat/turn.md), the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current [turn](../../../../rule/combat/turn.md), each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
     flavor: A burst of psionic energy interferes with your enemy's synapses.
     keywords:
         - Area

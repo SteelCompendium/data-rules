@@ -5,7 +5,7 @@ cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
 distance: Self; see below
-effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your [speed](scc:mcdm.heroes.v1/rule.character/speed), making one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
+effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your [speed](scc:mcdm.heroes.v1/rule.character/speed), making one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature you come [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
 feature_type: ability
 file_basename: cacophony-of-cinders
 file_dpath: feature/ability/shadow/level-9
@@ -14,7 +14,7 @@ item_id: cacophony-of-cinders
 item_name: Cacophony of Cinders
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 level: "9"
 name: Cacophony of Cinders
@@ -28,23 +28,23 @@ type: ability
 cost: 11 Insight
 distance: Self; see below
 effects:
-    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your [speed](scc:mcdm.heroes.v1/rule.character/speed), making one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
+    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your [speed](scc:mcdm.heroes.v1/rule.character/speed), making one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature you come [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
 feature_type: ability
 flavor: You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 11 Insight
     distance: Self; see below
-    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your [speed](scc:mcdm.heroes.v1/rule.character/speed), making one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature you come adjacent to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
+    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to twice your [speed](scc:mcdm.heroes.v1/rule.character/speed), making one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature you come [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the [shift](scc:mcdm.heroes.v1/movement/shifting).
     flavor: You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1/movement/teleport) allies.
     keywords:
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: "9"
     name: Cacophony of Cinders

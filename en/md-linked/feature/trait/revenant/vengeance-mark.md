@@ -15,9 +15,9 @@ Additionally, you have the following [signature ability](../../../rule/combat/si
 
 *A magic sigil you placed on a creature explodes with energy.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |                        **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |                        **Main action** |
 |---------------------------|---------------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature bearing your sigil** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 

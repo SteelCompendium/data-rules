@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The first time each combat round that you deal damage incorporating 1 or more [surges](../../../rule/resource/surge.md), you gain 3 insight instead of 2.
+    - effect: The first time each [combat round](../../../rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../../../rule/resource/surge.md), you gain 3 insight instead of 2.
 feature_type: feature
 metadata:
     class: shadow

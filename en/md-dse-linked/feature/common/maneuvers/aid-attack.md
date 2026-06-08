@@ -13,7 +13,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: A creature who uses the [Aid Attack](aid-attack.md) maneuver chooses an enemy adjacent to them. The next [ability roll](../../../rule/dice/ability-roll.md) an ally makes against that enemy before the start of the aiding creature's next turn gains an [edge](../../../rule/dice/edge.md).
+    - effect: A creature who uses the [Aid Attack](aid-attack.md) maneuver chooses an enemy [adjacent](../../../rule/combat/adjacent.md) to them. The next [ability roll](../../../rule/dice/ability-roll.md) an ally makes against that enemy before the start of the aiding creature's next [turn](../../../rule/combat/turn.md) gains an [edge](../../../rule/dice/edge.md).
 feature_type: feature
 metadata:
     name: Aid Attack

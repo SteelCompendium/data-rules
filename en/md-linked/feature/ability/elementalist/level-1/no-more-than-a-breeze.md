@@ -2,12 +2,12 @@
 action_type: Maneuver
 class: elementalist
 cost: 5 Essence
-distance: Ranged 10
-effect: Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../../../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md). If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: Until the start of your next [turn](../../../../rule/combat/turn.md), the target can move through solid matter, they ignore [difficult terrain](../../../../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md). If the target ends their [turn](../../../../rule/combat/turn.md) inside solid matter, they are forced out into the space where they entered it and this effect ends.
 flavor: The material substance of a creature shreds away at your command.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Void
 level: "1"
 name: No More Than a Breeze
@@ -19,10 +19,10 @@ type: ability
 
 *The material substance of a creature shreds away at your command.*
 
-| **Magic, Ranged, Void** |            **Maneuver** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |            **Maneuver** |
 |-------------------------|------------------------:|
-| **📏 Ranged 10**        | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**        | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../../../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md). If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+**Effect:** Until the start of your next [turn](../../../../rule/combat/turn.md), the target can move through solid matter, they ignore [difficult terrain](../../../../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md). If the target ends their [turn](../../../../rule/combat/turn.md) inside solid matter, they are forced out into the space where they entered it and this effect ends.
 
-**Persistent 1:** The effect lasts until the start of your next turn.
+**Persistent 1:** The effect lasts until the start of your next [turn](../../../../rule/combat/turn.md).

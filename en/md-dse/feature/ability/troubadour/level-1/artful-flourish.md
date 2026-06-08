@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: troubadour
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
 feature_type: ability
 file_basename: artful-flourish
@@ -10,7 +10,7 @@ flavor: And they said practicing fencing was a waste!
 item_id: artful-flourish
 item_name: Artful Flourish
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
@@ -24,7 +24,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
     - effect: '2+ Drama: You can target one additional creature or object for every 2 drama spent.'
@@ -32,17 +32,17 @@ effects:
 feature_type: ability
 flavor: And they said practicing fencing was a waste!
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: troubadour
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
     flavor: And they said practicing fencing was a waste!
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"

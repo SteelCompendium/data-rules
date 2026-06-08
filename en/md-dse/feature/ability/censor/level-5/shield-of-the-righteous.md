@@ -4,7 +4,7 @@ class: censor
 cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 feature_type: ability
 file_basename: shield-of-the-righteous
 file_dpath: feature/ability/censor/level-5
@@ -12,7 +12,7 @@ flavor: You strike a foe and create a fleet of divine shields that protect your 
 item_id: shield-of-the-righteous
 item_name: Shield of the Righteous
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "5"
@@ -25,23 +25,23 @@ type: ability
 
 ```ds-feature
 cost: 9 Wrath
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: "\n*You strike a foe and create a fleet of divine shields that protect your allies.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |          **Main action** |\n|---------------------------|-------------------------:|\n| **\U0001F4CF Melee 1**            |      **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)\n- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)\n- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)"
+    - effect: "\n*You strike a foe and create a fleet of divine shields that protect your allies.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |          **Main action** |\n|---------------------------|-------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            |      **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 10 + M damage; you and each ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)\n- **12-16:** 14 + M damage; you and each ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you gain 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)\n- **17+:** 20 + M damage; you and each ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)"
 feature_type: ability
 flavor: You strike a foe and create a fleet of divine shields that protect your allies.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
     cost: 9 Wrath
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     flavor: You strike a foe and create a fleet of divine shields that protect your allies.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "5"

@@ -4,7 +4,7 @@ class: "null"
 cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
-distance: Melee 3
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
 feature_type: ability
 file_basename: gravitic-strike
 file_dpath: feature/ability/null/level-2
@@ -12,7 +12,7 @@ flavor: Your fist emanates gravitic force that pulls a distant enemy closer.
 item_id: gravitic-strike
 item_name: Gravitic Strike
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -26,13 +26,13 @@ type: ability
 
 ```ds-feature
 cost: 5 Discipline
-distance: Melee 3
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
 effects:
-    - effect: "\n*Your fist emanates gravitic force that pulls a distant enemy closer.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 3**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 8 + A psychic damage; vertical pull 3\n- **12-16:** 12 + A psychic damage; vertical pull 5\n- **17+:** 16 + A psychic damage; vertical pull 7"
+    - effect: "\n*Your fist emanates gravitic force that pulls a distant enemy closer.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 8 + A psychic damage; vertical pull 3\n- **12-16:** 12 + A psychic damage; vertical pull 5\n- **17+:** 16 + A psychic damage; vertical pull 7"
 feature_type: ability
 flavor: Your fist emanates gravitic force that pulls a distant enemy closer.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -40,10 +40,10 @@ metadata:
     action_type: Main action
     class: "null"
     cost: 5 Discipline
-    distance: Melee 3
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
     flavor: Your fist emanates gravitic force that pulls a distant enemy closer.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon

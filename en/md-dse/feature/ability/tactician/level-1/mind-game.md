@@ -4,7 +4,7 @@ class: tactician
 cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
-distance: Melee 1 or ranged 5
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effect: You mark the target.
 feature_type: ability
 file_basename: mind-game
@@ -13,8 +13,8 @@ flavor: Your attack demoralizes your foe. Your allies begin to think you can win
 item_id: mind-game
 item_name: Mind Game
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 5 Focus
-distance: Melee 1 or ranged 5
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
     - effect: You mark the target.
 feature_type: ability
 flavor: Your attack demoralizes your foe. Your allies begin to think you can win.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: tactician
     cost: 5 Focus
-    distance: Melee 1 or ranged 5
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
     effect: You mark the target.
     flavor: Your attack demoralizes your foe. Your allies begin to think you can win.
     keywords:
-        - Melee
-        - Ranged
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"

@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: A jet of heavy fire erupts where you strike.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Viscous Fire
@@ -19,9 +19,9 @@ type: ability
 
 *A jet of heavy fire erupts where you strike.*
 
-| **Fire, Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |               **Main action** | 
+| **Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

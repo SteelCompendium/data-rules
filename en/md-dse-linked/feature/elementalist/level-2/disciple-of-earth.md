@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to [Stamina](../../../rule/health/stamina.md), and you gain an additional +3 bonus to [Stamina](../../../rule/health/stamina.md) whenever you gain a level past 2nd.
+    - effect: Your body is strengthened by your mind's connection to the element of permanence. You have a +6 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md), and you gain an additional +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) whenever you gain a level past 2nd.
 feature_type: feature
 metadata:
     class: elementalist

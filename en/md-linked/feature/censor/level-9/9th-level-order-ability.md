@@ -17,9 +17,9 @@ Choose one of the following abilities.
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**             | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -34,9 +34,9 @@ Choose one of the following abilities.
 
 *"I know what you fear."*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -55,9 +55,9 @@ Choose one of the following abilities.
 
 *The gods bless and damn in equal measure.*
 
-| **Magic, Ranged**  |       **Triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |       **Triggered** |
 |--------------------|--------------------:|
-| **📏 Ranged 10**   | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 One creature** |
 
 **Trigger:** The target makes a [power roll](../../../rule/dice/power-roll.md).
 
@@ -68,13 +68,13 @@ Choose one of the following abilities.
 
 *You have looked at various futures, and only this one works.*
 
-| **Magic, Ranged**  |   **Triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |   **Triggered** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   | **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 One ally** |
 
-**Trigger:** You or another hero ends their turn.
+**Trigger:** You or another hero ends their [turn](../../../rule/combat/turn.md).
 
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../../rule/dice/edge.md) on [power rolls](../../../rule/dice/power-roll.md).
+**Effect:** The target takes their [turn](../../../rule/combat/turn.md) after the triggering hero, and immediately removes all [conditions](../../../rule/combat/condition.md) and negative effects on themself. During their [turn](../../../rule/combat/turn.md), the target has a double [edge](../../../rule/dice/edge.md) on [power rolls](../../../rule/dice/power-roll.md).
 
 ## 9th-Level Paragon Abilities
 
@@ -85,9 +85,9 @@ Choose one of the following abilities.
 
 *You channel holy energy to seal an enemy's fate.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -106,4 +106,4 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 2 [aura](../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each target who starts their turn in the area gains 10 [temporary Stamina](../../../rule/health/temporary-stamina.md).
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each target who starts their [turn](../../../rule/combat/turn.md) in the area gains 10 [temporary Stamina](../../../rule/health/temporary-stamina.md).

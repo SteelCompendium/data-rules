@@ -14,7 +14,7 @@ item_name: Solar Flare
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "9"
 name: Solar Flare
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare
@@ -27,13 +27,13 @@ type: ability
 cost: 11 Piety
 distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
-    - effect: "\n*You call down a sphere of fire that burns your foes to ash.*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10** | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 9 fire damage\n- **12-16:** 14 fire damage\n- **17+:** 19 fire damage"
+    - effect: "\n*You call down a sphere of fire that burns your foes to ash.*\n\n| **Area, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10** | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 9 fire damage\n- **12-16:** 14 fire damage\n- **17+:** 19 fire damage"
 feature_type: ability
 flavor: You call down a sphere of fire that burns your foes to ash.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: conduit
@@ -43,7 +43,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "9"
     name: Solar Flare
     scc: mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare

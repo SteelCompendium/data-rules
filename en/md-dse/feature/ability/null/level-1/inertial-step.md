@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your [speed](scc:mcdm.heroes.v1/rule.character/speed) before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike).
 feature_type: ability
 file_basename: inertial-step
@@ -10,7 +10,7 @@ flavor: You flit about the battlefield and take an opportunistic strike.
 item_id: inertial-step
 item_name: Inertial Step
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -24,24 +24,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your [speed](scc:mcdm.heroes.v1/rule.character/speed) before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike).
 feature_type: ability
 flavor: You flit about the battlefield and take an opportunistic strike.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: "null"
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your [speed](scc:mcdm.heroes.v1/rule.character/speed) before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike).
     flavor: You flit about the battlefield and take an opportunistic strike.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon

@@ -10,7 +10,7 @@ item_id: wing-buffet
 item_name: Wing Buffet
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - Weapon
 kit: corven
 name: Wing Buffet
@@ -29,7 +29,7 @@ feature_type: ability
 flavor: Foes who try to close in around you do so at their peril.
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -38,7 +38,7 @@ metadata:
     flavor: Foes who try to close in around you do so at their peril.
     keywords:
         - Area
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - Weapon
     kit: corven
     name: Wing Buffet

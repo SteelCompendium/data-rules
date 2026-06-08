@@ -2,11 +2,11 @@
 action_type: Main action
 class: censor
 cost: 3 Wrath
-distance: Melee 1
-effect: Until the start of your next turn, enemies take a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made against you or any ally adjacent to you.
-flavor: A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: Until the start of your next [turn](../../../../rule/combat/turn.md), enemies take a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made against you or any ally [adjacent](../../../../rule/combat/adjacent.md) to you.
+flavor: A mighty blow [turns](../../../../rule/combat/turn.md) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -17,11 +17,11 @@ type: ability
 ---
 
 
-*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
+*A mighty blow [turns](../../../../rule/combat/turn.md) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 6 + M holy damage
 - **17+:** 9 + M holy damage
 
-**Effect:** Until the start of your next turn, enemies take a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made against you or any ally adjacent to you.
+**Effect:** Until the start of your next [turn](../../../../rule/combat/turn.md), enemies take a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made against you or any ally [adjacent](../../../../rule/combat/adjacent.md) to you.

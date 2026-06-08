@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 feature_type: ability
 file_basename: shield-bash
 file_dpath: feature/ability/sword-and-board
@@ -8,7 +8,7 @@ flavor: In your hands, a shield isn't just for protection.
 item_id: shield-bash
 item_name: Shield Bash
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: sword-and-board
@@ -21,21 +21,21 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "*In your hands, a shield isn't just for protection.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; push 1\n- **12-16:** 7 + M or A damage; push 2\n- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](../../../condition/prone.md)"
+    - effect: "*In your hands, a shield isn't just for protection.*\n\n| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; push 1\n- **12-16:** 7 + M or A damage; push 2\n- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](../../../condition/prone.md)"
 feature_type: ability
 flavor: In your hands, a shield isn't just for protection.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
     flavor: In your hands, a shield isn't just for protection.
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: sword-and-board

@@ -13,9 +13,9 @@ You have the following ability.
 
 *You step back a split second to see if things play out a little differently.*
 
-| **Psionic, Ranged** |               **Triggered** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |               **Triggered** |
 |---------------------|----------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
 
 **Trigger:** The target makes an [ability roll](../../../rule/dice/ability-roll.md).
 

@@ -17,9 +17,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
 
-| **Green, Magic, Ranged, Rot, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
+| **Green, Magic, [Ranged](../../../rule/combat/ranged.md), Rot, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -27,16 +27,16 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 4 + R corruption damage
 - **17+:** 6 + R corruption damage
 
-**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../rule/combat/turn.md).
 
 ### Bifurcated Incineration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration"}
 
 
 *Two jets of flame lance out at your command.*
 
-| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |                 **Main action** |
+| **Fire, Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |                 **Main action** |
 |---------------------------------|--------------------------------:|
-| **📏 Ranged 10**                | **🎯 Two creatures or objects** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -49,9 +49,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You absorb the life energy of another creature and use it to [teleport](../../../movement/teleport.md).*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Void** |     **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Void** |     **Main action** |
 |--------------------------------|--------------------:|
-| **📏 Melee 1**                 | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                 | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -66,9 +66,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
 
-| **Green, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |      **Main action** |
+| **Green, Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 |  **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -83,9 +83,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You give your enemy a gentle tap-like an asteroid impact.*
 
-| **Earth, Magic, Melee, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Earth, Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Melee 1**                  | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                  | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -98,9 +98,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You inflict pain and doubt in equal measure.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md), Void** |               **Main action** | 
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Void** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -113,7 +113,7 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
 
-| **Area, Earth, Magic, Ranged** |               **Main action** |
+| **Area, Earth, Magic, [Ranged](../../../rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 2 [cube](../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -130,9 +130,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *A jet of heavy fire erupts where you strike.*
 
-| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** | 
+| **Fire, Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -153,7 +153,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You open a rift into the void to harry your foes.*
 
-| **Area, Magic, Ranged, Void** |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md), Void** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 3 [cube](../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -163,16 +163,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 4 psychic damage
 - **17+:** 6 psychic damage
 
-**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 1:** At the start of your [turn](../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 ### The Flesh, a Crucible {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible"}
 
 
 *Fire engulfs your target and continues to churn.*
 
-| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Fire, Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -180,16 +180,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within [distance](../../../rule/combat/distance.md) at the start of your turn, you can make the [power roll](../../../rule/dice/power-roll.md) again without spending essence (no action required).
+**Persistent 1:** If the target is within [distance](../../../rule/combat/distance.md) at the start of your [turn](../../../rule/combat/turn.md), you can make the [power roll](../../../rule/dice/power-roll.md) again without spending essence (no action required).
 
 ### Invigorating Growth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth"}
 
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
-| **Green, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |      **Main action** |
+| **Green, Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 |  **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -197,7 +197,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 7 + R poison damage
 - **17+:** 11 + R poison damage
 
-**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](../../../rule/combat/adjacent.md) to the target gain 1 [surge](../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](../../../rule/combat/adjacent.md) creature as a main action.
 
 ### Ripples in the Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ripples-in-the-earth"}
 
@@ -225,7 +225,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *A storm of fire descends upon your enemies.*
 
-| **Area, Fire, Magic, Ranged** |               **Main action** |
+| **Area, Fire, Magic, [Ranged](../../../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 3 [cube](../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -235,16 +235,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your [turn](../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 ### Instantaneous Excavation {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/instantaneous-excavation"}
 
 
 *The surface of the world around you opens up to swallow foes.*
 
-| **Earth, Magic, Ranged** |    **Maneuver** |
+| **Earth, Magic, [Ranged](../../../rule/combat/ranged.md)** |    **Maneuver** |
 |--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**         |  **🎯 Special** |
 
 **Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate [power roll](../../../rule/dice/power-roll.md) for each creature on the ground above a hole and small enough to fall in. (You can't score a [critical hit](../../../rule/combat/critical-hit.md) with this ability because it uses a maneuver.)
 
@@ -254,27 +254,27 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** The target falls into the hole.
 - **17+:** The target falls into the hole and can't reduce the height of the fall.
 
-**Persistent 1:** At the start of your turn, you open another hole, making a [power roll](../../../rule/dice/power-roll.md) against each creature who could fall into the hole when it opens without spending essence.
+**Persistent 1:** At the start of your [turn](../../../rule/combat/turn.md), you open another hole, making a [power roll](../../../rule/dice/power-roll.md) against each creature who could fall into the hole when it opens without spending essence.
 
 ### No More Than a Breeze {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/no-more-than-a-breeze"}
 
 
 *The material substance of a creature shreds away at your command.*
 
-| **Magic, Ranged, Void** |            **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), Void** |            **Maneuver** |
 |-------------------------|------------------------:|
-| **📏 Ranged 10**        | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**        | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../../rule/combat/opportunity-attack.md). If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), the target can move through solid matter, they ignore [difficult terrain](../../../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../../rule/combat/opportunity-attack.md). If the target ends their [turn](../../../rule/combat/turn.md) inside solid matter, they are forced out into the space where they entered it and this effect ends.
 
-**Persistent 1:** The effect lasts until the start of your next turn.
+**Persistent 1:** The effect lasts until the start of your next [turn](../../../rule/combat/turn.md).
 
 ### Test of Rain {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/test-of-rain"}
 
 
 *You call down a rain that burns your enemies and restores your allies.*
 
-| **Area, Green, Magic, Ranged** |               **Main action** |
+| **Area, Green, Magic, [Ranged](../../../rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [cube](../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -284,4 +284,4 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 6 acid damage
 - **17+:** 10 acid damage
 
-**Effect:** You can end one effect on yourself that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your turn. Each ally in the area also gains this benefit.
+**Effect:** You can end one effect on yourself that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your [turn](../../../rule/combat/turn.md). Each ally in the area also gains this benefit.

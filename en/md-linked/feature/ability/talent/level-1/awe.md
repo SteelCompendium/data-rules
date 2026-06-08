@@ -2,12 +2,12 @@
 action_type: Main action
 class: talent
 cost: 3 Clarity
-distance: Ranged 10
-effect: If you target an ally, they gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn. If you target an enemy, you make a [power roll](../../../../rule/dice/power-roll.md).
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: If you target an ally, they gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md). If you target an enemy, you make a [power roll](../../../../rule/dice/power-roll.md).
 flavor: You project psionic energy out to a creature and take on a new visage in their mind.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 level: "1"
@@ -20,11 +20,11 @@ type: ability
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-| **Psionic, Ranged, [Strike](../../../../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
-**Effect:** If you target an ally, they gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn. If you target an enemy, you make a [power roll](../../../../rule/dice/power-roll.md).
+**Effect:** If you target an ally, they gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md). If you target an enemy, you make a [power roll](../../../../rule/dice/power-roll.md).
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

@@ -17,9 +17,9 @@ Choose one of the following abilities.
 
 *I had to pry this secret from the [shadow college](../../shadow/level-1/shadow-college.md)s.*
 
-| **Ranged**       |            **Main action** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |            **Main action** |
 |------------------|---------------------------:|
-| **📏 Ranged 10** | **🎯 Self and two allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Self and two allies** |
 
 **Effect:** Each target gains 2 [surges](../../../rule/resource/surge.md), and can use a free [triggered action](../../../rule/combat/triggered-action.md) to use a [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md). After resolving their ability, each target can [shift](../../../movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../../../rule/combat/cover.md) or [concealment](../../../rule/combat/concealment.md), or if they are observed.
 
@@ -28,9 +28,9 @@ Choose one of the following abilities.
 
 *You trick your enemies into attacking each other and leave them confused by the aftermath.*
 
-| **Magic, Ranged, Weapon** |      **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), Weapon** |      **Main action** |
 |---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |
 
 **Effect:** Each target uses a [signature ability](../../../rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the [power roll](../../../rule/dice/power-roll.md). After resolving the targets' abilities, you make a [power roll](../../../rule/dice/power-roll.md) against each original target.
 
@@ -53,7 +53,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 3 [burst](../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can make a ranged [free strike](../../common/main-actions/free-strike.md) that gains an [edge](../../../rule/dice/edge.md) against any enemy marked by you within [distance](../../../rule/combat/distance.md) of their ranged [free strike](../../common/main-actions/free-strike.md). A target ignores [banes](../../../rule/dice/bane.md) and double [banes](../../../rule/dice/bane.md) when making this [strike](../../../rule/combat/strike.md).
+**Effect:** Each target can make a [ranged](../../../rule/combat/ranged.md) [free strike](../../common/main-actions/free-strike.md) that gains an [edge](../../../rule/dice/edge.md) against any enemy marked by you within [distance](../../../rule/combat/distance.md) of their [ranged](../../../rule/combat/ranged.md) [free strike](../../common/main-actions/free-strike.md). A target ignores [banes](../../../rule/dice/bane.md) and double [banes](../../../rule/dice/bane.md) when making this [strike](../../../rule/combat/strike.md).
 
 ### Counterstrategy {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy"}
 
@@ -75,9 +75,9 @@ Choose one of the following abilities.
 
 *Nothing will stop you from reaching your foe.*
 
-| **Charge, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Charge, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                    | **🎯 One creature** |
 
 **Effect:** You mark the target.
 
@@ -94,9 +94,9 @@ Choose one of the following abilities.
 
 *You focus on making an enemy irrelevant.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **Effect:** The target is marked by you.
 

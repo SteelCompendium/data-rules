@@ -1,6 +1,6 @@
 {
   "cost": "11 Focus",
-  "distance": "Melee 1 or ranged 5",
+  "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5",
   "effects": [
     {
       "effect": "The target is marked by you.",
@@ -10,23 +10,23 @@
   "feature_type": "ability",
   "flavor": "You focus on making an enemy irrelevant.",
   "keywords": [
-    "Melee",
-    "Ranged",
+    "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
     "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*You focus on making an enemy irrelevant.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Effect:** The target is marked by you.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 8 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 17 + M damage\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), you can use a signature or [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against any target marked by you.",
-    "distance": "Melee 1 or ranged 5",
+    "content": "\n*You focus on making an enemy irrelevant.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**        | **🎯 One creature** |\n\n**Effect:** The target is marked by you.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 8 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 17 + M damage\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), you can use a signature or [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against any target marked by you.",
+    "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5",
     "feature_type": "ability",
     "flavor": "You focus on making an enemy irrelevant.",
     "item_id": "that-one-is-mine",
     "item_name": "That One Is Mine!",
     "keywords": [
-      "Melee",
-      "Ranged",
+      "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],

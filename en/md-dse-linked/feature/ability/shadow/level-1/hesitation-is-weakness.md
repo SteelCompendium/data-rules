@@ -5,7 +5,7 @@ cost: 1 Insight
 cost_amount: "1"
 cost_resource: Insight
 distance: Self
-effect: You take your turn after the triggering hero.
+effect: You take your [turn](../../../../rule/combat/turn.md) after the triggering hero.
 feature_type: ability
 file_basename: hesitation-is-weakness
 file_dpath: feature/ability/shadow/level-1
@@ -20,7 +20,7 @@ scc: mcdm.heroes.v1/feature.ability.shadow.level-1/hesitation-is-weakness
 source: mcdm.heroes.v1
 subtype: triggered
 target: Self
-trigger: Another hero ends their turn. That hero can't have used this ability to start their turn.
+trigger: Another hero ends their [turn](../../../../rule/combat/turn.md). That hero can't have used this ability to start their [turn](../../../../rule/combat/turn.md).
 type: ability
 ---
 
@@ -28,7 +28,7 @@ type: ability
 cost: 1 Insight
 distance: Self
 effects:
-    - effect: You take your turn after the triggering hero.
+    - effect: You take your [turn](../../../../rule/combat/turn.md) after the triggering hero.
 feature_type: ability
 flavor: Keep up the attack. Never give them a moment's grace.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: shadow
     cost: 1 Insight
     distance: Self
-    effect: You take your turn after the triggering hero.
+    effect: You take your [turn](../../../../rule/combat/turn.md) after the triggering hero.
     flavor: Keep up the attack. Never give them a moment's grace.
     keywords:
         - '-'
@@ -47,11 +47,11 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/hesitation-is-weakness
     subtype: triggered
     target: Self
-    trigger: Another hero ends their turn. That hero can't have used this ability to start their turn.
+    trigger: Another hero ends their [turn](../../../../rule/combat/turn.md). That hero can't have used this ability to start their [turn](../../../../rule/combat/turn.md).
     type: ability
 name: Hesitation Is Weakness
 target: Self
-trigger: Another hero ends their turn. That hero can't have used this ability to start their turn.
+trigger: Another hero ends their [turn](../../../../rule/combat/turn.md). That hero can't have used this ability to start their [turn](../../../../rule/combat/turn.md).
 type: feature
 usage: Free triggered
 ```

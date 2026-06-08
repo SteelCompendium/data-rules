@@ -7,7 +7,7 @@ effect: The targets are [force moved](../../../../movement/forced-movement.md) o
 flavor: You unleash a howl that hurls your enemies back.
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "1"
 name: Thunder Roar
@@ -19,7 +19,7 @@ type: ability
 
 *You unleash a howl that hurls your enemies back.*
 
-| **Area, Melee, Weapon**    |               **Main action** |
+| **Area, [Melee](../../../../rule/combat/melee.md), Weapon**    |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 

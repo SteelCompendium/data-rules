@@ -5,7 +5,7 @@ cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came adjacent to you during the move.
+effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../../../../rule/combat/adjacent.md) to you during the move.
 feature_type: ability
 file_basename: one-hundred-throats
 file_dpath: feature/ability/shadow/level-1
@@ -13,7 +13,7 @@ flavor: As you move across the battlefield, every foe within reach feels your wr
 item_id: one-hundred-throats
 item_name: One Hundred Throats
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "1"
 name: One Hundred Throats
@@ -27,21 +27,21 @@ type: ability
 cost: 5 Insight
 distance: Self; see below
 effects:
-    - effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came adjacent to you during the move.
+    - effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../../../../rule/combat/adjacent.md) to you during the move.
 feature_type: ability
 flavor: As you move across the battlefield, every foe within reach feels your wrath.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 5 Insight
     distance: Self; see below
-    effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came adjacent to you during the move.
+    effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../../../../rule/combat/adjacent.md) to you during the move.
     flavor: As you move across the battlefield, every foe within reach feels your wrath.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Weapon
     level: "1"
     name: One Hundred Throats

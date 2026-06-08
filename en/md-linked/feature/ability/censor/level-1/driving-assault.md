@@ -2,11 +2,11 @@
 action_type: Main action
 class: censor
 cost: 3 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) in a straight line toward the target after pushing them.
 flavor: As you force your enemy back with your weapon, you use your faith to stay close.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -19,9 +19,9 @@ type: ability
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

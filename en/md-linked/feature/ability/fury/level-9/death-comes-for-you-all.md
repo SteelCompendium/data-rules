@@ -8,7 +8,7 @@ flavor: You use your weapon to create a destructive shockwave.
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "9"
 name: Death Comes for You All!
@@ -20,7 +20,7 @@ type: ability
 
 *You use your weapon to create a destructive shockwave.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 

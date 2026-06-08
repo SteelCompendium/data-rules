@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: troubadour
-distance: Melee 1 or ranged 5
-effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 file_basename: witty-banter
 file_dpath: feature/ability/troubadour/level-1
@@ -11,8 +11,8 @@ item_id: witty-banter
 item_name: Witty Banter
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Witty Banter
@@ -25,28 +25,28 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+    - effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
     - effect: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
       name: Spend
 feature_type: ability
 flavor: A lyrical (and physical) jab insults an enemy and inspires an ally.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: troubadour
-    distance: Melee 1 or ranged 5
-    effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+    distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+    effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
     flavor: A lyrical (and physical) jab insults an enemy and inspires an ally.
     keywords:
         - Magic
-        - Melee
-        - Ranged
+        - '[Melee](../../../../rule/combat/melee.md)'
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Witty Banter

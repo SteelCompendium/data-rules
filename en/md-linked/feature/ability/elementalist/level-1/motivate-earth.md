@@ -1,13 +1,13 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 flavor: The earth rises, falls, or opens up at your command.
 keywords:
     - Earth
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
 level: "1"
 name: Motivate Earth
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/motivate-earth
@@ -18,9 +18,9 @@ type: ability
 
 *The earth rises, falls, or opens up at your command.*
 
-| **Earth, Magic, Melee** | **Main action** |
+| **Earth, Magic, [Melee](../../../../rule/combat/melee.md)** | **Main action** |
 |-------------------------|----------------:|
-| **📏 Melee 1**          |  **🎯 Special** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 

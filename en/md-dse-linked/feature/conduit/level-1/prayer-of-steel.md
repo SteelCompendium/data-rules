@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to [Stamina](../../../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../rule/character/stability.md).
+    - effect: Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md), and this [bonus](../../../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../rule/character/stability.md).
 feature_type: feature
 metadata:
     class: conduit

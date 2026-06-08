@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: talent
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: A telepathic bolt instantly zaps a creature's brain.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Strike
     - Telepathy
 level: "1"
@@ -18,9 +18,9 @@ type: ability
 
 *A telepathic bolt instantly zaps a creature's brain.*
 
-| **Psionic, Ranged**, **Strike, Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../../../rule/combat/ranged.md)**, **Strike, Telepathy** |     **Main action** |
 |--------------------------------------------|--------------------:|
-| **📏 Ranged 10**                           | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                           | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

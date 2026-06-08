@@ -5,7 +5,7 @@ cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: Each target gains 1 [surge](../../../../rule/resource/surge.md), then gains 1 [surge](../../../../rule/resource/surge.md) at the start of each combat round until the end of the encounter.
+effect: Each target gains 1 [surge](../../../../rule/resource/surge.md), then gains 1 [surge](../../../../rule/resource/surge.md) at the start of each [combat round](../../../../rule/combat/combat-round.md) until the end of the encounter.
 feature_type: ability
 file_basename: legendary-drum-fill
 file_dpath: feature/ability/troubadour/level-6
@@ -27,7 +27,7 @@ type: ability
 cost: 9 Drama
 distance: 4 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: Each target gains 1 [surge](../../../../rule/resource/surge.md), then gains 1 [surge](../../../../rule/resource/surge.md) at the start of each combat round until the end of the encounter.
+    - effect: Each target gains 1 [surge](../../../../rule/resource/surge.md), then gains 1 [surge](../../../../rule/resource/surge.md) at the start of each [combat round](../../../../rule/combat/combat-round.md) until the end of the encounter.
 feature_type: ability
 flavor: You start a drumroll that roars like thunder with every impact the heroes make.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: troubadour
     cost: 9 Drama
     distance: 4 [burst](../../../../rule/combat/burst.md)
-    effect: Each target gains 1 [surge](../../../../rule/resource/surge.md), then gains 1 [surge](../../../../rule/resource/surge.md) at the start of each combat round until the end of the encounter.
+    effect: Each target gains 1 [surge](../../../../rule/resource/surge.md), then gains 1 [surge](../../../../rule/resource/surge.md) at the start of each [combat round](../../../../rule/combat/combat-round.md) until the end of the encounter.
     flavor: You start a drumroll that roars like thunder with every impact the heroes make.
     keywords:
         - Area

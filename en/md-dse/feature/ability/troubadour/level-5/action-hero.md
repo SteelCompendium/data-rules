@@ -14,7 +14,7 @@ item_id: action-hero
 item_name: Action Hero
 keywords:
     - Area
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 level: "5"
 name: Action Hero
@@ -33,7 +33,7 @@ feature_type: ability
 flavor: You wield your weapon at blistering [speed](scc:mcdm.heroes.v1/rule.character/speed), leaving everyone around you fighting for their lives.
 keywords:
     - Area
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Main action
@@ -44,7 +44,7 @@ metadata:
     flavor: You wield your weapon at blistering [speed](scc:mcdm.heroes.v1/rule.character/speed), leaving everyone around you fighting for their lives.
     keywords:
         - Area
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: "5"
     name: Action Hero

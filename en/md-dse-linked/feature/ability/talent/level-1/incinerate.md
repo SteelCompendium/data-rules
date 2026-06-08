@@ -2,7 +2,7 @@
 action_type: Main action
 class: talent
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
+effect: A column of fire remains in the area until the start of your next [turn](../../../../rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../../../../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
 feature_type: ability
 file_basename: incinerate
 file_dpath: feature/ability/talent/level-1
@@ -14,7 +14,7 @@ keywords:
     - Fire
     - Psionic
     - Pyrokinesis
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Incinerate
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/incinerate
@@ -27,7 +27,7 @@ type: ability
 ```ds-feature
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
-    - effect: A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
+    - effect: A column of fire remains in the area until the start of your next [turn](../../../../rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../../../../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
 feature_type: ability
 flavor: The air erupts into a column of smokeless flame.
 keywords:
@@ -35,19 +35,19 @@ keywords:
     - Fire
     - Psionic
     - Pyrokinesis
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: talent
     distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-    effect: A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
+    effect: A column of fire remains in the area until the start of your next [turn](../../../../rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../../../../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
     flavor: The air erupts into a column of smokeless flame.
     keywords:
         - Area
         - Fire
         - Psionic
         - Pyrokinesis
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Incinerate
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/incinerate

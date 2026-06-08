@@ -1,13 +1,13 @@
 ---
 action_type: Triggered
 class: elementalist
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target takes half the damage.
 flavor: You cover yourself or an ally in protective stone.
 keywords:
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Skin Like Castle Walls
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls
@@ -21,9 +21,9 @@ type: ability
 
 *You cover yourself or an ally in protective stone.*
 
-| **Earth, Magic, Ranged**  |           **Triggered** |
+| **Earth, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |           **Triggered** |
 |---------------------------|------------------------:|
-| **📏 Ranged 10**          | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Self or one ally** |
 
 **Trigger:** The target takes damage.
 

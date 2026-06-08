@@ -4,14 +4,14 @@ scc: mcdm.heroes.v1/feature.common.maneuvers/knockback
 type: feature
 ---
 
-A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
+A creature wanting to push an [adjacent](../../../rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
 
 ## Knockback {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/knockback"}
 
 
-| **Melee, Weapon** |        **Maneuver** |
+| **[Melee](../../../rule/combat/melee.md), Weapon** |        **Maneuver** |
 |-------------------|--------------------:|
-| **📏 Melee 1**    | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**    | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 

@@ -28,7 +28,7 @@ Choose one of the following abilities.
 
 *You weaken your connection to this manifold, allowing you to move through and damage enemies.*
 
-| **Melee, Psionic, Weapon** | **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, Weapon** | **Main action** |
 |----------------------------|----------------:|
 | **📏 Self; see below**     |     **🎯 Self** |
 
@@ -49,9 +49,9 @@ Choose one of the following abilities.
 
 *Pillars of ice erupt from the ground and launch your foes into the air.*
 
-| **Psionic, Ranged** |                   **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |                   **Main action** |
 |---------------------|----------------------------------:|
-| **📏 Ranged 10**    | **🎯 Three creatures or objects** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Three creatures or objects** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -66,11 +66,11 @@ Choose one of the following abilities.
 
 *You create a [wall of ice](../../ability/null/level-6/wall-of-ice.md).*
 
-| **Area, Psionic, Ranged** | **Main action** |
+| **Area, Psionic, [Ranged](../../../rule/combat/ranged.md)** | **Main action** |
 |---------------------------|----------------:|
 | **📏 10 wall within 10**  |  **🎯 Special** |
 
-**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../../rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../../../condition/slowed.md) (save ends). Each enemy who is [force moved](../../../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../../condition/restrained.md) (save ends).
+**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../../rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square [adjacent](../../../rule/combat/adjacent.md) to the wall and has M < AVERAGE is [slowed](../../../condition/slowed.md) (save ends). Each enemy who is [force moved](../../../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../../condition/restrained.md) (save ends).
 
 ## 6th-Level Metakinetic Abilities
 
@@ -102,4 +102,4 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain 20 [temporary Stamina](../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your [stability](../../../rule/character/stability.md) gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score.
+**Effect:** You gain 20 [temporary Stamina](../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your [stability](../../../rule/character/stability.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../../rule/character/intuition.md) score.

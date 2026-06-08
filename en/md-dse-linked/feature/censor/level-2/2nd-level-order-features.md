@@ -22,7 +22,7 @@ effects:
 
         | Order                    | Features                             |
         |--------------------------|--------------------------------------|
-        | Exorcist                 | Saint's Vigilance, [A Sense for Truth](a-sense-for-truth.md) |
+        | Exorcist                 | [Saint](../../../rule/world/saint.md)'s Vigilance, [A Sense for Truth](a-sense-for-truth.md) |
         | Oracle                   | [It Was Foretold](it-was-foretold.md), [Judge of Character](judge-of-character.md)  |
         | Paragon                  | [Lead by Example](lead-by-example.md), [Stalwart Icon](stalwart-icon.md)       |
 feature_type: feature

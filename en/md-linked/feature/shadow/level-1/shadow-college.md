@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.shadow.level-1/shadow-college
 type: feature
 ---
 
-[Shadow](../../../class/shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that [tests](../../../rule/test/test.md) the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../../class/shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](../../../class/shadow.md) colleges are secret institutions that [turn](../../../rule/combat/turn.md) ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that [tests](../../../rule/test/test.md) the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../../class/shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a [shadow college](shadow-college.md) chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 

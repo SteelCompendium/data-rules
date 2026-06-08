@@ -14,7 +14,7 @@ The original servitor species of the synliroi—evil psions with near godlike po
 
 Extraordinarily rare in [Orden](../rule/world/orden.md), [time raiders](time-raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](time-raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](time-raider.md) also have two sets of arms, allowing them to wield [melee](../rule/combat/melee.md) weapons at the same time as [ranged](../rule/combat/ranged.md) weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
 ### On Time Raiders
 

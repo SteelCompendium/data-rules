@@ -1,6 +1,6 @@
 {
   "cost": "5 Drama",
-  "distance": "Melee 1",
+  "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
       "effect": "You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target.",
@@ -10,21 +10,21 @@
   "feature_type": "ability",
   "flavor": "They're so hurt by your performance, you start to believe it yourself.",
   "keywords": [
-    "Melee",
+    "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
     "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*They're so hurt by your performance, you start to believe it yourself.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 6 + A damage; P \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 10 + A damage; P \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 14 + A damage; P \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target.",
-    "distance": "Melee 1",
+    "content": "\n*They're so hurt by your performance, you start to believe it yourself.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 6 + A damage; P \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 10 + A damage; P \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 14 + A damage; P \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target.",
+    "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
     "feature_type": "ability",
     "flavor": "They're so hurt by your performance, you start to believe it yourself.",
     "item_id": "method-acting",
     "item_name": "Method Acting",
     "keywords": [
-      "Melee",
+      "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],

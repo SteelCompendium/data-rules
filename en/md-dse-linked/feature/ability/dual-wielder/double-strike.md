@@ -1,7 +1,7 @@
 ---
 action_type: Main action
-distance: Melee 1
-effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
+distance: '[Melee](../../../rule/combat/melee.md) 1'
+effect: If you use this ability on your [turn](../../../rule/combat/turn.md), you can use it against one target, then use your maneuver and your move action for that [turn](../../../rule/combat/turn.md) before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
 feature_type: ability
 file_basename: double-strike
 file_dpath: feature/ability/dual-wielder
@@ -9,7 +9,7 @@ flavor: Why strike once when you could do it twice?
 item_id: double-strike
 item_name: Double Strike
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: dual-wielder
@@ -22,22 +22,22 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
-    - effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
+    - effect: If you use this ability on your [turn](../../../rule/combat/turn.md), you can use it against one target, then use your maneuver and your move action for that [turn](../../../rule/combat/turn.md) before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
 feature_type: ability
 flavor: Why strike once when you could do it twice?
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
-    effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
+    effect: If you use this ability on your [turn](../../../rule/combat/turn.md), you can use it against one target, then use your maneuver and your move action for that [turn](../../../rule/combat/turn.md) before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
     flavor: Why strike once when you could do it twice?
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: dual-wielder

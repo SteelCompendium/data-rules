@@ -17,4 +17,4 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one [test](../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../../../rule/combat/turn.md) in the area can automatically obtain a tier 3 outcome on one [test](../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their [turn](../../../rule/combat/turn.md).

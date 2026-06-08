@@ -1,11 +1,11 @@
 ---
 action_type: Main action
-distance: Melee 1 or ranged 10
-effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next turn.
+distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
+effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next [turn](../../../rule/combat/turn.md).
 flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../tactician/level-7/shock-and-awe.md)")
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../rule/combat/melee.md)'
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: raider
@@ -18,9 +18,9 @@ type: ability
 
 *You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../tactician/level-7/shock-and-awe.md)")*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10**       | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
@@ -28,4 +28,4 @@ type: ability
 - **12-16:** 6 + M or A damage
 - **17+:** 8 + M or A damage
 
-**Effect:** The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next turn.
+**Effect:** The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next [turn](../../../rule/combat/turn.md).

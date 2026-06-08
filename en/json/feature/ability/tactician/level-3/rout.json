@@ -8,17 +8,17 @@
     }
   ],
   "feature_type": "ability",
-  "flavor": "The tide begins to turn.",
+  "flavor": "The tide begins to [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
   "keywords": [
     "-"
   ],
   "metadata": {
     "action_type": "Maneuver",
     "class": "tactician",
-    "content": "\n*The tide begins to turn.*\n\n| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever you or any ally deals damage to a target marked by you who has R \u003c AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the creature who dealt the damage (save ends).",
+    "content": "\n*The tide begins to [turn](scc:mcdm.heroes.v1/rule.combat/turn).*\n\n| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever you or any ally deals damage to a target marked by you who has R \u003c AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the creature who dealt the damage (save ends).",
     "distance": "Self",
     "feature_type": "ability",
-    "flavor": "The tide begins to turn.",
+    "flavor": "The tide begins to [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
     "item_id": "rout",
     "item_name": "Rout",
     "keywords": [

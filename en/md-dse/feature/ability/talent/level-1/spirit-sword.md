@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: talent
-distance: Melee 2
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
 effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: spirit-sword
@@ -11,7 +11,7 @@ item_id: spirit-sword
 item_name: Spirit Sword
 keywords:
     - Animapathy
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
@@ -24,25 +24,25 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 2
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
 effects:
     - effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 keywords:
     - Animapathy
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: talent
-    distance: Melee 2
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
     effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: You form a blade of mind energy and stab your target, invigorating yourself.
     keywords:
         - Animapathy
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"

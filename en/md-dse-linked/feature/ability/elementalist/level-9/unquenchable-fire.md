@@ -4,7 +4,7 @@ class: elementalist
 cost: 11 Essence
 cost_amount: "11"
 cost_resource: Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: This damage ignores immunity.
 feature_type: ability
 file_basename: unquenchable-fire
@@ -15,7 +15,7 @@ item_name: Unquenchable Fire
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: Unquenchable Fire
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 11 Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: This damage ignores immunity.
 feature_type: ability
@@ -35,19 +35,19 @@ flavor: You let fly a fiery missile braided with pure primal energy.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: elementalist
     cost: 11 Essence
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: This damage ignores immunity.
     flavor: You let fly a fiery missile braided with pure primal energy.
     keywords:
         - Fire
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "9"
     name: Unquenchable Fire

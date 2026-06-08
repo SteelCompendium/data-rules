@@ -4,7 +4,7 @@ class: tactician
 cost: 11 Focus
 cost_amount: "11"
 cost_resource: Focus
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: The target is killed. Additionally, the creature who caused the target to be [winded](scc:mcdm.heroes.v1/rule.health/winded) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: finish-them
@@ -13,7 +13,7 @@ flavor: You point out an opening to your ally so they can land a killing blow.
 item_id: finish-them
 item_name: Finish Them!
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "8"
 name: Finish Them!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-8/finish-them
@@ -26,22 +26,22 @@ type: ability
 
 ```ds-feature
 cost: 11 Focus
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The target is killed. Additionally, the creature who caused the target to be [winded](scc:mcdm.heroes.v1/rule.health/winded) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 flavor: You point out an opening to your ally so they can land a killing blow.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Free triggered
     class: tactician
     cost: 11 Focus
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: The target is killed. Additionally, the creature who caused the target to be [winded](scc:mcdm.heroes.v1/rule.health/winded) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: You point out an opening to your ally so they can land a killing blow.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "8"
     name: Finish Them!
     scc: mcdm.heroes.v1/feature.ability.tactician.level-8/finish-them

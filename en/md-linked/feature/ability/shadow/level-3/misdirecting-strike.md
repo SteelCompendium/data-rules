@@ -2,12 +2,12 @@
 action_type: Main action
 class: shadow
 cost: 7 Insight
-distance: Melee 1 or ranged 5
-effect: The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+effect: The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next [turn](../../../../rule/combat/turn.md).
 flavor: '"Why are you looking at ME?!"'
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "3"
@@ -20,9 +20,9 @@ type: ability
 
 *"Why are you looking at ME?!"*
 
-| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
@@ -30,4 +30,4 @@ type: ability
 - **12-16:** 13 + A damage
 - **17+:** 18 + A damage
 
-**Effect:** The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
+**Effect:** The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next [turn](../../../../rule/combat/turn.md).

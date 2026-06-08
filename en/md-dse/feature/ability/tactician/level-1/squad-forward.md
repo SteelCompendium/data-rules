@@ -4,7 +4,7 @@ class: tactician
 cost: 3 Focus
 cost_amount: "3"
 cost_resource: Focus
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: Each target can move up to their [speed](scc:mcdm.heroes.v1/rule.character/speed).
 feature_type: ability
 file_basename: squad-forward
@@ -13,7 +13,7 @@ flavor: On your command, you and your allies force back the enemy line.
 item_id: squad-forward
 item_name: Squad! Forward!
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Squad! Forward!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/squad-forward
@@ -24,22 +24,22 @@ type: ability
 
 ```ds-feature
 cost: 3 Focus
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: Each target can move up to their [speed](scc:mcdm.heroes.v1/rule.character/speed).
 feature_type: ability
 flavor: On your command, you and your allies force back the enemy line.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: tactician
     cost: 3 Focus
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: Each target can move up to their [speed](scc:mcdm.heroes.v1/rule.character/speed).
     flavor: On your command, you and your allies force back the enemy line.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Squad! Forward!
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/squad-forward

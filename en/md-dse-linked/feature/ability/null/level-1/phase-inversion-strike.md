@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 1
-effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square [adjacent](../../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
 feature_type: ability
 file_basename: phase-inversion-strike
 file_dpath: feature/ability/null/level-1
@@ -10,7 +10,7 @@ flavor: You step momentarily out of phase as you pull an enemy through you.
 item_id: phase-inversion-strike
 item_name: Phase Inversion Strike
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -24,24 +24,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
+    - effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square [adjacent](../../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
 feature_type: ability
 flavor: You step momentarily out of phase as you pull an enemy through you.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: "null"
-    distance: Melee 1
-    effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
+    effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square [adjacent](../../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
     flavor: You step momentarily out of phase as you pull an enemy through you.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Psionic
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon

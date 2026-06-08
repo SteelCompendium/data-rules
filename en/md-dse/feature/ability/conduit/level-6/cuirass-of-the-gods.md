@@ -4,8 +4,8 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: Ranged 10
-effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next turn.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 file_basename: cuirass-of-the-gods
 file_dpath: feature/ability/conduit/level-6
@@ -15,7 +15,7 @@ item_name: Cuirass of the Gods
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "6"
 name: Cuirass of the Gods
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods
@@ -26,26 +26,26 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next turn.
+    - effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 flavor: Your allies are covered in spiritual armor.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: conduit
     cost: 9 Piety
-    distance: Ranged 10
-    effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next turn.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5 until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
     flavor: Your allies are covered in spiritual armor.
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "6"
     name: Cuirass of the Gods
     scc: mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods

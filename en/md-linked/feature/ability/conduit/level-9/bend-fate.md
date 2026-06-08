@@ -2,12 +2,12 @@
 action_type: Main action
 class: conduit
 cost: 11 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each of the target's [power rolls](../../../../rule/dice/power-roll.md) has its outcome improved by one tier.
 flavor: The gods know you must prevail, and they bless your fate.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Bend Fate
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate
@@ -18,8 +18,8 @@ type: ability
 
 *The gods know you must prevail, and they bless your fate.*
 
-| **Magic, Ranged**  |         **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |         **Main action** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
 **Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each of the target's [power rolls](../../../../rule/dice/power-roll.md) has its outcome improved by one tier.

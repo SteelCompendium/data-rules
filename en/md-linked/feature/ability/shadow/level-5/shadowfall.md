@@ -7,7 +7,7 @@ effect: You disappear before making the [power roll](../../../../rule/dice/power
 flavor: You vanish. They fall. You reappear.
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "5"
 name: Shadowfall
@@ -19,7 +19,7 @@ type: ability
 
 *You vanish. They fall. You reappear.*
 
-| **Area, Melee, Weapon**     |               **Main action** |
+| **Area, [Melee](../../../../rule/combat/melee.md), Weapon**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 

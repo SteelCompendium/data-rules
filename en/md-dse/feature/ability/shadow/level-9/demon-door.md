@@ -4,7 +4,7 @@ class: shadow
 cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
-distance: Melee 3
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
 effect: On a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
 feature_type: ability
 file_basename: demon-door
@@ -14,7 +14,7 @@ item_id: demon-door
 item_name: Demon Door
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "9"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 11 Insight
-distance: Melee 3
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
 effects:
     - effect: On a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
 feature_type: ability
 flavor: You create a temporary portal to allow a massive demonic hand to reach through.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 11 Insight
-    distance: Melee 3
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
     effect: On a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
     flavor: You create a temporary portal to allow a massive demonic hand to reach through.
     keywords:
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "9"

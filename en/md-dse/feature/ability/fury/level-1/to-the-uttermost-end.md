@@ -4,7 +4,7 @@ class: fury
 cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 feature_type: ability
 file_basename: to-the-uttermost-end
 file_dpath: feature/ability/fury/level-1
@@ -12,7 +12,7 @@ flavor: You gut your life force to ensure a foe's demise.
 item_id: to-the-uttermost-end
 item_name: To the Uttermost End
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Ferocity
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: '1+ Ferocity: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this [strike](scc:mcdm.heroes.v1/rule.combat/strike).'
       name: Spend
 feature_type: ability
 flavor: You gut your life force to ensure a foe's demise.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 5 Ferocity
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     flavor: You gut your life force to ensure a foe's demise.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"

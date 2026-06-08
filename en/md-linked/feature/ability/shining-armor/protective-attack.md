@@ -1,10 +1,10 @@
 ---
 action_type: Main action
-distance: Melee 1
-effect: The target is [taunted](../../../condition/taunted.md) until the end of their next turn.
+distance: '[Melee](../../../rule/combat/melee.md) 1'
+effect: The target is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md).
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: shining-armor
@@ -17,9 +17,9 @@ type: ability
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
@@ -27,4 +27,4 @@ type: ability
 - **12-16:** 8 + M or A damage
 - **17+:** 11 + M or A damage
 
-**Effect:** The target is [taunted](../../../condition/taunted.md) until the end of their next turn.
+**Effect:** The target is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md).

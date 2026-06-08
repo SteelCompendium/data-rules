@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score until the end of your next turn.
+    - effect: Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: feature
 metadata:
     class: talent

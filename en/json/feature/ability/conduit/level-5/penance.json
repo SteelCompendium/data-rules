@@ -11,12 +11,12 @@
   "keywords": [
     "Area",
     "Magic",
-    "Ranged"
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*\"If you won't kneel, the gods will make you.\"*\n\n| **Area, Magic, Ranged**  |               **Main action** |\n|--------------------------|------------------------------:|\n| **📏 4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**  | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 4 corruption damage; I \u003c WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **12-16:** 7 corruption damage; I \u003c AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **17+:** 11 corruption damage; I \u003c STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)",
+    "content": "\n*\"If you won't kneel, the gods will make you.\"*\n\n| **Area, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**  |               **Main action** |\n|--------------------------|------------------------------:|\n| **📏 4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**  | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 4 corruption damage; I \u003c WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **12-16:** 7 corruption damage; I \u003c AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **17+:** 11 corruption damage; I \u003c STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)",
     "distance": "4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
     "feature_type": "ability",
     "flavor": "\"If you won't kneel, the gods will make you.\"",
@@ -25,7 +25,7 @@
     "keywords": [
       "Area",
       "Magic",
-      "Ranged"
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 5,
     "scc": [

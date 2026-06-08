@@ -1,6 +1,6 @@
 {
   "cost": "11 Drama",
-  "distance": "Melee 1 or ranged 10",
+  "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
       "effect": "Choose one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them after the ability is resolved.",
@@ -11,22 +11,22 @@
   "flavor": "Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.",
   "keywords": [
     "Magic",
-    "Melee",
-    "Ranged"
+    "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Maneuver",
     "class": "troubadour",
-    "content": "\n*Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*\n\n| **Magic, Melee, Ranged**    |        **Maneuver** |\n|-----------------------------|--------------------:|\n| **📏 Melee 1 or ranged 10** | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) (save ends).\n- **12-16:** The target has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) (save ends).\n- **17+:** The target has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) (save ends).\n\n**Effect:** Choose one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them after the ability is resolved.",
-    "distance": "Melee 1 or ranged 10",
+    "content": "\n*Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*\n\n| **Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**    |        **Maneuver** |\n|-----------------------------|--------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10** | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) (save ends).\n- **12-16:** The target has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) (save ends).\n- **17+:** The target has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) (save ends).\n\n**Effect:** Choose one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them after the ability is resolved.",
+    "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.",
     "item_id": "epic",
     "item_name": "Epic",
     "keywords": [
       "Magic",
-      "Melee",
-      "Ranged"
+      "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 9,
     "scc": [

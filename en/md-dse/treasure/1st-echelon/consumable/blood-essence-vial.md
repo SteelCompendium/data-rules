@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: When you damage an adjacent creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to half the damage dealt. If you spend 1 [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) while you drink, you regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
+effect: When you damage an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to half the damage dealt. If you spend 1 [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) while you drink, you regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
 file_basename: blood-essence-vial
 file_dpath: treasure/1st-echelon/consumable
 item_id: blood-essence-vial
@@ -27,4 +27,4 @@ type: treasure
 
 **Project Goal:** 45
 
-**Effect:** When you damage an adjacent creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to half the damage dealt. If you spend 1 [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) while you drink, you regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
+**Effect:** When you damage an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to half the damage dealt. If you spend 1 [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) while you drink, you regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to the damage dealt. Once you drink from the vial, it crumbles to dust.

@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: fury
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../../movement/shifting.md) 1 square.
 feature_type: ability
 file_basename: hit-and-run
@@ -10,7 +10,7 @@ flavor: Staying in constant motion helps you slip out of reach after a brutal as
 item_id: hit-and-run
 item_name: Hit and Run
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can [shift](../../../../movement/shifting.md) 1 square.
 feature_type: ability
 flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: You can [shift](../../../../movement/shifting.md) 1 square.
     flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

@@ -19,7 +19,7 @@ Your [elemental specialization](elemental-specialization.md) grants you a featur
 
 ## A Beyonding of Vision {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision"}
 
-You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
+You instantly recognize illusions for what they are, you can see invisible creatures, and [supernatural](../../../rule/general/supernatural.md) effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
 
 You also gain the following ability.
 
@@ -28,11 +28,11 @@ You also gain the following ability.
 
 *You grant allies a taste of your unearthly vision.*
 
-| **Magic, Ranged, Void** |    **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), Void** |    **Maneuver** |
 |-------------------------|----------------:|
-| **📏 Ranged 10**        |  **🎯 Special** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**        |  **🎯 Special** |
 
-**Effect:** For each [Victory](../../../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../ability/elementalist/level-1/shared-void-sense.md) ability.
+**Effect:** For each [Victory](../../../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](a-beyonding-of-vision.md) feature until the end of your next [turn](../../../rule/combat/turn.md), but doesn't gain the use of the [Shared Void Sense](../../ability/elementalist/level-1/shared-void-sense.md) ability.
 
 ## It Is the Soul Which Hears {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/it-is-the-soul-which-hears"}
 
@@ -49,9 +49,9 @@ You have the following ability.
 
 *The earth rises, falls, or opens up at your command.*
 
-| **Earth, Magic, Melee** | **Main action** |
+| **Earth, Magic, [Melee](../../../rule/combat/melee.md)** | **Main action** |
 |-------------------------|----------------:|
-| **📏 Melee 1**          |  **🎯 Special** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 
@@ -66,8 +66,8 @@ You have the following ability.
 
 *With the merest touch, you cause an object to turn to slag or ash.*
 
-| **Fire, Magic, Melee**  |           **Main action** |
+| **Fire, Magic, [Melee](../../../rule/combat/melee.md)**  |           **Main action** |
 |-------------------------|--------------------------:|
-| **📏 Melee 1**          | **🎯 One mundane object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**          | **🎯 One mundane object** |
 
 **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.

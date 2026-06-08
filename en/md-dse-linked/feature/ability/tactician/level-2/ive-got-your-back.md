@@ -4,8 +4,8 @@ class: tactician
 cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
-distance: Ranged 5
-effect: One ally adjacent to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
+effect: One ally [adjacent](../../../../rule/combat/adjacent.md) to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: ive-got-your-back
 file_dpath: feature/ability/tactician/level-2
@@ -13,7 +13,7 @@ flavor: Your enemy will think twice about attacking your friend.
 item_id: ive-got-your-back
 item_name: I've Got Your Back
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Focus
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: One ally adjacent to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
+    - effect: One ally [adjacent](../../../../rule/combat/adjacent.md) to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 flavor: Your enemy will think twice about attacking your friend.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: tactician
     cost: 5 Focus
-    distance: Ranged 5
-    effect: One ally adjacent to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
+    effect: One ally [adjacent](../../../../rule/combat/adjacent.md) to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
     flavor: Your enemy will think twice about attacking your friend.
     keywords:
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "2"

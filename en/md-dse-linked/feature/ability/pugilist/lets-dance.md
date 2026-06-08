@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you slide them.
 feature_type: ability
 file_basename: lets-dance
@@ -9,7 +9,7 @@ flavor: Keeping your enemies stumbling around the battlefield is second nature t
 item_id: lets-dance
 item_name: Let's Dance
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: pugilist
@@ -22,22 +22,22 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you slide them.
 feature_type: ability
 flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
     effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you slide them.
     flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: pugilist

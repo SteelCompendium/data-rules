@@ -13,9 +13,9 @@ You have the following ability.
 
 *The earth rises, falls, or opens up at your command.*
 
-| **Earth, Magic, Melee** | **Main action** |
+| **Earth, Magic, [Melee](../../../rule/combat/melee.md)** | **Main action** |
 |-------------------------|----------------:|
-| **📏 Melee 1**          |  **🎯 Special** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 

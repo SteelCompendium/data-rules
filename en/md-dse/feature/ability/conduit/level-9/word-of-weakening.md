@@ -4,7 +4,7 @@ class: conduit
 cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 10.
 feature_type: ability
 file_basename: word-of-weakening
@@ -14,7 +14,7 @@ item_id: word-of-weakening
 item_name: Word of Weakening
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "9"
 name: Word of Weakening
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 11 Piety
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 10.
 feature_type: ability
 flavor: You utter a divine word that makes a foe brittle.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: conduit
     cost: 11 Piety
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 10.
     flavor: You utter a divine word that makes a foe brittle.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "9"
     name: Word of Weakening

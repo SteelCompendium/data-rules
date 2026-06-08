@@ -13,7 +13,7 @@ item_id: back
 item_name: Back!
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "1"
 name: Back!
@@ -27,12 +27,12 @@ type: ability
 cost: 3 Ferocity
 distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*You hew about you with your mighty weapon, hurling enemies backward.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](../../../../rule/combat/burst.md)**          | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 5 damage\n- **12-16:** 8 damage; push 1\n- **17+:** 11 damage; push 3"
+    - effect: "\n*You hew about you with your mighty weapon, hurling enemies backward.*\n\n| **Area, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](../../../../rule/combat/burst.md)**          | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 5 damage\n- **12-16:** 8 damage; push 1\n- **17+:** 11 damage; push 3"
 feature_type: ability
 flavor: You hew about you with your mighty weapon, hurling enemies backward.
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -42,7 +42,7 @@ metadata:
     flavor: You hew about you with your mighty weapon, hurling enemies backward.
     keywords:
         - Area
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Weapon
     level: "1"
     name: Back!

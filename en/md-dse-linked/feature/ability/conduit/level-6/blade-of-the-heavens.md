@@ -4,7 +4,7 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 feature_type: ability
 file_basename: blade-of-the-heavens
 file_dpath: feature/ability/conduit/level-6
@@ -13,7 +13,7 @@ item_id: blade-of-the-heavens
 item_name: Blade of the Heavens
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Blade of the Heavens
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "\n*A greatsword streams down from the sky, threatening to pin your foe.*\n\n| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)**  |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 8 + I damage; A < WEAK, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 12 + I damage; A < AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 16 + I damage; A < STRONG, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)"
+    - effect: "\n*A greatsword streams down from the sky, threatening to pin your foe.*\n\n| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 8 + I damage; A < WEAK, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 12 + I damage; A < AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 16 + I damage; A < STRONG, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)"
 feature_type: ability
 flavor: A greatsword streams down from the sky, threatening to pin your foe.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: conduit
     cost: 9 Piety
-    distance: Ranged 5
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
     flavor: A greatsword streams down from the sky, threatening to pin your foe.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "6"
     name: Blade of the Heavens

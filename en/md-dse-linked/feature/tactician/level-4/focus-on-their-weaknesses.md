@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The first time each combat round that you or any ally damages a target marked by you, you gain 2 focus instead of 1.
+    - effect: The first time each [combat round](../../../rule/combat/combat-round.md) that you or any ally damages a target marked by you, you gain 2 focus instead of 1.
 feature_type: feature
 metadata:
     class: tactician

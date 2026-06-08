@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.
+    - effect: Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next [turn](../../../rule/combat/turn.md).
 feature_type: feature
 metadata:
     class: talent

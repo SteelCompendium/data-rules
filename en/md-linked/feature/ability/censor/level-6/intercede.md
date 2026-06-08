@@ -2,12 +2,12 @@
 action_type: Free triggered
 class: censor
 cost: 9 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target is unaffected by the [strike](../../../../rule/combat/strike.md) and you become the target instead, even if you aren't a valid target for it. You take half the damage from the [strike](../../../../rule/combat/strike.md), and the target gains 3 [surges](../../../../rule/resource/surge.md).
 flavor: You take your ally's place.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "6"
 name: Intercede
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/intercede
@@ -20,9 +20,9 @@ type: ability
 
 *You take your ally's place.*
 
-| **Magic, Ranged** | **Free triggered** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md)** | **Free triggered** |
 |-------------------|-------------------:|
-| **📏 Ranged 10**  |    **🎯 One ally** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  |    **🎯 One ally** |
 
 **Trigger:** A creature makes a [strike](../../../../rule/combat/strike.md) against the target.
 

@@ -4,7 +4,6 @@ file_basename: mountain
 file_dpath: kit
 item_id: mountain
 item_name: Mountain
-melee_damage_bonus: +0/+0/+4
 name: Mountain
 scc: mcdm.heroes.v1/kit/mountain
 source: mcdm.heroes.v1
@@ -19,11 +18,11 @@ You wear heavy armor and wield a heavy weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +9 per [echelon](../rule/general/echelon.md)
+**[Stamina](../rule/health/stamina.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +9 per [echelon](../rule/general/echelon.md)
 
-**[Stability](../rule/character/stability.md) Bonus:** +2
+**[Stability](../rule/character/stability.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +2
 
-**Melee Damage Bonus:** +0/+0/+4
+**[Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +0/+0/+4
 
 ##### Signature Ability
 
@@ -31,9 +30,9 @@ You wear heavy armor and wield a heavy weapon.
 
 *An enemy who tagged you will pay for that.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
@@ -41,4 +40,4 @@ You wear heavy armor and wield a heavy weapon.
 - **12-16:** 5 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** If the target dealt damage to you since the end of your last turn, this [strike](../rule/combat/strike.md) deals additional damage equal to your [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score (your choice).
+**Effect:** If the target dealt damage to you since the end of your last [turn](../rule/combat/turn.md), this [strike](../rule/combat/strike.md) deals additional damage equal to your [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score (your choice).

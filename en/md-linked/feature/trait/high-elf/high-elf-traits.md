@@ -17,11 +17,11 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Hig
 
 ### Glamor of Terror {data-scc="mcdm.heroes.v1/feature.trait.high-elf/glamor-of-terror"}
 
-When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](../../../rule/combat/triggered-action.md) to make that creature [frightened](../../../condition/frightened.md) of you until the end of their next turn.
+When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](../../../rule/combat/triggered-action.md) to make that creature [frightened](../../../condition/frightened.md) of you until the end of their next [turn](../../../rule/combat/turn.md).
 
 ### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
 
-You gain a +1 bonus to the [distance](../../../rule/combat/distance.md) you can shift when you take the [Disengage](../../common/move-actions/disengage.md) move action.
+You gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) you can shift when you take the [Disengage](../../common/move-actions/disengage.md) move action.
 
 ### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
 

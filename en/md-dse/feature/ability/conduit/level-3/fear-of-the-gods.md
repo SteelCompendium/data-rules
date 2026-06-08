@@ -15,7 +15,7 @@ item_name: Fear of the Gods
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "3"
 name: Fear of the Gods
 scc: mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods
@@ -34,7 +34,7 @@ flavor: Your divine magic makes a creature appear as what your enemies fear most
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: conduit
@@ -45,7 +45,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "3"
     name: Fear of the Gods
     scc: mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods

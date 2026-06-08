@@ -4,8 +4,8 @@ class: fury
 cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
-distance: Melee 1
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 4 squares, bringing the target with you. While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score at the start of each of your turns.
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 4 squares, bringing the target with you. While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score at the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 file_basename: pounce
 file_dpath: feature/ability/fury/level-6
@@ -14,7 +14,7 @@ item_id: pounce
 item_name: Pounce
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "6"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 4 squares, bringing the target with you. While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score at the start of each of your turns.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 4 squares, bringing the target with you. While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score at the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 flavor: You strike at the target like the ultimate predator you are.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 9 Ferocity
-    distance: Melee 1
-    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 4 squares, bringing the target with you. While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score at the start of each of your turns.
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 4 squares, bringing the target with you. While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score at the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn).
     flavor: You strike at the target like the ultimate predator you are.
     keywords:
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "6"

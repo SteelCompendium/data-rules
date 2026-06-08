@@ -17,4 +17,4 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
+**Effect:** While this performance is active, each target who starts their [turn](../../../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../../../rule/combat/turn.md) if they don't spend it.

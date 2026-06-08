@@ -5,7 +5,7 @@ cost: 7 Essence
 cost_amount: "7"
 cost_resource: Essence
 distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: Until the end of your next turn, each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 bonus to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).
+effect: Until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).
 feature_type: ability
 file_basename: swarm-of-spirits
 file_dpath: feature/ability/elementalist/level-3
@@ -28,7 +28,7 @@ type: ability
 cost: 7 Essence
 distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Until the end of your next turn, each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 bonus to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).
+    - effect: Until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).
 feature_type: ability
 flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: elementalist
     cost: 7 Essence
     distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: Until the end of your next turn, each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 bonus to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).
+    effect: Until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).
     flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
     keywords:
         - Area

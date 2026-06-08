@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: While the Mirror Token is on your person and you are targeted by a ranged [strike](../../../rule/combat/strike.md), you can use a [triggered action](../../../rule/combat/triggered-action.md) to crush the token and ignore the [strike](../../../rule/combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../../../rule/combat/strike.md).
+effect: While the Mirror Token is on your person and you are targeted by a [ranged](../../../rule/combat/ranged.md) [strike](../../../rule/combat/strike.md), you can use a [triggered action](../../../rule/combat/triggered-action.md) to crush the token and ignore the [strike](../../../rule/combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../../../rule/combat/strike.md).
 file_basename: mirror-token
 file_dpath: treasure/1st-echelon/consumable
 item_id: mirror-token
@@ -26,4 +26,4 @@ type: treasure
 
 **Project Goal:** 45
 
-**Effect:** While the Mirror Token is on your person and you are targeted by a ranged [strike](../../../rule/combat/strike.md), you can use a [triggered action](../../../rule/combat/triggered-action.md) to crush the token and ignore the [strike](../../../rule/combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../../../rule/combat/strike.md).
+**Effect:** While the Mirror Token is on your person and you are targeted by a [ranged](../../../rule/combat/ranged.md) [strike](../../../rule/combat/strike.md), you can use a [triggered action](../../../rule/combat/triggered-action.md) to crush the token and ignore the [strike](../../../rule/combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../../../rule/combat/strike.md).

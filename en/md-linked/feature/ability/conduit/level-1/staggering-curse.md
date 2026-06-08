@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: conduit
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 flavor: A blast of judgment disorients your foe.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Staggering Curse
@@ -18,9 +18,9 @@ type: ability
 
 *A blast of judgment disorients your foe.*
 
-| **Magic, Melee, [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 

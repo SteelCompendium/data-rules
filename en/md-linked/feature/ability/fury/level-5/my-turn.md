@@ -2,11 +2,11 @@
 action_type: Free triggered
 class: fury
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: You quickly strike back at a foe.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
@@ -21,9 +21,9 @@ type: ability
 
 *You quickly strike back at a foe.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |             **Free triggered** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |             **Free triggered** |
 |---------------------------|-------------------------------:|
-| **📏 Melee 1**            | **🎯 The triggering creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 The triggering creature** |
 
 **Trigger:** A creature causes you to be [winded](../../../../rule/health/winded.md) or [dying](../../../../rule/health/dying.md), or damages you while you are [winded](../../../../rule/health/winded.md) or [dying](../../../../rule/health/dying.md).
 

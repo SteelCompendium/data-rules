@@ -17,9 +17,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *The heavy impact of your weapon attacks drives your foes ever back.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |                **Main action** |
 |---------------------------|-------------------------------:|
-| **📏 Melee 1**            |  **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            |  **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -32,9 +32,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *Staying in constant motion helps you slip out of reach after a brutal assault.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -49,9 +49,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *You skewer your enemy like a boar upon a spit.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                             **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |                             **Main action** |
 |---------------------------|--------------------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature of your [size](../../../rule/character/size.md) or smaller** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature of your [size](../../../rule/character/size.md) or smaller** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -64,9 +64,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *Your reckless assault leaves you tactically vulnerable.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -89,7 +89,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You hew about you with your mighty weapon, hurling enemies backward.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 1 [burst](../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
@@ -104,9 +104,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your enemies will clear your path—whether they want to or not.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -121,11 +121,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Teach them the folly of lining up for you.*
 
-| **Melee, Weapon**      | **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Weapon**      | **Main action** |
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You move up to your [speed](../../../rule/character/speed.md) in a straight line, and enemy squares are not [difficult terrain](../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy whose space you move through.
+**Effect:** You move up to your [speed](../../../rule/character/speed.md) in a straight line, and enemy squares are not [difficult terrain](../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an [adjacent](../../../rule/combat/adjacent.md) unoccupied space. You make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy whose space you move through.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -140,9 +140,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Hard for them to fight when they're busy holding in their giblets.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -150,7 +150,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../condition/bleeding.md) (save ends)
 - **17+:** 8 + M damage; M < STRONG, [bleeding](../../../condition/bleeding.md) (save ends)
 
-**Effect:** While [bleeding](../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../rule/character/might.md) score at the end of each of your turns.
+**Effect:** While [bleeding](../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../rule/character/might.md) score at the end of each of your [turns](../../../rule/combat/turn.md).
 
 ### 5-Ferocity Ability
 
@@ -161,9 +161,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *See how well they fight after you've bled them dry.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**   |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon**   |               **Main action** |
 |-----------------------------|------------------------------:|
-| **📏 Melee 1**              | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**              | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -182,14 +182,14 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------|------------------:|
 | **📏 Self** |       **🎯 Self** |
 
-**Effect:** You gain 1 [surge](../../../rule/resource/surge.md), and the next [ability roll](../../../rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
+**Effect:** You gain 1 [surge](../../../rule/resource/surge.md), and the next [ability roll](../../../rule/dice/ability-roll.md) you make this [turn](../../../rule/combat/turn.md) automatically obtains a tier 3 outcome.
 
 ### Thunder Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar"}
 
 
 *You unleash a howl that hurls your enemies back.*
 
-| **Area, Melee, Weapon**    |               **Main action** |
+| **Area, [Melee](../../../rule/combat/melee.md), Weapon**    |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
@@ -206,9 +206,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You gut your life force to ensure a foe's demise.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 

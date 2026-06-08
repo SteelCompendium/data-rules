@@ -1,7 +1,7 @@
 ---
 action_type: Main action
-distance: Ranged 15
-effect: If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
+effect: If you don't take a move action this [turn](scc:mcdm.heroes.v1/rule.combat/turn), this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
 feature_type: ability
 file_basename: patient-shot
 file_dpath: feature/ability/sniper
@@ -9,7 +9,7 @@ flavor: Breathe... aim... wait... then strike!
 item_id: patient-shot
 item_name: Patient Shot
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 kit: sniper
@@ -22,22 +22,22 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 15
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
 effects:
-    - effect: If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
+    - effect: If you don't take a move action this [turn](scc:mcdm.heroes.v1/rule.combat/turn), this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
 feature_type: ability
 flavor: Breathe... aim... wait... then strike!
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Ranged 15
-    effect: If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
+    effect: If you don't take a move action this [turn](scc:mcdm.heroes.v1/rule.combat/turn), this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
     flavor: Breathe... aim... wait... then strike!
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     kit: sniper

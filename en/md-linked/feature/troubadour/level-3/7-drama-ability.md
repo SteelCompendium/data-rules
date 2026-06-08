@@ -30,7 +30,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *A spicy performance lights a fire under your allies' feet.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
@@ -47,9 +47,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 
-| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10**              | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -57,17 +57,17 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 8 + P damage; push 3
 - **17+:** 11 + P damage; push 5
 
-**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../../rule/combat/combat-round.md) without spending drama.
 
 ## We Meet at Last {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/we-meet-at-last"}
 
 
 *You magically intertwine your fate with another creature—for better or worse.*
 
-| **Magic, Ranged** |        **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |        **Maneuver** |
 |-------------------|--------------------:|
-| **📏 Ranged 10**  | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 One creature** |
 
 **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](../../../rule/combat/distance.md), with the [distance](../../../rule/combat/distance.md) of this ability replacing those abilities' [distances](../../../rule/combat/distance.md). The target can't be [force moved](../../../movement/forced-movement.md) by an ability used beyond [distance](../../../rule/combat/distance.md) this way.
 
-Additionally, once on each of your turns, you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../../rule/resource/surge.md) or forcing them to take a [bane](../../../rule/dice/bane.md) on the next [ability roll](../../../rule/dice/ability-roll.md) they make before the start of your next turn.
+Additionally, once on each of your [turns](../../../rule/combat/turn.md), you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../../rule/resource/surge.md) or forcing them to take a [bane](../../../rule/dice/bane.md) on the next [ability roll](../../../rule/dice/ability-roll.md) they make before the start of your next [turn](../../../rule/combat/turn.md).

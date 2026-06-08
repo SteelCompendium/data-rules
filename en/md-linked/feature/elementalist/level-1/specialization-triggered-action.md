@@ -22,11 +22,11 @@ Your [elemental specialization](elemental-specialization.md) grants you a [trigg
 
 *The power you channel grants the ability to get back in the fight.*
 
-| **Green, Magic, Ranged**          |           **Triggered** |
+| **Green, Magic, [Ranged](../../../rule/combat/ranged.md)**          |           **Triggered** |
 |-----------------------------------|------------------------:|
-| **📏 Ranged 10**                  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                  | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn or takes damage.
+**Trigger:** The target starts their [turn](../../../rule/combat/turn.md) or takes damage.
 
 **Effect:** The target can spend a [Recovery](../../../rule/health/recoveries.md).
 
@@ -37,24 +37,24 @@ Your [elemental specialization](elemental-specialization.md) grants you a [trigg
 
 *You add a little magic to an ally's aggression at just the right time.*
 
-| **Fire, Magic, Ranged**  |           **Triggered** |
+| **Fire, Magic, [Ranged](../../../rule/combat/ranged.md)**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
 **Trigger:** The target [force move](../../../movement/forced-movement.md)s a creature or object. 
 
-**Effect:** The [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Reason](../../../rule/character/reason.md) score.
+**Effect:** The [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../../../rule/character/reason.md) score.
 
-**Spend 1 Essence:** The [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to twice your [Reason](../../../rule/character/reason.md) score instead.
+**Spend 1 Essence:** The [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to twice your [Reason](../../../rule/character/reason.md) score instead.
 
 ### Skin Like Castle Walls {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls"}
 
 
 *You cover yourself or an ally in protective stone.*
 
-| **Earth, Magic, Ranged**  |           **Triggered** |
+| **Earth, Magic, [Ranged](../../../rule/combat/ranged.md)**  |           **Triggered** |
 |---------------------------|------------------------:|
-| **📏 Ranged 10**          | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 Self or one ally** |
 
 **Trigger:** The target takes damage.
 
@@ -67,11 +67,11 @@ Your [elemental specialization](elemental-specialization.md) grants you a [trigg
 
 *You call on the void to swallow and spit out an ally.*
 
-| **Magic, Ranged, Void**  |           **Triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), Void**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn, moves, or is [force moved](../../../movement/forced-movement.md). 
+**Trigger:** The target starts their [turn](../../../rule/combat/turn.md), moves, or is [force moved](../../../movement/forced-movement.md). 
 
 **Effect:** You [teleport](../../../movement/teleport.md) the target up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../../../movement/teleport.md) them at any point during the move.
 

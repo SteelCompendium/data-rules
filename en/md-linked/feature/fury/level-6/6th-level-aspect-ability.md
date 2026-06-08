@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You jump up to your maximum jump [distance](../../../rule/combat/distance.md) and make one [power roll](../../../rule/dice/power-roll.md) that targets each creature adjacent to the space where you land.
+**Effect:** You jump up to your maximum jump [distance](../../../rule/combat/distance.md) and make one [power roll](../../../rule/dice/power-roll.md) that targets each creature [adjacent](../../../rule/combat/adjacent.md) to the space where you land.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -34,9 +34,9 @@ Choose one of the following abilities.
 
 *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -53,24 +53,24 @@ Choose one of the following abilities.
 ### Death Strike {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/death-strike"}
 
 
-*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
+*Once you taste your foe's blood, you become more efficient and [turn](../../../rule/combat/turn.md) every killing blow into an opportunity.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** | **Free triggered** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** | **Free triggered** |
 |---------------------------|-------------------:|
-| **📏 Melee 1**            |        **🎯 Self** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            |        **🎯 Self** |
 
 **Trigger:** You reduce a creature to 0 [Stamina](../../../rule/health/stamina.md) with a [strike](../../../rule/combat/strike.md).
 
-**Effect:** You target a creature adjacent to you with the same strike, using the same [power roll](../../../rule/dice/power-roll.md) as the triggering strike.
+**Effect:** You target a creature [adjacent](../../../rule/combat/adjacent.md) to you with the same strike, using the same [power roll](../../../rule/dice/power-roll.md) as the triggering strike.
 
 ### Seek and Destroy {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy"}
 
 
 *You break through the enemy lines to make an example.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md).
 
@@ -91,9 +91,9 @@ Choose one of the following abilities.
 
 *You strike at the target like the ultimate predator you are.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -101,7 +101,7 @@ Choose one of the following abilities.
 - **12-16:** 13 damage; M < AVERAGE, [grabbed](../../../condition/grabbed.md)
 - **17+:** 17 damage; M < STRONG, [grabbed](../../../condition/grabbed.md)
 
-**Effect:** You can [shift](../../../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../../condition/grabbed.md) this way, the target takes damage equal to twice your [Might](../../../rule/character/might.md) score at the start of each of your turns.
+**Effect:** You can [shift](../../../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../../condition/grabbed.md) this way, the target takes damage equal to twice your [Might](../../../rule/character/might.md) score at the start of each of your [turns](../../../rule/combat/turn.md).
 
 ### Riders on the Storm {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/riders-on-the-storm"}
 
@@ -112,6 +112,6 @@ Choose one of the following abilities.
 |-----------------|---------------------------------:|
 | **📏 3 [aura](../../../rule/combat/aura.md)**   | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../../../rule/damage/damage-type.md) equal to twice your [Might](../../../rule/character/might.md) score at the end of each of your turns. Additionally, you can [fly](../../../movement/fly.md) while the [aura](../../../rule/combat/aura.md) is active. Each ally target who starts or ends their turn in the area can also [fly](../../../movement/fly.md) until the start of their next turn or until the effect ends.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../../../rule/damage/damage-type.md) equal to twice your [Might](../../../rule/character/might.md) score at the end of each of your [turns](../../../rule/combat/turn.md). Additionally, you can [fly](../../../movement/fly.md) while the [aura](../../../rule/combat/aura.md) is active. Each ally target who starts or ends their [turn](../../../rule/combat/turn.md) in the area can also [fly](../../../movement/fly.md) until the start of their next [turn](../../../rule/combat/turn.md) or until the effect ends.
 
 **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../stormwight-kits/primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.

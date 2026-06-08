@@ -1,10 +1,10 @@
 ---
 action_type: Main action
 class: censor
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -18,9 +18,9 @@ type: ability
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

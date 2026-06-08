@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 11 Essence
 distance: 5 [burst](../../../../rule/combat/burst.md)
-effect: You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../../condition/prone.md) and [size](../../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
+effect: You create a fissure in the ground [adjacent](../../../../rule/combat/adjacent.md) to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../../condition/prone.md) and [size](../../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
 flavor: You stomp your foot and quake the whole world over.
 keywords:
     - Area
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** M < AVERAGE[, prone](../../../../condition/prone.md)
 - **17+:** M < STRONG[, prone](../../../../condition/prone.md)
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../../condition/prone.md) and [size](../../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground [adjacent](../../../../rule/combat/adjacent.md) to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../../condition/prone.md) and [size](../../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.

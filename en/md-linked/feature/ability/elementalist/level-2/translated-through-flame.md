@@ -2,13 +2,13 @@
 action_type: Main action
 class: elementalist
 cost: 5 Essence
-distance: Ranged 10
-effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy adjacent to the target's new space.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target's new space.
 flavor: Your ally disappears, then reappears in a burst of fire.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Void
 level: "2"
 name: Translated Through Flame
@@ -20,11 +20,11 @@ type: ability
 
 *Your ally disappears, then reappears in a burst of fire.*
 
-| **Fire, Magic, Ranged, Void** |         **Main action** |
+| **Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |         **Main action** |
 |-------------------------------|------------------------:|
-| **📏 Ranged 10**              | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target's new space.
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

@@ -1,5 +1,5 @@
 cost: 9 Insight
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward.
       name: Effect
@@ -7,21 +7,21 @@ feature_type: ability
 flavor: Your attack produces a cloud of black ash that launches an enemy into the air.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
-    content: "\n*Your attack produces a cloud of black ash that launches an enemy into the air.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1**                   | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + A damage; vertical push 5\n- **12-16:** 6 + A damage; vertical push 10\n- **17+:** 9 + A damage; vertical push 15\n\n**Effect:** A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward."
-    distance: Melee 1
+    content: "\n*Your attack produces a cloud of black ash that launches an enemy into the air.*\n\n| **Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|----------------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**                   | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + A damage; vertical push 5\n- **12-16:** 6 + A damage; vertical push 10\n- **17+:** 9 + A damage; vertical push 15\n\n**Effect:** A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward."
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     feature_type: ability
     flavor: Your attack produces a cloud of black ash that launches an enemy into the air.
     item_id: black-ash-eruption
     item_name: Black Ash Eruption
     keywords:
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 6

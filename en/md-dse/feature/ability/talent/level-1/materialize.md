@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: talent
-distance: Ranged 10
-effect: A worthless [size](scc:mcdm.heroes.v1/rule.character/size) 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: A worthless [size](scc:mcdm.heroes.v1/rule.character/size) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
 feature_type: ability
 file_basename: materialize
 file_dpath: feature/ability/talent/level-1
@@ -11,7 +11,7 @@ item_id: materialize
 item_name: Materialize
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Resopathy
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
@@ -24,25 +24,25 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: A worthless [size](scc:mcdm.heroes.v1/rule.character/size) 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
+    - effect: A worthless [size](scc:mcdm.heroes.v1/rule.character/size) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
 feature_type: ability
 flavor: You picture an object in your mind and give it form—directly above your opponent's head.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Resopathy
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: talent
-    distance: Ranged 10
-    effect: A worthless [size](scc:mcdm.heroes.v1/rule.character/size) 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: A worthless [size](scc:mcdm.heroes.v1/rule.character/size) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
     flavor: You picture an object in your mind and give it form—directly above your opponent's head.
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Resopathy
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"

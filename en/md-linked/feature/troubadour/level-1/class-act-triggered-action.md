@@ -21,9 +21,9 @@ Your [troubadour class act](troubadour-class-act.md) grants you a [triggered act
 
 *Give the chorus a little punch.*
 
-| **Ranged**      |   **Triggered** |
+| **[Ranged](../../../rule/combat/ranged.md)**      |   **Triggered** |
 |-----------------|----------------:|
-| **📏 Ranged 5** | **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 5** | **🎯 One ally** |
 
 **Trigger:** The target uses an ability that targets only one enemy and costs 3 or fewer of their [Heroic Resource](../../../rule/resource/heroic-resource.md).
 
@@ -36,11 +36,11 @@ Your [troubadour class act](troubadour-class-act.md) grants you a [triggered act
 
 *"I'd have brought treats had I known I'd be fighting a dog."*
 
-| **Melee**      |           **Triggered** |
+| **[Melee](../../../rule/combat/melee.md)**      |           **Triggered** |
 |----------------|------------------------:|
-| **📏 Melee 1** | **🎯 Self or one ally** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1** | **🎯 Self or one ally** |
 
-**Trigger:** The target takes damage from a melee [strike](../../../rule/combat/strike.md).
+**Trigger:** The target takes damage from a [melee](../../../rule/combat/melee.md) [strike](../../../rule/combat/strike.md).
 
 **Effect:** The target makes a [free strike](../../common/main-actions/free-strike.md) against the creature who made the triggering strike.
 
@@ -49,9 +49,9 @@ Your [troubadour class act](troubadour-class-act.md) grants you a [triggered act
 
 *All's fair in love and whatever.*
 
-| **Ranged**       |       **Triggered** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |       **Triggered** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Trigger:** The target makes an [ability roll](../../../rule/dice/ability-roll.md) that has an [edge](../../../rule/dice/edge.md), a double [edge](../../../rule/dice/edge.md), a [bane](../../../rule/dice/bane.md), or a double [bane](../../../rule/dice/bane.md).
 

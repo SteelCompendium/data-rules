@@ -16,7 +16,7 @@ keywords:
     - Area
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "3"
 name: Maw of Earth
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth
@@ -36,7 +36,7 @@ keywords:
     - Area
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: elementalist
@@ -48,7 +48,7 @@ metadata:
         - Area
         - Earth
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "3"
     name: Maw of Earth
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth

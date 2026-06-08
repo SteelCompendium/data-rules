@@ -30,11 +30,11 @@ If a hero attempts to sneak by an enemy guard unnoticed, should the hero make an
 
 Except in certain scenarios (explored at [NPCs](../rule/general/npc.md) Roll for Deceptive Tasks and [Opposed Power Rolls](../rule/dice/opposed-power-roll.md) below), heroes make [tests](../rule/test/test.md) and [NPCs](../rule/general/npc.md) do not. Heroes are the stars of the story, and the consequences and rewards of [tests](../rule/test/test.md) have longer-lasting implications for them. There are exceptions to this rule, of course. If a hero travels with an [NPC](../rule/general/npc.md) [retainer](../rule/general/retainer.md) or companion, that [NPC](../rule/general/npc.md) will almost certainly make [tests](../rule/test/test.md) from time to time. But for the most part, [NPCs](../rule/general/npc.md) and other creatures never need to make [tests](../rule/test/test.md) when what they do opposes what the heroes do.
 
-To quickly assess the difficulty of a task opposed by one or more creatures and the [test](../rule/test/test.md) made to attempt it, the Director can use the following guidelines (though these are not hard and fast rules):
+To quickly assess the difficulty of a task opposed by one or more creatures and the [test](../rule/test/test.md) made to attempt it, the Director can use the following [guide](../rule/downtime/guide.md)lines (though these are not hard and fast rules):
 
-- **Easy [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their [test](../rule/test/test.md) roll for the task than the hero does. If a hero with an [Agility](../rule/character/agility.md) score of 2 attempts to sneak by a guard with an [Intuition](../rule/character/intuition.md) score of 0, the [test](../rule/test/test.md) is easy.
-- **Moderate [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their [test](../rule/test/test.md) rolls than the hero, or if only one creature opposes the hero and has the same [test](../rule/test/test.md) bonus as the hero.
-- **Hard [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is hard if an opposed creature would have a higher bonus to their [test](../rule/test/test.md) roll than the hero, or if multiple creatures with the same [test](../rule/test/test.md) bonus as the hero oppose the hero.
+- **Easy [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is easy if only one creature opposes the hero, and that opposed creature would have a lower [bonus](../rule/dice/bonuses-and-penalties.md) to their [test](../rule/test/test.md) roll for the task than the hero does. If a hero with an [Agility](../rule/character/agility.md) score of 2 attempts to sneak by a guard with an [Intuition](../rule/character/intuition.md) score of 0, the [test](../rule/test/test.md) is easy.
+- **Moderate [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is moderate if multiple creatures oppose the hero and those creatures would have lower [bonus](../rule/dice/bonuses-and-penalties.md)es to their [test](../rule/test/test.md) rolls than the hero, or if only one creature opposes the hero and has the same [test](../rule/test/test.md) [bonus](../rule/dice/bonuses-and-penalties.md) as the hero.
+- **Hard [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is hard if an opposed creature would have a higher [bonus](../rule/dice/bonuses-and-penalties.md) to their [test](../rule/test/test.md) roll than the hero, or if multiple creatures with the same [test](../rule/test/test.md) [bonus](../rule/dice/bonuses-and-penalties.md) as the hero oppose the hero.
 
 The failure consequences of opposed tasks are some of the easiest to create on the fly. Fail to hide from someone, and they notice you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you're picking up the tab. The consequence is that the opposition bests the hero.
 
@@ -66,7 +66,7 @@ The Director knows that the walls around the Star Chamber, the headquarters of t
 
 **Director:** *For sure. Okay, roll it up.*
 
-Alyssa rolls 2d10 and gets a 13. She then adds her [Might](../rule/character/might.md) score of 2 and her +2 bonus for having an applicable skill to the roll, for a total of 17.
+Alyssa rolls 2d10 and gets a 13. She then adds her [Might](../rule/character/might.md) score of 2 and her +2 [bonus](../rule/dice/bonuses-and-penalties.md) for having an applicable skill to the roll, for a total of 17.
 
 **Alyssa:** *A 17! That's tier 3, baby!*
 
@@ -104,7 +104,7 @@ The Director checks the [Test Difficulty](../rule/test/test-difficulty.md) Outco
 
 **Director:** *Yes, it does. Roll it up. That's a medium difficulty [test](../rule/test/test.md).*
 
-Lifting the diminutive [polder](../ancestry/polder.md), Alyssa rolls 2d10-but gets a 2! With her [Might](../rule/character/might.md) score and Lift skill bonus of +2, the total is 6.
+Lifting the diminutive [polder](../ancestry/polder.md), Alyssa rolls 2d10-but gets a 2! With her [Might](../rule/character/might.md) score and Lift skill [bonus](../rule/dice/bonuses-and-penalties.md) of +2, the total is 6.
 
 **Alyssa:** *A 6! Oof. That's tier 1.*
 
@@ -120,19 +120,19 @@ The Director then decides to make the failure potentially more interesting, by a
 
 **James:** *Thanks for not leaving me behind!*
 
-**Director:** *As Jorn yanks Korvo off the ground and pulls him up to the top of the wall, a guard turns a bullseye lantern your way, calling out, "Who goes there?"*
+**Director:** *As Jorn yanks Korvo off the ground and pulls him up to the top of the wall, a guard [turns](../rule/combat/turn.md) a bullseye lantern your way, calling out, "Who goes there?"*
 
 ### Assist a Test
 
 You can attempt to assist another creature with a [test](../rule/test/test.md) they make, provided you have a skill that applies to the [test](../rule/test/test.md), the other creature isn't using that same skill on the [test](../rule/test/test.md), and you can describe how your character helps to the Director's satisfaction. In other words, your attempt to help has to make sense, and you have to bring some useful expertise to the table. Helping another creature sneak by shouting encouragement at them isn't going to make them stealthier.
 
-When you attempt to assist another creature, make a [test](../rule/test/test.md) using the skill you choose, and using a [characteristic](../rule/character/characteristic.md) chosen by the Director based on the activity you use to help. The outcome of that [test](../rule/test/test.md) determines the bonus applied to the [test](../rule/test/test.md) you're assisting:
+When you attempt to assist another creature, make a [test](../rule/test/test.md) using the skill you choose, and using a [characteristic](../rule/character/characteristic.md) chosen by the Director based on the activity you use to help. The outcome of that [test](../rule/test/test.md) determines the [bonus](../rule/dice/bonuses-and-penalties.md) applied to the [test](../rule/test/test.md) you're assisting:
 
 - **≤11:** You get in the way or make things worse. The creature takes a [bane](../rule/dice/bane.md) on their [test](../rule/test/test.md).
 - **12-16:** Your help grants the other creature an [edge](../rule/dice/edge.md) on their [test](../rule/test/test.md).
 - **17+:** Your help gives the other creature a double [edge](../rule/dice/edge.md) on their [test](../rule/test/test.md).
 
-For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) using Flirt. The outcome of that [test](../rule/test/test.md) determines the bonus you provide to the other hero's [Agility](../rule/character/agility.md) [test](../rule/test/test.md) to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
+For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) using Flirt. The outcome of that [test](../rule/test/test.md) determines the [bonus](../rule/dice/bonuses-and-penalties.md) you provide to the other hero's [Agility](../rule/character/agility.md) [test](../rule/test/test.md) to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
 
 ### Hide and Sneak
 
@@ -146,7 +146,7 @@ When you use the [Hide](../feature/common/maneuvers/hide.md) maneuver to hide du
 
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
-Additionally, while you are hidden from another creature, you gain an [edge](../rule/dice/edge.md) on [ability rolls](../rule/dice/ability-roll.md) made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) toward them and use an ability against them, and still gain an [edge](../rule/dice/edge.md) on [ability rolls](../rule/dice/ability-roll.md) made against the creature as long as you use the ability before the end of that turn.
+Additionally, while you are hidden from another creature, you gain an [edge](../rule/dice/edge.md) on [ability rolls](../rule/dice/ability-roll.md) made against that creature. This benefit lasts until the end of the [turn](../rule/combat/turn.md) in which you are no longer hidden. This means you can be hidden from another creature at the start of your [turn](../rule/combat/turn.md), move out of [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) toward them and use an ability against them, and still gain an [edge](../rule/dice/edge.md) on [ability rolls](../rule/dice/ability-roll.md) made against the creature as long as you use the ability before the end of that [turn](../rule/combat/turn.md).
 
 Draw Steel
 

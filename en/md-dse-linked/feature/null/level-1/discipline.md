@@ -20,9 +20,9 @@ effects:
 
         ##### Discipline in Combat
 
-        At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 discipline.
+        At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../../rule/combat/combat-round.md) (as determined by the Director), you gain discipline equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 2 discipline.
 
-        Additionally, the first time each combat round that an enemy in the area of your [Null Field](null-field.md) ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
+        Additionally, the first time each [combat round](../../../rule/combat/combat-round.md) that an enemy in the area of your [Null Field](null-field.md) ability (see below) uses a main action, you gain 1 discipline. The first time each [combat round](../../../rule/combat/combat-round.md) that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
 
         You lose any remaining discipline at the end of the encounter.
 

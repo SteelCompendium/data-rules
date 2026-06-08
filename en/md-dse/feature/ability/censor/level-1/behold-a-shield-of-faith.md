@@ -4,16 +4,16 @@ class: censor
 cost: 3 Wrath
 cost_amount: "3"
 cost_resource: Wrath
-distance: Melee 1
-effect: Until the start of your next turn, enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally adjacent to you.
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.
 feature_type: ability
 file_basename: behold-a-shield-of-faith
 file_dpath: feature/ability/censor/level-1
-flavor: A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
+flavor: A mighty blow [turns](scc:mcdm.heroes.v1/rule.combat/turn) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
 item_id: behold-a-shield-of-faith
 item_name: Behold a Shield of Faith!
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 3 Wrath
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: Until the start of your next turn, enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally adjacent to you.
+    - effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.
 feature_type: ability
-flavor: A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
+flavor: A mighty blow [turns](scc:mcdm.heroes.v1/rule.combat/turn) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
     cost: 3 Wrath
-    distance: Melee 1
-    effect: Until the start of your next turn, enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally adjacent to you.
-    flavor: A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.
+    flavor: A mighty blow [turns](scc:mcdm.heroes.v1/rule.combat/turn) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"

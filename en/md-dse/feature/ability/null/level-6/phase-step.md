@@ -13,7 +13,7 @@ flavor: You weaken your connection to this manifold, allowing you to move throug
 item_id: phase-step
 item_name: Phase Step
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - Weapon
 level: "6"
@@ -32,7 +32,7 @@ effects:
 feature_type: ability
 flavor: You weaken your connection to this manifold, allowing you to move through and damage enemies.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - Weapon
 metadata:
@@ -43,7 +43,7 @@ metadata:
     effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed), and squares occupied by enemies or objects are not [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for this [shift](scc:mcdm.heroes.v1/movement/shifting). You make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each enemy you moved through during this [shift](scc:mcdm.heroes.v1/movement/shifting).
     flavor: You weaken your connection to this manifold, allowing you to move through and damage enemies.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - Weapon
     level: "6"

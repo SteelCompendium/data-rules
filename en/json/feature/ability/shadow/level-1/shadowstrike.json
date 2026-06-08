@@ -11,13 +11,13 @@
   "flavor": "They have no idea what the college taught you.",
   "keywords": [
     "Magic",
-    "Melee",
-    "Ranged"
+    "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*They have no idea what the college taught you.*\n\n| **Magic, Melee, Ranged** | **Main action** |\n|------------------------|----------------:|\n| **📏 Self; see below** |     **🎯 Self** |\n\n**Effect:** You use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) twice.",
+    "content": "\n*They have no idea what the college taught you.*\n\n| **Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** | **Main action** |\n|------------------------|----------------:|\n| **📏 Self; see below** |     **🎯 Self** |\n\n**Effect:** You use a [strike](scc:mcdm.heroes.v1/rule.combat/strike) [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) twice.",
     "distance": "Self; see below",
     "feature_type": "ability",
     "flavor": "They have no idea what the college taught you.",
@@ -25,8 +25,8 @@
     "item_name": "Shadowstrike",
     "keywords": [
       "Magic",
-      "Melee",
-      "Ranged"
+      "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 1,
     "scc": [

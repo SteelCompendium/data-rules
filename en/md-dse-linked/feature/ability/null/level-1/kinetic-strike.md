@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 feature_type: ability
 file_basename: kinetic-strike
 file_dpath: feature/ability/null/level-1
@@ -9,7 +9,7 @@ flavor: Your opponent staggers. They cannot ignore you.
 item_id: kinetic-strike
 item_name: Kinetic Strike
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "\n*Your opponent staggers. They cannot ignore you.*\n\n| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))\n- **12-16:** 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 1\n- **17+:** 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 2"
+    - effect: "\n*Your opponent staggers. They cannot ignore you.*\n\n| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1**                     | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))\n- **12-16:** 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 1\n- **17+:** 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 2"
 feature_type: ability
 flavor: Your opponent staggers. They cannot ignore you.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: "null"
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     flavor: Your opponent staggers. They cannot ignore you.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Psionic
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon

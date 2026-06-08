@@ -2,12 +2,12 @@
 action_type: Main action
 class: shadow
 cost: 9 Insight
-distance: Melee 1
-effect: You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../../rule/dice/power-roll.md) upon your return.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: You and the target are removed from the encounter map until the start of your next [turn](../../../../rule/combat/turn.md). You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../../rule/dice/power-roll.md) upon your return.
 flavor: You sweep your foe off their feet and plunge them into absolute darkness.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
@@ -20,11 +20,11 @@ type: ability
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
 
-| **Magic, Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
-**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../../rule/dice/power-roll.md) upon your return.
+**Effect:** You and the target are removed from the encounter map until the start of your next [turn](../../../../rule/combat/turn.md). You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../../rule/dice/power-roll.md) upon your return.
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

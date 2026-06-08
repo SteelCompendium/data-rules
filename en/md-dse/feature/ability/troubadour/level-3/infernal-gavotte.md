@@ -15,7 +15,7 @@ item_name: Infernal Gavotte
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 level: "3"
 name: Infernal Gavotte
@@ -35,7 +35,7 @@ flavor: A spicy performance lights a fire under your allies' feet.
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Main action
@@ -47,7 +47,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: "3"
     name: Infernal Gavotte

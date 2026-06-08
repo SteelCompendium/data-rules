@@ -2,11 +2,11 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
+effect: At the end of each of your [turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: revitalizing-limerick
 file_dpath: feature/ability/troubadour/level-1
-flavor: There once was a man from Capital...
+flavor: There once was a man from [Capital](../../../../rule/world/capital.md)...
 item_id: revitalizing-limerick
 item_name: Revitalizing Limerick
 keywords:
@@ -24,9 +24,9 @@ type: ability
 ```ds-feature
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effects:
-    - effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
+    - effect: At the end of each of your [turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
-flavor: There once was a man from Capital...
+flavor: There once was a man from [Capital](../../../../rule/world/capital.md)...
 keywords:
     - Area
     - Magic
@@ -35,8 +35,8 @@ metadata:
     action_type: No action
     class: troubadour
     distance: 5 [aura](../../../../rule/combat/aura.md)
-    effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
-    flavor: There once was a man from Capital...
+    effect: At the end of each of your [turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
+    flavor: There once was a man from [Capital](../../../../rule/world/capital.md)...
     keywords:
         - Area
         - Magic

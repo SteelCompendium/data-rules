@@ -41,7 +41,7 @@ Death Captain Voyrik's eyes went wide. "It's three thousand miles," he pointed o
 
 How long it took the bloodrunners of the Lightning to cross the desert is not well-attested. It took four or six months depending on which accounts you read, but even six months would make their march a legendary journey.
 
-Opposed at every turn by the local noble houses and then eventually the desert clans who sought the bounty placed on Khorvath's head, the ten thousand grew in battle prowess as they demolished any enemy foolish enough to get in their way. Given the many tens of thousands of warriors the bloodrunners dispatched over the course of four (or six) months, it may well be that Khorvath's sobriquet was literal.
+Opposed at every [turn](../rule/combat/turn.md) by the local noble houses and then eventually the desert clans who sought the bounty placed on Khorvath's head, the ten thousand grew in battle prowess as they demolished any enemy foolish enough to get in their way. Given the many tens of thousands of warriors the bloodrunners dispatched over the course of four (or six) months, it may well be that Khorvath's sobriquet was literal.
 
 Success was a double edged sword. The more [victories](../rule/resource/victories.md) they earned in battle, the easier they were to follow. "Our enemies walk the red road," Voyrik once said, looking at the vast swath of blood they left in their wake.
 
@@ -75,9 +75,9 @@ Voyrik gave his warleader's torque to her son, who grew to lead the Lightning fi
 
 **Domains:** Life, War
 
-Grole the One-Handed, Grole who Slew the Saint of Skulls, lost his left hand at the Battle of Dur Mothe where he stood alone against the horde of deathless and their master, the living saint Morath of Many Tendrils. Grole thought to buy time for his army to escape the flood of death, but when they saw their warleader grappling alone with the Saint of Rot, they reversed their retreat. When Morath lashed out with his greataxe Viscerator and severed Grole's left hand from his arm, Grole's army surged forward, breaking the tide of deathless.
+Grole the One-Handed, Grole who Slew the [Saint](../rule/world/saint.md) of Skulls, lost his left hand at the Battle of Dur Mothe where he stood alone against the horde of deathless and their master, the living saint Morath of Many Tendrils. Grole thought to buy time for his army to escape the flood of death, but when they saw their warleader grappling alone with the [Saint](../rule/world/saint.md) of Rot, they reversed their retreat. When Morath lashed out with his greataxe Viscerator and severed Grole's left hand from his arm, Grole's army surged forward, breaking the tide of deathless.
 
-His army watched as Kul's light descended on their wounded leader, and they knew Grole had been chosen by Kul in that moment. At the last, Grole and Morath fought as equals. [Orc](../ancestry/orc.md) hero and dark [human](../ancestry/human.md) saint grappled atop the ancient hill. With his one good hand Grole plunged the Green Fire, his grandmother's saber, into Morath's heart, ending the Saint of Many Tendrils.
+His army watched as Kul's light descended on their wounded leader, and they knew Grole had been chosen by Kul in that moment. At the last, Grole and Morath fought as equals. [Orc](../ancestry/orc.md) hero and dark [human](../ancestry/human.md) [saint](../rule/world/saint.md) grappled atop the ancient hill. With his one good hand Grole plunged the Green Fire, his grandmother's saber, into Morath's heart, ending the [Saint](../rule/world/saint.md) of Many Tendrils.
 
 Grole teaches the extraordinary deeds common people can accomplish if they cast fear from their minds. It was Grole who said, "Even should an [orc](../ancestry/orc.md) be pierced by many arrows, they should still be able to perform one last act of revenge."
 
@@ -105,7 +105,7 @@ Khravila teaches the virtue of persistence, endurance, and—above all—wits. N
 
 Most [hakaan](../ancestry/hakaan.md) in [Orden](../rule/world/orden.md) are animists. They know and respect the four Elder Gods who created the world and believe these gods watch the world and see what happens within it. But the [Hakaan](../ancestry/hakaan.md) do not create churches or formal belief systems around this attitude.
 
-Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the [hakaan](../ancestry/hakaan.md) revere. They have no organized religion in the way the other ancestries in this chapter do, though a [hakaan](../ancestry/hakaan.md) brought up in a city, or among another people, would naturally venerate in whatever gods and saints are worshiped by the folk who raised them.
+Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the [hakaan](../ancestry/hakaan.md) revere. They have no organized religion in the way the other ancestries in this chapter do, though a [hakaan](../ancestry/hakaan.md) brought up in a city, or among another people, would naturally venerate in whatever gods and [saints](../rule/world/saint.md) are worshiped by the folk who raised them.
 
 The [hakaan](../ancestry/hakaan.md) know they are descended from stone giants, but they do not think of themselves as stone giants. They know their ancestors were tricked by Holkatya, one of the gods of Vanigar, into trading some of their great strength for the doomsight. But while they respect Holkatya, they do not worship her. Nor do they resent her. She's merely a detail of their history.
 

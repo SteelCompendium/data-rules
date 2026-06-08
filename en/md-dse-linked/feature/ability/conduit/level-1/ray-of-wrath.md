@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: conduit
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You can have this ability deal holy damage.
 feature_type: ability
 file_basename: ray-of-wrath
@@ -11,7 +11,7 @@ item_id: ray-of-wrath
 item_name: Ray of Wrath
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Ray of Wrath
@@ -22,24 +22,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: You can have this ability deal holy damage.
 feature_type: ability
 flavor: You unleash a blast of holy light upon your foe.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: conduit
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: You can have this ability deal holy damage.
     flavor: You unleash a blast of holy light upon your foe.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Ray of Wrath

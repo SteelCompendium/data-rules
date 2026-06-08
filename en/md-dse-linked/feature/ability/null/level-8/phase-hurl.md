@@ -4,7 +4,7 @@ class: "null"
 cost: 11 Discipline
 cost_amount: "11"
 cost_resource: Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: The target and each creature or object they collide with from this [forced movement](../../../../movement/forced-movement.md) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../condition/dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
 feature_type: ability
 file_basename: phase-hurl
@@ -13,7 +13,7 @@ flavor: You throw your foe out of phase with this manifold, causing them to harm
 item_id: phase-hurl
 item_name: Phase Hurl
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -27,13 +27,13 @@ type: ability
 
 ```ds-feature
 cost: 11 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: The target and each creature or object they collide with from this [forced movement](../../../../movement/forced-movement.md) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../condition/dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
 feature_type: ability
 flavor: You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -41,11 +41,11 @@ metadata:
     action_type: Main action
     class: "null"
     cost: 11 Discipline
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: The target and each creature or object they collide with from this [forced movement](../../../../movement/forced-movement.md) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../condition/dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
     flavor: You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Psionic
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon

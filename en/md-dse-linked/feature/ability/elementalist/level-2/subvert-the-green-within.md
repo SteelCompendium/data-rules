@@ -4,7 +4,7 @@ class: elementalist
 cost: 5 Essence
 cost_amount: "5"
 cost_resource: Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target uses their [signature ability](../../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target of this ability.
 feature_type: ability
 file_basename: subvert-the-green-within
@@ -15,7 +15,7 @@ item_name: Subvert the Green Within
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Void
 level: "2"
@@ -28,7 +28,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The target uses their [signature ability](../../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target of this ability.
 feature_type: ability
@@ -36,20 +36,20 @@ flavor: Fungal spores sprout inside your enemy's brain, allowing you to control 
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Void
 metadata:
     action_type: Main action
     class: elementalist
     cost: 5 Essence
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: The target uses their [signature ability](../../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target of this ability.
     flavor: Fungal spores sprout inside your enemy's brain, allowing you to control their actions.
     keywords:
         - Green
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Void
     level: "2"

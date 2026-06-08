@@ -1,18 +1,16 @@
 ---
-disengage_bonus: "+1"
 equipment_text: You wear light armor and wield a medium weapon.
 file_basename: swashbuckler
 file_dpath: kit
 item_id: swashbuckler
 item_name: Swashbuckler
-melee_damage_bonus: +2/+2/+2
 name: Swashbuckler
 scc: mcdm.heroes.v1/kit/swashbuckler
 source: mcdm.heroes.v1
 type: kit
 ---
 
-If you want to be mobile and deal a lot of damage with melee [strikes](../rule/combat/strike.md), then you should reach for the [Swashbuckler](swashbuckler.md) kit. This is a great kit for heroes who want to be master duelists.
+If you want to be mobile and deal a lot of damage with [melee](../rule/combat/melee.md) [strikes](../rule/combat/strike.md), then you should reach for the [Swashbuckler](swashbuckler.md) kit. This is a great kit for heroes who want to be master duelists.
 
 ##### Equipment
 
@@ -20,13 +18,13 @@ You wear light armor and wield a medium weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
+**[Stamina](../rule/health/stamina.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../rule/general/echelon.md)
 
-**[Speed](../rule/character/speed.md) Bonus:** +3
+**[Speed](../rule/character/speed.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +3
 
-**Melee Damage Bonus:** +2/+2/+2
+**[Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +2/+2/+2
 
-**Disengage Bonus:** +1
+**Disengage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
 ##### Signature Ability
 
@@ -34,9 +32,9 @@ You wear light armor and wield a medium weapon.
 
 *All combat is a dance—and you'll be the one leading.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 

@@ -17,9 +17,9 @@ Choose one of the following abilities.
 
 *Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
 
-| **Magic, Melee, Ranged**    |        **Maneuver** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md)**    |        **Maneuver** |
 |-----------------------------|--------------------:|
-| **📏 Melee 1 or ranged 10** | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -32,13 +32,13 @@ Choose one of the following abilities.
 ### Rising Tension {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/rising-tension"}
 
 
-*You narrate the tension of the scene and put all hope into your protagonist to turn things around.*
+*You narrate the tension of the scene and put all hope into your protagonist to [turn](../../../rule/combat/turn.md) things around.*
 
-| **Magic, Ranged** |    **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |    **Maneuver** |
 |-------------------|----------------:|
-| **📏 Ranged 10**  | **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 One ally** |
 
-**Effect:** The target gains 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md), has a double [edge](../../../rule/dice/edge.md) on a [power roll](../../../rule/dice/power-roll.md) of their choice made during their next turn, is no longer [slowed](../../../condition/slowed.md) or [weakened](../../../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+**Effect:** The target gains 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md), has a double [edge](../../../rule/dice/edge.md) on a [power roll](../../../rule/dice/power-roll.md) of their choice made during their next [turn](../../../rule/combat/turn.md), is no longer [slowed](../../../condition/slowed.md) or [weakened](../../../condition/weakened.md) if they were before, and can immediately take their [turn](../../../rule/combat/turn.md) after yours if they have not taken their [turn](../../../rule/combat/turn.md) already this round.
 
 ## 9th-Level Duelist Abilities
 
@@ -49,9 +49,9 @@ Choose one of the following abilities.
 
 *If you can land the [strike](../../../rule/combat/strike.md), the crowd goes wild.*
 
-| **Charge, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Charge, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 3**                    | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 3**                    | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -66,17 +66,17 @@ Choose one of the following abilities.
 
 *No, no. You don't die until the sequel.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **Effect:** Add your current [Stamina](../../../rule/health/stamina.md) to your target's current [Stamina](../../../rule/health/stamina.md), then you have half that total [Stamina](../../../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../../../rule/health/stamina.md) this way than their [Stamina](../../../rule/health/stamina.md) maximum, the difference in [Stamina](../../../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../../../rule/health/stamina.md) than your maximum this way. You then make a [power roll](../../../rule/dice/power-roll.md).
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** You and the target can each end one effect on yourselves that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your turns.
-- **12-16:** You and the target can end any effects on yourselves that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of your turns.
-- **17+:** You can choose any of the current effects on you and the target that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
+- **≤11:** You and the target can each end one effect on yourselves that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your [turns](../../../rule/combat/turn.md).
+- **12-16:** You and the target can end any effects on yourselves that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of your [turns](../../../rule/combat/turn.md).
+- **17+:** You can choose any of the current effects on you and the target that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of your [turns](../../../rule/combat/turn.md), apply the chosen effects to the target, and end the rest.
 
 ## 9th-Level Virtuoso Abilities
 
@@ -97,16 +97,16 @@ Choose one of the following abilities.
 - **12-16:** 11 sonic damage
 - **17+:** 15 sonic damage
 
-**Effect:** Each creature within [distance](../../../rule/combat/distance.md) gains a +5 bonus to [speed](../../../rule/character/speed.md) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+**Effect:** Each creature within [distance](../../../rule/combat/distance.md) gains a +5 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of their next [turn](../../../rule/combat/turn.md). While under this effect, each target must use their full movement during their [turn](../../../rule/combat/turn.md).
 
 ### Melt Their Faces {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces"}
 
 
 *The power of music rips through the reality around the target and blows them away.*
 
-| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 

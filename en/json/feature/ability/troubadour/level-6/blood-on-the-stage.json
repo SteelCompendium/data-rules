@@ -1,6 +1,6 @@
 {
   "cost": "9 Drama",
-  "distance": "Melee 1",
+  "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
       "effect": ""
@@ -9,21 +9,21 @@
   "feature_type": "ability",
   "flavor": "It's love and blood or drama and blood. Either way, there's always blood.",
   "keywords": [
-    "Melee",
+    "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
     "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*It's love and blood or drama and blood. Either way, there's always blood.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Melee 1**            | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 12 + A damage; M \u003c WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)\n- **12-16:** 18 + A damage; M \u003c AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)\n- **17+:** 24 + A damage; [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)), or if M \u003c STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)",
-    "distance": "Melee 1",
+    "content": "\n*It's love and blood or drama and blood. Either way, there's always blood.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 12 + A damage; M \u003c WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)\n- **12-16:** 18 + A damage; M \u003c AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)\n- **17+:** 24 + A damage; [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)), or if M \u003c STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)",
+    "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
     "feature_type": "ability",
     "flavor": "It's love and blood or drama and blood. Either way, there's always blood.",
     "item_id": "blood-on-the-stage",
     "item_name": "Blood on the Stage",
     "keywords": [
-      "Melee",
+      "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],

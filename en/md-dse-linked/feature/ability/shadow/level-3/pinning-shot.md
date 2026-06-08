@@ -4,7 +4,7 @@ class: shadow
 cost: 7 Insight
 cost_amount: "7"
 cost_resource: Insight
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 feature_type: ability
 file_basename: pinning-shot
 file_dpath: feature/ability/shadow/level-3
@@ -12,7 +12,7 @@ flavor: One missile—placed well and placed hard.
 item_id: pinning-shot
 item_name: Pinning Shot
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "3"
@@ -25,23 +25,23 @@ type: ability
 
 ```ds-feature
 cost: 7 Insight
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "\n*One missile—placed well and placed hard.*\n\n| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)"
+    - effect: "\n*One missile—placed well and placed hard.*\n\n| **[Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)"
 feature_type: ability
 flavor: One missile—placed well and placed hard.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 7 Insight
-    distance: Ranged 5
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
     flavor: One missile—placed well and placed hard.
     keywords:
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "3"

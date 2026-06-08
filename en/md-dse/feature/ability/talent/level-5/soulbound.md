@@ -4,8 +4,8 @@ class: talent
 cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
-distance: Ranged 10
-effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) while not [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
 feature_type: ability
 file_basename: soulbound
 file_dpath: feature/ability/talent/level-5
@@ -15,7 +15,7 @@ item_name: Soulbound
 keywords:
     - Animapathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "5"
 name: Soulbound
@@ -27,27 +27,27 @@ type: ability
 
 ```ds-feature
 cost: 9 Clarity
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+    - effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) while not [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
 feature_type: ability
 flavor: You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.
 keywords:
     - Animapathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: talent
     cost: 9 Clarity
-    distance: Ranged 10
-    effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) while not [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
     flavor: You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.
     keywords:
         - Animapathy
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "5"
     name: Soulbound

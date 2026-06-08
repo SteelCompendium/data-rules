@@ -29,7 +29,7 @@ Additionally, when your [Stamina](../../../rule/health/stamina.md) reaches the n
 
 ### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
 
-Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +1 bonus.
+Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md).
 
 ### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.hakaan/great-fortitude"}
 

@@ -1,23 +1,23 @@
 cost: 11 Focus
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) and can use a [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action). That ability gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and increases the [potency](scc:mcdm.heroes.v1/rule.character/potency) of any [potency](scc:mcdm.heroes.v1/rule.character/potency) effects by 1.
       name: Effect
 feature_type: ability
 flavor: You direct your squad to strike in unison and with devastating effect.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: tactician
-    content: "\n*You direct your squad to strike in unison and with devastating effect.*\n\n| **Ranged**       |     **Main action** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**Effect:** Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) and can use a [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action). That ability gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and increases the [potency](scc:mcdm.heroes.v1/rule.character/potency) of any [potency](scc:mcdm.heroes.v1/rule.character/potency) effects by 1."
-    distance: Ranged 10
+    content: "\n*You direct your squad to strike in unison and with devastating effect.*\n\n| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**       |     **Main action** |\n|------------------|--------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10** | **\U0001F3AF Three allies** |\n\n**Effect:** Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) and can use a [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action). That ability gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and increases the [potency](scc:mcdm.heroes.v1/rule.character/potency) of any [potency](scc:mcdm.heroes.v1/rule.character/potency) effects by 1."
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     feature_type: ability
     flavor: You direct your squad to strike in unison and with devastating effect.
     item_id: floodgates-open
     item_name: Floodgates Open
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: 8
     scc:
         - mcdm.heroes.v1/feature.ability.tactician.level-8/floodgates-open

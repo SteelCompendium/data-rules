@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: shadow
-distance: Melee 1 or ranged 5
-effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+effect: If the target has none of your allies [adjacent](../../../../rule/combat/adjacent.md) to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: i-work-better-alone
 file_dpath: feature/ability/shadow/level-1
@@ -10,8 +10,8 @@ flavor: '"It''s better, just you and me. Isn''t it?"'
 item_id: i-work-better-alone
 item_name: I Work Better Alone
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -24,25 +24,25 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
+    - effect: If the target has none of your allies [adjacent](../../../../rule/combat/adjacent.md) to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: '"It''s better, just you and me. Isn''t it?"'
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
-    distance: Melee 1 or ranged 5
-    effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
+    distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+    effect: If the target has none of your allies [adjacent](../../../../rule/combat/adjacent.md) to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
     flavor: '"It''s better, just you and me. Isn''t it?"'
     keywords:
-        - Melee
-        - Ranged
+        - '[Melee](../../../../rule/combat/melee.md)'
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

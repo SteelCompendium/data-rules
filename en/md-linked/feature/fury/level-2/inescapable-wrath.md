@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.fury.level-2/inescapable-wrath
 type: feature
 ---
 
-You have a bonus to [speed](../../../rule/character/speed.md) equal to your [Agility](../../../rule/character/agility.md) score, and you ignore [difficult terrain](../../../movement/difficult-terrain.md).
+You have a [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) equal to your [Agility](../../../rule/character/agility.md) score, and you ignore [difficult terrain](../../../movement/difficult-terrain.md).

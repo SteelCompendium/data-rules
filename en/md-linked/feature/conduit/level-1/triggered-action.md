@@ -13,9 +13,9 @@ Choose one of the following [triggered actions](../../../rule/combat/triggered-a
 
 *You invigorate an attacking ally with divine energy.*
 
-| **Magic, Ranged**      |        **Triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**      |        **Triggered** |
 |------------------------|---------------------:|
-| **📏 Ranged 10**       |      **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**       |      **🎯 One ally** |
 
 **Trigger:** The target makes an [ability roll](../../../rule/dice/ability-roll.md) for a damage-dealing ability.
 
@@ -28,9 +28,9 @@ Choose one of the following [triggered actions](../../../rule/combat/triggered-a
 
 *Your holy word saps an attacking enemy's strength.*
 
-| **Magic, Ranged**  |     **Triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |     **Triggered** |
 |--------------------|------------------:|
-| **📏 Ranged 10**   |   **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   |   **🎯 One ally** |
 
 **Trigger:** The target would take damage from an ability that uses a [power roll](../../../rule/dice/power-roll.md).
 

@@ -4,7 +4,7 @@ class: censor
 cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../../../../rule/resource/surge.md).
 feature_type: ability
 file_basename: righteous-judgment
@@ -13,7 +13,7 @@ flavor: You amplify the power of your [judgment](../level-1/judgment.md).
 item_id: righteous-judgment
 item_name: Righteous Judgment
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../../../../rule/resource/surge.md).
 feature_type: ability
 flavor: You amplify the power of your [judgment](../level-1/judgment.md).
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
     cost: 9 Wrath
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../../../../rule/resource/surge.md).
     flavor: You amplify the power of your [judgment](../level-1/judgment.md).
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "5"

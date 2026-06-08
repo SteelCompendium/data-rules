@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: Two jets of flame lance out at your command.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Bifurcated Incineration
@@ -19,9 +19,9 @@ type: ability
 
 *Two jets of flame lance out at your command.*
 
-| **Fire, Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |                 **Main action** |
+| **Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |                 **Main action** |
 |---------------------------------|--------------------------------:|
-| **📏 Ranged 10**                | **🎯 Two creatures or objects** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

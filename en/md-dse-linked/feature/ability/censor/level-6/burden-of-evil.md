@@ -4,7 +4,7 @@ class: censor
 cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 feature_type: ability
 file_basename: burden-of-evil
 file_dpath: feature/ability/censor/level-6
@@ -13,7 +13,7 @@ item_id: burden-of-evil
 item_name: Burden of Evil
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Burden of Evil
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*\n\n| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |         **Maneuver** |\n|---------------------------|---------------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF Three enemies** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)\n- **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)\n- **17+:** Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)"
+    - effect: "\n*You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*\n\n| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |         **Maneuver** |\n|---------------------------|---------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**          | **\U0001F3AF Three enemies** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)\n- **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)\n- **17+:** Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)"
 feature_type: ability
 flavor: You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Maneuver
     class: censor
     cost: 9 Wrath
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     flavor: You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "6"
     name: Burden of Evil

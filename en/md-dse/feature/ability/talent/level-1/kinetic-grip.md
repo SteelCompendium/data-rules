@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: talent
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 feature_type: ability
 file_basename: kinetic-grip
 file_dpath: feature/ability/talent/level-1
@@ -10,7 +10,7 @@ item_id: kinetic-grip
 item_name: Kinetic Grip
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Telekinesis
 level: "1"
 name: Kinetic Grip
@@ -22,23 +22,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*You lift and hurl your foe away from you.*\n\n| **Psionic, Ranged, Telekinesis** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                 | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** Slide 2 + R\n- **12-16:** Slide 4 + R\n- **17+:** Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)\n\n**Strained:** You must vertical push the target instead of sliding them."
+    - effect: "\n*You lift and hurl your foe away from you.*\n\n| **Psionic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), Telekinesis** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                 | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** Slide 2 + R\n- **12-16:** Slide 4 + R\n- **17+:** Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)\n\n**Strained:** You must vertical push the target instead of sliding them."
 feature_type: ability
 flavor: You lift and hurl your foe away from you.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Telekinesis
 metadata:
     action_type: Main action
     class: talent
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     flavor: You lift and hurl your foe away from you.
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Telekinesis
     level: "1"
     name: Kinetic Grip

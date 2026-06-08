@@ -17,6 +17,6 @@ You have the following ability.
 |-------------|-------------------:|
 | **📏 Self** |        **🎯 Self** |
 
-**Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.
+**Trigger:** Another hero ends their [turn](../../../rule/combat/turn.md). That hero can't have used this ability to start their [turn](../../../rule/combat/turn.md).
 
-**Effect:** You take your turn after the triggering hero.
+**Effect:** You take your [turn](../../../rule/combat/turn.md) after the triggering hero.

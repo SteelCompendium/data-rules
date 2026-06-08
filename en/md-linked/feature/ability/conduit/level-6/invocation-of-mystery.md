@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 9 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: Each target is invisible until the start of your next turn.
+effect: Each target is invisible until the start of your next [turn](../../../../rule/combat/turn.md).
 flavor: '"Now you see us..."'
 keywords:
     - Area
@@ -22,4 +22,4 @@ type: ability
 |------------------|--------------------------------------:|
 | **📏 4 [burst](../../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target is invisible until the start of your next turn.
+**Effect:** Each target is invisible until the start of your next [turn](../../../../rule/combat/turn.md).

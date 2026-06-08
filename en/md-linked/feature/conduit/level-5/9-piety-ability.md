@@ -13,9 +13,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -30,7 +30,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *"If you won't kneel, the gods will make you."*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 4 [cube](../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -45,19 +45,19 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You send yourself or an ally to a divine manifold to instantaneously regain health.*
 
-| **Magic, Ranged**  |            **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |            **Maneuver** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** The target is removed from the encounter map until the start of their next turn and can spend any number of [Recoveries](../../../rule/health/recoveries.md). At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.
+**Effect:** The target is removed from the encounter map until the start of their next [turn](../../../rule/combat/turn.md) and can spend any number of [Recoveries](../../../rule/health/recoveries.md). At the start of their [turn](../../../rule/combat/turn.md), the target reappears in the space they left or the nearest unoccupied space of their choice.
 
 ## Vessel of Retribution {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution"}
 
 
 *You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*
 
-| **Magic, Ranged**  | **Maneuver**            |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  | **Maneuver**            |
 |--------------------|-------------------------|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
 **Effect:** The first time the target is [dying](../../../rule/health/dying.md) or [winded](../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.

@@ -3,11 +3,11 @@ action_type: Main action
 class: shadow
 cost: 11 Insight
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to twice your [speed](../../../../rule/character/speed.md), making one [power roll](../../../../rule/dice/power-roll.md) that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).
+effect: You [shift](../../../../movement/shifting.md) up to twice your [speed](../../../../rule/character/speed.md), making one [power roll](../../../../rule/dice/power-roll.md) that targets each creature you come [adjacent](../../../../rule/combat/adjacent.md) to during the [shift](../../../../movement/shifting.md).
 flavor: You tumble through the battle, stabbing foes and [teleporting](../../../../movement/teleport.md) allies.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "9"
 name: Cacophony of Cinders
@@ -19,11 +19,11 @@ type: ability
 
 *You tumble through the battle, stabbing foes and [teleporting](../../../../movement/teleport.md) allies.*
 
-| **Magic, Melee, Weapon** | **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), Weapon** | **Main action** |
 |--------------------------|----------------:|
 | **📏 Self; see below**   |     **🎯 Self** |
 
-**Effect:** You [shift](../../../../movement/shifting.md) up to twice your [speed](../../../../rule/character/speed.md), making one [power roll](../../../../rule/dice/power-roll.md) that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).
+**Effect:** You [shift](../../../../movement/shifting.md) up to twice your [speed](../../../../rule/character/speed.md), making one [power roll](../../../../rule/dice/power-roll.md) that targets each creature you come [adjacent](../../../../rule/combat/adjacent.md) to during the [shift](../../../../movement/shifting.md).
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

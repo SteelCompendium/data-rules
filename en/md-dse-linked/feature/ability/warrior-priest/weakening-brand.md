@@ -1,7 +1,7 @@
 ---
 action_type: Main action
-distance: Melee 1
-effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
+distance: '[Melee](../../../rule/combat/melee.md) 1'
+effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: weakening-brand
 file_dpath: feature/ability/warrior-priest
@@ -10,7 +10,7 @@ item_id: weakening-brand
 item_name: Weakening Brand
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: warrior-priest
@@ -23,24 +23,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
-    - effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
+    - effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: The impact of your weapon brands your target for destruction.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
-    effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
+    effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
     flavor: The impact of your weapon brands your target for destruction.
     keywords:
         - Magic
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: warrior-priest

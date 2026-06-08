@@ -1,6 +1,6 @@
 {
   "ability_type": "Signature",
-  "distance": "Ranged 10",
+  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
       "effect": ""
@@ -11,15 +11,15 @@
   "keywords": [
     "Fire",
     "Magic",
-    "Ranged",
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
     "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*Two jets of flame lance out at your command.*\n\n| **Fire, Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |                 **Main action** |\n|---------------------------------|--------------------------------:|\n| **📏 Ranged 10**                | **🎯 Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 fire damage\n- **12-16:** 4 fire damage\n- **17+:** 6 fire damage",
-    "distance": "Ranged 10",
+    "content": "\n*Two jets of flame lance out at your command.*\n\n| **Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |                 **Main action** |\n|---------------------------------|--------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                | **🎯 Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 fire damage\n- **12-16:** 4 fire damage\n- **17+:** 6 fire damage",
+    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "Two jets of flame lance out at your command.",
     "item_id": "bifurcated-incineration",
@@ -27,7 +27,7 @@
     "keywords": [
       "Fire",
       "Magic",
-      "Ranged",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 1,

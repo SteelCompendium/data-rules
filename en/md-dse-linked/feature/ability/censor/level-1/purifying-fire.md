@@ -4,7 +4,7 @@ class: censor
 cost: 5 Wrath
 cost_amount: "5"
 cost_resource: Wrath
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effect: While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
 feature_type: ability
 file_basename: purifying-fire
@@ -14,8 +14,8 @@ item_id: purifying-fire
 item_name: Purifying Fire
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -28,28 +28,28 @@ type: ability
 
 ```ds-feature
 cost: 5 Wrath
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
     - effect: While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
 feature_type: ability
 flavor: The gods judge, fire cleanses.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
     cost: 5 Wrath
-    distance: Melee 1 or ranged 5
+    distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
     effect: While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
     flavor: The gods judge, fire cleanses.
     keywords:
         - Magic
-        - Melee
-        - Ranged
+        - '[Melee](../../../../rule/combat/melee.md)'
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

@@ -1,25 +1,25 @@
 ability:
     ability_type: Triggered
-    distance: Ranged 5
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
     effects:
         - effect: The target takes half the damage. You remain hidden.
           name: Effect
     feature_type: ability
     flavor: A steely dagger from out of the blue knocks another weapon off course.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Weapon
     metadata:
         ability_type: Triggered
         action_type: Triggered
-        content: "\n*A steely dagger from out of the blue knocks another weapon off course.*\n\n| **Ranged, Weapon** |   **Triggered** |\n|--------------------|----------------:|\n| **\U0001F4CF Ranged 5**    | **\U0001F3AF One ally** |\n\n**Trigger:** The target takes damage from another creature's ability while you are hidden.\n\n**Effect:** The target takes half the damage. You remain hidden."
-        distance: Ranged 5
+        content: "\n*A steely dagger from out of the blue knocks another weapon off course.*\n\n| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), Weapon** |   **Triggered** |\n|--------------------|----------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**    | **\U0001F3AF One ally** |\n\n**Trigger:** The target takes damage from another creature's ability while you are hidden.\n\n**Effect:** The target takes half the damage. You remain hidden."
+        distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
         feature_type: ability
         flavor: A steely dagger from out of the blue knocks another weapon off course.
         item_id: night-watch
         item_name: Night Watch
         keywords:
-            - Ranged
+            - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
             - Weapon
         target: One ally
         type: feature/ability/common

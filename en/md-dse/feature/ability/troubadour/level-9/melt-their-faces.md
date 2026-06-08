@@ -4,7 +4,7 @@ class: troubadour
 cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
-distance: Melee 1 or ranged 10
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: '[Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).'
 feature_type: ability
 file_basename: melt-their-faces
@@ -14,8 +14,8 @@ item_id: melt-their-faces
 item_name: Melt Their Faces
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "9"
 name: Melt Their Faces
@@ -27,27 +27,27 @@ type: ability
 
 ```ds-feature
 cost: 11 Drama
-distance: Melee 1 or ranged 10
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: '[Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).'
 feature_type: ability
 flavor: The power of music rips through the reality around the target and blows them away.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: troubadour
     cost: 11 Drama
-    distance: Melee 1 or ranged 10
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: '[Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).'
     flavor: The power of music rips through the reality around the target and blows them away.
     keywords:
         - Magic
-        - Melee
-        - Ranged
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "9"
     name: Melt Their Faces

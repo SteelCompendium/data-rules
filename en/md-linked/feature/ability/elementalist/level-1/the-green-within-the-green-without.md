@@ -1,13 +1,13 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You slide one creature within 10 squares of the target up to 2 squares.
 flavor: Whipping vines erupt from a foe's body to grasp at another close by.
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: The Green Within, the Green Without
@@ -20,9 +20,9 @@ type: ability
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
 
-| **Green, Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |      **Main action** |
+| **Green, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                 |  **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

@@ -1,20 +1,20 @@
 cost: 5 Essence
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy adjacent to the target's new space.
+    - effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target's new space.
       name: Effect
 feature_type: ability
 flavor: Your ally disappears, then reappears in a burst of fire.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Void
 metadata:
     action_type: Main action
     class: elementalist
-    content: "\n*Your ally disappears, then reappears in a burst of fire.*\n\n| **Fire, Magic, Ranged, Void** |         **Main action** |\n|-------------------------------|------------------------:|\n| **\U0001F4CF Ranged 10**              | **\U0001F3AF Self or one ally** |\n\n**Effect:** The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy adjacent to the target's new space.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 fire damage\n- **12-16:** 5 fire damage\n- **17+:** 8 fire damage"
-    distance: Ranged 10
+    content: "\n*Your ally disappears, then reappears in a burst of fire.*\n\n| **Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), Void** |         **Main action** |\n|-------------------------------|------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**              | **\U0001F3AF Self or one ally** |\n\n**Effect:** The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target's new space.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 fire damage\n- **12-16:** 5 fire damage\n- **17+:** 8 fire damage"
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     feature_type: ability
     flavor: Your ally disappears, then reappears in a burst of fire.
     item_id: translated-through-flame
@@ -22,7 +22,7 @@ metadata:
     keywords:
         - Fire
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Void
     level: 2
     scc:

@@ -2,13 +2,13 @@
 action_type: Main action
 class: troubadour
 cost: 11 Drama
-distance: Melee 1 or ranged 10
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
 effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md).'
 flavor: The power of music rips through the reality around the target and blows them away.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: Melt Their Faces
@@ -20,9 +20,9 @@ type: ability
 
 *The power of music rips through the reality around the target and blows them away.*
 
-| **Magic, Melee, Ranged, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

@@ -4,8 +4,8 @@ class: talent
 cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
-distance: Ranged 10
-effect: Until the start of your next turn, each target gains a +5 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed), they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that condition ends for them.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each target gains a +5 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc:mcdm.heroes.v1/rule.character/speed), they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their [turn](scc:mcdm.heroes.v1/rule.combat/turn). If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that [condition](scc:mcdm.heroes.v1/rule.combat/condition) ends for them.
 feature_type: ability
 file_basename: applied-chronometrics
 file_dpath: feature/ability/talent/level-2
@@ -15,7 +15,7 @@ item_name: Applied Chronometrics
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "2"
 name: Applied Chronometrics
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics
@@ -26,26 +26,26 @@ type: ability
 
 ```ds-feature
 cost: 5 Clarity
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: Until the start of your next turn, each target gains a +5 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed), they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that condition ends for them.
+    - effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each target gains a +5 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc:mcdm.heroes.v1/rule.character/speed), they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their [turn](scc:mcdm.heroes.v1/rule.combat/turn). If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that [condition](scc:mcdm.heroes.v1/rule.combat/condition) ends for them.
 feature_type: ability
 flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: talent
     cost: 5 Clarity
-    distance: Ranged 10
-    effect: Until the start of your next turn, each target gains a +5 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed), they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that condition ends for them.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each target gains a +5 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc:mcdm.heroes.v1/rule.character/speed), they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their [turn](scc:mcdm.heroes.v1/rule.combat/turn). If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that [condition](scc:mcdm.heroes.v1/rule.combat/condition) ends for them.
     flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
     keywords:
         - Chronopathy
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "2"
     name: Applied Chronometrics
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics

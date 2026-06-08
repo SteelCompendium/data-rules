@@ -4,16 +4,16 @@ class: censor
 cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
-distance: Ranged 10
-effect: While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) within 5 squares of them must use a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.
 feature_type: ability
 file_basename: your-allies-turn-on-you
 file_dpath: feature/ability/censor/level-8
-flavor: You turn your enemies' ire to the target.
+flavor: You [turn](scc:mcdm.heroes.v1/rule.combat/turn) your enemies' ire to the target.
 item_id: your-allies-turn-on-you
 item_name: Your Allies Turn on You!
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "8"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 11 Wrath
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.
+    - effect: While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) within 5 squares of them must use a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.
 feature_type: ability
-flavor: You turn your enemies' ire to the target.
+flavor: You [turn](scc:mcdm.heroes.v1/rule.combat/turn) your enemies' ire to the target.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
     cost: 11 Wrath
-    distance: Ranged 10
-    effect: While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.
-    flavor: You turn your enemies' ire to the target.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: While the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) within 5 squares of them must use a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target. Additionally, while the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a different creature must make the [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target instead.
+    flavor: You [turn](scc:mcdm.heroes.v1/rule.combat/turn) your enemies' ire to the target.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "8"

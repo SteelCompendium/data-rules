@@ -1,7 +1,7 @@
 ---
 action_type: Main action
-distance: Melee 1
-effect: Until the end of the target's next turn, any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.
+distance: '[Melee](../../../rule/combat/melee.md) 1'
+effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.
 feature_type: ability
 file_basename: unmooring
 file_dpath: feature/ability/battlemind
@@ -9,7 +9,7 @@ flavor: Your weapon unleashes psionic energy that reduces your target's weight.
 item_id: unmooring
 item_name: Unmooring
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
-    - effect: Until the end of the target's next turn, any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.
+    - effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.
 feature_type: ability
 flavor: Your weapon unleashes psionic energy that reduces your target's weight.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
-    effect: Until the end of the target's next turn, any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
+    effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.
     flavor: Your weapon unleashes psionic energy that reduces your target's weight.
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - Psionic
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon

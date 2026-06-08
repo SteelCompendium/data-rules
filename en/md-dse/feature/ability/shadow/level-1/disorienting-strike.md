@@ -4,7 +4,7 @@ class: shadow
 cost: 3 Insight
 cost_amount: "3"
 cost_resource: Insight
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you slide them.
 feature_type: ability
 file_basename: disorienting-strike
@@ -13,7 +13,7 @@ flavor: Your attack leaves them reeling, allowing you to follow up.
 item_id: disorienting-strike
 item_name: Disorienting Strike
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 3 Insight
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you slide them.
 feature_type: ability
 flavor: Your attack leaves them reeling, allowing you to follow up.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 3 Insight
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you slide them.
     flavor: Your attack leaves them reeling, allowing you to follow up.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"

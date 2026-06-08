@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you push them.
 feature_type: ability
 file_basename: fancy-footwork
@@ -9,7 +9,7 @@ flavor: All combat is a dance—and you'll be the one leading.
 item_id: fancy-footwork
 item_name: Fancy Footwork
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: swashbuckler
@@ -22,22 +22,22 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you push them.
 feature_type: ability
 flavor: All combat is a dance—and you'll be the one leading.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
     effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you push them.
     flavor: All combat is a dance—and you'll be the one leading.
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: swashbuckler

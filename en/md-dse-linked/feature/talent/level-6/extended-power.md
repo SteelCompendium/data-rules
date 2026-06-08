@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability is ranged, the [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Reason](../../../rule/character/reason.md) score. If the ability is melee, the [distance](../../../rule/combat/distance.md) gains a +2 bonus.
+    - effect: If the ability is [ranged](../../../rule/combat/ranged.md), the [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../../../rule/character/reason.md) score. If the ability is [melee](../../../rule/combat/melee.md), the [distance](../../../rule/combat/distance.md) gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md).
 feature_type: feature
 metadata:
     class: talent

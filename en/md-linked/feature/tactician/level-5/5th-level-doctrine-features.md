@@ -34,8 +34,8 @@ You and any ally within 10 squares of you can move at full [speed](../../../rule
 
 ## Shake It Off {data-scc="mcdm.heroes.v1/feature.tactician.level-5/shake-it-off"}
 
-As a [free maneuver](../../../rule/combat/free-maneuver.md), you can spend 1d6 [Stamina](../../../rule/health/stamina.md) to ignore a consequence from a [test](../../../rule/test/test.md), or to end one effect on you that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your turn. Any ally adjacent to you can also spend [Stamina](../../../rule/health/stamina.md) as a [free maneuver](../../../rule/combat/free-maneuver.md) to gain this benefit.
+As a [free maneuver](../../../rule/combat/free-maneuver.md), you can spend 1d6 [Stamina](../../../rule/health/stamina.md) to ignore a consequence from a [test](../../../rule/test/test.md), or to end one effect on you that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your [turn](../../../rule/combat/turn.md). Any ally [adjacent](../../../rule/combat/adjacent.md) to you can also spend [Stamina](../../../rule/health/stamina.md) as a [free maneuver](../../../rule/combat/free-maneuver.md) to gain this benefit.
 
 ## Tactical Offensive {data-scc="mcdm.heroes.v1/feature.tactician.level-5/tactical-offensive"}
 
-When you use the [Charge](../../common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or [heroic ability](../../../rule/general/heroic-ability.md) with the Melee and Strike keywords instead of a melee [free strike](../../common/main-actions/free-strike.md).
+When you use the [Charge](../../common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or [heroic ability](../../../rule/general/heroic-ability.md) with the [Melee](../../../rule/combat/melee.md) and Strike keywords instead of a [melee](../../../rule/combat/melee.md) [free strike](../../common/main-actions/free-strike.md).

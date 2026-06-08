@@ -28,9 +28,9 @@ Choose one of the following abilities.
 
 *The force of your [strike](../../../rule/combat/strike.md) moves your target in a surprising direction.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 3**                     | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 3**                     | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -66,7 +66,7 @@ Choose one of the following [heroic abilities](../../../rule/general/heroic-abil
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the start of your next turn, the size of your [Null Field](../level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your [Intuition](../../../rule/character/intuition.md) score.
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), the size of your [Null Field](../level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../rule/combat/concealment.md) while in the area. At the end of this [turn](../../../rule/combat/turn.md), each enemy in the area takes cold damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## 2nd-Level Metakinetic Ability
 
@@ -77,9 +77,9 @@ Choose one of the following abilities.
 
 *Your fist emanates gravitic force that pulls a distant enemy closer.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 3**                     | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 3**                     | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 

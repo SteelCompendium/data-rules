@@ -2,11 +2,11 @@
 action_type: Main action
 class: shadow
 cost: 3 Insight
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 flavor: A bargain.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -19,9 +19,9 @@ type: ability
 
 *A bargain.*
 
-| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |-----------------------------------|--------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

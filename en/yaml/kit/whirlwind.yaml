@@ -1,31 +1,29 @@
-content: "The [Whirlwind](scc:mcdm.heroes.v1/kit/whirlwind) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.\n\n##### Equipment\n\nYou wear no armor and wield a whip.\n\n##### Kit Bonuses\n\n**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +3\n\n**Melee Damage Bonus:** +1/+1/+1\n\n**Melee [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +1\n\n**Disengage Bonus:** +1\n\n##### Signature Ability\n\n###### Extension of My Arm\n\n*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 3**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
-disengage_bonus: "+1"
+content: "The [Whirlwind](scc:mcdm.heroes.v1/kit/whirlwind) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.\n\n##### Equipment\n\nYou wear no armor and wield a whip.\n\n##### Kit Bonuses\n\n**[Speed](scc:mcdm.heroes.v1/rule.character/speed) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +3\n\n**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1/+1/+1\n\n**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) [Distance](scc:mcdm.heroes.v1/rule.combat/distance) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1\n\n**Disengage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1\n\n##### Signature Ability\n\n###### Extension of My Arm\n\n*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
 equipment_text: You wear no armor and wield a whip.
-melee_damage_bonus: +1/+1/+1
 name: Whirlwind
 scc: mcdm.heroes.v1/kit/whirlwind
 signature_ability:
     ability_type: Signature
-    distance: Melee 3
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
     effects:
         - effect: ""
     feature_type: ability
     flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     metadata:
         ability_type: Signature
         action_type: Main action
-        content: "*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 3**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
-        distance: Melee 3
+        content: "*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
+        distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
         feature_type: ability
         flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
         item_id: extension-of-my-arm
         item_name: Extension of My Arm
         keywords:
-            - Melee
+            - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
             - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
             - Weapon
         target: One creature

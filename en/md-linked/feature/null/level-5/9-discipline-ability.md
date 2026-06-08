@@ -13,9 +13,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |  **Free triggered** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |  **Free triggered** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **Trigger:** The target moves or uses a main action.
 
@@ -30,11 +30,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 ## Iron Grip {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/iron-grip"}
 
 
-*You grab the target with supernatural force.*
+*You grab the target with [supernatural](../../../rule/general/supernatural.md) force.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -53,7 +53,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------|------------:|
 | **📏 Self** | **🎯 Self** |
 
-**Effect:** You jump up to your [speed](../../../rule/character/speed.md) without provoking [opportunity attacks](../../../rule/combat/opportunity-attack.md). Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md). You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../level-1/null-field.md) ability is active, your afterimage also projects the [aura](../../../rule/combat/aura.md) from that ability, which you control as if you were in the afterimage's space.
+**Effect:** You jump up to your [speed](../../../rule/character/speed.md) without provoking [opportunity attacks](../../../rule/combat/opportunity-attack.md). Until the end of your next [turn](../../../rule/combat/turn.md), a static afterimage of you remains in the space you left, and any enemy [adjacent](../../../rule/combat/adjacent.md) to your afterimage takes a [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md). You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../level-1/null-field.md) ability is active, your afterimage also projects the [aura](../../../rule/combat/aura.md) from that ability, which you control as if you were in the afterimage's space.
 
 ## Synaptic Reset {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset"}
 
@@ -64,4 +64,4 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------------|--------------------------------------:|
 | **📏 3 [burst](../../../rule/combat/burst.md)**    | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md) for each condition or effect removed.
+**Effect:** Each target can end any [conditions](../../../rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md) for each [condition](../../../rule/combat/condition.md) or effect removed.

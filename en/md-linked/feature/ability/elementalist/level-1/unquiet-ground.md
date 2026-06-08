@@ -8,7 +8,7 @@ keywords:
     - Area
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Unquiet Ground
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/unquiet-ground
@@ -20,7 +20,7 @@ type: ability
 
 *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
 
-| **Area, Earth, Magic, Ranged** |               **Main action** |
+| **Area, Earth, Magic, [Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 2 [cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 

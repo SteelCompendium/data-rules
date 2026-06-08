@@ -17,11 +17,11 @@ Choose one of the following abilities.
 
 *Your foe gets a glimpse of how it will end for them.*
 
-| **Chronopathy, Psionic, Melee** |  **Main action** |
+| **Chronopathy, Psionic, [Melee](../../../rule/combat/melee.md)** |  **Main action** |
 |---------------------------------|-----------------:|
-| **📏 Melee 2**                  | **🎯 One enemy** |
+| **📏 [Melee](../../../rule/combat/melee.md) 2**                  | **🎯 One enemy** |
 
-**Effect:** The target has [damage weakness](../../../rule/damage/damage-weakness.md) 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../condition/prone.md).
+**Effect:** The target has [damage weakness](../../../rule/damage/damage-weakness.md) 5 until the end of your next [turn](../../../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../condition/prone.md).
 
 **Strained:** This ability gains the [Strike](../../../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a [power roll](../../../rule/dice/power-roll.md), then are [weakened](../../../condition/weakened.md) (save ends).
 
@@ -36,11 +36,11 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.*
 
-| **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |
+| **Area, Chronopathy, Psionic, [Ranged](../../../rule/combat/ranged.md)** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
 | **📏 4 [cube](../../../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
-**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../../rule/health/stamina.md) remain undestroyed.
+**Effect:** The area is frozen in time until the start of your next [turn](../../../rule/combat/turn.md). Each object in the area is [restrained](../../../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../../rule/health/stamina.md) remain undestroyed.
 
 Make a [power roll](../../../rule/dice/power-roll.md) that targets each enemy in the area.
 
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 
 *You bend gravity into a fine point and pull your foes toward it.*
 
-| **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
+| **Area, Psionic, [Ranged](../../../rule/combat/ranged.md), Telekinesis** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
 | **📏 4 [cube](../../../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
@@ -80,9 +80,9 @@ Choose one of the following abilities.
 
 *You raise the target into the air without breaking a sweat.*
 
-| **Psionic, Ranged**, **Strike, Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)**, **Strike, Telekinesis** |               **Main action** |
 |----------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                             | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -101,9 +101,9 @@ Choose one of the following abilities.
 
 *It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 
-| **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
+| **Psionic, [Melee](../../../rule/combat/melee.md)**, **Strike, Telepathy** |     **Main action** |
 |-------------------------------------------|--------------------:|
-| **📏 Melee 2**                            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 2**                            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -118,11 +118,11 @@ Choose one of the following abilities.
 
 *You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.*
 
-| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telepathy** |   **Maneuver** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Telepathy** |   **Maneuver** |
 |----------------------------------------|---------------:|
-| **📏 Ranged 10**                       | **🎯 Special** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                       | **🎯 Special** |
 
-**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next turn.
+**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next [turn](../../../rule/combat/turn.md).
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 

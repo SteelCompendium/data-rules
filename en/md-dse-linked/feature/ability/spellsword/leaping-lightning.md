@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: leaping-lightning
@@ -10,7 +10,7 @@ item_id: leaping-lightning
 item_name: Leaping Lightning
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: spellsword
@@ -23,24 +23,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
     - effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: Lightning jumps from your weapon as you strike to harm a nearby foe.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
     effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
     flavor: Lightning jumps from your weapon as you strike to harm a nearby foe.
     keywords:
         - Magic
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: spellsword

@@ -4,8 +4,8 @@ class: fury
 cost: 3 Ferocity
 cost_amount: "3"
 cost_resource: Ferocity
-distance: Melee 1
-effect: While [bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../../rule/character/might.md) score at the end of each of your turns.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: While [bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../../rule/character/might.md) score at the end of each of your [turns](../../../../rule/combat/turn.md).
 feature_type: ability
 file_basename: your-entrails-are-your-extrails
 file_dpath: feature/ability/fury/level-1
@@ -13,7 +13,7 @@ flavor: Hard for them to fight when they're busy holding in their giblets.
 item_id: your-entrails-are-your-extrails
 item_name: Your Entrails Are Your Extrails!
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 3 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: While [bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../../rule/character/might.md) score at the end of each of your turns.
+    - effect: While [bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../../rule/character/might.md) score at the end of each of your [turns](../../../../rule/combat/turn.md).
 feature_type: ability
 flavor: Hard for them to fight when they're busy holding in their giblets.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 3 Ferocity
-    distance: Melee 1
-    effect: While [bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../../rule/character/might.md) score at the end of each of your turns.
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
+    effect: While [bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../../rule/character/might.md) score at the end of each of your [turns](../../../../rule/combat/turn.md).
     flavor: Hard for them to fight when they're busy holding in their giblets.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: At the end of each of your turns, each ally in the area gains [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
+    - effect: At the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn), each ally in the area gains [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
 feature_type: feature
 metadata:
     class: elementalist

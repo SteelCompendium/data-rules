@@ -2,13 +2,13 @@
 action_type: Main action
 class: talent
 cost: 11 Clarity
-distance: Ranged 5
-effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next turn.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
+effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next [turn](../../../../rule/combat/turn.md).
 flavor: You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Acceleration Field
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
@@ -19,11 +19,11 @@ type: ability
 
 *You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
 
-| **Chronopathy, Psionic, Ranged** |     **Main action** |
+| **Chronopathy, Psionic, [Ranged](../../../../rule/combat/ranged.md)** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Ranged 5**                  | **🎯 Three allies** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 5**                  | **🎯 Three allies** |
 
-**Effect:** Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next turn.
+**Effect:** Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next [turn](../../../../rule/combat/turn.md).
 
 **Strained:** Make a [power roll](../../../../rule/dice/power-roll.md) that targets you and each enemy within [distance](../../../../rule/combat/distance.md).
 

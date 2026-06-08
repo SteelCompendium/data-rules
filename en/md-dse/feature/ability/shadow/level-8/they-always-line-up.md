@@ -13,7 +13,7 @@ item_id: they-always-line-up
 item_name: They Always Line Up
 keywords:
     - Area
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Weapon
 level: "8"
 name: They Always Line Up
@@ -27,12 +27,12 @@ type: ability
 cost: 11 Insight
 distance: 5 x 1 line within 5
 effects:
-    - effect: "\n*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*\n\n| **Area, Ranged, Weapon**   |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF 5 x 1 line within 5** | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 12 damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 18 damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 24 damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
+    - effect: "\n*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*\n\n| **Area, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), Weapon**   |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF 5 x 1 line within 5** | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 12 damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 18 damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 24 damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
 feature_type: ability
 flavor: You fire a projectile so fast that it passes through a line of foes, hamstringing them.
 keywords:
     - Area
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Weapon
 metadata:
     action_type: Main action
@@ -42,7 +42,7 @@ metadata:
     flavor: You fire a projectile so fast that it passes through a line of foes, hamstringing them.
     keywords:
         - Area
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Weapon
     level: "8"
     name: They Always Line Up

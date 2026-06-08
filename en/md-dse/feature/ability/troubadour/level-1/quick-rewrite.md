@@ -15,7 +15,7 @@ item_name: Quick Rewrite
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Quick Rewrite
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
@@ -34,7 +34,7 @@ flavor: You write something unexpected into the scene that hinders your enemy.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: troubadour
@@ -45,7 +45,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Quick Rewrite
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite

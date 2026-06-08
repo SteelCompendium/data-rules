@@ -8,7 +8,7 @@ flavor: You write something unexpected into the scene that hinders your enemy.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Quick Rewrite
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
@@ -19,7 +19,7 @@ type: ability
 
 *You write something unexpected into the scene that hinders your enemy.*
 
-| **Area, Magic, Ranged**     |               **Main action** |
+| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 3 [cube](../../../../rule/combat/cube.md) within 10**     | **🎯 Each enemy in the area** |
 

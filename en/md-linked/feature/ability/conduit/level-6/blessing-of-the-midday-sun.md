@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 9 Piety
 distance: 4 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your [turns](../../../../rule/combat/turn.md).
 flavor: Your body emits a heat that bakes your enemies and inspires your allies.
 keywords:
     - Area
@@ -22,4 +22,4 @@ type: ability
 |------------------|------------------------------------------:|
 | **📏 4 [aura](../../../../rule/combat/aura.md)**    | **🎯 Self and each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your [turns](../../../../rule/combat/turn.md).

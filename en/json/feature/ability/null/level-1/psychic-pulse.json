@@ -3,7 +3,7 @@
   "distance": "2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "effect": "Each target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score. Until the start of your next turn, the size of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability takes psychic damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
+      "effect": "Each target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score. Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), the size of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability increases by 1. At the end of your current [turn](scc:mcdm.heroes.v1/rule.combat/turn), each enemy in the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability takes psychic damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "null",
-    "content": "\n*A burst of psionic energy interferes with your enemy's synapses.*\n\n| **Area, Psionic** |                  **Maneuver** |\n|-------------------|------------------------------:|\n| **📏 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**    | **🎯 Each enemy in the area** |\n\n**Effect:** Each target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score. Until the start of your next turn, the size of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability takes psychic damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
+    "content": "\n*A burst of psionic energy interferes with your enemy's synapses.*\n\n| **Area, Psionic** |                  **Maneuver** |\n|-------------------|------------------------------:|\n| **📏 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**    | **🎯 Each enemy in the area** |\n\n**Effect:** Each target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score. Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), the size of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability increases by 1. At the end of your current [turn](scc:mcdm.heroes.v1/rule.combat/turn), each enemy in the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability takes psychic damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
     "distance": "2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "A burst of psionic energy interferes with your enemy's synapses.",

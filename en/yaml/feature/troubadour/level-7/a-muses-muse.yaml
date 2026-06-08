@@ -1,5 +1,5 @@
 effects:
-    - effect: At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.
+    - effect: At the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn) during combat, you gain 1d3 + 1 drama instead of 1d3.
 feature_type: feature
 metadata:
     action_type: feature

@@ -1,7 +1,7 @@
 ---
 action_type: Triggered
 class: troubadour
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge). A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane).
 feature_type: ability
 file_basename: turnabout-is-fair-play
@@ -10,7 +10,7 @@ flavor: All's fair in love and whatever.
 item_id: turnabout-is-fair-play
 item_name: Turnabout Is Fair Play
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Turnabout Is Fair Play
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play
@@ -23,7 +23,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge). A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane).
     - effect: '3 Drama: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a double [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) is negated. A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) is negated.'
@@ -31,15 +31,15 @@ effects:
 feature_type: ability
 flavor: All's fair in love and whatever.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Triggered
     class: troubadour
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge). A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes an [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a [bane](scc:mcdm.heroes.v1/rule.dice/bane).
     flavor: All's fair in love and whatever.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Turnabout Is Fair Play
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play

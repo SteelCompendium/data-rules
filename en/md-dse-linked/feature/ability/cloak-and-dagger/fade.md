@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 1 or ranged 10
+distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
 feature_type: ability
 file_basename: fade
 file_dpath: feature/ability/cloak-and-dagger
@@ -8,8 +8,8 @@ flavor: A stab, and a few quick, careful steps back.
 item_id: fade
 item_name: Fade
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../rule/combat/melee.md)'
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: cloak-and-dagger
@@ -22,23 +22,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1 or ranged 10
+distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "*A stab, and a few quick, careful steps back.*\n\n| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 10**       | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square\n- **12-16:** 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares\n- **17+:** 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares"
+    - effect: "*A stab, and a few quick, careful steps back.*\n\n| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10**       | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square\n- **12-16:** 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares\n- **17+:** 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares"
 feature_type: ability
 flavor: A stab, and a few quick, careful steps back.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../rule/combat/melee.md)'
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1 or ranged 10
+    distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
     flavor: A stab, and a few quick, careful steps back.
     keywords:
-        - Melee
-        - Ranged
+        - '[Melee](../../../rule/combat/melee.md)'
+        - '[Ranged](../../../rule/combat/ranged.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: cloak-and-dagger

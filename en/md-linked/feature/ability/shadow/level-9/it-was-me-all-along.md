@@ -2,11 +2,11 @@
 action_type: Main action
 class: shadow
 cost: 11 Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: If you are disguised as a creature the target knew using your [I'm No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your [Agility](../../../../rule/character/agility.md) score.
 flavor: After everything you've been through together, you twist the blade and make the pain extra personal.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -19,9 +19,9 @@ type: ability
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

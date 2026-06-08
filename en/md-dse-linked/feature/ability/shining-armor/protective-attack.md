@@ -1,7 +1,7 @@
 ---
 action_type: Main action
-distance: Melee 1
-effect: The target is [taunted](../../../condition/taunted.md) until the end of their next turn.
+distance: '[Melee](../../../rule/combat/melee.md) 1'
+effect: The target is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md).
 feature_type: ability
 file_basename: protective-attack
 file_dpath: feature/ability/shining-armor
@@ -9,7 +9,7 @@ flavor: The strength of your assault makes it impossible for your foe to ignore 
 item_id: protective-attack
 item_name: Protective Attack
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: shining-armor
@@ -22,22 +22,22 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
-    - effect: The target is [taunted](../../../condition/taunted.md) until the end of their next turn.
+    - effect: The target is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md).
 feature_type: ability
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
-    effect: The target is [taunted](../../../condition/taunted.md) until the end of their next turn.
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
+    effect: The target is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md).
     flavor: The strength of your assault makes it impossible for your foe to ignore you.
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: shining-armor

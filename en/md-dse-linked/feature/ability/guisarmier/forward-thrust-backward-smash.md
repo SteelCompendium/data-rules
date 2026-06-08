@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 2
+distance: '[Melee](../../../rule/combat/melee.md) 2'
 feature_type: ability
 file_basename: forward-thrust-backward-smash
 file_dpath: feature/ability/guisarmier
@@ -8,7 +8,7 @@ flavor: In your hands, the haft is as good as the head.
 item_id: forward-thrust-backward-smash
 item_name: Forward Thrust, Backward Smash
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: guisarmier
@@ -21,21 +21,21 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 2
+distance: '[Melee](../../../rule/combat/melee.md) 2'
 effects:
-    - effect: "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
+    - effect: "*In your hands, the haft is as good as the head.*\n\n| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 2**            | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
 feature_type: ability
 flavor: In your hands, the haft is as good as the head.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 2
+    distance: '[Melee](../../../rule/combat/melee.md) 2'
     flavor: In your hands, the haft is as good as the head.
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: guisarmier

@@ -17,9 +17,9 @@ Choose one of the following abilities.
 
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
 
-| **Chronopathy, Psionic, Ranged** |   **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../../rule/combat/ranged.md)** |   **Maneuver** |
 |----------------------------------|---------------:|
-| **📏 Ranged 10**                 | **🎯 Special** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 | **🎯 Special** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -27,7 +27,7 @@ Choose one of the following abilities.
 - **12-16:** You target three creatures, one of which can be you.
 - **17+:** You target four creatures, one of which can be you.
 
-**Effect:** Until the start of your next turn, each target gains a +5 bonus to [speed](../../../rule/character/speed.md), they can't be made [dazed](../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../condition/dazed.md), that condition ends for them.
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), each target gains a +5 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md), they can't be made [dazed](../../../condition/dazed.md), and they can use an additional maneuver on their [turn](../../../rule/combat/turn.md). If a target is already [dazed](../../../condition/dazed.md), that [condition](../../../rule/combat/condition.md) ends for them.
 
 **Strained:** Your [speed](../../../rule/character/speed.md) is halved until the end of the encounter.
 
@@ -36,9 +36,9 @@ Choose one of the following abilities.
 
 *Perhaps they wonder why everyone else is moving so quickly?*
 
-| **Chronopathy, Psionic, Ranged** |                      **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../../rule/combat/ranged.md)** |                      **Maneuver** |
 |----------------------------------|----------------------------------:|
-| **📏 Ranged 10**                 | **🎯 Three creatures or objects** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 | **🎯 Three creatures or objects** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -48,7 +48,7 @@ Choose one of the following abilities.
 
 **Effect:** A target can't use [triggered actions](../../../rule/combat/triggered-action.md) while their [speed](../../../rule/character/speed.md) is reduced this way.
 
-**Strained:** The [potency](../../../rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
+**Strained:** The [potency](../../../rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each [combat round](../../../rule/combat/combat-round.md) while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
 
 ## 2nd-Level Telekinesis Ability
 
@@ -69,16 +69,16 @@ Choose one of the following abilities.
 - **12-16:** 6 damage; vertical push 4
 - **17+:** 9 damage; vertical push 6
 
-**Strained:** The size of the [burst](../../../rule/combat/burst.md) increases by 1, and you are [weakened](../../../condition/weakened.md) until the end of your turn.
+**Strained:** The size of the [burst](../../../rule/combat/burst.md) increases by 1, and you are [weakened](../../../condition/weakened.md) until the end of your [turn](../../../rule/combat/turn.md).
 
 ### Levity and Gravity {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity"}
 
 
 *You raise the target slightly into the air, then smother them against the ground.*
 
-| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Telekinesis** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -97,9 +97,9 @@ Choose one of the following abilities.
 
 *You overload their senses, turning all their subconscious thoughts into conscious ones.*
 
-| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -107,16 +107,16 @@ Choose one of the following abilities.
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../condition/dazed.md) (save ends)
 
-**Strained:** You start crying, and you can't use [triggered actions](../../../rule/combat/triggered-action.md) or make [free strikes](../../common/main-actions/free-strike.md) until the end of the target's next turn.
+**Strained:** You start crying, and you can't use [triggered actions](../../../rule/combat/triggered-action.md) or make [free strikes](../../common/main-actions/free-strike.md) until the end of the target's next [turn](../../../rule/combat/turn.md).
 
 ### Synaptic Override {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override"}
 
 
 *You control an enemy's nervous system. How pleasant for them.*
 
-| **Psionic, Ranged, Telepathy** |  **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), Telepathy** |  **Main action** |
 |--------------------------------|-----------------:|
-| **📏 Ranged 10**               | **🎯 One enemy** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**               | **🎯 One enemy** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -124,6 +124,6 @@ Choose one of the following abilities.
 - **12-16:** The target shifts up to their [speed](../../../rule/character/speed.md) and uses their [signature ability](../../../rule/combat/signature-ability.md) against any enemies of your choice.
 - **17+:** The target moves up to their [speed](../../../rule/character/speed.md) and uses their [signature ability](../../../rule/combat/signature-ability.md) against any enemies of your choice.
 
-**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke [opportunity attacks](../../../rule/combat/opportunity-attack.md).
+**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../rule/health/dying.md), or result in them suffering a [condition](../../../rule/combat/condition.md) or other negative effect. However, you can move them to provoke [opportunity attacks](../../../rule/combat/opportunity-attack.md).
 
-**Strained:** You take 1d6 damage and are [weakened](../../../condition/weakened.md) until the end of your turn.
+**Strained:** You take 1d6 damage and are [weakened](../../../condition/weakened.md) until the end of your [turn](../../../rule/combat/turn.md).

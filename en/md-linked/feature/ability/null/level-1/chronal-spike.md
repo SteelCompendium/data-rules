@@ -2,11 +2,11 @@
 action_type: Main action
 class: "null"
 cost: 3 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a [signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual.
 flavor: You foresee the best moment to strike, then exploit it.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -20,9 +20,9 @@ type: ability
 
 *You foresee the best moment to strike, then exploit it.*
 
-| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

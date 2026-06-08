@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../../../rule/resource/surge.md).
+    - effect: Velloparatha—the worldsickness—might hinder you, but you know how to [turn](../../../rule/combat/turn.md) your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../../../rule/resource/surge.md).
 feature_type: trait
 metadata:
     ancestry: memonek

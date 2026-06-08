@@ -4,8 +4,8 @@ class: shadow
 cost: 7 Insight
 cost_amount: "7"
 cost_resource: Insight
-distance: Melee 1 or ranged 5
-effect: The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+effect: The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 file_basename: misdirecting-strike
 file_dpath: feature/ability/shadow/level-3
@@ -13,8 +13,8 @@ flavor: '"Why are you looking at ME?!"'
 item_id: misdirecting-strike
 item_name: Misdirecting Strike
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "3"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 7 Insight
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
+    - effect: The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 flavor: '"Why are you looking at ME?!"'
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 7 Insight
-    distance: Melee 1 or ranged 5
-    effect: The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
+    distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+    effect: The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next [turn](../../../../rule/combat/turn.md).
     flavor: '"Why are you looking at ME?!"'
     keywords:
-        - Melee
-        - Ranged
+        - '[Melee](../../../../rule/combat/melee.md)'
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "3"

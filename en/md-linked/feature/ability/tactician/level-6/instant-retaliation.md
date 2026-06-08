@@ -2,11 +2,11 @@
 action_type: Free triggered
 class: tactician
 cost: 9 Focus
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.
-flavor: You [parry](../level-1/parry.md) with almost supernatural [speed](../../../../rule/character/speed.md).
+flavor: You [parry](../level-1/parry.md) with almost [supernatural](../../../../rule/general/supernatural.md) [speed](../../../../rule/character/speed.md).
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "6"
 name: Instant Retaliation
@@ -18,11 +18,11 @@ type: ability
 ---
 
 
-*You [parry](../level-1/parry.md) with almost supernatural [speed](../../../../rule/character/speed.md).*
+*You [parry](../level-1/parry.md) with almost [supernatural](../../../../rule/general/supernatural.md) [speed](../../../../rule/character/speed.md).*
 
-| **Melee, Weapon** | **Free triggered** |
+| **[Melee](../../../../rule/combat/melee.md), Weapon** | **Free triggered** |
 | ------------------------------------|-------------------:|
-| **📏 Melee 1**                   |    **🎯 One ally** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   |    **🎯 One ally** |
 
 **Trigger:** A creature deals damage to the target.
 

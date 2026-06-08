@@ -1,5 +1,5 @@
 ability:
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effects:
         - effect: 'When you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike), choose the [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.'
           name: Effect
@@ -7,19 +7,19 @@ ability:
     flavor: You cast a ball of elemental energy at a foe.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     metadata:
         action_type: Main action
-        content: "\n*You cast a ball of elemental energy at a foe.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 + R damage\n- **12-16:** 4 + R damage\n- **17+:** 6 + R damage\n\n**Effect:** When you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike), choose the [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic."
-        distance: Ranged 10
+        content: "\n*You cast a ball of elemental energy at a foe.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**          | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 + R damage\n- **12-16:** 4 + R damage\n- **17+:** 6 + R damage\n\n**Effect:** When you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike), choose the [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic."
+        distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
         feature_type: ability
         flavor: You cast a ball of elemental energy at a foe.
         item_id: hurl-element
         item_name: Hurl Element
         keywords:
             - Magic
-            - Ranged
+            - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
             - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         target: One creature or object
         type: feature/ability/common
@@ -28,7 +28,7 @@ ability:
     type: feature
     usage: Main action
 effects:
-    - effect: You have the following ability, which can be used as a ranged [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
+    - effect: You have the following ability, which can be used as a [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
 feature_type: feature
 metadata:
     action_type: feature

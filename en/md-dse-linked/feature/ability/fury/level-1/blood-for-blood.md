@@ -4,7 +4,7 @@ class: fury
 cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 feature_type: ability
 file_basename: blood-for-blood
@@ -13,7 +13,7 @@ flavor: See how well they fight after you've bled them dry.
 item_id: blood-for-blood
 item_name: Blood for Blood!
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 feature_type: ability
 flavor: See how well they fight after you've bled them dry.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 5 Ferocity
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
     flavor: See how well they fight after you've bled them dry.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

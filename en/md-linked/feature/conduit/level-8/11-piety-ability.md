@@ -13,11 +13,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
 
-| **Magic, Ranged**  |         **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |         **Main action** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** The target can spend any number of [Recoveries](../../../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of their turn, and can stand up if they [are prone](../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are [dying](../../../rule/health/dying.md), the target gains 3 [surges](../../../rule/resource/surge.md).
+**Effect:** The target can spend any number of [Recoveries](../../../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of their [turn](../../../rule/combat/turn.md), and can stand up if they [are prone](../../../condition/prone.md). Additionally, at the start of each of their [turns](../../../rule/combat/turn.md) until the end of the encounter or until they are [dying](../../../rule/health/dying.md), the target gains 3 [surges](../../../rule/resource/surge.md).
 
 ## Blessing of Steel {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-steel"}
 
@@ -39,16 +39,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------------|--------------------------------------:|
 | **📏 5 [aura](../../../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |
 
-**Effect:** At the end of each of your turns until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each target gains 3 [surges](../../../rule/resource/surge.md).
+**Effect:** At the end of each of your [turns](../../../rule/combat/turn.md) until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each target gains 3 [surges](../../../rule/resource/surge.md).
 
 ## Drag the Unworthy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy"}
 
 
 *You conjure an angel who moves a foe and heals your allies.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -56,4 +56,4 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 13 + I holy damage; slide 4
 - **17+:** 18 + I holy damage; slide 6
 
-**Effect:** Each ally the target comes adjacent to during the [forced movement](../../../movement/forced-movement.md) can spend a [Recovery](../../../rule/health/recoveries.md).
+**Effect:** Each ally the target comes [adjacent](../../../rule/combat/adjacent.md) to during the [forced movement](../../../movement/forced-movement.md) can spend a [Recovery](../../../rule/health/recoveries.md).

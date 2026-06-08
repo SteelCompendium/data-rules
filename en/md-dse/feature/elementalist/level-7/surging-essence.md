@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: When you gain essence at the start of each of your turns during combat, you gain 3 essence instead of 2.
+    - effect: When you gain essence at the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn) during combat, you gain 3 essence instead of 2.
 feature_type: feature
 metadata:
     class: elementalist

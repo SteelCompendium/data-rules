@@ -14,7 +14,7 @@ item_id: force-orbs
 item_name: Force Orbs
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Telekinesis
 level: "3"
@@ -34,7 +34,7 @@ feature_type: ability
 flavor: Spheres of solid psionic energy float around you.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Telekinesis
 metadata:
@@ -46,7 +46,7 @@ metadata:
     flavor: Spheres of solid psionic energy float around you.
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Telekinesis
     level: "3"

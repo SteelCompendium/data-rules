@@ -14,8 +14,8 @@ item_id: shadowstrike
 item_name: Shadowstrike
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Shadowstrike
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/shadowstrike
@@ -33,8 +33,8 @@ feature_type: ability
 flavor: They have no idea what the college taught you.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: shadow
@@ -44,8 +44,8 @@ metadata:
     flavor: They have no idea what the college taught you.
     keywords:
         - Magic
-        - Melee
-        - Ranged
+        - '[Melee](../../../../rule/combat/melee.md)'
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Shadowstrike
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/shadowstrike

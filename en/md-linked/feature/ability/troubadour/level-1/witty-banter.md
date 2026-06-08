@@ -1,13 +1,13 @@
 ---
 action_type: Main action
 class: troubadour
-distance: Melee 1 or ranged 5
-effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
 flavor: A lyrical (and physical) jab insults an enemy and inspires an ally.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Witty Banter
@@ -21,9 +21,9 @@ type: ability
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Magic, Melee, Ranged, [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**       | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
@@ -31,6 +31,6 @@ type: ability
 - **12-16:** 5 + P psychic damage
 - **17+:** 7 + P psychic damage
 
-**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
 
 **Spend 1 Drama:** The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).

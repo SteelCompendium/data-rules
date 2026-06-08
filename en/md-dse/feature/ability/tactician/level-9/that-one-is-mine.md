@@ -4,7 +4,7 @@ class: tactician
 cost: 11 Focus
 cost_amount: "11"
 cost_resource: Focus
-distance: Melee 1 or ranged 5
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effect: The target is marked by you.
 feature_type: ability
 file_basename: that-one-is-mine
@@ -13,8 +13,8 @@ flavor: You focus on making an enemy irrelevant.
 item_id: that-one-is-mine
 item_name: That One Is Mine!
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "9"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 11 Focus
-distance: Melee 1 or ranged 5
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
     - effect: The target is marked by you.
 feature_type: ability
 flavor: You focus on making an enemy irrelevant.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: tactician
     cost: 11 Focus
-    distance: Melee 1 or ranged 5
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
     effect: The target is marked by you.
     flavor: You focus on making an enemy irrelevant.
     keywords:
-        - Melee
-        - Ranged
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "9"

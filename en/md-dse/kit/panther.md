@@ -4,7 +4,6 @@ file_basename: panther
 file_dpath: kit
 item_id: panther
 item_name: Panther
-melee_damage_bonus: +0/+0/+4
 name: Panther
 scc: mcdm.heroes.v1/kit/panther
 source: mcdm.heroes.v1
@@ -19,13 +18,13 @@ You wear no armor and wield a heavy weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
 
-**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +1
+**[Speed](scc:mcdm.heroes.v1/rule.character/speed) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
-**[Stability](scc:mcdm.heroes.v1/rule.character/stability) Bonus:** +1
+**[Stability](scc:mcdm.heroes.v1/rule.character/stability) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
-**Melee Damage Bonus:** +0/+0/+4
+**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +0/+0/+4
 
 ##### Signature Ability
 
@@ -33,9 +32,9 @@ You wear no armor and wield a heavy weapon.
 
 *The faster you move, the harder you hit.*
 
-| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |
+| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
@@ -46,22 +45,22 @@ You wear no armor and wield a heavy weapon.
 **Effect:** You can move up to 3 squares straight toward the target before this [strike](scc:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can move up to 3 squares straight toward the target before this [strike](scc:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
 feature_type: ability
 flavor: The faster you move, the harder you hit.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: You can move up to 3 squares straight toward the target before this [strike](scc:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
     flavor: The faster you move, the harder you hit.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Devastating Rush

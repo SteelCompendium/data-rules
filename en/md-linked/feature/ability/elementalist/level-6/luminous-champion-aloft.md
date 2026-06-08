@@ -2,14 +2,14 @@
 action_type: Maneuver
 class: elementalist
 cost: 9 Essence
-distance: Ranged 10
-effect: The target has a +3 bonus to [speed](../../../../rule/character/speed.md), they can [fly](../../../../movement/fly.md), and their abilities ignore [concealment](../../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: The target has a +3 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md), they can [fly](../../../../movement/fly.md), and their abilities ignore [concealment](../../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next [turn](../../../../rule/combat/turn.md).
 flavor: They shine vibrantly, a beautiful diamond in the night sky.
 keywords:
     - Fire
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Void
 level: "6"
 name: Luminous Champion Aloft
@@ -21,10 +21,10 @@ type: ability
 
 *They shine vibrantly, a beautiful diamond in the night sky.*
 
-| **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |
+| **Fire, Green, Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |            **Maneuver** |
 |--------------------------------------|------------------------:|
-| **📏 Ranged 10**                     | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to [speed](../../../../rule/character/speed.md), they can [fly](../../../../movement/fly.md), and their abilities ignore [concealment](../../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md), they can [fly](../../../../movement/fly.md), and their abilities ignore [concealment](../../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next [turn](../../../../rule/combat/turn.md).
 
-**Persistent 1:** The effect lasts until the start of your next turn.
+**Persistent 1:** The effect lasts until the start of your next [turn](../../../../rule/combat/turn.md).

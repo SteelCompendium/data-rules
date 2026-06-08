@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
+effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../../../../rule/combat/turn.md) if they don't spend it.
 flavor: The audience is watching, so you'd better give them a show.
 keywords:
     - Area
@@ -22,4 +22,4 @@ type: ability
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
+**Effect:** While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../../../../rule/combat/turn.md) if they don't spend it.

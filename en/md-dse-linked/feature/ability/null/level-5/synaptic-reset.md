@@ -5,7 +5,7 @@ cost: 9 Discipline
 cost_amount: "9"
 cost_resource: Discipline
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each condition or effect removed.
+effect: Each target can end any [conditions](../../../../rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each [condition](../../../../rule/combat/condition.md) or effect removed.
 feature_type: ability
 file_basename: synaptic-reset
 file_dpath: feature/ability/null/level-5
@@ -27,7 +27,7 @@ type: ability
 cost: 9 Discipline
 distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each condition or effect removed.
+    - effect: Each target can end any [conditions](../../../../rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each [condition](../../../../rule/combat/condition.md) or effect removed.
 feature_type: ability
 flavor: You expand your nullifying power to mitigate harmful effects.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: "null"
     cost: 9 Discipline
     distance: 3 [burst](../../../../rule/combat/burst.md)
-    effect: Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each condition or effect removed.
+    effect: Each target can end any [conditions](../../../../rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each [condition](../../../../rule/combat/condition.md) or effect removed.
     flavor: You expand your nullifying power to mitigate harmful effects.
     keywords:
         - Area

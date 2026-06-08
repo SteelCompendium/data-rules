@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../../../../rule/character/speed.md) until the end of their turn.
+effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of their [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 file_basename: choreography
 file_dpath: feature/ability/troubadour/level-1
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effects:
-    - effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../../../../rule/character/speed.md) until the end of their turn.
+    - effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of their [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 flavor: Taps, kicks, steps. It's all "[choreography](choreography.md)."
 keywords:
@@ -35,7 +35,7 @@ metadata:
     action_type: No action
     class: troubadour
     distance: 5 [aura](../../../../rule/combat/aura.md)
-    effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../../../../rule/character/speed.md) until the end of their turn.
+    effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of their [turn](../../../../rule/combat/turn.md).
     flavor: Taps, kicks, steps. It's all "[choreography](choreography.md)."
     keywords:
         - Area

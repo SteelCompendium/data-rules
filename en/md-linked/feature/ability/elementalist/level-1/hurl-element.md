@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: 'When you make this [strike](../../../../rule/combat/strike.md), choose the [damage type](../../../../rule/damage/damage-type.md) from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.'
 flavor: You cast a ball of elemental energy at a foe.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Hurl Element
@@ -18,9 +18,9 @@ type: ability
 
 *You cast a ball of elemental energy at a foe.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

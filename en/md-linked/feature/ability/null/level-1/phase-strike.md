@@ -2,11 +2,11 @@
 action_type: Main action
 class: "null"
 cost: 5 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their [stability](../../../../rule/character/stability.md) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](../../../../rule/dice/ability-roll.md).
 flavor: For a moment, your foe slips out of phase with this manifold.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -20,9 +20,9 @@ type: ability
 
 *For a moment, your foe slips out of phase with this manifold.*
 
-| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |                           **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |                           **Main action** |
 |------------------------------------|------------------------------------------:|
-| **📏 Melee 1**                     |                       **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     |                       **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

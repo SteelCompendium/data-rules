@@ -4,7 +4,7 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: If this damage kills the target, you and each ally within [distance](../../../../rule/combat/distance.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: your-story-ends-here
@@ -14,7 +14,7 @@ item_id: your-story-ends-here
 item_name: Your Story Ends Here
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Your Story Ends Here
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: If this damage kills the target, you and each ally within [distance](../../../../rule/combat/distance.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 flavor: You bend the fate of a foe, willing them to die.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: conduit
     cost: 9 Piety
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: If this damage kills the target, you and each ally within [distance](../../../../rule/combat/distance.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
     flavor: You bend the fate of a foe, willing them to die.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "6"
     name: Your Story Ends Here

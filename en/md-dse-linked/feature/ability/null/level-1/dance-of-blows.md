@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: 1 [burst](../../../../rule/combat/burst.md)
-effect: You can slide one adjacent enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
+effect: You can slide one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
 feature_type: ability
 file_basename: dance-of-blows
 file_dpath: feature/ability/null/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: You can slide one adjacent enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
+    - effect: You can slide one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
 feature_type: ability
 flavor: You strike everywhere at once, tricking an enemy into moving out of position.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: "null"
     distance: 1 [burst](../../../../rule/combat/burst.md)
-    effect: You can slide one adjacent enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
+    effect: You can slide one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
     flavor: You strike everywhere at once, tricking an enemy into moving out of position.
     keywords:
         - Area

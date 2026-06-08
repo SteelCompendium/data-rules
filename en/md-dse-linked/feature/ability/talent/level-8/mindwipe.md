@@ -4,7 +4,7 @@ class: talent
 cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effect: The target can't communicate with anyone until the end of the encounter.
 feature_type: ability
 file_basename: mindwipe
@@ -13,7 +13,7 @@ flavor: You attempt to make them forget all their training.
 item_id: mindwipe
 item_name: Mindwipe
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
@@ -27,13 +27,13 @@ type: ability
 
 ```ds-feature
 cost: 11 Clarity
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effects:
     - effect: The target can't communicate with anyone until the end of the encounter.
 feature_type: ability
 flavor: You attempt to make them forget all their training.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
@@ -41,11 +41,11 @@ metadata:
     action_type: Main action
     class: talent
     cost: 11 Clarity
-    distance: Melee 2
+    distance: '[Melee](../../../../rule/combat/melee.md) 2'
     effect: The target can't communicate with anyone until the end of the encounter.
     flavor: You attempt to make them forget all their training.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Psionic
         - '[Strike](../../../../rule/combat/strike.md)'
         - Telepathy

@@ -5,7 +5,7 @@ cost: 9 Essence
 cost_amount: "9"
 cost_resource: Essence
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../../rule/combat/cover.md).
+effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../../../../rule/combat/turn.md). The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../../../../rule/combat/turn.md) in the area has [cover](../../../../rule/combat/cover.md).
 feature_type: ability
 file_basename: the-wode-remembers-and-returns
 file_dpath: feature/ability/elementalist/level-6
@@ -30,7 +30,7 @@ type: ability
 cost: 9 Essence
 distance: 4 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../../rule/combat/cover.md).
+    - effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../../../../rule/combat/turn.md). The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../../../../rule/combat/turn.md) in the area has [cover](../../../../rule/combat/cover.md).
 feature_type: ability
 flavor: You create a terrarium that spans from canopy above to underbrush below.
 keywords:
@@ -44,7 +44,7 @@ metadata:
     class: elementalist
     cost: 9 Essence
     distance: 4 [burst](../../../../rule/combat/burst.md)
-    effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../../rule/combat/cover.md).
+    effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../../../../rule/combat/turn.md). The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../../../../rule/combat/turn.md) in the area has [cover](../../../../rule/combat/cover.md).
     flavor: You create a terrarium that spans from canopy above to underbrush below.
     keywords:
         - Area

@@ -1,6 +1,6 @@
 {
   "ability_type": "Signature",
-  "distance": "Ranged 10",
+  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
       "effect": ""
@@ -10,7 +10,7 @@
   "flavor": "You inflict pain and doubt in equal measure.",
   "keywords": [
     "Magic",
-    "Ranged",
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
     "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
     "Void"
   ],
@@ -18,15 +18,15 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*You inflict pain and doubt in equal measure.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Void** |               **Main action** | \n|---------------------------------|------------------------------:|\n| **📏 Ranged 10**                | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 + R corruption damage; R \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 4 + R corruption damage; R \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 6 + R corruption damage; R \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
-    "distance": "Ranged 10",
+    "content": "\n*You inflict pain and doubt in equal measure.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Void** |               **Main action** | \n|---------------------------------|------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 + R corruption damage; R \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **12-16:** 4 + R corruption damage; R \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)\n- **17+:** 6 + R corruption damage; R \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "You inflict pain and doubt in equal measure.",
     "item_id": "ray-of-agonizing-self-reflection",
     "item_name": "Ray of Agonizing Self-Reflection",
     "keywords": [
       "Magic",
-      "Ranged",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Void"
     ],

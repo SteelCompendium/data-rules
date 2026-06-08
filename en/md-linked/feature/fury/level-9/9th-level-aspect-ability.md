@@ -17,7 +17,7 @@ Choose one of the following abilities.
 
 *You use your weapon to create a destructive shockwave.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
@@ -34,7 +34,7 @@ Choose one of the following abilities.
 
 *You channel the power of the Primordial Chaos to pull foes to you.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
@@ -55,9 +55,9 @@ Choose one of the following abilities.
 
 *You attune the target to be weaker to a specific element.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -72,9 +72,9 @@ Choose one of the following abilities.
 
 *You shock your foes with the brutality of your [strike](../../../rule/combat/strike.md), resetting the balance of combat.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -108,7 +108,7 @@ Choose one of the following abilities.
 
 *You summon your [primordial storm](../stormwight-kits/primordial-storm.md).*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 5 [cube](../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 

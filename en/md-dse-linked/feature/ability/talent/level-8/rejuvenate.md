@@ -4,7 +4,7 @@ class: talent
 cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: 'Choose two of the following effects:'
 feature_type: ability
 file_basename: rejuvenate
@@ -15,7 +15,7 @@ item_name: Rejuvenate
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Rejuvenate
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/rejuvenate
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 11 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: 'Choose two of the following effects:'
 feature_type: ability
@@ -34,18 +34,18 @@ flavor: You reshape the flow of time in the target's body to return it to an ear
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Maneuver
     class: talent
     cost: 11 Clarity
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: 'Choose two of the following effects:'
     flavor: You reshape the flow of time in the target's body to return it to an earlier state.
     keywords:
         - Chronopathy
         - Psionic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "8"
     name: Rejuvenate
     scc: mcdm.heroes.v1/feature.ability.talent.level-8/rejuvenate

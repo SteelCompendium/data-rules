@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: You slide one creature within 10 squares of the target up to 2 squares.
 feature_type: ability
 file_basename: the-green-within-the-green-without
@@ -12,7 +12,7 @@ item_name: The Green Within, the Green Without
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: The Green Within, the Green Without
@@ -24,7 +24,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: You slide one creature within 10 squares of the target up to 2 squares.
 feature_type: ability
@@ -32,18 +32,18 @@ flavor: Whipping vines erupt from a foe's body to grasp at another close by.
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: elementalist
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: You slide one creature within 10 squares of the target up to 2 squares.
     flavor: Whipping vines erupt from a foe's body to grasp at another close by.
     keywords:
         - Green
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: The Green Within, the Green Without

@@ -1,10 +1,10 @@
 ---
 action_type: Main action
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: You can move up to 3 squares straight toward the target before this [strike](../../../rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way.
 flavor: The faster you move, the harder you hit.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: panther
@@ -17,9 +17,9 @@ type: ability
 
 *The faster you move, the harder you hit.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 

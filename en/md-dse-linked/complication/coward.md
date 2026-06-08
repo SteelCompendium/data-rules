@@ -1,6 +1,6 @@
 ---
 benefit: While you are [frightened](../condition/frightened.md), you can move toward the source of your fear.
-drawback: Whenever you make a [saving throw](../rule/general/saving-throw.md) to end the [frightened](../condition/frightened.md) condition, you roll a d10 twice and take the lower roll.
+drawback: Whenever you make a [saving throw](../rule/general/saving-throw.md) to end the [frightened](../condition/frightened.md) [condition](../rule/combat/condition.md), you roll a d10 twice and take the lower roll.
 file_basename: coward
 file_dpath: complication
 item_id: coward
@@ -15,4 +15,4 @@ Some call you a [coward](coward.md), just because you shriek and run when you en
 
 **Benefit:** While you are [frightened](../condition/frightened.md), you can move toward the source of your fear.
 
-**Drawback:** Whenever you make a [saving throw](../rule/general/saving-throw.md) to end the [frightened](../condition/frightened.md) condition, you roll a d10 twice and take the lower roll.
+**Drawback:** Whenever you make a [saving throw](../rule/general/saving-throw.md) to end the [frightened](../condition/frightened.md) [condition](../rule/combat/condition.md), you roll a d10 twice and take the lower roll.

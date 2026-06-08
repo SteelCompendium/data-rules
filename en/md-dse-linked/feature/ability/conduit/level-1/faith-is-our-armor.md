@@ -4,7 +4,7 @@ class: conduit
 cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You can target yourself instead of one ally with this ability.
 feature_type: ability
 file_basename: faith-is-our-armor
@@ -14,7 +14,7 @@ item_id: faith-is-our-armor
 item_name: Faith Is Our Armor
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Faith Is Our Armor
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: You can target yourself instead of one ally with this ability.
 feature_type: ability
 flavor: The heroes' armor glows with golden light, granting divine protection.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Maneuver
     class: conduit
     cost: 5 Piety
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: You can target yourself instead of one ally with this ability.
     flavor: The heroes' armor glows with golden light, granting divine protection.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Faith Is Our Armor
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor

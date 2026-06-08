@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: When you gain ferocity at the start of each of your turns during combat, you gain 1d3 + 1 ferocity instead of 1d3.
+    - effect: When you gain ferocity at the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 1d3 + 1 ferocity instead of 1d3.
 feature_type: feature
 metadata:
     class: fury

@@ -30,20 +30,20 @@ Choose one of your domains. You gain a [heroic ability](../../../rule/general/he
 
 *You speak inspiring words to a friend and spur them to incredible feats.*
 
-| **Magic, Ranged**  |    **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |    **Maneuver** |
 |--------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 One ally** |
 
-**Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md).
+**Effect:** The target has an additional main action they can use on their next [turn](../../../rule/combat/turn.md), and gains 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md).
 
 ### Bend Fate {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate"}
 
 
 *The gods know you must prevail, and they bless your fate.*
 
-| **Magic, Ranged**  |         **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |         **Main action** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
 **Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each of the target's [power rolls](../../../rule/dice/power-roll.md) has its outcome improved by one tier.
 
@@ -63,13 +63,13 @@ Choose one of your domains. You gain a [heroic ability](../../../rule/general/he
 
 *From nothing but divine will, you create a powerful ally.*
 
-| **Magic, Ranged**  | **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  | **Main action** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   |  **🎯 Special** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   |  **🎯 Special** |
 
 **Effect:** You conjure a [size](../../../rule/character/size.md) 4 dragon that appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The dragon has [speed](../../../rule/character/speed.md) 6 and can [fly](../../../movement/fly.md), [stability](../../../rule/character/stability.md) 4, 100 [Stamina](../../../rule/health/stamina.md), immunity all to fire damage, and uses your [characteristics](../../../rule/character/characteristic.md). The dragon disappears at the end of the encounter, if their [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md).
 
-On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 [cube](../../../rule/combat/cube.md) within 1 square of them. Make the following [power roll](../../../rule/dice/power-roll.md) targeting each enemy in the area.
+On subsequent [turns](../../../rule/combat/turn.md), you can use a main action to command the dragon to breathe magic fire in a 3 [cube](../../../rule/combat/cube.md) within 1 square of them. Make the following [power roll](../../../rule/dice/power-roll.md) targeting each enemy in the area.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -77,7 +77,7 @@ On subsequent turns, you can use a main action to command the dragon to breathe 
 - **12-16:** 9 fire damage
 - **17+:** 12 fire damage
 
-Additionally, you can use a maneuver to move the dragon up to their [speed](../../../rule/character/speed.md), or to make a melee weapon [strike](../../../rule/combat/strike.md) with their claw against an adjacent creature or object. The dragon can also make this [strike](../../../rule/combat/strike.md) as a [free strike](../../common/main-actions/free-strike.md).
+Additionally, you can use a maneuver to move the dragon up to their [speed](../../../rule/character/speed.md), or to make a [melee](../../../rule/combat/melee.md) weapon [strike](../../../rule/combat/strike.md) with their claw against an [adjacent](../../../rule/combat/adjacent.md) creature or object. The dragon can also make this [strike](../../../rule/combat/strike.md) as a [free strike](../../common/main-actions/free-strike.md).
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -90,7 +90,7 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 
 *You summon a divine storm that remains under your control.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 5 [cube](../../../rule/combat/cube.md) within 5**  | **🎯 Each enemy in the area** |
 
@@ -100,14 +100,14 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 - **12-16:** 3 lightning damage, 3 sonic damage
 - **17+:** 5 lightning damage, 5 sonic damage
 
-**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../../../rule/health/dying.md). At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its [power roll](../../../rule/dice/power-roll.md).
+**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../../../rule/health/dying.md). At the start of each of your [turns](../../../rule/combat/turn.md), you can move the storm up to 5 squares (no action required). On subsequent [turns](../../../rule/combat/turn.md) while the storm is active, you can use a maneuver to make its [power roll](../../../rule/dice/power-roll.md).
 
 ### Night Falls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls"}
 
 
 *You summon darkness that thwarts only your foes.*
 
-| **Area, Magic, Ranged** |  **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)** |  **Main action** |
 |-------------------------|-----------------:|
 | **📏 5 [cube](../../../rule/combat/cube.md) within 10** |   **🎯 Special** |
 
@@ -118,29 +118,29 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 
 *Intense light is emitted from your body, healing your allies.*
 
-| **Magic, Ranged**  |    **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |    **Main action** |
 |--------------------|-------------------:|
-| **📏 Ranged 10**   | **🎯 Four allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Four allies** |
 
-**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../../../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of their turn, and can stand up if they [are prone](../../../condition/prone.md).
+**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../../../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of their [turn](../../../rule/combat/turn.md), and can stand up if they [are prone](../../../condition/prone.md).
 
 ### Righteous Phalanx {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx"}
 
 
 *A wall of spinning swords and knives appears where you wish.*
 
-| **Area, Magic, Ranged**  | **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)**  | **Main action** |
 |--------------------------|----------------:|
 | **📏 15 wall within 10** |  **🎯 Special** |
 
-**Effect:** The wall lasts until the end of the encounter or until you are [dying](../../../rule/health/dying.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.
+**Effect:** The wall lasts until the end of the encounter or until you are [dying](../../../rule/health/dying.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there takes 15 damage.
 
 ### Solar Flare {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare"}
 
 
 *You call down a sphere of fire that burns your foes to ash.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 5 [cube](../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -155,9 +155,9 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 
 *Vines [burst](../../../rule/combat/burst.md) forth from the ground and bind your foe, slowly closing around them.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -165,16 +165,16 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
 - **17+:** 21 + I damage; A < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 
-**Effect:** While [restrained](../../../condition/restrained.md) this way, the target takes 10 damage at the start of each of your turns.
+**Effect:** While [restrained](../../../condition/restrained.md) this way, the target takes 10 damage at the start of each of your [turns](../../../rule/combat/turn.md).
 
 ### Word of Final Redemption {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption"}
 
 
 *Your death will fuel our [victory](../../../rule/resource/victories.md).*
 
-| **Magic, Ranged**  |  **Free triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |  **Free triggered** |
 |--------------------|--------------------:|
-| **📏 Ranged 10**   | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 One creature** |
 
 **Trigger:** The target dies.
 
@@ -185,9 +185,9 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 
 *You utter a divine word that makes a foe brittle.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 

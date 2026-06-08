@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have the following ability, which can be used as a ranged [free strike](../../common/main-actions/free-strike.md).
+    - effect: You have the following ability, which can be used as a [ranged](../../../rule/combat/ranged.md) [free strike](../../common/main-actions/free-strike.md).
 feature_type: feature
 metadata:
     class: conduit

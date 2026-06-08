@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
+    - effect: The first time each [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round) that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
 feature_type: feature
 metadata:
     class: elementalist

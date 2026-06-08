@@ -1,13 +1,13 @@
 ---
 action_type: No action
 class: troubadour
-distance: Ranged 10
-effect: At the end of each combat round while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: At the end of each [combat round](../../../../rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
 flavor: All for thunder motherrr! ♪ Run and hide for coverrr!♪
 keywords:
     - Magic
     - Performance
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: '"Thunder Mother"'
@@ -19,11 +19,11 @@ type: ability
 
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
-| **Magic, Performance, Ranged, [Strike](../../../../rule/combat/strike.md)** |       **No action** |
+| **Magic, Performance, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |       **No action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
-**Effect:** At the end of each combat round while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
+**Effect:** At the end of each [combat round](../../../../rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

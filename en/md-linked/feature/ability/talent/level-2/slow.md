@@ -2,13 +2,13 @@
 action_type: Maneuver
 class: talent
 cost: 5 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: A target can't use [triggered actions](../../../../rule/combat/triggered-action.md) while their [speed](../../../../rule/character/speed.md) is reduced this way.
 flavor: Perhaps they wonder why everyone else is moving so quickly?
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Slow
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/slow
@@ -19,9 +19,9 @@ type: ability
 
 *Perhaps they wonder why everyone else is moving so quickly?*
 
-| **Chronopathy, Psionic, Ranged** |                      **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../../../rule/combat/ranged.md)** |                      **Maneuver** |
 |----------------------------------|----------------------------------:|
-| **📏 Ranged 10**                 | **🎯 Three creatures or objects** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                 | **🎯 Three creatures or objects** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
@@ -31,4 +31,4 @@ type: ability
 
 **Effect:** A target can't use [triggered actions](../../../../rule/combat/triggered-action.md) while their [speed](../../../../rule/character/speed.md) is reduced this way.
 
-**Strained:** The [potency](../../../../rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
+**Strained:** The [potency](../../../../rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each [combat round](../../../../rule/combat/combat-round.md) while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).

@@ -100,7 +100,7 @@ He waggled his eyebrows. "Style counts for something."
 
 "But wait, that was..." She did some quick mental math. "Fifteen years ago?"
 
-"Well, I was an accountant here in Capital for several years in between." "An accountant!"
+"Well, I was an accountant here in [Capital](../rule/world/capital.md) for several years in between." "An accountant!"
 
 Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous [troubadour](../class/troubadour.md)?"
 

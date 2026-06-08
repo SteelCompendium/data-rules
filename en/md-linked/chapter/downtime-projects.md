@@ -23,7 +23,7 @@ Many downtime projects have one or more special items you must possess or obtain
 
 #### Project Source {data-scc="mcdm.heroes.v1/rule.downtime/project-source"}
 
-To start a downtime project, you must have access to specific lore detailing how the project is to be undertaken. This can take the form of written information (a book, scroll, schematic, and so forth), an expert tutor with wisdom to share, a master artisan with skills to teach, a supernatural manifestation of the project's scope and secrets, or any other form of the Director's determination. This project-focused lore is referred to as a project source. Not only do you need project sources to start a downtime project, but you must have access to those sources whenever you make a [project roll](../rule/downtime/project-roll.md) for that particular project (see [Project Roll](../rule/downtime/project-roll.md) below).
+To start a downtime project, you must have access to specific lore detailing how the project is to be undertaken. This can take the form of written information (a book, scroll, schematic, and so forth), an expert tutor with wisdom to share, a master artisan with skills to teach, a [supernatural](../rule/general/supernatural.md) manifestation of the project's scope and secrets, or any other form of the Director's determination. This project-focused lore is referred to as a project source. Not only do you need project sources to start a downtime project, but you must have access to those sources whenever you make a [project roll](../rule/downtime/project-roll.md) for that particular project (see [Project Roll](../rule/downtime/project-roll.md) below).
 
 Some project sources are relatively easy to find. Building a castle doesn't require tomes filled with ancient lore, but it's also not something every stonemason knows how to do. However, the location of the tomb of Ashrya, the mummified protector of one hundred slumbering sorcerer-sovereigns, might exist only in a single tome that requires an accompanying adventure to unearth.
 
@@ -39,7 +39,7 @@ If you need a [project source](../rule/downtime/project-source.md) for a particu
 
 As a [respite](../rule/resource/respite.md) activity (see [Respite](../rule/resource/respite.md) in Chapter 1: [The Basics](the-basics.md)), you make a project roll for one of your own projects. Alternatively, you can make a project roll to contribute to another hero's project. A project roll is a [test](../rule/test/test.md) with a special outcome that isn't divided into tiers. The [characteristic](../rule/character/characteristic.md) used in the [test](../rule/test/test.md) is determined by the project.
 
-When you make a project roll, the total—no matter how low—becomes [project points](../rule/downtime/project-points.md) that are accrued by the project. Even if you have a penalty on a project roll, the minimum total for the roll is 1. If you obtain a critical success—a [natural 19 or 20](../rule/dice/natural-19-20.md)—on a project roll, this is called a **breakthrough**, and you can make another project roll for the same project as part of the same [respite](../rule/resource/respite.md) activity.
+When you make a project roll, the total—no matter how low—becomes [project points](../rule/downtime/project-points.md) that are accrued by the project. Even if you have a [penalty](../rule/dice/bonuses-and-penalties.md) on a project roll, the minimum total for the roll is 1. If you obtain a critical success—a [natural 19 or 20](../rule/dice/natural-19-20.md)—on a project roll, this is called a **breakthrough**, and you can make another project roll for the same project as part of the same [respite](../rule/resource/respite.md) activity.
 
 A downtime project is complete when it accrues [project points](../rule/downtime/project-points.md) equal to or greater than its **project goal**-the number of points it takes to complete the project, noted in each project's description.
 
@@ -59,7 +59,7 @@ If you know the language of a [project source](../rule/downtime/project-source.m
 
 #### Guides {data-scc="mcdm.heroes.v1/rule.downtime/guide"}
 
-Heroes sometimes find guides—special books, schematics, knowledgeable [NPCs](../rule/general/npc.md), supernatural recordings, and so forth—providing important and easy-to-understand information relating to a downtime project. Each guide has a knowledge value and a connection to a specific project that greatly decreases the time required to complete the project. When a hero studies a guide as a [respite](../rule/resource/respite.md) activity, they gain the guide's knowledge value as [project points](../rule/downtime/project-points.md) toward its project. The guide can't be used with that specific instance of the project again, though it can be used for a different project of the same type.
+Heroes sometimes find guides—special books, schematics, knowledgeable [NPCs](../rule/general/npc.md), [supernatural](../rule/general/supernatural.md) recordings, and so forth—providing important and easy-to-understand information relating to a downtime project. Each guide has a knowledge value and a connection to a specific project that greatly decreases the time required to complete the project. When a hero studies a guide as a [respite](../rule/resource/respite.md) activity, they gain the guide's knowledge value as [project points](../rule/downtime/project-points.md) toward its project. The guide can't be used with that specific instance of the project again, though it can be used for a different project of the same type.
 
 Guides are awarded at the Director's discretion, usually as a tool that can be used to increase the [speed](../rule/character/speed.md) of complex projects for campaigns with little downtime. For example, the Build Airship downtime project has a project goal of 3,000, requiring a fair bit of downtime. But if a hero finds a manual that describes how to craft an airship and grants them 1,000 or more [project points](../rule/downtime/project-points.md) toward the Build Airship project, the crafting time can be significantly reduced.
 
@@ -106,7 +106,7 @@ If an event grants an automatic breakthrough on a downtime project, the project 
 
 ### Crafting Projects {data-scc="mcdm.heroes.v1/rule.downtime/crafting-project"}
 
-Crafting projects enable heroes to create vehicles, supernatural treasures, and more. When you start a crafting project, other creatures can also work on the project, using their [respite](../rule/resource/respite.md) activity to contribute a [project roll](../rule/downtime/project-roll.md) in order to get the work done faster.
+Crafting projects enable heroes to create vehicles, [supernatural](../rule/general/supernatural.md) treasures, and more. When you start a crafting project, other creatures can also work on the project, using their [respite](../rule/resource/respite.md) activity to contribute a [project roll](../rule/downtime/project-roll.md) in order to get the work done faster.
 
 Unless a project has an event table of its own, the Director uses the Crafting and Research Events table for crafting [project events](../rule/downtime/project-event.md).
 
@@ -124,7 +124,7 @@ When you start this project, you hire a crew of carpenters, mages, and shipwrigh
 
 When the project is completed, you have an airship. You and any creatures you designate can operate the ship by touching the ship's wheel. During combat, a creature touching the wheel can use a maneuver to make the ship move up to 10 squares. The ship can be moved only once per round. Out of combat, the ship has a [speed](../rule/character/speed.md) of 130 miles per day.
 
-An airship is an object (giving it [damage immunity](../rule/damage/damage-immunity.md) all to poison and psychic damage) and can take 200 damage before it is destroyed. If the damage the ship takes is not too severe (as the Director determines), as long as you have access to materials that can repair the ship, you can restore it back to its original condition as a [respite](../rule/resource/respite.md) activity.
+An airship is an object (giving it [damage immunity](../rule/damage/damage-immunity.md) all to poison and psychic damage) and can take 200 damage before it is destroyed. If the damage the ship takes is not too severe (as the Director determines), as long as you have access to materials that can repair the ship, you can restore it back to its original [condition](../rule/combat/condition.md) as a [respite](../rule/resource/respite.md) activity.
 
 ###### Build or Repair Road Renown Table
 
@@ -161,10 +161,10 @@ Time spent traveling between locations on the road is cut in half. Access to res
 | 3   | Before the roll, a local religious or civic authority hears of the project and sends laborers to accelerate it—in exchange for a future favor. The hero gains an immediate 50 [project points](../rule/downtime/project-points.md) for the project if they accept the help.                                                                                                                                                                                                                     |
 | 4   | After the roll, local hired hands and the project engineers find themselves at odds, hindering the project. If the hero can't help defuse the situation, the project requires an additional 50 [project points](../rule/downtime/project-points.md) to complete.                                                                                                                                                                                                                                |
 | 5   | Before the roll, supply caravans are disrupted by bandits, requiring extra guards. If the hero can't deal with the bandit threat personally, the project requires an additional 50 [project points](../rule/downtime/project-points.md) to complete.                                                                                                                                                                                                                                            |
-| 6   | After the roll, word is heard that not everyone in the local area is happy about the road being built. The project is hindered by supernatural curses that cause stones to move, vines and overgrowth to reclaim sections already built, or churning earth to restore the road back to its previous form. The hero must make amends to the local supernatural community or have the [renown](../rule/resource/renown.md) earned by completing the project not extend to that community. |
+| 6   | After the roll, word is heard that not everyone in the local area is happy about the road being built. The project is hindered by [supernatural](../rule/general/supernatural.md) curses that cause stones to move, vines and overgrowth to reclaim sections already built, or churning earth to restore the road back to its previous form. The hero must make amends to the local [supernatural](../rule/general/supernatural.md) community or have the [renown](../rule/resource/renown.md) earned by completing the project not extend to that community. |
 | 7   | After the roll, ditchers working on the project hit an ancient well, retaining wall, or hidden stream that results in an immediate flood. The work is delayed, but the new water source ultimately provides a boon to local farming communities. [Project points](../rule/downtime/project-points.md) earned by this roll are halved, but upon the project's completion, the hero earns 1 additional [renown](../rule/resource/renown.md).                                                                                    |
 | 8   | Before the roll, a new engineer arrives with specialist experience such as building sturdy wooden bridges, using bilge pumps to keep rainwater from slowing the work, and so forth. They want to work on the project, but insist on receiving a [consumable](../rule/treasure/consumable.md) treasure first. If they are hired, the project gains an automatic breakthrough.                                                                                                                |
-| 9   | Before the roll, the proposed road touches on a supernatural intersection—a crossing place between multiple worlds that draws interest from a powerful [devil](../ancestry/devil.md). The completion of the project becomes the personal interest of this being, who offers to increase progress—but demands a future favor from the hero. If the deal is accepted, each [project roll](../rule/downtime/project-roll.md) for the project is doubled until its completion.                                            |
+| 9   | Before the roll, the proposed road touches on a [supernatural](../rule/general/supernatural.md) intersection—a crossing place between multiple worlds that draws interest from a powerful [devil](../ancestry/devil.md). The completion of the project becomes the personal interest of this being, who offers to increase progress—but demands a future favor from the hero. If the deal is accepted, each [project roll](../rule/downtime/project-roll.md) for the project is doubled until its completion.                                            |
 | 10  | After the roll, a guildmaster has it out for the hero. Whether from a past conflict or something about the way this project has unfolded, the guildmaster has made it their mission to hinder the project by dragging the hero's name through the mud. The hero's [renown](../rule/resource/renown.md) is treated as 1 less than usual while these rumors persist.                                                                                                                      |
 
 #### Craft Teleportation Platform {data-scc="mcdm.heroes.v1/project/craft-teleportation-platform"}
@@ -177,9 +177,9 @@ Time spent traveling between locations on the road is cut in half. Access to res
 
 **Project Goal:** 1,500
 
-When you complete this project, you end up with a 3-square-by-3 square [teleport](../movement/teleport.md)ation platform activated by a supernatural password. The platform is permanently affixed to the ground in the location where you create it. Any creature with the password can use the [teleport](../movement/teleport.md)ation platform to instantly [teleport](../movement/teleport.md) any creatures or objects on the platform to a location they know, including another [teleport](../movement/teleport.md)ation platform whose supernatural password they know. You and any creature you designate upon completion of the activity can change the password as a [respite](../rule/resource/respite.md) activity.
+When you complete this project, you end up with a 3-square-by-3 square [teleport](../movement/teleport.md)ation platform activated by a [supernatural](../rule/general/supernatural.md) password. The platform is permanently affixed to the ground in the location where you create it. Any creature with the password can use the [teleport](../movement/teleport.md)ation platform to instantly [teleport](../movement/teleport.md) any creatures or objects on the platform to a location they know, including another [teleport](../movement/teleport.md)ation platform whose [supernatural](../rule/general/supernatural.md) password they know. You and any creature you designate upon completion of the activity can change the password as a [respite](../rule/resource/respite.md) activity.
 
-Each time the [teleport](../movement/teleport.md)ation platform is used, the chance of it malfunctioning and [teleporting](../movement/teleport.md) creatures or objects on it to a random platform increases by 1 percent (to a maximum of 50 percent). You can restore the platform back to its original condition and reset this chance of malfunction as a [respite](../rule/resource/respite.md) activity.
+Each time the [teleport](../movement/teleport.md)ation platform is used, the chance of it malfunctioning and [teleporting](../movement/teleport.md) creatures or objects on it to a random platform increases by 1 percent (to a maximum of 50 percent). You can restore the platform back to its original [condition](../rule/combat/condition.md) and reset this chance of malfunction as a [respite](../rule/resource/respite.md) activity.
 
 #### Craft Treasure {data-scc="mcdm.heroes.v1/project/craft-treasure"}
 
@@ -195,9 +195,9 @@ You can craft the items found in Treasures in Chapter 13: [Rewards](rewards.md).
 
 **Project Goal:** Varies
 
-You research a cure for a disease, curse, or supernatural affliction whose text states that it can be ended by the Find a Cure downtime project. If the affliction was caused by the innate feature of a creature, you need the remains of that creature or another creature of the same kind as an [item prerequisite](../rule/downtime/item-prerequisite.md) for crafting the cure. For example, you can research the cure for the affliction of a werewolf's Accursed Bite by studying the corpse of any werewolf, not just the one who did the biting.
+You research a cure for a disease, curse, or [supernatural](../rule/general/supernatural.md) affliction whose text states that it can be ended by the Find a Cure downtime project. If the affliction was caused by the innate feature of a creature, you need the remains of that creature or another creature of the same kind as an [item prerequisite](../rule/downtime/item-prerequisite.md) for crafting the cure. For example, you can research the cure for the affliction of a werewolf's Accursed Bite by studying the corpse of any werewolf, not just the one who did the biting.
 
-The number of [project points](../rule/downtime/project-points.md) it takes to complete this project is equal to 50 times the level of the creature who caused the affliction. If the affliction was created by an environmental or supernatural effect, that effect notes the [item prerequisite](../rule/downtime/item-prerequisite.md) and [project points](../rule/downtime/project-points.md) required to complete this project.
+The number of [project points](../rule/downtime/project-points.md) it takes to complete this project is equal to 50 times the level of the creature who caused the affliction. If the affliction was created by an environmental or [supernatural](../rule/general/supernatural.md) effect, that effect notes the [item prerequisite](../rule/downtime/item-prerequisite.md) and [project points](../rule/downtime/project-points.md) required to complete this project.
 
 When you complete this project, you craft one dose of an alchemical cure for the affliction. Once the project is completed, you can craft subsequent doses for the same affliction for half the number of [project points](../rule/downtime/project-points.md) required for the initial project.
 
@@ -205,27 +205,27 @@ When you complete this project, you craft one dose of an alchemical cure for the
 
 You can create [leveled treasures](../rule/treasure/leveled-treasure.md) by imbuing items with magic or psionic power. You must have a mundane version of the item you plan to imbue, such as a sword or shield, when you start this project.
 
-You can imbue any item three times. The first time you imbue it, you pick a 1st-level enhancement. The second time you imbue it, you pick a 5th-level enhancement. The third time you imbue it, you pick a 9th-level enhancement. A hero using armor or a weapon can't benefit from an enhancement unless they are using a kit that includes the armor or weapon type, and their level matches the enhancement's level.
+You can imbue any item three times. The first time you imbue it, you pick a 1st-level [enhancement](../rule/treasure/enhancement.md). The second time you imbue it, you pick a 5th-level [enhancement](../rule/treasure/enhancement.md). The third time you imbue it, you pick a 9th-level [enhancement](../rule/treasure/enhancement.md). A hero using armor or a weapon can't benefit from an [enhancement](../rule/treasure/enhancement.md) unless they are using a kit that includes the armor or weapon type, and their level matches the [enhancement](../rule/treasure/enhancement.md)'s level.
 
-If an enhancement has a Roman numeral greater than I after it, such as the Phasing III enhancement, that enhancement can't be applied unless the item has all previous versions of the enhancement. This means you can't imbue armor with the Phasing III enhancement unless it has the Phasing I and Phasing II enhancements first. The effects of numbered enhancements are cumulative unless otherwise noted.
+If an [enhancement](../rule/treasure/enhancement.md) has a Roman numeral greater than I after it, such as the Phasing III [enhancement](../rule/treasure/enhancement.md), that [enhancement](../rule/treasure/enhancement.md) can't be applied unless the item has all previous versions of the [enhancement](../rule/treasure/enhancement.md). This means you can't imbue armor with the Phasing III [enhancement](../rule/treasure/enhancement.md) unless it has the Phasing I and Phasing II [enhancements](../rule/treasure/enhancement.md) first. The effects of numbered [enhancements](../rule/treasure/enhancement.md) are cumulative unless otherwise noted.
 
-Enhancements are broken out by item type (armor, implement, or weapon) and level. Each item type and level features a table showing the name, [item prerequisite](../rule/downtime/item-prerequisite.md), and [project source](../rule/downtime/project-source.md) language of each enhancement. Imbued items take the Magic or Psionic keyword (your choice) and are part of any kit categories appropriate to the type of item (light armor, medium weapon, and so forth).
+[Enhancements](../rule/treasure/enhancement.md) are broken out by item type (armor, [implement](../rule/treasure/implement.md), or weapon) and level. Each item type and level features a table showing the name, [item prerequisite](../rule/downtime/item-prerequisite.md), and [project source](../rule/downtime/project-source.md) language of each [enhancement](../rule/treasure/enhancement.md). Imbued items take the Magic or Psionic keyword (your choice) and are part of any kit categories appropriate to the type of item (light armor, medium weapon, and so forth).
 
-Imbuing treasure with supernatural power as a downtime project typically means you undertake that project to make use of the treasure yourself. As such, all the features of imbuing refer to "you" as the user of the item. However, imbued items can be created for other creatures, or created by other creatures and found as treasure.
+Imbuing treasure with [supernatural](../rule/general/supernatural.md) power as a downtime project typically means you undertake that project to make use of the treasure yourself. As such, all the features of imbuing refer to "you" as the user of the item. However, imbued items can be created for other creatures, or created by other creatures and found as treasure.
 
 ##### Imbue Armor {data-scc="mcdm.heroes.v1/rule.treasure/enhancement"}
 
-Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to [Stamina](../rule/health/stamina.md). A 5th-level enhancement increases the [Stamina](../rule/health/stamina.md) bonus to +12, and a 9th-level enhancement increases it to +21.
+Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md). A 5th-level enhancement increases the [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) to +12, and a 9th-level enhancement increases it to +21.
 
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the [Martial Artist](../kit/martial-artist.md) or [Sniper](../kit/sniper.md) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../class/elementalist.md) and [nulls](../class/null.md), can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the [Martial Artist](../kit/martial-artist.md) or [Sniper](../kit/sniper.md) kit, can create and make use of leveled armor treasures that imbue mundane clothing with [supernatural](../rule/general/supernatural.md) power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../class/elementalist.md) and [nulls](../class/null.md), can also benefit from such treasures.
 
 ###### 1st-Level Armor Enhancement
 
 **[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -237,23 +237,23 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Disguise:** You can use a maneuver to cause this armor to take the form of any type of clothing that you have been in the presence of—a noble's dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
 
-**Iridescent:** When you are the sole target of an ability, you can use a free [triggered action](../rule/combat/triggered-action.md) to reveal that the ability was targeting an afterimage of you in the same space as you. The [power roll](../rule/dice/power-roll.md) for the ability is treated as an 11. You can't use this enhancement again until you earn 1 or more [Victories](../rule/resource/victories.md).
+**Iridescent:** When you are the sole target of an ability, you can use a free [triggered action](../rule/combat/triggered-action.md) to reveal that the ability was targeting an afterimage of you in the same space as you. The [power roll](../rule/dice/power-roll.md) for the ability is treated as an 11. You can't use this [enhancement](../rule/treasure/enhancement.md) again until you earn 1 or more [Victories](../rule/resource/victories.md).
 
 **Magic Resistance I:** Your [characteristic](../rule/character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the [potencies](../rule/character/potency.md) of magic abilities.
 
-**Nettlebloom:** Whenever you are [grabbed](../condition/grabbed.md) by an adjacent creature, your armor sprouts toxic nettles. While that creature has you [grabbed](../condition/grabbed.md), they are [weakened](../condition/weakened.md).
+**Nettlebloom:** Whenever you are [grabbed](../condition/grabbed.md) by an [adjacent](../rule/combat/adjacent.md) creature, your armor sprouts toxic nettles. While that creature has you [grabbed](../condition/grabbed.md), they are [weakened](../condition/weakened.md).
 
-**Phasing I:** Once per turn, you can move through 1 square of solid matter. If you end your turn inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
+**Phasing I:** Once per [turn](../rule/combat/turn.md), you can move through 1 square of solid matter. If you end your [turn](../rule/combat/turn.md) inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
 
 **Psionic Resistance I:** Your [characteristic](../rule/character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the [potencies](../rule/character/potency.md) of psionic abilities.
 
-**Swift:** You gain a +1 bonus to [speed](../rule/character/speed.md).
+**Swift:** You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md).
 
-**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest [characteristic](../rule/character/characteristic.md) score and you can push them 1 square.
+**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an [adjacent](../rule/combat/adjacent.md) creature deals damage to you before the end of your next [turn](../rule/combat/turn.md), they take lightning damage equal to your highest [characteristic](../rule/character/characteristic.md) score and you can push them 1 square.
 
 ###### 1st-Level Armor Enhancements Table
 
-| Enhancement          | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                                | [Project Source](../rule/downtime/project-source.md) Language |
+| [Enhancement](../rule/treasure/enhancement.md)          | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                                | [Project Source](../rule/downtime/project-source.md) Language |
 |----------------------|--------------------------------------------------------------------------------------------------|-------------------------|
 | Awe                  | A lock of hair from a fey, taken in amicable bargain for Charming or in violence for Threatening | Khelt                   |
 | [Damage Immunity](../rule/damage/damage-immunity.md) I    | Elemental sand left behind when an elemental enters [Orden](../rule/world/orden.md) from Quintessence                      | Zaliac                  |
@@ -268,9 +268,9 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 ###### 5th-Level Armor Enhancement
 
-**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Armor with a 1st-level enhancement; varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Armor with a 1st-level [enhancement](../rule/treasure/enhancement.md); varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -290,25 +290,25 @@ You can use an absorbed ability as if you knew it, making [power rolls](../rule/
 - **12-16:** 12 damage; push 4
 - **17+:** 15 damage; push 5
 
-**Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as [flying](../movement/fly.md) movement. If you are still in midair at the end of your turn, you [fall prone](../condition/prone.md).
+**Levitating:** On your [turn](../rule/combat/turn.md), you can treat up to 5 consecutive squares of movement as [flying](../movement/fly.md) movement. If you are still in midair at the end of your [turn](../rule/combat/turn.md), you [fall prone](../condition/prone.md).
 
 **Magic Resistance II:** Your [characteristic](../rule/character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the [potencies](../rule/character/potency.md) of magic abilities. This benefit replaces Magic Resistance I.
 
-**Phasing II:** When you use the armor's Phasing I enhancement, you can move through 3 squares of solid matter per turn.
+**Phasing II:** When you use the armor's Phasing I [enhancement](../rule/treasure/enhancement.md), you can move through 3 squares of solid matter per [turn](../rule/combat/turn.md).
 
 **Psionic Resistance II:** Your [characteristic](../rule/character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the [potencies](../rule/character/potency.md) of psionic abilities. This benefit replaces Psionic Resistance I.
 
-**Reactive:** Whenever you take damage, you have [damage immunity](../rule/damage/damage-immunity.md) 2 until the end of your next turn after the triggering damage is resolved.
+**Reactive:** Whenever you take damage, you have [damage immunity](../rule/damage/damage-immunity.md) 2 until the end of your next [turn](../rule/combat/turn.md) after the triggering damage is resolved.
 
 **Second Wind:** Whenever you become [winded](../rule/health/winded.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to spend a [Recovery](../rule/health/recoveries.md).
 
 **Shattering:** Whenever an enemy scores a [critical hit](../rule/combat/critical-hit.md) against you, they take 10 sonic damage.
 
-**Tempest II:** When you use the armor's Tempest I enhancement, the affected creature takes 8 lightning damage and you push them up to 3 squares.
+**Tempest II:** When you use the armor's Tempest I [enhancement](../rule/treasure/enhancement.md), the affected creature takes 8 lightning damage and you push them up to 3 squares.
 
 ###### 5th-Level Armor Enhancements Table
 
-| Enhancement           | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                 | [Project Source](../rule/downtime/project-source.md) Language |
+| [Enhancement](../rule/treasure/enhancement.md)           | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                 | [Project Source](../rule/downtime/project-source.md) Language |
 |-----------------------|-----------------------------------------------------------------------------------|-------------------------|
 | Absorption            | A mirror blessed by a priest of a god of magic                                    | The First Language      |
 | [Damage Immunity](../rule/damage/damage-immunity.md) II    | The essence of an elemental who is still alive                                    | Zaliac                  |
@@ -324,9 +324,9 @@ You can use an absorbed ability as if you knew it, making [power rolls](../rule/
 
 ###### 9th-Level Armor Enhancement
 
-**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Armor with a 5th-level enhancement; varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Armor with a 5th-level [enhancement](../rule/treasure/enhancement.md); varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -352,31 +352,31 @@ You can use an absorbed ability as if you knew it, making [power rolls](../rule/
 
 **Invulnerable:** When an [ability roll](../rule/dice/ability-roll.md) made against you obtains a tier 1 outcome, you can ignore its damage and effects.
 
-**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../movement/teleport.md) that [distance](../rule/combat/distance.md).
+**Leyline Walker:** Once per [turn](../rule/combat/turn.md) as a move action, you can spend any amount of your movement to instead [teleport](../movement/teleport.md) that [distance](../rule/combat/distance.md).
 
 **Life:** Whenever you would die, you can spend a [Recovery](../rule/health/recoveries.md) to regain [Stamina](../rule/health/stamina.md) instead. If you have no [Recoveries](../rule/health/recoveries.md) to spend, you die.
 
-**Magic Resistance III:** The benefit of the armor's Magic Resistance II enhancement extends to each ally within 3 squares of you.
+**Magic Resistance III:** The benefit of the armor's Magic Resistance II [enhancement](../rule/treasure/enhancement.md) extends to each ally within 3 squares of you.
 
-**Phasing III:** Your movement doesn't provoke [opportunity attacks](../rule/combat/opportunity-attack.md), and you can move through the space of any enemy as if they were an ally. You can't end your turn in an enemy's space.
+**Phasing III:** Your movement doesn't provoke [opportunity attacks](../rule/combat/opportunity-attack.md), and you can move through the space of any enemy as if they were an ally. You can't end your [turn](../rule/combat/turn.md) in an enemy's space.
 
-**Psionic Resistance III:** The benefit of the armor's Psionic Resistance II enhancement extends to each ally within 3 squares of you.
+**Psionic Resistance III:** The benefit of the armor's Psionic Resistance II [enhancement](../rule/treasure/enhancement.md) extends to each ally within 3 squares of you.
 
 **Temporal Flux:** Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.
 
-On your turn, you can [teleport](../movement/teleport.md) to the imprint's space as a [free maneuver](../rule/combat/free-maneuver.md). When you are targeted by an ability, you can use a free [triggered action](../rule/combat/triggered-action.md) to [teleport](../movement/teleport.md) to your imprint, and the [power roll](../rule/dice/power-roll.md) for the ability is an automatic tier 1 result.
+On your [turn](../rule/combat/turn.md), you can [teleport](../movement/teleport.md) to the imprint's space as a [free maneuver](../rule/combat/free-maneuver.md). When you are targeted by an ability, you can use a free [triggered action](../rule/combat/triggered-action.md) to [teleport](../movement/teleport.md) to your imprint, and the [power roll](../rule/dice/power-roll.md) for the ability is an automatic tier 1 result.
 
-**Unbending:** You can't be subjected to [forced movement](../movement/forced-movement.md) unless you choose to be. Effects that ignore [Stability](../rule/character/stability.md) also ignore this enhancement.
+**Unbending:** You can't be subjected to [forced movement](../movement/forced-movement.md) unless you choose to be. Effects that ignore [Stability](../rule/character/stability.md) also ignore this [enhancement](../rule/treasure/enhancement.md).
 
 ###### 9th-Level Armor Enhancements Table
 
-| Enhancement            | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                                    | [Project Source](../rule/downtime/project-source.md) Language |
+| [Enhancement](../rule/treasure/enhancement.md)            | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                                    | [Project Source](../rule/downtime/project-source.md) Language |
 |------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
 | Devil's Bargain        | The wing of an archdevil                                                                             | Anjali                  |
 | Dragon Soul II         | An offering of gems, coins, and art stolen from a dragon's hoard, sacrificed in ritual fire          | Vastariax               |
 | Invulnerable           | Repurposed metal plates from a servok war engine                                                     | Rallarian               |
 | Leyline Walker         | A cutting from an ethereal tree that manifests in the mundane world only once a year                 | Yllyric                 |
-| Life                   | The tear of a saint                                                                                  | High Kuric              |
+| Life                   | The tear of a [saint](../rule/world/saint.md)                                                                                  | High Kuric              |
 | Magic Resistance III   | A scale from an ancient dragon                                                                       | The First Language      |
 | Phasing III            | Perfectly clear glass from a house that disappeared into the Ethereal Plane                          | Szetch                  |
 | Psionic Resistance III | The skull of a voiceless talker at least a century old                                               | Voll                    |
@@ -387,13 +387,13 @@ On your turn, you can [teleport](../movement/teleport.md) to the imprint's space
 
 Implements are jewelry, spectacles, orbs, staffs, tomes, wands, weapons, and other objects used by those who channel magic and psionic power to focus that power. You decide what object to imbue when you create an implement treasure, but it must be an object you can carry or wear. You must have a mundane version of the item you plan to imbue when you start this project.
 
-An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level enhancement, it grants your magic or psionic abilities that deal [rolled damage](../rule/damage/rolled-damage.md) a +1 damage bonus. A 5th-level enhancement increases the bonus to +2, and a 9th-level enhancement increases it to +3. [Censors](../class/censor.md), [conduits](../class/conduit.md), [elementalists](../class/elementalist.md), [nulls](../class/null.md), [talents](../class/talent.md), and [troubadours](../class/troubadour.md) benefit from using implements more than the other classes in this book.
+An implement imbued with an [enhancement](../rule/treasure/enhancement.md) grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level [enhancement](../rule/treasure/enhancement.md), it grants your magic or psionic abilities that deal [rolled damage](../rule/damage/rolled-damage.md) a +1 damage [bonus](../rule/dice/bonuses-and-penalties.md). A 5th-level [enhancement](../rule/treasure/enhancement.md) increases the [bonus](../rule/dice/bonuses-and-penalties.md) to +2, and a 9th-level [enhancement](../rule/treasure/enhancement.md) increases it to +3. [Censors](../class/censor.md), [conduits](../class/conduit.md), [elementalists](../class/elementalist.md), [nulls](../class/null.md), [talents](../class/talent.md), and [troubadours](../class/troubadour.md) benefit from using implements more than the other classes in this book.
 
 ###### 1st-Level Implement Enhancement
 
 **[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -403,7 +403,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Displacing I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, you can [teleport](../movement/teleport.md) that creature up to 2 squares after the ability's effects resolve. If the creature started on a horizontal surface, they must end on a horizontal surface.
 
-**Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this implement to that element until the end of the encounter. While the implement is attuned, you gain an [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) with that elemental keyword. The implement can be attuned to only one element at a time.
+**Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this [implement](../rule/treasure/implement.md) to that element until the end of the encounter. While the [implement](../rule/treasure/implement.md) is attuned, you gain an [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) with that elemental keyword. The [implement](../rule/treasure/implement.md) can be attuned to only one element at a time.
 
 **Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
 
@@ -411,15 +411,15 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Rejuvenating I:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../rule/resource/heroic-resource.md), roll a d10. On a 9 or higher, you gain 1 [Heroic Resource](../rule/resource/heroic-resource.md).
 
-**Seeking:** Your ranged magic or psionic abilities gain a +2 [distance](../rule/combat/distance.md) bonus. Additionally, if you think the name of a specific creature, place, or object to the implement, the implement points toward that target, provided you are on the same world.
+**Seeking:** Your [ranged](../rule/combat/ranged.md) magic or psionic abilities gain a +2 [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md). Additionally, if you think the name of a specific creature, place, or object to the [implement](../rule/treasure/implement.md), the [implement](../rule/treasure/implement.md) points toward that target, provided you are on the same world.
 
-**Thought Sending:** Your ranged magic and psionic abilities gain a +2 [distance](../rule/combat/distance.md) bonus. Additionally, you can telepathically communicate with any willing creature who knows a language and whose name you know, provided they are on the same world as you. You must initiate the conversation, but once you do, the creature can respond until you end the conversation.
+**Thought Sending:** Your [ranged](../rule/combat/ranged.md) magic and psionic abilities gain a +2 [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md). Additionally, you can telepathically communicate with any willing creature who knows a language and whose name you know, provided they are on the same world as you. You must initiate the conversation, but once you do, the creature can respond until you end the conversation.
 
-**Warding I:** You gain a +6 bonus to [Stamina](../rule/health/stamina.md).
+**Warding I:** You gain a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md).
 
 ###### 1st-Level Implement Enhancements Table
 
-| Enhancement     | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                               | [Project Source](../rule/downtime/project-source.md) Language |
+| [Enhancement](../rule/treasure/enhancement.md)     | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                               | [Project Source](../rule/downtime/project-source.md) Language |
 |-----------------|-------------------------------------------------|-------------------------|
 | Berserking      | The tusk of a feral boar                        | Kalliak                 |
 | Displacing I    | Slime from an ooze                              | Khelt                   |
@@ -433,9 +433,9 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 ###### 5th-Level Implement Enhancement
 
-**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** An implement with a 1st-level enhancement; varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** An [implement](../rule/treasure/implement.md) with a 1st-level [enhancement](../rule/treasure/enhancement.md); varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -445,7 +445,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Celestine:** As a main action, you conjure up to three stars, which [hover](../movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have [line of effect](../rule/combat/line-of-effect.md) to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
-**Displacing II:** When you use the implement's Displacing I enhancement, you can [teleport](../movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a [bane](../rule/dice/bane.md) on their next [power roll](../rule/dice/power-roll.md) made before the end of their next turn.
+**Displacing II:** When you use the [implement](../rule/treasure/implement.md)'s Displacing I [enhancement](../rule/treasure/enhancement.md), you can [teleport](../movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a [bane](../rule/dice/bane.md) on their next [power roll](../rule/dice/power-roll.md) made before the end of their next [turn](../rule/combat/turn.md).
 
 **Erupting I:** Whenever you damage a creature using a magic or psionic ability that targets only a single creature and obtain a tier 3 outcome, each enemy within 2 squares of the creature takes 3 fire damage after the ability's effects resolve.
 
@@ -453,15 +453,15 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Hallucinatory:** As a maneuver, you create an area of sensory in[stability](../rule/character/stability.md) in a 2 [aura](../rule/combat/aura.md) centered on yourself. The area is [difficult terrain](../movement/difficult-terrain.md) for your enemies until the end of the encounter.
 
-**Lingering I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature takes 8 damage at the start of your next turn.
+**Lingering I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature takes 8 damage at the start of your next [turn](../rule/combat/turn.md).
 
 **Rejuvenating II:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../rule/resource/heroic-resource.md), roll a d10. On an 8 or higher, you gain 1 [Heroic Resource](../rule/resource/heroic-resource.md) and you can spend a [Recovery](../rule/health/recoveries.md). This replaces the benefit of Rejuvenating I.
 
-**Warding II:** The [Stamina](../rule/health/stamina.md) bonus for the Warding I enhancement becomes +12. Additionally, your [characteristic](../rule/character/characteristic.md) scores are treated as 1 higher for the purpose of resisting [potencies](../rule/character/potency.md).
+**Warding II:** The [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) for the Warding I [enhancement](../rule/treasure/enhancement.md) becomes +12. Additionally, your [characteristic](../rule/character/characteristic.md) scores are treated as 1 higher for the purpose of resisting [potencies](../rule/character/potency.md).
 
 ###### 5th-Level Implement Enhancements Table
 
-| Enhancement     | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                 | [Project Source](../rule/downtime/project-source.md) Language |
+| [Enhancement](../rule/treasure/enhancement.md)     | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                 | [Project Source](../rule/downtime/project-source.md) Language |
 |-----------------|---------------------------------------------------|-------------------------|
 | Celerity        | A dire falcon's beak                              | Khelt                   |
 | Celestine       | A still-warm piece of a meteorite                 | Ullorvic                |
@@ -475,9 +475,9 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 ###### 9th-Level Implement Enhancement
 
-**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** An implement with a 5th-level enhancement; varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** An [implement](../rule/treasure/implement.md) with a 5th-level [enhancement](../rule/treasure/enhancement.md); varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -485,25 +485,25 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../condition/weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../condition/weakened.md) effect ends, you can use a free [triggered action](../rule/combat/triggered-action.md) to make a [free strike](../feature/common/main-actions/free-strike.md) against them.
 
-**Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a [bane](../rule/dice/bane.md) on their next [power roll](../rule/dice/power-roll.md) made before the end of their next turn.
+**Displacing III:** When you use the [implement](../rule/treasure/implement.md)'s Displacing I [enhancement](../rule/treasure/enhancement.md), you can [teleport](../movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a [bane](../rule/dice/bane.md) on their next [power roll](../rule/dice/power-roll.md) made before the end of their next [turn](../rule/combat/turn.md).
 
-**Erupting II:** The fire damage dealt by the implement's Erupting I enhancement increases to 6.
+**Erupting II:** The fire damage dealt by the [implement](../rule/treasure/implement.md)'s Erupting I [enhancement](../rule/treasure/enhancement.md) increases to 6.
 
 **Forceful III:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 3 squares and that movement can be vertical. This replaces the benefit of Forceful II.
 
-**Lingering II:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature takes 15 damage at the start of your next turn. This replaces the benefit of Lingering I.
+**Lingering II:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature takes 15 damage at the start of your next [turn](../rule/combat/turn.md). This replaces the benefit of Lingering I.
 
 **Piercing:** Your magic and psionic abilities ignore damage immunities.
 
-**Psionic Siphon:** Once per turn when you damage one or more creatures using a magic or psionic ability and obtain a tier 3 outcome, you gain [Stamina](../rule/health/stamina.md) equal to your highest [characteristic](../rule/character/characteristic.md) score, and one creature you damage takes an extra 5 damage.
+**Psionic Siphon:** Once per [turn](../rule/combat/turn.md) when you damage one or more creatures using a magic or psionic ability and obtain a tier 3 outcome, you gain [Stamina](../rule/health/stamina.md) equal to your highest [characteristic](../rule/character/characteristic.md) score, and one creature you damage takes an extra 5 damage.
 
 **Rejuvenating III:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../rule/resource/heroic-resource.md), roll a d10. On a 7 or higher, you gain 1 [Heroic Resource](../rule/resource/heroic-resource.md), and you or a creature of your choice within 3 squares can spend a [Recovery](../rule/health/recoveries.md). This replaces the benefit of Rejuvenating II.
 
-**Warding III:** The [Stamina](../rule/health/stamina.md) bonus for the Warding I enhancement becomes +18. Additionally, you and each ally within 3 squares of you has their [characteristic](../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../rule/character/potency.md). This replaces the benefit of Warding II.
+**Warding III:** The [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) for the Warding I [enhancement](../rule/treasure/enhancement.md) becomes +18. Additionally, you and each ally within 3 squares of you has their [characteristic](../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../rule/character/potency.md). This replaces the benefit of Warding II.
 
 ###### 9th-Level Implement Enhancements Table
 
-| Enhancement      | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                         | [Project Source](../rule/downtime/project-source.md) Language |
+| [Enhancement](../rule/treasure/enhancement.md)      | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                         | [Project Source](../rule/downtime/project-source.md) Language |
 |------------------|-----------------------------------------------------------|-------------------------|
 | Anathema         | An olothec tentacle                                       | Variac                  |
 | Displacing III   | The keystone from a gate used for crossing between worlds | Voll                    |
@@ -517,17 +517,17 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 ##### Imbue Weapon
 
-A weapon imbued with an enhancement grants you special benefits while it is wielded. Additionally, when a weapon receives its 1st-level enhancement, it grants your weapon abilities that deal [rolled damage](../rule/damage/rolled-damage.md) a +1 damage bonus. A 5th-level enhancement increases the damage bonus to +2, and a 9th-level enhancement increases it to +3.
+A weapon imbued with an [enhancement](../rule/treasure/enhancement.md) grants you special benefits while it is wielded. Additionally, when a weapon receives its 1st-level [enhancement](../rule/treasure/enhancement.md), it grants your weapon abilities that deal [rolled damage](../rule/damage/rolled-damage.md) a +1 damage [bonus](../rule/dice/bonuses-and-penalties.md). A 5th-level [enhancement](../rule/treasure/enhancement.md) increases the damage [bonus](../rule/dice/bonuses-and-penalties.md) to +2, and a 9th-level [enhancement](../rule/treasure/enhancement.md) increases it to +3.
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such as the [Martial Artist](../kit/martial-artist.md) and [Pugilist](../kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed [strikes](../rule/combat/strike.md) by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../class/elementalist.md) and [nulls](../class/null.md), can also benefit from such treasures.
+A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such as the [Martial Artist](../kit/martial-artist.md) and [Pugilist](../kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed [strikes](../rule/combat/strike.md) by imbuing hand wraps, rings, shoes, or any other item worn on the body with [supernatural](../rule/general/supernatural.md) power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../class/elementalist.md) and [nulls](../class/null.md), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 
 **[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -539,7 +539,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 **Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 [Stamina](../rule/health/stamina.md) or less, they drop to 0 [Stamina](../rule/health/stamina.md).
 
-**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's [distance](../rule/combat/distance.md) as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md) conditions.
+**Hurling:** Whenever you use a [melee](../rule/combat/melee.md) ability using this weapon, you can throw the weapon by treating the ability's [distance](../rule/combat/distance.md) as [ranged](../rule/combat/ranged.md) 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md) [conditions](../rule/combat/condition.md).
 
 **Merciful:** Whenever you reduce a non-undead creature to 0 [Stamina](../rule/health/stamina.md) using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 [Stamina](../rule/health/stamina.md).
 
@@ -547,17 +547,17 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 **Thundering I:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can push that creature 1 square after the other effects of the ability resolve.
 
-**Vengeance I:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 2 damage.
+**Vengeance I:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../rule/combat/turn.md), the ability deals an extra 2 damage.
 
-**Wingbane:** Whenever you damage a [flying](../movement/fly.md) creature using this weapon, that creature is also [bleeding](../condition/bleeding.md) (save ends). While [bleeding](../condition/bleeding.md) in this way, the creature takes 1 damage per square they [fly](../movement/fly.md). If the creature starts and ends their turn on the same solid surface, the [bleeding](../condition/bleeding.md) condition ends.
+**Wingbane:** Whenever you damage a [flying](../movement/fly.md) creature using this weapon, that creature is also [bleeding](../condition/bleeding.md) (save ends). While [bleeding](../condition/bleeding.md) in this way, the creature takes 1 damage per square they [fly](../movement/fly.md). If the creature starts and ends their turn on the same solid surface, the [bleeding](../condition/bleeding.md) [condition](../rule/combat/condition.md) ends.
 
 ###### 1st-Level Weapon Enhancements Table
 
-| Enhancement   | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                    | [Project Source](../rule/downtime/project-source.md) Language |
+| [Enhancement](../rule/treasure/enhancement.md)   | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                    | [Project Source](../rule/downtime/project-source.md) Language |
 |---------------|----------------------------------------------------------------------|-------------------------|
 | Blood Bargain | The blood of a [devil](../ancestry/devil.md)                                                 | Anjali                  |
 | Chilling I    | A piece of ice from Quintessence that never melts                    | Yllyric                 |
-| Disrupting I  | A vial of blood from a living saint                                  | Anjali                  |
+| Disrupting I  | A vial of blood from a living [saint](../rule/world/saint.md)                                  | Anjali                  |
 | Hurling       | A magnet made from rare metals                                       | Variac                  |
 | Merciful      | A sprig of dockwart, a rare plant with natural anesthetic properties | Yllyric                 |
 | Terrifying I  | The preserved, intact amygdala of a mindkiller                       | Variac                  |
@@ -567,9 +567,9 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 ###### 5th-Level Weapon Enhancement
 
-**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** A weapon with a 1st-level enhancement; varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** A weapon with a 1st-level [enhancement](../rule/treasure/enhancement.md); varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -582,11 +582,11 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > *Their momentum, your impact.*
 >
-> | **Melee, [Strike](../rule/combat/strike.md), Weapon** | **Free triggered** |
+> | **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** | **Free triggered** |
 > |---------------------------|-------------------:|
-> | **📏 Melee 1**            |   **🎯 One enemy** |
+> | **📏 [Melee](../rule/combat/melee.md) 1**            |   **🎯 One enemy** |
 >
-> **Trigger:** The target willingly moves adjacent to you.
+> **Trigger:** The target willingly moves [adjacent](../rule/combat/adjacent.md) to you.
 >
 > **Effect:** The target takes 5 damage.
 >
@@ -599,16 +599,16 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 > **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
 >
 > - **Concealed:** The weapon shrinks to the size of a piece of jewelry and can be worn as an earring, necklace, or similar accessory. While in this form, the weapon can't be used for weapon abilities.
-> - **Large:** Abilities using this weapon gain a +1 melee [distance](../rule/combat/distance.md) bonus or a +3 ranged [distance](../rule/combat/distance.md) bonus.
+> - **Large:** Abilities using this weapon gain a +1 [melee](../rule/combat/melee.md) [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md) or a +3 [ranged](../rule/combat/ranged.md) [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md).
 > - **Vicious:** Whenever you damage a creature using this weapon, you deal an extra 1 damage on a tier 1 outcome, an extra 2 damage on a tier 2 outcome, and an extra 3 damage on a tier 3 outcome.
 >
-> **Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next turn.
+> **Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next [turn](../rule/combat/turn.md).
 >
 > **Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is [frightened](../condition/frightened.md) (save ends). This replaces the benefit of Terrifying I.
 >
 > **Thundering II:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../condition/prone.md) after being pushed. This replaces the benefit of Thundering I.
 >
-> **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
+> **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../rule/combat/turn.md), the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
 
 ###### 5th-Level Weapon Enhancements
 
@@ -626,9 +626,9 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 ###### 9th-Level Weapon Enhancement
 
-**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** A weapon with a 5th-level enhancement; varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** A weapon with a 5th-level [enhancement](../rule/treasure/enhancement.md); varies
 
-**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](../rule/treasure/enhancement.md)
 
 **[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
@@ -642,7 +642,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 **Imprisoning:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [restrained](../condition/restrained.md) (save ends). While [restrained](../condition/restrained.md) in this way, the creature can't use magic or psionic abilities.
 
-**Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the [tier outcome](../rule/dice/tier-outcome.md) of the [power roll](../rule/dice/power-roll.md)-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are [winded](../rule/health/winded.md), you have the following ability.
+**Nova:** Whenever you damage a creature using this weapon, each enemy [adjacent](../rule/combat/adjacent.md) to you takes damage based on the [tier outcome](../rule/dice/tier-outcome.md) of the [power roll](../rule/dice/power-roll.md)-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are [winded](../rule/health/winded.md), you have the following ability.
 
 ###### Nova
 
@@ -663,13 +663,13 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > **Thundering III:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them [prone](../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
 >
-> **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
+> **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../rule/combat/turn.md), the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >
-> **Windcutting:** Whenever you use a melee [signature ability](../rule/combat/signature-ability.md) that usually targets one creature, you can take a [bane](../rule/dice/bane.md) on the ability to target each enemy in a [cube](../rule/combat/cube.md) 3 within [distance](../rule/combat/distance.md). If your [signature ability](../rule/combat/signature-ability.md) would usually cause its target to become [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md), each target in the area is instead [slowed](../condition/slowed.md) until the end of their next turn.
+> **Windcutting:** Whenever you use a [melee](../rule/combat/melee.md) [signature ability](../rule/combat/signature-ability.md) that usually targets one creature, you can take a [bane](../rule/dice/bane.md) on the ability to target each enemy in a [cube](../rule/combat/cube.md) 3 within [distance](../rule/combat/distance.md). If your [signature ability](../rule/combat/signature-ability.md) would usually cause its target to become [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md), each target in the area is instead [slowed](../condition/slowed.md) until the end of their next [turn](../rule/combat/turn.md).
 
 ###### 9th-Level Weapon Enhancements
 
-| Enhancement    | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                                                                     | [Project Source](../rule/downtime/project-source.md) Language |
+| [Enhancement](../rule/treasure/enhancement.md)    | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                                                                     | [Project Source](../rule/downtime/project-source.md) Language |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | Chilling III   | The weapon must be dipped in the Glacial Forge in the coldest depths of Hell                                                          | Yllyric                 |
 | Disrupting III | Wrappings from a mummy buried at least a century ago                                                                                  | Anjali                  |
@@ -735,9 +735,9 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 05-06  | Before the roll, an [NPC](../rule/general/npc.md) who is already friendly with the characters and has helped them before asks the hero to let them join the project. The [NPC](../rule/general/npc.md) explains that they need the [project source](../rule/downtime/project-source.md) or the object being crafted for a personal matter of great importance (saving someone's life, righting a great wrong, and so forth). The [NPC](../rule/general/npc.md) can contribute one [project roll](../rule/downtime/project-roll.md) to the project with a +3 modifier, but the characters must commit to letting the [NPC](../rule/general/npc.md) use the finished project before they can do so. |
 | 07-08  | After the roll, the hero receives a mysterious note from a person who wants to exchange a treasure or other reward for the [project source](../rule/downtime/project-source.md) when the project is complete. The buyer could be someone with their own interest in a similar project, an enemy eager to exploit what the hero is working on, or a superfan who wants to emulate the hero.                                                                                                                                                            |
 | 09-10  | Before the roll, a pest starts devouring important components of the project. This could be rats gnawing at alchemical components, moths eating rare silks, mites devouring a printed [project source](../rule/downtime/project-source.md), and so forth. If the pests aren't dealt with quickly, some of the components will need to be replaced.                                                                                                                                                                                                    |
-| 11-12  | Before the roll, a powerful supernatural entity sends an agent or premonition to the hero, offering them knowledge that will let them complete the project immediately. In exchange, the hero must agree to do a favor for the entity, which might not be specified at the time of the bargain.                                                                                                                                                                                                                 |
+| 11-12  | Before the roll, a powerful [supernatural](../rule/general/supernatural.md) entity sends an agent or premonition to the hero, offering them knowledge that will let them complete the project immediately. In exchange, the hero must agree to do a favor for the entity, which might not be specified at the time of the bargain.                                                                                                                                                                                                                 |
 | 13-14  | Before the roll, a rumor arises that the project is being worked on in service to an evil entity. People start showing up to the hero's place of [respite](../rule/resource/respite.md), demanding that they repent their wicked ways. If the rumors aren't disproved, locals form a mob to stop the project.                                                                                                                                                                                                                                  |
-| 15-16  | Before the roll, the hero's rival comes to visit and shows off a guide for the project. The rival is willing to hand the guide over... provided the hero publicly humiliates themself by proclaiming that the rival is their better.                                                                                                                                                                                                                                                                             |
+| 15-16  | Before the roll, the hero's rival comes to visit and shows off a [guide](../rule/downtime/guide.md) for the project. The rival is willing to hand the [guide](../rule/downtime/guide.md) over... provided the hero publicly humiliates themself by proclaiming that the rival is their better.                                                                                                                                                                                                                                                                             |
 | 17-18  | The [project source](../rule/downtime/project-source.md) is cursed. Before the roll, the hero must succeed on a hard [Intuition](../rule/character/intuition.md) [test](../rule/test/test.md) or become obsessed with the project. Until the project is complete, the hero can't use [Victories](../rule/resource/victories.md) to increase their [Heroic Resource](../rule/resource/heroic-resource.md). The curse can be broken by slaying the creature who bestowed it, or by finding a priest to perform a holy ritual over the [project source](../rule/downtime/project-source.md).                                                                                                                                     |
 | 19-20  | Before the roll, the hero finds that a significant amount of the project has been completed by a group of fairies. The fairies might have completed the job out of boredom, or they might want something from the hero in return.                                                                                                                                                                                                                                                                               |
 | 21-22  | After the roll, the hero realizes that the [project source](../rule/downtime/project-source.md) contains only half the information they need, and they must find the rest of the information to complete the project.                                                                                                                                                                                                                                                                                                                                 |
@@ -753,9 +753,9 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 41-42  | After the roll, a physical [project source](../rule/downtime/project-source.md) or crafting components come to life and attack the hero. Magic within these items has become corrupted! If the hero can fix the corruption without destroying the items, the project is saved, but doing so requires a special ritual.                                                                                                                                                                                                                                |
 | 43-44  | After the roll, an otherworldly specter appears and warns the hero not to complete the project, explaining that they died attempting the same project and are now attached to the [project source](../rule/downtime/project-source.md). If the hero can convince the spirit that they will not die similarly, the creature shares their knowledge, contributing one [project roll](../rule/downtime/project-roll.md) to the project with a +3 modifier.                                                                                                                                   |
 | 45-46  | Before the roll, the servants of a dragon appear and demand that the hero hand over the [project source](../rule/downtime/project-source.md). If the hero refuses, the servants warn that the dragon will come to claim the [project source](../rule/downtime/project-source.md) for themself.                                                                                                                                                                                                                                                                                              |
-| 47-48  | Before the roll, the hero notices a contract written on a physical [project source](../rule/downtime/project-source.md) or other accompanying materials that appears only under certain conditions (in the presence of magic, in the light of a full moon, and so forth). The contract promises that anyone who signs it in blood will receive the true and full answer to three questions, in exchange for a week of service to the hag Corrine Withersnipe. The hag appears instantly if the contract is signed.                                    |
+| 47-48  | Before the roll, the hero notices a contract written on a physical [project source](../rule/downtime/project-source.md) or other accompanying materials that appears only under certain [conditions](../rule/combat/condition.md) (in the presence of magic, in the light of a full moon, and so forth). The contract promises that anyone who signs it in blood will receive the true and full answer to three questions, in exchange for a week of service to the hag Corrine Withersnipe. The hag appears instantly if the contract is signed.                                    |
 | 49-50  | After the roll, an unexpected total eclipse of the sun occurs, lasting 1 hour. Once per [respite](../rule/resource/respite.md) when any creature makes another [project roll](../rule/downtime/project-roll.md) for the project, another eclipse occurs and lasts twice as long as the previous. Some take this phenomenon as a sign of impending doom that will descend when the project is completed. Others believe that a powerful enemy is trying to scare the heroes into not finishing the project.                                                                         |
-| 51-52  | Before the roll, the hero gets a visit from an [NPC](../rule/general/npc.md) who they helped in the past. The [NPC](../rule/general/npc.md) has found a guide that relates to the project and gives it to the hero as a gift of thanks.                                                                                                                                                                                                                                                                                                                             |
+| 51-52  | Before the roll, the hero gets a visit from an [NPC](../rule/general/npc.md) who they helped in the past. The [NPC](../rule/general/npc.md) has found a [guide](../rule/downtime/guide.md) that relates to the project and gives it to the hero as a gift of thanks.                                                                                                                                                                                                                                                                                                                             |
 | 53-54  | After the roll, a local officer of the law appears and tells the hero to stop working on their project. The nature of the hero's project has just become outlawed in the region, and the constable insists on locking up the [project source](../rule/downtime/project-source.md) and arresting anyone who gets in the way.                                                                                                                                                                                                                           |
 | 55-56  | Before the roll, the hero determines that the research or crafting they are planning requires only part of their attention. They can either make two [project rolls](../rule/downtime/project-roll.md) for their current project, or can make one for that project and one for another project.                                                                                                                                                                                                                                                     |
 | 57-58  | After the roll, a component or tool the hero is using for the project suddenly reveals itself to be magic or psionic as it starts to hum with energy and glow red hot. If the item isn't quickly cooled, it explodes, and work on the project can't continue until a replacement is found.                                                                                                                                                                                                                      |
@@ -770,13 +770,13 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 75-76  | Before the roll, a band of goblins barge in on the hero. If the hero has been fighting goblins on their recent adventures, the goblins attempt to run away with the [project source](../rule/downtime/project-source.md). Otherwise, the goblins are merely curious about the project, and the hero can make two [project rolls](../rule/downtime/project-roll.md) if they choose to explain it and have the goblins help.                                                                                                                                                                |
 | 77-78  | After the roll, the hero watches as any progress made is reversed—as if the project were moving backward through time. Any character familiar with psionics recognizes the phenomena as a chrono-anomaly. The project loses the same amount of progress each successive night until the hero finds and stops the source of the anomaly, which restores the project's progress.                                                                                                                                  |
 | 79-80  | Before the roll, the hero hears a voice beckoning them into the nearest wode to work on their project. Each time the hero makes a [project roll](../rule/downtime/project-roll.md) in the wode, they make three times the progress but feel more pressure to stay in the wode forever.                                                                                                                                                                                                                                                              |
-| 81-82  | After the roll, the hero stumbles upon knowledge of an expert a day's travel away who could complete the project, and who possesses a [project source](../rule/downtime/project-source.md) or guide for another hero's project.                                                                                                                                                                                                                                                                                                                       |
+| 81-82  | After the roll, the hero stumbles upon knowledge of an expert a day's travel away who could complete the project, and who possesses a [project source](../rule/downtime/project-source.md) or [guide](../rule/downtime/guide.md) for another hero's project.                                                                                                                                                                                                                                                                                                                       |
 | 83-84  | Before the roll, fire rips through the hero's [project source](../rule/downtime/project-source.md) or other materials and threatens to destroy the entire project. If the hero puts out the fire before everything is lost, they find that the fire activated secret notes that double each subsequent [project roll](../rule/downtime/project-roll.md) for the project.                                                                                                                                                                                                                  |
 | 85-86  | After the roll, a auteur [NPC](../rule/general/npc.md) approaches the hero and asks if they would like to make the project "a little more exciting." If the hero agrees, the auteur narrates the hero's progress on the project, prompting another [project roll](../rule/downtime/project-roll.md). If the second roll is lower than the first, the hero subtracts the second roll from the original roll. If it's equal or higher, the hero adds the second roll to the original roll.                                                                                      |
 | 87-88  | Before the roll, the hero's rival reluctantly comes seeking the hero's help on their own project. If the hero agrees, the hero makes their [project roll](../rule/downtime/project-roll.md) toward the rival's project, and the Director makes the rival's [project roll](../rule/downtime/project-roll.md) toward the hero's project.                                                                                                                                                                                                                                                  |
 | 89-90  | After the roll, the hero completes their work on the project earlier than expected, and can either relax or go carousing with other heroes who are free. The hero and every character who joins them starts the next encounter with 10 [temporary Stamina](../rule/health/temporary-stamina.md).                                                                                                                                                                                                                                                       |
 | 91-92  | Before the roll, the hero is approached by a wagoneer who needs help fixing their wagon. If the hero helps, they find out that the wagoneer is allied with the campaign's villain. If the hero doesn't attack or threaten the wagoneer, then in some future combat, an [NPC](../rule/general/npc.md) of the Director's choice turns out to be a friend or relative of the wagoneer. They leave the battle peacefully when they recognize the hero.                                                                                        |
-| 93-94  | After the roll, the [project source](../rule/downtime/project-source.md) and any evidence of the project disappear into thin air. Any investigation of the area turns up footprints fleeing the scene and traces of gnoll hair.                                                                                                                                                                                                                                                                                                                       |
+| 93-94  | After the roll, the [project source](../rule/downtime/project-source.md) and any evidence of the project disappear into thin air. Any investigation of the area [turns](../rule/combat/turn.md) up footprints fleeing the scene and traces of gnoll hair.                                                                                                                                                                                                                                                                                                                       |
 | 95-96  | After the roll, the hero suddenly no longer understands or comprehends the [project source](../rule/downtime/project-source.md) after focusing on those materials for too long. If they continue with the project, they take a [bane](../rule/dice/bane.md) on its [project rolls](../rule/downtime/project-roll.md) for the next two [respites](../rule/resource/respite.md). If they leave the project alone for the next two [respites](../rule/resource/respite.md), they'll be able to comprehend the research again, gaining an automatic breakthrough before the next [project roll](../rule/downtime/project-roll.md).                                                                                      |
 | 97-98  | Before the roll, part of the hero's [project source](../rule/downtime/project-source.md) or other materials shrinks and is pulled through a mousehole. A group of radenwights sent magical mice to steal the resources so they can finish their own project. The radenwights are willing to negotiate if the hero doesn't approach them aggressively.                                                                                                                                                                                                 |
 | 99-100 | Before the roll, an elemental springs forth from the [project source](../rule/downtime/project-source.md) and pulls the hero into a duel. If the hero can survive 3 rounds of combat with the elemental on their own, the elemental vanishes and leaves behind a completed project. If the hero flees, falls unconscious, or gets help from an ally, the elemental destroys the [project source](../rule/downtime/project-source.md) as they disappear.                                                                                                                                     |
@@ -869,7 +869,7 @@ You gain one [signature ability](../rule/combat/signature-ability.md) of your ch
 
 ##### Hone Ability
 
-You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the [distance](../rule/combat/distance.md) of a ranged ability by 2. An ability can be honed only once this way.
+You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage [bonus](../rule/dice/bonuses-and-penalties.md) to the ability, or improving the [distance](../rule/combat/distance.md) of a [ranged](../rule/combat/ranged.md) ability by 2. An ability can be honed only once this way.
 
 ##### Improve Control
 
@@ -909,7 +909,7 @@ When you start this project, choose a skill taught by the [project source](../ru
 
 **Project Goal:** 100
 
-When you start this project, you choose a recipe for a specific type of dish. The [item prerequisite](../rule/downtime/item-prerequisite.md) for the project is the ingredients required, which depend on the recipe and which might be difficult to acquire depending on the recipe and its place of origin. You gain a +3 bonus to the [project roll](../rule/downtime/project-roll.md) if the recipe is one from your culture.
+When you start this project, you choose a recipe for a specific type of dish. The [item prerequisite](../rule/downtime/item-prerequisite.md) for the project is the ingredients required, which depend on the recipe and which might be difficult to acquire depending on the recipe and its place of origin. You gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to the [project roll](../rule/downtime/project-roll.md) if the recipe is one from your culture.
 
 When you complete the project, you can make five servings of food from the recipe as a [respite](../rule/resource/respite.md) activity whenever you have access to the ingredients. You and other creatures taking a [respite](../rule/resource/respite.md) with you can eat a serving of the food and gain its benefits (see below).
 
@@ -917,7 +917,7 @@ A creature who eats a serving of food from a particular type of recipe gains one
 
 - **Comforting:** When the creature fails a [saving throw](../rule/general/saving-throw.md), they can choose to succeed instead. This benefit then ends.
 - **Hearty:** The creature increases their [Recoveries](../rule/health/recoveries.md) by 1 at the end of the [respite](../rule/resource/respite.md) in which the food is consumed.
-- **Supernatural Power:** The creature temporarily increases one of their [characteristic](../rule/character/characteristic.md) scores by 1 (to a maximum of 6).
+- **[Supernatural](../rule/general/supernatural.md) Power:** The creature temporarily increases one of their [characteristic](../rule/character/characteristic.md) scores by 1 (to a maximum of 6).
 
 A creature can benefit from the food of only one recipe at a time, and can't benefit from more than one serving of a recipe at a time.
 
@@ -927,7 +927,7 @@ A creature can benefit from the food of only one recipe at a time, and can't ben
 |-----------------|-----------------------------------------------------------------------|--------------------|
 | Modern          | Common ingredients (flour, carrots, beef, and so forth)               | Hearty             |
 | Vintage or home | Key ingredients (starfruit, kindleseeds, oarfish, and so forth)       | Comforting         |
-| Ancient or lost | Rare or extinct ingredients (honeylilies, steel apples, and so forth) | Supernatural power |
+| Ancient or lost | Rare or extinct ingredients (honeylilies, steel apples, and so forth) | [Supernatural](../rule/general/supernatural.md) power |
 
 ### Other Projects
 
@@ -954,10 +954,10 @@ While undertaking this project, you provide help to people in need, doing odd jo
 | 1   | After the roll, the hero's service is recognized by the local nobility or authorities. Upon completion of the project, the hero earns 1 [Renown](../rule/resource/renown.md).                                                                                                                                                                                                                                                                                  |
 | 2   | Before the roll, a mysterious force hinders the work in an unfortunate way, with tools going missing, tutoring materials vanishing, cleaning supplies turning up already filthy, and so forth. The hero can't continue the project until the culprit—a maligned [devil](../ancestry/devil.md) or spirit connected to the hero's past—is identified and dealt with.                                                                                       |
 | 3   | Before the roll, the community is so excited by the project that they join in to lend a hand. The project gains an automatic breakthrough.                                                                                                                                                                                                                                                                                       |
-| 4   | Before the roll, a sympathetic [NPC](../rule/general/npc.md)—perhaps a friend or ally from the community or from the hero's past—offers to assist with the project. The hero gains a +3 bonus to the [project roll](../rule/downtime/project-roll.md).                                                                                                                                                                                                                                         |
+| 4   | Before the roll, a sympathetic [NPC](../rule/general/npc.md)—perhaps a friend or ally from the community or from the hero's past—offers to assist with the project. The hero gains a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to the [project roll](../rule/downtime/project-roll.md).                                                                                                                                                                                                                                         |
 | 5   | Before the roll, work on the project unearths a previously lost detail of the community—a lost or hidden section of a settlement, a surprising historical detail, a secret regarding a prominent local, and so forth. The locals take a keen interest in the development, but the revelation threatens to tear the community apart. If the character can't take steps to undo this strife, they take a [bane](../rule/dice/bane.md) on the [project roll](../rule/downtime/project-roll.md). |
 | 6   | After the roll, a seemingly benign action taken by the hero curses them with bad luck. Until they break the curse, all [project rolls](../rule/downtime/project-roll.md) they make are halved.                                                                                                                                                                                                                                                                       |
-| 7   | After the roll, a saint blesses the hero's work. The hero feels supernaturally rejuvenated, increasing their [Recoveries](../rule/health/recoveries.md) by 1 until the end of their next [respite](../rule/resource/respite.md). If the character is a [conduit](../class/conduit.md), they also gain an automatic breakthrough on the project.                                                                                                                                                                        |
+| 7   | After the roll, a [saint](../rule/world/saint.md) blesses the hero's work. The hero feels [supernatural](../rule/general/supernatural.md)ly rejuvenated, increasing their [Recoveries](../rule/health/recoveries.md) by 1 until the end of their next [respite](../rule/resource/respite.md). If the character is a [conduit](../class/conduit.md), they also gain an automatic breakthrough on the project.                                                                                                                                                                        |
 | 8   | Before the roll, the hero becomes aware of a previously unknown radenwight warren within the community, which has the potential to become a point of tension and conflict. The hero must engage with the radenwights and other locals to create understanding between the two communities or take a [bane](../rule/dice/bane.md) on the [project roll](../rule/downtime/project-roll.md).                                                                                                    |
 | 9   | Before the roll, a local malcontent has turned their focus on the hero and roused the people against them. The hero must either contend with angry locals preventing them from resting (losing the usual benefit of the [respite](../rule/resource/respite.md)) or find the malcontent and win them over before proceeding.                                                                                                                                     | 
 | 10  | Before the roll, a thief, assassin, or other criminal offers to assist the hero. They can offer 50 points toward the completion of the project, as long as the hero looks the other way if they ever cross paths again.                                                                                                                                                                                                          |

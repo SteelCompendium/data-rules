@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 1
-effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object adjacent to you.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you.
 flavor: You strike so quickly that your hands become a blur.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -20,9 +20,9 @@ type: ability
 
 *You strike so quickly that your hands become a blur.*
 
-| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |------------------------------------|--------------------------------:|
-| **📏 Melee 1**                     | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
@@ -30,4 +30,4 @@ type: ability
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object adjacent to you.
+**Effect:** You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you.

@@ -11,12 +11,12 @@
   "keywords": [
     "Area",
     "Magic",
-    "Ranged"
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*You call down a sphere of fire that burns your foes to ash.*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10** | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 9 fire damage\n- **12-16:** 14 fire damage\n- **17+:** 19 fire damage",
+    "content": "\n*You call down a sphere of fire that burns your foes to ash.*\n\n| **Area, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10** | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 9 fire damage\n- **12-16:** 14 fire damage\n- **17+:** 19 fire damage",
     "distance": "5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
     "feature_type": "ability",
     "flavor": "You call down a sphere of fire that burns your foes to ash.",
@@ -25,7 +25,7 @@
     "keywords": [
       "Area",
       "Magic",
-      "Ranged"
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 9,
     "scc": [

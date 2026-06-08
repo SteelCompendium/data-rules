@@ -1,22 +1,22 @@
 ability_type: Triggered
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
+    - effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
       name: Effect
     - cost: Spend 1 Essence
-      effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead.
+      effect: The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead.
 feature_type: ability
 flavor: You add a little magic to an ally's aggression at just the right time.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     ability_type: Triggered
     action_type: Triggered
     class: elementalist
-    content: "\n*You add a little magic to an ally's aggression at just the right time.*\n\n| **Fire, Magic, Ranged**  |           **Triggered** |\n|--------------------------|------------------------:|\n| **\U0001F4CF Ranged 10**         | **\U0001F3AF Self or one ally** |\n\n**Trigger:** The target [force move](scc:mcdm.heroes.v1/movement/forced-movement)s a creature or object. \n\n**Effect:** The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.\n\n**Spend 1 Essence:** The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a bonus equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead."
-    distance: Ranged 10
+    content: "\n*You add a little magic to an ally's aggression at just the right time.*\n\n| **Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**  |           **Triggered** |\n|--------------------------|------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**         | **\U0001F3AF Self or one ally** |\n\n**Trigger:** The target [force move](scc:mcdm.heroes.v1/movement/forced-movement)s a creature or object. \n\n**Effect:** The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.\n\n**Spend 1 Essence:** The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead."
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     feature_type: ability
     flavor: You add a little magic to an ally's aggression at just the right time.
     item_id: explosive-assistance
@@ -24,7 +24,7 @@ metadata:
     keywords:
         - Fire
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: 1
     scc:
         - mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance

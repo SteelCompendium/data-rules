@@ -17,9 +17,9 @@ Choose one of the following abilities.
 
 *You direct your ally to make a killing blow.*
 
-| **Ranged**       | **Free triggered** |
+| **[Ranged](../../../rule/combat/ranged.md)**       | **Free triggered** |
 |------------------|-------------------:|
-| **📏 Ranged 10** |    **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** |    **🎯 One ally** |
 
 **Trigger:** The target uses an ability to deal [rolled damage](../../../rule/damage/rolled-damage.md) to a creature while hidden.
 
@@ -30,9 +30,9 @@ Choose one of the following abilities.
 
 *You confuse your foes, causing them to turn on each other.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |      **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |      **Main action** |
 |-----------------------------------|---------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 Two creatures** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -51,9 +51,9 @@ Choose one of the following abilities.
 
 *With new understanding of your foes, you create the perfect plan to win the battle.*
 
-| **Ranged**       |           **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |           **Maneuver** |
 |------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Three creatures** |
 
 **Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have [damage immunity](../../../rule/damage/damage-immunity.md) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](../../../rule/resource/surge.md).
 
@@ -77,11 +77,11 @@ Choose one of the following abilities.
 ### Instant Retaliation {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation"}
 
 
-*You [parry](../../ability/tactician/level-1/parry.md) with almost supernatural [speed](../../../rule/character/speed.md).*
+*You [parry](../../ability/tactician/level-1/parry.md) with almost [supernatural](../../../rule/general/supernatural.md) [speed](../../../rule/character/speed.md).*
 
-| **Melee, Weapon** | **Free triggered** |
+| **[Melee](../../../rule/combat/melee.md), Weapon** | **Free triggered** |
 | ------------------------------------|-------------------:|
-| **📏 Melee 1**                   |    **🎯 One ally** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   |    **🎯 One ally** |
 
 **Trigger:** A creature deals damage to the target.
 
@@ -98,14 +98,14 @@ Choose one of the following abilities.
 
 *You lead your allies in a charge.*
 
-| **Charge, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Charge, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                    | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can use a melee [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
-- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can use a melee [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
-- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can each use a melee [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can use a [melee](../../../rule/combat/melee.md) [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can use a [melee](../../../rule/combat/melee.md) [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can each use a [melee](../../../rule/combat/melee.md) [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
 
 **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../condition/dazed.md) (save ends). If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) before one or both allies has made their [strike](../../../rule/combat/strike.md), the ally or allies can pick a different target.

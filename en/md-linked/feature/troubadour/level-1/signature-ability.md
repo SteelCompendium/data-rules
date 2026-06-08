@@ -13,9 +13,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *And they said practicing fencing was a waste!*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -32,9 +32,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *There you are, radiating your usual charisma.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Ranged 10**                  | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                  | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -47,9 +47,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *I didn't do it! What?*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**             | **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon**             | **Main action** |
 |---------------------------------------|----------------:|
-| **📏 Melee 1**                        | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                        | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -57,16 +57,16 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-**Effect:** The target is [taunted](../../../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
+**Effect:** The target is [taunted](../../../condition/taunted.md) by you or a willing ally [adjacent](../../../rule/combat/adjacent.md) to you until the end of the target's next [turn](../../../rule/combat/turn.md).
 
 ## Witty Banter {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter"}
 
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**       | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -74,7 +74,7 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 - **12-16:** 5 + P psychic damage
 - **17+:** 7 + P psychic damage
 
-**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../rule/combat/turn.md).
 
 **Spend 1 Drama:** The chosen ally can spend a [Recovery](../../../rule/health/recoveries.md).
 
@@ -91,9 +91,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -101,7 +101,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 10 + P sonic damage
 - **17+:** 13 + P sonic damage
 
-**Effect:** The first time the target uses an ability before the start of your next turn, any effects from the ability's [tier outcomes](../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../../rule/dice/power-roll.md) work as usual.
+**Effect:** The first time the target uses an ability before the start of your next [turn](../../../rule/combat/turn.md), any effects from the ability's [tier outcomes](../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../../rule/dice/power-roll.md) work as usual.
 
 ### Hypnotic Overtones {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones"}
 
@@ -125,7 +125,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You write something unexpected into the scene that hinders your enemy.*
 
-| **Area, Magic, Ranged**     |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 3 [cube](../../../rule/combat/cube.md) within 10**     | **🎯 Each enemy in the area** |
 
@@ -142,11 +142,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** | **Maneuver** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** | **Maneuver** |
 |---------------------------|-------------:|
 | **📏 Self; see below**    |  **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md). You make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy you move adjacent to during this [shift](../../../movement/shifting.md).
+**Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md). You make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy you move [adjacent](../../../rule/combat/adjacent.md) to during this [shift](../../../movement/shifting.md).
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md) or [Presence](../../../rule/character/presence.md):**
 
@@ -182,7 +182,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to [speed](../../../rule/character/speed.md) and you ignore [difficult terrain](../../../movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
+**Effect:** You [turn](../../../rule/combat/turn.md) invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) and you ignore [difficult terrain](../../../movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next [turn](../../../rule/combat/turn.md), or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
 
 ### Flip the Script {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script"}
 
@@ -200,9 +200,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *They're so hurt by your performance, you start to believe it yourself.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 

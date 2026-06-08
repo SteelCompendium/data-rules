@@ -4,8 +4,8 @@ class: elementalist
 cost: 3 Essence
 cost_amount: "3"
 cost_resource: Essence
-distance: Ranged 10
-effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) creature as a main action.
 feature_type: ability
 file_basename: invigorating-growth
 file_dpath: feature/ability/elementalist/level-1
@@ -15,7 +15,7 @@ item_name: Invigorating Growth
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Invigorating Growth
@@ -27,27 +27,27 @@ type: ability
 
 ```ds-feature
 cost: 3 Essence
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+    - effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) creature as a main action.
 feature_type: ability
 flavor: Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: elementalist
     cost: 3 Essence
-    distance: Ranged 10
-    effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) creature as a main action.
     flavor: Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
     keywords:
         - Green
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Invigorating Growth

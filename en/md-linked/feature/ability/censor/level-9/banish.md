@@ -2,11 +2,11 @@
 action_type: Main action
 class: censor
 cost: 11 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: This ability gains an [edge](../../../../rule/dice/edge.md) against demons, [devils](../../../../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double [edge](../../../../rule/dice/edge.md). While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make [saving throws](../../../../rule/general/saving-throw.md), and takes 10 holy damage each time they do so. If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) while banished, they are lost to the timescape.
 flavor: You sever the target's tenuous connection to the world.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -19,9 +19,9 @@ type: ability
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon**  |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**             | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

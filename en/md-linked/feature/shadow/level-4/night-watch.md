@@ -15,9 +15,9 @@ Additionally, you have the following ability.
 
 *A steely dagger from out of the blue knocks another weapon off course.*
 
-| **Ranged, Weapon** |   **Triggered** |
+| **[Ranged](../../../rule/combat/ranged.md), Weapon** |   **Triggered** |
 |--------------------|----------------:|
-| **📏 Ranged 5**    | **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 5**    | **🎯 One ally** |
 
 **Trigger:** The target takes damage from another creature's ability while you are hidden.
 

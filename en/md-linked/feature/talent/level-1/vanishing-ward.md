@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.talent.level-1/vanishing-ward
 type: feature
 ---
 
-Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.
+Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next [turn](../../../rule/combat/turn.md).

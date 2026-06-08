@@ -17,7 +17,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../../condition/frightened.md) until the end of their turn.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy who starts their [turn](../../../rule/combat/turn.md) [adjacent](../../../rule/combat/adjacent.md) to you and has P < STRONG is [frightened](../../../condition/frightened.md) until the end of their [turn](../../../rule/combat/turn.md).
 
 ## Face the Storm! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/face-the-storm"}
 
@@ -28,7 +28,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each creature you make a melee [strike](../../../rule/combat/strike.md) against who has P < AVERAGE is [taunted](../../../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) against any enemy [taunted](../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../../../rule/character/might.md) score and increases its [potency](../../../rule/character/potency.md) by 1.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each creature you make a [melee](../../../rule/combat/melee.md) [strike](../../../rule/combat/strike.md) against who has P < AVERAGE is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md). Additionally, when you use an ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) against any enemy [taunted](../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../../../rule/character/might.md) score and increases its [potency](../../../rule/character/potency.md) by 1.
 
 ## Steelbreaker {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/steelbreaker"}
 
@@ -46,8 +46,8 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Slash. Walk away.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
-**Effect:** If the target is not a leader or solo creature, they are reduced to 0 [Stamina](../../../rule/health/stamina.md) at the end of their next turn. If the target is a leader or solo creature, you gain 3 [surges](../../../rule/resource/surge.md) and can make a melee [free strike](../../common/main-actions/free-strike.md) against them.
+**Effect:** If the target is not a leader or solo creature, they are reduced to 0 [Stamina](../../../rule/health/stamina.md) at the end of their next [turn](../../../rule/combat/turn.md). If the target is a leader or solo creature, you gain 3 [surges](../../../rule/resource/surge.md) and can make a [melee](../../../rule/combat/melee.md) [free strike](../../common/main-actions/free-strike.md) against them.

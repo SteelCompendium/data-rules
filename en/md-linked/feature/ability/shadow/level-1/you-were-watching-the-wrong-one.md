@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: shadow
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: As long as you have one or more allies within 5 squares of the target, you gain 1 [surge](../../../../rule/resource/surge.md). If you are [flanking](../../../../rule/combat/flanking.md) the target when you use this ability, choose one ally who is [flanking](../../../../rule/combat/flanking.md) with you. That ally also gains 1 [surge](../../../../rule/resource/surge.md).
 flavor: They can't watch both of you at once.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -19,9 +19,9 @@ type: ability
 
 *They can't watch both of you at once.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

@@ -4,7 +4,7 @@ class: talent
 cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: A target can't use [triggered actions](scc:mcdm.heroes.v1/rule.combat/triggered-action) while their [speed](scc:mcdm.heroes.v1/rule.character/speed) is reduced this way.
 feature_type: ability
 file_basename: slow
@@ -15,7 +15,7 @@ item_name: Slow
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "2"
 name: Slow
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/slow
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Clarity
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: A target can't use [triggered actions](scc:mcdm.heroes.v1/rule.combat/triggered-action) while their [speed](scc:mcdm.heroes.v1/rule.character/speed) is reduced this way.
 feature_type: ability
@@ -34,18 +34,18 @@ flavor: Perhaps they wonder why everyone else is moving so quickly?
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: talent
     cost: 5 Clarity
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: A target can't use [triggered actions](scc:mcdm.heroes.v1/rule.combat/triggered-action) while their [speed](scc:mcdm.heroes.v1/rule.character/speed) is reduced this way.
     flavor: Perhaps they wonder why everyone else is moving so quickly?
     keywords:
         - Chronopathy
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "2"
     name: Slow
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/slow

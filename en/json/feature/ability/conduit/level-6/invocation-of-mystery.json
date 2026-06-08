@@ -3,7 +3,7 @@
   "distance": "4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "effect": "Each target is invisible until the start of your next turn.",
+      "effect": "Each target is invisible until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*\"Now you see us...\"*\n\n| **Area, Magic**  |                          **Maneuver** |\n|------------------|--------------------------------------:|\n| **📏 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each target is invisible until the start of your next turn.",
+    "content": "\n*\"Now you see us...\"*\n\n| **Area, Magic**  |                          **Maneuver** |\n|------------------|--------------------------------------:|\n| **📏 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each target is invisible until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
     "distance": "4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "\"Now you see us...\"",

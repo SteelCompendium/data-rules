@@ -13,9 +13,9 @@ You have the following ability.
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
-| **Psionic, Ranged** |                                 **Maneuver** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |                                 **Maneuver** |
 |---------------------|---------------------------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one [size](../../../rule/character/size.md) 1 creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../../../rule/character/size.md) 1 creature or object** |
 
 **Effect:** You slide the target up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 

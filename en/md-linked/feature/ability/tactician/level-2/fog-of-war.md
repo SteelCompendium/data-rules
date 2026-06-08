@@ -2,11 +2,11 @@
 action_type: Maneuver
 class: tactician
 cost: 5 Focus
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Each target is marked by you, and must immediately make a [free strike](../../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 flavor: Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Fog of War
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/fog-of-war
@@ -17,9 +17,9 @@ type: ability
 
 *Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
 
-| **Ranged**       |         **Maneuver** |
+| **[Ranged](../../../../rule/combat/ranged.md)**       |         **Maneuver** |
 |------------------|---------------------:|
-| **📏 Ranged 10** | **🎯 Two creatures** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Two creatures** |
 
 **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 

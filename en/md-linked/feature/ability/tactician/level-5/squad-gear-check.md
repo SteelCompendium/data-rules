@@ -2,11 +2,11 @@
 action_type: Main action
 class: tactician
 cost: 9 Focus
-distance: Melee 1
-effect: You and each ally adjacent to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: You and each ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 flavor: You distract a foe while your allies secure their defensive gear.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
@@ -19,9 +19,9 @@ type: ability
 
 *You distract a foe while your allies secure their defensive gear.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** | **Main action**     |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** | **Main action**     |
 |---------------------------|---------------------|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 13 + M damage
 - **17+:** 18 + M damage
 
-**Effect:** You and each ally adjacent to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+**Effect:** You and each ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).

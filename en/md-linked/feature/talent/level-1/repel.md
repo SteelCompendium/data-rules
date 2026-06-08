@@ -13,9 +13,9 @@ You have the following ability.
 
 *They aren't going anywhere, but you might!*
 
-| **Psionic, Ranged** |           **Triggered** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |           **Triggered** |
 |---------------------|------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self or one ally** |
 
 **Trigger:** The target takes damage or is [force moved](../../../movement/forced-movement.md).
 

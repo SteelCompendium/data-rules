@@ -4,8 +4,8 @@ class: conduit
 cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
-distance: Ranged 10
-effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: Each ally the target comes [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: drag-the-unworthy
 file_dpath: feature/ability/conduit/level-8
@@ -14,7 +14,7 @@ item_id: drag-the-unworthy
 item_name: Drag the Unworthy
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "8"
 name: Drag the Unworthy
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 11 Piety
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    - effect: Each ally the target comes [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 flavor: You conjure an angel who moves a foe and heals your allies.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: conduit
     cost: 11 Piety
-    distance: Ranged 10
-    effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: Each ally the target comes [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: You conjure an angel who moves a foe and heals your allies.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "8"
     name: Drag the Unworthy

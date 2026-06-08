@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 1
-effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object adjacent to you.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you.
 feature_type: ability
 file_basename: faster-than-the-eye
 file_dpath: feature/ability/null/level-1
@@ -10,7 +10,7 @@ flavor: You strike so quickly that your hands become a blur.
 item_id: faster-than-the-eye
 item_name: Faster Than the Eye
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -24,24 +24,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object adjacent to you.
+    - effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you.
 feature_type: ability
 flavor: You strike so quickly that your hands become a blur.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: "null"
-    distance: Melee 1
-    effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object adjacent to you.
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
+    effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you.
     flavor: You strike so quickly that your hands become a blur.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Psionic
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon

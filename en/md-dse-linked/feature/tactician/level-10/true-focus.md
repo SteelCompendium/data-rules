@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: When you gain focus at the start of each of your turns during combat, you gain 4 focus instead of 3.
+    - effect: When you gain focus at the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 4 focus instead of 3.
 feature_type: feature
 metadata:
     class: tactician

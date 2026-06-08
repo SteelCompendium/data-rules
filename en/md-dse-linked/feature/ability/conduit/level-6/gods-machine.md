@@ -4,8 +4,8 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: Ranged 10
-effect: You conjure a [size](../../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md). When the machine first appears, make the following [power roll](../../../../rule/dice/power-roll.md) once, targeting each enemy adjacent to it.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: You conjure a [size](../../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md). When the machine first appears, make the following [power roll](../../../../rule/dice/power-roll.md) once, targeting each enemy [adjacent](../../../../rule/combat/adjacent.md) to it.
 feature_type: ability
 file_basename: gods-machine
 file_dpath: feature/ability/conduit/level-6
@@ -14,7 +14,7 @@ item_id: gods-machine
 item_name: Gods' Machine
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "6"
 name: Gods' Machine
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: You conjure a [size](../../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md). When the machine first appears, make the following [power roll](../../../../rule/dice/power-roll.md) once, targeting each enemy adjacent to it.
+    - effect: You conjure a [size](../../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md). When the machine first appears, make the following [power roll](../../../../rule/dice/power-roll.md) once, targeting each enemy [adjacent](../../../../rule/combat/adjacent.md) to it.
 feature_type: ability
 flavor: You conjure a whirring tank made of blades and metal.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: conduit
     cost: 9 Piety
-    distance: Ranged 10
-    effect: You conjure a [size](../../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md). When the machine first appears, make the following [power roll](../../../../rule/dice/power-roll.md) once, targeting each enemy adjacent to it.
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+    effect: You conjure a [size](../../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md). When the machine first appears, make the following [power roll](../../../../rule/dice/power-roll.md) once, targeting each enemy [adjacent](../../../../rule/combat/adjacent.md) to it.
     flavor: You conjure a whirring tank made of blades and metal.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "6"
     name: Gods' Machine
     scc: mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine

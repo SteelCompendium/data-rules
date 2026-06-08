@@ -2,11 +2,11 @@
 action_type: Main action
 class: fury
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: When the target ends this [forced movement](../../../../movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
 flavor: You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -19,9 +19,9 @@ type: ability
 
 *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

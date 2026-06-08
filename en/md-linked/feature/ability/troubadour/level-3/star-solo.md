@@ -2,13 +2,13 @@
 action_type: Main action
 class: troubadour
 cost: 7 Drama
-distance: Melee 1 or ranged 10
-effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
+effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../../../rule/combat/combat-round.md) without spending drama.
 flavor: Your performance travels and doesn't stop moving until your audience is completely rocked.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "3"
@@ -21,9 +21,9 @@ type: ability
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 
-| **Magic, Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10**              | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
@@ -31,4 +31,4 @@ type: ability
 - **12-16:** 8 + P damage; push 3
 - **17+:** 11 + P damage; push 5
 
-**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../../../rule/combat/combat-round.md) without spending drama.

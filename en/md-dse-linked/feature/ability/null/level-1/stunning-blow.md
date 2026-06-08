@@ -4,7 +4,7 @@ class: "null"
 cost: 3 Discipline
 cost_amount: "3"
 cost_resource: Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 feature_type: ability
 file_basename: stunning-blow
 file_dpath: feature/ability/null/level-1
@@ -12,7 +12,7 @@ flavor: You focus your psionic technique into a concussive punch.
 item_id: stunning-blow
 item_name: Stunning Blow
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -26,13 +26,13 @@ type: ability
 
 ```ds-feature
 cost: 3 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "\n*You focus your psionic technique into a concussive punch.*\n\n| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 + A damage; I < WEAK, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 7 + A damage; I < STRONG, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)"
+    - effect: "\n*You focus your psionic technique into a concussive punch.*\n\n| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1**                     | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 + A damage; I < WEAK, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 7 + A damage; I < STRONG, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)"
 feature_type: ability
 flavor: You focus your psionic technique into a concussive punch.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -40,10 +40,10 @@ metadata:
     action_type: Main action
     class: "null"
     cost: 3 Discipline
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     flavor: You focus your psionic technique into a concussive punch.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Psionic
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon

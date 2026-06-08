@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
 feature_type: ability
 file_basename: grasp-of-beyond
@@ -11,7 +11,7 @@ item_id: grasp-of-beyond
 item_name: Grasp of Beyond
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Void
 level: "1"
@@ -24,25 +24,25 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
 feature_type: ability
 flavor: You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Void
 metadata:
     action_type: Main action
     class: elementalist
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
     flavor: You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).
     keywords:
         - Magic
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Void
     level: "1"

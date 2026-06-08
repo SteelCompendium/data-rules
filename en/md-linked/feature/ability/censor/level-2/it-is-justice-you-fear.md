@@ -2,12 +2,12 @@
 action_type: Main action
 class: censor
 cost: 5 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: If the target is already [frightened](../../../../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](../../../../rule/character/presence.md) score.
 flavor: I am but a vessel. Your own deeds weigh upon you.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "2"
 name: It Is Justice You Fear
@@ -19,9 +19,9 @@ type: ability
 
 *I am but a vessel. Your own deeds weigh upon you.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

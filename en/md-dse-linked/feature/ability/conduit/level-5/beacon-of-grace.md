@@ -4,7 +4,7 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a [Recovery](../../../../rule/health/recoveries.md). If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before the end of the encounter, you can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to move this effect to another creature within [distance](../../../../rule/combat/distance.md).
 feature_type: ability
 file_basename: beacon-of-grace
@@ -14,7 +14,7 @@ item_id: beacon-of-grace
 item_name: Beacon of Grace
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "5"
 name: Beacon of Grace
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a [Recovery](../../../../rule/health/recoveries.md). If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before the end of the encounter, you can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to move this effect to another creature within [distance](../../../../rule/combat/distance.md).
 feature_type: ability
 flavor: You ignite a foe with holy radiance, rewarding allies who attack them.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: conduit
     cost: 9 Piety
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a [Recovery](../../../../rule/health/recoveries.md). If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before the end of the encounter, you can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to move this effect to another creature within [distance](../../../../rule/combat/distance.md).
     flavor: You ignite a foe with holy radiance, rewarding allies who attack them.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "5"
     name: Beacon of Grace

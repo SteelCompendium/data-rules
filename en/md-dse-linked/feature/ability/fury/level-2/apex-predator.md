@@ -4,7 +4,7 @@ class: fury
 cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to move.
 feature_type: ability
 file_basename: apex-predator
@@ -13,7 +13,7 @@ flavor: I will hunt you down.
 item_id: apex-predator
 item_name: Apex Predator
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to move.
 feature_type: ability
 flavor: I will hunt you down.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 5 Ferocity
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to move.
     flavor: I will hunt you down.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "2"

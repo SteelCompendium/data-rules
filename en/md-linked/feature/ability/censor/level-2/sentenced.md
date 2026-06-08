@@ -2,12 +2,12 @@
 action_type: Main action
 class: censor
 cost: 5 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: While the target is [restrained](../../../../condition/restrained.md) this way, your abilities that impose [forced movement](../../../../movement/forced-movement.md) can still move them.
 flavor: The shock of your condemnation freezes your enemy in their boots.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -20,9 +20,9 @@ type: ability
 
 *The shock of your condemnation freezes your enemy in their boots.*
 
-| **Magic, Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   |           **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

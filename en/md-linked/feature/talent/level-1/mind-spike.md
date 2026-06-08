@@ -6,16 +6,16 @@ scc: mcdm.heroes.v1/feature.talent.level-1/mind-spike
 type: feature
 ---
 
-You have the following ability, which can be used as a ranged [free strike](../../common/main-actions/free-strike.md).
+You have the following ability, which can be used as a [ranged](../../../rule/combat/ranged.md) [free strike](../../common/main-actions/free-strike.md).
 
 ## Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike"}
 
 
 *A telepathic bolt instantly zaps a creature's brain.*
 
-| **Psionic, Ranged**, **Strike, Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)**, **Strike, Telepathy** |     **Main action** |
 |--------------------------------------------|--------------------:|
-| **📏 Ranged 10**                           | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                           | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 

@@ -1,7 +1,7 @@
 ---
 action_type: Triggered
 class: tactician
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
 feature_type: ability
 file_basename: overwatch
@@ -10,7 +10,7 @@ flavor: Under your direction, an ally waits for just the right moment to strike.
 item_id: overwatch
 item_name: Overwatch
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Overwatch
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch
@@ -23,7 +23,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
     - effect: '1 Focus: If the target has R < AVERAGE, they are [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md)).'
@@ -31,15 +31,15 @@ effects:
 feature_type: ability
 flavor: Under your direction, an ally waits for just the right moment to strike.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Triggered
     class: tactician
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
     flavor: Under your direction, an ally waits for just the right moment to strike.
     keywords:
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Overwatch
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch

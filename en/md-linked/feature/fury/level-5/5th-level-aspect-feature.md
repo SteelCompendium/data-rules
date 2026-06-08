@@ -26,4 +26,4 @@ You and each ally within 5 squares of you ignore negative effects from inclement
 
 ## Unfettered {data-scc="mcdm.heroes.v1/feature.fury.level-5/unfettered"}
 
-At the start of your turn, you can end any [restrained](../../../condition/restrained.md) condition on you. Additionally, you have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to escape being confined or imprisoned.
+At the start of your [turn](../../../rule/combat/turn.md), you can end any [restrained](../../../condition/restrained.md) [condition](../../../rule/combat/condition.md) on you. Additionally, you have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to escape being confined or imprisoned.

@@ -1,5 +1,5 @@
 {
-  "distance": "Ranged 10",
+  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
       "effect": "You can have this ability deal holy damage.",
@@ -10,21 +10,21 @@
   "flavor": "You unleash a blast of holy light upon your foe.",
   "keywords": [
     "Magic",
-    "Ranged",
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
     "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*You unleash a blast of holy light upon your foe.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 + I damage\n- **12-16:** 4 + I damage\n- **17+:** 6 + I damage\n\n**Effect:** You can have this ability deal holy damage.",
-    "distance": "Ranged 10",
+    "content": "\n*You unleash a blast of holy light upon your foe.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**           | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 + I damage\n- **12-16:** 4 + I damage\n- **17+:** 6 + I damage\n\n**Effect:** You can have this ability deal holy damage.",
+    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "You unleash a blast of holy light upon your foe.",
     "item_id": "ray-of-wrath",
     "item_name": "Ray of Wrath",
     "keywords": [
       "Magic",
-      "Ranged",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 1,

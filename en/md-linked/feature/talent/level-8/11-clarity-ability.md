@@ -13,9 +13,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
 
-| **Animapathy, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Animapathy, Psionic, [Ranged](../../../rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |---------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                            | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                            | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -32,9 +32,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You attempt to make them forget all their training.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 |---------------------------------------|--------------------:|
-| **📏 Melee 2**                        | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 2**                        | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -51,15 +51,15 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You reshape the flow of time in the target's body to return it to an earlier state.*
 
-| **Chronopathy, Psionic, Ranged** |            **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../../rule/combat/ranged.md)** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
 **Effect:** Choose two of the following effects:
 
 - The target can spend any number of [Recoveries](../../../rule/health/recoveries.md).
-- The target gains 1 of their [Heroic Resource](../../../rule/resource/heroic-resource.md), and can end any effects on them that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of their turn.
-- The target gains 2 [surges](../../../rule/resource/surge.md), and gains a +3 bonus to [speed](../../../rule/character/speed.md) until the end of the encounter.
+- The target gains 1 of their [Heroic Resource](../../../rule/resource/heroic-resource.md), and can end any effects on them that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of their [turn](../../../rule/combat/turn.md).
+- The target gains 2 [surges](../../../rule/resource/surge.md), and gains a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of the encounter.
 
 **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../../condition/weakened.md) and [slowed](../../../condition/slowed.md) (save ends).
 
@@ -68,10 +68,10 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *The target's skin becomes covered in tough metal.*
 
-| **Metamorphosis, Psionic, Ranged** |            **Maneuver** |
+| **Metamorphosis, Psionic, [Ranged](../../../rule/combat/ranged.md)** |            **Maneuver** |
 |------------------------------------|------------------------:|
-| **📏 Ranged 10**                   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target has [damage immunity](../../../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../../condition/slowed.md) or [weakened](../../../condition/weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +5 bonus.
+**Effect:** The target has [damage immunity](../../../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../../condition/slowed.md) or [weakened](../../../condition/weakened.md) until the start of your next [turn](../../../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +5 [bonus](../../../rule/dice/bonuses-and-penalties.md).
 
 **Strained:** You can't use maneuvers (save ends).

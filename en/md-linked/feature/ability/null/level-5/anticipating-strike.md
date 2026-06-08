@@ -2,11 +2,11 @@
 action_type: Free triggered
 class: "null"
 cost: 9 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: This [strike](../../../../rule/combat/strike.md) resolves before the triggering movement or main action.
 flavor: You suddenly strike an enemy, then grab them in a psionically enhanced grip.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -22,9 +22,9 @@ type: ability
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |  **Free triggered** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |  **Free triggered** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **Trigger:** The target moves or uses a main action.
 

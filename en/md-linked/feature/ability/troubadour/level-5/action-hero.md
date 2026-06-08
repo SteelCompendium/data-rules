@@ -7,7 +7,7 @@ effect: Unless you score a [critical hit](../../../../rule/combat/critical-hit.m
 flavor: You wield your weapon at blistering [speed](../../../../rule/character/speed.md), leaving everyone around you fighting for their lives.
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "5"
 name: Action Hero
@@ -19,7 +19,7 @@ type: ability
 
 *You wield your weapon at blistering [speed](../../../../rule/character/speed.md), leaving everyone around you fighting for their lives.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 3 [burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 

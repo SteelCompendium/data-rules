@@ -4,7 +4,7 @@ class: censor
 cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: While [frightened](../../../../condition/frightened.md) this way, if a target who is a leader or solo creature is [winded](../../../../rule/health/winded.md), they take an extra 25 psychic damage. If a target [frightened](../../../../condition/frightened.md) this way is not a leader or solo creature and is [winded](../../../../rule/health/winded.md), they are reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 feature_type: ability
 file_basename: terror-manifest
@@ -14,7 +14,7 @@ item_id: terror-manifest
 item_name: Terror Manifest
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: Terror Manifest
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 11 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: While [frightened](../../../../condition/frightened.md) this way, if a target who is a leader or solo creature is [winded](../../../../rule/health/winded.md), they take an extra 25 psychic damage. If a target [frightened](../../../../condition/frightened.md) this way is not a leader or solo creature and is [winded](../../../../rule/health/winded.md), they are reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 feature_type: ability
 flavor: '"I know what you fear."'
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: censor
     cost: 11 Wrath
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: While [frightened](../../../../condition/frightened.md) this way, if a target who is a leader or solo creature is [winded](../../../../rule/health/winded.md), they take an extra 25 psychic damage. If a target [frightened](../../../../condition/frightened.md) this way is not a leader or solo creature and is [winded](../../../../rule/health/winded.md), they are reduced to 0 [Stamina](../../../../rule/health/stamina.md).
     flavor: '"I know what you fear."'
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "9"
     name: Terror Manifest

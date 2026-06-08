@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: talent
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effect: You gain 1 [surge](../../../../rule/resource/surge.md).
 flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 keywords:
     - Animapathy
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
@@ -20,9 +20,9 @@ type: ability
 
 *You form a blade of mind energy and stab your target, invigorating yourself.*
 
-| **Animapathy, Melee, Psionic, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
+| **Animapathy, [Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------------|------------------------------:|
-| **📏 Melee 2**                         | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 2**                         | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

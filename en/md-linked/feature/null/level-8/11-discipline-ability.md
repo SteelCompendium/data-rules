@@ -13,9 +13,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You focus your [null field](../level-1/null-field.md) into a pressure point strike that prevents your foe from channeling sorcery.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -23,16 +23,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
 - **17+:** 24 + A damage; M < STRONG, the target is suppressed (save ends)
 
-**Effect:** While suppressed, a target takes psychic damage equal to twice your [Intuition](../../../rule/character/intuition.md) score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+**Effect:** While suppressed, a target takes psychic damage equal to twice your [Intuition](../../../rule/character/intuition.md) score at the start of their [turns](../../../rule/combat/turn.md), whenever they use a [supernatural](../../../rule/general/supernatural.md) ability, or whenever they use an ability that costs Malice.
 
 ## Phase Hurl {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl"}
 
 
 *You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 

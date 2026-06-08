@@ -15,7 +15,7 @@ item_name: Machinations of Sound
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Machinations of Sound
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound
@@ -34,7 +34,7 @@ flavor: Illusory sounds make your foes reposition themselves as they cower or in
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Maneuver
     class: shadow
@@ -45,7 +45,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "2"
     name: Machinations of Sound
     scc: mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound

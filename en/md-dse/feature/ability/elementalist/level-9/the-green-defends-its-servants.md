@@ -4,8 +4,8 @@ class: elementalist
 cost: 11 Essence
 cost_amount: "11"
 cost_resource: Essence
-distance: Ranged 10
-effect: You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](scc:mcdm.heroes.v1/feature.common.main-actions/defend) main action as a maneuver on each of their turns. The target gains 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) that lasts until depleted or until the effect ends. If this [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: You conjure an elemental shield that protects the target until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). While the shield is active, the target can take the [Defend](scc:mcdm.heroes.v1/feature.common.main-actions/defend) main action as a maneuver on each of their [turns](scc:mcdm.heroes.v1/rule.combat/turn). The target gains 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) that lasts until depleted or until the effect ends. If this [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 feature_type: ability
 file_basename: the-green-defends-its-servants
 file_dpath: feature/ability/elementalist/level-9
@@ -15,7 +15,7 @@ item_name: The Green Defends Its Servants
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "9"
 name: The Green Defends Its Servants
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants
@@ -26,26 +26,26 @@ type: ability
 
 ```ds-feature
 cost: 11 Essence
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](scc:mcdm.heroes.v1/feature.common.main-actions/defend) main action as a maneuver on each of their turns. The target gains 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) that lasts until depleted or until the effect ends. If this [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+    - effect: You conjure an elemental shield that protects the target until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). While the shield is active, the target can take the [Defend](scc:mcdm.heroes.v1/feature.common.main-actions/defend) main action as a maneuver on each of their [turns](scc:mcdm.heroes.v1/rule.combat/turn). The target gains 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) that lasts until depleted or until the effect ends. If this [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 feature_type: ability
 flavor: A luminous green shield shows its true beauty the more it cracks.
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: elementalist
     cost: 11 Essence
-    distance: Ranged 10
-    effect: You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](scc:mcdm.heroes.v1/feature.common.main-actions/defend) main action as a maneuver on each of their turns. The target gains 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) that lasts until depleted or until the effect ends. If this [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: You conjure an elemental shield that protects the target until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). While the shield is active, the target can take the [Defend](scc:mcdm.heroes.v1/feature.common.main-actions/defend) main action as a maneuver on each of their [turns](scc:mcdm.heroes.v1/rule.combat/turn). The target gains 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) that lasts until depleted or until the effect ends. If this [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
     flavor: A luminous green shield shows its true beauty the more it cracks.
     keywords:
         - Green
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "9"
     name: The Green Defends Its Servants
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants

@@ -4,16 +4,16 @@ class: tactician
 cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.
 feature_type: ability
 file_basename: instant-retaliation
 file_dpath: feature/ability/tactician/level-6
-flavor: You [parry](../level-1/parry.md) with almost supernatural [speed](../../../../rule/character/speed.md).
+flavor: You [parry](../level-1/parry.md) with almost [supernatural](../../../../rule/general/supernatural.md) [speed](../../../../rule/character/speed.md).
 item_id: instant-retaliation
 item_name: Instant Retaliation
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "6"
 name: Instant Retaliation
@@ -27,23 +27,23 @@ type: ability
 
 ```ds-feature
 cost: 9 Focus
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.
 feature_type: ability
-flavor: You [parry](../level-1/parry.md) with almost supernatural [speed](../../../../rule/character/speed.md).
+flavor: You [parry](../level-1/parry.md) with almost [supernatural](../../../../rule/general/supernatural.md) [speed](../../../../rule/character/speed.md).
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 metadata:
     action_type: Free triggered
     class: tactician
     cost: 9 Focus
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.
-    flavor: You [parry](../level-1/parry.md) with almost supernatural [speed](../../../../rule/character/speed.md).
+    flavor: You [parry](../level-1/parry.md) with almost [supernatural](../../../../rule/general/supernatural.md) [speed](../../../../rule/character/speed.md).
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Weapon
     level: "6"
     name: Instant Retaliation

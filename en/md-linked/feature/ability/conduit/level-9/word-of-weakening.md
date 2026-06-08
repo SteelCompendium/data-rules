@@ -2,12 +2,12 @@
 action_type: Main action
 class: conduit
 cost: 11 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: While [weakened](../../../../condition/weakened.md) this way, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
 flavor: You utter a divine word that makes a foe brittle.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: Word of Weakening
@@ -19,9 +19,9 @@ type: ability
 
 *You utter a divine word that makes a foe brittle.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 

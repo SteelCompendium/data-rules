@@ -4,7 +4,7 @@ class: conduit
 cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: While [weakened](../../../../condition/weakened.md) this way, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
 feature_type: ability
 file_basename: word-of-weakening
@@ -14,7 +14,7 @@ item_id: word-of-weakening
 item_name: Word of Weakening
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: Word of Weakening
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 11 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: While [weakened](../../../../condition/weakened.md) this way, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
 feature_type: ability
 flavor: You utter a divine word that makes a foe brittle.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: conduit
     cost: 11 Piety
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: While [weakened](../../../../condition/weakened.md) this way, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
     flavor: You utter a divine word that makes a foe brittle.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "9"
     name: Word of Weakening

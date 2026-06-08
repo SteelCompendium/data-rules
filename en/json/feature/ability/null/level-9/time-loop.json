@@ -4,7 +4,7 @@
   "distance": "Self",
   "effects": [
     {
-      "effect": "You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.",
+      "effect": "You take a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) [turn](scc:mcdm.heroes.v1/rule.combat/turn) immediately after the triggering creature. This ability can be used only once per [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round).",
       "name": "Effect"
     }
   ],
@@ -17,7 +17,7 @@
     "ability_type": "Triggered",
     "action_type": "Free triggered",
     "class": "null",
-    "content": "\n*You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.*\n\n| **Psionic** | **Free triggered** |\n|-------------|-------------------:|\n| **📏 Self** |        **🎯 Self** |\n\n**Trigger:** Another creature on the encounter map ends their turn.\n\n**Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.",
+    "content": "\n*You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.*\n\n| **Psionic** | **Free triggered** |\n|-------------|-------------------:|\n| **📏 Self** |        **🎯 Self** |\n\n**Trigger:** Another creature on the encounter map ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn).\n\n**Effect:** You take a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) [turn](scc:mcdm.heroes.v1/rule.combat/turn) immediately after the triggering creature. This ability can be used only once per [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round).",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.",
@@ -35,7 +35,7 @@
   },
   "name": "Time Loop",
   "target": "Self",
-  "trigger": "Another creature on the encounter map ends their turn.",
+  "trigger": "Another creature on the encounter map ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
   "type": "feature",
   "usage": "Free triggered"
 }

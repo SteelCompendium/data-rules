@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: At the end of each of your turns, each enemy in the area takes fire damage equal to your [Reason](../../../rule/character/reason.md) score.
+    - effect: At the end of each of your [turns](../../../rule/combat/turn.md), each enemy in the area takes fire damage equal to your [Reason](../../../rule/character/reason.md) score.
 feature_type: feature
 metadata:
     class: elementalist

@@ -2,13 +2,13 @@
 action_type: Main action
 class: troubadour
 cost: 3 Drama
-distance: Melee 1 or ranged 10
-effect: The first time the target uses an ability before the start of your next turn, any effects from the ability's [tier outcomes](../../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../../../rule/dice/power-roll.md) work as usual.
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
+effect: The first time the target uses an ability before the start of your next [turn](../../../../rule/combat/turn.md), any effects from the ability's [tier outcomes](../../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../../../rule/dice/power-roll.md) work as usual.
 flavor: Just one bad review will ruin their day.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Harsh Critic
@@ -20,9 +20,9 @@ type: ability
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
@@ -30,4 +30,4 @@ type: ability
 - **12-16:** 10 + P sonic damage
 - **17+:** 13 + P sonic damage
 
-**Effect:** The first time the target uses an ability before the start of your next turn, any effects from the ability's [tier outcomes](../../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../../../rule/dice/power-roll.md) work as usual.
+**Effect:** The first time the target uses an ability before the start of your next [turn](../../../../rule/combat/turn.md), any effects from the ability's [tier outcomes](../../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../../../rule/dice/power-roll.md) work as usual.

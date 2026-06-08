@@ -1,24 +1,24 @@
 cost: 5 Ferocity
 distance: Self; see below
 effects:
-    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
       name: Effect
 feature_type: ability
 flavor: Organizing your forces like feckless creatures of Law. Pitiful.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
-    content: "\n*Organizing your forces like feckless creatures of Law. Pitiful.*\n\n| **Melee, Weapon**      | **Main action** |\n|------------------------|----------------:|\n| **\U0001F4CF Self; see below** |     **\U0001F3AF Self** |\n\n**Effect:** You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 2 damage; A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 4 damage; A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 6 damage; A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
+    content: "\n*Organizing your forces like feckless creatures of Law. Pitiful.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), Weapon**      | **Main action** |\n|------------------------|----------------:|\n| **\U0001F4CF Self; see below** |     **\U0001F3AF Self** |\n\n**Effect:** You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 2 damage; A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 4 damage; A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 6 damage; A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
     distance: Self; see below
     feature_type: ability
     flavor: Organizing your forces like feckless creatures of Law. Pitiful.
     item_id: phalanx-breaker
     item_name: Phalanx-Breaker
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: 2
     scc:

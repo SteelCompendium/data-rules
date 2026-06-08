@@ -1,6 +1,6 @@
 {
   "cost": "5 Piety",
-  "distance": "Ranged 10",
+  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
       "effect": "You can target yourself instead of one ally with this ability.",
@@ -11,20 +11,20 @@
   "flavor": "The heroes' armor glows with golden light, granting divine protection.",
   "keywords": [
     "Magic",
-    "Ranged"
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*The heroes' armor glows with golden light, granting divine protection.*\n\n| **Magic, Ranged**        |       **Maneuver** |\n|--------------------------|-------------------:|\n| **📏 Ranged 10**         | **🎯 Four allies** |\n\n**Effect:** You can target yourself instead of one ally with this ability.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** The target gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **12-16:** The target gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **17+:** The target gains 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
-    "distance": "Ranged 10",
+    "content": "\n*The heroes' armor glows with golden light, granting divine protection.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**        |       **Maneuver** |\n|--------------------------|-------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**         | **🎯 Four allies** |\n\n**Effect:** You can target yourself instead of one ally with this ability.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** The target gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **12-16:** The target gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **17+:** The target gains 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
+    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "The heroes' armor glows with golden light, granting divine protection.",
     "item_id": "faith-is-our-armor",
     "item_name": "Faith Is Our Armor",
     "keywords": [
       "Magic",
-      "Ranged"
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 1,
     "scc": [

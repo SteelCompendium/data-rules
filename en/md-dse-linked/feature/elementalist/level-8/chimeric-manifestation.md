@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../../complication/animal-form.md) as a [free maneuver](../../../rule/combat/free-maneuver.md) the first time you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature on your turn.
+        Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../../complication/animal-form.md) as a [free maneuver](../../../rule/combat/free-maneuver.md) the first time you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature on your [turn](../../../rule/combat/turn.md).
 
         Additionally, whenever you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../../../complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest [speed](../../../rule/character/speed.md) between the two animal forms and have all types of movement from both forms.
 

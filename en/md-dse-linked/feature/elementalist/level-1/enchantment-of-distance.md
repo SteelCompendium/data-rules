@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have a +2 bonus to the [distance](../../../rule/combat/distance.md) of your ranged magic abilities.
+    - effect: You have a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) of your [ranged](../../../rule/combat/ranged.md) magic abilities.
 feature_type: feature
 metadata:
     class: elementalist

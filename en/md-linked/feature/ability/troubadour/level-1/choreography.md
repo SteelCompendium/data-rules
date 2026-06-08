@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../../../../rule/character/speed.md) until the end of their turn.
+effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of their [turn](../../../../rule/combat/turn.md).
 flavor: Taps, kicks, steps. It's all "[choreography](choreography.md)."
 keywords:
     - Area
@@ -22,4 +22,4 @@ type: ability
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../../../../rule/character/speed.md) until the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of their [turn](../../../../rule/combat/turn.md).

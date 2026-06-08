@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.conduit.level-1/spirit-ward
 type: feature
 ---
 
-Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your [Intuition](../../../rule/character/intuition.md) score.
+Invisible spirits surround you if you are harmed. Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, they take corruption damage equal to your [Intuition](../../../rule/character/intuition.md) score.

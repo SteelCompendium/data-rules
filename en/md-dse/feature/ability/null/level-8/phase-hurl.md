@@ -4,7 +4,7 @@ class: "null"
 cost: 11 Discipline
 cost_amount: "11"
 cost_resource: Discipline
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: The target and each creature or object they collide with from this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](scc:mcdm.heroes.v1/condition/dazed) this way, they see glimpses of creatures from other parts of the timescape.
 feature_type: ability
 file_basename: phase-hurl
@@ -13,7 +13,7 @@ flavor: You throw your foe out of phase with this manifold, causing them to harm
 item_id: phase-hurl
 item_name: Phase Hurl
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -27,13 +27,13 @@ type: ability
 
 ```ds-feature
 cost: 11 Discipline
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: The target and each creature or object they collide with from this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](scc:mcdm.heroes.v1/condition/dazed) this way, they see glimpses of creatures from other parts of the timescape.
 feature_type: ability
 flavor: You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -41,11 +41,11 @@ metadata:
     action_type: Main action
     class: "null"
     cost: 11 Discipline
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: The target and each creature or object they collide with from this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](scc:mcdm.heroes.v1/condition/dazed) this way, they see glimpses of creatures from other parts of the timescape.
     flavor: You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon

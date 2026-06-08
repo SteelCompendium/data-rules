@@ -1,13 +1,13 @@
 ---
 action_type: Main action
-distance: Ranged 5
+distance: '[Ranged](../../../rule/combat/ranged.md) 5'
 feature_type: ability
 file_basename: ranged-weapon-free-strike
 file_dpath: feature/ability/common
 item_id: ranged-weapon-free-strike
 item_name: Ranged Weapon Free Strike
 keywords:
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 name: Ranged Weapon Free Strike
@@ -19,19 +19,19 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 5
+distance: '[Ranged](../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |\n|-----------------------------|------------------------------:|\n| **\U0001F4CF Ranged 5**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 4 + M or A damage\n- **17+:** 6 + M or A damage"
+    - effect: "| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |\n|-----------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](../../../rule/combat/ranged.md) 5**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 4 + M or A damage\n- **17+:** 6 + M or A damage"
 feature_type: ability
 keywords:
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Ranged 5
+    distance: '[Ranged](../../../rule/combat/ranged.md) 5'
     keywords:
-        - Ranged
+        - '[Ranged](../../../rule/combat/ranged.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     name: Ranged Weapon Free Strike

@@ -17,9 +17,9 @@ Choose one of the following abilities.
 
 *Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
 
-| **Ranged**       |         **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |         **Maneuver** |
 |------------------|---------------------:|
-| **📏 Ranged 10** | **🎯 Two creatures** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Two creatures** |
 
 **Effect:** Each target is marked by you, and must immediately make a [free strike](../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
@@ -30,11 +30,11 @@ Choose one of the following abilities.
 
 *"Try picking on someone my [size](../../../rule/character/size.md)."*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** | **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** | **Main action** |
 |---------------------------|----------------:|
 | **📏 Self; see below**    |     **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md) directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../rule/health/recoveries.md), and you can make the following weapon [strike](../../../rule/combat/strike.md) with a [distance](../../../rule/combat/distance.md) of melee 1 against a creature.
+**Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md) directly toward an ally, ending [adjacent](../../../rule/combat/adjacent.md) to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../rule/health/recoveries.md), and you can make the following weapon [strike](../../../rule/combat/strike.md) with a [distance](../../../rule/combat/distance.md) of [melee](../../../rule/combat/melee.md) 1 against a creature.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -51,9 +51,9 @@ Choose one of the following abilities.
 
 *Your enemy will think twice about attacking your friend.*
 
-| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -61,16 +61,16 @@ Choose one of the following abilities.
 - **12-16:** 9 + R damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md))
 - **17+:** 12 + R damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md))
 
-**Effect:** One ally adjacent to the target can spend a [Recovery](../../../rule/health/recoveries.md).
+**Effect:** One ally [adjacent](../../../rule/combat/adjacent.md) to the target can spend a [Recovery](../../../rule/health/recoveries.md).
 
 ### Targets of Opportunity {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity"}
 
 
 *You point out easy targets to your friends, allowing them to include more enemies in their attacks.*
 
-| **Ranged**      |         **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**      |         **Maneuver** |
 |-----------------|---------------------:|
-| **📏 Ranged 5** | **🎯 Two creatures** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 5** | **🎯 Two creatures** |
 
 **Effect:** Each target is marked by you, and you gain two [surges](../../../rule/resource/surge.md).
 
@@ -85,13 +85,13 @@ Choose one of the following abilities.
 
 *You prioritize saving an ally over your own safety.*
 
-| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |    **Triggered** |
+| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |    **Triggered** |
 |----------------------------|-----------------:|
-| **📏 Ranged 5**            | **🎯 One enemy** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 5**            | **🎯 One enemy** |
 
 **Trigger:** The target deals damage to an ally.
 
-**Effect:** You move up to your [speed](../../../rule/character/speed.md) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a [power roll](../../../rule/dice/power-roll.md) against the target.
+**Effect:** You move up to your [speed](../../../rule/character/speed.md) toward the triggering ally, ending this movement [adjacent](../../../rule/combat/adjacent.md) to them or in the nearest square if you can't reach an [adjacent](../../../rule/combat/adjacent.md) square. The triggering ally can spend a [Recovery](../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md) for each enemy you came [adjacent](../../../rule/combat/adjacent.md) to during the move. You then make a [power roll](../../../rule/dice/power-roll.md) against the target.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -108,4 +108,4 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 1 [burst](../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../rule/character/stability.md) equal to your [Might](../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../rule/resource/surge.md).
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), each target has a [bonus](../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../rule/character/stability.md) equal to your [Might](../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../rule/resource/surge.md).

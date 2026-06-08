@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: While the Mirror Token is on your person and you are targeted by a ranged [strike](scc:mcdm.heroes.v1/rule.combat/strike), you can use a [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to crush the token and ignore the [strike](scc:mcdm.heroes.v1/rule.combat/strike). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](scc:mcdm.heroes.v1/rule.combat/strike).
+effect: While the Mirror Token is on your person and you are targeted by a [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [strike](scc:mcdm.heroes.v1/rule.combat/strike), you can use a [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to crush the token and ignore the [strike](scc:mcdm.heroes.v1/rule.combat/strike). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](scc:mcdm.heroes.v1/rule.combat/strike).
 file_basename: mirror-token
 file_dpath: treasure/1st-echelon/consumable
 item_id: mirror-token
@@ -26,4 +26,4 @@ type: treasure
 
 **Project Goal:** 45
 
-**Effect:** While the Mirror Token is on your person and you are targeted by a ranged [strike](scc:mcdm.heroes.v1/rule.combat/strike), you can use a [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to crush the token and ignore the [strike](scc:mcdm.heroes.v1/rule.combat/strike). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](scc:mcdm.heroes.v1/rule.combat/strike).
+**Effect:** While the Mirror Token is on your person and you are targeted by a [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [strike](scc:mcdm.heroes.v1/rule.combat/strike), you can use a [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to crush the token and ignore the [strike](scc:mcdm.heroes.v1/rule.combat/strike). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](scc:mcdm.heroes.v1/rule.combat/strike).

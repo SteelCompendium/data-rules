@@ -1,6 +1,6 @@
 {
   "cost": "11 Insight",
-  "distance": "Melee 1 or ranged 10",
+  "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
       "effect": "The ground beneath a 3-[cube](scc:mcdm.heroes.v1/rule.combat/cube) area around the target's starting position is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).",
@@ -10,22 +10,22 @@
   "feature_type": "ability",
   "flavor": "You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.",
   "keywords": [
-    "Melee",
-    "Ranged",
+    "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
     "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**   |               **Main action** |\n|-----------------------------|------------------------------:|\n| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A fire damage; vertical push 8\n- **12-16:** 7 + A fire damage; vertical push 10\n- **17+:** 11 + A fire damage; vertical push 15\n\n**Effect:** The ground beneath a 3-[cube](scc:mcdm.heroes.v1/rule.combat/cube) area around the target's starting position is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).",
-    "distance": "Melee 1 or ranged 10",
+    "content": "\n*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**   |               **Main action** |\n|-----------------------------|------------------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10** | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A fire damage; vertical push 8\n- **12-16:** 7 + A fire damage; vertical push 10\n- **17+:** 11 + A fire damage; vertical push 15\n\n**Effect:** The ground beneath a 3-[cube](scc:mcdm.heroes.v1/rule.combat/cube) area around the target's starting position is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).",
+    "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.",
     "item_id": "to-the-stars",
     "item_name": "To the Stars",
     "keywords": [
-      "Melee",
-      "Ranged",
+      "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 9,

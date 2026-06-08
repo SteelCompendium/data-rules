@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: talent
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: You blast a foe with a pulse of cold energy.
 keywords:
     - Cryokinesis
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Strike
 level: "1"
 name: Hoarfrost
@@ -19,9 +19,9 @@ type: ability
 
 *You blast a foe with a pulse of cold energy.*
 
-| **Cryokinesis, Psionic, Ranged**, **Strike** |     **Main action** |
+| **Cryokinesis, Psionic, [Ranged](../../../../rule/combat/ranged.md)**, **Strike** |     **Main action** |
 |----------------------------------------------|--------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                             | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
 - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
 
-**Strained:** You are [slowed](../../../../condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../../../../condition/slowed.md) by this ability is [restrained](../../../../condition/restrained.md) instead.
+**Strained:** You are [slowed](../../../../condition/slowed.md) until the end of your next [turn](../../../../rule/combat/turn.md). Additionally, a target [slowed](../../../../condition/slowed.md) by this ability is [restrained](../../../../condition/restrained.md) instead.

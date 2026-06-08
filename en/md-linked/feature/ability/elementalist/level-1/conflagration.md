@@ -8,7 +8,7 @@ keywords:
     - Area
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Conflagration
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration
@@ -19,7 +19,7 @@ type: ability
 
 *A storm of fire descends upon your enemies.*
 
-| **Area, Fire, Magic, Ranged** |               **Main action** |
+| **Area, Fire, Magic, [Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 3 [cube](../../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your [turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.

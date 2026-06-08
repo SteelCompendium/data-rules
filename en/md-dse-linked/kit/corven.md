@@ -17,7 +17,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 *Foes who try to close in around you do so at their peril.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 1 [burst](../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 

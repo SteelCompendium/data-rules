@@ -6,16 +6,16 @@ scc: mcdm.heroes.v1/feature.elementalist.level-1/hurl-element
 type: feature
 ---
 
-You have the following ability, which can be used as a ranged [free strike](../../common/main-actions/free-strike.md).
+You have the following ability, which can be used as a [ranged](../../../rule/combat/ranged.md) [free strike](../../common/main-actions/free-strike.md).
 
 ## Hurl Element {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/hurl-element"}
 
 
 *You cast a ball of elemental energy at a foe.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 

@@ -25,9 +25,9 @@ You have the following ability.
 
 *To your ally, it seems as though the world has slowed down.*
 
-| **Psionic, Ranged** |                **Maneuver** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |                **Maneuver** |
 |---------------------|----------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
 
 **Effect:** The target shifts up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
@@ -42,9 +42,9 @@ You have the following ability.
 
 *You step back a split second to see if things play out a little differently.*
 
-| **Psionic, Ranged** |               **Triggered** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |               **Triggered** |
 |---------------------|----------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
 
 **Trigger:** The target makes an [ability roll](../../../rule/dice/ability-roll.md).
 
@@ -59,9 +59,9 @@ You have the following ability.
 
 *Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.*
 
-| **Psionic, Ranged** |       **Triggered** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |       **Triggered** |
 |---------------------|--------------------:|
-| **📏 Ranged 10**    | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 One creature** |
 
 **Trigger:** The target deals damage to an ally.
 
@@ -76,9 +76,9 @@ You have the following ability.
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
-| **Psionic, Ranged** |                                 **Maneuver** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |                                 **Maneuver** |
 |---------------------|---------------------------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one [size](../../../rule/character/size.md) 1 creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../../../rule/character/size.md) 1 creature or object** |
 
 **Effect:** You slide the target up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
@@ -95,11 +95,11 @@ You have the following ability.
 
 *An ally gains the benefit of your intellect.*
 
-| **Psionic, Ranged** |                  **Maneuver** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |                  **Maneuver** |
 |---------------------|------------------------------:|
-| **📏 Ranged 10**    | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 One creature or object** |
 
 
-**Effect:** The next [ability roll](../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next turn gains an [edge](../../../rule/dice/edge.md).
+**Effect:** The next [ability roll](../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next [turn](../../../rule/combat/turn.md) gains an [edge](../../../rule/dice/edge.md).
 
 **Spend 1 Clarity:** You target one additional creature or object.

@@ -9,7 +9,7 @@ effect: You [teleport](../../../../movement/teleport.md) to a square on the oppo
 feature_type: ability
 file_basename: hypersonic
 file_dpath: feature/ability/talent/level-5
-flavor: You move fast enough to turn around and watch your foes feel the aftermath.
+flavor: You move fast enough to [turn](../../../../rule/combat/turn.md) around and watch your foes feel the aftermath.
 item_id: hypersonic
 item_name: Hypersonic
 keywords:
@@ -31,7 +31,7 @@ distance: 5 x 2 line within 1
 effects:
     - effect: You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
-flavor: You move fast enough to turn around and watch your foes feel the aftermath.
+flavor: You move fast enough to [turn](../../../../rule/combat/turn.md) around and watch your foes feel the aftermath.
 keywords:
     - Area
     - Charge
@@ -43,7 +43,7 @@ metadata:
     cost: 9 Clarity
     distance: 5 x 2 line within 1
     effect: You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the [power roll](../../../../rule/dice/power-roll.md).
-    flavor: You move fast enough to turn around and watch your foes feel the aftermath.
+    flavor: You move fast enough to [turn](../../../../rule/combat/turn.md) around and watch your foes feel the aftermath.
     keywords:
         - Area
         - Charge

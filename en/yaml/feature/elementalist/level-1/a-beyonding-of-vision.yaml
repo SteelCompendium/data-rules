@@ -1,25 +1,25 @@
 ability:
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effects:
-        - effect: For each [Victory](scc:mcdm.heroes.v1/rule.resource/victories) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability.
+        - effect: For each [Victory](scc:mcdm.heroes.v1/rule.resource/victories) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability.
           name: Effect
     feature_type: ability
     flavor: You grant allies a taste of your unearthly vision.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Void
     metadata:
         action_type: Maneuver
-        content: "\n*You grant allies a taste of your unearthly vision.*\n\n| **Magic, Ranged, Void** |    **Maneuver** |\n|-------------------------|----------------:|\n| **\U0001F4CF Ranged 10**        |  **\U0001F3AF Special** |\n\n**Effect:** For each [Victory](scc:mcdm.heroes.v1/rule.resource/victories) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability."
-        distance: Ranged 10
+        content: "\n*You grant allies a taste of your unearthly vision.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), Void** |    **Maneuver** |\n|-------------------------|----------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**        |  **\U0001F3AF Special** |\n\n**Effect:** For each [Victory](scc:mcdm.heroes.v1/rule.resource/victories) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability."
+        distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
         feature_type: ability
         flavor: You grant allies a taste of your unearthly vision.
         item_id: shared-void-sense
         item_name: Shared Void Sense
         keywords:
             - Magic
-            - Ranged
+            - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
             - Void
         target: Special
         type: feature/ability/common
@@ -29,7 +29,7 @@ ability:
     usage: Maneuver
 effects:
     - effect: |-
-        You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
+        You instantly recognize illusions for what they are, you can see invisible creatures, and [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
 
         You also gain the following ability.
 feature_type: feature

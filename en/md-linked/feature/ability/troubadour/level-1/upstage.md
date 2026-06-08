@@ -3,10 +3,10 @@ action_type: Maneuver
 class: troubadour
 cost: 3 Drama
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you move adjacent to during this [shift](../../../../movement/shifting.md).
+effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you move [adjacent](../../../../rule/combat/adjacent.md) to during this [shift](../../../../movement/shifting.md).
 flavor: As you bob and weave through the crowd, you can't help but leave the audience wanting more.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -19,11 +19,11 @@ type: ability
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** | **Maneuver** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** | **Maneuver** |
 |---------------------------|-------------:|
 | **📏 Self; see below**    |  **🎯 Self** |
 
-**Effect:** You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you move adjacent to during this [shift](../../../../movement/shifting.md).
+**Effect:** You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you move [adjacent](../../../../rule/combat/adjacent.md) to during this [shift](../../../../movement/shifting.md).
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md) or [Presence](../../../../rule/character/presence.md):**
 

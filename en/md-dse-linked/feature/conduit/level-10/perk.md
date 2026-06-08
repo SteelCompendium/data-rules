@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You gain one crafting, lore, or supernatural perk of your choice.
+    - effect: You gain one crafting, lore, or [supernatural](../../../rule/general/supernatural.md) perk of your choice.
 feature_type: feature
 metadata:
     class: conduit

@@ -11,7 +11,7 @@ type: rule
 
 As a [respite](../resource/respite.md) activity (see [Respite](../resource/respite.md) in Chapter 1: [The Basics](../../chapter/the-basics.md)), you make a project roll for one of your own projects. Alternatively, you can make a project roll to contribute to another hero's project. A project roll is a [test](../test/test.md) with a special outcome that isn't divided into tiers. The [characteristic](../character/characteristic.md) used in the [test](../test/test.md) is determined by the project.
 
-When you make a project roll, the total—no matter how low—becomes [project points](project-points.md) that are accrued by the project. Even if you have a penalty on a project roll, the minimum total for the roll is 1. If you obtain a critical success—a [natural 19 or 20](../dice/natural-19-20.md)—on a project roll, this is called a **breakthrough**, and you can make another project roll for the same project as part of the same [respite](../resource/respite.md) activity.
+When you make a project roll, the total—no matter how low—becomes [project points](project-points.md) that are accrued by the project. Even if you have a [penalty](../dice/bonuses-and-penalties.md) on a project roll, the minimum total for the roll is 1. If you obtain a critical success—a [natural 19 or 20](../dice/natural-19-20.md)—on a project roll, this is called a **breakthrough**, and you can make another project roll for the same project as part of the same [respite](../resource/respite.md) activity.
 
 A downtime project is complete when it accrues [project points](project-points.md) equal to or greater than its **project goal**-the number of points it takes to complete the project, noted in each project's description.
 

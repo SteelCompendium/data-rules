@@ -2,13 +2,13 @@
 action_type: Main action
 class: talent
 cost: 3 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: 'Choose the [damage type](../../../../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.'
 flavor: Smoke flows from your enemy like tears as their skin begins to blacken and flake.
 keywords:
     - Psionic
     - Pyrokinesis
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Smolder
@@ -20,9 +20,9 @@ type: ability
 
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
 
-| **Psionic, Pyrokinesis, Ranged, [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
+| **Psionic, Pyrokinesis, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
 |------------------------------------------|--------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                         | **🎯 One creature** |
 
 **Effect:** Choose the [damage type](../../../../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.
 

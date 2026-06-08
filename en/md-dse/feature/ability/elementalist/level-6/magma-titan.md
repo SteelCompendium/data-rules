@@ -4,8 +4,8 @@ class: elementalist
 cost: 9 Essence
 cost_amount: "9"
 cost_resource: Essence
-distance: Ranged 10
-effect: 'Until the start of your next turn, the target has the following benefits:'
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: 'Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target has the following benefits:'
 feature_type: ability
 file_basename: magma-titan
 file_dpath: feature/ability/elementalist/level-6
@@ -17,7 +17,7 @@ keywords:
     - Fire
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "6"
 name: Magma Titan
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan
@@ -28,9 +28,9 @@ type: ability
 
 ```ds-feature
 cost: 9 Essence
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: 'Until the start of your next turn, the target has the following benefits:'
+    - effect: 'Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target has the following benefits:'
 feature_type: ability
 flavor: Their body swells with lava, mud, and might, towering over their enemies.
 keywords:
@@ -38,20 +38,20 @@ keywords:
     - Fire
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: elementalist
     cost: 9 Essence
-    distance: Ranged 10
-    effect: 'Until the start of your next turn, the target has the following benefits:'
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: 'Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target has the following benefits:'
     flavor: Their body swells with lava, mud, and might, towering over their enemies.
     keywords:
         - Earth
         - Fire
         - Green
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "6"
     name: Magma Titan
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan

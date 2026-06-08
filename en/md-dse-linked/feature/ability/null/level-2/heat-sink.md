@@ -5,7 +5,7 @@ cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
 distance: Self
-effect: Until the start of your next turn, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
+effect: Until the start of your next [turn](../../../../rule/combat/turn.md), the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../../rule/combat/concealment.md) while in the area. At the end of this [turn](../../../../rule/combat/turn.md), each enemy in the area takes cold damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
 feature_type: ability
 file_basename: heat-sink
 file_dpath: feature/ability/null/level-2
@@ -26,7 +26,7 @@ type: ability
 cost: 5 Discipline
 distance: Self
 effects:
-    - effect: Until the start of your next turn, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
+    - effect: Until the start of your next [turn](../../../../rule/combat/turn.md), the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../../rule/combat/concealment.md) while in the area. At the end of this [turn](../../../../rule/combat/turn.md), each enemy in the area takes cold damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
 feature_type: ability
 flavor: You absorb ambient heat, coating the ground in frost and precipitating snow from the air.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: "null"
     cost: 5 Discipline
     distance: Self
-    effect: Until the start of your next turn, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
+    effect: Until the start of your next [turn](../../../../rule/combat/turn.md), the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../../../rule/combat/concealment.md) while in the area. At the end of this [turn](../../../../rule/combat/turn.md), each enemy in the area takes cold damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
     flavor: You absorb ambient heat, coating the ground in frost and precipitating snow from the air.
     keywords:
         - Psionic

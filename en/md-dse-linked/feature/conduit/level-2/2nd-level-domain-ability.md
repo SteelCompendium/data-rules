@@ -30,7 +30,7 @@ effects:
         | Love       | [Our Hearts Your Strength](../../ability/conduit/level-2/our-hearts-your-strength.md)     |
         | Nature     | [Nature Judges Thee](../../ability/conduit/level-2/nature-judges-thee.md)           |
         | Protection | [Sacred Bond](../../ability/conduit/level-2/sacred-bond.md)                  |
-        | Storm      | Saint's Tempest              |
+        | Storm      | [Saint](../../../rule/world/saint.md)'s Tempest              |
         | Sun        | [Morning Light](../../ability/conduit/level-2/morning-light.md)                |
         | Trickery   | [Divine Comedy](../../ability/conduit/level-2/divine-comedy.md)                |
         | War        | [Blessing of Insight](../../ability/conduit/level-2/blessing-of-insight.md)          |

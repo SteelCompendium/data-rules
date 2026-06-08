@@ -17,9 +17,9 @@ Choose one of the following abilities.
 
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -38,7 +38,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 4 [burst](../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can [teleport](../../../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your [Agility](../../../rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../../../rule/combat/concealment.md) or [cover](../../../rule/combat/cover.md) can use the [Hide](../../common/maneuvers/hide.md) maneuver even if they are observed.
+**Effect:** Each target can [teleport](../../../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../movement/teleport.md) away from or into a space [adjacent](../../../rule/combat/adjacent.md) to an enemy, that enemy takes fire damage equal to your [Agility](../../../rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../../../rule/combat/concealment.md) or [cover](../../../rule/combat/cover.md) can use the [Hide](../../common/maneuvers/hide.md) maneuver even if they are observed.
 
 ## 6th-Level Caustic Alchemy Abilities
 
@@ -49,9 +49,9 @@ Choose one of the following abilities.
 
 *A well-timed throw of a potion will keep your allies in the fight.*
 
-| **Ranged**       |           **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |           **Maneuver** |
 |------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Three creatures** |
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../../rule/character/potency.md) at the end of the encounter.
 
@@ -62,9 +62,9 @@ A creature who drinks the potion can spend up to 2 [Recoveries](../../../rule/he
 
 *Each ally who catches a potion you throw can take the battle to the next level.*
 
-| **Ranged**       |        **Main action** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |        **Main action** |
 |------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Three creatures** |
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../../rule/character/potency.md) at the end of the encounter.
 
@@ -74,7 +74,7 @@ A creature who drinks the potion receives benefits based on your [power roll](..
 
 - **≤11:** The creature's [speed](../../../rule/character/speed.md) is increased by 2 until the end of the encounter.
 - **12-16:** The creature can [fly](../../../movement/fly.md) until the end of the encounter.
-- **17+:** The creature turns invisible until the end of their next turn.
+- **17+:** The creature [turns](../../../rule/combat/turn.md) invisible until the end of their next [turn](../../../rule/combat/turn.md).
 
 ## 6th-Level Harlequin Mask Abilities
 
@@ -89,16 +89,16 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 5 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Until the start of your next turn, any [ability roll](../../../rule/dice/ability-roll.md) made against a target gains an [edge](../../../rule/dice/edge.md).
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), any [ability roll](../../../rule/dice/ability-roll.md) made against a target gains an [edge](../../../rule/dice/edge.md).
 
 ### Puppet Strings {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings"}
 
 
 *You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
 
-| **Magic, Melee**, **Strike, Weapon** |    **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md)**, **Strike, Weapon** |    **Main action** |
 |--------------------------------------|-------------------:|
-| **📏 Melee 1**                       | **🎯 Two enemies** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                       | **🎯 Two enemies** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 

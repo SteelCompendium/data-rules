@@ -17,22 +17,22 @@ Choose one of the following abilities.
 
 *We offered them a percentage of the gross. So they're working for free!*
 
-| **Magic, Ranged** | **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** | **Main action** |
 |-------------------|----------------:|
-| **📏 Ranged 10**  |  **🎯 Special** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  |  **🎯 Special** |
 
-**Effect:** A [guest star](../../ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within [distance](../../../rule/combat/distance.md) uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within [distance](../../../rule/combat/distance.md). This [guest star](../../ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your [characteristics](../../../rule/character/characteristic.md). Their [Stamina](../../../rule/health/stamina.md) maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../../ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../../../rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+**Effect:** A [guest star](../../ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within [distance](../../../rule/combat/distance.md) uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within [distance](../../../rule/combat/distance.md). This [guest star](../../ability/troubadour/level-2/guest-star.md) is controlled by you, has their own [turn](../../../rule/combat/turn.md), and shares your [characteristics](../../../rule/character/characteristic.md). Their [Stamina](../../../rule/health/stamina.md) maximum is half yours. They have no abilities other than your [melee](../../../rule/combat/melee.md) and [ranged](../../../rule/combat/ranged.md) [free strikes](../../common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../../ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../../../rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 ### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
 
 
 *You didn't see that coming, did you?!*
 
-| **Magic, Ranged** |       **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |       **Main action** |
 |-------------------|----------------------:|
-| **📏 Ranged 10**  | **🎯 One dead enemy** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 One dead enemy** |
 
-**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../../../rule/health/stamina.md) and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.
+**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../../../rule/health/stamina.md) and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their [turn](../../../rule/combat/turn.md) each [combat round](../../../rule/combat/combat-round.md). At the end of the encounter, the target turns to dust and is blown away.
 
 ## 2nd-Level Duelist Ability
 
@@ -43,20 +43,20 @@ Choose one of the following abilities.
 
 *Audiences love this bit.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                  **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |                  **Main action** |
 |---------------------------|---------------------------------:|
-| **📏 Melee 1**            | **🎯 Self and one willing ally** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 Self and one willing ally** |
 
-**Effect:** Each target can [shift](../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to twice their highest [characteristic](../../../rule/character/characteristic.md) score.
+**Effect:** Each target can [shift](../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement [adjacent](../../../rule/combat/adjacent.md) to the other target and on solid ground. Each target can then make a [melee](../../../rule/combat/melee.md) [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to twice their highest [characteristic](../../../rule/character/characteristic.md) score.
 
 ### En Garde! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde"}
 
 
-*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
+*Wait, it's... Guard! [Turn](../../../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -64,7 +64,7 @@ Choose one of the following abilities.
 - **12-16:** 11 + **A** damage
 - **17+:** 16 + **A** damage
 
-**Effect:** The target can make a melee [free strike](../../common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../common/main-actions/free-strike.md) against the target.
+**Effect:** The target can make a [melee](../../../rule/combat/melee.md) [free strike](../../common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../../rule/combat/melee.md) [free strike](../../common/main-actions/free-strike.md) against the target.
 
 ## 2nd-Level Virtuoso Ability
 
@@ -79,18 +79,18 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Special**    |  **🎯 Special** |
 
-**Effect:** You use an ability that you have observed being used this combat round. The ability must have the [Strike](../../../rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../../../rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../../../rule/combat/strike.md), you use your [Presence](../../../rule/character/presence.md) score for any [power rolls](../../../rule/dice/power-roll.md), and any damage you deal is sonic damage.
+**Effect:** You use an ability that you have observed being used this [combat round](../../../rule/combat/combat-round.md). The ability must have the [Strike](../../../rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../../../rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../../../rule/combat/strike.md), you use your [Presence](../../../rule/character/presence.md) score for any [power rolls](../../../rule/dice/power-roll.md), and any damage you deal is sonic damage.
 
 ### Tough Crowd {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd"}
 
 
 *Your fans don't seem to like the opening act...*
 
-| **Area, Magic, Ranged** | **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)** | **Main action** |
 |-------------------------|----------------:|
 | **📏 3 [cube](../../../rule/combat/cube.md) within 10** |  **🎯 Special** |
 
-**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy in the area.
+**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your [turns](../../../rule/combat/turn.md), you can make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy in the area.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 

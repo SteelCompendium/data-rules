@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
 flavor: You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Void
 level: "1"
@@ -20,9 +20,9 @@ type: ability
 
 *You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).*
 
-| **Magic, Melee, [Strike](../../../../rule/combat/strike.md), Void** |     **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Void** |     **Main action** |
 |--------------------------------|--------------------:|
-| **📏 Melee 1**                 | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                 | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

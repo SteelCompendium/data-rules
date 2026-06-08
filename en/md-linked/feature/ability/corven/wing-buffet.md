@@ -5,7 +5,7 @@ effect: You can [shift](../../../movement/shifting.md) up to 2 squares before or
 flavor: Foes who try to close in around you do so at their peril.
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - Weapon
 kit: corven
 name: Wing Buffet
@@ -17,7 +17,7 @@ type: ability
 
 *Foes who try to close in around you do so at their peril.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 1 [burst](../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 

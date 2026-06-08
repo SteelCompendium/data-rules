@@ -13,7 +13,7 @@ keywords:
     - Area
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Unquiet Ground
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/unquiet-ground
@@ -33,7 +33,7 @@ keywords:
     - Area
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: elementalist
@@ -44,7 +44,7 @@ metadata:
         - Area
         - Earth
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Unquiet Ground
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/unquiet-ground

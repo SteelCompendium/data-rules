@@ -13,41 +13,41 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *They shine vibrantly, a beautiful diamond in the night sky.*
 
-| **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |
+| **Fire, Green, Magic, [Ranged](../../../rule/combat/ranged.md), Void** |            **Maneuver** |
 |--------------------------------------|------------------------:|
-| **📏 Ranged 10**                     | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to [speed](../../../rule/character/speed.md), they can [fly](../../../movement/fly.md), and their abilities ignore [concealment](../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md), they can [fly](../../../movement/fly.md), and their abilities ignore [concealment](../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next [turn](../../../rule/combat/turn.md).
 
-**Persistent 1:** The effect lasts until the start of your next turn.
+**Persistent 1:** The effect lasts until the start of your next [turn](../../../rule/combat/turn.md).
 
 ## Magma Titan {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan"}
 
 
 *Their body swells with lava, mud, and might, towering over their enemies.*
 
-| **Earth, Fire, Green, Magic, Ranged** |            **Maneuver** |
+| **Earth, Fire, Green, Magic, [Ranged](../../../rule/combat/ranged.md)** |            **Maneuver** |
 |---------------------------------------|------------------------:|
-| **📏 Ranged 10**                      | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                      | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has the following benefits:
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), the target has the following benefits:
 
 - Their [size](../../../rule/character/size.md) and [stability](../../../rule/character/stability.md) increase by 2, with any [size](../../../rule/character/size.md) 1 target becoming [size](../../../rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](../../../rule/character/stability.md). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../../condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
 - Their [strikes](../../../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../../rule/character/reason.md) score.
-- When the target force moves a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +2 bonus.
+- When the target force moves a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md).
 - They can use their highest [characteristic](../../../rule/character/characteristic.md) instead of [Might](../../../rule/character/might.md) for [Might](../../../rule/character/might.md) [power rolls](../../../rule/dice/power-roll.md).
 
-**Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 [Recoveries](../../../rule/health/recoveries.md).
+**Persistent 2:** The effect lasts until the start of your next [turn](../../../rule/combat/turn.md). Additionally, at the start of your [turn](../../../rule/combat/turn.md), the target can spend 2 [Recoveries](../../../rule/health/recoveries.md).
 
 ## Meteor {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor"}
 
 
 *You [teleport](../../../movement/teleport.md) the target into the air and let the ground and the elemental force of fire do the rest.*
 
-| **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
+| **Earth, Fire, Magic, [Ranged](../../../rule/combat/ranged.md), Void** |               **Main action** |
 |--------------------------------------|------------------------------:|
-| **📏 Ranged 10**                     | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -66,6 +66,6 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------------------------------|----------------:|
 | **📏 4 [burst](../../../rule/combat/burst.md)**                      |  **🎯 Special** |
 
-**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../rule/combat/cover.md).
+**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../../../rule/combat/turn.md). The area is [difficult terrain](../../../movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../../../rule/combat/turn.md) in the area has [cover](../../../rule/combat/cover.md).
 
-**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a [Recovery](../../../rule/health/recoveries.md).
+**Persistent 2:** The area remains until the start of your next [turn](../../../rule/combat/turn.md). Additionally, at the start of your [turn](../../../rule/combat/turn.md), each ally in the area can spend a [Recovery](../../../rule/health/recoveries.md).

@@ -4,7 +4,7 @@ class: talent
 cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 feature_type: ability
 file_basename: greater-kinetic-grip
 file_dpath: feature/ability/talent/level-6
@@ -13,7 +13,7 @@ item_id: greater-kinetic-grip
 item_name: Greater Kinetic Grip
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Strike
     - Telekinesis
 level: "6"
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 9 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*You raise the target into the air without breaking a sweat.*\n\n| **Psionic, Ranged**, **Strike, Telekinesis** |               **Main action** |\n|----------------------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical\n- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical\n- **17+:** Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical\n\n**Strained:** The [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). You take 2d6 damage and are [weakened](../../../../condition/weakened.md) (save ends)."
+    - effect: "\n*You raise the target into the air without breaking a sweat.*\n\n| **Psionic, [Ranged](../../../../rule/combat/ranged.md)**, **Strike, Telekinesis** |               **Main action** |\n|----------------------------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**                             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical\n- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical\n- **17+:** Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical\n\n**Strained:** The [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). You take 2d6 damage and are [weakened](../../../../condition/weakened.md) (save ends)."
 feature_type: ability
 flavor: You raise the target into the air without breaking a sweat.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Strike
     - Telekinesis
 metadata:
     action_type: Main action
     class: talent
     cost: 9 Clarity
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     flavor: You raise the target into the air without breaking a sweat.
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - Strike
         - Telekinesis
     level: "6"

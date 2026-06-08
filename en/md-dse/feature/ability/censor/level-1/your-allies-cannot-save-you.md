@@ -1,16 +1,16 @@
 ---
 action_type: Main action
 class: censor
-distance: Melee 1
-effect: Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+effect: Each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target is pushed away from the target up to a number of squares equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
 feature_type: ability
 file_basename: your-allies-cannot-save-you
 file_dpath: feature/ability/censor/level-1
-flavor: Your magic [strike](scc:mcdm.heroes.v1/rule.combat/strike) turns your foe's guilt into a burst of holy power.
+flavor: Your magic [strike](scc:mcdm.heroes.v1/rule.combat/strike) [turns](scc:mcdm.heroes.v1/rule.combat/turn) your foe's guilt into a burst of holy power.
 item_id: your-allies-cannot-save-you
 item_name: Your Allies Cannot Save You!
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
+    - effect: Each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target is pushed away from the target up to a number of squares equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
 feature_type: ability
-flavor: Your magic [strike](scc:mcdm.heroes.v1/rule.combat/strike) turns your foe's guilt into a burst of holy power.
+flavor: Your magic [strike](scc:mcdm.heroes.v1/rule.combat/strike) [turns](scc:mcdm.heroes.v1/rule.combat/turn) your foe's guilt into a burst of holy power.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
-    distance: Melee 1
-    effect: Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
-    flavor: Your magic [strike](scc:mcdm.heroes.v1/rule.combat/strike) turns your foe's guilt into a burst of holy power.
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: Each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target is pushed away from the target up to a number of squares equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
+    flavor: Your magic [strike](scc:mcdm.heroes.v1/rule.combat/strike) [turns](scc:mcdm.heroes.v1/rule.combat/turn) your foe's guilt into a burst of holy power.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"

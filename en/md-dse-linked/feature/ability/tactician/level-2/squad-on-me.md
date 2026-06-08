@@ -5,7 +5,7 @@ cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
 distance: 1 [burst](../../../../rule/combat/burst.md)
-effect: Until the start of your next turn, each target has a bonus to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
+effect: Until the start of your next [turn](../../../../rule/combat/turn.md), each target has a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 file_basename: squad-on-me
 file_dpath: feature/ability/tactician/level-2
@@ -26,7 +26,7 @@ type: ability
 cost: 5 Focus
 distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: Until the start of your next turn, each target has a bonus to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
+    - effect: Until the start of your next [turn](../../../../rule/combat/turn.md), each target has a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 flavor: Together we are invincible!
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 5 Focus
     distance: 1 [burst](../../../../rule/combat/burst.md)
-    effect: Until the start of your next turn, each target has a bonus to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
+    effect: Until the start of your next [turn](../../../../rule/combat/turn.md), each target has a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
     flavor: Together we are invincible!
     keywords:
         - Area

@@ -2,11 +2,11 @@
 action_type: Main action
 class: shadow
 cost: 11 Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: A target who is not a minion, leader, or solo creature and who is [winded](../../../../rule/health/winded.md) after taking this damage is reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 flavor: A practiced attack will instantly kill an already weakened foe.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "8"
@@ -19,9 +19,9 @@ type: ability
 
 *A practiced attack will instantly kill an already weakened foe.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

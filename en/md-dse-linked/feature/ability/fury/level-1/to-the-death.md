@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: fury
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../../rule/combat/triggered-action.md).
 feature_type: ability
 file_basename: to-the-death
@@ -10,7 +10,7 @@ flavor: Your reckless assault leaves you tactically vulnerable.
 item_id: to-the-death
 item_name: To the Death!
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../../rule/combat/triggered-action.md).
 feature_type: ability
 flavor: Your reckless assault leaves you tactically vulnerable.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../../rule/combat/triggered-action.md).
     flavor: Your reckless assault leaves you tactically vulnerable.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

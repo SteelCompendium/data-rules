@@ -4,7 +4,7 @@ class: fury
 cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: When the target ends this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), each creature within 2 squares of the target is pushed 3 squares.
 feature_type: ability
 file_basename: force-of-storms
@@ -13,7 +13,7 @@ flavor: You strike an enemy hard enough to be a projectile that knocks a crowd o
 item_id: force-of-storms
 item_name: Force of Storms
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "6"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: When the target ends this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), each creature within 2 squares of the target is pushed 3 squares.
 feature_type: ability
 flavor: You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 9 Ferocity
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: When the target ends this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), each creature within 2 squares of the target is pushed 3 squares.
     flavor: You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "6"

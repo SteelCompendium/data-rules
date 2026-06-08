@@ -22,7 +22,7 @@ Each kit's equipment entry details the armor and weapons the kit provides. It's 
 
 The description of equipment in your kit is limited to broad categories, leaving you free to decide the specifics that best align with your vision of your character. For instance, the [Guisarmier](../kit/guisarmier.md) kit provides medium armor and a polearm. One player using this kit could wear heavy layers of hide and wield a longspear, while another might wear a shining breastplate and carry a halberd into battle.
 
-You can wear armor and wield weapons that aren't part of your kit, but if you do, you don't get your kit's bonuses.
+You can wear armor and wield weapons that aren't part of your kit, but if you do, you don't get your kit's [bonus](../rule/dice/bonuses-and-penalties.md)es.
 
 > **Customizing Equipment Appearances**
 >
@@ -66,21 +66,21 @@ Ensnaring weapons include bolas, nets, and other weapons made to capture an enem
 
 ##### Light Weapon
 
-Light weapons are one-handed melee weapons that can be used to make several strikes in rapid succession. Many such weapons can be thrown or used as an off-hand defensive weapon. Daggers, shortswords, rapiers, handaxes, and throwing hammers are typical light weapons.
+Light weapons are one-handed [melee](../rule/combat/melee.md) weapons that can be used to make several strikes in rapid succession. Many such weapons can be thrown or used as an off-hand defensive weapon. Daggers, shortswords, rapiers, handaxes, and throwing hammers are typical light weapons.
 
 If your kit uses a light weapon, you can wield two light weapons at a time.
 
 ##### Medium Weapon
 
-Medium weapons are one-handed melee weapons that can be carried into battle while leaving one hand free, allowing you to use that hand to hold a shield or implement. Battleaxes, clubs, longswords, and warhammers are medium weapons.
+Medium weapons are one-handed [melee](../rule/combat/melee.md) weapons that can be carried into battle while leaving one hand free, allowing you to use that hand to hold a shield or [implement](../rule/treasure/implement.md). Battleaxes, clubs, longswords, and warhammers are medium weapons.
 
 ##### Heavy Weapon
 
-Heavy weapons are two-handed melee weapons with weighty bladed or bludgeoning heads, made to seriously harm or kill enemies in a single mighty blow. Greatswords, greataxes, mauls, and morningstars are all examples of heavy weapons.
+Heavy weapons are two-handed [melee](../rule/combat/melee.md) weapons with weighty bladed or bludgeoning heads, made to seriously harm or kill enemies in a single mighty blow. Greatswords, greataxes, mauls, and morningstars are all examples of heavy weapons.
 
 ##### Polearm
 
-Polearms are two-handed melee weapons with long hafts that increase the wielder's reach. They include glaives, halberds, longspears, and quarterstaffs.
+Polearms are two-handed [melee](../rule/combat/melee.md) weapons with long hafts that increase the wielder's reach. They include glaives, halberds, longspears, and quarterstaffs.
 
 ##### Unarmed Strikes
 
@@ -88,80 +88,80 @@ Any kit that uses unarmed [strikes](../rule/combat/strike.md) allows you to use 
 
 ##### Whip
 
-Whip weapons include the standard whip, spiked chains, flails, and any similarly long and flexible melee weapon.
+Whip weapons include the standard whip, spiked chains, flails, and any similarly long and flexible [melee](../rule/combat/melee.md) weapon.
 
 #### Kits and Treasures
 
-When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](../kit/ranger.md) or [Shining Armor](../kit/shining-armor.md) kits. However, you can't use it with the [Cloak and Dagger](../kit/cloak-and-dagger.md) or [Stick and Robe](../kit/stick-and-robe.md) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
+When you find a [supernatural](../rule/general/supernatural.md) treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](../kit/ranger.md) or [Shining Armor](../kit/shining-armor.md) kits. However, you can't use it with the [Cloak and Dagger](../kit/cloak-and-dagger.md) or [Stick and Robe](../kit/stick-and-robe.md) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its [bonus](../rule/dice/bonuses-and-penalties.md)es or benefits.
 
 If you find a piece of equipment you really want to use that isn't part of your kit, you can always change your kit as a [respite](../rule/resource/respite.md) activity.
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your [Stamina](../rule/health/stamina.md), [speed](../rule/character/speed.md), and [stability](../rule/character/stability.md), as well as the damage and [distance](../rule/combat/distance.md) of your weapon abilities, including your [free strikes](../feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
+A kit can grant a [bonus](../rule/dice/bonuses-and-penalties.md) to your [Stamina](../rule/health/stamina.md), [speed](../rule/character/speed.md), and [stability](../rule/character/stability.md), as well as the damage and [distance](../rule/combat/distance.md) of your weapon abilities, including your [free strikes](../feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
-Your kit's [Stamina](../rule/health/stamina.md) bonus is added to your [Stamina](../rule/health/stamina.md) maximum and scales with your [echelon](../rule/general/echelon.md).
+Your kit's [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) is added to your [Stamina](../rule/health/stamina.md) maximum and scales with your [echelon](../rule/general/echelon.md).
 
 #### Speed Bonus
 
-Your kit's [speed](../rule/character/speed.md) bonus is added to your [speed](../rule/character/speed.md).
+Your kit's [speed](../rule/character/speed.md) [bonus](../rule/dice/bonuses-and-penalties.md) is added to your [speed](../rule/character/speed.md).
 
 #### Stability Bonus
 
-Your kit's [stability](../rule/character/stability.md) bonus is added to your [stability](../rule/character/stability.md).
+Your kit's [stability](../rule/character/stability.md) [bonus](../rule/dice/bonuses-and-penalties.md) is added to your [stability](../rule/character/stability.md).
 
 #### Damage Bonuses
 
-Kits can grant you a bonus to damage with both melee and ranged weapon abilities. If a kit has a melee damage bonus, that bonus is added to the [rolled damage](../rule/damage/rolled-damage.md) of any damage-dealing ability with both the Melee and Weapon keywords. A kit's ranged damage bonus is added to the [rolled damage](../rule/damage/rolled-damage.md) of damage-dealing abilities with both the Ranged and Weapon keywords.
+Kits can grant you a [bonus](../rule/dice/bonuses-and-penalties.md) to damage with both [melee](../rule/combat/melee.md) and [ranged](../rule/combat/ranged.md) weapon abilities. If a kit has a [melee](../rule/combat/melee.md) damage [bonus](../rule/dice/bonuses-and-penalties.md), that [bonus](../rule/dice/bonuses-and-penalties.md) is added to the [rolled damage](../rule/damage/rolled-damage.md) of any damage-dealing ability with both the [Melee](../rule/combat/melee.md) and Weapon keywords. A kit's [ranged](../rule/combat/ranged.md) damage [bonus](../rule/dice/bonuses-and-penalties.md) is added to the [rolled damage](../rule/damage/rolled-damage.md) of damage-dealing abilities with both the [Ranged](../rule/combat/ranged.md) and Weapon keywords.
 
 ##### Bonuses Across Tiers
 
-Kit damage bonuses increase based on the [tier outcome](../rule/dice/tier-outcome.md) of the [power roll](../rule/dice/power-roll.md) for a weapon ability, and are presented as "+X/+Y/+Z." The X bonus is added to a tier 1 outcome, the Y bonus is added to a tier 2 outcome, and the Z bonus is added to a tier 3 outcome.
+Kit damage [bonus](../rule/dice/bonuses-and-penalties.md)es increase based on the [tier outcome](../rule/dice/tier-outcome.md) of the [power roll](../rule/dice/power-roll.md) for a weapon ability, and are presented as "+X/+Y/+Z." The X [bonus](../rule/dice/bonuses-and-penalties.md) is added to a tier 1 outcome, the Y [bonus](../rule/dice/bonuses-and-penalties.md) is added to a tier 2 outcome, and the Z [bonus](../rule/dice/bonuses-and-penalties.md) is added to a tier 3 outcome.
 
-For example, the [Shining Armor](../kit/shining-armor.md) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all [tier outcomes](../rule/dice/tier-outcome.md). The [Sniper](../kit/sniper.md) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an [ability roll](../rule/dice/ability-roll.md), but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
+For example, the [Shining Armor](../kit/shining-armor.md) kit has a +2/+2/+2 [melee](../rule/combat/melee.md) damage [bonus](../rule/dice/bonuses-and-penalties.md), increasing the damage of [melee](../rule/combat/melee.md) weapon abilities across all [tier outcomes](../rule/dice/tier-outcome.md). The [Sniper](../kit/sniper.md) kit has a +0/+0/+4 [ranged](../rule/combat/ranged.md) damage [bonus](../rule/dice/bonuses-and-penalties.md), having no effect on a tier 1 or tier 2 outcome on an [ability roll](../rule/dice/ability-roll.md), but increasing the damage of tier 3 outcomes by +4 for your [ranged](../rule/combat/ranged.md) weapon abilities.
 
 #### Distance Bonus
 
-A kit's melee [distance](../rule/combat/distance.md) bonus increases the [distance](../rule/combat/distance.md) of abilities with the Melee and Weapon keywords. A kit's ranged [distance](../rule/combat/distance.md) bonus increases the [distance](../rule/combat/distance.md) of abilities with the Ranged and Weapon keywords.
+A kit's [melee](../rule/combat/melee.md) [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md) increases the [distance](../rule/combat/distance.md) of abilities with the [Melee](../rule/combat/melee.md) and Weapon keywords. A kit's [ranged](../rule/combat/ranged.md) [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md) increases the [distance](../rule/combat/distance.md) of abilities with the [Ranged](../rule/combat/ranged.md) and Weapon keywords.
 
-A [distance](../rule/combat/distance.md) bonus doesn't increase the size of any ability's [area of effect](../rule/combat/area-of-effect.md).
+A [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md) doesn't increase the size of any ability's [area of effect](../rule/combat/area-of-effect.md).
 
 #### Disengage Bonus
 
-A kit that has a disengage bonus increases the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action (see Chapter 10: [Combat](combat.md)).
+A kit that has a disengage [bonus](../rule/dice/bonuses-and-penalties.md) increases the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action (see Chapter 10: [Combat](combat.md)).
 
 ### Kit Signature Ability
 
-Each kit grants a [signature ability](../rule/combat/signature-ability.md), **whose [distance](../rule/combat/distance.md) and damage already includes the kit's bonuses**. For instance, the [Guisarmier](../kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a [distance](../rule/combat/distance.md) of melee 2 and deals 4, 7, or 9 damage depending on the [tier outcome](../rule/dice/tier-outcome.md), with that [distance](../rule/combat/distance.md) and damage including the bonuses from the kit.
+Each kit grants a [signature ability](../rule/combat/signature-ability.md), **whose [distance](../rule/combat/distance.md) and damage already includes the kit's [bonus](../rule/dice/bonuses-and-penalties.md)es**. For instance, the [Guisarmier](../kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a [distance](../rule/combat/distance.md) of [melee](../rule/combat/melee.md) 2 and deals 4, 7, or 9 damage depending on the [tier outcome](../rule/dice/tier-outcome.md), with that [distance](../rule/combat/distance.md) and damage including the [bonus](../rule/dice/bonuses-and-penalties.md)es from the kit.
 
 For details on the ability format, see Abilities in Chapter 5: [Classes](classes.md).
 
 ### Kits A to Z
 
-This section details each kit, whose bonuses and benefits are summarized in the Kits table.
+This section details each kit, whose [bonus](../rule/dice/bonuses-and-penalties.md)es and benefits are summarized in the Kits table.
 
 > **Improvised Weapons**
 >
-> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed [strikes](../rule/combat/strike.md), then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../feature/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed [strikes](../rule/combat/strike.md), then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
 >
-> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../feature/common/main-actions/free-strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
+> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many [melee](../rule/combat/melee.md)-focused heroes choose a kit that maximizes their [melee](../rule/combat/melee.md) capabilities, then make [ranged](../rule/combat/ranged.md) [free strikes](../feature/common/main-actions/free-strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special [bonus](../rule/dice/bonuses-and-penalties.md)es from your kit to a weapon ability used with an improvised weapon.
 
 ### Optional Rule: Losing Equipment
 
 The rules of the game expect that heroes always have access to their equipment. That's because for most of the time in the game, heroes aren't worried about surviving for days on end in a dungeon and tracking every piece of gear they carry. However, there might be times where your group wants to tell a story of heroes who are captured and stripped of their equipment, or who find themselves at a masquerade where weapons need to be checked at the door. For those kinds of scenarios, you can use the following rules:
 
-- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's [Stamina](../rule/health/stamina.md) bonus and [stability](../rule/character/stability.md) bonus. If you lose your shield but keep the rest of your armor, your [Stamina](../rule/health/stamina.md) decreases by 3 per [echelon](../rule/general/echelon.md). As long as you are carrying your shield, you don't lose its [Stamina](../rule/health/stamina.md) bonus, even if you aren't actively wielding it.
-- If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's melee damage bonus.
-- If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and [distance](../rule/combat/distance.md) bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
-- If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee [distance](../rule/combat/distance.md) bonus.
+- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) and [stability](../rule/character/stability.md) [bonus](../rule/dice/bonuses-and-penalties.md). If you lose your shield but keep the rest of your armor, your [Stamina](../rule/health/stamina.md) decreases by 3 per [echelon](../rule/general/echelon.md). As long as you are carrying your shield, you don't lose its [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md), even if you aren't actively wielding it.
+- If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's [melee](../rule/combat/melee.md) damage [bonus](../rule/dice/bonuses-and-penalties.md).
+- If your kit has a light weapon you aren't wielding, you lose the kit's [melee](../rule/combat/melee.md) damage [bonus](../rule/dice/bonuses-and-penalties.md), [ranged](../rule/combat/ranged.md) damage [bonus](../rule/dice/bonuses-and-penalties.md), and [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md) for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
+- If your kit has a polearm or whip you aren't wielding, you lose the kit's [melee](../rule/combat/melee.md) damage [bonus](../rule/dice/bonuses-and-penalties.md) and [melee](../rule/combat/melee.md) [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md).
 - If your kit has an ensnaring weapon you aren't wielding, you lose the kit's [signature ability](../rule/combat/signature-ability.md).
-- If your kit has a bow weapon you aren't wielding, you lose the kit's ranged damage bonus and [distance](../rule/combat/distance.md) bonus.
+- If your kit has a bow weapon you aren't wielding, you lose the kit's [ranged](../rule/combat/ranged.md) damage [bonus](../rule/dice/bonuses-and-penalties.md) and [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md).
 
 ###### Kits Table
 
-| Kit              | Armor          | Weapon             | [Stamina](../rule/health/stamina.md) per [Echelon](../rule/general/echelon.md) | [Speed](../rule/character/speed.md) | [Stability](../rule/character/stability.md) | Melee Damage | Ranged Damage | Melee [Distance](../rule/combat/distance.md) | Ranged [Distance](../rule/combat/distance.md) | Disengage |
+| Kit              | Armor          | Weapon             | [Stamina](../rule/health/stamina.md) per [Echelon](../rule/general/echelon.md) | [Speed](../rule/character/speed.md) | [Stability](../rule/character/stability.md) | [Melee](../rule/combat/melee.md) Damage | [Ranged](../rule/combat/ranged.md) Damage | [Melee](../rule/combat/melee.md) [Distance](../rule/combat/distance.md) | [Ranged](../rule/combat/ranged.md) [Distance](../rule/combat/distance.md) | Disengage |
 |------------------|----------------|--------------------|---------------------|-------|-----------|--------------|---------------|----------------|-----------------|-----------|
 | [Arcane Archer](../kit/arcane-archer.md)    | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
 | [Battlemind](../kit/battlemind.md)       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |

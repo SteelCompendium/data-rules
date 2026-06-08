@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: While you are in your bear form, your [size](scc:mcdm.heroes.v1/rule.character/size) is 2 and you gain a +1 bonus to [distance](scc:mcdm.heroes.v1/rule.combat/distance) with melee weapon abilities.
+    - effect: While you are in your bear form, your [size](scc:mcdm.heroes.v1/rule.character/size) is 2 and you gain a +1 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [distance](scc:mcdm.heroes.v1/rule.combat/distance) with [melee](scc:mcdm.heroes.v1/rule.combat/melee) weapon abilities.
 feature_type: feature
 metadata:
     class: fury

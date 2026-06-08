@@ -13,23 +13,23 @@ In *Draw Steel*, ancestry describes how you were born. Culture (part of Chapter 
 
 This chapter details twelve ancestries for the game:
 
-**[Devil](../ancestry/devil.md):** [Devils](../ancestry/devil.md) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](../ancestry/human.md), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
+**[Devil](../ancestry/devil.md):** [Devils](../ancestry/devil.md) originated in the Seven Cities of Hell and have a [supernatural](../rule/general/supernatural.md) charisma that helps them persuade others. They are similar in stature to [humans](../ancestry/human.md), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
 
 **[Dragon Knight](../ancestry/dragon-knight.md):** [Dragon knights](../ancestry/dragon-knight.md) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](../ancestry/dragon-knight.md) have wings, but on only a few are those wings big enough to let them [fly](../movement/fly.md).
 
-**[Dwarf](../ancestry/dwarf.md):** Humanoids with stony skin, [dwarves](../ancestry/dwarf.md) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
+**[Dwarf](../ancestry/dwarf.md):** Humanoids with stony skin, [dwarves](../ancestry/dwarf.md) have short and stout bodies. Many carve [supernatural](../rule/general/supernatural.md) runes into their flesh, and some have beards made of crystals.
 
-**[Wode Elf](../ancestry/wode-elf.md):** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](../ancestry/wode-elf.md) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
+**[Wode Elf](../ancestry/wode-elf.md):** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](../ancestry/wode-elf.md) have angular features and large, pointed ears akin to a bat's. They possess a [supernatural](../rule/general/supernatural.md) glamor that allows them to blend in with their surroundings when they wish to hide.
 
-**[High Elf](../ancestry/high-elf.md):** Stately and graceful, [high elves](../ancestry/high-elf.md) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](../ancestry/high-elf.md) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf's](../ancestry/high-elf.md) tone and smell.
+**[High Elf](../ancestry/high-elf.md):** Stately and graceful, [high elves](../ancestry/high-elf.md) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](../ancestry/high-elf.md) is hidden from most—sometimes even from themself—thanks to a [supernatural](../rule/general/supernatural.md) glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf's](../ancestry/high-elf.md) tone and smell.
 
 **[Hakaan](../ancestry/hakaan.md):** Descended from stone giants, the mighty [hakaan](../ancestry/hakaan.md) stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
 
-**[Human](../ancestry/human.md):** [Humans](../ancestry/human.md) are the most numerous people in [Orden](../rule/world/orden.md) and many other fantasy worlds! In *Draw Steel*, [humans](../ancestry/human.md) have all the diversity that our species displays in real life—and they can sense the presence of supernatural energy!
+**[Human](../ancestry/human.md):** [Humans](../ancestry/human.md) are the most numerous people in [Orden](../rule/world/orden.md) and many other fantasy worlds! In *Draw Steel*, [humans](../ancestry/human.md) have all the diversity that our species displays in real life—and they can sense the presence of [supernatural](../rule/general/supernatural.md) energy!
 
 **[Memonek](../ancestry/memonek.md):** Originating on Axiom, the Plane of Uttermost Law, [memonek](../ancestry/memonek.md) are a machine people made of metal, marble, glass, and other inorganic materials. Their bodies are lightweight, making them easier to move and letting them fall at slower [speeds](../rule/character/speed.md).
 
-**[Orc](../ancestry/orc.md):** [Orcs](../ancestry/orc.md) have skin in green tones and stand slightly taller and wider than [humans](../ancestry/human.md). A supernatural energy they call "the blood fire" flows through their veins, igniting colorful lines in an [orc's](../ancestry/orc.md) skin during life-or-death battles.
+**[Orc](../ancestry/orc.md):** [Orcs](../ancestry/orc.md) have skin in green tones and stand slightly taller and wider than [humans](../ancestry/human.md). A [supernatural](../rule/general/supernatural.md) energy they call "the blood fire" flows through their veins, igniting colorful lines in an [orc's](../ancestry/orc.md) skin during life-or-death battles.
 
 **[Polder](../ancestry/polder.md):** The smallest of the ancestries in this book, [polders](../ancestry/polder.md) stand no taller than 3-1/2 feet. They look like smaller [humans](../ancestry/human.md), and they have the ability to blend in with the shadows.
 
@@ -45,7 +45,7 @@ This chapter details twelve ancestries for the game:
 >
 > Languages: Chapter 4: [Background](background.md)
 >
-> Abilities, conditions, [potencies](../rule/character/potency.md), [saving throws](../rule/general/saving-throw.md), [surges](../rule/resource/surge.md): Chapter 5: [Classes](classes.md)
+> Abilities, [conditions](../rule/combat/condition.md), [potencies](../rule/character/potency.md), [saving throws](../rule/general/saving-throw.md), [surges](../rule/resource/surge.md): Chapter 5: [Classes](classes.md)
 >
 > Skills, [tests](../rule/test/test.md): Chapter 9: [Tests](tests.md)
 >
@@ -99,7 +99,7 @@ If that's not enough, folks use another identifier known as a byname. If there w
 
 If you leave your village regularly, say to trade with others in a distant market, then your byname might be the place you're from. Alan from the village in the dale, might become known as Alan from the Dale, or even Alan-a-Dale. But everyone back home just calls you Alan.
 
-A byname might refer to your profession. Clyde the Cartwright is a perfectly normal byname. But no one you met would assume "Cartwright" was your 'family name.' People who live permanently in a very large city like Capital use family names, because almost no first name is sufficiently unique to identify you, and "Marissa the Cartwright's Daughter" quickly evolves into Marissa Cartwright.
+A byname might refer to your profession. Clyde the Cartwright is a perfectly normal byname. But no one you met would assume "Cartwright" was your 'family name.' People who live permanently in a very large city like [Capital](../rule/world/capital.md) use family names, because almost no first name is sufficiently unique to identify you, and "Marissa the Cartwright's Daughter" quickly evolves into Marissa Cartwright.
 
 Most nobles in [Orden](../rule/world/orden.md) also use the name of the area they rule as part of their name. When someone refers to Lord Edmund Bedegar everyone listening silently, without thinking about it, adds "of" between the name and the place. Edmund is both Edmund, and the Lord of Bedegar, and Edmund, Lord of Bedegar, and therefore sometimes Lord Edmund Bedegar. Even though "Bedegar" looks like a "last name" to us, and is being used in that manner sometimes, it's not exactly his last name. It's still just another kind of byname.
 
@@ -355,7 +355,7 @@ He waggled his eyebrows. "Style counts for something."
 
 "But wait, that was..." She did some quick mental math. "Fifteen years ago?"
 
-"Well, I was an accountant here in Capital for several years in between." "An accountant!"
+"Well, I was an accountant here in [Capital](../rule/world/capital.md) for several years in between." "An accountant!"
 
 Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous [troubadour](../class/troubadour.md)?"
 
@@ -383,7 +383,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Bea
 
 ##### Barbed Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/barbed-tail"}
 
-Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee [strike](../rule/combat/strike.md), you can deal extra damage with the [strike](../rule/combat/strike.md) equal to your highest [characteristic](../rule/character/characteristic.md) score.
+Your pointy tail allows you to punctuate all your actions. Once per round when you make a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md), you can deal extra damage with the [strike](../rule/combat/strike.md) equal to your highest [characteristic](../rule/character/characteristic.md) score.
 
 ##### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
 
@@ -509,7 +509,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dr
 
 ##### Draconian Guard {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard"}
 
-Whenever you or an adjacent creature takes damage from a [strike](../rule/combat/strike.md), you can use a [triggered action](../rule/combat/triggered-action.md) to guard against the blow. You reduce any damage from the [strike](../rule/combat/strike.md) by an amount equal to your level.
+Whenever you or an [adjacent](../rule/combat/adjacent.md) creature takes damage from a [strike](../rule/combat/strike.md), you can use a [triggered action](../rule/combat/triggered-action.md) to guard against the blow. You reduce any damage from the [strike](../rule/combat/strike.md) by an amount equal to your level.
 
 ##### Draconian Pride {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride"}
 
@@ -555,7 +555,7 @@ Select one [damage immunity](../rule/damage/damage-immunity.md) granted by your 
 
 ##### Remember Your Oath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath"}
 
-As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a [saving throw](../rule/general/saving-throw.md), you succeed on a 4 or higher.
+As a maneuver, you can recite the following oath. Until the start of your next [turn](../rule/combat/turn.md), whenever you make a [saving throw](../rule/general/saving-throw.md), you succeed on a 4 or higher.
 
 *Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies*
 
@@ -677,7 +677,7 @@ You can carve a rune onto your skin with 10 uninterrupted minutes of work, which
 
 **Detection:** Pick a specific type of creature (such as goblins or [humans](../ancestry/human.md)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have [line of effect](../rule/combat/line-of-effect.md) to the creature or object. You can change the type of creature or object as a maneuver.
 
-**Light:** Your skin sheds light for 10 squares. You can turn this light on and off as a maneuver.
+**Light:** Your skin sheds light for 10 squares. You can [turn](../rule/combat/turn.md) this light on and off as a maneuver.
 
 **Voice:** As a maneuver, you can communicate telepathically with a willing creature you have met before and who is within 1 mile of you. You must know the creature's name, and they must speak and understand a language you know. You and the creature can respond to one another as if having a spoken conversation. You can communicate with a different creature by changing the rune.
 
@@ -693,11 +693,11 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 ##### Grounded {data-scc="mcdm.heroes.v1/feature.trait.dwarf/grounded"}
 
-Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to [stability](../rule/character/stability.md).
+Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
 
 ##### Spark Off Your Skin {data-scc="mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin"}
 
-Your stone skin affords you potent protection. You have a +6 bonus to [Stamina](../rule/health/stamina.md), and that bonus increases by 6 at 4th, 7th, and 10th levels.
+Your stone skin affords you potent protection. You have a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and that [bonus](../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels.
 
 ##### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 
@@ -781,9 +781,9 @@ Llyander turned and marched off. "Come!" they called. The children ran to catch 
 
 "Where are we going?" Wenna asked.
 
-"I enjoy the favor of Lord Tear," Llyander said. "We are old friends. With me as your guide, he will treat you well—likely bestow favor upon you! You should be in anticipation of great treasure." They smiled.
+"I enjoy the favor of Lord Tear," Llyander said. "We are old friends. With me as your [guide](../rule/downtime/guide.md), he will treat you well—likely bestow favor upon you! You should be in anticipation of great treasure." They smiled.
 
-The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn.
+The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in [turn](../rule/combat/turn.md).
 
 "I will instruct you on the proper etiquette, but remember this: Lord Tear will [test](../rule/test/test.md) us. Some [tests](../rule/test/test.md) for you and some for me. The [high elves](../ancestry/high-elf.md) and the [wode elves](../ancestry/wode-elf.md) are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It hides deep tensions, recently exacerbated by the treaty with Ajax."
 
@@ -831,9 +831,9 @@ You have the following [signature ability](../rule/combat/signature-ability.md).
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          |           **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
@@ -875,7 +875,7 @@ The king tapped the scroll against his lap, seeming to have reached a decision.
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
-"Alas, your escort's efforts are for naught." Then the king's face became softer. He held up the heavy scroll. "But this is not nothing," he said. "We made a treaty with Ajax to deliver unto him any artifacts our search teams discover from the ruins of this city. He benefits from this bargain more than we. But this, methinks, will stay with us. It was written by my grandmother's grandmother in the youth of the world, and there are some things which must be denied the Iron Saint, even should they violate the treaty."
+"Alas, your escort's efforts are for naught." Then the king's face became softer. He held up the heavy scroll. "But this is not nothing," he said. "We made a treaty with Ajax to deliver unto him any artifacts our search teams discover from the ruins of this city. He benefits from this bargain more than we. But this, methinks, will stay with us. It was written by my grandmother's grandmother in the youth of the world, and there are some things which must be denied the Iron [Saint](../rule/world/saint.md), even should they violate the treaty."
 
 Llyander turned to the children and smiled brilliantly, eyebrows waggling in a show of glee. Wenna and Credan couldn't help but smile. "Well, you see children?" Llyander said. "We only have *more* to do, not everything to do."
 
@@ -927,11 +927,11 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Hig
 
 ##### Glamor of Terror {data-scc="mcdm.heroes.v1/feature.trait.high-elf/glamor-of-terror"}
 
-When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](../rule/combat/triggered-action.md) to make that creature [frightened](../condition/frightened.md) of you until the end of their next turn.
+When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](../rule/combat/triggered-action.md) to make that creature [frightened](../condition/frightened.md) of you until the end of their next [turn](../rule/combat/turn.md).
 
 ##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
 
-You gain a +1 bonus to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 ##### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
 
@@ -1039,11 +1039,11 @@ The giant nodded solemnly. "You are lorewise. My trust in you was well-placed. I
 
 "Many do!" Ardashir said. "I do not. I left the hills of my people long ago to pursue a different path. A path of order and discipline. It is my birthright perhaps."
 
-"He's a [null](../class/null.md)," Embers explained. "They eschew all weapons and implements of war. It is part of their creed, as I understand it."
+"He's a [null](../class/null.md)," Embers explained. "They eschew all weapons and [implements](../rule/treasure/implement.md) of war. It is part of their creed, as I understand it."
 
 "Strength alone might serve," Dazar nodded, "when the strength is such as yours."
 
-Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, hands clenched, arms in a guarding position before him. "Discipline, training, focus. These are my implements."
+Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, hands clenched, arms in a guarding position before him. "Discipline, training, focus. These are my [implements](../rule/treasure/implement.md)."
 
 "Well you can't ever be disarmed," John said. "That could be useful." Ardashir's smile was brilliant. "I suffice," he said.
 
@@ -1073,7 +1073,7 @@ Additionally, when your [Stamina](../rule/health/stamina.md) reaches the negativ
 
 ##### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
 
-Whenever you [force move](../movement/forced-movement.md) a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +1 bonus.
+Whenever you [force move](../movement/forced-movement.md) a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md).
 
 ##### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.hakaan/great-fortitude"}
 
@@ -1085,7 +1085,7 @@ Your body is made to withstand the blows of your enemies. Your [Might](../rule/c
 
 ## Human {data-scc="mcdm.heroes.v1/ancestry/human"}
 
-[Humans](../ancestry/human.md) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+[Humans](../ancestry/human.md) belong to the world in a way the other speaking peoples do not. You can sense the presence of the [supernatural](../rule/general/supernatural.md)—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
 "No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the [dwarves](../ancestry/dwarf.md) and the [orcs](../ancestry/orc.md) as you say. What is it that sets [humans](../ancestry/human.md) apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
 
@@ -1121,7 +1121,7 @@ Those great [humans](../ancestry/human.md), your ancestors, did not focus on dif
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
-Stopping Ajax will require you to become something else. You must become heroes. [Conduits](../class/conduit.md) of saints, warmasters of great armies. [Censors](../class/censor.md) and [shadows](../class/shadow.md). That may seem unlikely now, but the future has a way of surprising us.
+Stopping Ajax will require you to become something else. You must become heroes. [Conduits](../class/conduit.md) of [saints](../rule/world/saint.md), warmasters of great armies. [Censors](../class/censor.md) and [shadows](../class/shadow.md). That may seem unlikely now, but the future has a way of surprising us.
 
 Some of your names, I will see written in future textbooks. But some of your names, I will see written in the stars.
 
@@ -1131,7 +1131,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 
 #### Signature Trait: Detect the Supernatural {data-scc="mcdm.heroes.v1/feature.trait.human/detect-the-supernatural"}
 
-As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don't have [line of effect](../rule/combat/line-of-effect.md) to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
+As a maneuver, you can open your awareness to detect [supernatural](../rule/general/supernatural.md) creatures and phenomena. Until the end of your next [turn](../rule/combat/turn.md), you know the location of any [supernatural](../rule/general/supernatural.md) object, or any undead, construct, or creature from another world within 5 squares, even if you don't have [line of effect](../rule/combat/line-of-effect.md) to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
 
 #### Purchased Human Traits
 
@@ -1139,11 +1139,11 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Per
 
 ##### Can't Take Hold {data-scc="mcdm.heroes.v1/feature.trait.human/cant-take-hold"}
 
-Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) by 1.
+Your connection to the natural world allows you to resist certain [supernatural](../rule/general/supernatural.md) effects. You ignore temporary [difficult terrain](../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) by 1.
 
 ##### Determination {data-scc="mcdm.heroes.v1/feature.trait.human/determination"}
 
-A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../condition/frightened.md), [slowed](../condition/slowed.md), or [weakened](../condition/weakened.md), you can use a maneuver to immediately end one of those conditions.
+A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../condition/frightened.md), [slowed](../condition/slowed.md), or [weakened](../condition/weakened.md), you can use a maneuver to immediately end one of those [conditions](../rule/combat/condition.md).
 
 ##### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 
@@ -1269,7 +1269,7 @@ Your lawful nature and quick reflexes mean you give no quarter to creatures tryi
 
 ##### Keeper of Order {data-scc="mcdm.heroes.v1/feature.trait.memonek/keeper-of-order"}
 
-Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a [power roll](../rule/dice/power-roll.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to remove an [edge](../rule/dice/edge.md) or a [bane](../rule/dice/bane.md) on the roll, to turn a double [edge](../rule/dice/edge.md) into an [edge](../rule/dice/edge.md), or to turn a double [bane](../rule/dice/bane.md) into a [bane](../rule/dice/bane.md).
+Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an [adjacent](../rule/combat/adjacent.md) creature makes a [power roll](../rule/dice/power-roll.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to remove an [edge](../rule/dice/edge.md) or a [bane](../rule/dice/bane.md) on the roll, to [turn](../rule/combat/turn.md) a double [edge](../rule/dice/edge.md) into an [edge](../rule/dice/edge.md), or to [turn](../rule/combat/turn.md) a double [bane](../rule/dice/bane.md) into a [bane](../rule/dice/bane.md).
 
 ##### Lightning Nimbleness {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness"}
 
@@ -1289,7 +1289,7 @@ Your ordered mind can't be caught off guard. You can't be made [surprised](../ru
 
 ##### Useful Emotion {data-scc="mcdm.heroes.v1/feature.trait.memonek/useful-emotion"}
 
-Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../rule/resource/surge.md).
+Velloparatha—the worldsickness—might hinder you, but you know how to [turn](../rule/combat/turn.md) your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../rule/resource/surge.md).
 
 ## Orc {data-scc="mcdm.heroes.v1/ancestry/orc"}
 
@@ -1429,7 +1429,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glo
 
 ##### Bloodfire Rush {data-scc="mcdm.heroes.v1/feature.trait.orc/bloodfire-rush"}
 
-The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to [speed](../rule/character/speed.md) until the end of the round.
+The magic coursing through your veins makes you run faster in the heat of battle. The first time in any [combat round](../rule/combat/combat-round.md) that you take damage, you gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of the round.
 
 ##### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
 
@@ -1437,7 +1437,7 @@ Your bloodfire allows you to regain your strength quicker than others. Whenever 
 
 ##### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
 
-The magic in your blood makes it difficult for others to move you. You have a +1 bonus to [stability](../rule/character/stability.md).
+The magic in your blood makes it difficult for others to move you. You have a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
 
 ##### Nonstop {data-scc="mcdm.heroes.v1/feature.trait.orc/nonstop"}
 
@@ -1445,11 +1445,11 @@ Your bloodfire supplies you with a constant rush of adrenaline. You can't be mad
 
 ##### Passionate Artisan {data-scc="mcdm.heroes.v1/feature.trait.orc/passionate-artisan"}
 
-When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) that uses these skills, you gain a +2 bonus to the roll.
+When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the roll.
 
 ## Polder {data-scc="mcdm.heroes.v1/ancestry/polder"}
 
-After [humans](../ancestry/human.md), [polders](../ancestry/polder.md) are the most numerous and diverse ancestry in [Orden](../rule/world/orden.md). They are not [humans](../ancestry/human.md), but they live in and among [humans](../ancestry/human.md) and share their gods and culture. Almost every [human](../ancestry/human.md) culture in [Orden](../rule/world/orden.md) has a [polder](../ancestry/polder.md) saint or a [human](../ancestry/human.md) saint venerated by [polder](../ancestry/polder.md).
+After [humans](../ancestry/human.md), [polders](../ancestry/polder.md) are the most numerous and diverse ancestry in [Orden](../rule/world/orden.md). They are not [humans](../ancestry/human.md), but they live in and among [humans](../ancestry/human.md) and share their gods and culture. Almost every [human](../ancestry/human.md) culture in [Orden](../rule/world/orden.md) has a [polder](../ancestry/polder.md) [saint](../rule/world/saint.md) or a [human](../ancestry/human.md) [saint](../rule/world/saint.md) venerated by [polder](../ancestry/polder.md).
 
 Short, averaging 31/2 feet tall, the [polders](../ancestry/polder.md)' origins are obscure. They are a young species who, like [humans](../ancestry/human.md), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](../ancestry/polder.md) consider this a base slander and point out they're also famed as chefs, though [polders](../ancestry/polder.md) can be found in every profession, especially in cities.
 
@@ -1601,7 +1601,7 @@ Courage is all you know. You can't be made [frightened](../condition/frightened.
 
 ##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
 
-Your small [size](../rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 bonus to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+Your small [size](../rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 ##### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 
@@ -1609,7 +1609,7 @@ A light step serves you well when [speed](../rule/character/speed.md) is of the 
 
 ##### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
 
-Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has [line of effect](../rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../rule/combat/concealment.md) from any enemy with [line of effect](../rule/combat/line-of-effect.md) to you, you gain a +3 bonus to [speed](../rule/character/speed.md) until the end of your turn.
+Evading others' notice gives you freedom to move. At the start of each of your [turns](../rule/combat/turn.md) during combat, if no enemy has [line of effect](../rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../rule/combat/concealment.md) from any enemy with [line of effect](../rule/combat/line-of-effect.md) to you, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of your [turn](../rule/combat/turn.md).
 
 ##### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
 
@@ -1621,7 +1621,7 @@ The dead walk among us. Some of them are happier about it than others.
 
 Unlike the necromantic rituals that produce wights and wraiths and zombies, [revenants](../ancestry/revenant.md) rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
-These [revenants](../ancestry/revenant.md) are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
+These [revenants](../ancestry/revenant.md) are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or [Capital](../rule/world/capital.md), where lost souls gather to make a home.
 
 ### On Revenants
 
@@ -1633,7 +1633,7 @@ These [revenants](../ancestry/revenant.md) are rare. Many are hunted by ignorant
 
 "Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff ? You said a ship—a ship from where?"
 
-"I dunno, uh... uh, Capital I think."
+"I dunno, uh... uh, [Capital](../rule/world/capital.md) I think."
 
 The head thief looked at the panicking cutpurse. "This lady knight she have a red and blue device on her shield?"
 
@@ -1643,7 +1643,7 @@ from the outside, looked like an unremarkable section of wall.
 
 "Oh, you've got to be kidding me."
 
-"Nonono! How could she... Capital was *nine months ago!*"
+"Nonono! How could she... [Capital](../rule/world/capital.md) was *nine months ago!*"
 
 "She's a [revenant](../ancestry/revenant.md), idiot! She doesn't even need air. She could have walked here! Just... into the water and across the bottom of the sea! Why didn't you say anything?"
 
@@ -1665,15 +1665,15 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 "How did you... this is impossible, how did you *find* us?" She looked at the man groaning on the floor. "Your boss didn't tell you about the vengeance mark?"
 
-"You marked us. Back in Capital. You marked one of us and just... just *walked* here."
+"You marked us. Back in [Capital](../rule/world/capital.md). You marked one of us and just... just *walked* here."
 
-"Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by *ship*." She smiled—black lips on pale gray skin.
+"Don't be stupid. I marked you in Blackbottom. [Capital](../rule/world/capital.md) was just normal detective work. I came here by *ship*." She smiled—black lips on pale gray skin.
 
 "Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at-"
 
 Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air. "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
 
-"Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't Capital. You don't have jurisdiction!"
+"Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't [Capital](../rule/world/capital.md). You don't have jurisdiction!"
 
 Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city watch." She drew her silver sword a few inches from the scabbard just to show them the blade.
 
@@ -1711,7 +1711,7 @@ You select a purchased trait that costs 2 ancestry points from your previous anc
 
 ##### Undead Influence {data-scc="mcdm.heroes.v1/feature.trait.revenant/undead-influence"}
 
-Your supernatural gifts allow you to influence other undead. You gain an [edge](../rule/dice/edge.md) on [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), and [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with undead creatures.
+Your [supernatural](../rule/general/supernatural.md) gifts allow you to influence other undead. You gain an [edge](../rule/dice/edge.md) on [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), and [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with undead creatures.
 
 ##### Vengeance Mark {data-scc="mcdm.heroes.v1/feature.trait.revenant/vengeance-mark"}
 
@@ -1725,9 +1725,9 @@ Additionally, you have the following [signature ability](../rule/combat/signatur
 
 *A magic sigil you placed on a creature explodes with energy.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |                        **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |                        **Main action** |
 |---------------------------|---------------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature bearing your sigil** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
@@ -1743,7 +1743,7 @@ The original servitor species of the synliroi—evil psions with near godlike po
 
 Extraordinarily rare in [Orden](../rule/world/orden.md), [time raiders](../ancestry/time-raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../ancestry/time-raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../ancestry/time-raider.md) also have two sets of arms, allowing them to wield [melee](../rule/combat/melee.md) weapons at the same time as [ranged](../rule/combat/ranged.md) weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
 ### On Time Raiders
 
@@ -1857,7 +1857,7 @@ Your unique physiology enhances your movement. You gain an [edge](../rule/dice/e
 
 ##### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../feature/common/maneuvers/grab.md) or [Knockback](../feature/common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same [power roll](../rule/dice/power-roll.md) for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../feature/common/maneuvers/grab.md) or [Knockback](../feature/common/maneuvers/knockback.md) maneuver against an [adjacent](../rule/combat/adjacent.md) creature, you can target one additional [adjacent](../rule/combat/adjacent.md) creature, using the same [power roll](../rule/dice/power-roll.md) for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
 
 ##### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
 
@@ -1867,9 +1867,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *You slam an invisible force down upon the target.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md)**  | Main action                   |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
-| **📏 Ranged 10**             | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**             | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
@@ -1881,9 +1881,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *You shoot forth a purple beam of psychic force that moves your target.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md)**  | Main action                   |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
-| **📏 Ranged 10**             | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**             | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
@@ -1895,11 +1895,11 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *You fill yourself or an ally with a burst of [speed](../rule/character/speed.md).*
 
-| **Psionic, Melee** | Maneuver               |
+| **Psionic, [Melee](../rule/combat/melee.md)** | Maneuver               |
 |-------------------|------------------------|
-| **📏 Melee 1**    | **🎯 Self or one ally** |
+| **📏 [Melee](../rule/combat/melee.md) 1**    | **🎯 Self or one ally** |
 
-**Effect:** The target gains a bonus to [speed](../rule/character/speed.md) equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice) until the start of your next turn.
+**Effect:** The target gains a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice) until the start of your next [turn](../rule/combat/turn.md).
 
 ##### Unstoppable Mind
 

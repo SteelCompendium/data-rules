@@ -17,7 +17,7 @@ With this stormwight kit, you channel your [primordial ferocity](scc:mcdm.heroes
 
 *Foes who try to close in around you do so at their peril.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**          | **🎯 Each enemy in the area** |
 
@@ -37,7 +37,7 @@ feature_type: ability
 flavor: Foes who try to close in around you do so at their peril.
 keywords:
     - Area
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Main action
@@ -46,7 +46,7 @@ metadata:
     flavor: Foes who try to close in around you do so at their peril.
     keywords:
         - Area
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     name: Wing Buffet
     subtype: signature

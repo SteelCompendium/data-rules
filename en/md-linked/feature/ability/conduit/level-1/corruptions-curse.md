@@ -2,11 +2,11 @@
 action_type: Main action
 class: conduit
 cost: 5 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: Cursed by you, your enemy takes more damage from your allies.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Corruption's Curse
@@ -18,9 +18,9 @@ type: ability
 
 *Cursed by you, your enemy takes more damage from your allies.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 

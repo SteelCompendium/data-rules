@@ -17,9 +17,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You advance an enemy's age for a moment.*
 
-| **Chronopathy, Psionic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Chronopathy, Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -36,9 +36,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You blast a foe with a pulse of cold energy.*
 
-| **Cryokinesis, Psionic, Ranged**, **Strike** |     **Main action** |
+| **Cryokinesis, Psionic, [Ranged](../../../rule/combat/ranged.md)**, **Strike** |     **Main action** |
 |----------------------------------------------|--------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                             | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -46,14 +46,14 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
 - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
 
-**Strained:** You are [slowed](../../../condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../../../condition/slowed.md) by this ability is [restrained](../../../condition/restrained.md) instead.
+**Strained:** You are [slowed](../../../condition/slowed.md) until the end of your next [turn](../../../rule/combat/turn.md). Additionally, a target [slowed](../../../condition/slowed.md) by this ability is [restrained](../../../condition/restrained.md) instead.
 
 ### Incinerate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/incinerate"}
 
 
 *The air erupts into a column of smokeless flame.*
 
-| **Area, Fire, Psionic, Pyrokinesis, Ranged** |               **Main action** |
+| **Area, Fire, Psionic, Pyrokinesis, [Ranged](../../../rule/combat/ranged.md)** |               **Main action** |
 |----------------------------------------------|------------------------------:|
 | **📏 3 [cube](../../../rule/combat/cube.md) within 10**                      | **🎯 Each enemy in the area** |
 
@@ -63,18 +63,18 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 4 fire damage
 - **17+:** 6 fire damage
 
-**Effect:** A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
+**Effect:** A column of fire remains in the area until the start of your next [turn](../../../rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
 
-**Strained:** The size of the [cube](../../../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your turn.
+**Strained:** The size of the [cube](../../../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your [turn](../../../rule/combat/turn.md).
 
 ### Kinetic Grip {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip"}
 
 
 *You lift and hurl your foe away from you.*
 
-| **Psionic, Ranged, Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), Telekinesis** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Ranged 10**                 | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -99,16 +99,16 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 5 psychic damage; push 1
 - **17+:** 7 psychic damage; push 2
 
-**Strained:** The size of the [burst](../../../rule/combat/burst.md) increases by 2, and you are [bleeding](../../../condition/bleeding.md) until the start of your next turn.
+**Strained:** The size of the [burst](../../../rule/combat/burst.md) increases by 2, and you are [bleeding](../../../condition/bleeding.md) until the start of your next [turn](../../../rule/combat/turn.md).
 
 ### Materialize {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/materialize"}
 
 
 *You picture an object in your mind and give it form—directly above your opponent's head.*
 
-| **Psionic, Ranged, Resopathy, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), Resopathy, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------------|------------------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                       | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -116,18 +116,18 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 5 + R damage
 - **17+:** 8 + R damage
 
-**Effect:** A worthless [size](../../../rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
+**Effect:** A worthless [size](../../../rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](../../../rule/combat/adjacent.md) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
 
-**Strained:** The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your [Reason](../../../rule/character/reason.md) score. You also take damage equal to your [Reason](../../../rule/character/reason.md) score that can't be reduced in any way.
+**Strained:** The object explodes after the damage is dealt, and each creature [adjacent](../../../rule/combat/adjacent.md) to the target takes damage equal to your [Reason](../../../rule/character/reason.md) score. You also take damage equal to your [Reason](../../../rule/character/reason.md) score that can't be reduced in any way.
 
 ### Optic Blast {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast"}
 
 
 *Your eyes emit rays of powerful enervating force.*
 
-| **Metamorphosis, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Metamorphosis, Psionic, [Ranged](../../../rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |------------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                               | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                               | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -144,9 +144,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You form a blade of mind energy and stab your target, invigorating yourself.*
 
-| **Animapathy, Melee, Psionic, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Animapathy, [Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------------|------------------------------:|
-| **📏 Melee 2**                         | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 2**                         | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -171,11 +171,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
-**Effect:** If you target an ally, they gain [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn. If you target an enemy, you make a [power roll](../../../rule/dice/power-roll.md).
+**Effect:** If you target an ally, they gain [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../rule/combat/turn.md). If you target an enemy, you make a [power roll](../../../rule/dice/power-roll.md).
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -188,9 +188,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You crush a foe in a telekinetic grip.*
 
-| **Psionic, Ranged**, **Strike, Telekinesis** |     **Main action** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)**, **Strike, Telekinesis** |     **Main action** |
 |----------------------------------------------|--------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                             | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -205,20 +205,20 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
 
-| **Chronopathy, Melee, Psionic** |         **Main action** |
+| **Chronopathy, [Melee](../../../rule/combat/melee.md), Psionic** |         **Main action** |
 |---------------------------------|------------------------:|
-| **📏 Melee 2**                  | **🎯 Self or one ally** |
+| **📏 [Melee](../../../rule/combat/melee.md) 2**                  | **🎯 Self or one ally** |
 
-**Effect:** [Ability rolls](../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../../../rule/combat/triggered-action.md) to make a [free strike](../../common/main-actions/free-strike.md) against the source of the damage.
+**Effect:** [Ability rolls](../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../rule/dice/bane.md) until the start of your next [turn](../../../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a [triggered action](../../../rule/combat/triggered-action.md) to make a [free strike](../../common/main-actions/free-strike.md) against the source of the damage.
 
 ### Smolder {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/smolder"}
 
 
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
 
-| **Psionic, Pyrokinesis, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
+| **Psionic, Pyrokinesis, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |------------------------------------------|--------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                         | **🎯 One creature** |
 
 **Effect:** Choose the [damage type](../../../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.
 
@@ -237,9 +237,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *The target is thrown several seconds back through time and gets to do it all again.*
 
-| **Chronopathy, Psionic, Ranged** |            **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../../rule/combat/ranged.md)** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
 **Effect:** The target uses an ability with a base [Heroic Resource](../../../rule/resource/heroic-resource.md) cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 
@@ -250,22 +250,22 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your psionic energy surrounds the target and pushes everything else away from them.*
 
-| **Psionic, Ranged, Telekinesis** |            **Maneuver** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), Telekinesis** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target ignores [difficult terrain](../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../movement/forced-movement.md) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../../rule/character/stability.md). A creature can only be force moved this way once a turn.
+**Effect:** The target ignores [difficult terrain](../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../movement/forced-movement.md) until the start of your next [turn](../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../rule/combat/turn.md).
 
-**Strained:** You are [weakened](../../../condition/weakened.md) (save ends). While you are [weakened](../../../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +5 bonus.
+**Strained:** You are [weakened](../../../condition/weakened.md) (save ends). While you are [weakened](../../../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +5 [bonus](../../../rule/dice/bonuses-and-penalties.md).
 
 ### Iron {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/iron"}
 
 
 *The target's skin turns to hard, dark metal, impenetrable and dense.*
 
-| **Metamorphosis, Psionic, Ranged** |            **Maneuver** |
+| **Metamorphosis, Psionic, [Ranged](../../../rule/combat/ranged.md)** |            **Maneuver** |
 |------------------------------------|------------------------:|
-| **📏 Ranged 10**                   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |
 
 **Effect:** The target's [stability](../../../rule/character/stability.md) increases by an amount equal to your [Reason](../../../rule/character/reason.md) score, and they gain 10 [temporary Stamina](../../../rule/health/temporary-stamina.md) and 2 [surges](../../../rule/resource/surge.md). This [stability](../../../rule/character/stability.md) increase lasts until the target no longer has [temporary Stamina](../../../rule/health/temporary-stamina.md) from this ability.
 
@@ -276,10 +276,10 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You clear the mind of nothing but the goal.*
 
-| **Psionic, Ranged, Telepathy** |            **Maneuver** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), Telepathy** |            **Maneuver** |
 |--------------------------------|------------------------:|
-| **📏 Ranged 10**               | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**               | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target gains a +3 bonus to [speed](../../../rule/character/speed.md), and they have a double [edge](../../../rule/dice/edge.md) on the next [power roll](../../../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), the target gains a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md), and they have a double [edge](../../../rule/dice/edge.md) on the next [power roll](../../../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
 
 **Strained:** You take 1d6 damage, and you can't use [triggered actions](../../../rule/combat/triggered-action.md) (save ends).

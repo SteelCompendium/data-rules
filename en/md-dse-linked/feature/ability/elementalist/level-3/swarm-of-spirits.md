@@ -5,7 +5,7 @@ cost: 7 Essence
 cost_amount: "7"
 cost_resource: Essence
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of your next turn, each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 bonus to [saving throws](../../../../rule/general/saving-throw.md).
+effect: Until the end of your next [turn](../../../../rule/combat/turn.md), each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../../rule/general/saving-throw.md).
 feature_type: ability
 file_basename: swarm-of-spirits
 file_dpath: feature/ability/elementalist/level-3
@@ -28,7 +28,7 @@ type: ability
 cost: 7 Essence
 distance: 3 [aura](../../../../rule/combat/aura.md)
 effects:
-    - effect: Until the end of your next turn, each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 bonus to [saving throws](../../../../rule/general/saving-throw.md).
+    - effect: Until the end of your next [turn](../../../../rule/combat/turn.md), each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../../rule/general/saving-throw.md).
 feature_type: ability
 flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: elementalist
     cost: 7 Essence
     distance: 3 [aura](../../../../rule/combat/aura.md)
-    effect: Until the end of your next turn, each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 bonus to [saving throws](../../../../rule/general/saving-throw.md).
+    effect: Until the end of your next [turn](../../../../rule/combat/turn.md), each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../../rule/general/saving-throw.md).
     flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
     keywords:
         - Area

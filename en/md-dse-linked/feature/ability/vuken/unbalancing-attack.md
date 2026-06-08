@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 feature_type: ability
 file_basename: unbalancing-attack
 file_dpath: feature/ability/vuken
@@ -8,7 +8,7 @@ flavor: A wild assault forces your foe onto their back.
 item_id: unbalancing-attack
 item_name: Unbalancing Attack
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: vuken
@@ -21,21 +21,21 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "*A wild assault forces your foe onto their back.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**\n\n- **≤11:** 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)\n- **12-16:** 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)\n- **17+:** 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)"
+    - effect: "*A wild assault forces your foe onto their back.*\n\n| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 1**            | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**\n\n- **≤11:** 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)\n- **12-16:** 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)\n- **17+:** 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)"
 feature_type: ability
 flavor: A wild assault forces your foe onto their back.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
     flavor: A wild assault forces your foe onto their back.
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: vuken

@@ -2,13 +2,13 @@
 action_type: Maneuver
 class: troubadour
 cost: 11 Drama
-distance: Melee 1 or ranged 10
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
 effect: Choose one ally within [distance](../../../../rule/combat/distance.md). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../common/main-actions/free-strike.md) against them after the ability is resolved.
 flavor: Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Epic
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/epic
@@ -19,9 +19,9 @@ type: ability
 
 *Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
 
-| **Magic, Melee, Ranged**    |        **Maneuver** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md)**    |        **Maneuver** |
 |-----------------------------|--------------------:|
-| **📏 Melee 1 or ranged 10** | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

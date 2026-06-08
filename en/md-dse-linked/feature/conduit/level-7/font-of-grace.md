@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Each time you use your [Healing Grace](../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
+    - effect: Each time you use your [Healing Grace](../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same [turn](../../../rule/combat/turn.md). If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
 feature_type: feature
 metadata:
     class: conduit

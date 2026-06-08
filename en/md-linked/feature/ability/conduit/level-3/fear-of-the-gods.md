@@ -8,7 +8,7 @@ flavor: Your divine magic makes a creature appear as what your enemies fear most
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "3"
 name: Fear of the Gods
 scc: mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods
@@ -19,7 +19,7 @@ type: ability
 
 *Your divine magic makes a creature appear as what your enemies fear most.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 5 [cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 

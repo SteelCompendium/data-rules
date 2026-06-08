@@ -15,7 +15,7 @@ item_name: Deluge
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Deluge
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/deluge
@@ -34,7 +34,7 @@ flavor: You summon your [primordial storm](../../../fury/stormwight-kits/primord
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: fury
@@ -45,7 +45,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "9"
     name: Deluge
     scc: mcdm.heroes.v1/feature.ability.fury.level-9/deluge

@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your ranged psionic abilities gain a +2 bonus to [distance](scc:mcdm.heroes.v1/rule.combat/distance)."
+      "effect": "Your [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) psionic abilities gain a +2 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [distance](scc:mcdm.heroes.v1/rule.combat/distance)."
     }
   ],
   "feature_type": "feature",

@@ -13,12 +13,12 @@
     "Area",
     "Earth",
     "Magic",
-    "Ranged"
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*You open up the ground, spewing out shrapnel of stone and debris.*\n\n| **Area, Earth, Magic, Ranged** |                **Main action** |\n|--------------------------------|-------------------------------:|\n| **📏 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**        |  **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 5 damage\n- **12-16:** 9 damage\n- **17+:** 12 damage\n\n**Effect:** The ground in or directly beneath the area drops 3 squares.",
+    "content": "\n*You open up the ground, spewing out shrapnel of stone and debris.*\n\n| **Area, Earth, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |                **Main action** |\n|--------------------------------|-------------------------------:|\n| **📏 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**        |  **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 5 damage\n- **12-16:** 9 damage\n- **17+:** 12 damage\n\n**Effect:** The ground in or directly beneath the area drops 3 squares.",
     "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
     "feature_type": "ability",
     "flavor": "You open up the ground, spewing out shrapnel of stone and debris.",
@@ -28,7 +28,7 @@
       "Area",
       "Earth",
       "Magic",
-      "Ranged"
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 3,
     "scc": [

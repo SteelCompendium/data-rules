@@ -31,4 +31,4 @@ type: ability
 - **12-16:** 3 [burst](../../../../rule/combat/burst.md)
 - **17+:** 4 [burst](../../../../rule/combat/burst.md)
 
-**Strained:** You can choose to reduce the size of the [burst](../../../../rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../../../../rule/combat/burst.md)) to give the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) a +2 bonus. You take half the total damage all targets take from [forced movement](../../../../movement/forced-movement.md).
+**Strained:** You can choose to reduce the size of the [burst](../../../../rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../../../../rule/combat/burst.md)) to give the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md). You take half the total damage all targets take from [forced movement](../../../../movement/forced-movement.md).

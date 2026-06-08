@@ -5,7 +5,7 @@ cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
 distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-effect: Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can end one effect on themself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn, or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
+effect: Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can end one effect on themself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn), or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
 feature_type: ability
 file_basename: revitalizing-grace
 file_dpath: feature/ability/conduit/level-6
@@ -27,7 +27,7 @@ type: ability
 cost: 9 Piety
 distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can end one effect on themself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn, or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
+    - effect: Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can end one effect on themself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn), or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
 feature_type: ability
 flavor: With a gesture, you restore your health and that of your allies.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 9 Piety
     distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-    effect: Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can end one effect on themself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn, or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
+    effect: Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can end one effect on themself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn), or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
     flavor: With a gesture, you restore your health and that of your allies.
     keywords:
         - Area

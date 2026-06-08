@@ -1,7 +1,7 @@
 ---
 action_type: Triggered
 class: conduit
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: The [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
 feature_type: ability
 file_basename: word-of-guidance
@@ -11,7 +11,7 @@ item_id: word-of-guidance
 item_name: Word of Guidance
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Word of Guidance
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance
@@ -24,7 +24,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
     - effect: '1 Piety: The [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge).'
@@ -33,16 +33,16 @@ feature_type: ability
 flavor: You invigorate an attacking ally with divine energy.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Triggered
     class: conduit
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: The [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).
     flavor: You invigorate an attacking ally with divine energy.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Word of Guidance
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance

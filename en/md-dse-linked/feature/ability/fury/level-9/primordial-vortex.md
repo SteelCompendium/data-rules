@@ -15,7 +15,7 @@ item_name: Primordial Vortex
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "9"
 name: Primordial Vortex
@@ -35,7 +35,7 @@ flavor: You channel the power of the Primordial Chaos to pull foes to you.
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -47,7 +47,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Weapon
     level: "9"
     name: Primordial Vortex

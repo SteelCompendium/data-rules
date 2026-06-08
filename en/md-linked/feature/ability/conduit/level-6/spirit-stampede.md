@@ -7,7 +7,7 @@ flavor: Animal spirits run through the battlefield, trampling your foes.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "6"
 name: Spirit Stampede
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede
@@ -18,7 +18,7 @@ type: ability
 
 *Animal spirits run through the battlefield, trampling your foes.*
 
-| **Area, Magic, Ranged**     |               **Main action** |
+| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |
 

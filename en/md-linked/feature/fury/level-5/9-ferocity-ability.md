@@ -13,9 +13,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You need just one blow to sabotage your target.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -30,9 +30,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You quickly strike back at a foe.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |             **Free triggered** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |             **Free triggered** |
 |---------------------------|-------------------------------:|
-| **📏 Melee 1**            | **🎯 The triggering creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 The triggering creature** |
 
 **Trigger:** A creature causes you to be [winded](../../../rule/health/winded.md) or [dying](../../../rule/health/dying.md), or damages you while you are [winded](../../../rule/health/winded.md) or [dying](../../../rule/health/dying.md).
 
@@ -49,9 +49,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You knock around enemies like playthings.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -66,9 +66,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You channel the Primordial Chaos into blows that petrify your foe... literally.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -76,4 +76,4 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
 - **17+:** 18 + M damage; M < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 
-**Effect:** While the target is [slowed](../../../condition/slowed.md) this way, any other effect that would make the target [slowed](../../../condition/slowed.md) instead makes them [restrained](../../../condition/restrained.md) by this ability. Additionally, a creature who fails the [saving throw](../../../rule/general/saving-throw.md) while [restrained](../../../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+**Effect:** While the target is [slowed](../../../condition/slowed.md) this way, any other effect that would make the target [slowed](../../../condition/slowed.md) instead makes them [restrained](../../../condition/restrained.md) by this ability. Additionally, a creature who fails the [saving throw](../../../rule/general/saving-throw.md) while [restrained](../../../condition/restrained.md) this way is petrified until they are given a [supernatural](../../../rule/general/supernatural.md) cure or you choose to reverse the effect (no action required).

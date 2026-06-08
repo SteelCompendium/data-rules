@@ -1,7 +1,7 @@
 ---
 action_type: Maneuver
 class: tactician
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: The target is marked by you until the end of the encounter, until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](scc:mcdm.heroes.v1/class/tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), you can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to mark a new target within [distance](scc:mcdm.heroes.v1/rule.combat/distance).
 feature_type: ability
 file_basename: mark
@@ -10,7 +10,7 @@ flavor: You draw your allies' attention to a specific foe—with devastating eff
 item_id: mark
 item_name: Mark
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Mark
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/mark
@@ -20,21 +20,21 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The target is marked by you until the end of the encounter, until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](scc:mcdm.heroes.v1/class/tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), you can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to mark a new target within [distance](scc:mcdm.heroes.v1/rule.combat/distance).
 feature_type: ability
 flavor: You draw your allies' attention to a specific foe—with devastating effect.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: tactician
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: The target is marked by you until the end of the encounter, until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](scc:mcdm.heroes.v1/class/tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), you can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to mark a new target within [distance](scc:mcdm.heroes.v1/rule.combat/distance).
     flavor: You draw your allies' attention to a specific foe—with devastating effect.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Mark
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/mark

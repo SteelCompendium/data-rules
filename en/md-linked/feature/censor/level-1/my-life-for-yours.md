@@ -13,12 +13,12 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 
 *You channel some of your vitality into more resilience for you or an ally.*
 
-| **Magic, Ranged** |           **Triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |           **Triggered** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn or takes damage.
+**Trigger:** The target starts their [turn](../../../rule/combat/turn.md) or takes damage.
 
 **Effect:** You spend a [Recovery](../../../rule/health/recoveries.md) and the target regains [Stamina](../../../rule/health/stamina.md) equal to your [recovery value](../../../rule/health/recoveries.md).
 
-**Spend 1 Wrath:** You can end one effect on the target that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone](../../../condition/prone.md) target can stand up.
+**Spend 1 Wrath:** You can end one effect on the target that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../rule/combat/turn.md), or a [prone](../../../condition/prone.md) target can stand up.

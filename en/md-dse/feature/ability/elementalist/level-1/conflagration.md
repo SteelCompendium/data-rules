@@ -15,7 +15,7 @@ keywords:
     - Area
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Conflagration
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration
@@ -28,14 +28,14 @@ type: ability
 cost: 5 Essence
 distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
-    - effect: "\n*A storm of fire descends upon your enemies.*\n\n| **Area, Fire, Magic, Ranged** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**       | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 4 fire damage\n- **12-16:** 6 fire damage\n- **17+:** 10 fire damage\n\n**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence."
+    - effect: "\n*A storm of fire descends upon your enemies.*\n\n| **Area, Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**       | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 4 fire damage\n- **12-16:** 6 fire damage\n- **17+:** 10 fire damage\n\n**Persistent 2:** At the start of your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use a maneuver to use this ability again without spending essence."
 feature_type: ability
 flavor: A storm of fire descends upon your enemies.
 keywords:
     - Area
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: elementalist
@@ -46,7 +46,7 @@ metadata:
         - Area
         - Fire
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Conflagration
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration

@@ -4,7 +4,7 @@ class: shadow
 cost: 9 Insight
 cost_amount: "9"
 cost_resource: Insight
-distance: Melee 1 or ranged 5
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effect: The target can't communicate with anyone until the end of the encounter.
 feature_type: ability
 file_basename: you-talk-too-much
@@ -13,8 +13,8 @@ flavor: Silence is a virtue. A knife pinning their mouth shut is the next best t
 item_id: you-talk-too-much
 item_name: You Talk Too Much
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "5"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 9 Insight
-distance: Melee 1 or ranged 5
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
     - effect: The target can't communicate with anyone until the end of the encounter.
 feature_type: ability
 flavor: Silence is a virtue. A knife pinning their mouth shut is the next best thing.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 9 Insight
-    distance: Melee 1 or ranged 5
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
     effect: The target can't communicate with anyone until the end of the encounter.
     flavor: Silence is a virtue. A knife pinning their mouth shut is the next best thing.
     keywords:
-        - Melee
-        - Ranged
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "5"

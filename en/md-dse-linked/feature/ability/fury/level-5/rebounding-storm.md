@@ -4,7 +4,7 @@ class: fury
 cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining [distance](../../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 feature_type: ability
 file_basename: rebounding-storm
@@ -13,7 +13,7 @@ flavor: You knock around enemies like playthings.
 item_id: rebounding-storm
 item_name: Rebounding Storm
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining [distance](../../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 feature_type: ability
 flavor: You knock around enemies like playthings.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 9 Ferocity
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining [distance](../../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
     flavor: You knock around enemies like playthings.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "5"

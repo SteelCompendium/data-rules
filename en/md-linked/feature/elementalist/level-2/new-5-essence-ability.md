@@ -13,26 +13,26 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
 
-| **Area, Earth, Green, Magic, Ranged** |   **Maneuver** |
+| **Area, Earth, Green, Magic, [Ranged](../../../rule/combat/ranged.md)** |   **Maneuver** |
 |---------------------------------------|---------------:|
 | **📏 3 [cube](../../../rule/combat/cube.md) within 10**               | **🎯 Special** |
 
-**Effect:** Until the start of your next turn, the area gains the following effects:
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), the area gains the following effects:
 
-- Once as a [free maneuver](../../../rule/combat/free-maneuver.md) at the start of your turn, you allow yourself and each ally in the area to spend any number of [Recoveries](../../../rule/health/recoveries.md).
+- Once as a [free maneuver](../../../rule/combat/free-maneuver.md) at the start of your [turn](../../../rule/combat/turn.md), you allow yourself and each ally in the area to spend any number of [Recoveries](../../../rule/health/recoveries.md).
 - The area is [difficult terrain](../../../movement/difficult-terrain.md) for enemies.
-- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your [Reason](../../../rule/character/reason.md) score.
+- Each enemy who enters the area for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there takes damage equal to your [Reason](../../../rule/character/reason.md) score.
 
-**Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your [line of effect](../../../rule/combat/line-of-effect.md).
+**Persistent 1:** The area remains until the start of your next [turn](../../../rule/combat/turn.md). As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your [line of effect](../../../rule/combat/line-of-effect.md).
 
 ## Subvert the Green Within {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within"}
 
 
 *Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
 
-| **Green, Magic, Ranged, [Strike](../../../rule/combat/strike.md), Void** |     **Main action** |
+| **Green, Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Void** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **Effect:** The target uses their [signature ability](../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../rule/dice/power-roll.md) against the target of this ability.
 
@@ -47,11 +47,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your ally disappears, then reappears in a burst of fire.*
 
-| **Fire, Magic, Ranged, Void** |         **Main action** |
+| **Fire, Magic, [Ranged](../../../rule/combat/ranged.md), Void** |         **Main action** |
 |-------------------------------|------------------------:|
-| **📏 Ranged 10**              | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is [teleport](../../../movement/teleport.md)ed to another space within [distance](../../../rule/combat/distance.md). Make a [power roll](../../../rule/dice/power-roll.md) that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleport](../../../movement/teleport.md)ed to another space within [distance](../../../rule/combat/distance.md). Make a [power roll](../../../rule/dice/power-roll.md) that affects each enemy [adjacent](../../../rule/combat/adjacent.md) to the target's new space.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -64,9 +64,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Wrap them up in fire and melting stone.*
 
-| **Earth, Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
+| **Earth, Fire, Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 

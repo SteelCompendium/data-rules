@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: troubadour
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: There you are, radiating your usual charisma.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -19,9 +19,9 @@ type: ability
 
 *There you are, radiating your usual charisma.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Ranged 10**                  | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                  | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

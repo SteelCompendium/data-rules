@@ -12,21 +12,21 @@ type: chapter
 
 You've helped save the world! Or at least a corner of that world important to you. Now you deserve the treasures that can help you do so even more efficiently next time. So claim your magic sword, psionic shield, and Catapult Dust, and ride to your next adventure!
 
-Treasures are the supernatural items that heroes find on their adventures, or that they craft themselves to help with their heroics. You might claim a magic whip from a bandit captain or create a psionic necklace that will help you take down a dread cult.
+Treasures are the [supernatural](../rule/general/supernatural.md) items that heroes find on their adventures, or that they craft themselves to help with their heroics. You might claim a magic whip from a bandit captain or create a psionic necklace that will help you take down a dread cult.
 
 Treasures come in all shapes and sizes, and are broken down into four types.
 
 **[Consumables](../rule/treasure/consumable.md)** are the most numerous treasures. These include potions, dusts, and other items that are consumed by you when you activate them. Most [consumables](../rule/treasure/consumable.md) can be used only once!
 
-**[Trinkets](../rule/treasure/trinket.md)** are treasures with supernatural properties that never fade. These include magic bags, boots, cloaks, gloves, jewelry, and other oddities.
+**[Trinkets](../rule/treasure/trinket.md)** are treasures with [supernatural](../rule/general/supernatural.md) properties that never fade. These include magic bags, boots, cloaks, gloves, jewelry, and other oddities.
 
-**[Leveled treasures](../rule/treasure/leveled-treasure.md)** are treasures that become even more powerful in the hands of a higher-level hero. They connect with their user, building a bond that fuels the item's supernatural power. Armor, implements, and weapons are the most common types of [leveled treasure](../rule/treasure/leveled-treasure.md).
+**[Leveled treasures](../rule/treasure/leveled-treasure.md)** are treasures that become even more powerful in the hands of a higher-level hero. They connect with their user, building a bond that fuels the item's [supernatural](../rule/general/supernatural.md) power. Armor, [implements](../rule/treasure/implement.md), and weapons are the most common types of [leveled treasure](../rule/treasure/leveled-treasure.md).
 
 **Artifacts** are treasures of legendary power that can change or shape an adventure—or even an entire campaign. Each of these game-breaking items is unique, highly coveted, and well guarded.
 
 ### Found, Earned, or Crafted
 
-The rules of the game account for worlds where the average person sometimes even the average noble—doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In [Vasloria](../rule/world/vasloria.md), a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
+The rules of the game account for worlds where the average person sometimes even the average noble—doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not [supernatural](../rule/general/supernatural.md) potions. In [Vasloria](../rule/world/vasloria.md), a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
 
 Most treasures are found as part of adventures. Many people concoct dastardly schemes, but only those with the will and power to enact that vision become villains—and acquiring treasures of great power is often part of a villain's plans. As such, the heroes who vanquish those evildoers often get to claim those treasures for themselves. At
 
@@ -44,7 +44,7 @@ When a hero finds a treasure, they learn its properties if they examine it for 5
 
 #### Wearing Treasures
 
-Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
+Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items [supernatural](../rule/general/supernatural.md)ly resize themselves to fit the creature using them.
 
 Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed [time raider](../ancestry/time-raider.md) to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
 
@@ -54,9 +54,9 @@ If a wearable treasure comes as a set, such as a pair of bracers, boots, or earr
 
 #### Wielding Treasures
 
-Some treasures are wielded in the form of weapons or implements. A weapon might have the Light Weapon, Medium Weapon, or Heavy Weapon keywords, or might have a keyword denoting a specific category of weapon (Bow, Polearm, and so forth). An implement might have the Implement keyword or a keyword denoting the type of implement (Orb, Wand, and so forth). Armor is also considered a wielded treasure, with the Light Armor, Medium Armor, or Heavy Armor keywords, or the Shield keyword.
+Some treasures are wielded in the form of weapons or [implements](../rule/treasure/implement.md). A weapon might have the Light Weapon, Medium Weapon, or Heavy Weapon keywords, or might have a keyword denoting a specific category of weapon (Bow, Polearm, and so forth). An [implement](../rule/treasure/implement.md) might have the [Implement](../rule/treasure/implement.md) keyword or a keyword denoting the type of [implement](../rule/treasure/implement.md) (Orb, Wand, and so forth). Armor is also considered a wielded treasure, with the Light Armor, Medium Armor, or Heavy Armor keywords, or the Shield keyword.
 
-A hero can wield as many weapons, implements, suits of armor, or shields as they can feasibly hold or wear. However, an ability can benefit only from one weapon or implement at a time.
+A hero can wield as many weapons, [implements](../rule/treasure/implement.md), suits of armor, or shields as they can feasibly hold or wear. However, an ability can benefit only from one weapon or [implement](../rule/treasure/implement.md) at a time.
 
 ##### Treasures and Kits
 
@@ -64,12 +64,12 @@ To gain the benefits of a weapon or armor treasure, the treasure must have keywo
 
 If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit's](../class/conduit.md) Prayer of Soldier's Skill.
 
-A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
+A weapon's damage [bonus](../rule/dice/bonuses-and-penalties.md) only adds to [melee](../rule/combat/melee.md) abilities if your kit has a [melee](../rule/combat/melee.md) damage [bonus](../rule/dice/bonuses-and-penalties.md). A weapon's damage [bonus](../rule/dice/bonuses-and-penalties.md) only adds to [ranged](../rule/combat/ranged.md) abilities if your kit has a [ranged](../rule/combat/ranged.md) damage [bonus](../rule/dice/bonuses-and-penalties.md).
 
 #### Magic and Psionic Treasures
 
-The Magic and Psionic keywords for treasures refer to how those treasures are created, not how they are used. Just as magic potions and swords aren't limited only to characters who wield magic themselves, the Magic and Psionic keywords don't restrict the use of treasures to only certain types of characters, so that an implement with the Magic keyword can be used to enhance abilities with the Psionic keyword, and vice versa. Treasures that have the Magic or Psionic keyword and are used to enhance an ability don't add those keywords to the ability.
+The Magic and Psionic keywords for treasures refer to how those treasures are created, not how they are used. Just as magic potions and swords aren't limited only to characters who wield magic themselves, the Magic and Psionic keywords don't restrict the use of treasures to only certain types of characters, so that an [implement](../rule/treasure/implement.md) with the Magic keyword can be used to enhance abilities with the Psionic keyword, and vice versa. Treasures that have the Magic or Psionic keyword and are used to enhance an ability don't add those keywords to the ability.
 
 #### Stamina Bonuses and Damage Bonuses
 
-If two treasures give a creature a bonus to their [Stamina](../rule/health/stamina.md) or a bonus to the [rolled damage](../rule/damage/rolled-damage.md) of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. [Stamina](../rule/health/stamina.md) bonuses and damage bonuses from [consumables](../rule/treasure/consumable.md) ignore this rule, and can be stacked with other [Stamina](../rule/health/stamina.md) bonuses and damage bonuses granted by treasures.
+If two treasures give a creature a [bonus](../rule/dice/bonuses-and-penalties.md) to their [Stamina](../rule/health/stamina.md) or a [bonus](../rule/dice/bonuses-and-penalties.md) to the [rolled damage](../rule/damage/rolled-damage.md) of their abilities, only the higher [bonus](../rule/dice/bonuses-and-penalties.md) applies unless the treasure's description notes otherwise. [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md)es and damage [bonus](../rule/dice/bonuses-and-penalties.md)es from [consumables](../rule/treasure/consumable.md) ignore this rule, and can be stacked with other [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md)es and damage [bonus](../rule/dice/bonuses-and-penalties.md)es granted by treasures.

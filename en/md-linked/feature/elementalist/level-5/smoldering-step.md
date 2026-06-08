@@ -8,4 +8,4 @@ type: feature
 
 You can use 1 square of movement to walk into an area of fire your [size](../../../rule/character/size.md) or larger and [teleport](../../../movement/teleport.md) to any other area of fire your [size](../../../rule/character/size.md) or larger within 10 squares of the first area.
 
-Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your [Reason](../../../rule/character/reason.md) score.
+Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy [adjacent](../../../rule/combat/adjacent.md) to you takes fire damage equal to your [Reason](../../../rule/character/reason.md) score.

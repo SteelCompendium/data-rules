@@ -27,16 +27,16 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 4 damage
 - **17+:** 5 damage
 
-**Effect:** You can slide one adjacent enemy up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score.
+**Effect:** You can slide one [adjacent](../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Faster Than the Eye {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/faster-than-the-eye"}
 
 
 *You strike so quickly that your hands become a blur.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |
 |------------------------------------|--------------------------------:|
-| **📏 Melee 1**                     | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -44,16 +44,16 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** You can deal damage equal to your [Agility](../../../rule/character/agility.md) score to one creature or object adjacent to you.
+**Effect:** You can deal damage equal to your [Agility](../../../rule/character/agility.md) score to one creature or object [adjacent](../../../rule/combat/adjacent.md) to you.
 
 ### Inertial Step {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/inertial-step"}
 
 
 *You flit about the battlefield and take an opportunistic strike.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -68,9 +68,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You contort your enemy's body into a stance they struggle to escape from.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -83,9 +83,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *Your opponent staggers. They cannot ignore you.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -98,9 +98,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 2**                     | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 2**                     | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -113,9 +113,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You step momentarily out of phase as you pull an enemy through you.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -123,16 +123,16 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 6 + A damage; push 4
 - **17+:** 8 + A damage; push 6
 
-**Effect:** Before the push is resolved, you [teleport](../../../movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../../../movement/teleport.md)ed this way, you can't push them.
+**Effect:** Before the push is resolved, you [teleport](../../../movement/teleport.md) the target to a square [adjacent](../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../movement/teleport.md)ed this way, you can't push them.
 
 ### Pressure Points {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/pressure-points"}
 
 
 *You strike at key nerve clusters to leave your foe staggered.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -153,9 +153,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You foresee the best moment to strike, then exploit it.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -174,16 +174,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------------|------------------------------:|
 | **📏 2 [burst](../../../rule/combat/burst.md)**    | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes psychic damage equal to twice your [Intuition](../../../rule/character/intuition.md) score. Until the start of your next turn, the size of your [Null Field](null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](null-field.md) ability takes psychic damage equal to your [Intuition](../../../rule/character/intuition.md) score.
+**Effect:** Each target takes psychic damage equal to twice your [Intuition](../../../rule/character/intuition.md) score. Until the start of your next [turn](../../../rule/combat/turn.md), the size of your [Null Field](null-field.md) ability increases by 1. At the end of your current [turn](../../../rule/combat/turn.md), each enemy in the area of your [Null Field](null-field.md) ability takes psychic damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Relentless Nemesis {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis"}
 
 
 *You strike, and for the next few moments, your enemy can't escape you.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -191,16 +191,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 8 + A damage
 - **17+:** 12 + A damage
 
-**Effect:** Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../movement/forced-movement.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md). You must end this [shift](../../../movement/shifting.md) adjacent to the target.
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), whenever the target finishes moving or being [force moved](../../../movement/forced-movement.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md). You must end this [shift](../../../movement/shifting.md) [adjacent](../../../rule/combat/adjacent.md) to the target.
 
 ### Stunning Blow {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow"}
 
 
 *You focus your psionic technique into a concussive punch.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -217,9 +217,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -227,16 +227,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
 - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../../../condition/weakened.md) (save ends)
 
-**Effect:** While [weakened](../../../condition/weakened.md) this way, the target takes damage equal to your [Intuition](../../../rule/character/intuition.md) score whenever they use a supernatural ability that costs Malice.
+**Effect:** While [weakened](../../../condition/weakened.md) this way, the target takes damage equal to your [Intuition](../../../rule/character/intuition.md) score whenever they use a [supernatural](../../../rule/general/supernatural.md) ability that costs Malice.
 
 ### Impart Force {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/impart-force"}
 
 
 *A single touch from you, and your enemy flies backward.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |                  **Maneuver** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |                  **Maneuver** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -251,9 +251,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *For a moment, your foe slips out of phase with this manifold.*
 
-| **Melee, Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |                           **Main action** |
+| **[Melee](../../../rule/combat/melee.md), Psionic, [Strike](../../../rule/combat/strike.md), Weapon** |                           **Main action** |
 |------------------------------------|------------------------------------------:|
-| **📏 Melee 1**                     |                       **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                     |                       **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 

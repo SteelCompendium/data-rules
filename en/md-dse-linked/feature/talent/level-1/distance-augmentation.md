@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your ranged psionic abilities gain a +2 bonus to [distance](../../../rule/combat/distance.md).
+    - effect: Your [ranged](../../../rule/combat/ranged.md) psionic abilities gain a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [distance](../../../rule/combat/distance.md).
 feature_type: feature
 metadata:
     class: talent

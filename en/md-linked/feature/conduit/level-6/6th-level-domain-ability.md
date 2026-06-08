@@ -34,16 +34,16 @@ Choose one of your domains. You gain a [heroic ability](../../../rule/general/he
 |------------------|---------------------------------:|
 | **📏 4 [aura](../../../rule/combat/aura.md)**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score. This [forced movement](../../../movement/forced-movement.md) ignores [stability](../../../rule/character/stability.md) for your allies.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), at the end of each of your [turns](../../../rule/combat/turn.md), you can slide each creature in the area up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score. This [forced movement](../../../movement/forced-movement.md) ignores [stability](../../../rule/character/stability.md) for your allies.
 
 ### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -60,29 +60,29 @@ Choose one of your domains. You gain a [heroic ability](../../../rule/general/he
 |------------------|------------------------------------------:|
 | **📏 4 [aura](../../../rule/combat/aura.md)**    | **🎯 Self and each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../rule/dice/bane.md) on [power rolls](../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../../rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../rule/dice/bane.md) on [power rolls](../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../../rule/resource/surge.md) at the end of each of your [turns](../../../rule/combat/turn.md).
 
 ### Cuirass of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods"}
 
 
 *Your allies are covered in spiritual armor.*
 
-| **Area, Magic, Ranged**  |           **Maneuver** | 
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)**  |           **Maneuver** | 
 |--------------------------|-----------------------:|
-| **📏 Ranged 10**         | **🎯 Three creatures** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**         | **🎯 Three creatures** |
 
-**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../../rule/damage/damage-immunity.md) 5 until the start of your next turn.
+**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../../rule/damage/damage-immunity.md) 5 until the start of your next [turn](../../../rule/combat/turn.md).
 
 ### Gods' Machine {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine"}
 
 
 *You conjure a whirring tank made of blades and metal.*
 
-| **Magic, Ranged** | **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** | **Main action** |
 |-------------------|-----------------|
-| **📏 Ranged 10**  | **🎯 Special**  |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 Special**  |
 
-**Effect:** You conjure a [size](../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md). When the machine first appears, make the following [power roll](../../../rule/dice/power-roll.md) once, targeting each enemy adjacent to it.
+**Effect:** You conjure a [size](../../../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The machine has 50 [Stamina](../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md). When the machine first appears, make the following [power roll](../../../rule/dice/power-roll.md) once, targeting each enemy [adjacent](../../../rule/combat/adjacent.md) to it.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -90,7 +90,7 @@ Choose one of your domains. You gain a [heroic ability](../../../rule/general/he
 - **12-16:** 5 damage
 - **17+:** 8 damage
 
-Once on each subsequent turn, you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to move the machine a number of squares up to your [Intuition](../../../rule/character/intuition.md) score then repeat the [power roll](../../../rule/dice/power-roll.md).
+Once on each subsequent [turn](../../../rule/combat/turn.md), you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to move the machine a number of squares up to your [Intuition](../../../rule/character/intuition.md) score then repeat the [power roll](../../../rule/dice/power-roll.md).
 
 ### Invocation of Mystery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery"}
 
@@ -101,7 +101,7 @@ Once on each subsequent turn, you can use a [free maneuver](../../../rule/combat
 |------------------|--------------------------------------:|
 | **📏 4 [burst](../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target is invisible until the start of your next turn.
+**Effect:** Each target is invisible until the start of your next [turn](../../../rule/combat/turn.md).
 
 ### Invocation of Undoing {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing"}
 
@@ -125,9 +125,9 @@ Once on each subsequent turn, you can use a [free maneuver](../../../rule/combat
 
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.*
 
-| **Magic, Ranged**  |      **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |      **Maneuver** |
 |--------------------|------------------:|
-| **📏 Ranged 10**   | **🎯 Two allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Two allies** |
 
 **Effect:** Each target gains 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md).
 
@@ -157,14 +157,14 @@ Once on each subsequent turn, you can use a [free maneuver](../../../rule/combat
 |------------------|--------------------------------------:|
 | **📏 4 [burst](../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can spend any number of [Recoveries](../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn, or they can stand up if [prone](../../../condition/prone.md).
+**Effect:** Each target can spend any number of [Recoveries](../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../rule/combat/turn.md), or they can stand up if [prone](../../../condition/prone.md).
 
 ### Spirit Stampede {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede"}
 
 
 *Animal spirits run through the battlefield, trampling your foes.*
 
-| **Area, Magic, Ranged**     |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |
 
@@ -179,9 +179,9 @@ Once on each subsequent turn, you can use a [free maneuver](../../../rule/combat
 
 *You bend the fate of a foe, willing them to die.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 

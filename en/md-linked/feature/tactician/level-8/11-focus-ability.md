@@ -13,9 +13,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You direct an attack to strike true.*
 
-| **Ranged**       |         **Main action** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |         **Main action** |
 |------------------|------------------------:|
-| **📏 Ranged 10** | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Self or one ally** |
 
 **Effect:** The target gains 2 [surges](../../../rule/resource/surge.md) and can use a signature or [heroic ability](../../../rule/general/heroic-ability.md) as a free [triggered action](../../../rule/combat/triggered-action.md). The ability has a double [edge](../../../rule/dice/edge.md) on the [power roll](../../../rule/dice/power-roll.md), ignores [damage immunity](../../../rule/damage/damage-immunity.md), and increases the [potency](../../../rule/character/potency.md) of any [potency](../../../rule/character/potency.md) effects by 1.
 
@@ -24,9 +24,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You point out an opening to your ally so they can land a killing blow.*
 
-| **Ranged**       |  **Free triggered** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |  **Free triggered** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Trigger:** The target is not a leader or solo creature, and becomes [winded](../../../rule/health/winded.md).
 
@@ -37,9 +37,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You direct your squad to strike in unison and with devastating effect.*
 
-| **Ranged**       |     **Main action** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |     **Main action** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |
 
 **Effect:** Each target gains 1 [surge](../../../rule/resource/surge.md) and can use a [signature ability](../../../rule/combat/signature-ability.md) as a free [triggered action](../../../rule/combat/triggered-action.md). That ability gains an [edge](../../../rule/dice/edge.md) on the [power roll](../../../rule/dice/power-roll.md) and increases the [potency](../../../rule/character/potency.md) of any [potency](../../../rule/character/potency.md) effects by 1.
 
@@ -48,9 +48,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You create an opening for an ally.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 

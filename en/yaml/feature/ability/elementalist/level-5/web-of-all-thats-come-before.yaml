@@ -1,7 +1,7 @@
 cost: 9 Essence
 distance: 4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
-    - effect: The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends).
+    - effect: The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Each enemy who ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends).
       name: Effect
 feature_type: ability
 flavor: Threads you've been weaving through your adventures create a vibrant, pearlescent web.
@@ -9,11 +9,11 @@ keywords:
     - Area
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: elementalist
-    content: "\n*Threads you've been weaving through your adventures create a vibrant, pearlescent web.*\n\n| **Area, Green, Magic, Ranged** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**        | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 corruption damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 3 corruption damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 5 corruption damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends).\n\n**Persistent 1:** The area remains until the start of your next turn."
+    content: "\n*Threads you've been weaving through your adventures create a vibrant, pearlescent web.*\n\n| **Area, Green, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**        | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 corruption damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 3 corruption damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 5 corruption damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n\n**Effect:** The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Each enemy who ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends).\n\n**Persistent 1:** The area remains until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn)."
     distance: 4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
     feature_type: ability
     flavor: Threads you've been weaving through your adventures create a vibrant, pearlescent web.
@@ -23,7 +23,7 @@ metadata:
         - Area
         - Green
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: 5
     scc:
         - mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before

@@ -13,9 +13,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *A practiced attack will instantly kill an already weakened foe.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -56,7 +56,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
 
-| **Area, Ranged, Weapon**   |               **Main action** |
+| **Area, [Ranged](../../../rule/combat/ranged.md), Weapon**   |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 

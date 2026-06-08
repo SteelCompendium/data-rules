@@ -10,9 +10,9 @@ Your deity grants you a [Heroic Resource](../../../rule/resource/heroic-resource
 
 ## Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 piety.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../../rule/combat/combat-round.md) (as determined by the Director), you gain piety equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 1d3 piety.
 
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your [turn](../../../rule/combat/turn.md), you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
 - If the roll is a 2, you gain 1 additional piety.
@@ -55,7 +55,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains [Stamina](../../../rule/health/stamina.md).
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../../../rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn, or can stand up if they [are prone](../../../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to two times your [Intuition](../../../rule/character/intuition.md) score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../../../rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../rule/combat/turn.md), or can stand up if they [are prone](../../../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to two times your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Love Domain Piety and Effect
 
@@ -89,5 +89,5 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ### War Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single [turn](../../../rule/combat/turn.md).
 - **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 [surges](../../../rule/resource/surge.md).

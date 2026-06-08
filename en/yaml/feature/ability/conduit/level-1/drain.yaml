@@ -1,5 +1,5 @@
 ability_type: Signature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
@@ -7,21 +7,21 @@ feature_type: ability
 flavor: You drain the energy from your target to revitalize yourself or an ally.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     ability_type: Signature
     action_type: Main action
     class: conduit
-    content: "\n*You drain the energy from your target to revitalize yourself or an ally.*\n\n| **Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |     **Main action** |\n|--------------------------|--------------------:|\n| **\U0001F4CF Melee 1**           | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 + I corruption damage\n- **12-16:** 5 + I corruption damage\n- **17+:** 7 + I corruption damage\n\n**Effect:** You or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
-    distance: Melee 1
+    content: "\n*You drain the energy from your target to revitalize yourself or an ally.*\n\n| **Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |     **Main action** |\n|--------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**           | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 + I corruption damage\n- **12-16:** 5 + I corruption damage\n- **17+:** 7 + I corruption damage\n\n**Effect:** You or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     feature_type: ability
     flavor: You drain the energy from your target to revitalize yourself or an ally.
     item_id: drain
     item_name: Drain
     keywords:
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: 1
     scc:

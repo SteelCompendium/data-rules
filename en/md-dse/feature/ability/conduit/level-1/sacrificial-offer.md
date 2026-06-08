@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: conduit
-distance: Ranged 10
-effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can impose a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made against them before the end of their next turn.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can impose a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made against them before the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 file_basename: sacrificial-offer
 file_dpath: feature/ability/conduit/level-1
@@ -11,7 +11,7 @@ item_id: sacrificial-offer
 item_name: Sacrificial Offer
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Sacrificial Offer
@@ -23,24 +23,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can impose a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made against them before the end of their next turn.
+    - effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can impose a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made against them before the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 flavor: Divine magic tears at your foe and defends a nearby friend.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: conduit
-    distance: Ranged 10
-    effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can impose a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made against them before the end of their next turn.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can impose a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made against them before the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
     flavor: Divine magic tears at your foe and defends a nearby friend.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Sacrificial Offer

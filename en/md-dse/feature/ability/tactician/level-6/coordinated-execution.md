@@ -4,7 +4,7 @@ class: tactician
 cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) automatically obtains a tier 3 outcome.
 feature_type: ability
 file_basename: coordinated-execution
@@ -13,7 +13,7 @@ flavor: You direct your ally to make a killing blow.
 item_id: coordinated-execution
 item_name: Coordinated Execution
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "6"
 name: Coordinated Execution
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution
@@ -26,22 +26,22 @@ type: ability
 
 ```ds-feature
 cost: 9 Focus
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) automatically obtains a tier 3 outcome.
 feature_type: ability
 flavor: You direct your ally to make a killing blow.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Free triggered
     class: tactician
     cost: 9 Focus
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) automatically obtains a tier 3 outcome.
     flavor: You direct your ally to make a killing blow.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "6"
     name: Coordinated Execution
     scc: mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution

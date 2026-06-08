@@ -4,16 +4,16 @@ class: troubadour
 cost: 5 Drama
 cost_amount: "5"
 cost_resource: Drama
-distance: Melee 1
-effect: The target can make a melee [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../../common/main-actions/free-strike.md) against the target.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: The target can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against the target.
 feature_type: ability
 file_basename: en-garde
 file_dpath: feature/ability/troubadour/level-2
-flavor: Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!
+flavor: Wait, it's... Guard! [Turn](../../../../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!
 item_id: en-garde
 item_name: En Garde!
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Drama
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: The target can make a melee [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../../common/main-actions/free-strike.md) against the target.
+    - effect: The target can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against the target.
 feature_type: ability
-flavor: Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!
+flavor: Wait, it's... Guard! [Turn](../../../../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: troubadour
     cost: 5 Drama
-    distance: Melee 1
-    effect: The target can make a melee [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../../common/main-actions/free-strike.md) against the target.
-    flavor: Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
+    effect: The target can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against the target.
+    flavor: Wait, it's... Guard! [Turn](../../../../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "2"

@@ -4,7 +4,7 @@ class: "null"
 cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: An object you target must be your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
 feature_type: ability
 file_basename: impart-force
@@ -13,7 +13,7 @@ flavor: A single touch from you, and your enemy flies backward.
 item_id: impart-force
 item_name: Impart Force
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -27,13 +27,13 @@ type: ability
 
 ```ds-feature
 cost: 5 Discipline
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: An object you target must be your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
 feature_type: ability
 flavor: A single touch from you, and your enemy flies backward.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -41,11 +41,11 @@ metadata:
     action_type: Maneuver
     class: "null"
     cost: 5 Discipline
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: An object you target must be your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
     flavor: A single touch from you, and your enemy flies backward.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon

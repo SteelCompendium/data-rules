@@ -12,12 +12,12 @@
   "keywords": [
     "Area",
     "Magic",
-    "Ranged"
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "fury",
-    "content": "\n*You summon your [primordial storm](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/primordial-storm).*\n\n| **Area, Magic, Ranged** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10** | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 7 damage\n- **12-16:** 10 damage\n- **17+:** 15 damage\n\n**Effect:** This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) and ignores [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity).",
+    "content": "\n*You summon your [primordial storm](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/primordial-storm).*\n\n| **Area, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10** | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 7 damage\n- **12-16:** 10 damage\n- **17+:** 15 damage\n\n**Effect:** This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) and ignores [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity).",
     "distance": "5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
     "feature_type": "ability",
     "flavor": "You summon your [primordial storm](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/primordial-storm).",
@@ -26,7 +26,7 @@
     "keywords": [
       "Area",
       "Magic",
-      "Ranged"
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 9,
     "scc": [

@@ -2,12 +2,12 @@
 action_type: Main action
 class: shadow
 cost: 9 Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You choose the new targets for the original target's [free strike](../../../common/main-actions/free-strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 flavor: You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Strike
     - Weapon
 level: "6"
@@ -20,9 +20,9 @@ type: ability
 
 *You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
 
-| **Magic, Melee**, **Strike, Weapon** |    **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md)**, **Strike, Weapon** |    **Main action** |
 |--------------------------------------|-------------------:|
-| **📏 Melee 1**                       | **🎯 Two enemies** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                       | **🎯 Two enemies** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

@@ -3,7 +3,7 @@
   "distance": "Self",
   "effects": [
     {
-      "effect": "You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), and the next [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) you make this turn automatically obtains a tier 3 outcome.",
+      "effect": "You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), and the next [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) you make this [turn](scc:mcdm.heroes.v1/rule.combat/turn) automatically obtains a tier 3 outcome.",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "[Free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver)",
     "class": "fury",
-    "content": "\n*Anger is your energy.*\n\n| **-**       | **[Free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver)** |\n|-------------|------------------:|\n| **📏 Self** |       **🎯 Self** |\n\n**Effect:** You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), and the next [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) you make this turn automatically obtains a tier 3 outcome.",
+    "content": "\n*Anger is your energy.*\n\n| **-**       | **[Free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver)** |\n|-------------|------------------:|\n| **📏 Self** |       **🎯 Self** |\n\n**Effect:** You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge), and the next [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) you make this [turn](scc:mcdm.heroes.v1/rule.combat/turn) automatically obtains a tier 3 outcome.",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "Anger is your energy.",

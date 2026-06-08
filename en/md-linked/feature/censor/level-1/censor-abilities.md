@@ -17,7 +17,7 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *You channel power through your weapon to repel foes.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 2 [cube](../../../rule/combat/cube.md) within 1**         | **🎯 Each enemy in the area** |
 
@@ -32,9 +32,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 *You show your foe a glimpse of their fate after death.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          |           **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          |           **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -42,16 +42,16 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 - **12-16:** 7 + P psychic damage
 - **17+:** 10 + P psychic damage
 
-**Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
+**Effect:** Each time the target willingly moves before the end of your next [turn](../../../rule/combat/turn.md), they take 1 psychic damage for each square they move.
 
 ### Halt Miscreant! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant"}
 
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -62,11 +62,11 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 ### Your Allies Cannot Save You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you"}
 
 
-*Your magic [strike](../../../rule/combat/strike.md) turns your foe's guilt into a burst of holy power.*
+*Your magic [strike](../../../rule/combat/strike.md) [turns](../../../rule/combat/turn.md) your foe's guilt into a burst of holy power.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -74,7 +74,7 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../rule/character/presence.md) score.
+**Effect:** Each enemy [adjacent](../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../rule/character/presence.md) score.
 
 ## Heroic Abilities
 
@@ -87,11 +87,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 ### Behold a Shield of Faith! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith"}
 
 
-*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
+*A mighty blow [turns](../../../rule/combat/turn.md) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -99,16 +99,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 6 + M holy damage
 - **17+:** 9 + M holy damage
 
-**Effect:** Until the start of your next turn, enemies take a [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md) made against you or any ally adjacent to you.
+**Effect:** Until the start of your next [turn](../../../rule/combat/turn.md), enemies take a [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md) made against you or any ally [adjacent](../../../rule/combat/adjacent.md) to you.
 
 ### Driving Assault {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault"}
 
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -123,9 +123,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You channel holy energy to smite a foe and heal an ally.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -140,9 +140,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You conjure memories of their sins to harry your foes.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |    **Main action**  |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |    **Main action**  |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -159,9 +159,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *"I got you, you son of a bitch."*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   |           **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -176,9 +176,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
-| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**                |           **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -193,9 +193,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Judged and [sentenced](../../ability/censor/level-2/sentenced.md).*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             |           **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**             |           **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -210,9 +210,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *The gods judge, fire cleanses.*
 
-| **Magic, Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**                |           **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 

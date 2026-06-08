@@ -1,4 +1,4 @@
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
       name: Effect
@@ -7,12 +7,12 @@ flavor: With the merest touch, you cause an object to turn to slag or ash.
 keywords:
     - Fire
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
 metadata:
     action_type: Main action
     class: elementalist
-    content: "\n*With the merest touch, you cause an object to turn to slag or ash.*\n\n| **Fire, Magic, Melee**  |           **Main action** |\n|-------------------------|--------------------------:|\n| **\U0001F4CF Melee 1**          | **\U0001F3AF One mundane object** |\n\n**Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed."
-    distance: Melee 1
+    content: "\n*With the merest touch, you cause an object to turn to slag or ash.*\n\n| **Fire, Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee)**  |           **Main action** |\n|-------------------------|--------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**          | **\U0001F3AF One mundane object** |\n\n**Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed."
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     feature_type: ability
     flavor: With the merest touch, you cause an object to turn to slag or ash.
     item_id: return-to-formlessness
@@ -20,7 +20,7 @@ metadata:
     keywords:
         - Fire
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     level: 1
     scc:
         - mcdm.heroes.v1/feature.ability.elementalist.level-1/return-to-formlessness

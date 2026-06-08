@@ -4,7 +4,7 @@ class: censor
 cost: 5 Wrath
 cost_amount: "5"
 cost_resource: Wrath
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: If the target is already [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
 feature_type: ability
 file_basename: it-is-justice-you-fear
@@ -14,7 +14,7 @@ item_id: it-is-justice-you-fear
 item_name: It Is Justice You Fear
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "2"
 name: It Is Justice You Fear
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 5 Wrath
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: If the target is already [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
 feature_type: ability
 flavor: I am but a vessel. Your own deeds weigh upon you.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: censor
     cost: 5 Wrath
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: If the target is already [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
     flavor: I am but a vessel. Your own deeds weigh upon you.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "2"
     name: It Is Justice You Fear

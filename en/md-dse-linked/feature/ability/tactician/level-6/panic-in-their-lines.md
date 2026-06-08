@@ -4,7 +4,7 @@ class: tactician
 cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effect: If a target is [force moved](../../../../movement/forced-movement.md) into another creature, they must make a [free strike](../../../common/main-actions/free-strike.md) against that creature.
 feature_type: ability
 file_basename: panic-in-their-lines
@@ -13,8 +13,8 @@ flavor: You confuse your foes, causing them to turn on each other.
 item_id: panic-in-their-lines
 item_name: Panic in Their Lines
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 9 Focus
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
     - effect: If a target is [force moved](../../../../movement/forced-movement.md) into another creature, they must make a [free strike](../../../common/main-actions/free-strike.md) against that creature.
 feature_type: ability
 flavor: You confuse your foes, causing them to turn on each other.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: tactician
     cost: 9 Focus
-    distance: Melee 1 or ranged 5
+    distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
     effect: If a target is [force moved](../../../../movement/forced-movement.md) into another creature, they must make a [free strike](../../../common/main-actions/free-strike.md) against that creature.
     flavor: You confuse your foes, causing them to turn on each other.
     keywords:
-        - Melee
-        - Ranged
+        - '[Melee](../../../../rule/combat/melee.md)'
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "6"

@@ -27,7 +27,7 @@ type: ability
 cost: 5 Clarity
 distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: "\n*Everyone get away from me!*\n\n| **Area, Psionic, Telekinesis** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**                 | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 damage; vertical push 2\n- **12-16:** 6 damage; vertical push 4\n- **17+:** 9 damage; vertical push 6\n\n**Strained:** The size of the [burst](scc:mcdm.heroes.v1/rule.combat/burst) increases by 1, and you are [weakened](scc:mcdm.heroes.v1/condition/weakened) until the end of your turn."
+    - effect: "\n*Everyone get away from me!*\n\n| **Area, Psionic, Telekinesis** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**                 | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 damage; vertical push 2\n- **12-16:** 6 damage; vertical push 4\n- **17+:** 9 damage; vertical push 6\n\n**Strained:** The size of the [burst](scc:mcdm.heroes.v1/rule.combat/burst) increases by 1, and you are [weakened](scc:mcdm.heroes.v1/condition/weakened) until the end of your [turn](scc:mcdm.heroes.v1/rule.combat/turn)."
 feature_type: ability
 flavor: Everyone get away from me!
 keywords:

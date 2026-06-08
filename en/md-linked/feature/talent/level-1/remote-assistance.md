@@ -13,11 +13,11 @@ You have the following ability.
 
 *An ally gains the benefit of your intellect.*
 
-| **Psionic, Ranged** |                  **Maneuver** |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |                  **Maneuver** |
 |---------------------|------------------------------:|
-| **📏 Ranged 10**    | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 One creature or object** |
 
 
-**Effect:** The next [ability roll](../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next turn gains an [edge](../../../rule/dice/edge.md).
+**Effect:** The next [ability roll](../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next [turn](../../../rule/combat/turn.md) gains an [edge](../../../rule/dice/edge.md).
 
 **Spend 1 Clarity:** You target one additional creature or object.

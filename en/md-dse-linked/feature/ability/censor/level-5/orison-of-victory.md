@@ -5,7 +5,7 @@ cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
 distance: 1 [burst](../../../../rule/combat/burst.md)
-effect: A target can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.
+effect: A target can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or a [prone target](../../../../condition/prone.md) can stand up.
 feature_type: ability
 file_basename: orison-of-victory
 file_dpath: feature/ability/censor/level-5
@@ -26,7 +26,7 @@ type: ability
 cost: 9 Wrath
 distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: A target can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.
+    - effect: A target can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or a [prone target](../../../../condition/prone.md) can stand up.
 feature_type: ability
 flavor: You channel your god's will to overcome hardship and inflict pain.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: censor
     cost: 9 Wrath
     distance: 1 [burst](../../../../rule/combat/burst.md)
-    effect: A target can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.
+    effect: A target can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or a [prone target](../../../../condition/prone.md) can stand up.
     flavor: You channel your god's will to overcome hardship and inflict pain.
     keywords:
         - Area

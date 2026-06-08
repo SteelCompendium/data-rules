@@ -18,23 +18,23 @@ In *Draw Steel*, ancestry describes how you were born. Culture (part of Chapter 
 
 This chapter details twelve ancestries for the game:
 
-**[Devil](../ancestry/devil.md):** [Devils](../ancestry/devil.md) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](../ancestry/human.md), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
+**[Devil](../ancestry/devil.md):** [Devils](../ancestry/devil.md) originated in the Seven Cities of Hell and have a [supernatural](../rule/general/supernatural.md) charisma that helps them persuade others. They are similar in stature to [humans](../ancestry/human.md), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
 
 **[Dragon Knight](../ancestry/dragon-knight.md):** [Dragon knights](../ancestry/dragon-knight.md) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](../ancestry/dragon-knight.md) have wings, but on only a few are those wings big enough to let them [fly](../movement/fly.md).
 
-**[Dwarf](../ancestry/dwarf.md):** Humanoids with stony skin, [dwarves](../ancestry/dwarf.md) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
+**[Dwarf](../ancestry/dwarf.md):** Humanoids with stony skin, [dwarves](../ancestry/dwarf.md) have short and stout bodies. Many carve [supernatural](../rule/general/supernatural.md) runes into their flesh, and some have beards made of crystals.
 
-**[Wode Elf](../ancestry/wode-elf.md):** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](../ancestry/wode-elf.md) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
+**[Wode Elf](../ancestry/wode-elf.md):** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](../ancestry/wode-elf.md) have angular features and large, pointed ears akin to a bat's. They possess a [supernatural](../rule/general/supernatural.md) glamor that allows them to blend in with their surroundings when they wish to hide.
 
-**[High Elf](../ancestry/high-elf.md):** Stately and graceful, [high elves](../ancestry/high-elf.md) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](../ancestry/high-elf.md) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf's](../ancestry/high-elf.md) tone and smell.
+**[High Elf](../ancestry/high-elf.md):** Stately and graceful, [high elves](../ancestry/high-elf.md) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](../ancestry/high-elf.md) is hidden from most—sometimes even from themself—thanks to a [supernatural](../rule/general/supernatural.md) glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf's](../ancestry/high-elf.md) tone and smell.
 
 **[Hakaan](../ancestry/hakaan.md):** Descended from stone giants, the mighty [hakaan](../ancestry/hakaan.md) stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
 
-**[Human](../ancestry/human.md):** [Humans](../ancestry/human.md) are the most numerous people in [Orden](../rule/world/orden.md) and many other fantasy worlds! In *Draw Steel*, [humans](../ancestry/human.md) have all the diversity that our species displays in real life—and they can sense the presence of supernatural energy!
+**[Human](../ancestry/human.md):** [Humans](../ancestry/human.md) are the most numerous people in [Orden](../rule/world/orden.md) and many other fantasy worlds! In *Draw Steel*, [humans](../ancestry/human.md) have all the diversity that our species displays in real life—and they can sense the presence of [supernatural](../rule/general/supernatural.md) energy!
 
 **[Memonek](../ancestry/memonek.md):** Originating on Axiom, the Plane of Uttermost Law, [memonek](../ancestry/memonek.md) are a machine people made of metal, marble, glass, and other inorganic materials. Their bodies are lightweight, making them easier to move and letting them fall at slower [speeds](../rule/character/speed.md).
 
-**[Orc](../ancestry/orc.md):** [Orcs](../ancestry/orc.md) have skin in green tones and stand slightly taller and wider than [humans](../ancestry/human.md). A supernatural energy they call "the blood fire" flows through their veins, igniting colorful lines in an [orc's](../ancestry/orc.md) skin during life-or-death battles.
+**[Orc](../ancestry/orc.md):** [Orcs](../ancestry/orc.md) have skin in green tones and stand slightly taller and wider than [humans](../ancestry/human.md). A [supernatural](../rule/general/supernatural.md) energy they call "the blood fire" flows through their veins, igniting colorful lines in an [orc's](../ancestry/orc.md) skin during life-or-death battles.
 
 **[Polder](../ancestry/polder.md):** The smallest of the ancestries in this book, [polders](../ancestry/polder.md) stand no taller than 3-1/2 feet. They look like smaller [humans](../ancestry/human.md), and they have the ability to blend in with the shadows.
 
@@ -50,7 +50,7 @@ This chapter details twelve ancestries for the game:
 >
 > Languages: Chapter 4: [Background](background.md)
 >
-> Abilities, conditions, [potencies](../rule/character/potency.md), [saving throws](../rule/general/saving-throw.md), [surges](../rule/resource/surge.md): Chapter 5: [Classes](classes.md)
+> Abilities, [conditions](../rule/combat/condition.md), [potencies](../rule/character/potency.md), [saving throws](../rule/general/saving-throw.md), [surges](../rule/resource/surge.md): Chapter 5: [Classes](classes.md)
 >
 > Skills, [tests](../rule/test/test.md): Chapter 9: [Tests](tests.md)
 >
@@ -104,7 +104,7 @@ If that's not enough, folks use another identifier known as a byname. If there w
 
 If you leave your village regularly, say to trade with others in a distant market, then your byname might be the place you're from. Alan from the village in the dale, might become known as Alan from the Dale, or even Alan-a-Dale. But everyone back home just calls you Alan.
 
-A byname might refer to your profession. Clyde the Cartwright is a perfectly normal byname. But no one you met would assume "Cartwright" was your 'family name.' People who live permanently in a very large city like Capital use family names, because almost no first name is sufficiently unique to identify you, and "Marissa the Cartwright's Daughter" quickly evolves into Marissa Cartwright.
+A byname might refer to your profession. Clyde the Cartwright is a perfectly normal byname. But no one you met would assume "Cartwright" was your 'family name.' People who live permanently in a very large city like [Capital](../rule/world/capital.md) use family names, because almost no first name is sufficiently unique to identify you, and "Marissa the Cartwright's Daughter" quickly evolves into Marissa Cartwright.
 
 Most nobles in [Orden](../rule/world/orden.md) also use the name of the area they rule as part of their name. When someone refers to Lord Edmund Bedegar everyone listening silently, without thinking about it, adds "of" between the name and the place. Edmund is both Edmund, and the Lord of Bedegar, and Edmund, Lord of Bedegar, and therefore sometimes Lord Edmund Bedegar. Even though "Bedegar" looks like a "last name" to us, and is being used in that manner sometimes, it's not exactly his last name. It's still just another kind of byname.
 

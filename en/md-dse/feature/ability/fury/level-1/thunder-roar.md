@@ -14,7 +14,7 @@ item_id: thunder-roar
 item_name: Thunder Roar
 keywords:
     - Area
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 level: "1"
 name: Thunder Roar
@@ -33,7 +33,7 @@ feature_type: ability
 flavor: You unleash a howl that hurls your enemies back.
 keywords:
     - Area
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Main action
@@ -44,7 +44,7 @@ metadata:
     flavor: You unleash a howl that hurls your enemies back.
     keywords:
         - Area
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: "1"
     name: Thunder Roar

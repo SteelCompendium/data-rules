@@ -5,7 +5,7 @@ cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
 distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
-effect: Each ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can't obtain lower than a tier 2 outcome on the next [test](scc:mcdm.heroes.v1/rule.test/test) they make before the start of your next turn.
+effect: Each ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can't obtain lower than a tier 2 outcome on the next [test](scc:mcdm.heroes.v1/rule.test/test) they make before the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 file_basename: the-show-must-go-on
 file_dpath: feature/ability/troubadour/level-8
@@ -15,7 +15,7 @@ item_name: The Show Must Go On
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "8"
 name: The Show Must Go On
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on
@@ -28,24 +28,24 @@ type: ability
 cost: 11 Drama
 distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
-    - effect: Each ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can't obtain lower than a tier 2 outcome on the next [test](scc:mcdm.heroes.v1/rule.test/test) they make before the start of your next turn.
+    - effect: Each ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can't obtain lower than a tier 2 outcome on the next [test](scc:mcdm.heroes.v1/rule.test/test) they make before the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 flavor: You shine a bright light on the players on the stage and compel them to finish the performance.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: troubadour
     cost: 11 Drama
     distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
-    effect: Each ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can't obtain lower than a tier 2 outcome on the next [test](scc:mcdm.heroes.v1/rule.test/test) they make before the start of your next turn.
+    effect: Each ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can't obtain lower than a tier 2 outcome on the next [test](scc:mcdm.heroes.v1/rule.test/test) they make before the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
     flavor: You shine a bright light on the players on the stage and compel them to finish the performance.
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "8"
     name: The Show Must Go On
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on

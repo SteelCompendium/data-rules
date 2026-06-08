@@ -17,16 +17,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../../movement/forced-movement.md) adjacent to you or damages you, you can take the [Disengage](../../common/move-actions/disengage.md) move action as a free [triggered action](../../../rule/combat/triggered-action.md).
+**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../../movement/forced-movement.md) [adjacent](../../../rule/combat/adjacent.md) to you or damages you, you can take the [Disengage](../../common/move-actions/disengage.md) move action as a free [triggered action](../../../rule/combat/triggered-action.md).
 
 ## Misdirecting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike"}
 
 
 *"Why are you looking at ME?!"*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -34,16 +34,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 13 + A damage
 - **17+:** 18 + A damage
 
-**Effect:** The target is [taunted](../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
+**Effect:** The target is [taunted](../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next [turn](../../../rule/combat/turn.md).
 
 ## Pinning Shot {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot"}
 
 
 *One missile—placed well and placed hard.*
 
-| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -56,9 +56,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *There's no recovering from this.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 

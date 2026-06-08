@@ -2,12 +2,12 @@
 action_type: Main action
 class: fury
 cost: 11 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any [damage immunity](../../../../rule/damage/damage-immunity.md) to the chosen type and gains weakness 10 to the chosen type (save ends).
 flavor: You attune the target to be weaker to a specific element.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -20,9 +20,9 @@ type: ability
 
 *You attune the target to be weaker to a specific element.*
 
-| **Magic, Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

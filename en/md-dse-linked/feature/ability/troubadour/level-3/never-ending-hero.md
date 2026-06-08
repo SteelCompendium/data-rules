@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
+effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 file_basename: never-ending-hero
 file_dpath: feature/ability/troubadour/level-3
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effects:
-    - effect: While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
+    - effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 flavor: And toniiight we can truly say ♪ They will alllways find a way!♪
 keywords:
@@ -35,7 +35,7 @@ metadata:
     action_type: No action
     class: troubadour
     distance: 5 [aura](../../../../rule/combat/aura.md)
-    effect: While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
+    effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their [turn](../../../../rule/combat/turn.md).
     flavor: And toniiight we can truly say ♪ They will alllways find a way!♪
     keywords:
         - Area

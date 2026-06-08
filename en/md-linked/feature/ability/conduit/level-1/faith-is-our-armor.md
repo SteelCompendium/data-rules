@@ -2,12 +2,12 @@
 action_type: Maneuver
 class: conduit
 cost: 5 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You can target yourself instead of one ally with this ability.
 flavor: The heroes' armor glows with golden light, granting divine protection.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Faith Is Our Armor
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor
@@ -18,9 +18,9 @@ type: ability
 
 *The heroes' armor glows with golden light, granting divine protection.*
 
-| **Magic, Ranged**        |       **Maneuver** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md)**        |       **Maneuver** |
 |--------------------------|-------------------:|
-| **📏 Ranged 10**         | **🎯 Four allies** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Four allies** |
 
 **Effect:** You can target yourself instead of one ally with this ability.
 

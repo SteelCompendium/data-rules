@@ -11,7 +11,7 @@ You are granted one perk from your career and can choose other perks from your c
 
 ### Perk Types
 
-Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see Skills in Chapter 9: [Tests](tests.md)), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to supernatural power.
+Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see Skills in Chapter 9: [Tests](tests.md)), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to [supernatural](../rule/general/supernatural.md) power.
 
 **Crafting perks** improve your talent for crafting materials, and let you become an expert in the things you create.
 
@@ -23,7 +23,7 @@ Six types of perks are available to your character. Five of those types reflect 
 
 **Lore perks** improve your mastery of memory, language, and knowledge across a range of topics.
 
-**Supernatural perks** let you use magic and psionics to influence the world around you.
+**[Supernatural](../rule/general/supernatural.md) perks** let you use magic and psionics to influence the world around you.
 
 Whenever a feature allows you to gain a perk, that feature tells you which type of perk to choose.
 
@@ -41,7 +41,7 @@ Whenever you make a [test](../rule/test/test.md) as part of a crafting or [resea
 
 #### Handy {data-scc="mcdm.heroes.v1/perk/handy"}
 
-Whenever you make a [test](../rule/test/test.md) to craft something and don't have a skill that applies to the [test](../rule/test/test.md), you gain a +1 bonus to the [power roll](../rule/dice/power-roll.md).
+Whenever you make a [test](../rule/test/test.md) to craft something and don't have a skill that applies to the [test](../rule/test/test.md), you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [power roll](../rule/dice/power-roll.md).
 
 #### Improvisation Creation {data-scc="mcdm.heroes.v1/perk/improvisation-creation"}
 
@@ -57,7 +57,7 @@ On any day when you don't take a [respite](../rule/resource/respite.md), you can
 
 > **Perks and [Tests](../rule/test/test.md)**
 >
-> The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a [test](../rule/test/test.md). Perks are special because they allow a hero to attempt a specific task without a [test](../rule/test/test.md), and often give a better result than a successful [test](../rule/test/test.md)—or even a [test](../rule/test/test.md) with a reward would give.
+> The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from [supernatural](../rule/general/supernatural.md) perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a [test](../rule/test/test.md). Perks are special because they allow a hero to attempt a specific task without a [test](../rule/test/test.md), and often give a better result than a successful [test](../rule/test/test.md)—or even a [test](../rule/test/test.md) with a reward would give.
 >
 > For example, can a hero catch a falling ally if they don't have the I've Got You perk? A Director can absolutely allow it, but might decide that the hero needs to succeed on a [Might](../rule/character/might.md) [test](../rule/test/test.md) to accomplish the task, using a main action or maneuver to prepare for it. Being able to catch an ally automatically as a free [triggered action](../rule/combat/triggered-action.md) is what the perk gets you!
 
@@ -79,11 +79,11 @@ Whenever you are in a natural environment (but not in a settlement in that envir
 
 #### Friend Catapult {data-scc="mcdm.heroes.v1/perk/friend-catapult"}
 
-As a maneuver, you grab a willing adjacent ally or object of your [size](../rule/character/size.md) or smaller, then vertical push that target up to a number of squares equal to twice your [Might](../rule/character/might.md) score. If a creature you push falls as a result of this movement, the effective [distance](../rule/combat/distance.md) of the fall is reduced by a number of squares equal to twice your [Might](../rule/character/might.md) score. When you use this perk, you can't use it again until you earn 1 or more [Victories](../rule/resource/victories.md).
+As a maneuver, you grab a willing [adjacent](../rule/combat/adjacent.md) ally or object of your [size](../rule/character/size.md) or smaller, then vertical push that target up to a number of squares equal to twice your [Might](../rule/character/might.md) score. If a creature you push falls as a result of this movement, the effective [distance](../rule/combat/distance.md) of the fall is reduced by a number of squares equal to twice your [Might](../rule/character/might.md) score. When you use this perk, you can't use it again until you earn 1 or more [Victories](../rule/resource/victories.md).
 
 #### I've Got You! {data-scc="mcdm.heroes.v1/perk/ive-got-you"}
 
-Whenever a willing ally falls and would land on you or adjacent to you, you can safely catch them as a free [triggered action](../rule/combat/triggered-action.md). Neither of you takes damage from the ally's fall.
+Whenever a willing ally falls and would land on you or [adjacent](../rule/combat/adjacent.md) to you, you can safely catch them as a free [triggered action](../rule/combat/triggered-action.md). Neither of you takes damage from the ally's fall.
 
 #### Monster Whisperer {data-scc="mcdm.heroes.v1/perk/monster-whisperer"}
 
@@ -91,7 +91,7 @@ You can use the Handle Animals skill to interact with nonsapient creatures who a
 
 #### Put Your Back Into It! {data-scc="mcdm.heroes.v1/perk/put-your-back-into-it"}
 
-During [montage tests](../rule/test/montage-test.md), whenever you make a [test](../rule/test/test.md) to assist a [test](../rule/test/test.md) and obtain a tier 1 outcome, the assisted [test](../rule/test/test.md) doesn't take a [bane](../rule/dice/bane.md). Additionally, once per [montage test](../rule/test/montage-test.md), you can turn an ally's tier 1 [test](../rule/test/test.md) outcome into a tier 2 outcome.
+During [montage tests](../rule/test/montage-test.md), whenever you make a [test](../rule/test/test.md) to assist a [test](../rule/test/test.md) and obtain a tier 1 outcome, the assisted [test](../rule/test/test.md) doesn't take a [bane](../rule/dice/bane.md). Additionally, once per [montage test](../rule/test/montage-test.md), you can [turn](../rule/combat/turn.md) an ally's tier 1 [test](../rule/test/test.md) outcome into a tier 2 outcome.
 
 #### Team Leader {data-scc="mcdm.heroes.v1/perk/team-leader"}
 
@@ -99,7 +99,7 @@ At the start of a [group test](../rule/test/group-test.md) or [montage test](../
 
 #### Teamwork {data-scc="mcdm.heroes.v1/perk/teamwork"}
 
-When you take your first turn during any [montage test](../rule/test/montage-test.md), you can both make a [test](../rule/test/test.md) and assist another hero's [test](../rule/test/test.md).
+When you take your first [turn](../rule/combat/turn.md) during any [montage test](../rule/test/montage-test.md), you can both make a [test](../rule/test/test.md) and assist another hero's [test](../rule/test/test.md).
 
 #### Wood Wise {data-scc="mcdm.heroes.v1/perk/wood-wise"}
 
@@ -131,7 +131,7 @@ In response to another creature communicating information to you, you can spend 
 
 #### Open Book {data-scc="mcdm.heroes.v1/perk/open-book"}
 
-Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in turn, which you must answer honestly.
+Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in [turn](../rule/combat/turn.md), which you must answer honestly.
 
 #### Pardon My Friend {data-scc="mcdm.heroes.v1/perk/pardon-my-friend"}
 
@@ -163,7 +163,7 @@ If you spend 10 minutes or less interacting with a creature who hasn't met you b
 
 #### Gum Up the Works {data-scc="mcdm.heroes.v1/perk/gum-up-the-works"}
 
-Whenever a mundane trap activates within 3 squares, you can use a [triggered action](../rule/combat/triggered-action.md) to move up to 3 squares toward it. If this movement brings you adjacent to any of the trap's mechanisms, you can jam the trap, preventing it from activating. As long as you stay adjacent to the mechanism, the trap can't go off unless an attempt to disarm it fails.
+Whenever a mundane trap activates within 3 squares, you can use a [triggered action](../rule/combat/triggered-action.md) to move up to 3 squares toward it. If this movement brings you [adjacent](../rule/combat/adjacent.md) to any of the trap's mechanisms, you can jam the trap, preventing it from activating. As long as you stay [adjacent](../rule/combat/adjacent.md) to the mechanism, the trap can't go off unless an attempt to disarm it fails.
 
 #### Lucky Dog {data-scc="mcdm.heroes.v1/perk/lucky-dog"}
 
@@ -209,7 +209,7 @@ You automatically learn two new languages, as long as you have regularly heard t
 
 #### Polymath {data-scc="mcdm.heroes.v1/perk/polymath"}
 
-Whenever you make a [test](../rule/test/test.md) to recall lore and don't have a skill that applies to the [test](../rule/test/test.md), you gain a +1 bonus to the [power roll](../rule/dice/power-roll.md).
+Whenever you make a [test](../rule/test/test.md) to recall lore and don't have a skill that applies to the [test](../rule/test/test.md), you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [power roll](../rule/dice/power-roll.md).
 
 #### Specialist {data-scc="mcdm.heroes.v1/perk/specialist"}
 
@@ -221,7 +221,7 @@ On any day when you don't take a [respite](../rule/resource/respite.md), you can
 
 ### Supernatural Perks
 
-This section presents supernatural perks in alphabetical order.
+This section presents [supernatural](../rule/general/supernatural.md) perks in alphabetical order.
 
 #### Arcane Trick {data-scc="mcdm.heroes.v1/perk/arcane-trick"}
 
@@ -238,11 +238,11 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You [teleport](../movement/teleport.md) a [size](../rule/character/size.md) 1S or smaller object adjacent to you into an unoccupied space adjacent to you.
-> - Until the start of your next turn, a part of your body shoots a shower of harmless noisy sparks that light up each square adjacent to you.
-> - You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
+> - You [teleport](../movement/teleport.md) a [size](../rule/character/size.md) 1S or smaller object [adjacent](../rule/combat/adjacent.md) to you into an unoccupied space [adjacent](../rule/combat/adjacent.md) to you.
+> - Until the start of your next [turn](../rule/combat/turn.md), a part of your body shoots a shower of harmless noisy sparks that light up each square [adjacent](../rule/combat/adjacent.md) to you.
+> - You ignite or snuff out (your choice) every mundane light source of 1L or smaller [adjacent](../rule/combat/adjacent.md) to you.
 > - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
-> - Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
+> - Until the start of your next [turn](../rule/combat/turn.md), you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any [condition](../rule/combat/condition.md) or other drawback on those creatures.
 > - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](../perk/arcane-trick.md).
 > - You touch a [size](../rule/character/size.md) 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
@@ -252,13 +252,13 @@ As a maneuver, choose a creature within 10 squares. If that creature is your lev
 
 #### Familiar {data-scc="mcdm.heroes.v1/perk/familiar"}
 
-A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](../perk/familiar.md)—or to adopt you as their [familiar](../perk/familiar.md).
+A [supernatural](../rule/general/supernatural.md) spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](../perk/familiar.md)—or to adopt you as their [familiar](../perk/familiar.md).
 
 The spirit uses the [familiar](../perk/familiar.md) stat block.
 
 The [familiar](../perk/familiar.md) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your [familiar](../perk/familiar.md) is destroyed, you can restore them as a [respite](../rule/resource/respite.md) activity, or by spending a [Recovery](../rule/health/recoveries.md) as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](../perk/familiar.md) is destroyed, you can restore them as a [respite](../rule/resource/respite.md) activity, or by spending a [Recovery](../rule/health/recoveries.md) as a main action to bring them back into existence in an unoccupied space [adjacent](../rule/combat/adjacent.md) to you.
 
 ###### Familiar Statblock
 
@@ -283,11 +283,11 @@ You have the following ability.
 >
 > *You manipulate a tiny object with your mind.*
 >
-> | **Psionic, Ranged** |              **Maneuver** |
+> | **Psionic, [Ranged](../rule/combat/ranged.md)** |              **Maneuver** |
 > |---------------------|--------------------------:|
-> | **📏 Ranged 10**    | **🎯 One [size](../rule/character/size.md) 1T object** |
+> | **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One [size](../rule/character/size.md) 1T object** |
 >
-> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and [size](../rule/character/size.md) 1T. You can't use this ability to break a smaller piece off a larger object.
+> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice). You can use this ability to [turn](../rule/combat/turn.md) doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and [size](../rule/character/size.md) 1T. You can't use this ability to break a smaller piece off a larger object.
 
 #### Psychic Whisper {data-scc="mcdm.heroes.v1/perk/psychic-whisper"}
 
@@ -298,9 +298,9 @@ You have the following ability.
 >
 > *You send a one-way telepathic message to a friend.*
 >
-> | **Psionic, Ranged** |    **Maneuver** |
+> | **Psionic, [Ranged](../rule/combat/ranged.md)** |    **Maneuver** |
 > |---------------------|----------------:|
-> | **📏 Ranged 10**    | **🎯 One ally** |
+> | **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One ally** |
 >
 > **Effect:** As long as the target understands one or more languages, you send a telepathic message to them that takes 10 seconds or less to speak. The target knows who the message is from and can decide to ignore it and subsequent messages.
 

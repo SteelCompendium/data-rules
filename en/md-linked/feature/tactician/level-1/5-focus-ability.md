@@ -13,9 +13,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *"Let's not argue about who's the hammer and who's the anvil!"*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -30,9 +30,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **Effect:** You mark the target.
 
@@ -42,16 +42,16 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 6 + M damage; R < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
 - **17+:** 10 + M damage; R < STRONG, [weakened](../../../condition/weakened.md) (save ends)
 
-**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a [Recovery](../../../rule/health/recoveries.md).
+**Effect:** Before the start of your next [turn](../../../rule/combat/turn.md), the first time any ally deals damage to any target marked by you, that ally can spend a [Recovery](../../../rule/health/recoveries.md).
 
 ## Now! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/now"}
 
 
 *Your allies wait for your command—then unleash death!*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |
 
 **Effect:** Each target can make a [free strike](../../common/main-actions/free-strike.md).
 
@@ -60,8 +60,8 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *All those coordination drills you made them do finally pay off.*
 
-| **Ranged**       |      **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |      **Maneuver** |
 |------------------|------------------:|
-| **📏 Ranged 10** | **🎯 Two allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Two allies** |
 
-**Effect:** Each target who hasn't acted yet this combat round can take their turn in any order immediately after yours.
+**Effect:** Each target who hasn't acted yet this [combat round](../../../rule/combat/combat-round.md) can take their [turn](../../../rule/combat/turn.md) in any order immediately after yours.

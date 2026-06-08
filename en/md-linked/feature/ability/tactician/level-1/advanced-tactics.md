@@ -1,11 +1,11 @@
 ---
 action_type: Triggered
 class: tactician
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target gains 2 [surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.
 flavor: Your leadership aids an ally.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Advanced Tactics
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics
@@ -19,9 +19,9 @@ type: ability
 
 *Your leadership aids an ally.*
 
-| **Ranged**       |   **Triggered** |
+| **[Ranged](../../../../rule/combat/ranged.md)**       |   **Triggered** |
 |------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One ally** |
 
 **Trigger:** The target deals damage to another creature.
 

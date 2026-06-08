@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 1
-effect: You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object adjacent to you.
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+effect: You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.
 feature_type: ability
 file_basename: faster-than-the-eye
 file_dpath: feature/ability/null/level-1
@@ -10,7 +10,7 @@ flavor: You strike so quickly that your hands become a blur.
 item_id: faster-than-the-eye
 item_name: Faster Than the Eye
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -24,24 +24,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object adjacent to you.
+    - effect: You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.
 feature_type: ability
 flavor: You strike so quickly that your hands become a blur.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: "null"
-    distance: Melee 1
-    effect: You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object adjacent to you.
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.
     flavor: You strike so quickly that your hands become a blur.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon

@@ -13,7 +13,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Everyone and everything gets blown away in an eruption of rocks and debris.*
 
-| **Area, Earth, Magic, Ranged** |                          **Main action** |
+| **Area, Earth, Magic, [Ranged](../../../rule/combat/ranged.md)** |                          **Main action** |
 |--------------------------------|-----------------------------------------:|
 | **📏 5 [cube](../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy and object in the area** |
 
@@ -23,20 +23,20 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your [turn](../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 ## The Green Defends Its Servants {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants"}
 
 
 *A luminous green shield shows its true beauty the more it cracks.*
 
-| **Green, Magic, Ranged** |            **Maneuver** |
+| **Green, Magic, [Ranged](../../../rule/combat/ranged.md)** |            **Maneuver** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
-**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../../common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 [temporary Stamina](../../../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../../../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+**Effect:** You conjure an elemental shield that protects the target until the end of your next [turn](../../../rule/combat/turn.md). While the shield is active, the target can take the [Defend](../../common/main-actions/defend.md) main action as a maneuver on each of their [turns](../../../rule/combat/turn.md). The target gains 30 [temporary Stamina](../../../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../../../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 
-**Persistent 2:** The effect lasts until the start of your next turn.
+**Persistent 2:** The effect lasts until the start of your next [turn](../../../rule/combat/turn.md).
 
 ## Prism {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-9/prism"}
 
@@ -54,9 +54,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You let fly a fiery missile braided with pure primal energy.*
 
-| **Fire, Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |            **Main action** |
+| **Fire, Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |            **Main action** |
 |---------------------------------|---------------------------:|
-| **📏 Ranged 10**                | **🎯 One enemy or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                | **🎯 One enemy or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 

@@ -5,7 +5,7 @@ cost: 9 Essence
 cost_amount: "9"
 cost_resource: Essence
 distance: 4 [cube](../../../../rule/combat/cube.md) within 10
-effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../condition/restrained.md) (save ends).
+effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next [turn](../../../../rule/combat/turn.md). Each enemy who ends their [turn](../../../../rule/combat/turn.md) in the area is [restrained](../../../../condition/restrained.md) (save ends).
 feature_type: ability
 file_basename: web-of-all-thats-come-before
 file_dpath: feature/ability/elementalist/level-5
@@ -16,7 +16,7 @@ keywords:
     - Area
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Web of All That's Come Before
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before
@@ -29,26 +29,26 @@ type: ability
 cost: 9 Essence
 distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effects:
-    - effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../condition/restrained.md) (save ends).
+    - effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next [turn](../../../../rule/combat/turn.md). Each enemy who ends their [turn](../../../../rule/combat/turn.md) in the area is [restrained](../../../../condition/restrained.md) (save ends).
 feature_type: ability
 flavor: Threads you've been weaving through your adventures create a vibrant, pearlescent web.
 keywords:
     - Area
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: elementalist
     cost: 9 Essence
     distance: 4 [cube](../../../../rule/combat/cube.md) within 10
-    effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../condition/restrained.md) (save ends).
+    effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next [turn](../../../../rule/combat/turn.md). Each enemy who ends their [turn](../../../../rule/combat/turn.md) in the area is [restrained](../../../../condition/restrained.md) (save ends).
     flavor: Threads you've been weaving through your adventures create a vibrant, pearlescent web.
     keywords:
         - Area
         - Green
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "5"
     name: Web of All That's Come Before
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before

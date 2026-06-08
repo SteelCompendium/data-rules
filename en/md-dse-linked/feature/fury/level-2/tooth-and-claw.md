@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: At the end of each of your turns, each enemy adjacent to you takes damage equal to your [Might](../../../rule/character/might.md) score.
+    - effect: At the end of each of your [turns](../../../rule/combat/turn.md), each enemy [adjacent](../../../rule/combat/adjacent.md) to you takes damage equal to your [Might](../../../rule/character/might.md) score.
 feature_type: feature
 metadata:
     class: fury

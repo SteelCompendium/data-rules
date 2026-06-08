@@ -1,7 +1,7 @@
 ---
 action_type: Triggered
 class: elementalist
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target takes half the damage.
 feature_type: ability
 file_basename: skin-like-castle-walls
@@ -12,7 +12,7 @@ item_name: Skin Like Castle Walls
 keywords:
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Skin Like Castle Walls
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls
@@ -25,7 +25,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The target takes half the damage.
     - effect: '1 Essence: If the damage has any [potency](../../../../rule/character/potency.md) effects associated with it, the [potency](../../../../rule/character/potency.md) is reduced by 1 for the target.'
@@ -35,17 +35,17 @@ flavor: You cover yourself or an ally in protective stone.
 keywords:
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Triggered
     class: elementalist
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: The target takes half the damage.
     flavor: You cover yourself or an ally in protective stone.
     keywords:
         - Earth
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Skin Like Castle Walls
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls

@@ -27,7 +27,7 @@ type: ability
 cost: 5 Clarity
 distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*Everyone get away from me!*\n\n| **Area, Psionic, Telekinesis** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](../../../../rule/combat/burst.md)**                 | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 3 damage; vertical push 2\n- **12-16:** 6 damage; vertical push 4\n- **17+:** 9 damage; vertical push 6\n\n**Strained:** The size of the [burst](../../../../rule/combat/burst.md) increases by 1, and you are [weakened](../../../../condition/weakened.md) until the end of your turn."
+    - effect: "\n*Everyone get away from me!*\n\n| **Area, Psionic, Telekinesis** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](../../../../rule/combat/burst.md)**                 | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 3 damage; vertical push 2\n- **12-16:** 6 damage; vertical push 4\n- **17+:** 9 damage; vertical push 6\n\n**Strained:** The size of the [burst](../../../../rule/combat/burst.md) increases by 1, and you are [weakened](../../../../condition/weakened.md) until the end of your [turn](../../../../rule/combat/turn.md)."
 feature_type: ability
 flavor: Everyone get away from me!
 keywords:

@@ -4,8 +4,8 @@ class: "null"
 cost: 11 Discipline
 cost_amount: "11"
 cost_resource: Discipline
-distance: Melee 1
-effect: While suppressed, a target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+effect: While suppressed, a target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of their [turns](scc:mcdm.heroes.v1/rule.combat/turn), whenever they use a [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) ability, or whenever they use an ability that costs Malice.
 feature_type: ability
 file_basename: arcane-purge
 file_dpath: feature/ability/null/level-8
@@ -13,7 +13,7 @@ flavor: You focus your [null field](scc:mcdm.heroes.v1/feature.null.level-1/null
 item_id: arcane-purge
 item_name: Arcane Purge
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -27,13 +27,13 @@ type: ability
 
 ```ds-feature
 cost: 11 Discipline
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: While suppressed, a target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+    - effect: While suppressed, a target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of their [turns](scc:mcdm.heroes.v1/rule.combat/turn), whenever they use a [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) ability, or whenever they use an ability that costs Malice.
 feature_type: ability
 flavor: You focus your [null field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) into a pressure point strike that prevents your foe from channeling sorcery.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -41,11 +41,11 @@ metadata:
     action_type: Main action
     class: "null"
     cost: 11 Discipline
-    distance: Melee 1
-    effect: While suppressed, a target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: While suppressed, a target takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of their [turns](scc:mcdm.heroes.v1/rule.combat/turn), whenever they use a [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) ability, or whenever they use an ability that costs Malice.
     flavor: You focus your [null field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) into a pressure point strike that prevents your foe from channeling sorcery.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon

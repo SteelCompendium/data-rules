@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The first time you take damage each combat round, you gain 2 ferocity instead of 1.
+    - effect: The first time you take damage each [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round), you gain 2 ferocity instead of 1.
 feature_type: feature
 metadata:
     class: fury

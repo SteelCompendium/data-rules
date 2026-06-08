@@ -4,8 +4,8 @@ class: elementalist
 cost: 5 Essence
 cost_amount: "5"
 cost_resource: Essence
-distance: Ranged 10
-effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy adjacent to the target's new space.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target's new space.
 feature_type: ability
 file_basename: translated-through-flame
 file_dpath: feature/ability/elementalist/level-2
@@ -15,7 +15,7 @@ item_name: Translated Through Flame
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Void
 level: "2"
 name: Translated Through Flame
@@ -27,27 +27,27 @@ type: ability
 
 ```ds-feature
 cost: 5 Essence
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy adjacent to the target's new space.
+    - effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target's new space.
 feature_type: ability
 flavor: Your ally disappears, then reappears in a burst of fire.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Void
 metadata:
     action_type: Main action
     class: elementalist
     cost: 5 Essence
-    distance: Ranged 10
-    effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy adjacent to the target's new space.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target's new space.
     flavor: Your ally disappears, then reappears in a burst of fire.
     keywords:
         - Fire
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Void
     level: "2"
     name: Translated Through Flame

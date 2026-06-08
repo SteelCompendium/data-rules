@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: talent
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: You lift and hurl your foe away from you.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Telekinesis
 level: "1"
 name: Kinetic Grip
@@ -18,9 +18,9 @@ type: ability
 
 *You lift and hurl your foe away from you.*
 
-| **Psionic, Ranged, Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../../../../rule/combat/ranged.md), Telekinesis** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Ranged 10**                 | **🎯 One creature or object** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                 | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

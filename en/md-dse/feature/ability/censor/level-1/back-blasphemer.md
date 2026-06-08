@@ -11,7 +11,7 @@ item_name: Back Blasphemer!
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 level: "1"
 name: Back Blasphemer!
@@ -25,13 +25,13 @@ type: ability
 ```ds-feature
 distance: 2 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 1
 effects:
-    - effect: "\n*You channel power through your weapon to repel foes.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 2 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 1**         | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 2 holy damage; push 1\n- **12-16:** 4 holy damage; push 2\n- **17+:** 6 holy damage; push 3"
+    - effect: "\n*You channel power through your weapon to repel foes.*\n\n| **Area, Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 2 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 1**         | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 2 holy damage; push 1\n- **12-16:** 4 holy damage; push 2\n- **17+:** 6 holy damage; push 3"
 feature_type: ability
 flavor: You channel power through your weapon to repel foes.
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Main action
@@ -41,7 +41,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: "1"
     name: Back Blasphemer!

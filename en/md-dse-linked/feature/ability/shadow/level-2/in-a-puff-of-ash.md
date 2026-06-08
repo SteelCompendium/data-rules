@@ -4,7 +4,7 @@ class: shadow
 cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 feature_type: ability
 file_basename: in-a-puff-of-ash
 file_dpath: feature/ability/shadow/level-2
@@ -13,8 +13,8 @@ item_id: in-a-puff-of-ash
 item_name: In a Puff of Ash
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -27,27 +27,27 @@ type: ability
 
 ```ds-feature
 cost: 5 Insight
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "\n*You enchant a [strike](../../../../rule/combat/strike.md) with your [teleport](../../../../movement/teleport.md)ation magic.*\n\n| **Magic, Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|------------------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**               | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 6 + A damage; you can [teleport](../../../../movement/teleport.md) the target 1 square\n- **12-16:** 10 + A damage; you can [teleport](../../../../movement/teleport.md) the target up to 3 squares\n- **17+:** 14 + A damage; you can [teleport](../../../../movement/teleport.md) the target up to 5 squares"
+    - effect: "\n*You enchant a [strike](../../../../rule/combat/strike.md) with your [teleport](../../../../movement/teleport.md)ation magic.*\n\n| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|------------------------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**               | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 6 + A damage; you can [teleport](../../../../movement/teleport.md) the target 1 square\n- **12-16:** 10 + A damage; you can [teleport](../../../../movement/teleport.md) the target up to 3 squares\n- **17+:** 14 + A damage; you can [teleport](../../../../movement/teleport.md) the target up to 5 squares"
 feature_type: ability
 flavor: You enchant a [strike](../../../../rule/combat/strike.md) with your [teleport](../../../../movement/teleport.md)ation magic.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 5 Insight
-    distance: Melee 1 or ranged 5
+    distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
     flavor: You enchant a [strike](../../../../rule/combat/strike.md) with your [teleport](../../../../movement/teleport.md)ation magic.
     keywords:
         - Magic
-        - Melee
-        - Ranged
+        - '[Melee](../../../../rule/combat/melee.md)'
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "2"

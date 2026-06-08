@@ -1,6 +1,6 @@
 {
   "cost": "3 Essence",
-  "distance": "Ranged 10",
+  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
       "effect": ""
@@ -11,14 +11,14 @@
   "keywords": [
     "Fire",
     "Magic",
-    "Ranged",
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
     "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*Fire engulfs your target and continues to churn.*\n\n| **Fire, Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **📏 Ranged 10**                | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 5 + R fire damage\n- **12-16:** 8 + R fire damage\n- **17+:** 11 + R fire damage\n\n**Persistent 1:** If the target is within [distance](scc:mcdm.heroes.v1/rule.combat/distance) at the start of your turn, you can make the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) again without spending essence (no action required).",
-    "distance": "Ranged 10",
+    "content": "\n*Fire engulfs your target and continues to churn.*\n\n| **Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 5 + R fire damage\n- **12-16:** 8 + R fire damage\n- **17+:** 11 + R fire damage\n\n**Persistent 1:** If the target is within [distance](scc:mcdm.heroes.v1/rule.combat/distance) at the start of your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can make the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) again without spending essence (no action required).",
+    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "Fire engulfs your target and continues to churn.",
     "item_id": "the-flesh-a-crucible",
@@ -26,7 +26,7 @@
     "keywords": [
       "Fire",
       "Magic",
-      "Ranged",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 1,

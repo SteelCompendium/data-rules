@@ -13,8 +13,8 @@ You have the following ability.
 
 *A moment of focus leaves a foe firmly in your sights.*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 20** | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 20** | **🎯 One creature** |
 
 **Effect:** As long as you remain within [distance](../../../rule/combat/distance.md) of the target, maintain [line of effect](../../../rule/combat/line-of-effect.md) to them, and strike no other creature first, you gain an [edge](../../../rule/dice/edge.md) on the next strike you make against the assessed creature, and gain 1 [surge](../../../rule/resource/surge.md) you can use only on that [strike](../../../rule/combat/strike.md).

@@ -5,7 +5,7 @@ cost: 3 Drama
 cost_amount: "3"
 cost_resource: Drama
 distance: Self; see below
-effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed). You make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each enemy you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed). You make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each enemy you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
 feature_type: ability
 file_basename: upstage
 file_dpath: feature/ability/troubadour/level-1
@@ -13,7 +13,7 @@ flavor: As you bob and weave through the crowd, you can't help but leave the aud
 item_id: upstage
 item_name: Upstage
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
@@ -28,11 +28,11 @@ type: ability
 cost: 3 Drama
 distance: Self; see below
 effects:
-    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed). You make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each enemy you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed). You make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each enemy you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
 feature_type: ability
 flavor: As you bob and weave through the crowd, you can't help but leave the audience wanting more.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
@@ -40,10 +40,10 @@ metadata:
     class: troubadour
     cost: 3 Drama
     distance: Self; see below
-    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed). You make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each enemy you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed). You make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each enemy you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
     flavor: As you bob and weave through the crowd, you can't help but leave the audience wanting more.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"

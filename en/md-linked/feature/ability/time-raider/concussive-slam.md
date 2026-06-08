@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 ancestry: time-raider
-distance: Ranged 10
+distance: '[Ranged](../../../rule/combat/ranged.md) 10'
 flavor: You slam an invisible force down upon the target.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
 name: Concussive Slam
 scc: mcdm.heroes.v1/feature.ability.time-raider/concussive-slam
@@ -16,9 +16,9 @@ type: ability
 
 *You slam an invisible force down upon the target.*
 
-| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md)**  | Main action                   |
+| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
-| **📏 Ranged 10**             | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 

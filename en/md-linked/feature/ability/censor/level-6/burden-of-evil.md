@@ -2,11 +2,11 @@
 action_type: Maneuver
 class: censor
 cost: 9 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Burden of Evil
@@ -18,9 +18,9 @@ type: ability
 
 *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |         **Maneuver** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |         **Maneuver** |
 |---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

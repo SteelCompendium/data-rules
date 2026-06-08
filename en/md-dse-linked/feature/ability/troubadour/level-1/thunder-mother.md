@@ -1,8 +1,8 @@
 ---
 action_type: No action
 class: troubadour
-distance: Ranged 10
-effect: At the end of each combat round while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: At the end of each [combat round](../../../../rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
 feature_type: ability
 file_basename: thunder-mother
 file_dpath: feature/ability/troubadour/level-1
@@ -12,7 +12,7 @@ item_name: '"Thunder Mother"'
 keywords:
     - Magic
     - Performance
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: '"Thunder Mother"'
@@ -23,26 +23,26 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: At the end of each combat round while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
+    - effect: At the end of each [combat round](../../../../rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
 feature_type: ability
 flavor: All for thunder motherrr! ♪ Run and hide for coverrr!♪
 keywords:
     - Magic
     - Performance
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: No action
     class: troubadour
-    distance: Ranged 10
-    effect: At the end of each combat round while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+    effect: At the end of each [combat round](../../../../rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
     flavor: All for thunder motherrr! ♪ Run and hide for coverrr!♪
     keywords:
         - Magic
         - Performance
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: '"Thunder Mother"'

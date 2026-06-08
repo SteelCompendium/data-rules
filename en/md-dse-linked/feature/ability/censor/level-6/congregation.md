@@ -4,7 +4,7 @@ class: censor
 cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 [surges](../../../../rule/resource/surge.md) before making the [strike](../../../../rule/combat/strike.md).
 feature_type: ability
 file_basename: congregation
@@ -13,7 +13,7 @@ flavor: You focus your allies' wrath on a chosen foe.
 item_id: congregation
 item_name: Congregation
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 [surges](../../../../rule/resource/surge.md) before making the [strike](../../../../rule/combat/strike.md).
 feature_type: ability
 flavor: You focus your allies' wrath on a chosen foe.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
     cost: 9 Wrath
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 [surges](../../../../rule/resource/surge.md) before making the [strike](../../../../rule/combat/strike.md).
     flavor: You focus your allies' wrath on a chosen foe.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "6"

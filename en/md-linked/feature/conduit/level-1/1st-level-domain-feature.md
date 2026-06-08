@@ -73,7 +73,7 @@ You have the following ability.
 
 | **Magic**      |            **Maneuver**  |
 |----------------|-------------------------:|
-| **📏 Melee 1** | **🎯 One dead creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1** | **🎯 One dead creature** |
 
 **Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../../../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../../../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
@@ -94,7 +94,7 @@ You have the following ability.
 
 ## Inner Light {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inner-light"}
 
-Each time you finish a [respite](../../../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../../ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to [saving throws](../../../rule/general/saving-throw.md) that lasts until you finish another [respite](../../../rule/resource/respite.md).
+Each time you finish a [respite](../../../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../../ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../rule/general/saving-throw.md) that lasts until you finish another [respite](../../../rule/resource/respite.md).
 
 ## Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
@@ -110,8 +110,8 @@ You can spend 10 uninterrupted minutes to create a [protective circle](../../cen
 
 ## Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.conduit.level-1/revitalizing-ritual"}
 
-Each time you finish a [respite](../../../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a bonus to their [recovery value](../../../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../../../rule/resource/respite.md).
+Each time you finish a [respite](../../../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) to their [recovery value](../../../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../../../rule/resource/respite.md).
 
 ## Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.conduit.level-1/sanctified-weapon"}
 
-As a [respite](../../../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to [rolled damage](../../../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../../../rule/resource/respite.md).
+As a [respite](../../../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../../../rule/resource/respite.md).

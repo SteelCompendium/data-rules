@@ -4,7 +4,7 @@ class: talent
 cost: 3 Clarity
 cost_amount: "3"
 cost_resource: Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: 'Choose the [damage type](../../../../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.'
 feature_type: ability
 file_basename: smolder
@@ -15,7 +15,7 @@ item_name: Smolder
 keywords:
     - Psionic
     - Pyrokinesis
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Smolder
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 3 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: 'Choose the [damage type](../../../../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.'
 feature_type: ability
@@ -35,19 +35,19 @@ flavor: Smoke flows from your enemy like tears as their skin begins to blacken a
 keywords:
     - Psionic
     - Pyrokinesis
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: talent
     cost: 3 Clarity
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: 'Choose the [damage type](../../../../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.'
     flavor: Smoke flows from your enemy like tears as their skin begins to blacken and flake.
     keywords:
         - Psionic
         - Pyrokinesis
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Smolder

@@ -131,7 +131,7 @@ You want to be upfront about what kind of buy-in you need from the players. So i
 
 Visiting lots of different locations and cultures has to sound cool. You won't start in a town and eventually become the heroes of the barony, but will instead become legendary heroes across multiple realms. You'll constantly be leaving the people you've met behind, but you'll eventually have a base you return to after completing each quest. You'll have allies and enemies all across the world!
 
-The buy-in tells the players that their heroes are going to travel to far-flung locations, and that it might take them a while to find a home. If a player is looking for a different experience, such as a game that takes place entirely in the city of Capital, they now know that your game isn't for them!
+The buy-in tells the players that their heroes are going to travel to far-flung locations, and that it might take them a while to find a home. If a player is looking for a different experience, such as a game that takes place entirely in the city of [Capital](../rule/world/capital.md), they now know that your game isn't for them!
 
 #### Player Option Restrictions
 
@@ -159,9 +159,9 @@ If your players participate in other games of *Draw Steel*, it's a good idea to 
 
 ### House Rules
 
-You can always change the rules of the game to fit your campaign and taste! Maybe it better suits the pace of the campaign to have a [respite](../rule/resource/respite.md) last 8 hours, or perhaps a [respite](../rule/resource/respite.md) should take a week. You might prefer if [critical hits](../rule/combat/critical-hit.md) are super rare and happen only on a [natural 20](../rule/dice/natural-19-20.md). You could allow heroes to spend [hero tokens](../rule/resource/hero-token.md) to reduce the amount of Malice you have (see *Draw Steel: Monsters*). You might decide that all heroes have a free +1 bonus to any [characteristic](../rule/character/characteristic.md) of their choice at 1st level.
+You can always change the rules of the game to fit your campaign and taste! Maybe it better suits the pace of the campaign to have a [respite](../rule/resource/respite.md) last 8 hours, or perhaps a [respite](../rule/resource/respite.md) should take a week. You might prefer if [critical hits](../rule/combat/critical-hit.md) are super rare and happen only on a [natural 20](../rule/dice/natural-19-20.md). You could allow heroes to spend [hero tokens](../rule/resource/hero-token.md) to reduce the amount of Malice you have (see *Draw Steel: Monsters*). You might decide that all heroes have a free +1 [bonus](../rule/dice/bonuses-and-penalties.md) to any [characteristic](../rule/character/characteristic.md) of their choice at 1st level.
 
-The rules you create or modify to suit your group are called house rules. You can have as many house rules as you like, but you should discuss these rule changes with the players before implementing them. If you decide that [critical hits](../rule/combat/critical-hit.md) only occur on a [natural 20](../rule/dice/natural-19-20.md), the worst time for a player to find that out is right after they roll a [natural 19](../rule/dice/natural-19-20.md) in combat.
+The rules you create or modify to suit your group are called house rules. You can have as many house rules as you like, but you should discuss these rule changes with the players before [implement](../rule/treasure/implement.md)ing them. If you decide that [critical hits](../rule/combat/critical-hit.md) only occur on a [natural 20](../rule/dice/natural-19-20.md), the worst time for a player to find that out is right after they roll a [natural 19](../rule/dice/natural-19-20.md) in combat.
 
 Talk to the players about the house rules you want to use in your campaign, and discuss any ideas they bring to you for house rules during your first session.
 
@@ -175,7 +175,7 @@ If your campaign takes place in a published campaign setting, read the material 
 
 As you read, make notes on anything interesting in the setting that you might want to incorporate in your campaign, as well as anything you want to change.
 
-Your top priority should be the campaign's starting location. In which district of Capital do the players start their first adventure? Which world of the timescape will be the first the heroes visit? What settlement in [Vasloria](../rule/world/vasloria.md) holds their first adventure? Answer that question and get familiar with that place first. You'll have plenty of time to read further as you plan out your games.
+Your top priority should be the campaign's starting location. In which district of [Capital](../rule/world/capital.md) do the players start their first adventure? Which world of the timescape will be the first the heroes visit? What settlement in [Vasloria](../rule/world/vasloria.md) holds their first adventure? Answer that question and get familiar with that place first. You'll have plenty of time to read further as you plan out your games.
 
 #### Building Your Own Setting
 
@@ -183,7 +183,7 @@ If you plan on building your own campaign setting, the work of worldbuilding can
 
 ##### Start Small
 
-If you're planning on making your own campaign setting, start small. Instead of detailing every settlement on every continent on every planet in a universe, build a starting town or an initial district in a city, then work up the surrounding area in which the first adventure takes place. Use the following steps as a guide:
+If you're planning on making your own campaign setting, start small. Instead of detailing every settlement on every continent on every planet in a universe, build a starting town or an initial district in a city, then work up the surrounding area in which the first adventure takes place. Use the following steps as a [guide](../rule/downtime/guide.md):
 
 **Locations:** Make a list of any important locations in the campaign starting point, such as an inn or house where the heroes are staying, merchants they might want to visit, and the headquarters of organizations that might be important to them.
 
@@ -238,8 +238,8 @@ Your outline should include the plans of the villains in your campaign. Review [
 
 - **1st [Echelon](../rule/general/echelon.md):** The heroes protect the village of Gravesford in the Barony of Bedegar from the forces of Lord Saxton, an usurper and tyrant loyal to Ajax. Eventually, they must bring the fight to Lord Saxton's keep in Bedegar City.
 - **2nd [Echelon](../rule/general/echelon.md):** After toppling Saxton's keep, the heroes find a letter from Ajax detailing plans to amass powerful treasures from throughout [Vasloria](../rule/world/vasloria.md). The heroes can race to these locations to claim the treasures before Ajax's forces do.
-- **3rd [Echelon](../rule/general/echelon.md):** With some or all of the treasures secure, it's only a matter of time before Ajax's army seeks out the heroes. The characters can build a coalition of allies to face Ajax, but those allies first require help getting out from under the rule of the Iron Saint.
-- **4th [Echelon](../rule/general/echelon.md):** Ajax brings the fight to the heroes. If the Iron Saint loses, he retreats to his sanctum, where the heroes can follow if they dare.
+- **3rd [Echelon](../rule/general/echelon.md):** With some or all of the treasures secure, it's only a matter of time before Ajax's army seeks out the heroes. The characters can build a coalition of allies to face Ajax, but those allies first require help getting out from under the rule of the Iron [Saint](../rule/world/saint.md).
+- **4th [Echelon](../rule/general/echelon.md):** Ajax brings the fight to the heroes. If the Iron [Saint](../rule/world/saint.md) loses, he retreats to his sanctum, where the heroes can follow if they dare.
 
 #### Complications and Campaigns
 
@@ -270,7 +270,7 @@ Every good adventure includes villains, a task to accomplish, [NPCs](../rule/gen
 
 > **Player Ambition Writes Adventures**
 >
-> Players have ambition driven by their characters' complications, personal stories, and desires for titles, supernatural treasures, and other rewards. Indulge these desires! If a hero wants to go on a quest to gain a Blade of Quintessence, let them know where they can find one (after they put in the proper research or questing time, of course). You can then plan an adventure, even just a short one, around the weapon's retrieval!
+> Players have ambition driven by their characters' complications, personal stories, and desires for titles, [supernatural](../rule/general/supernatural.md) treasures, and other rewards. Indulge these desires! If a hero wants to go on a quest to gain a Blade of Quintessence, let them know where they can find one (after they put in the proper research or questing time, of course). You can then plan an adventure, even just a short one, around the weapon's retrieval!
 
 #### Villain
 
@@ -319,7 +319,7 @@ An adventure's goal doesn't always result in a total failure for the villain. So
 
 An adventure's goal isn't always clear to the players at the start, but the heroes should always have a good idea of how to keep pursuing the story. Gameplay and fun can grind to a halt if the players don't have any idea what their characters should do to further their goals.
 
-Every adventure should have an inciting incident that either sees the heroes discovering the adventure's goal, or that puts them on the path to discovering it. If the characters start an adventure by finding the freshly murdered body of a noble in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer—a solid, straightforward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy in which one of Capital's Great Houses is planning a coordinated and violent takeover of the city. The heroes must stop those plots—an adventure goal that might take them several scenes to fully uncover. But each of those scenes should lead directly to the next without leaving the players wondering, "What should we do?"
+Every adventure should have an inciting incident that either sees the heroes discovering the adventure's goal, or that puts them on the path to discovering it. If the characters start an adventure by finding the freshly murdered body of a noble in the streets of [Capital](../rule/world/capital.md), they're likely to look for clues that could lead them to catching a murderer—a solid, straightforward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy in which one of [Capital](../rule/world/capital.md)'s Great Houses is planning a coordinated and violent takeover of the city. The heroes must stop those plots—an adventure goal that might take them several scenes to fully uncover. But each of those scenes should lead directly to the next without leaving the players wondering, "What should we do?"
 
 > **Complications and Adventures**
 >
@@ -371,7 +371,7 @@ Make a list of the different locations the heroes might visit during the adventu
 
 A general location is a settlement or a defined wilderness region that the heroes visit during the adventure.
 
-If the adventure takes place in a giant, sprawling metropolis like Capital, then different city districts and large landmarks such as catacombs and parks count as general locations. If the adventure takes place in and around a regional area larger than a city but no bigger than a planet, then full settlements and biomes such as deserts and forests count as general locations. If the adventure takes place across the timescape (or in a similar milieu of many worlds), then a general location could be an entire world and any specific settlements or biomes the heroes visit in that world.
+If the adventure takes place in a giant, sprawling metropolis like [Capital](../rule/world/capital.md), then different city districts and large landmarks such as catacombs and parks count as general locations. If the adventure takes place in and around a regional area larger than a city but no bigger than a planet, then full settlements and biomes such as deserts and forests count as general locations. If the adventure takes place across the timescape (or in a similar milieu of many worlds), then a general location could be an entire world and any specific settlements or biomes the heroes visit in that world.
 
 You don't have to define everything about these general locations, because you'll develop more in-depth information about the specific sites the heroes might visit in any location later. You can use the following questions about each general location as a starting point for what you'll want to cover (and you might already have done some of this when creating a starting area during your campaign preparation):
 
@@ -441,7 +441,7 @@ When running exploration, your job is to set the scene, listen to the players de
 When preparing an exploration scene, you'll want to come up with answers to the following questions:
 
 - What information or objects do the heroes need to recover in this scene that will help them advance the story?
-- What bonus pieces of information and other rewards can they earn during this scene if they explore fully and successfully?
+- What [bonus](../rule/dice/bonuses-and-penalties.md) pieces of information and other rewards can they earn during this scene if they explore fully and successfully?
 
 Information or objects the heroes need to obtain from an exploration scene to advance the story should have some way of being found without a [test](../rule/test/test.md). Simply by entering a monarch's private chambers, the heroes learn that the king is dead and has been slain by a knife, because his body and the murder weapon are plainly visible. They should also automatically notice that the knife bears the crest of a noble house, providing an obvious path to continue the adventure. Other details in the room might help [speed](../rule/character/speed.md) along their investigation of who killed the king, but they can find the bare minimum of what they need to continue for free.
 
@@ -491,9 +491,9 @@ By contrast, sometimes a player will propose what they think is a plausible or c
 
 A hero always succeeds on an **easy [test](../rule/test/test.md)**. It's just a question of whether they might incur a consequence or earn a reward alongside success. For this reason, you should use easy [tests](../rule/test/test.md) sparingly in your adventures.
 
-A hero who has a modifier of +1 or more on a [test](../rule/test/test.md) will likely succeed on a **moderate [test](../rule/test/test.md)**. Success with a consequence is common for heroes if their bonus to the [test](../rule/test/test.md) is lower than +4, so they're succeeding at a cost. Odds are that most of the [tests](../rule/test/test.md) you'll call for in your games will be moderate [tests](../rule/test/test.md). They give most heroes a decent chance of success without it being a sure thing, and the story gets interesting whenever consequences are involved.
+A hero who has a modifier of +1 or more on a [test](../rule/test/test.md) will likely succeed on a **moderate [test](../rule/test/test.md)**. Success with a consequence is common for heroes if their [bonus](../rule/dice/bonuses-and-penalties.md) to the [test](../rule/test/test.md) is lower than +4, so they're succeeding at a cost. Odds are that most of the [tests](../rule/test/test.md) you'll call for in your games will be moderate [tests](../rule/test/test.md). They give most heroes a decent chance of success without it being a sure thing, and the story gets interesting whenever consequences are involved.
 
-**Hard [tests](../rule/test/test.md)** do exactly what it says on the tin. Success on a hard [test](../rule/test/test.md) requires a roll of 17 or higher, which means a hero has better than a 50 percent chance of success only if they have a +6 or higher bonus on the [test](../rule/test/test.md). At 1st level, that means a character using their highest [characteristic](../rule/character/characteristic.md), using a skill, and having an [edge](../rule/dice/edge.md) on the [test](../rule/test/test.md). Failure on a hard [test](../rule/test/test.md) often means consequences beyond failing, making hard [tests](../rule/test/test.md) really risky! You likely find that hard [tests](../rule/test/test.md) aren't as common as moderate [tests](../rule/test/test.md) in your game, but they're used more than easy [tests](../rule/test/test.md).
+**Hard [tests](../rule/test/test.md)** do exactly what it says on the tin. Success on a hard [test](../rule/test/test.md) requires a roll of 17 or higher, which means a hero has better than a 50 percent chance of success only if they have a +6 or higher [bonus](../rule/dice/bonuses-and-penalties.md) on the [test](../rule/test/test.md). At 1st level, that means a character using their highest [characteristic](../rule/character/characteristic.md), using a skill, and having an [edge](../rule/dice/edge.md) on the [test](../rule/test/test.md). Failure on a hard [test](../rule/test/test.md) often means consequences beyond failing, making hard [tests](../rule/test/test.md) really risky! You likely find that hard [tests](../rule/test/test.md) aren't as common as moderate [tests](../rule/test/test.md) in your game, but they're used more than easy [tests](../rule/test/test.md).
 
 ##### Setting Difficulty During Play
 
@@ -503,7 +503,7 @@ On the other hand, not sharing the difficulty of every [test](../rule/test/test.
 
 ##### Test Outcomes
 
-After a hero makes a [test](../rule/test/test.md), it's up to you to narrate and decide the outcome, keeping some basic guidelines in mind.
+After a hero makes a [test](../rule/test/test.md), it's up to you to narrate and decide the outcome, keeping some basic [guide](../rule/downtime/guide.md)lines in mind.
 
 If a [test](../rule/test/test.md) is a **failure with a consequence**, the hero doesn't just fail—they make things worse. This might mean drawing the attention of nearby foes, setting off a hazard or trap, taking damage or causing an ally to take damage, taking a [bane](../rule/dice/bane.md) on a future [test](../rule/test/test.md), losing a mundane item, making a friendly [NPC](../rule/general/npc.md) angry, or even earning you a little future Malice. The consequence is up to you!
 
@@ -519,7 +519,7 @@ Sample consequences and rewards for [tests](../rule/test/test.md) are detailed i
 
 #### Creating and Running Hazards
 
-Hazards include traps, natural dangers such as quicksand and avalanches, and supernatural dangers such as magic-irradiated ruins or floating clouds of unstable psionic energy. Hazards can appear in combat and exploration scenes as dangers the heroes need to contend with as they solve other problems. An elaborate hazard can be a scene all on its own as well, whether tackled in a [montage test](../rule/test/montage-test.md) or run round by round as if it were a combat scenario.
+Hazards include traps, natural dangers such as quicksand and avalanches, and [supernatural](../rule/general/supernatural.md) dangers such as magic-irradiated ruins or floating clouds of unstable psionic energy. Hazards can appear in combat and exploration scenes as dangers the heroes need to contend with as they solve other problems. An elaborate hazard can be a scene all on its own as well, whether tackled in a [montage test](../rule/test/montage-test.md) or run round by round as if it were a combat scenario.
 
 A good hazard presents a real threat to the heroes and stands in the way of something they want. Crossing a pool of lava isn't much of an issue if the heroes can simply walk around it. But if the pool is too big to walk around, or if the treasure the party seeks is at the bottom of it, it becomes something they can't easily ignore.
 
@@ -581,7 +581,7 @@ The One-Time Hazard Deadliness and Perpetual Hazard Deadliness tables show the d
 
 ##### Hazard Effects
 
-Some hazards deal effects in addition to or instead of damage. A hazard that is part of a combat encounter can impose just about any effect, including conditions, and can have a real impact on the story. However, if the heroes are facing a hazard outside of combat, you want any effects it imposes to be something more impactful and lasting. The following effects each reflect the interesting and lasting consequences a noncombat hazard should have:
+Some hazards deal effects in addition to or instead of damage. A hazard that is part of a combat encounter can impose just about any effect, including [conditions](../rule/combat/condition.md), and can have a real impact on the story. However, if the heroes are facing a hazard outside of combat, you want any effects it imposes to be something more impactful and lasting. The following effects each reflect the interesting and lasting consequences a noncombat hazard should have:
 
 - A character loses a [Recovery](../rule/health/recoveries.md).
 - A curse leaves a character with a demonic-sounding voice that imposes a [bane](../rule/dice/bane.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md).
@@ -602,12 +602,12 @@ Refer to the details you wrote down for your [NPCs](../rule/general/npc.md) whil
 
 When you're preparing for a negotiation (see Chapter 11: [Negotiation](negotiation.md)), you'll want to pick an [NPC](../rule/general/npc.md) and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
 
-When assigning negotiation stats, keep the following guidelines in mind:
+When assigning negotiation stats, keep the following [guide](../rule/downtime/guide.md)lines in mind:
 
 - The higher an [NPC](../rule/general/npc.md)'s starting interest, the more likely the heroes are to end the negotiation with everything they want—and then some—from the [NPC](../rule/general/npc.md).
 - The higher an [NPC](../rule/general/npc.md)'s starting patience, the longer the negotiation and the more chances the heroes have to make arguments. If you want a long, rich negotiation, give your [NPC](../rule/general/npc.md) a higher patience score.
 - The more motivations an [NPC](../rule/general/npc.md) has, the more likely the heroes are to make easier [tests](../rule/test/test.md) while engaging the [NPC](../rule/general/npc.md).
-- The more pitfalls an [NPC](../rule/general/npc.md) has, the more likely the heroes are to stumble into a topic that turns negotiation sour. However, too many pitfalls can feel like a "Gotcha!" setup to players, especially if they don't have time to do a little research or reconnaissance on the [NPC](../rule/general/npc.md) before going into the negotiation.
+- The more pitfalls an [NPC](../rule/general/npc.md) has, the more likely the heroes are to stumble into a topic that [turns](../rule/combat/turn.md) negotiation sour. However, too many pitfalls can feel like a "Gotcha!" setup to players, especially if they don't have time to do a little research or reconnaissance on the [NPC](../rule/general/npc.md) before going into the negotiation.
 
 #### Plan the Outcomes
 
@@ -1032,7 +1032,7 @@ Fire blazes in several buildings whose occupants need to be rescued. Elsewhere, 
 The following challenges can be part of the [montage test](../rule/test/montage-test.md):
 
 - **Bucket Brigades:** Characters can organize the would-be firefighters into disciplined bucket brigades, or can fight the fire directly in some other way. *Suggested* C*haracteristics:* [Presence](../rule/character/presence.md), [Reason](../rule/character/reason.md). *Suggested Skills:* Architecture, Intimidate, Lead.
-- **Clearing a Firebreak:** Preventing the fire from spreading might involve clearing the ground of flammable materials, either by moving it or burning it away under controlled conditions. *Suggested [Characteristics](../rule/character/characteristic.md):* [Might](../rule/character/might.md), [Reason](../rule/character/reason.md). *Suggested Skills and Abilities:* Endurance, Lift; abilities that deal fire damage. *Special:* A creature loses a [Recovery](../rule/health/recoveries.md) if they incur a consequence on the [test](../rule/test/test.md) for this challenge.
+- **Clearing a Firebreak:** Preventing the fire from spreading might involve clearing the ground of flammable materials, either by moving it or burning it away under controlled [conditions](../rule/combat/condition.md). *Suggested [Characteristics](../rule/character/characteristic.md):* [Might](../rule/character/might.md), [Reason](../rule/character/reason.md). *Suggested Skills and Abilities:* Endurance, Lift; abilities that deal fire damage. *Special:* A creature loses a [Recovery](../rule/health/recoveries.md) if they incur a consequence on the [test](../rule/test/test.md) for this challenge.
 - **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested [Characteristics](../rule/character/characteristic.md):* [Might](../rule/character/might.md), [Presence](../rule/character/presence.md). *Suggested Skills:* Climb, Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a [Recovery](../rule/health/recoveries.md) if they incur a consequence on the [test](../rule/test/test.md) for this challenge. The heroes can attempt this challenge twice during the [montage test](../rule/test/montage-test.md).
 - **Find More Firefighters:** By finding groups that aren't fighting the fire, such as fleeing civilians, characters can convince them to help. *Suggested [Characteristic](../rule/character/characteristic.md):* [Presence](../rule/character/presence.md). *Suggested Skills:* Intimidate, Lead, Persuade.
 - **Free the Horses:** Characters can loose the stabled horses threatened by the fire and lead them to safety. *Suggested [Characteristics](../rule/character/characteristic.md):* [Might](../rule/character/might.md), [Presence](../rule/character/presence.md). *Suggested Skills:* Handle Animals, Lift, Ride.
@@ -1090,7 +1090,7 @@ The following challenges can be part of the heroes' infiltration:
 
 ###### Optional Twist
 
-At any time during the infiltration section of the [montage test](../rule/test/montage-test.md), immediately after one hero's turn, the characters run into another group breaking into the palace at the same time, and possibly after the same prize. The characters can choose to fight or negotiate with the other party, or simply let them pass—in which case they might meet them again when they reach their final goal.
+At any time during the infiltration section of the [montage test](../rule/test/montage-test.md), immediately after one hero's [turn](../rule/combat/turn.md), the characters run into another group breaking into the palace at the same time, and possibly after the same prize. The characters can choose to fight or negotiate with the other party, or simply let them pass—in which case they might meet them again when they reach their final goal.
 
 ###### Montage Test Outcomes
 
@@ -1117,7 +1117,7 @@ The following challenges can be part of the [montage test](../rule/test/montage-
 - **Fortification:** Characters can help build or repair walls and other defensive structures. *Suggested [Characteristics](../rule/character/characteristic.md):* [Might](../rule/character/might.md), [Reason](../rule/character/reason.md). *Suggested Skills:* Architecture, Endurance, Lift.
 - **Inspiration:** Improving morale with rousing speeches or performances can help prepare the locals for the fight to come. *Suggested [Characteristics](../rule/character/characteristic.md):* [Intuition](../rule/character/intuition.md), [Presence](../rule/character/presence.md). *Suggested Skills:* Brag, Lead, Perform.
 - **Propaganda:** Characters can attempt to sow confusion or rebellion in the ranks of the approaching army. *Suggested [Characteristics](../rule/character/characteristic.md):* [Agility](../rule/character/agility.md), [Presence](../rule/character/presence.md). *Suggested Skills:* Disguise, Forgery, Lie.
-- **Stockpiling:** Characters can hunt, forage, or supernaturally conjure food or water to augment the settlement's supplies. *Suggested [Characteristics](../rule/character/characteristic.md):* [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md). *Suggested Skills:* Nature, Sneak, Track.
+- **Stockpiling:** Characters can hunt, forage, or [supernatural](../rule/general/supernatural.md)ly conjure food or water to augment the settlement's supplies. *Suggested [Characteristics](../rule/character/characteristic.md):* [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md). *Suggested Skills:* Nature, Sneak, Track.
 - **Training:** Heroes can help to train the settlement's defenders. *Suggested [Characteristics](../rule/character/characteristic.md):* [Might](../rule/character/might.md), [Presence](../rule/character/presence.md). *Suggested Skills:* Endurance, Intimidate, Lead.
 - **Trapmaking:** Digging concealed pits, placing hindrances, and setting up ambushes will make it harder for the invaders to approach the settlement. *Suggested [Characteristics](../rule/character/characteristic.md):* [Might](../rule/character/might.md), [Reason](../rule/character/reason.md). *Suggested Skills:* Conceal Object, Endurance, Mechanics.
 
@@ -1231,11 +1231,11 @@ There's no right number of [respites](../rule/resource/respite.md) that works fo
 
 ##### Victories and Respites
 
-Ultimately, the players, not the Director, decide when the heroes take a [respite](../rule/resource/respite.md). So even though you adjudicate whether the conditions are safe enough for a [respite](../rule/resource/respite.md), this part of the pacing is effectively out of your hands. Typically, most heroes want to rest after every 4 to 6 [Victories](../rule/resource/victories.md) they earn, depending on how many [Victories](../rule/resource/victories.md) were earned in combat encounters.
+Ultimately, the players, not the Director, decide when the heroes take a [respite](../rule/resource/respite.md). So even though you adjudicate whether the [conditions](../rule/combat/condition.md) are safe enough for a [respite](../rule/resource/respite.md), this part of the pacing is effectively out of your hands. Typically, most heroes want to rest after every 4 to 6 [Victories](../rule/resource/victories.md) they earn, depending on how many [Victories](../rule/resource/victories.md) were earned in combat encounters.
 
 #### Optional Rule: Average Roll
 
-When the heroes take a long series of [respites](../rule/resource/respite.md), it might not be fun for the players to do a ton of die rolling covering many projects. Instead of rolling, you can calculate the progress for each [respite](../rule/resource/respite.md) as if a hero had rolled a natural 11 on their progress roll, then adding appropriate bonuses. Although rolling lots of dice and hoping for breakthroughs can be a lot of fun, taking the average of the 2d10 roll allows players to get through a lot of downtime with minimal math.
+When the heroes take a long series of [respites](../rule/resource/respite.md), it might not be fun for the players to do a ton of die rolling covering many projects. Instead of rolling, you can calculate the progress for each [respite](../rule/resource/respite.md) as if a hero had rolled a natural 11 on their progress roll, then adding appropriate [bonus](../rule/dice/bonuses-and-penalties.md)es. Although rolling lots of dice and hoping for breakthroughs can be a lot of fun, taking the average of the 2d10 roll allows players to get through a lot of downtime with minimal math.
 
 #### Optional Rule: Easier Crafting
 
@@ -1249,7 +1249,7 @@ You should have as much fun giving out treasure, [Renown](../rule/resource/renow
 
 #### Granting Treasures
 
-Whenever you're planning on awarding treasures to the heroes, focus on items that are useful. Finding a magic bow isn't likely to excite a group that doesn't have a hero who loves ranged weapon combat. The players might even tell you (or you can ask) which treasures their heroes most desire.
+Whenever you're planning on awarding treasures to the heroes, focus on items that are useful. Finding a magic bow isn't likely to excite a group that doesn't have a hero who loves [ranged](../rule/combat/ranged.md) weapon combat. The players might even tell you (or you can ask) which treasures their heroes most desire.
 
 Once you have treasures in mind, you can use the following progression as a baseline for the heroes to earn those treasures:
 
@@ -1274,13 +1274,13 @@ The players can choose their hero's treasures, and can replace any [leveled trea
 
 #### Making New Treasures
 
-You can easily create new types of [leveled treasures](../rule/treasure/leveled-treasure.md) for heroes to find using the enhancements from the Imbue Treasure project in Chapter 12: [Downtime Projects](downtime-projects.md).
+You can easily create new types of [leveled treasures](../rule/treasure/leveled-treasure.md) for heroes to find using the [enhancements](../rule/treasure/enhancement.md) from the Imbue Treasure project in Chapter 12: [Downtime Projects](downtime-projects.md).
 
 You can also take any of the treasures in this book and easily reskin them. Do you wish Gecko Gloves were actually boots? Just change the description and the Hands keywords and you're good to go. Do you want the Icemaker Maul to be a dagger that creates pools of acid instead of an ice field? Change the Heavy Weapon keyword and swap the [damage types](../rule/damage/damage-type.md), and you're ready to rock! Simply changing keywords, damage, and descriptions for treasures isn't going to break the game.
 
 #### Awarding Titles
 
-You don't need to grant heroes every title they qualify for. In fact, you probably shouldn't, lest they become too powerful too fast. As a general guideline, a hero should gain a new title about every other level, which you can accomplish using either of the following options:
+You don't need to grant heroes every title they qualify for. In fact, you probably shouldn't, lest they become too powerful too fast. As a general [guide](../rule/downtime/guide.md)line, a hero should gain a new title about every other level, which you can accomplish using either of the following options:
 
 - You can grant a hero a title during a significant moment in a campaign, such as after defeating a villain. The heroes are each awarded a title they earned that is chosen by you.
 - You can allow a hero to choose a title they've earned from the titles available at their [echelon](../rule/general/echelon.md) each time they achieve an even-numbered level.
@@ -1289,7 +1289,7 @@ You should check in with your players occasionally to see if they have any speci
 
 #### Awarding Renown
 
-The heroes earn [Renown](../rule/resource/renown.md) whenever they do something of significance, such as saving a town or... well, saving the world! As a general guideline, heroes should earn 1 [Renown](../rule/resource/renown.md) per level.
+The heroes earn [Renown](../rule/resource/renown.md) whenever they do something of significance, such as saving a town or... well, saving the world! As a general [guide](../rule/downtime/guide.md)line, heroes should earn 1 [Renown](../rule/resource/renown.md) per level.
 
 If you want the characters to be less famous than in a standard heroic tale, you can adjust this to give out [Renown](../rule/resource/renown.md) every other level. Alternatively, you can award [Renown](../rule/resource/renown.md) after each adventure if you want the heroes to become power players in the world more quickly.
 
@@ -1312,7 +1312,7 @@ You can award [hero tokens](../rule/resource/hero-token.md) to the players for t
 
 #### Awarding Victories
 
-Use the following guidelines for awarding [Victories](../rule/resource/victories.md) to the heroes, increasing these values as desired for notably difficult challenges.
+Use the following [guide](../rule/downtime/guide.md)lines for awarding [Victories](../rule/resource/victories.md) to the heroes, increasing these values as desired for notably difficult challenges.
 
 ##### Combat Encounters
 

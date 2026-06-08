@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: conduit
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You or one ally within [distance](../../../../rule/combat/distance.md) gains [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your [Intuition](../../../../rule/character/intuition.md) score.
-flavor: Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.
+flavor: Your quickly uttered prayer lends aggressive divine energy to a friend engaged in [melee](../../../../rule/combat/melee.md).
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Warrior's Prayer
@@ -17,11 +17,11 @@ type: ability
 ---
 
 
-*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
+*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in [melee](../../../../rule/combat/melee.md).*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 

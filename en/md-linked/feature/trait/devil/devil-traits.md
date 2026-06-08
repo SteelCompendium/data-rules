@@ -17,7 +17,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Bea
 
 ### Barbed Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/barbed-tail"}
 
-Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee [strike](../../../rule/combat/strike.md), you can deal extra damage with the [strike](../../../rule/combat/strike.md) equal to your highest [characteristic](../../../rule/character/characteristic.md) score.
+Your pointy tail allows you to punctuate all your actions. Once per round when you make a [melee](../../../rule/combat/melee.md) [strike](../../../rule/combat/strike.md), you can deal extra damage with the [strike](../../../rule/combat/strike.md) equal to your highest [characteristic](../../../rule/character/characteristic.md) score.
 
 ### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
 

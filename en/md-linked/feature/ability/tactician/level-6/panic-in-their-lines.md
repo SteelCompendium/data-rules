@@ -2,12 +2,12 @@
 action_type: Main action
 class: tactician
 cost: 9 Focus
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effect: If a target is [force moved](../../../../movement/forced-movement.md) into another creature, they must make a [free strike](../../../common/main-actions/free-strike.md) against that creature.
 flavor: You confuse your foes, causing them to turn on each other.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -20,9 +20,9 @@ type: ability
 
 *You confuse your foes, causing them to turn on each other.*
 
-| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |      **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |      **Main action** |
 |-----------------------------------|---------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 Two creatures** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

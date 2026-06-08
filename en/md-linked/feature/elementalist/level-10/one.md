@@ -25,9 +25,9 @@ Additionally, as a [respite](../../../rule/resource/respite.md) activity, you ca
 
 ## Master of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-fire"}
 
-The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
+The damage [bonus](../../../rule/dice/bonuses-and-penalties.md) of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../../ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../../chapter/rewards.md)), you gain breath equal to its [echelon](../../../rule/general/echelon.md).
+Additionally, your [Return to Formlessness](../../ability/elementalist/level-1/return-to-formlessness.md) ability can be used on [supernatural](../../../rule/general/supernatural.md) objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../../chapter/rewards.md)), you gain breath equal to its [echelon](../../../rule/general/echelon.md).
 
 ## Master of Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-green"}
 
@@ -35,7 +35,7 @@ The number of [Recoveries](../../../rule/health/recoveries.md) you have increase
 
 Additionally, as a [respite](../../../rule/resource/respite.md) activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a [respite](../../../rule/resource/respite.md) activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic [consumables](../../../rule/treasure/consumable.md) on its own.
 
-As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their [Stamina](../../../rule/health/stamina.md), they can end all conditions or effects on themself, and they can stand up if [prone](../../../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
+As a maneuver, a creature can consume a Life Fruit or feed it to an [adjacent](../../../rule/combat/adjacent.md) willing ally. When a creature eats a Life Fruit, they restore all their [Stamina](../../../rule/health/stamina.md), they can end all [conditions](../../../rule/combat/condition.md) or effects on themself, and they can stand up if [prone](../../../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
 ## Master of Void {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-void"}
 

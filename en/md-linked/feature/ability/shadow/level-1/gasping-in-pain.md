@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: shadow
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: One ally within 5 squares of the target gains 1 [surge](../../../../rule/resource/surge.md).
 flavor: Your precise strikes let your allies take advantage of a target's agony.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -19,9 +19,9 @@ type: ability
 
 *Your precise strikes let your allies take advantage of a target's agony.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 feature_type: ability
 file_basename: bear-claws
 file_dpath: feature/ability/boren
@@ -8,7 +8,7 @@ flavor: Attacks with your sharp and deadly claws grab the weak.
 item_id: bear-claws
 item_name: Bear Claws
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: boren
@@ -21,21 +21,21 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "*Attacks with your sharp and deadly claws grab the weak.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**\n\n- **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../condition/grabbed.md)\n- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../condition/grabbed.md)\n- **17+:** 11 + M damage; M < STRONG, [grabbed](../../../condition/grabbed.md)"
+    - effect: "*Attacks with your sharp and deadly claws grab the weak.*\n\n| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 1**            | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**\n\n- **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../condition/grabbed.md)\n- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../condition/grabbed.md)\n- **17+:** 11 + M damage; M < STRONG, [grabbed](../../../condition/grabbed.md)"
 feature_type: ability
 flavor: Attacks with your sharp and deadly claws grab the weak.
 keywords:
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
+    distance: '[Melee](../../../rule/combat/melee.md) 1'
     flavor: Attacks with your sharp and deadly claws grab the weak.
     keywords:
-        - Melee
+        - '[Melee](../../../rule/combat/melee.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: boren

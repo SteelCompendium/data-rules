@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), or [weakened](../../../condition/weakened.md), you can use a maneuver to immediately end one of those conditions.
+    - effect: A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), or [weakened](../../../condition/weakened.md), you can use a maneuver to immediately end one of those [conditions](../../../rule/combat/condition.md).
 feature_type: trait
 metadata:
     ancestry: human

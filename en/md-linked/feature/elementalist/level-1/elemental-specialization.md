@@ -20,11 +20,11 @@ You choose an [elemental specialization](elemental-specialization.md) from the f
 
 ## Earth: Acolyte of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/earth-acolyte-of-earth"}
 
-You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../../rule/character/stability.md) increases by 1 until the start of your next turn. This benefit is cumulative.
+You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../../rule/character/stability.md) increases by 1 until the start of your next [turn](../../../rule/combat/turn.md). This benefit is cumulative.
 
 ## Fire: Acolyte of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/fire-acolyte-of-fire"}
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to [rolled damage](../../../rule/damage/rolled-damage.md). Your [Hurl Element](../../ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md). Your [Hurl Element](../../ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this [bonus](../../../rule/dice/bonuses-and-penalties.md) when you use it to deal fire damage.
 
 ## Green: Acolyte of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/green-acolyte-of-the-green"}
 
@@ -32,4 +32,4 @@ You harness the residual magic from your green spells to bolster yourself and yo
 
 ## Void: Acolyte of the Mystery {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/void-acolyte-of-the-mystery"}
 
-You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../../../rule/combat/distance.md) of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.
+You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../../../rule/combat/distance.md) of all your abilities that have the Magic, [Ranged](../../../rule/combat/ranged.md), and Void keywords increases by 2 squares.

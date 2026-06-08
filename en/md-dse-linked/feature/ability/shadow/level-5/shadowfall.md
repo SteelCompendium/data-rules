@@ -14,7 +14,7 @@ item_id: shadowfall
 item_name: Shadowfall
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "5"
 name: Shadowfall
@@ -33,7 +33,7 @@ feature_type: ability
 flavor: You vanish. They fall. You reappear.
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -44,7 +44,7 @@ metadata:
     flavor: You vanish. They fall. You reappear.
     keywords:
         - Area
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Weapon
     level: "5"
     name: Shadowfall

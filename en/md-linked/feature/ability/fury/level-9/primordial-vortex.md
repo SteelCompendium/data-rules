@@ -8,7 +8,7 @@ flavor: You channel the power of the Primordial Chaos to pull foes to you.
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "9"
 name: Primordial Vortex
@@ -20,7 +20,7 @@ type: ability
 
 *You channel the power of the Primordial Chaos to pull foes to you.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 

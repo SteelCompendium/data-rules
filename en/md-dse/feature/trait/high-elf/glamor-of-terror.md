@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to make that creature [frightened](scc:mcdm.heroes.v1/condition/frightened) of you until the end of their next turn.
+    - effect: When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to make that creature [frightened](scc:mcdm.heroes.v1/condition/frightened) of you until the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
 feature_type: trait
 metadata:
     ancestry: high-elf

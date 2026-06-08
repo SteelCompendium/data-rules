@@ -9,7 +9,7 @@ type: trait
 
 ## Signature Trait: Detect the Supernatural {data-scc="mcdm.heroes.v1/feature.trait.human/detect-the-supernatural"}
 
-As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don't have [line of effect](../../../rule/combat/line-of-effect.md) to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
+As a maneuver, you can open your awareness to detect [supernatural](../../../rule/general/supernatural.md) creatures and phenomena. Until the end of your next [turn](../../../rule/combat/turn.md), you know the location of any [supernatural](../../../rule/general/supernatural.md) object, or any undead, construct, or creature from another world within 5 squares, even if you don't have [line of effect](../../../rule/combat/line-of-effect.md) to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
 
 ## Purchased Human Traits
 
@@ -17,11 +17,11 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Per
 
 ### Can't Take Hold {data-scc="mcdm.heroes.v1/feature.trait.human/cant-take-hold"}
 
-Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../../../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../../../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) by 1.
+Your connection to the natural world allows you to resist certain [supernatural](../../../rule/general/supernatural.md) effects. You ignore temporary [difficult terrain](../../../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../../../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) by 1.
 
 ### Determination {data-scc="mcdm.heroes.v1/feature.trait.human/determination"}
 
-A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), or [weakened](../../../condition/weakened.md), you can use a maneuver to immediately end one of those conditions.
+A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), or [weakened](../../../condition/weakened.md), you can use a maneuver to immediately end one of those [conditions](../../../rule/combat/condition.md).
 
 ### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 

@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: talent
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 feature_type: ability
 file_basename: entropic-bolt
@@ -12,7 +12,7 @@ item_name: Entropic Bolt
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Entropic Bolt
@@ -24,7 +24,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 feature_type: ability
@@ -32,18 +32,18 @@ flavor: You advance an enemy's age for a moment.
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: talent
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
     flavor: You advance an enemy's age for a moment.
     keywords:
         - Chronopathy
         - Psionic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Entropic Bolt

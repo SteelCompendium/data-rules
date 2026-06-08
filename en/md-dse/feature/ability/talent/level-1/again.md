@@ -1,7 +1,7 @@
 ---
 action_type: Triggered
 class: talent
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
 feature_type: ability
 file_basename: again
@@ -11,7 +11,7 @@ item_id: again
 item_name: Again
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Again
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/again
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
 feature_type: ability
 flavor: You step back a split second to see if things play out a little differently.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Triggered
     class: talent
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
     flavor: You step back a split second to see if things play out a little differently.
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Again
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/again

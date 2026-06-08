@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: fury
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an [opportunity attack](scc:mcdm.heroes.v1/rule.combat/opportunity-attack) against you as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).
 feature_type: ability
 file_basename: to-the-death
@@ -10,7 +10,7 @@ flavor: Your reckless assault leaves you tactically vulnerable.
 item_id: to-the-death
 item_name: To the Death!
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an [opportunity attack](scc:mcdm.heroes.v1/rule.combat/opportunity-attack) against you as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).
 feature_type: ability
 flavor: Your reckless assault leaves you tactically vulnerable.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an [opportunity attack](scc:mcdm.heroes.v1/rule.combat/opportunity-attack) against you as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).
     flavor: Your reckless assault leaves you tactically vulnerable.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"

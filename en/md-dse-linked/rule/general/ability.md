@@ -17,7 +17,7 @@ Abilities with the Area keyword create an [area of effect](../combat/area-of-eff
 
 ##### Charge
 
-Abilities with the Charge keyword can be used with the [Charge](../../feature/common/main-actions/charge.md) main action instead of a melee [free strike](../../feature/common/main-actions/free-strike.md). (The [Charge](../../feature/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](../../chapter/combat.md).)
+Abilities with the Charge keyword can be used with the [Charge](../../feature/common/main-actions/charge.md) main action instead of a [melee](../combat/melee.md) [free strike](../../feature/common/main-actions/free-strike.md). (The [Charge](../../feature/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](../../chapter/combat.md).)
 
 ##### Magic
 

@@ -25,9 +25,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You shout a phrase that galvanizes your team.*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -40,9 +40,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your precise strike leaves your foe struggling to respond.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -55,9 +55,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Your attack gives an ally hope.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -70,8 +70,8 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *On your command, you and your allies force back the enemy line.*
 
-| **Ranged**       |               **Maneuver** |
+| **[Ranged](../../../rule/combat/ranged.md)**       |               **Maneuver** |
 |------------------|---------------------------:|
-| **📏 Ranged 10** | **🎯 Self and two allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10** | **🎯 Self and two allies** |
 
 **Effect:** Each target can move up to their [speed](../../../rule/character/speed.md).

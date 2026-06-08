@@ -17,18 +17,18 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |-----------------|---------------:|
 | **📏 3 [burst](../../../rule/combat/burst.md)**  | **🎯 Special** |
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies [concealment](../../../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) to a new location within the area and make a [free strike](../../common/main-actions/free-strike.md) against them.
+**Effect:** A black cloud fills the area until the end of your next [turn](../../../rule/combat/turn.md), granting you and your allies [concealment](../../../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their [turn](../../../rule/combat/turn.md) in the area, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) to a new location within the area and make a [free strike](../../common/main-actions/free-strike.md) against them.
 
 ## Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
-**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../rule/dice/power-roll.md) upon your return.
+**Effect:** You and the target are removed from the encounter map until the start of your next [turn](../../../rule/combat/turn.md). You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../rule/dice/power-roll.md) upon your return.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
@@ -41,7 +41,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *You vanish. They fall. You reappear.*
 
-| **Area, Melee, Weapon**     |               **Main action** |
+| **Area, [Melee](../../../rule/combat/melee.md), Weapon**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
@@ -58,9 +58,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
 
-| **Melee, Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 

@@ -4,7 +4,7 @@ class: talent
 cost: 7 Clarity
 cost_amount: "7"
 cost_resource: Clarity
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [Presence](scc:mcdm.heroes.v1/rule.character/presence) [tests](scc:mcdm.heroes.v1/rule.test/test) until the end of the encounter.
 feature_type: ability
 file_basename: soul-burn
@@ -15,7 +15,7 @@ item_name: Soul Burn
 keywords:
     - Animapathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Strike
 level: "3"
 name: Soul Burn
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 7 Clarity
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [Presence](scc:mcdm.heroes.v1/rule.character/presence) [tests](scc:mcdm.heroes.v1/rule.test/test) until the end of the encounter.
 feature_type: ability
@@ -35,19 +35,19 @@ flavor: You blast their soul out of their body, leaving it to helplessly float b
 keywords:
     - Animapathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Strike
 metadata:
     action_type: Main action
     class: talent
     cost: 7 Clarity
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [Presence](scc:mcdm.heroes.v1/rule.character/presence) [tests](scc:mcdm.heroes.v1/rule.test/test) until the end of the encounter.
     flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
     keywords:
         - Animapathy
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Strike
     level: "3"
     name: Soul Burn

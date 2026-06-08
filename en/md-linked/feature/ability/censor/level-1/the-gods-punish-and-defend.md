@@ -2,12 +2,12 @@
 action_type: Main action
 class: censor
 cost: 3 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can spend a [Recovery](../../../../rule/health/recoveries.md) to allow yourself or one ally within 10 squares to regain [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md).
 flavor: You channel holy energy to smite a foe and heal an ally.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -20,9 +20,9 @@ type: ability
 
 *You channel holy energy to smite a foe and heal an ally.*
 
-| **Magic, Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

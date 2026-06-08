@@ -13,7 +13,7 @@ flavor: It's easier to destroy than to create. Much easier, in fact!
 item_id: wrecking-ball
 item_name: Wrecking Ball
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 level: "2"
 name: Wrecking Ball
@@ -31,7 +31,7 @@ effects:
 feature_type: ability
 flavor: It's easier to destroy than to create. Much easier, in fact!
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Maneuver
@@ -41,7 +41,7 @@ metadata:
     effect: You move up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
     flavor: It's easier to destroy than to create. Much easier, in fact!
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: "2"
     name: Wrecking Ball

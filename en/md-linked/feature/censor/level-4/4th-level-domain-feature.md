@@ -15,7 +15,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 | Creation                         | [Improved Hands of the Maker](improved-hands-of-the-maker.md) |
 | Death                            | [Seance](seance.md)                      |
 | Fate                             | [Oracular Warning](oracular-warning.md)            |
-| Knowledge                        | Saint's Epiphany            |
+| Knowledge                        | [Saint](../../../rule/world/saint.md)'s Epiphany            |
 | Life                             | [Blessing of Life](blessing-of-life.md)            |
 | Love                             | [Invocation of the Heart](invocation-of-the-heart.md)     |
 | Nature                           | [Wode Road](wode-road.md)                   |
@@ -56,7 +56,7 @@ When you use your [Hands of the Maker](../../ability/censor/level-1/hands-of-the
 
 ## Improved Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.censor.level-4/improved-sanctified-weapon"}
 
-The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 bonus to [rolled damage](../../../rule/damage/rolled-damage.md) instead of +1.
+The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md) instead of +1.
 
 ## Invocation of the Heart {data-scc="mcdm.heroes.v1/feature.censor.level-4/invocation-of-the-heart"}
 
@@ -64,7 +64,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ## Light of Revelation {data-scc="mcdm.heroes.v1/feature.censor.level-4/light-of-revelation"}
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to notice hidden objects and entrances and to detect [supernatural](../../../rule/general/supernatural.md) illusions.
 
 ## Oracular Warning {data-scc="mcdm.heroes.v1/feature.censor.level-4/oracular-warning"}
 
@@ -80,7 +80,7 @@ At the start of a [respite](../../../rule/resource/respite.md), you can inspire 
 
 ## Windwalk {data-scc="mcdm.heroes.v1/feature.censor.level-4/windwalk"}
 
-While you have 5 or more [Victories](../../../rule/resource/victories.md), you can [fly](../../../movement/fly.md). If you can already [fly](../../../movement/fly.md), you have a +2 bonus to [speed](../../../rule/character/speed.md) while [flying](../../../movement/fly.md) instead.
+While you have 5 or more [Victories](../../../rule/resource/victories.md), you can [fly](../../../movement/fly.md). If you can already [fly](../../../movement/fly.md), you have a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) while [flying](../../../movement/fly.md) instead.
 
 ## Wode Road {data-scc="mcdm.heroes.v1/feature.censor.level-4/wode-road"}
 

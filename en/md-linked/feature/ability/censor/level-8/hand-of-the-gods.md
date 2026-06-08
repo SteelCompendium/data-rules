@@ -2,11 +2,11 @@
 action_type: Main action
 class: censor
 cost: 11 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](../../../../rule/combat/flanking.md).
 flavor: You use your foe as a tool against your enemies.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "8"
@@ -19,9 +19,9 @@ type: ability
 
 *You use your foe as a tool against your enemies.*
 
-| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           |           **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           |           **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

@@ -2,13 +2,13 @@
 action_type: Main action
 class: talent
 cost: 11 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: 'This ability gains an [edge](../../../../rule/dice/edge.md) against a target with a soul (see *Draw Steel: Monsters*). After you make the [power roll](../../../../rule/dice/power-roll.md), you or one ally within [distance](../../../../rule/combat/distance.md) have a double [edge](../../../../rule/dice/edge.md) on the next [power roll](../../../../rule/dice/power-roll.md) you make before the end of the encounter.'
 flavor: You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.
 keywords:
     - Animapathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Strike
 level: "8"
 name: Doubt
@@ -20,9 +20,9 @@ type: ability
 
 *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
 
-| **Animapathy, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Animapathy, Psionic, [Ranged](../../../../rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |---------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                            | **🎯 One creature or object** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                            | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 

@@ -33,7 +33,7 @@ It was after Zarok retired from his career as a warmaster and became the ambassa
 
 Zarok teaches that all people should be equal under the law. His is the principle of fair play—sportsmanship. Respect for your adversary. The responsibility of the strong to protect the weak.
 
-Zarok's *The Conversations* are still quoted today. There is a long legal tradition, when a prestigious lawyer in Capital wishes to write an amicus brief without revealing their identity, they sign it "Z."
+Zarok's *The Conversations* are still quoted today. There is a long legal tradition, when a prestigious lawyer in [Capital](../rule/world/capital.md) wishes to write an amicus brief without revealing their identity, they sign it "Z."
 
 ##### Valak-koth the Seeker
 

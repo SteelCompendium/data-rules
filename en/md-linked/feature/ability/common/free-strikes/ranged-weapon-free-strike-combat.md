@@ -1,8 +1,8 @@
 ---
 action_type: Main action
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Stike
     - Weapon
 name: Ranged Weapon Free Strike
@@ -12,9 +12,9 @@ target: One creature or object
 type: ability
 ---
 
-| **Ranged, Stike, Weapon** |               **Main action** |
+| **[Ranged](../../../../rule/combat/ranged.md), Stike, Weapon** |               **Main action** |
 |---------------------------| -----------------------------:|
-| **📏 Ranged 5**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 5**           | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md):**
 

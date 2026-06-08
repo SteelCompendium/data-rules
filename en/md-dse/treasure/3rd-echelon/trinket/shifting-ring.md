@@ -1,6 +1,6 @@
 ---
 echelon: "3"
-effect: Once per turn, you can use a maneuver to [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](scc:mcdm.heroes.v1/movement/teleport), you can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 additional squares.
+effect: Once per [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use a maneuver to [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](scc:mcdm.heroes.v1/movement/teleport), you can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 additional squares.
 file_basename: shifting-ring
 file_dpath: treasure/3rd-echelon/trinket
 item_id: shifting-ring
@@ -27,4 +27,4 @@ type: treasure
 
 **Project Goal:** 450
 
-**Effect:** Once per turn, you can use a maneuver to [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](scc:mcdm.heroes.v1/movement/teleport), you can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 additional squares.
+**Effect:** Once per [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use a maneuver to [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](scc:mcdm.heroes.v1/movement/teleport), you can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 3 additional squares.

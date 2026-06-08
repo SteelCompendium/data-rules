@@ -2,11 +2,11 @@
 action_type: Maneuver
 class: "null"
 cost: 5 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: An object you target must be your [size](../../../../rule/character/size.md) or smaller. You gain an [edge](../../../../rule/dice/edge.md) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
 flavor: A single touch from you, and your enemy flies backward.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -20,9 +20,9 @@ type: ability
 
 *A single touch from you, and your enemy flies backward.*
 
-| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |                  **Maneuver** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |                  **Maneuver** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 

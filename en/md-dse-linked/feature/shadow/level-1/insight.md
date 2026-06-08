@@ -20,9 +20,9 @@ effects:
 
         ##### Insight in Combat
 
-        At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 insight.
+        At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../../rule/combat/combat-round.md) (as determined by the Director), you gain insight equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 1d3 insight.
 
-        Additionally, the first time each combat round that you deal damage incorporating 1 or more [surges](../../../rule/resource/surge.md), you gain 1 insight.
+        Additionally, the first time each [combat round](../../../rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../../../rule/resource/surge.md), you gain 1 insight.
 
         Whenever you use a [heroic ability](../../../rule/general/heroic-ability.md) that makes use of a [power roll](../../../rule/dice/power-roll.md), that ability costs 1 fewer insight if you have an [edge](../../../rule/dice/edge.md) or double [edge](../../../rule/dice/edge.md) on it. If the ability has multiple targets, the cost is reduced even if the ability gains an [edge](../../../rule/dice/edge.md) or has a double [edge](../../../rule/dice/edge.md) against only one target.
 

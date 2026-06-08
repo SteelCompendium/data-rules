@@ -5,7 +5,7 @@ cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
 distance: Self; see below
-effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), and you can make the following weapon [strike](scc:mcdm.heroes.v1/rule.combat/strike) with a [distance](scc:mcdm.heroes.v1/rule.combat/distance) of melee 1 against a creature.
+effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) directly toward an ally, ending [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), and you can make the following weapon [strike](scc:mcdm.heroes.v1/rule.combat/strike) with a [distance](scc:mcdm.heroes.v1/rule.combat/distance) of [melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 against a creature.
 feature_type: ability
 file_basename: try-me-instead
 file_dpath: feature/ability/tactician/level-2
@@ -13,7 +13,7 @@ flavor: '"Try picking on someone my [size](scc:mcdm.heroes.v1/rule.character/siz
 item_id: try-me-instead
 item_name: Try Me Instead
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "2"
@@ -28,11 +28,11 @@ type: ability
 cost: 5 Focus
 distance: Self; see below
 effects:
-    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), and you can make the following weapon [strike](scc:mcdm.heroes.v1/rule.combat/strike) with a [distance](scc:mcdm.heroes.v1/rule.combat/distance) of melee 1 against a creature.
+    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) directly toward an ally, ending [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), and you can make the following weapon [strike](scc:mcdm.heroes.v1/rule.combat/strike) with a [distance](scc:mcdm.heroes.v1/rule.combat/distance) of [melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 against a creature.
 feature_type: ability
 flavor: '"Try picking on someone my [size](scc:mcdm.heroes.v1/rule.character/size)."'
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
@@ -40,10 +40,10 @@ metadata:
     class: tactician
     cost: 5 Focus
     distance: Self; see below
-    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), and you can make the following weapon [strike](scc:mcdm.heroes.v1/rule.combat/strike) with a [distance](scc:mcdm.heroes.v1/rule.combat/distance) of melee 1 against a creature.
+    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) directly toward an ally, ending [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), and you can make the following weapon [strike](scc:mcdm.heroes.v1/rule.combat/strike) with a [distance](scc:mcdm.heroes.v1/rule.combat/distance) of [melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 against a creature.
     flavor: '"Try picking on someone my [size](scc:mcdm.heroes.v1/rule.character/size)."'
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "2"

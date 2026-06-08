@@ -4,8 +4,8 @@ class: talent
 cost: 3 Clarity
 cost_amount: "3"
 cost_resource: Clarity
-distance: Melee 2
-effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
+effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
 feature_type: ability
 file_basename: precognition
 file_dpath: feature/ability/talent/level-1
@@ -14,7 +14,7 @@ item_id: precognition
 item_name: Precognition
 keywords:
     - Chronopathy
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
 level: "1"
 name: Precognition
@@ -26,25 +26,25 @@ type: ability
 
 ```ds-feature
 cost: 3 Clarity
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effects:
-    - effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
+    - effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
 feature_type: ability
 flavor: You give a target a glimpse into the future so that they're ready for what comes next.
 keywords:
     - Chronopathy
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
 metadata:
     action_type: Main action
     class: talent
     cost: 3 Clarity
-    distance: Melee 2
-    effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
+    distance: '[Melee](../../../../rule/combat/melee.md) 2'
+    effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
     flavor: You give a target a glimpse into the future so that they're ready for what comes next.
     keywords:
         - Chronopathy
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Psionic
     level: "1"
     name: Precognition

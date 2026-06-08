@@ -4,7 +4,7 @@ class: troubadour
 cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: The target gains 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Until the end of the encounter, whenever the target takes damage while you're within [distance](scc:mcdm.heroes.v1/rule.combat/distance), you can choose to take the damage instead of the target.
 feature_type: ability
 file_basename: love-song
@@ -14,7 +14,7 @@ item_id: love-song
 item_name: Love Song
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "5"
 name: Love Song
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Drama
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The target gains 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Until the end of the encounter, whenever the target takes damage while you're within [distance](scc:mcdm.heroes.v1/rule.combat/distance), you can choose to take the damage instead of the target.
 feature_type: ability
 flavor: You play a small ditty that plants you inside your target's heart.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: troubadour
     cost: 9 Drama
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: The target gains 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Until the end of the encounter, whenever the target takes damage while you're within [distance](scc:mcdm.heroes.v1/rule.combat/distance), you can choose to take the damage instead of the target.
     flavor: You play a small ditty that plants you inside your target's heart.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "5"
     name: Love Song
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song

@@ -5,7 +5,7 @@ cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
 distance: Self; see below
-effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
 feature_type: ability
 file_basename: phalanx-breaker
 file_dpath: feature/ability/fury/level-2
@@ -13,7 +13,7 @@ flavor: Organizing your forces like feckless creatures of Law. Pitiful.
 item_id: phalanx-breaker
 item_name: Phalanx-Breaker
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 level: "2"
 name: Phalanx-Breaker
@@ -27,21 +27,21 @@ type: ability
 cost: 5 Ferocity
 distance: Self; see below
 effects:
-    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+    - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
 feature_type: ability
 flavor: Organizing your forces like feckless creatures of Law. Pitiful.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Main action
     class: fury
     cost: 5 Ferocity
     distance: Self; see below
-    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+    effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
     flavor: Organizing your forces like feckless creatures of Law. Pitiful.
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: "2"
     name: Phalanx-Breaker

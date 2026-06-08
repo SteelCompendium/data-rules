@@ -15,7 +15,7 @@ item_name: Death Comes for You All!
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "9"
 name: Death Comes for You All!
@@ -35,7 +35,7 @@ flavor: You use your weapon to create a destructive shockwave.
 keywords:
     - Area
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 metadata:
     action_type: Main action
@@ -47,7 +47,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - Weapon
     level: "9"
     name: Death Comes for You All!

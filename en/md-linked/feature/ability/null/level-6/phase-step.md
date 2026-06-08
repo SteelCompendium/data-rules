@@ -6,7 +6,7 @@ distance: Self; see below
 effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
 flavor: You weaken your connection to this manifold, allowing you to move through and damage enemies.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - Weapon
 level: "6"
@@ -19,7 +19,7 @@ type: ability
 
 *You weaken your connection to this manifold, allowing you to move through and damage enemies.*
 
-| **Melee, Psionic, Weapon** | **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, Weapon** | **Main action** |
 |----------------------------|----------------:|
 | **📏 Self; see below**     |     **🎯 Self** |
 

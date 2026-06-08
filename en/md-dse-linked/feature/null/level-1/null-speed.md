@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to [speed](../../../rule/character/speed.md) and to the number of squares you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action equal to your [Agility](../../../rule/character/agility.md) score.
+    - effect: The flow of psionic power through you allows you to achieve high velocity. You gain a [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) and to the number of squares you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action equal to your [Agility](../../../rule/character/agility.md) score.
 feature_type: feature
 metadata:
     class: "null"

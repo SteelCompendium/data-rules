@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: censor
-distance: Melee 1
-effect: Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
-flavor: Your magic [strike](../../../../rule/combat/strike.md) turns your foe's guilt into a burst of holy power.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+flavor: Your magic [strike](../../../../rule/combat/strike.md) [turns](../../../../rule/combat/turn.md) your foe's guilt into a burst of holy power.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -17,11 +17,11 @@ type: ability
 ---
 
 
-*Your magic [strike](../../../../rule/combat/strike.md) turns your foe's guilt into a burst of holy power.*
+*Your magic [strike](../../../../rule/combat/strike.md) [turns](../../../../rule/combat/turn.md) your foe's guilt into a burst of holy power.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+**Effect:** Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.

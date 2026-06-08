@@ -1,26 +1,26 @@
 ability_type: Triggered
 cost: 9 Focus
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: The target takes half the damage. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the triggering creature.
       name: Effect
 feature_type: ability
-flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural [speed](scc:mcdm.heroes.v1/rule.character/speed).
+flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) [speed](scc:mcdm.heroes.v1/rule.character/speed).
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     ability_type: Triggered
     action_type: Free triggered
     class: tactician
-    content: "\n*You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural [speed](scc:mcdm.heroes.v1/rule.character/speed).*\n\n| **Melee, Weapon** | **Free triggered** |\n| ------------------------------------|-------------------:|\n| **\U0001F4CF Melee 1**                   |    **\U0001F3AF One ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** The target takes half the damage. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the triggering creature.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
-    distance: Melee 1
+    content: "\n*You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) [speed](scc:mcdm.heroes.v1/rule.character/speed).*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), Weapon** | **Free triggered** |\n| ------------------------------------|-------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**                   |    **\U0001F3AF One ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** The target takes half the damage. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the triggering creature.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     feature_type: ability
-    flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural [speed](scc:mcdm.heroes.v1/rule.character/speed).
+    flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) [speed](scc:mcdm.heroes.v1/rule.character/speed).
     item_id: instant-retaliation
     item_name: Instant Retaliation
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     level: 6
     scc:

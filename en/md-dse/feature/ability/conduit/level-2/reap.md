@@ -4,8 +4,8 @@ class: conduit
 cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
-distance: Ranged 10
-effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
 file_basename: reap
 file_dpath: feature/ability/conduit/level-2
@@ -14,7 +14,7 @@ item_id: reap
 item_name: Reap
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "2"
 name: Reap
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/reap
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Piety
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+    - effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
 flavor: The gods reward those who smite their foes.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: conduit
     cost: 5 Piety
-    distance: Ranged 10
-    effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
     flavor: The gods reward those who smite their foes.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "2"
     name: Reap
     scc: mcdm.heroes.v1/feature.ability.conduit.level-2/reap

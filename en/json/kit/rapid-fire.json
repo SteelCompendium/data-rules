@@ -1,13 +1,11 @@
 {
-  "content": "The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.\n\n##### Equipment\n\nYou wear light armor and wield a bow.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +3 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)\n\n**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +1\n\n**Ranged Damage Bonus:** +2/+2/+2\n\n**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +7\n\n**Disengage Bonus:** +1\n\n##### Signature Ability\n\n###### Two Shot\n\n*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **📏 Ranged 12**           | **🎯 Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage",
-  "disengage_bonus": "+1",
+  "content": "The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.\n\n##### Equipment\n\nYou wear light armor and wield a bow.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +3 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)\n\n**[Speed](scc:mcdm.heroes.v1/rule.character/speed) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1\n\n**[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +2/+2/+2\n\n**[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [Distance](scc:mcdm.heroes.v1/rule.combat/distance) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +7\n\n**Disengage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1\n\n##### Signature Ability\n\n###### Two Shot\n\n*When you fire two arrows back-to-back, both hit their mark.*\n\n| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12**           | **🎯 Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage",
   "equipment_text": "You wear light armor and wield a bow.",
   "name": "Rapid-Fire",
-  "ranged_damage_bonus": "+2/+2/+2",
   "scc": "mcdm.heroes.v1/kit/rapid-fire",
   "signature_ability": {
     "ability_type": "Signature",
-    "distance": "Ranged 12",
+    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12",
     "effects": [
       {
         "effect": ""
@@ -16,21 +14,21 @@
     "feature_type": "ability",
     "flavor": "When you fire two arrows back-to-back, both hit their mark.",
     "keywords": [
-      "Ranged",
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
       "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "metadata": {
       "ability_type": "Signature",
       "action_type": "Main action",
-      "content": "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **📏 Ranged 12**           | **🎯 Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage",
-      "distance": "Ranged 12",
+      "content": "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12**           | **🎯 Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage",
+      "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12",
       "feature_type": "ability",
       "flavor": "When you fire two arrows back-to-back, both hit their mark.",
       "item_id": "two-shot",
       "item_name": "Two Shot",
       "keywords": [
-        "Ranged",
+        "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
         "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
         "Weapon"
       ],

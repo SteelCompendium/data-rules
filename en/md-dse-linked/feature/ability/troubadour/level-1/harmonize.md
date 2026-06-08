@@ -4,7 +4,7 @@ class: troubadour
 cost: 3 Drama
 cost_amount: "3"
 cost_resource: Drama
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effect: The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
 feature_type: ability
 file_basename: harmonize
@@ -13,7 +13,7 @@ flavor: Give the chorus a little punch.
 item_id: harmonize
 item_name: Harmonize
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Harmonize
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harmonize
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 3 Drama
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
     - effect: The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
     - effect: '1+ Drama: You can trigger this ability when a target uses an ability that has a [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 3 + each additional drama spent.'
@@ -35,16 +35,16 @@ effects:
 feature_type: ability
 flavor: Give the chorus a little punch.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Triggered
     class: troubadour
     cost: 3 Drama
-    distance: Ranged 5
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
     effect: The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
     flavor: Give the chorus a little punch.
     keywords:
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Harmonize
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harmonize

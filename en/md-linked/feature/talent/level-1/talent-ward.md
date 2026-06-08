@@ -10,16 +10,16 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ## Entropy Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/entropy-ward"}
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their [speed](../../../rule/character/speed.md) is reduced by an amount equal to your [Reason](../../../rule/character/reason.md) score and they can't use [triggered actions](../../../rule/combat/triggered-action.md) until the end of their next turn.
+Your ward slows time for your enemies. Whenever a creature deals damage to you, their [speed](../../../rule/character/speed.md) is reduced by an amount equal to your [Reason](../../../rule/character/reason.md) score and they can't use [triggered actions](../../../rule/combat/triggered-action.md) until the end of their next [turn](../../../rule/combat/turn.md).
 
 ## Repulsive Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/repulsive-ward"}
 
-You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to push them up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
+You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to push them up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Steel Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/steel-ward"}
 
-Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../../../rule/damage/damage-immunity.md) equal to your [Reason](../../../rule/character/reason.md) score until the end of your next turn.
+Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../../../rule/damage/damage-immunity.md) equal to your [Reason](../../../rule/character/reason.md) score until the end of your next [turn](../../../rule/combat/turn.md).
 
 ## Vanishing Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/vanishing-ward"}
 
-Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.
+Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next [turn](../../../rule/combat/turn.md).

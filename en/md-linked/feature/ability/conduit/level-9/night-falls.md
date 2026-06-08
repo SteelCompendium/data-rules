@@ -8,7 +8,7 @@ flavor: You summon darkness that thwarts only your foes.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Night Falls
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls
@@ -19,7 +19,7 @@ type: ability
 
 *You summon darkness that thwarts only your foes.*
 
-| **Area, Magic, Ranged** |  **Main action** |
+| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)** |  **Main action** |
 |-------------------------|-----------------:|
 | **📏 5 [cube](../../../../rule/combat/cube.md) within 10** |   **🎯 Special** |
 

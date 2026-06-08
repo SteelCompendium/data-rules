@@ -1,7 +1,7 @@
 ---
 action_type: Triggered
 class: conduit
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: The [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) against the target.
 feature_type: ability
 file_basename: word-of-judgment
@@ -11,7 +11,7 @@ item_id: word-of-judgment
 item_name: Word of Judgment
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Word of Judgment
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-judgment
@@ -24,7 +24,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) against the target.
     - effect: '1 Piety: The [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) against the target.'
@@ -33,16 +33,16 @@ feature_type: ability
 flavor: Your holy word saps an attacking enemy's strength.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Triggered
     class: conduit
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: The [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) against the target.
     flavor: Your holy word saps an attacking enemy's strength.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Word of Judgment
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-judgment

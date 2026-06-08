@@ -2,13 +2,13 @@
 action_type: Main action
 class: elementalist
 cost: 3 Essence
-distance: Ranged 10
-effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](../../../../rule/combat/adjacent.md) creature as a main action.
 flavor: Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Invigorating Growth
@@ -20,9 +20,9 @@ type: ability
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
-| **Green, Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |      **Main action** |
+| **Green, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                 |  **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
@@ -30,4 +30,4 @@ type: ability
 - **12-16:** 7 + R poison damage
 - **17+:** 11 + R poison damage
 
-**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](../../../../rule/combat/adjacent.md) creature as a main action.

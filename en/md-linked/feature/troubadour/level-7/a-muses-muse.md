@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.troubadour.level-7/a-muses-muse
 type: feature
 ---
 
-At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.
+At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 1d3 + 1 drama instead of 1d3.

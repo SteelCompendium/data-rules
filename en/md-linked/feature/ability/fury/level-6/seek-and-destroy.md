@@ -2,11 +2,11 @@
 action_type: Main action
 class: fury
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
 flavor: You break through the enemy lines to make an example.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -19,9 +19,9 @@ type: ability
 
 *You break through the enemy lines to make an example.*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **Effect:** You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
 

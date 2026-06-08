@@ -2,11 +2,11 @@
 action_type: Main action
 class: talent
 cost: 11 Clarity
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effect: The target can't communicate with anyone until the end of the encounter.
 flavor: You attempt to make them forget all their training.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
@@ -20,9 +20,9 @@ type: ability
 
 *You attempt to make them forget all their training.*
 
-| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Telepathy** |     **Main action** |
 |---------------------------------------|--------------------:|
-| **📏 Melee 2**                        | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 2**                        | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

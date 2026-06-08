@@ -4,7 +4,7 @@ class: shadow
 cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: A target who is not a minion, leader, or solo creature and who is [winded](../../../../rule/health/winded.md) after taking this damage is reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 feature_type: ability
 file_basename: assassinate
@@ -13,7 +13,7 @@ flavor: A practiced attack will instantly kill an already weakened foe.
 item_id: assassinate
 item_name: Assassinate
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "8"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 11 Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: A target who is not a minion, leader, or solo creature and who is [winded](../../../../rule/health/winded.md) after taking this damage is reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 feature_type: ability
 flavor: A practiced attack will instantly kill an already weakened foe.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 11 Insight
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: A target who is not a minion, leader, or solo creature and who is [winded](../../../../rule/health/winded.md) after taking this damage is reduced to 0 [Stamina](../../../../rule/health/stamina.md).
     flavor: A practiced attack will instantly kill an already weakened foe.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "8"

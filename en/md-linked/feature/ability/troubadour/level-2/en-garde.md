@@ -2,11 +2,11 @@
 action_type: Main action
 class: troubadour
 cost: 5 Drama
-distance: Melee 1
-effect: The target can make a melee [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../../common/main-actions/free-strike.md) against the target.
-flavor: Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: The target can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against the target.
+flavor: Wait, it's... Guard! [Turn](../../../../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -17,11 +17,11 @@ type: ability
 ---
 
 
-*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
+*Wait, it's... Guard! [Turn](../../../../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!*
 
-| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 11 + **A** damage
 - **17+:** 16 + **A** damage
 
-**Effect:** The target can make a melee [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../../common/main-actions/free-strike.md) against the target.
+**Effect:** The target can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against the target.

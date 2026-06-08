@@ -1,12 +1,10 @@
 ---
-disengage_bonus: "+1"
 equipment_text: You wear light armor and wield a bow.
 file_basename: rapid-fire
 file_dpath: kit
 item_id: rapid-fire
 item_name: Rapid-Fire
 name: Rapid-Fire
-ranged_damage_bonus: +2/+2/+2
 scc: mcdm.heroes.v1/kit/rapid-fire
 source: mcdm.heroes.v1
 type: kit
@@ -20,15 +18,15 @@ You wear light armor and wield a bow.
 
 ##### Kit Bonuses
 
-**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +3 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +3 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
 
-**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +1
+**[Speed](scc:mcdm.heroes.v1/rule.character/speed) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
-**Ranged Damage Bonus:** +2/+2/+2
+**[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +2/+2/+2
 
-**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +7
+**[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [Distance](scc:mcdm.heroes.v1/rule.combat/distance) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +7
 
-**Disengage Bonus:** +1
+**Disengage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
 ##### Signature Ability
 
@@ -36,9 +34,9 @@ You wear light armor and wield a bow.
 
 *When you fire two arrows back-to-back, both hit their mark.*
 
-| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |
+| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |
 |----------------------------|--------------------------------:|
-| **📏 Ranged 12**           | **🎯 Two creatures or objects** |
+| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12**           | **🎯 Two creatures or objects** |
 
 **[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
@@ -47,21 +45,21 @@ You wear light armor and wield a bow.
 - **17+:** 8 damage
 
 ```ds-feature
-distance: Ranged 12
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12'
 effects:
-    - effect: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
+    - effect: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12**           | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
 feature_type: ability
 flavor: When you fire two arrows back-to-back, both hit their mark.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Ranged 12
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12'
     flavor: When you fire two arrows back-to-back, both hit their mark.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Two Shot

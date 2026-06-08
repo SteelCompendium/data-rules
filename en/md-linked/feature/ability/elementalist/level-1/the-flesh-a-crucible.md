@@ -2,12 +2,12 @@
 action_type: Main action
 class: elementalist
 cost: 3 Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: Fire engulfs your target and continues to churn.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: The Flesh, a Crucible
@@ -19,9 +19,9 @@ type: ability
 
 *Fire engulfs your target and continues to churn.*
 
-| **Fire, Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
+| **Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within [distance](../../../../rule/combat/distance.md) at the start of your turn, you can make the [power roll](../../../../rule/dice/power-roll.md) again without spending essence (no action required).
+**Persistent 1:** If the target is within [distance](../../../../rule/combat/distance.md) at the start of your [turn](../../../../rule/combat/turn.md), you can make the [power roll](../../../../rule/dice/power-roll.md) again without spending essence (no action required).

@@ -4,8 +4,8 @@ class: talent
 cost: 7 Clarity
 cost_amount: "7"
 cost_resource: Clarity
-distance: Ranged 10
-effect: A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: A target who is flung through time is removed from the encounter map until the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn), reappearing in their original space or the nearest unoccupied space.
 feature_type: ability
 file_basename: fling-through-time
 file_dpath: feature/ability/talent/level-3
@@ -15,7 +15,7 @@ item_name: Fling Through Time
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Strike
 level: "3"
 name: Fling Through Time
@@ -27,27 +27,27 @@ type: ability
 
 ```ds-feature
 cost: 7 Clarity
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
+    - effect: A target who is flung through time is removed from the encounter map until the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn), reappearing in their original space or the nearest unoccupied space.
 feature_type: ability
 flavor: You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Strike
 metadata:
     action_type: Main action
     class: talent
     cost: 7 Clarity
-    distance: Ranged 10
-    effect: A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: A target who is flung through time is removed from the encounter map until the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn), reappearing in their original space or the nearest unoccupied space.
     flavor: You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.
     keywords:
         - Chronopathy
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Strike
     level: "3"
     name: Fling Through Time

@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: tactician
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).
 feature_type: ability
 file_basename: strike-now
@@ -10,7 +10,7 @@ flavor: Your foe left an opening. You point this out to an ally!
 item_id: strike-now
 item_name: '"Strike Now!"'
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: '"Strike Now!"'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/strike-now
@@ -21,7 +21,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The target can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).
     - effect: '5 Focus: You target two allies instead of one.'
@@ -29,15 +29,15 @@ effects:
 feature_type: ability
 flavor: Your foe left an opening. You point this out to an ally!
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: tactician
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: The target can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).
     flavor: Your foe left an opening. You point this out to an ally!
     keywords:
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: '"Strike Now!"'
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/strike-now

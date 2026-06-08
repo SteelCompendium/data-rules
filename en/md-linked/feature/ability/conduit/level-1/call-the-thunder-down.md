@@ -4,11 +4,11 @@ class: conduit
 cost: 3 Piety
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
-flavor: You ask your saint for thunder and your prayer is answered.
+flavor: You ask your [saint](../../../../rule/world/saint.md) for thunder and your prayer is answered.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Call the Thunder Down
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down
@@ -17,9 +17,9 @@ type: ability
 ---
 
 
-*You ask your saint for thunder and your prayer is answered.*
+*You ask your [saint](../../../../rule/world/saint.md) for thunder and your prayer is answered.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 3 [cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 

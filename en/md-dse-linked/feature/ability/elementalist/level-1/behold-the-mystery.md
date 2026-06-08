@@ -14,7 +14,7 @@ item_name: Behold the Mystery
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Void
 level: "1"
 name: Behold the Mystery
@@ -28,13 +28,13 @@ type: ability
 cost: 3 Essence
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
-    - effect: "\n*You open a rift into the void to harry your foes.*\n\n| **Area, Magic, Ranged, Void** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](../../../../rule/combat/cube.md) within 10**       | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 4 psychic damage\n- **17+:** 6 psychic damage\n\n**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence."
+    - effect: "\n*You open a rift into the void to harry your foes.*\n\n| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](../../../../rule/combat/cube.md) within 10**       | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 4 psychic damage\n- **17+:** 6 psychic damage\n\n**Persistent 1:** At the start of your [turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence."
 feature_type: ability
 flavor: You open a rift into the void to harry your foes.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Void
 metadata:
     action_type: Main action
@@ -45,7 +45,7 @@ metadata:
     keywords:
         - Area
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - Void
     level: "1"
     name: Behold the Mystery

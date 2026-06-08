@@ -5,7 +5,7 @@ cost: 9 Discipline
 cost_amount: "9"
 cost_resource: Discipline
 distance: Self
-effect: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc:mcdm.heroes.v1/rule.character/stability) gains a bonus equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+effect: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc:mcdm.heroes.v1/rule.character/stability) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
 file_basename: iron-body
 file_dpath: feature/ability/null/level-6
@@ -26,7 +26,7 @@ type: ability
 cost: 9 Discipline
 distance: Self
 effects:
-    - effect: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc:mcdm.heroes.v1/rule.character/stability) gains a bonus equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+    - effect: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc:mcdm.heroes.v1/rule.character/stability) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
 flavor: You focus until your body becomes as hard as iron.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: "null"
     cost: 9 Discipline
     distance: Self
-    effect: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc:mcdm.heroes.v1/rule.character/stability) gains a bonus equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+    effect: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc:mcdm.heroes.v1/rule.character/stability) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
     flavor: You focus until your body becomes as hard as iron.
     keywords:
         - Psionic

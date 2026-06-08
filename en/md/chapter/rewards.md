@@ -35,7 +35,7 @@ As an optional rule, the Director can allow a hero to make a purchase that is on
 
 | Score       | Affordable                                                                                                                            |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| 1           | Mundane clothing, gear, armor, implements, and weapons; meals or drinks at a common tavern; a stay at a common inn; passage on a boat |
+| 1           | Mundane clothing, gear, armor, [implements](scc:mcdm.heroes.v1/rule.treasure/implement), and weapons; meals or drinks at a common tavern; a stay at a common inn; passage on a boat |
 | 2           | Horse and cart; dinner at a fine tavern; a stay at a fine inn                                                                         |
 | 3           | Catapult; small house                                                                                                                 |
 | 4           | Library; tavern; manor home; sailing boat                                                                                             |

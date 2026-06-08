@@ -4,7 +4,7 @@ class: shadow
 cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effect: Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
 feature_type: ability
 file_basename: chain-reaction
@@ -13,7 +13,7 @@ flavor: One explosion, an offense. Three explosions, an assault. Nine explosions
 item_id: chain-reaction
 item_name: Chain Reaction
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "9"
 name: Chain Reaction
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction
@@ -24,22 +24,22 @@ type: ability
 
 ```ds-feature
 cost: 11 Insight
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
 feature_type: ability
 flavor: One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: shadow
     cost: 11 Insight
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     effect: Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
     flavor: One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "9"
     name: Chain Reaction
     scc: mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction

@@ -32,11 +32,11 @@ Choose one of the following abilities.
 
 *You reverse the effects from an evildoer.*
 
-| **Magic, Ranged** |      **Free triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** |      **Free triggered** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** The target gains a condition or effect that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+**Trigger:** The target gains a [condition](../../../rule/combat/condition.md) or effect that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../rule/combat/turn.md).
 
 **Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../rule/character/presence.md) score.
 
@@ -49,9 +49,9 @@ Choose one of the following abilities.
 
 *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |         **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |         **Maneuver** |
 |---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
@@ -79,9 +79,9 @@ Choose one of the following abilities.
 
 *You focus your allies' wrath on a chosen foe.*
 
-| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |   **Main action** |
+| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |   **Main action** |
 |---------------------------|------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
@@ -96,9 +96,9 @@ Choose one of the following abilities.
 
 *You take your ally's place.*
 
-| **Magic, Ranged** | **Free triggered** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)** | **Free triggered** |
 |-------------------|-------------------:|
-| **📏 Ranged 10**  |    **🎯 One ally** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  |    **🎯 One ally** |
 
 **Trigger:** A creature makes a [strike](../../../rule/combat/strike.md) against the target.
 

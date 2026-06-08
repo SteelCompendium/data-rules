@@ -4,7 +4,7 @@ class: talent
 cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: While [slowed](../../../../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
 feature_type: ability
 file_basename: mind-snare
@@ -14,7 +14,7 @@ item_id: mind-snare
 item_name: Mind Snare
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 level: "5"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 9 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: While [slowed](../../../../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
 feature_type: ability
 flavor: You latch onto your prey's brain and don't let go, like a song they can't get out of their head.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 metadata:
     action_type: Main action
     class: talent
     cost: 9 Clarity
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: While [slowed](../../../../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
     flavor: You latch onto your prey's brain and don't let go, like a song they can't get out of their head.
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Telepathy
     level: "5"

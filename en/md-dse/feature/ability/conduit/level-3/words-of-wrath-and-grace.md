@@ -9,7 +9,7 @@ effect: Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.hea
 feature_type: ability
 file_basename: words-of-wrath-and-grace
 file_dpath: feature/ability/conduit/level-3
-flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.
+flavor: Your [saint](scc:mcdm.heroes.v1/rule.world/saint) grants your enemies a vision of pain and fills your allies with healing energy.
 item_id: words-of-wrath-and-grace
 item_name: Words of Wrath and Grace
 keywords:
@@ -29,7 +29,7 @@ distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
-flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.
+flavor: Your [saint](scc:mcdm.heroes.v1/rule.world/saint) grants your enemies a vision of pain and fills your allies with healing energy.
 keywords:
     - Area
     - Magic
@@ -39,7 +39,7 @@ metadata:
     cost: 7 Piety
     distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
-    flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.
+    flavor: Your [saint](scc:mcdm.heroes.v1/rule.world/saint) grants your enemies a vision of pain and fills your allies with healing energy.
     keywords:
         - Area
         - Magic

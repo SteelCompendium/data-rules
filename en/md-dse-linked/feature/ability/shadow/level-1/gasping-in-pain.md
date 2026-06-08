@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: shadow
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: One ally within 5 squares of the target gains 1 [surge](../../../../rule/resource/surge.md).
 feature_type: ability
 file_basename: gasping-in-pain
@@ -10,7 +10,7 @@ flavor: Your precise strikes let your allies take advantage of a target's agony.
 item_id: gasping-in-pain
 item_name: Gasping in Pain
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: One ally within 5 squares of the target gains 1 [surge](../../../../rule/resource/surge.md).
 feature_type: ability
 flavor: Your precise strikes let your allies take advantage of a target's agony.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: One ally within 5 squares of the target gains 1 [surge](../../../../rule/resource/surge.md).
     flavor: Your precise strikes let your allies take advantage of a target's agony.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

@@ -4,7 +4,7 @@ class: shadow
 cost: 3 Insight
 cost_amount: "3"
 cost_resource: Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
 feature_type: ability
 file_basename: get-in-get-out
@@ -13,7 +13,7 @@ flavor: Move unexpectedly, strike fast, and be gone!
 item_id: get-in-get-out
 item_name: Get In Get Out
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -26,24 +26,24 @@ type: ability
 
 ```ds-feature
 cost: 3 Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
 feature_type: ability
 flavor: Move unexpectedly, strike fast, and be gone!
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 3 Insight
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
     flavor: Move unexpectedly, strike fast, and be gone!
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

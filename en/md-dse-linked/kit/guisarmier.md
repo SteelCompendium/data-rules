@@ -4,7 +4,6 @@ file_basename: guisarmier
 file_dpath: kit
 item_id: guisarmier
 item_name: Guisarmier
-melee_damage_bonus: +2/+2/+2
 name: Guisarmier
 scc: mcdm.heroes.v1/kit/guisarmier
 source: mcdm.heroes.v1
@@ -19,13 +18,13 @@ You wear medium armor and wield a polearm.
 
 ##### Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +6 per [echelon](../rule/general/echelon.md)
+**[Stamina](../rule/health/stamina.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../rule/general/echelon.md)
 
-**[Stability](../rule/character/stability.md) Bonus:** +1
+**[Stability](../rule/character/stability.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
-**Melee Damage Bonus:** +2/+2/+2
+**[Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +2/+2/+2
 
-**Melee [Distance](../rule/combat/distance.md) Bonus:** +1
+**[Melee](../rule/combat/melee.md) [Distance](../rule/combat/distance.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
 ##### Signature Ability
 
@@ -33,9 +32,9 @@ You wear medium armor and wield a polearm.
 
 *In your hands, the haft is as good as the head.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 2**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](../rule/combat/melee.md) 2**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 

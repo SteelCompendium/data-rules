@@ -1,34 +1,34 @@
 {
   "ability_type": "Triggered",
-  "distance": "Melee 2",
+  "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2",
   "effects": [
     {
-      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square. If the target is you, or if you end this [shift](scc:mcdm.heroes.v1/movement/shifting) adjacent to the target, the target takes half the damage. If the damage has any [potency](scc:mcdm.heroes.v1/rule.character/potency) effect associated with it, the [potency](scc:mcdm.heroes.v1/rule.character/potency) is decreased by 1.",
+      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square. If the target is you, or if you end this [shift](scc:mcdm.heroes.v1/movement/shifting) [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target, the target takes half the damage. If the damage has any [potency](scc:mcdm.heroes.v1/rule.character/potency) effect associated with it, the [potency](scc:mcdm.heroes.v1/rule.character/potency) is decreased by 1.",
       "name": "Effect"
     },
     {
       "cost": "Spend 1 Focus",
-      "effect": "This ability's [distance](scc:mcdm.heroes.v1/rule.combat/distance) becomes Melee 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and you can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead of 1 square."
+      "effect": "This ability's [distance](scc:mcdm.heroes.v1/rule.combat/distance) becomes [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and you can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead of 1 square."
     }
   ],
   "feature_type": "ability",
   "flavor": "Your quick reflexes cost an enemy the precision they seek.",
   "keywords": [
-    "Melee",
+    "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
     "Weapon"
   ],
   "metadata": {
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "tactician",
-    "content": "\n*Your quick reflexes cost an enemy the precision they seek.*\n\n| **Melee, Weapon** |            **Triggered** |\n|-------------------|-------------------------:|\n| **📏 Melee 2**    |  **🎯 Self or one ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square. If the target is you, or if you end this [shift](scc:mcdm.heroes.v1/movement/shifting) adjacent to the target, the target takes half the damage. If the damage has any [potency](scc:mcdm.heroes.v1/rule.character/potency) effect associated with it, the [potency](scc:mcdm.heroes.v1/rule.character/potency) is decreased by 1.\n\n**Spend 1 Focus:** This ability's [distance](scc:mcdm.heroes.v1/rule.combat/distance) becomes Melee 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and you can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead of 1 square.",
-    "distance": "Melee 2",
+    "content": "\n*Your quick reflexes cost an enemy the precision they seek.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), Weapon** |            **Triggered** |\n|-------------------|-------------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2**    |  **🎯 Self or one ally** |\n\n**Trigger:** A creature deals damage to the target.\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square. If the target is you, or if you end this [shift](scc:mcdm.heroes.v1/movement/shifting) [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target, the target takes half the damage. If the damage has any [potency](scc:mcdm.heroes.v1/rule.character/potency) effect associated with it, the [potency](scc:mcdm.heroes.v1/rule.character/potency) is decreased by 1.\n\n**Spend 1 Focus:** This ability's [distance](scc:mcdm.heroes.v1/rule.combat/distance) becomes [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score, and you can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score instead of 1 square.",
+    "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2",
     "feature_type": "ability",
     "flavor": "Your quick reflexes cost an enemy the precision they seek.",
     "item_id": "parry",
     "item_name": "Parry",
     "keywords": [
-      "Melee",
+      "[Melee](scc:mcdm.heroes.v1/rule.combat/melee)",
       "Weapon"
     ],
     "level": 1,

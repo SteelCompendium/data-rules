@@ -1,5 +1,5 @@
 effects:
-    - effect: You have a bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score, and you ignore [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
+    - effect: You have a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc:mcdm.heroes.v1/rule.character/speed) equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score, and you ignore [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
 feature_type: feature
 metadata:
     action_type: feature

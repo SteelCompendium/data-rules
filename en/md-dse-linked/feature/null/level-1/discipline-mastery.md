@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        As you advance in your chosen [null tradition](null-tradition.md), you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+        As you advance in your chosen [null tradition](null-tradition.md), you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your [turn](../../../rule/combat/turn.md), even if a benefit would become unavailable to you because of the amount of discipline you spend during your [turn](../../../rule/combat/turn.md).
 
         Some [Discipline Mastery](discipline-mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 feature_type: feature

@@ -15,7 +15,7 @@ item_name: Gravitic Well
 keywords:
     - Area
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Telekinesis
 level: "6"
 name: Gravitic Well
@@ -35,7 +35,7 @@ flavor: You bend gravity into a fine point and pull your foes toward it.
 keywords:
     - Area
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - Telekinesis
 metadata:
     action_type: Main action
@@ -47,7 +47,7 @@ metadata:
     keywords:
         - Area
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - Telekinesis
     level: "6"
     name: Gravitic Well

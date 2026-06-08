@@ -36,15 +36,15 @@ Your [primordial aspect](primordial-aspect.md) grants you a [triggered action](.
 
 *You redirect the energy of motion.*
 
-| **Magic, Melee** |               **Triggered** |
+| **Magic, [Melee](../../../rule/combat/melee.md)** |               **Triggered** |
 |------------------|----------------------------:|
-| **📏 Melee 1**   | **🎯 Self or one creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**   | **🎯 Self or one creature** |
 
 **Trigger:** The target would be [force moved](../../../movement/forced-movement.md).
 
-**Effect:** You can select a new target of the same [size](../../../rule/character/size.md) or smaller within [distance](../../../rule/combat/distance.md) to be force moved instead. You become the source of the [forced movement](../../../movement/forced-movement.md), determine the new target's destination, and can push the target instead of using the original [forced movement](../../../movement/forced-movement.md) type. Additionally, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to your [Might](../../../rule/character/might.md) score.
+**Effect:** You can select a new target of the same [size](../../../rule/character/size.md) or smaller within [distance](../../../rule/combat/distance.md) to be force moved instead. You become the source of the [forced movement](../../../movement/forced-movement.md), determine the new target's destination, and can push the target instead of using the original [forced movement](../../../movement/forced-movement.md) type. Additionally, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Might](../../../rule/character/might.md) score.
 
-**Spend 1 Ferocity:** The [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a bonus equal to twice your [Might](../../../rule/character/might.md) score instead.
+**Spend 1 Ferocity:** The [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to twice your [Might](../../../rule/character/might.md) score instead.
 
 ### Unearthly Reflexes {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/unearthly-reflexes"}
 

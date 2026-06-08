@@ -1,12 +1,12 @@
 ability_type: Signature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object adjacent to you.
+    - effect: You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.
       name: Effect
 feature_type: ability
 flavor: You strike so quickly that your hands become a blur.
 keywords:
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
@@ -14,14 +14,14 @@ metadata:
     ability_type: Signature
     action_type: Main action
     class: "null"
-    content: "\n*You strike so quickly that your hands become a blur.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|------------------------------------|--------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 5 damage\n- **17+:** 7 damage\n\n**Effect:** You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object adjacent to you."
-    distance: Melee 1
+    content: "\n*You strike so quickly that your hands become a blur.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|------------------------------------|--------------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**                     | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 5 damage\n- **17+:** 7 damage\n\n**Effect:** You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you."
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     feature_type: ability
     flavor: You strike so quickly that your hands become a blur.
     item_id: faster-than-the-eye
     item_name: Faster Than the Eye
     keywords:
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon

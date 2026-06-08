@@ -1,10 +1,10 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 flavor: The force of your blow extends past the limits of your body, pulling your enemy closer.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -19,9 +19,9 @@ type: ability
 
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
 
-| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 2**                     | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 2**                     | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

@@ -2,12 +2,12 @@
 action_type: Main action
 class: conduit
 cost: 7 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: One ally within [distance](../../../../rule/combat/distance.md) can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
 flavor: A beam of energy connects a foe to a friend, draining life from one to heal the other.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "3"
 name: Soul Siphon
@@ -19,9 +19,9 @@ type: ability
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |  **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |  **Main action** |
 |---------------------------|-----------------:|
-| **📏 Ranged 10**          | **🎯 One enemy** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One enemy** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: At the start of your turn, you can end any [restrained](../../../condition/restrained.md) condition on you. Additionally, you have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to escape being confined or imprisoned.
+    - effect: At the start of your [turn](../../../rule/combat/turn.md), you can end any [restrained](../../../condition/restrained.md) [condition](../../../rule/combat/condition.md) on you. Additionally, you have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to escape being confined or imprisoned.
 feature_type: feature
 metadata:
     class: fury

@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 feature_type: ability
 file_basename: melee-weapon-free-strike-combat
 file_dpath: feature/ability/common/free-strikes
@@ -8,7 +8,7 @@ item_id: melee-weapon-free-strike-combat
 item_name: Melee Weapon Free Strike
 keywords:
     - Charge
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Stike
     - Weapon
 name: Melee Weapon Free Strike
@@ -20,21 +20,21 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: "| **Charge, Melee, Stike, Weapon** |               **Main action** |\n| -------------------------------- | -----------------------------:|\n| **\U0001F4CF Melee 1**                   | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 5 + M or A damage\n- **17+:** 7 + M or A damage"
+    - effect: "| **Charge, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), Stike, Weapon** |               **Main action** |\n| -------------------------------- | -----------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**                   | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 5 + M or A damage\n- **17+:** 7 + M or A damage"
 feature_type: ability
 keywords:
     - Charge
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Stike
     - Weapon
 metadata:
     action_type: Main action
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     keywords:
         - Charge
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Stike
         - Weapon
     name: Melee Weapon Free Strike

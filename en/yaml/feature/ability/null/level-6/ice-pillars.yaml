@@ -1,5 +1,5 @@
 cost: 9 Discipline
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved.
       name: Effect
@@ -7,19 +7,19 @@ feature_type: ability
 flavor: Pillars of ice erupt from the ground and launch your foes into the air.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: "null"
-    content: "\n*Pillars of ice erupt from the ground and launch your foes into the air.*\n\n| **Psionic, Ranged** |                   **Main action** |\n|---------------------|----------------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF Three creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** Vertical slide 6\n- **12-16:** Vertical slide 8\n- **17+:** Vertical slide 10\n\n**Effect:** The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved."
-    distance: Ranged 10
+    content: "\n*Pillars of ice erupt from the ground and launch your foes into the air.*\n\n| **Psionic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |                   **Main action** |\n|---------------------|----------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**    | **\U0001F3AF Three creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** Vertical slide 6\n- **12-16:** Vertical slide 8\n- **17+:** Vertical slide 10\n\n**Effect:** The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved."
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     feature_type: ability
     flavor: Pillars of ice erupt from the ground and launch your foes into the air.
     item_id: ice-pillars
     item_name: Ice Pillars
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: 6
     scc:
         - mcdm.heroes.v1/feature.ability.null.level-6/ice-pillars

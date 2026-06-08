@@ -2,12 +2,12 @@
 action_type: Main action
 class: conduit
 cost: 9 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: If this damage kills the target, you and each ally within [distance](../../../../rule/combat/distance.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: You bend the fate of a foe, willing them to die.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Your Story Ends Here
@@ -19,9 +19,9 @@ type: ability
 
 *You bend the fate of a foe, willing them to die.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 

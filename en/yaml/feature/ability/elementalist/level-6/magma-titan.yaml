@@ -1,7 +1,7 @@
 cost: 9 Essence
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: 'Until the start of your next turn, the target has the following benefits:'
+    - effect: 'Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target has the following benefits:'
       name: Effect
 feature_type: ability
 flavor: Their body swells with lava, mud, and might, towering over their enemies.
@@ -10,12 +10,12 @@ keywords:
     - Fire
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: elementalist
-    content: "\n*Their body swells with lava, mud, and might, towering over their enemies.*\n\n| **Earth, Fire, Green, Magic, Ranged** |            **Maneuver** |\n|---------------------------------------|------------------------:|\n| **\U0001F4CF Ranged 10**                      | **\U0001F3AF Self or one ally** |\n\n**Effect:** Until the start of your next turn, the target has the following benefits:\n\n- Their [size](scc:mcdm.heroes.v1/rule.character/size) and [stability](scc:mcdm.heroes.v1/rule.character/stability) increase by 2, with any [size](scc:mcdm.heroes.v1/rule.character/size) 1 target becoming [size](scc:mcdm.heroes.v1/rule.character/size) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](scc:mcdm.heroes.v1/rule.character/stability). If the target doesn't have space to grow, they grow as much as they can and become [restrained](scc:mcdm.heroes.v1/condition/restrained) until the effect ends.\n- They have fire immunity 10.\n- Their [strikes](scc:mcdm.heroes.v1/rule.combat/strike) deal extra fire damage equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.\n- When the target force moves a creature or object, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +2 bonus.\n- They can use their highest [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) instead of [Might](scc:mcdm.heroes.v1/rule.character/might) for [Might](scc:mcdm.heroes.v1/rule.character/might) [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll).\n\n**Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries)."
-    distance: Ranged 10
+    content: "\n*Their body swells with lava, mud, and might, towering over their enemies.*\n\n| **Earth, Fire, Green, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |            **Maneuver** |\n|---------------------------------------|------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                      | **\U0001F3AF Self or one ally** |\n\n**Effect:** Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target has the following benefits:\n\n- Their [size](scc:mcdm.heroes.v1/rule.character/size) and [stability](scc:mcdm.heroes.v1/rule.character/stability) increase by 2, with any [size](scc:mcdm.heroes.v1/rule.character/size) 1 target becoming [size](scc:mcdm.heroes.v1/rule.character/size) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](scc:mcdm.heroes.v1/rule.character/stability). If the target doesn't have space to grow, they grow as much as they can and become [restrained](scc:mcdm.heroes.v1/condition/restrained) until the effect ends.\n- They have fire immunity 10.\n- Their [strikes](scc:mcdm.heroes.v1/rule.combat/strike) deal extra fire damage equal to twice your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.\n- When the target force moves a creature or object, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +2 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties).\n- They can use their highest [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) instead of [Might](scc:mcdm.heroes.v1/rule.character/might) for [Might](scc:mcdm.heroes.v1/rule.character/might) [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll).\n\n**Persistent 2:** The effect lasts until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Additionally, at the start of your [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target can spend 2 [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries)."
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     feature_type: ability
     flavor: Their body swells with lava, mud, and might, towering over their enemies.
     item_id: magma-titan
@@ -25,7 +25,7 @@ metadata:
         - Fire
         - Green
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: 6
     scc:
         - mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan

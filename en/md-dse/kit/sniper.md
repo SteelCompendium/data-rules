@@ -1,12 +1,10 @@
 ---
-disengage_bonus: "+1"
 equipment_text: You wear no armor and wield a bow.
 file_basename: sniper
 file_dpath: kit
 item_id: sniper
 item_name: Sniper
 name: Sniper
-ranged_damage_bonus: +0/+0/+4
 scc: mcdm.heroes.v1/kit/sniper
 source: mcdm.heroes.v1
 type: kit
@@ -20,13 +18,13 @@ You wear no armor and wield a bow.
 
 ##### Kit Bonuses
 
-**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +1
+**[Speed](scc:mcdm.heroes.v1/rule.character/speed) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
-**Ranged Damage Bonus:** +0/+0/+4
+**[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +0/+0/+4
 
-**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +10
+**[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [Distance](scc:mcdm.heroes.v1/rule.combat/distance) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +10
 
-**Disengage Bonus:** +1
+**Disengage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
 ##### Signature Ability
 
@@ -34,9 +32,9 @@ You wear no armor and wield a bow.
 
 *Breathe... aim... wait... then strike!*
 
-| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |
+| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 15**           | **🎯 One creature** |
+| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15**           | **🎯 One creature** |
 
 **[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
@@ -44,25 +42,25 @@ You wear no armor and wield a bow.
 - **12-16:** 6 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
+**Effect:** If you don't take a move action this [turn](scc:mcdm.heroes.v1/rule.combat/turn), this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
 
 ```ds-feature
-distance: Ranged 15
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
 effects:
-    - effect: If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
+    - effect: If you don't take a move action this [turn](scc:mcdm.heroes.v1/rule.combat/turn), this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
 feature_type: ability
 flavor: Breathe... aim... wait... then strike!
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Ranged 15
-    effect: If you don't take a move action this turn, this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
+    effect: If you don't take a move action this [turn](scc:mcdm.heroes.v1/rule.combat/turn), this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
     flavor: Breathe... aim... wait... then strike!
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Patient Shot

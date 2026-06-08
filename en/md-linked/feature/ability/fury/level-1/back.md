@@ -6,7 +6,7 @@ distance: 1 [burst](../../../../rule/combat/burst.md)
 flavor: You hew about you with your mighty weapon, hurling enemies backward.
 keywords:
     - Area
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "1"
 name: Back!
@@ -18,7 +18,7 @@ type: ability
 
 *You hew about you with your mighty weapon, hurling enemies backward.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 1 [burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 

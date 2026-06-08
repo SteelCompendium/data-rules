@@ -3,10 +3,10 @@ action_type: Main action
 class: fury
 cost: 5 Ferocity
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move adjacent to during this [shift](../../../../movement/shifting.md).
+effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move [adjacent](../../../../rule/combat/adjacent.md) to during this [shift](../../../../movement/shifting.md).
 flavor: Organizing your forces like feckless creatures of Law. Pitiful.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "2"
 name: Phalanx-Breaker
@@ -18,11 +18,11 @@ type: ability
 
 *Organizing your forces like feckless creatures of Law. Pitiful.*
 
-| **Melee, Weapon**      | **Main action** |
+| **[Melee](../../../../rule/combat/melee.md), Weapon**      | **Main action** |
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move adjacent to during this [shift](../../../../movement/shifting.md).
+**Effect:** You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move [adjacent](../../../../rule/combat/adjacent.md) to during this [shift](../../../../movement/shifting.md).
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.
+    - effect: When you roll for piety at the start of your [turn](scc:mcdm.heroes.v1/rule.combat/turn) in combat, you gain 1d3 + 1 piety.
 feature_type: feature
 metadata:
     class: conduit

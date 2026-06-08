@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: censor
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 feature_type: ability
 file_basename: halt-miscreant
 file_dpath: feature/ability/censor/level-1
@@ -9,7 +9,7 @@ flavor: You infuse your weapon with holy magic that makes it difficult for your 
 item_id: halt-miscreant
 item_name: Halt Miscreant!
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -22,22 +22,22 @@ type: ability
 ---
 
 ```ds-feature
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "\n*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
+    - effect: "\n*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*\n\n| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
 feature_type: ability
 flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
     class: censor
-    distance: Melee 1
+    distance: '[Melee](../../../../rule/combat/melee.md) 1'
     flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
     keywords:
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
         - Weapon
     level: "1"

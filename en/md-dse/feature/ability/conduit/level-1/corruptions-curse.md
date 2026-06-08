@@ -4,7 +4,7 @@ class: conduit
 cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 feature_type: ability
 file_basename: corruptions-curse
 file_dpath: feature/ability/conduit/level-1
@@ -13,7 +13,7 @@ item_id: corruptions-curse
 item_name: Corruption's Curse
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Corruption's Curse
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Piety
-distance: Ranged 10
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*Cursed by you, your enemy takes more damage from your allies.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 + I corruption damage; M < WEAK, [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)\n- **12-16:** 6 + I corruption damage; M < AVERAGE, [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)\n- **17+:** 9 + I corruption damage; M < STRONG, [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)"
+    - effect: "\n*Cursed by you, your enemy takes more damage from your allies.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**           | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 + I corruption damage; M < WEAK, [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)\n- **12-16:** 6 + I corruption damage; M < AVERAGE, [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)\n- **17+:** 9 + I corruption damage; M < STRONG, [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)"
 feature_type: ability
 flavor: Cursed by you, your enemy takes more damage from your allies.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: conduit
     cost: 5 Piety
-    distance: Ranged 10
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
     flavor: Cursed by you, your enemy takes more damage from your allies.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Corruption's Curse

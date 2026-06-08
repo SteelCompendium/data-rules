@@ -8,7 +8,7 @@ keywords:
     - Area
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Earth Rejects You
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/earth-rejects-you
@@ -19,7 +19,7 @@ type: ability
 
 *Everyone and everything gets blown away in an eruption of rocks and debris.*
 
-| **Area, Earth, Magic, Ranged** |                          **Main action** |
+| **Area, Earth, Magic, [Ranged](../../../../rule/combat/ranged.md)** |                          **Main action** |
 |--------------------------------|-----------------------------------------:|
 | **📏 5 [cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy and object in the area** |
 
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your [turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.

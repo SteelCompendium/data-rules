@@ -4,7 +4,7 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The first time the target is [dying](../../../../rule/health/dying.md) or [winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
 feature_type: ability
 file_basename: vessel-of-retribution
@@ -14,7 +14,7 @@ item_id: vessel-of-retribution
 item_name: Vessel of Retribution
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Vessel of Retribution
 scc: mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The first time the target is [dying](../../../../rule/health/dying.md) or [winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
 feature_type: ability
 flavor: You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Maneuver
     class: conduit
     cost: 9 Piety
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: The first time the target is [dying](../../../../rule/health/dying.md) or [winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
     flavor: You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "5"
     name: Vessel of Retribution
     scc: mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution

@@ -1,11 +1,11 @@
 ---
 action_type: Triggered
 class: tactician
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
 flavor: Under your direction, an ally waits for just the right moment to strike.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Overwatch
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch
@@ -19,9 +19,9 @@ type: ability
 
 *Under your direction, an ally waits for just the right moment to strike.*
 
-| **Ranged**       |       **Triggered** |
+| **[Ranged](../../../../rule/combat/ranged.md)**       |       **Triggered** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Trigger:** The target moves.
 

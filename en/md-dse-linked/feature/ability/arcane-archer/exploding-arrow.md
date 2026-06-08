@@ -1,6 +1,6 @@
 ---
 action_type: Main action
-distance: Ranged 15
+distance: '[Ranged](../../../rule/combat/ranged.md) 15'
 effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: exploding-arrow
@@ -10,7 +10,7 @@ item_id: exploding-arrow
 item_name: Exploding Arrow
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: arcane-archer
@@ -23,24 +23,24 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 15
+distance: '[Ranged](../../../rule/combat/ranged.md) 15'
 effects:
     - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: Your ammunition explodes with magical energy.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: Ranged 15
+    distance: '[Ranged](../../../rule/combat/ranged.md) 15'
     effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
     flavor: Your ammunition explodes with magical energy.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../rule/combat/ranged.md)'
         - '[Strike](../../../rule/combat/strike.md)'
         - Weapon
     kit: arcane-archer

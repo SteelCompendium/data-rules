@@ -2,11 +2,11 @@
 action_type: Main action
 class: talent
 cost: 9 Clarity
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 flavor: It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!
 keywords:
     - Psionic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Strike
     - Telepathy
 level: "6"
@@ -19,9 +19,9 @@ type: ability
 
 *It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 
-| **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
+| **Psionic, [Melee](../../../../rule/combat/melee.md)**, **Strike, Telepathy** |     **Main action** |
 |-------------------------------------------|--------------------:|
-| **📏 Melee 2**                            | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 2**                            | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 

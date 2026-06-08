@@ -21,7 +21,7 @@ Your [elemental specialization](../level-1/elemental-specialization.md) grants y
 
 Your animal forms become hardier. You gain [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your level when you enter an [animal form](../../../complication/animal-form.md) in combat, which is added to any [temporary Stamina](../../../rule/health/temporary-stamina.md) provided by the [animal form](../../../complication/animal-form.md).
 
-Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose [temporary Stamina](../../../rule/health/temporary-stamina.md) down to a minimum of 0. The ally gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to the amount you lost.
+Additionally, an [adjacent](../../../rule/combat/adjacent.md) ally can use a maneuver to pet you. If they do so, you can lose [temporary Stamina](../../../rule/health/temporary-stamina.md) down to a minimum of 0. The ally gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to the amount you lost.
 
 ## The Mountain Does Not Move {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/the-mountain-does-not-move"}
 
@@ -39,4 +39,4 @@ Additionally, whenever you use a void ability, you or one ally within [distance]
 
 You can use 1 square of movement to walk into an area of fire your [size](../../../rule/character/size.md) or larger and [teleport](../../../movement/teleport.md) to any other area of fire your [size](../../../rule/character/size.md) or larger within 10 squares of the first area.
 
-Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your [Reason](../../../rule/character/reason.md) score.
+Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy [adjacent](../../../rule/combat/adjacent.md) to you takes fire damage equal to your [Reason](../../../rule/character/reason.md) score.

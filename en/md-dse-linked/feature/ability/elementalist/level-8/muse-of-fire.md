@@ -16,7 +16,7 @@ keywords:
     - Area
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Muse of Fire
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire
@@ -36,7 +36,7 @@ keywords:
     - Area
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Main action
     class: elementalist
@@ -48,7 +48,7 @@ metadata:
         - Area
         - Fire
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "8"
     name: Muse of Fire
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire

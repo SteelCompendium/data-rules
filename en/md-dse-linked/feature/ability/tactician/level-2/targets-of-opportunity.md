@@ -4,7 +4,7 @@ class: tactician
 cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effect: Each target is marked by you, and you gain two [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 file_basename: targets-of-opportunity
@@ -13,7 +13,7 @@ flavor: You point out easy targets to your friends, allowing them to include mor
 item_id: targets-of-opportunity
 item_name: Targets of Opportunity
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Targets of Opportunity
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity
@@ -24,22 +24,22 @@ type: ability
 
 ```ds-feature
 cost: 5 Focus
-distance: Ranged 5
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
     - effect: Each target is marked by you, and you gain two [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 flavor: You point out easy targets to your friends, allowing them to include more enemies in their attacks.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Maneuver
     class: tactician
     cost: 5 Focus
-    distance: Ranged 5
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
     effect: Each target is marked by you, and you gain two [surges](../../../../rule/resource/surge.md).
     flavor: You point out easy targets to your friends, allowing them to include more enemies in their attacks.
     keywords:
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "2"
     name: Targets of Opportunity
     scc: mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity

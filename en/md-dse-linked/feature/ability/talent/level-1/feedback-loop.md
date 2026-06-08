@@ -1,7 +1,7 @@
 ---
 action_type: Triggered
 class: talent
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target takes psychic damage equal to half the triggering damage.
 feature_type: ability
 file_basename: feedback-loop
@@ -11,7 +11,7 @@ item_id: feedback-loop
 item_name: Feedback Loop
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Feedback Loop
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop
@@ -23,23 +23,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The target takes psychic damage equal to half the triggering damage.
 feature_type: ability
 flavor: Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: Triggered
     class: talent
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     effect: The target takes psychic damage equal to half the triggering damage.
     flavor: Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.
     keywords:
         - Psionic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Feedback Loop
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop

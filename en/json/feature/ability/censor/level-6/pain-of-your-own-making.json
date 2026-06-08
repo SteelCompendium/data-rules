@@ -1,7 +1,7 @@
 {
   "ability_type": "Triggered",
   "cost": "9 Wrath",
-  "distance": "Ranged 10",
+  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
       "effect": "The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.",
@@ -12,21 +12,21 @@
   "flavor": "You reverse the effects from an evildoer.",
   "keywords": [
     "Magic",
-    "Ranged"
+    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "ability_type": "Triggered",
     "action_type": "Free triggered",
     "class": "censor",
-    "content": "\n*You reverse the effects from an evildoer.*\n\n| **Magic, Ranged** |      **Free triggered** |\n|-------------------|------------------------:|\n| **📏 Ranged 10**  | **🎯 Self or one ally** |\n\n**Trigger:** The target gains a condition or effect that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn.\n\n**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.",
-    "distance": "Ranged 10",
+    "content": "\n*You reverse the effects from an evildoer.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |      **Free triggered** |\n|-------------------|------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**  | **🎯 Self or one ally** |\n\n**Trigger:** The target gains a [condition](scc:mcdm.heroes.v1/rule.combat/condition) or effect that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn).\n\n**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.",
+    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "You reverse the effects from an evildoer.",
     "item_id": "pain-of-your-own-making",
     "item_name": "Pain of Your Own Making",
     "keywords": [
       "Magic",
-      "Ranged"
+      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 6,
     "scc": [
@@ -37,7 +37,7 @@
   },
   "name": "Pain of Your Own Making",
   "target": "Self or one ally",
-  "trigger": "The target gains a condition or effect that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn.",
+  "trigger": "The target gains a [condition](scc:mcdm.heroes.v1/rule.combat/condition) or effect that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
   "type": "feature",
   "usage": "Free triggered"
 }

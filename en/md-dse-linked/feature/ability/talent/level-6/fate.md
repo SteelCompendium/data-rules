@@ -4,8 +4,8 @@ class: talent
 cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
-distance: Melee 2
-effect: The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
+effect: The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
 feature_type: ability
 file_basename: fate
 file_dpath: feature/ability/talent/level-6
@@ -15,7 +15,7 @@ item_name: Fate
 keywords:
     - Chronopathy
     - Psionic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
 level: "6"
 name: Fate
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/fate
@@ -26,26 +26,26 @@ type: ability
 
 ```ds-feature
 cost: 9 Clarity
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effects:
-    - effect: The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
+    - effect: The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
 feature_type: ability
 flavor: Your foe gets a glimpse of how it will end for them.
 keywords:
     - Chronopathy
     - Psionic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
 metadata:
     action_type: Main action
     class: talent
     cost: 9 Clarity
-    distance: Melee 2
-    effect: The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
+    distance: '[Melee](../../../../rule/combat/melee.md) 2'
+    effect: The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
     flavor: Your foe gets a glimpse of how it will end for them.
     keywords:
         - Chronopathy
         - Psionic
-        - Melee
+        - '[Melee](../../../../rule/combat/melee.md)'
     level: "6"
     name: Fate
     scc: mcdm.heroes.v1/feature.ability.talent.level-6/fate

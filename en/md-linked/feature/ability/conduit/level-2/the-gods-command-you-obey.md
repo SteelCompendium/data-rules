@@ -2,11 +2,11 @@
 action_type: Main action
 class: conduit
 cost: 5 Piety
-distance: Ranged 10
-flavor: You speak with the voice of your saint, commanding your enemies.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+flavor: You speak with the voice of your [saint](../../../../rule/world/saint.md), commanding your enemies.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "2"
 name: The Gods Command You Obey
@@ -16,11 +16,11 @@ type: ability
 ---
 
 
-*You speak with the voice of your saint, commanding your enemies.*
+*You speak with the voice of your [saint](../../../../rule/world/saint.md), commanding your enemies.*
 
-| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 

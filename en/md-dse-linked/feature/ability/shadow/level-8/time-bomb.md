@@ -11,7 +11,7 @@ item_id: time-bomb
 item_name: Time Bomb
 keywords:
     - Area
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Time Bomb
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb
@@ -31,7 +31,7 @@ feature_type: ability
 flavor: The longer it cooks, the bigger the boom.
 keywords:
     - Area
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 metadata:
     action_type: '[Free maneuver](../../../../rule/combat/free-maneuver.md)'
     class: shadow
@@ -40,7 +40,7 @@ metadata:
     flavor: The longer it cooks, the bigger the boom.
     keywords:
         - Area
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "8"
     name: Time Bomb
     scc: mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb

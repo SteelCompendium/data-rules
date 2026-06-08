@@ -4,8 +4,8 @@ class: tactician
 cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
-distance: Ranged 5
-effect: You move up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) for each enemy you came adjacent to during the move. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the target.
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
+effect: You move up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) toward the triggering ally, ending this movement [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to them or in the nearest square if you can't reach an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) square. The triggering ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) for each enemy you came [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the move. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the target.
 feature_type: ability
 file_basename: no-dying-on-my-watch
 file_dpath: feature/ability/tactician/level-2
@@ -13,7 +13,7 @@ flavor: You prioritize saving an ally over your own safety.
 item_id: no-dying-on-my-watch
 item_name: No Dying on My Watch
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "2"
@@ -28,24 +28,24 @@ type: ability
 
 ```ds-feature
 cost: 5 Focus
-distance: Ranged 5
+distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - effect: You move up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) for each enemy you came adjacent to during the move. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the target.
+    - effect: You move up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) toward the triggering ally, ending this movement [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to them or in the nearest square if you can't reach an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) square. The triggering ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) for each enemy you came [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the move. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the target.
 feature_type: ability
 flavor: You prioritize saving an ally over your own safety.
 keywords:
-    - Ranged
+    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Triggered
     class: tactician
     cost: 5 Focus
-    distance: Ranged 5
-    effect: You move up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) for each enemy you came adjacent to during the move. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the target.
+    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
+    effect: You move up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) toward the triggering ally, ending this movement [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to them or in the nearest square if you can't reach an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) square. The triggering ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) for each enemy you came [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the move. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the target.
     flavor: You prioritize saving an ally over your own safety.
     keywords:
-        - Ranged
+        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "2"

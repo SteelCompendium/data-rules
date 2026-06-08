@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: conduit
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 feature_type: ability
 file_basename: wither
 file_dpath: feature/ability/conduit/level-1
@@ -10,7 +10,7 @@ item_id: wither
 item_name: Wither
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Wither
@@ -22,23 +22,23 @@ type: ability
 ---
 
 ```ds-feature
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*A bolt of holy energy saps the life from a foe.*\n\n| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)\n- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)\n- **17+:** 8 + I corruption damage; P < STRONG, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)"
+    - effect: "\n*A bolt of holy energy saps the life from a foe.*\n\n| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**           | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)\n- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)\n- **17+:** 8 + I corruption damage; P < STRONG, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)"
 feature_type: ability
 flavor: A bolt of holy energy saps the life from a foe.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 metadata:
     action_type: Main action
     class: conduit
-    distance: Ranged 10
+    distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
     flavor: A bolt of holy energy saps the life from a foe.
     keywords:
         - Magic
-        - Ranged
+        - '[Ranged](../../../../rule/combat/ranged.md)'
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Wither

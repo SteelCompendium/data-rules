@@ -17,9 +17,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -34,9 +34,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *You drain the energy from your target to revitalize yourself or an ally.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md)** |     **Main action** |
 |--------------------------|--------------------:|
-| **📏 Melee 1**           | **🎯 One creature** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**           | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -51,9 +51,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *A tendril of divine energy shoots forth to draw in your foe.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -83,9 +83,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *Divine magic tears at your foe and defends a nearby friend.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -93,16 +93,16 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 4 + I corruption damage
 - **17+:** 6 + I corruption damage
 
-**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can impose a [bane](../../../rule/dice/bane.md) on one [power roll](../../../rule/dice/power-roll.md) made against them before the end of their next turn.
+**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can impose a [bane](../../../rule/dice/bane.md) on one [power roll](../../../rule/dice/power-roll.md) made against them before the end of their next [turn](../../../rule/combat/turn.md).
 
 ### Staggering Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse"}
 
 
 *A blast of judgment disorients your foe.*
 
-| **Magic, Melee, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -113,11 +113,11 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 ### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
 
-*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
+*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in [melee](../../../rule/combat/melee.md).*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -132,9 +132,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 *A bolt of holy energy saps the life from a foe.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -153,9 +153,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 ### Call the Thunder Down {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down"}
 
 
-*You ask your saint for thunder and your prayer is answered.*
+*You ask your [saint](../../../rule/world/saint.md) for thunder and your prayer is answered.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 3 [cube](../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -172,20 +172,20 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
 
-| **Magic, Ranged**  | **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**  | **Main action** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   |  **🎯 Special** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   |  **🎯 Special** |
 
-**Effect:** You summon a spirit of [size](../../../rule/character/size.md) 2 who can't be harmed, and who appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your [Intuition](../../../rule/character/intuition.md) score.
+**Effect:** You summon a spirit of [size](../../../rule/character/size.md) 2 who can't be harmed, and who appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The spirit lasts until the end of your next [turn](../../../rule/combat/turn.md). You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there takes holy damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Judgment's Hammer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer"}
 
 
 *Your divine [fury](../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -198,9 +198,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *After some holy lightning, your enemy will think twice about their next attack.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -208,7 +208,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 6 + I lightning damage
 - **17+:** 9 + I lightning damage
 
-**Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
+**Effect:** The first time on a [turn](../../../rule/combat/turn.md) that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
 
 ### 5-Piety Ability
 
@@ -219,9 +219,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Cursed by you, your enemy takes more damage from your allies.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -234,9 +234,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *Fear of divine judgment overwhelms your foe.*
 
-| **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |                      **Main action** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  |                      **Main action** |
 |----------------------------|-------------------------------------:|
-| **📏 Ranged 10**           |                  **🎯 One creature** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           |                  **🎯 One creature** |
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
@@ -249,9 +249,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 *The heroes' armor glows with golden light, granting divine protection.*
 
-| **Magic, Ranged**        |       **Maneuver** |
+| **Magic, [Ranged](../../../rule/combat/ranged.md)**        |       **Maneuver** |
 |--------------------------|-------------------:|
-| **📏 Ranged 10**         | **🎯 Four allies** |
+| **📏 [Ranged](../../../rule/combat/ranged.md) 10**         | **🎯 Four allies** |
 
 **Effect:** You can target yourself instead of one ally with this ability.
 
@@ -264,10 +264,10 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 ### Sermon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sermon-of-grace"}
 
 
-*You inspire your allies with tales of your saint's great deeds.*
+*You inspire your allies with tales of your [saint](../../../rule/world/saint.md)'s great deeds.*
 
 | **Area, Magic** |              **Main action** |
 |-----------------|-----------------------------:|
 | **📏 4 [burst](../../../rule/combat/burst.md)**  | **🎯 Each ally in the area** |
 
-**Effect:** Each target can spend a [Recovery](../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](triggered-action.md) to end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn, or to stand up if [prone](../../../condition/prone.md).
+**Effect:** Each target can spend a [Recovery](../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](triggered-action.md) to end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../rule/combat/turn.md), or to stand up if [prone](../../../condition/prone.md).

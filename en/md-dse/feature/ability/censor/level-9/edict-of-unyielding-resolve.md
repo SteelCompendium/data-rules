@@ -5,7 +5,7 @@ cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
 distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target who starts their turn in the area gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
 feature_type: ability
 file_basename: edict-of-unyielding-resolve
 file_dpath: feature/ability/censor/level-9
@@ -27,7 +27,7 @@ type: ability
 cost: 11 Wrath
 distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target who starts their turn in the area gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
 feature_type: ability
 flavor: You and your allies are clad in shimmering armor.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: censor
     cost: 11 Wrath
     distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target who starts their turn in the area gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
     flavor: You and your allies are clad in shimmering armor.
     keywords:
         - Area

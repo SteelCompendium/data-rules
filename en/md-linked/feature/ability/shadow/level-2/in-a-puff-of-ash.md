@@ -2,12 +2,12 @@
 action_type: Main action
 class: shadow
 cost: 5 Insight
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 flavor: You enchant a [strike](../../../../rule/combat/strike.md) with your [teleport](../../../../movement/teleport.md)ation magic.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -20,9 +20,9 @@ type: ability
 
 *You enchant a [strike](../../../../rule/combat/strike.md) with your [teleport](../../../../movement/teleport.md)ation magic.*
 
-| **Magic, Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
+| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**               | **🎯 One creature** |
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 

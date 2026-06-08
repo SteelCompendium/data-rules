@@ -25,7 +25,7 @@ effects:
         | Creation                         | [Improved Hands of the Maker](improved-hands-of-the-maker.md) |
         | Death                            | [Seance](seance.md)                      |
         | Fate                             | [Oracular Warning](oracular-warning.md)            |
-        | Knowledge                        | Saint's Epiphany            |
+        | Knowledge                        | [Saint](../../../rule/world/saint.md)'s Epiphany            |
         | Life                             | [Blessing of Life](blessing-of-life.md)            |
         | Love                             | [Invocation of the Heart](invocation-of-the-heart.md)     |
         | Nature                           | [Wode Road](wode-road.md)                   |

@@ -4,7 +4,7 @@ class: shadow
 cost: 9 Insight
 cost_amount: "9"
 cost_resource: Insight
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: You choose the new targets for the original target's [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 feature_type: ability
 file_basename: puppet-strings
@@ -14,7 +14,7 @@ item_id: puppet-strings
 item_name: Puppet Strings
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Strike
     - Weapon
 level: "6"
@@ -27,26 +27,26 @@ type: ability
 
 ```ds-feature
 cost: 9 Insight
-distance: Melee 1
+distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You choose the new targets for the original target's [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 feature_type: ability
 flavor: You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Strike
     - Weapon
 metadata:
     action_type: Main action
     class: shadow
     cost: 9 Insight
-    distance: Melee 1
+    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effect: You choose the new targets for the original target's [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
     flavor: You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.
     keywords:
         - Magic
-        - Melee
+        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Strike
         - Weapon
     level: "6"

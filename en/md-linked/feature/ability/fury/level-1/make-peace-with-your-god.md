@@ -3,7 +3,7 @@ action_type: '[Free maneuver](../../../../rule/combat/free-maneuver.md)'
 class: fury
 cost: 5 Ferocity
 distance: Self
-effect: You gain 1 [surge](../../../../rule/resource/surge.md), and the next [ability roll](../../../../rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
+effect: You gain 1 [surge](../../../../rule/resource/surge.md), and the next [ability roll](../../../../rule/dice/ability-roll.md) you make this [turn](../../../../rule/combat/turn.md) automatically obtains a tier 3 outcome.
 flavor: Anger is your energy.
 keywords:
     - '-'
@@ -21,4 +21,4 @@ type: ability
 |-------------|------------------:|
 | **📏 Self** |       **🎯 Self** |
 
-**Effect:** You gain 1 [surge](../../../../rule/resource/surge.md), and the next [ability roll](../../../../rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
+**Effect:** You gain 1 [surge](../../../../rule/resource/surge.md), and the next [ability roll](../../../../rule/dice/ability-roll.md) you make this [turn](../../../../rule/combat/turn.md) automatically obtains a tier 3 outcome.
