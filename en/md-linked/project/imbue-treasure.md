@@ -14,7 +14,7 @@ Enhancements are broken out by item type (armor, implement, or weapon) and level
 
 Imbuing treasure with supernatural power as a downtime project typically means you undertake that project to make use of the treasure yourself. As such, all the features of imbuing refer to "you" as the user of the item. However, imbued items can be created for other creatures, or created by other creatures and found as treasure.
 
-## Imbue Armor
+## Imbue Armor {data-scc="mcdm.heroes.v1/rule.treasure/enhancement"}
 
 Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to Stamina. A 5th-level enhancement increases the Stamina bonus to +12, and a 9th-level enhancement increases it to +21.
 
@@ -184,7 +184,7 @@ On your turn, you can [teleport](../movement/teleport.md) to the imprint's space
 | Temporal Flux          | An experimental temporal capacitor invented by the kuran'zoi                                         | Voll                    |
 | Unbending              | A spearhead or other weapon broken off in the body of a stone giant, and ossified for a year or more | High Kuric              |
 
-## Imbue Implement
+## Imbue Implement {data-scc="mcdm.heroes.v1/rule.treasure/implement"}
 
 Implements are jewelry, spectacles, orbs, staffs, tomes, wands, weapons, and other objects used by those who channel magic and psionic power to focus that power. You decide what object to imbue when you create an implement treasure, but it must be an object you can carry or wear. You must have a mundane version of the item you plan to imbue when you start this project.
 

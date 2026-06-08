@@ -1,0 +1,12 @@
+---
+file_basename: natural-19-20
+file_dpath: rule/dice
+item_id: natural-19-20
+item_name: 'Natural 19 or 20: Success With a Reward'
+name: 'Natural 19 or 20: Success With a Reward'
+scc: mcdm.heroes.v1/rule.dice/natural-19-20
+source: mcdm.heroes.v1
+type: rule
+---
+
+Whenever you get a natural 19 or 20 on the power roll for a test—a total of 19 or 20 before adding your characteristic score or other modifiers you score a critical success. This critical success automatically lets you succeed on the task with a reward, even if the test has a medium or hard difficulty.

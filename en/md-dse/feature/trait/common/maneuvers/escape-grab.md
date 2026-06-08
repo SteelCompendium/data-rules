@@ -13,7 +13,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: A creature who is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.
+    - effect: A creature who is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by another creature, an object, or an effect (see [Grab](scc:mcdm.heroes.v1/feature.trait.common.maneuvers/grab) below) can attempt to escape by using the following ability.
 feature_type: trait
 metadata:
     name: Escape Grab

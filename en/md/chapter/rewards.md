@@ -7,37 +7,6 @@ type: chapter
 
 Virtue is its own reward... but wouldn't a magic sword also be kind of nice? As heroes adventure, they find and craft treasures even as they are awarded titles, earn renown, attract followers, and amass wealth. This chapter presents all the various rewards a hero can earn during their career! As you read over the rewards within, make note of the treasures and titles your hero would like to earn. Then you can start pursuing them during your adventures.
 
-## Renown
-
-As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
-
-At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)).
-
-### Increasing Renown
-
-Some perks (see Chapter 7), downtime projects (Chapter 12: [Downtime Projects](scc:mcdm.heroes.v1/chapter/downtime-projects)), and titles and treasures (part of Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards)) can increase your renown. But for the most part, you earn Renown at the end of an exciting adventure, often after the acknowledgement of a powerful NPC that you helped save them, their family, their home, their organization—or even their nation or world. That NPC and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
-
-In most campaigns, the Director sets the characters up to earn 1 Renown per level, but some campaigns will feature heroes who are more or less famous (or infamous) than that.
-
-### Influence Negotiation
-
-Renown changes the way NPCs respond to heroes during negotiations (see Chapter 11: [Negotiation](scc:mcdm.heroes.v1/chapter/negotiation)), whether that renown takes the form of fame or infamy.
-
-### Attract Followers
-
-Your Renown score allows you to attract and employ followers who perform different duties or favors for you. The Renown and Followers table shows how many followers a hero can have at one time based on Renown. You can always let go of a follower in your employ to hire a new one.
-
-You can recruit followers up to the maximum your Renown allows as a respite activity, provided you are in a place or have a means of communication that allows you to recruit such followers.
-
-###### Renown and Followers Table
-
-| Renown | Number of Followers |
-|--------|---------------------|
-| 3      | 1                   |
-| 6      | 2                   |
-| 9      | 3                   |
-| 12     | 4                   |
-
 ## Wealth
 
 Draw Steel isn't about accumulating and counting every piece of copper you acquire. Instead of tracking a bank account, the amount of stuff your hero can purchase is based on their Wealth score. As you accomplish more deeds, you acquire more treasure and rewards from grateful NPCs that allow you to be an even more effective hero.
