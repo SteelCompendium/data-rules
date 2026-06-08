@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: blood-magic
 file_dpath: title
+flavor: Flow, blood, thou fiend's libation, and catch my foes in conflagration!
 item_id: blood-magic
 item_name: Blood Magic
 name: Blood Magic

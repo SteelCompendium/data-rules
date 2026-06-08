@@ -3,6 +3,7 @@ benefit: Choose a [heroic ability](../rule/general/heroic-ability.md) for your c
 drawback: In your quest for advanced techniques, you have neglected the basics. Choose a [heroic ability](../rule/general/heroic-ability.md) you already know. That ability's [Heroic Resource](../rule/resource/heroic-resource.md) cost is permanently increased by 1.
 file_basename: following-in-the-footsteps
 file_dpath: complication
+flavor: Your personal idol was a mighty hero, and you have modeled yourself after them. From studying the many heroic tales told of them, you hope to someday learn your idol's most famous battle technique.
 item_id: following-in-the-footsteps
 item_name: Following in the Footsteps
 name: Following in the Footsteps

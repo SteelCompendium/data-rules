@@ -2,6 +2,7 @@
 equipment_text: You wear light armor and wield a medium weapon.
 file_basename: swashbuckler
 file_dpath: kit
+flavor: If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.
 item_id: swashbuckler
 item_name: Swashbuckler
 name: Swashbuckler

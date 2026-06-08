@@ -3,12 +3,14 @@ echelon: "1"
 effect: While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](scc:mcdm.heroes.v1/movement/forced-movement), and any creature [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on the [test](scc:mcdm.heroes.v1/rule.test/test) for the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver.
 file_basename: gecko-gloves
 file_dpath: treasure/1st-echelon/trinket
+flavor: These scaled gloves have palms and fingers covered in near-invisible sticky hairs.
 item_id: gecko-gloves
 item_name: Gecko Gloves
 keywords:
     - Hands
     - Magic
 name: Gecko Gloves
+project_goal: "150"
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/gecko-gloves
 source: mcdm.heroes.v1
 treasure_type: trinket

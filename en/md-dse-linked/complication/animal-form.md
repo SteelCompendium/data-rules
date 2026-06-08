@@ -3,6 +3,7 @@ benefit: As a maneuver, you take the form of a specific animal of [size](../rule
 drawback: At the start of any [turn](../rule/combat/turn.md) while you are [winded](../rule/health/winded.md), the Director can spend 1 Malice to force you to take your [animal form](animal-form.md). Once the Director has done so, they can't do so again until you have finished a [respite](../rule/resource/respite.md).
 file_basename: animal-form
 file_dpath: complication
+flavor: Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 item_id: animal-form
 item_name: Animal Form
 name: Animal Form

@@ -3,6 +3,7 @@ benefit: 'You have a somewhat inoperative 2nd-[echelon](../rule/general/echelon.
 drawback: With no other inheritance, you accumulated debts. The first time your [Wealth](../rule/resource/wealth.md) exceeds 1, you lose 1 [Wealth](../rule/resource/wealth.md).
 file_basename: strange-inheritance
 file_dpath: complication
+flavor: Your siblings each inherited money or land, but you received a strange, seemingly useless trinket—along with the advice that maybe you weren't cut out for an ordinary, peaceful life.
 item_id: strange-inheritance
 item_name: Strange Inheritance
 name: Strange Inheritance

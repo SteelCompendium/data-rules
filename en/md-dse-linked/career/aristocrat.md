@@ -1,6 +1,7 @@
 ---
 file_basename: aristocrat
 file_dpath: career
+flavor: Career? Who needs a career when you're born into money! Or marry into it! Or con your way into it! Whatever the case, you didn't need to work thanks to (someone's) generational wealth.
 item_id: aristocrat
 item_name: Aristocrat
 language: One language

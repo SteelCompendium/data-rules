@@ -15,6 +15,7 @@ content: |-
       - *Light Winds:* No effects due to weather.
       - *Storm:* The crew of an unsheltered wind-powered vessel must make a medium group [Reason](scc:mcdm.heroes.v1/rule.character/reason) [test](scc:mcdm.heroes.v1/rule.test/test). On a failure, the vessel needs repairs and moves at half [speed](scc:mcdm.heroes.v1/rule.character/speed) until those repairs are made.
 effect: 'Choose one of the following benefits:'
+flavor: All hail the Pirate Queen!
 name: Fleet Admiral
 prerequisite: You have the [Corsair](scc:mcdm.heroes.v1/title/corsair) title, and you lead a fleet of at least three ships.
 scc: mcdm.heroes.v1/title/fleet-admiral

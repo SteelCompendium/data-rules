@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: awakened
 file_dpath: title
+flavor: I was grappling with them, and when they died... I felt something happen. To me.
 item_id: awakened
 item_name: Awakened
 name: Awakened

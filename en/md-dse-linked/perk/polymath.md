@@ -1,6 +1,7 @@
 ---
 file_basename: polymath
 file_dpath: perk
+flavor: Whenever you make a test to recall lore and don't have a skill that applies to the test, you gain a +1 bonus to the power roll.
 item_id: polymath
 item_name: Polymath
 name: Polymath

@@ -16,10 +16,12 @@ content: |-
     **5th Level:** The weapon's extra sonic damage increases to 2, and the additional [distance](scc:mcdm.heroes.v1/rule.combat/distance) or [distance](scc:mcdm.heroes.v1/rule.combat/distance) of a push for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [strike](scc:mcdm.heroes.v1/rule.combat/strike), the [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals an extra 1 sonic damage.
 
     **9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [strike](scc:mcdm.heroes.v1/rule.combat/strike). Additionally, whenever you make a weapon [strike](scc:mcdm.heroes.v1/rule.combat/strike) using this weapon, each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target takes 6 sonic damage.
+flavor: This bident is made from two pieces of moon metal twisted together, and hums like a tuning fork.
 keywords:
     - Magic
     - Medium Weapon
 name: Thunderhead Bident
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/thunderhead-bident
 treasure_type: weapon
 type: treasure

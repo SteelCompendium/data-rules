@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** You take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on any [test](scc:mcdm.heroes.v1/rule.test/test) made to recall lore.
 drawback: You take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on any [test](scc:mcdm.heroes.v1/rule.test/test) made to recall lore.
+flavor: You have no memory of your past before the... incident. Hopefully, you'll regain your memory soon and find out what the incident was. In the meantime, you need friends so you won't be alone when your past catches up to you.
 name: Amnesia
 scc: mcdm.heroes.v1/complication/amnesia
 type: complication

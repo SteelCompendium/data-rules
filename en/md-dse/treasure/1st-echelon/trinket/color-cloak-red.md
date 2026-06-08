@@ -3,12 +3,14 @@ echelon: "1"
 effect: While worn, a red Color Cloak grants you fire immunity equal to your level.
 file_basename: color-cloak-red
 file_dpath: treasure/1st-echelon/trinket
+flavor: This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning "fire."
 item_id: color-cloak-red
 item_name: Color Cloak (Red)
 keywords:
     - Magic
     - Neck
 name: Color Cloak (Red)
+project_goal: "150"
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-red
 source: mcdm.heroes.v1
 treasure_type: trinket

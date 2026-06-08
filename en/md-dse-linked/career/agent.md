@@ -1,6 +1,7 @@
 ---
 file_basename: agent
 file_dpath: career
+flavor: You worked as a spy for a government or organization.
 item_id: agent
 item_name: Agent
 language: Two languages

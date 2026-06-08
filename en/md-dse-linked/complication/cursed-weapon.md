@@ -3,6 +3,7 @@ benefit: 'You have a leveled weapon of your choice (see Treasures in Chapter 13:
 drawback: You have [damage weakness](../rule/damage/damage-weakness.md) 2.
 file_basename: cursed-weapon
 file_dpath: complication
+flavor: When you were young, you found or were given a magic weapon. Since then, you've carried it always at your side, letting it inspire you to lead the life of a hero—even though the weapon is cursed.
 item_id: cursed-weapon
 item_name: Cursed Weapon
 name: Cursed Weapon

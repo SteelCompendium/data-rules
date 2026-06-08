@@ -3,12 +3,14 @@ echelon: "3"
 effect: As a maneuver, you can drink this potion or throw it up to 10 squares. If you drink it, you choose a [test](../../../rule/test/test.md) you made in the last minute, then reroll that [test](../../../rule/test/test.md) repeatedly until the outcome changes. If the potion is thrown, it creates a 3-[cube](../../../rule/combat/cube.md) area of shimmering magic. Any event that took place in that area in the previous minute changes at the discretion of the Director, who has full freedom to decide what happens. The energy then dissipates.
 file_basename: bottled-paradox
 file_dpath: treasure/3rd-echelon/consumable
+flavor: Liquid constantly swirls within a cut glass bottle that is ice cold to the touch.
 item_id: bottled-paradox
 item_name: Bottled Paradox
 keywords:
     - Magic
     - Potion
 name: Bottled Paradox
+project_goal: "180"
 scc: mcdm.heroes.v1/treasure.3rd-echelon.consumable/bottled-paradox
 source: mcdm.heroes.v1
 treasure_type: consumable

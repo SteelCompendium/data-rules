@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: fleet-admiral
 file_dpath: title
+flavor: All hail the Pirate Queen!
 item_id: fleet-admiral
 item_name: Fleet Admiral
 name: Fleet Admiral

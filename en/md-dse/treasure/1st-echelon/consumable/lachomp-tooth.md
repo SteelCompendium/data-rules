@@ -3,11 +3,13 @@ echelon: "1"
 effect: 'As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural)ly flicker in and out of reality. Your next strike that uses the weapon can tear through multiple targets in a line (for a [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) [strike](scc:mcdm.heroes.v1/rule.combat/strike)) or surrounding you (for a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [strike](scc:mcdm.heroes.v1/rule.combat/strike)). The [strike](scc:mcdm.heroes.v1/rule.combat/strike) adds the following effects to the [tier outcomes](scc:mcdm.heroes.v1/rule.dice/tier-outcome) of the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll):'
 file_basename: lachomp-tooth
 file_dpath: treasure/1st-echelon/consumable
+flavor: A thumb-sized serrated tooth manages to scratch your flesh in some way whenever it is handled.
 item_id: lachomp-tooth
 item_name: Lachomp Tooth
 keywords:
     - Psionic
 name: Lachomp Tooth
+project_goal: 45 (yields 1d3 teeth)
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/lachomp-tooth
 source: mcdm.heroes.v1
 treasure_type: consumable

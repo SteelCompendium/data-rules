@@ -1,6 +1,7 @@
 ---
 file_basename: wode-elf
 file_dpath: ancestry
+flavor: Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans should fear the trees.
 item_id: wode-elf
 item_name: Wode Elf
 name: Wode Elf

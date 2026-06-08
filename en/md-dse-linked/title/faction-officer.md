@@ -2,6 +2,7 @@
 effect: 'You are given a position of great authority in your faction. Additionally, you gain the following benefits:'
 file_basename: faction-officer
 file_dpath: title
+flavor: If you want or need something, talk to me. I have a certain... influence in these parts.
 item_id: faction-officer
 item_name: Faction Officer
 name: Faction Officer

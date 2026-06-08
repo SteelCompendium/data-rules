@@ -1,6 +1,7 @@
 ---
 file_basename: revenant
 file_dpath: ancestry
+flavor: The dead walk among us. Some of them are happier about it than others.
 item_id: revenant
 item_name: Revenant
 name: Revenant

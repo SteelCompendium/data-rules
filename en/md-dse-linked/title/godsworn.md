@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: godsworn
 file_dpath: title
+flavor: He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.
 item_id: godsworn
 item_name: Godsworn
 name: Godsworn

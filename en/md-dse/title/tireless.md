@@ -2,6 +2,7 @@
 effect: 'Your choice of your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: tireless
 file_dpath: title
+flavor: To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving.
 item_id: tireless
 item_name: Tireless
 name: Tireless

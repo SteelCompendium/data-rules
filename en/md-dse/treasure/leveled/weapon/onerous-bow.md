@@ -1,12 +1,14 @@
 ---
 file_basename: onerous-bow
 file_dpath: treasure/leveled/weapon
+flavor: This mechanized bow is set with magical reservoirs that carry the faint tang of toxins.
 item_id: onerous-bow
 item_name: Onerous Bow
 keywords:
     - Bow
     - Magic
 name: Onerous Bow
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/onerous-bow
 source: mcdm.heroes.v1
 treasure_type: weapon

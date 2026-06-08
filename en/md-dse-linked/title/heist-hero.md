@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: heist-hero
 file_dpath: title
+flavor: Everybody know their assignments? All right, let's go.
 item_id: heist-hero
 item_name: Heist Hero
 name: Heist Hero

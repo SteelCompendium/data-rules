@@ -1,6 +1,7 @@
 ---
 file_basename: traveling-artisan
 file_dpath: perk
+flavor: On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project.
 item_id: traveling-artisan
 item_name: Traveling Artisan
 name: Traveling Artisan

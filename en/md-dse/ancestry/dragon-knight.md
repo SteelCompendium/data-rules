@@ -1,6 +1,7 @@
 ---
 file_basename: dragon-knight
 file_dpath: ancestry
+flavor: The ritual of Dracogenesis that grants the power to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 item_id: dragon-knight
 item_name: Dragon Knight
 name: Dragon Knight

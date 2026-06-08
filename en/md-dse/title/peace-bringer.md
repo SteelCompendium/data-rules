@@ -2,6 +2,7 @@
 effect: 'Your choice of your [Reason](scc:mcdm.heroes.v1/rule.character/reason) or [Presence](scc:mcdm.heroes.v1/rule.character/presence) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: peace-bringer
 file_dpath: title
+flavor: There goes Diana, peace bringer. She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.
 item_id: peace-bringer
 item_name: Peace Bringer
 name: Peace Bringer

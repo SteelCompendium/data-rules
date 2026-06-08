@@ -1,6 +1,7 @@
 ---
 file_basename: familiar
 file_dpath: perk
+flavor: A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.
 item_id: familiar
 item_name: Familiar
 name: Familiar

@@ -1,6 +1,7 @@
 ---
 file_basename: artisan
 file_dpath: career
+flavor: You made and sold useful wares.
 item_id: artisan
 item_name: Artisan
 language: One language

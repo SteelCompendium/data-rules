@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: battlefield-commander
 file_dpath: title
+flavor: Spells and shadows have their place, but it takes soldiers to hold the field.
 item_id: battlefield-commander
 item_name: Battlefield Commander
 name: Battlefield Commander

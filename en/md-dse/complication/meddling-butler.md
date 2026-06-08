@@ -3,6 +3,7 @@ benefit: 'You have a [retainer](scc:mcdm.heroes.v1/rule.general/retainer), in ad
 drawback: Outside of combat, your [retainer](scc:mcdm.heroes.v1/rule.general/retainer) is under the Director's control. The [retainer](scc:mcdm.heroes.v1/rule.general/retainer) sometimes acts without orders—always with your best interests at heart, but often in embarrassing or inconvenient ways.
 file_basename: meddling-butler
 file_dpath: complication
+flavor: You're not sure what you did to deserve it, but for some reason, your family saddled you with an old, trusted, and extremely irritating family servant. They're supremely competent, of course, but they sometimes seem to forget who's in charge.
 item_id: meddling-butler
 item_name: Meddling Butler
 name: Meddling Butler

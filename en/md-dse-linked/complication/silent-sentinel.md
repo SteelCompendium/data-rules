@@ -3,6 +3,7 @@ benefit: You have the Eavesdrop and Sneak skills from the intrigue skill group, 
 drawback: You have sonic weakness 5. Additionally, whenever you take sonic damage, you are [dazed](../condition/dazed.md) until the end of your next [turn](../rule/combat/turn.md).
 file_basename: silent-sentinel
 file_dpath: complication
+flavor: You were trained by a group of spies, who psionically infused silence into your every step and enhanced your ability to hear distant whispers. But your enhanced hearing has some nasty side effects.
 item_id: silent-sentinel
 item_name: Silent Sentinel
 name: Silent Sentinel

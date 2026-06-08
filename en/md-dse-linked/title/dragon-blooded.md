@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: dragon-blooded
 file_dpath: title
+flavor: I stabbed the wyrm Axarthan in the heart and their silver blood washed over me, leaving me... as you see.
 item_id: dragon-blooded
 item_name: Dragon Blooded
 name: Dragon Blooded

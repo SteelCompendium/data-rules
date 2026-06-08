@@ -3,12 +3,14 @@ echelon: "2"
 effect: Consuming this potion as a maneuver causes your skin to shimmer and a set of tiny gills to appear on your neck or shoulders. For 1 hour, you can breathe in any environment, and you ignore the effects of harmful gases, vapors, and inhaled poisons.
 file_basename: purified-jelly
 file_dpath: treasure/2nd-echelon/consumable
+flavor: This clear, pasty substance has a bitter aroma.
 item_id: purified-jelly
 item_name: Purified Jelly
 keywords:
     - Potion
     - Psionic
 name: Purified Jelly
+project_goal: 90 (yields 1d3 doses)
 scc: mcdm.heroes.v1/treasure.2nd-echelon.consumable/purified-jelly
 source: mcdm.heroes.v1
 treasure_type: consumable

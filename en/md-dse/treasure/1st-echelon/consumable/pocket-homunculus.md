@@ -3,11 +3,13 @@ echelon: "1"
 effect: When activated as a maneuver, this item erupts in a bright flash, you can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) space. The homunculus is a creature with [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) 15, a 0 in all their [characteristics](scc:mcdm.heroes.v1/rule.character/characteristic), and a [speed](scc:mcdm.heroes.v1/rule.character/speed) and [stability](scc:mcdm.heroes.v1/rule.character/stability) equal to yours. They appear indistinguishable from you but can't use any abilities.
 file_basename: pocket-homunculus
 file_dpath: treasure/1st-echelon/consumable
+flavor: A densely interlocking sphere of clockwork gears features facets that show the countenance of the item's wielder.
 item_id: pocket-homunculus
 item_name: Pocket Homunculus
 keywords:
     - Psionic
 name: Pocket Homunculus
+project_goal: "45"
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/pocket-homunculus
 source: mcdm.heroes.v1
 treasure_type: consumable

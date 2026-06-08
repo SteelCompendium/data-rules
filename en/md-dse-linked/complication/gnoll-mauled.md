@@ -3,6 +3,7 @@ benefit: Whenever an ally within 5 squares is reduced to 0 [Stamina](../rule/hea
 drawback: While you are [dazed](../condition/dazed.md), if you start your [turn](../rule/combat/turn.md) [adjacent](../rule/combat/adjacent.md) to one or more creatures, you must use your main action to make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) against an [adjacent](../rule/combat/adjacent.md) creature.
 file_basename: gnoll-mauled
 file_dpath: complication
+flavor: As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.
 item_id: gnoll-mauled
 item_name: Gnoll-Mauled
 name: Gnoll-Mauled

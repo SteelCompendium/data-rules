@@ -1,6 +1,7 @@
 ---
 file_basename: politician
 file_dpath: career
+flavor: You worked as a leader within a formal, bureaucratic organization or government. You might have been appointed, born, or elected into your position, but getting people to agree and making decisions for the people you serve (or who served you) was your job.
 item_id: politician
 item_name: Politician
 language: One language

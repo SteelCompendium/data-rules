@@ -1,6 +1,7 @@
 ---
 file_basename: advanced-studies
 file_dpath: complication
+flavor: You somehow obtained the notebook of a brilliant but eccentric member of your class. The knowledge held within those notes should help you unlock powerful new abilities—if you can ever figure out what the notes mean.
 item_id: advanced-studies
 item_name: Advanced Studies
 name: Advanced Studies

@@ -3,6 +3,7 @@ benefit: You don't age. Additionally, whenever you would die, you instead enter 
 drawback: You take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on any [test](scc:mcdm.heroes.v1/rule.test/test) made to recall lore.
 file_basename: curse-of-immortality
 file_dpath: complication
+flavor: For as long as you can remember, you've never gotten older. You've simply adventured through one age after another. Still, your memory of past events—even those you were involved with—is a little hazy. Apparently, your memory isn't as long-lived as you are.
 item_id: curse-of-immortality
 item_name: Curse of Immortality
 name: Curse of Immortality

@@ -1,12 +1,14 @@
 ---
 file_basename: thief-of-joy
 file_dpath: treasure/leveled/other
+flavor: This burnished copper torque thrums with a sense of judgment.
 item_id: thief-of-joy
 item_name: Thief of Joy
 keywords:
     - Neck
     - Psionic
 name: Thief of Joy
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/thief-of-joy
 source: mcdm.heroes.v1
 treasure_type: other

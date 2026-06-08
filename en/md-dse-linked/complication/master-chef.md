@@ -3,6 +3,7 @@ benefit: You have the Cooking skill (from the crafting skill group). Additionall
 drawback: The first time each day you eat food you didn't prepare, you lose 2 [Recoveries](../rule/health/recoveries.md).
 file_basename: master-chef
 file_dpath: complication
+flavor: Before you were a hero, you were a chef—and when you retire, you have big plans for your next restaurant or inn. In the meantime, you're on the lookout for rare ingredients that only a wandering adventurer can find. After all, it's food that makes the world go round.
 item_id: master-chef
 item_name: Master Chef
 name: Master Chef

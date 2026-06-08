@@ -3,12 +3,14 @@ echelon: "3"
 effect: You must be a [null](scc:mcdm.heroes.v1/class/null) to wear this ring. While you do so, the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability increases by 1.
 file_basename: nullfield-resonator-ring
 file_dpath: treasure/3rd-echelon/trinket
+flavor: This simple band of copper vibrates slightly when handled.
 item_id: nullfield-resonator-ring
 item_name: Nullfield Resonator Ring
 keywords:
     - Psionic
     - Ring
 name: Nullfield Resonator Ring
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.3rd-echelon.trinket/nullfield-resonator-ring
 source: mcdm.heroes.v1
 treasure_type: trinket

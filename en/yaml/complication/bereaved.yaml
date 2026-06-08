@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** You have corruption weakness 5.
 drawback: You have corruption weakness 5.
+flavor: The most important person to you—perhaps a family member, mentor, or lover—was killed. The only thing that keeps you going is the faint connection you have with this person's spirit, and the hope that one day you can tie up their unfinished business and let them rest.
 name: Bereaved
 scc: mcdm.heroes.v1/complication/bereaved
 type: complication

@@ -1,12 +1,14 @@
 ---
 file_basename: lightning-treads
 file_dpath: treasure/leveled/other
+flavor: Sparks strike from these boots whenever they touch the ground, increasing in number as the wearer gathers speed.
 item_id: lightning-treads
 item_name: Lightning Treads
 keywords:
     - Feet
     - Magic
 name: Lightning Treads
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/lightning-treads
 source: mcdm.heroes.v1
 treasure_type: other

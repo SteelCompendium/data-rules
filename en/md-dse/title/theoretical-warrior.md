@@ -2,6 +2,7 @@
 effect: Your choice of your [Reason](scc:mcdm.heroes.v1/rule.character/reason) or [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) increases by 1 (to a maximum of 6).
 file_basename: theoretical-warrior
 file_dpath: title
+flavor: I've read about this tactic in books—it looks fairly straightforward.
 item_id: theoretical-warrior
 item_name: Theoretical Warrior
 name: Theoretical Warrior

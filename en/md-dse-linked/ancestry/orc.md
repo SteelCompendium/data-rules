@@ -1,6 +1,7 @@
 ---
 file_basename: orc
 file_dpath: ancestry
+flavor: An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace—loving orcs find distasteful.
 item_id: orc
 item_name: Orc
 name: Orc

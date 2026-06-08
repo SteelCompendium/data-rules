@@ -2,6 +2,7 @@
 equipment_text: You wear no armor and wield a bow.
 file_basename: arcane-archer
 file_dpath: kit
+flavor: The Arcane Archer kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 item_id: arcane-archer
 item_name: Arcane Archer
 name: Arcane Archer

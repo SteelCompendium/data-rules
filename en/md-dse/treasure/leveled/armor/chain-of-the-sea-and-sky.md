@@ -1,12 +1,14 @@
 ---
 file_basename: chain-of-the-sea-and-sky
 file_dpath: treasure/leveled/armor
+flavor: This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.
 item_id: chain-of-the-sea-and-sky
 item_name: Chain of the Sea and Sky
 keywords:
     - Heavy Armor
     - Magic
 name: Chain of the Sea and Sky
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/chain-of-the-sea-and-sky
 source: mcdm.heroes.v1
 treasure_type: armor

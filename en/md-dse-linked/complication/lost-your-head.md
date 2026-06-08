@@ -3,6 +3,7 @@ benefit: You have the following ability.
 drawback: Having no head, you can't see, hear, smell, taste, or verbalize except by using the Share Head ability. Additionally, you can't wear gear that requires a head, such as a helmet or hat.
 file_basename: lost-your-head
 file_dpath: complication
+flavor: 'A bredbeddle stole your head! Usually, being beheaded by one of those magical giants is fatal (see Draw Steel: Monsters), but your latent psionic ability allows you to survive despite your decapitation.'
 item_id: lost-your-head
 item_name: Lost Your Head
 name: Lost Your Head

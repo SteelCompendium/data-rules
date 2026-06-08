@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: marshal
 file_dpath: title
+flavor: I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?
 item_id: marshal
 item_name: Marshal
 name: Marshal

@@ -1,12 +1,14 @@
 ---
 file_basename: ether-fueled-vessel
 file_dpath: treasure/leveled/implement
+flavor: This bronze bottle has been shaped into the form of a ghostly figure.
 item_id: ether-fueled-vessel
 item_name: Ether-Fueled Vessel
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'
     - Psionic
 name: Ether-Fueled Vessel
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/ether-fueled-vessel
 source: mcdm.heroes.v1
 treasure_type: implement

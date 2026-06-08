@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: city-rat
 file_dpath: title
+flavor: Stay out all night, visit the dives. Get in a fight, run from the cops. That's the real city.
 item_id: city-rat
 item_name: City Rat
 name: City Rat

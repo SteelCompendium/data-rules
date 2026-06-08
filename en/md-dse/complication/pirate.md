@@ -3,6 +3,7 @@ benefit: When interacting with pirates or [pirate](scc:mcdm.heroes.v1/complicati
 drawback: The pirates holding the other pieces of the map would very much like to get their hands on your piece, and have no qualms about killing you to get it. Furthermore, the [pirate](scc:mcdm.heroes.v1/complication/pirate) treasure is said to be cursed or haunted.
 file_basename: pirate
 file_dpath: complication
+flavor: You have a piratical past (and maybe a piratical present and future as well). Though you're not well-known ashore, other pirates have a way of recognizing their own.
 item_id: pirate
 item_name: Pirate
 name: Pirate

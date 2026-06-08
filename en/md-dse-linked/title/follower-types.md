@@ -1,6 +1,7 @@
 ---
 file_basename: follower-types
 file_dpath: title
+flavor: When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.
 item_id: follower-types
 item_name: Follower Types
 name: Follower Types

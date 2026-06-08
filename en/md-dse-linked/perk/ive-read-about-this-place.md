@@ -1,6 +1,7 @@
 ---
 file_basename: ive-read-about-this-place
 file_dpath: perk
+flavor: 'Each time you enter a settlement you''ve never been to before, you can ask the Director one of the following questions:'
 item_id: ive-read-about-this-place
 item_name: I've Read About This Place
 name: I've Read About This Place

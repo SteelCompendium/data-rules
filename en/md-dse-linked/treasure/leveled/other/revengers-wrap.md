@@ -1,12 +1,14 @@
 ---
 file_basename: revengers-wrap
 file_dpath: treasure/leveled/other
+flavor: When first handled, this tattered cloak fills the mind with thoughts of revenge.
 item_id: revengers-wrap
 item_name: Revenger's Wrap
 keywords:
     - Neck
     - Magic
 name: Revenger's Wrap
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/revengers-wrap
 source: mcdm.heroes.v1
 treasure_type: other

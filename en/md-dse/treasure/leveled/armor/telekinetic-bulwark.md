@@ -1,12 +1,14 @@
 ---
 file_basename: telekinetic-bulwark
 file_dpath: treasure/leveled/armor
+flavor: An unseen force seems to draw this steel shield toward nearby creatures.
 item_id: telekinetic-bulwark
 item_name: Telekinetic Bulwark
 keywords:
     - Psionic
     - Shield
 name: Telekinetic Bulwark
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/telekinetic-bulwark
 source: mcdm.heroes.v1
 treasure_type: armor

@@ -2,6 +2,7 @@
 effect: 'You gain the following benefits:'
 file_basename: monarch
 file_dpath: title
+flavor: The tyrant is dead! Long live the new king!
 item_id: monarch
 item_name: Monarch
 name: Monarch

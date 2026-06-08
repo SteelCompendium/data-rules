@@ -1,6 +1,7 @@
 ---
 file_basename: misunderstood
 file_dpath: complication
+flavor: Your appearance marks you as part of a group that is universally feared. You might be a gentle soul, but you're not often given a chance to prove it. It's no wonder you usually wear a hood.
 item_id: misunderstood
 item_name: Misunderstood
 name: Misunderstood

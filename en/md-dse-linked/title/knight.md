@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: knight
 file_dpath: title
+flavor: Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.
 item_id: knight
 item_name: Knight
 name: Knight

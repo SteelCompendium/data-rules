@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: siege-breaker
 file_dpath: title
+flavor: Best way to deal with a castle siege? Be on the outside.
 item_id: siege-breaker
 item_name: Siege Breaker
 name: Siege Breaker

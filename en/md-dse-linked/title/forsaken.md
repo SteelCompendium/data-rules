@@ -2,6 +2,7 @@
 effect: 'A [characteristic](../rule/character/characteristic.md) of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: forsaken
 file_dpath: title
+flavor: The quest is done, the enemy is defeated, and the Blade of a Thousand Years has passed from our hands. What do we do with the rest of our lives?
 item_id: forsaken
 item_name: Forsaken
 name: Forsaken

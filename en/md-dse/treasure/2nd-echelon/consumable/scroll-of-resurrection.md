@@ -3,12 +3,14 @@ echelon: "2"
 effect: As a [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity, you repeatedly chant the contents of this scroll over the remains of a creature who has been dead for less than 1 year. The creature's soul must be willing to return to life for the scroll to work. If they are not willing, you instinctively understand that as you start the [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity and can cease it immediately. The scroll is not consumed, and you can undertake a new [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity.
 file_basename: scroll-of-resurrection
 file_dpath: treasure/2nd-echelon/consumable
+flavor: This scroll is marked by sigils of power, death, and life.
 item_id: scroll-of-resurrection
 item_name: Scroll of Resurrection
 keywords:
     - Magic
     - Scroll
 name: Scroll of Resurrection
+project_goal: "90"
 scc: mcdm.heroes.v1/treasure.2nd-echelon.consumable/scroll-of-resurrection
 source: mcdm.heroes.v1
 treasure_type: consumable

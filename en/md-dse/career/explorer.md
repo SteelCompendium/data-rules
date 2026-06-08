@@ -1,6 +1,7 @@
 ---
 file_basename: explorer
 file_dpath: career
+flavor: You ventured into uncharted areas and made your living as a cartographer, researcher, resource seeker, or treasure hunter.
 item_id: explorer
 item_name: Explorer
 language: Two languages

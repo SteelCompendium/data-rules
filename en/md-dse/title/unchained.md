@@ -2,6 +2,7 @@
 effect: 'Your choice of your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: unchained
 file_dpath: title
+flavor: I'll never get away with it? My dear, I already have.
 item_id: unchained
 item_name: Unchained
 name: Unchained

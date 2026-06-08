@@ -2,6 +2,7 @@
 effect: 'A [characteristic](../rule/character/characteristic.md) used during the competition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: champion-competitor
 file_dpath: title
+flavor: Marduk uses the Beldoit Gambit! Avanna counters with the Iron Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new... world... champion!
 item_id: champion-competitor
 item_name: Champion Competitor
 name: Champion Competitor

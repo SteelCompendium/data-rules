@@ -1,6 +1,7 @@
 ---
 file_basename: gladiator
 file_dpath: career
+flavor: In the past, you entertained the masses with flashy displays of violence in the arena.
 item_id: gladiator
 item_name: Gladiator
 language: One language

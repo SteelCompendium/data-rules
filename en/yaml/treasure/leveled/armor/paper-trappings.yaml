@@ -16,10 +16,12 @@ content: |-
     **5th Level:** The armor's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) increases to +12, and when you return to your true form, you are [dazed](scc:mcdm.heroes.v1/condition/dazed) only until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) target who is the same [size](scc:mcdm.heroes.v1/rule.character/size) or smaller than you, automatically grabbing them.
 
     **9th Level:** The armor's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) increases to +21, and you are no longer [dazed](scc:mcdm.heroes.v1/condition/dazed) when you return to your true form. Additionally, while you have a target [grabbed](scc:mcdm.heroes.v1/condition/grabbed) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) when using the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver against you and when making [strikes](scc:mcdm.heroes.v1/rule.combat/strike) against you.
+flavor: This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.
 keywords:
     - Light Armor
     - Magic
 name: Paper Trappings
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/paper-trappings
 treasure_type: armor
 type: treasure

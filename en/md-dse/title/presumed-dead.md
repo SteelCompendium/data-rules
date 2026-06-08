@@ -2,6 +2,7 @@
 effect: While it might appear that you died, you did not. Instead, you regain 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) and can spend 1 or more [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, you gain a 1st-[echelon](scc:mcdm.heroes.v1/rule.general/echelon) [trinket](scc:mcdm.heroes.v1/rule.treasure/trinket) of the Director's choice (see Treasures earlier in this chapter).
 file_basename: presumed-dead
 file_dpath: title
+flavor: But... you're dead. We went to your funeral.
 item_id: presumed-dead
 item_name: Presumed Dead
 name: Presumed Dead

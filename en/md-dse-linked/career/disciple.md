@@ -1,6 +1,7 @@
 ---
 file_basename: disciple
 file_dpath: career
+flavor: You worked in a church, temple, or other religious institution as part of the clergy.
 item_id: disciple
 item_name: Disciple
 name: Disciple

@@ -2,6 +2,7 @@
 effect: 'Your choice of your [Reason](../rule/character/reason.md) or [Presence](../rule/character/presence.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 file_basename: peace-bringer
 file_dpath: title
+flavor: There goes Diana, peace bringer. She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.
 item_id: peace-bringer
 item_name: Peace Bringer
 name: Peace Bringer

@@ -1,12 +1,14 @@
 ---
 file_basename: paper-trappings
 file_dpath: treasure/leveled/armor
+flavor: This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.
 item_id: paper-trappings
 item_name: Paper Trappings
 keywords:
     - Light Armor
     - Magic
 name: Paper Trappings
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/paper-trappings
 source: mcdm.heroes.v1
 treasure_type: armor

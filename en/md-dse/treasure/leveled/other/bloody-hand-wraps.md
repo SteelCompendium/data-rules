@@ -1,12 +1,14 @@
 ---
 file_basename: bloody-hand-wraps
 file_dpath: treasure/leveled/other
+flavor: These rough hand wraps are stained with blood that never comes clean.
 item_id: bloody-hand-wraps
 item_name: Bloody Hand Wraps
 keywords:
     - Hands
     - Psionic
 name: Bloody Hand Wraps
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/bloody-hand-wraps
 source: mcdm.heroes.v1
 treasure_type: other

@@ -24,6 +24,7 @@ content: |-
     | 4  | **Hard Times:** Your farm had always been prosperous, until the last few years. Changes in the weather caused smaller yields until you could no longer pay your tithe to the local noble. Her soldiers took what items of value they found, including a precious family heirloom. You left the struggling farm behind to find a better life. |
     | 5  | **Razed:** Your animals were killed, your crops and home set ablaze. The culprits might have been wandering bandits, raiders from a nearby kingdom, or hired thugs sent by a rival farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch, so you took up a life of heroism to protect others from such villainy. |
     | 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the [renown](scc:mcdm.heroes.v1/rule.resource/renown)ed bloodline would end. You intend to get them back—and get revenge. |
+flavor: You grew crops or cared for livestock.
 language: One language
 name: Farmer
 perk: One exploration perk (*Quick Build:* [Monster Whisperer](scc:mcdm.heroes.v1/perk/monster-whisperer).)

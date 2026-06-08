@@ -3,6 +3,7 @@ benefit: Choose one of your skills. That skill grants a +3 [bonus](../rule/dice/
 drawback: Your [rival](rival.md) has similar statistics to yours, but always had one skill they excelled at, as determined by the Director. Intimidated by their prowess, you take a [bane](../rule/dice/bane.md) on [tests](../rule/test/test.md) using that skill.
 file_basename: rival
 file_dpath: complication
+flavor: Whatever your accomplishments, you'll forever measure yourself against a former companion who always seemed to stay one step ahead of you.
 item_id: rival
 item_name: Rival
 name: Rival

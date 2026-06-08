@@ -1,12 +1,14 @@
 ---
 file_basename: kuranzoi-prismscale
 file_dpath: treasure/leveled/armor
+flavor: Each scale of this iridescent armor shimmers with the faint image of a frozen moment of time.
 item_id: kuranzoi-prismscale
 item_name: Kuran'zoi Prismscale
 keywords:
     - Medium Armor
     - Psionic
 name: Kuran'zoi Prismscale
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/kuranzoi-prismscale
 source: mcdm.heroes.v1
 treasure_type: armor

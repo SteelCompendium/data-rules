@@ -24,6 +24,7 @@ content: |-
     | 4  | **Stolen Passions:** Your parents discouraged your artistic [talents](scc:mcdm.heroes.v1/class/talent), instead trying to focus your passions on the family business. You refused to dim your spark and continued your work in secret. Enraged at discovering your disobedience, they sold your work to a traveling merchant. You left your hometown, seeking your lost art and encouraging others to live freely. |
     | 5  | **Tarnished Honor:** A new patron commissioned some art, but on completion, they refused to pay you and claimed the work as their own. You were accused of plagiarism and run out of town. For you, heroics are about restoring your name and honor. |
     | 6  | **Twisted Skill:** You had great success that caused an unscrupulous rival to curse you. For a time, everything you tried to create turned to ruin. You broke the curse through adventuring, and in doing so, discovered a new joy and purpose that now defines you. |
+flavor: You made and sold useful wares.
 language: One language
 name: Artisan
 perk: One crafting perk (*Quick Build:* [Area of Expertise](scc:mcdm.heroes.v1/perk/area-of-expertise).)

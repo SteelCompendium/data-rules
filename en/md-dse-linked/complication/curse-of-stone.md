@@ -3,6 +3,7 @@ benefit: You have a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stabil
 drawback: You have sonic weakness 5. Additionally, while you are [winded](../rule/health/winded.md), you are [dazed](../condition/dazed.md).
 file_basename: curse-of-stone
 file_dpath: complication
+flavor: As a child, you met a creature who turns people to stone, such as a medusa. You escaped half petrified, avoiding the fate of others who stand as statues now.
 item_id: curse-of-stone
 item_name: Curse of Stone
 name: Curse of Stone

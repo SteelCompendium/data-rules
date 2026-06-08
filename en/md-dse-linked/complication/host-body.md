@@ -3,6 +3,7 @@ benefit: You are a sapient fungus who inhabits a humanoid body. Your [host body]
 drawback: You have fire weakness 5. Additionally, you take a [bane](../rule/dice/bane.md) on any [test](../rule/test/test.md) made to read a humanoid creature's emotions or body language.
 file_basename: host-body
 file_dpath: complication
+flavor: '"Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"'
 item_id: host-body
 item_name: Host Body
 name: Host Body

@@ -1,12 +1,14 @@
 ---
 file_basename: steeltongue
 file_dpath: treasure/leveled/weapon
+flavor: This sinuous whip reflects all light off its plated steel surfaces.
 item_id: steeltongue
 item_name: Steeltongue
 keywords:
     - Magic
     - Whip
 name: Steeltongue
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/steeltongue
 source: mcdm.heroes.v1
 treasure_type: weapon

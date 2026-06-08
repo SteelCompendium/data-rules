@@ -3,6 +3,7 @@ benefit: Having gained the favor of the faction you helped, you can call on its 
 drawback: The faction you wronged hates you, and its members would love to see you pay for your transgression.
 file_basename: war-of-assassins
 file_dpath: complication
+flavor: Being in the wrong place at the wrong time saw you caught in the middle of a conflict between two warring assassins' guilds. Whether by choice or by accident, you wound up helping one faction at the expense of the other.
 item_id: war-of-assassins
 item_name: War of Assassins
 name: War of Assassins

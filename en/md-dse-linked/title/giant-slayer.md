@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: giant-slayer
 file_dpath: title
+flavor: Come back here, puny one, and let me crush you!
 item_id: giant-slayer
 item_name: Giant Slayer
 name: Giant Slayer

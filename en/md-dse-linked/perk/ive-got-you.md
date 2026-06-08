@@ -1,6 +1,7 @@
 ---
 file_basename: ive-got-you
 file_dpath: perk
+flavor: Whenever a willing ally falls and would land on you or adjacent to you, you can safely catch them as a free triggered action. Neither of you takes damage from the ally's fall.
 item_id: ive-got-you
 item_name: I've Got You!
 name: I've Got You!

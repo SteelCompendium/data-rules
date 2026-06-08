@@ -2,6 +2,7 @@
 equipment_text: You wear medium armor and wield a light weapon and a medium weapon.
 file_basename: dual-wielder
 file_dpath: kit
+flavor: The Dual Wielder kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
 item_id: dual-wielder
 item_name: Dual Wielder
 name: Dual Wielder

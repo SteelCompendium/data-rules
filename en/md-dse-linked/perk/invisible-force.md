@@ -1,6 +1,7 @@
 ---
 file_basename: invisible-force
 file_dpath: perk
+flavor: You have the following ability.
 item_id: invisible-force
 item_name: Invisible Force
 name: Invisible Force

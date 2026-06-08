@@ -1,12 +1,14 @@
 ---
 file_basename: chaldorb
 file_dpath: treasure/leveled/implement
+flavor: A perfectly clear sphere is embossed with fine ivory and crystal that is frigid to the touch.
 item_id: chaldorb
 item_name: Chaldorb
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'
     - Magic
 name: Chaldorb
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/chaldorb
 source: mcdm.heroes.v1
 treasure_type: implement

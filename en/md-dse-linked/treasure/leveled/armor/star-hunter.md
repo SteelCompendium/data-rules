@@ -1,12 +1,14 @@
 ---
 file_basename: star-hunter
 file_dpath: treasure/leveled/armor
+flavor: Shimmering light flows like liquid along this suit of crystalline armor.
 item_id: star-hunter
 item_name: Star-Hunter
 keywords:
     - Heavy Armor
     - Psionic
 name: Star-Hunter
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/star-hunter
 source: mcdm.heroes.v1
 treasure_type: armor

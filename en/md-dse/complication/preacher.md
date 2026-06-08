@@ -3,6 +3,7 @@ benefit: 'As a [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity, you
 drawback: If you fail in your conversion attempt, one of your existing [followers](scc:mcdm.heroes.v1/rule.general/follower) of the Director's choice (whether gained through this complication or your [Renown](scc:mcdm.heroes.v1/rule.resource/renown) or other means) leaves you, their faith in you shaken. If you have no [followers](scc:mcdm.heroes.v1/rule.general/follower), your [Renown](scc:mcdm.heroes.v1/rule.resource/renown) is reduced by 1. If you need to reduce your [Renown](scc:mcdm.heroes.v1/rule.resource/renown) and it's already 0, you gain no benefits from the [respite](scc:mcdm.heroes.v1/rule.resource/respite) during which you make the conversion attempt.
 file_basename: preacher
 file_dpath: complication
+flavor: When you were young, you almost died in an accident or attack, but a vision of a god or saint showed you the way to save yourself and others you loved. That event drove you into the church and gave you a strong belief in a particular religion or cause—and you can't wait to tell other people all about it.
 item_id: preacher
 item_name: Preacher
 name: Preacher

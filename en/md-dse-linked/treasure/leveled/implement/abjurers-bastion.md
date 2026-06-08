@@ -1,12 +1,14 @@
 ---
 file_basename: abjurers-bastion
 file_dpath: treasure/leveled/implement
+flavor: An ornate ring is set with a large diamond that swirls with blue light, and whose inner surface is etched with protective runes.
 item_id: abjurers-bastion
 item_name: Abjurer's Bastion
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'
     - Magic
 name: Abjurer's Bastion
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/abjurers-bastion
 source: mcdm.heroes.v1
 treasure_type: implement

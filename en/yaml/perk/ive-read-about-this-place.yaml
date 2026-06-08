@@ -6,6 +6,7 @@ content: |-
     - What does this settlement need most from outsiders?
 
     If the Director doesn't have an answer to the question you ask, or doesn't want to answer, you can instead ask a different question.
+flavor: 'Each time you enter a settlement you''ve never been to before, you can ask the Director one of the following questions:'
 name: I've Read About This Place
 scc: mcdm.heroes.v1/perk/ive-read-about-this-place
 type: perk

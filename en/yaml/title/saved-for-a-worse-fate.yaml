@@ -12,6 +12,7 @@ content: |-
     - *Sacrifices:* You are to be dropped in a volcano, fed to a sacred monster, abandoned in a desert, or otherwise sacrificed to a higher power. You are bedecked with holy jewelry. Each hero earns 1 [Wealth](scc:mcdm.heroes.v1/rule.resource/wealth).
     - *Saviors:* Your captors fear an even stronger foe, and they want you to defeat this enemy for them. You can even keep any treasure you find while doing so.
 effect: After being defeated, each character awakes, alive and with full [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) and [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). You are all captives of the creatures who defeated you, and a gruesome end awaits you—unless you can escape or overcome the nefarious challenge your captors have planned.
+flavor: Drink this. You'll need all your strength for what lies ahead!
 name: Saved for a Worse Fate
 prerequisite: The entire party is killed or captured by sapient foes.
 scc: mcdm.heroes.v1/title/saved-for-a-worse-fate

@@ -3,6 +3,7 @@ benefit: You have the following ability, which you can use as a [ranged](../rule
 drawback: You have psychic weakness 5.
 file_basename: rogue-talent
 file_dpath: complication
+flavor: You are the only survivor of a cataclysmic psionic event—an experiment gone wrong, a voiceless talker attack, or some naturally occurring phenomenon of a far-off part of the timescape. It left you with a psionic talent, but also made you vulnerable to telepathic attacks.
 item_id: rogue-talent
 item_name: Rogue Talent
 name: Rogue Talent

@@ -16,10 +16,12 @@ content: |-
     **5th Level:** The ring's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) increases to +12. Additionally, you have [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 2.
 
     **9th Level:** The ring's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to their [winded](scc:mcdm.heroes.v1/rule.health/winded) value. Your ring then [teleports](scc:mcdm.heroes.v1/movement/teleport) into their possession and ceases to be magic.
+flavor: This ring appears to be traced by dried blood, which returns each time it is rubbed away.
 keywords:
     - Magic
     - Ring
 name: Bloodbound Band
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/bloodbound-band
 treasure_type: other
 type: treasure

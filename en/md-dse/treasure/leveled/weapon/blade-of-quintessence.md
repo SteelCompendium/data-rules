@@ -1,12 +1,14 @@
 ---
 file_basename: blade-of-quintessence
 file_dpath: treasure/leveled/weapon
+flavor: This crystal blade houses a stormy vortex of fire, ice, and lightning.
 item_id: blade-of-quintessence
 item_name: Blade of Quintessence
 keywords:
     - Magic
     - Medium Weapon
 name: Blade of Quintessence
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/blade-of-quintessence
 source: mcdm.heroes.v1
 treasure_type: weapon

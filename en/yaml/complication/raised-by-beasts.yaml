@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** You don't have a culture (see Culture in Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)), though you can speak Caelian.
 drawback: 'You don''t have a culture (see Culture in Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)), though you can speak Caelian.'
+flavor: You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes, bears, or wolves) took you in. Returning to so-called civilization was a shock, but you're now determined to learn all you can about your own kind.
 name: Raised by Beasts
 scc: mcdm.heroes.v1/complication/raised-by-beasts
 type: complication

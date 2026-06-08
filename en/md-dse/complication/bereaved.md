@@ -3,6 +3,7 @@ benefit: Whenever you don't know what to do, you can appeal to your loved one's 
 drawback: You have corruption weakness 5.
 file_basename: bereaved
 file_dpath: complication
+flavor: The most important person to you—perhaps a family member, mentor, or lover—was killed. The only thing that keeps you going is the faint connection you have with this person's spirit, and the hope that one day you can tie up their unfinished business and let them rest.
 item_id: bereaved
 item_name: Bereaved
 name: Bereaved

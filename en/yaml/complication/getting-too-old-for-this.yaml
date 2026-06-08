@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), you take a −2 [penalty](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc:mcdm.heroes.v1/rule.character/speed).
 drawback: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), you take a −2 [penalty](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc:mcdm.heroes.v1/rule.character/speed).
+flavor: You were once a renowned hero, but you've been living the last few years in blissful peace. Now you're coming out of retirement for one last hurrah. Your fighting skills might have atrophied to the point where you're no stronger than a wet-behind-the-ears novice adventurer, but you still remember some of your old tricks.
 name: Getting Too Old for This
 scc: mcdm.heroes.v1/complication/getting-too-old-for-this
 type: complication

@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: corsair
 file_dpath: title
+flavor: Haul down your flag or we'll burn you to the waterline!
 item_id: corsair
 item_name: Corsair
 name: Corsair

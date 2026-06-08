@@ -3,12 +3,14 @@ echelon: "1"
 effect: While worn, a blue Color Cloak grants you cold immunity equal to your level.
 file_basename: color-cloak-blue
 file_dpath: treasure/1st-echelon/trinket
+flavor: This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning "ice."
 item_id: color-cloak-blue
 item_name: Color Cloak (Blue)
 keywords:
     - Magic
     - Neck
 name: Color Cloak (Blue)
+project_goal: "150"
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-blue
 source: mcdm.heroes.v1
 treasure_type: trinket

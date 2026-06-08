@@ -2,6 +2,7 @@
 equipment_text: You wear light armor and wield a shield and a light weapon.
 file_basename: raider
 file_dpath: kit
+flavor: The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 item_id: raider
 item_name: Raider
 name: Raider

@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: wanted-dead-or-alive
 file_dpath: title
+flavor: A hundred silver?! An insult! I turned my father in for fifty golden crowns. And he was innocent!
 item_id: wanted-dead-or-alive
 item_name: Wanted Dead or Alive
 name: Wanted Dead or Alive

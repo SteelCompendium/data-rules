@@ -1,6 +1,7 @@
 ---
 file_basename: hakaan
 file_dpath: ancestry
+flavor: In spite of their friendly, outgoing nature, the rare presence of a hakaan in human society is considered a harbinger. An omen of dark times.
 item_id: hakaan
 item_name: Hakaan
 name: Hakaan

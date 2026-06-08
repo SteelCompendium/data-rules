@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** You have poison weakness 5.
 drawback: You have poison weakness 5.
+flavor: Impoverished or on the run, you spent your formative years living in the sewers of a major city. There, you learned lessons that have served you well, although the miasma of the sewers did permanent damage to your health.
 name: Sewer Folk
 scc: mcdm.heroes.v1/complication/sewer-folk
 type: complication

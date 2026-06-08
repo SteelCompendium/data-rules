@@ -1,6 +1,7 @@
 ---
 file_basename: psychic-whisper
 file_dpath: perk
+flavor: You have the following ability.
 item_id: psychic-whisper
 item_name: Psychic Whisper
 name: Psychic Whisper

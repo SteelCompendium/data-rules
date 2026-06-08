@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: master-crafter
 file_dpath: title
+flavor: The sword Vanartha has been remade, mightier now than on the day it was forged.
 item_id: master-crafter
 item_name: Master Crafter
 name: Master Crafter

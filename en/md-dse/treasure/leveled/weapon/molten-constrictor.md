@@ -1,12 +1,14 @@
 ---
 file_basename: molten-constrictor
 file_dpath: treasure/leveled/weapon
+flavor: This flexible black-iron net burns with the heat of a volcano.
 item_id: molten-constrictor
 item_name: Molten Constrictor
 keywords:
     - Magic
     - Net
 name: Molten Constrictor
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/molten-constrictor
 source: mcdm.heroes.v1
 treasure_type: weapon

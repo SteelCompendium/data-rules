@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: diabolist
 file_dpath: title
+flavor: If you can't beat 'em, join 'em.
 item_id: diabolist
 item_name: Diabolist
 name: Diabolist

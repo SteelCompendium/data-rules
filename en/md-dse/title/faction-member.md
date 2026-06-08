@@ -2,6 +2,7 @@
 effect: You gain membership in a faction. You're regarded as a promising but untested agent, and you're allowed to operate independently. You can be assigned tasks to further your faction's goals, and you can expect rewards and promotion if you succeed. When engaged in a negotiation with any member of your faction, their patience increases by 2 (to a maximum of 5).
 file_basename: faction-member
 file_dpath: title
+flavor: In six months, I'll be running this place.
 item_id: faction-member
 item_name: Faction Member
 name: Faction Member

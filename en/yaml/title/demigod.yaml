@@ -15,6 +15,7 @@ content: |-
     - *Divine Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal corruption or holy damage instead of its usual [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type).
     - *Missionaries:* You earn 2 [Renown](scc:mcdm.heroes.v1/rule.resource/renown).
 effect: 'You gain the following benefits:'
+flavor: The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!
 name: Demigod
 prerequisite: You have the [Godsworn](scc:mcdm.heroes.v1/title/godsworn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 scc: mcdm.heroes.v1/title/demigod

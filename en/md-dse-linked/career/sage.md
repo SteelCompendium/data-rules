@@ -1,6 +1,7 @@
 ---
 file_basename: sage
 file_dpath: career
+flavor: From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself.
 item_id: sage
 item_name: Sage
 language: One language

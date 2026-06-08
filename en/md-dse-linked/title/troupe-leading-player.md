@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: troupe-leading-player
 file_dpath: title
+flavor: We're actors! We're the opposite of people!
 item_id: troupe-leading-player
 item_name: Troupe Leading Player
 name: Troupe Leading Player

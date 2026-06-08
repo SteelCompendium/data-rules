@@ -24,6 +24,7 @@ content: |-
     | 4  | **Honor the Fallen:** A group of heroes arrived in your territory with trouble close on their heels. You fought alongside them to [turn](scc:mcdm.heroes.v1/rule.combat/turn) back the evil, but it was too much. The heroes fell, and your wilderness was forever altered. Though your lands are beyond saving, there are other lands you can help. |
     | 5  | **Portents:** There were signs. You tried to ignore them, but when a great beast died at your feet, you had to recognize the truth. You were meant to leave your home territory, meant to fight a battle for the fate of all lands—and so you gave up the only life you've ever known. |
     | 6  | **Theft:** You were responsible for guarding something precious, something vital to your region's survival. But you let someone in, and they betrayed your trust by stealing the thing you were meant to guard. You left your chosen territory to atone for your mistake. |
+flavor: You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the leader of a rescue party for those wandering the wilds.
 language: One language
 name: Warden
 perk: One exploration perk (*Quick Build:* [Camouflage Hunter](scc:mcdm.heroes.v1/perk/camouflage-hunter).)

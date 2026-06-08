@@ -1,6 +1,7 @@
 ---
 file_basename: corven
 file_dpath: kit
+flavor: With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 item_id: corven
 item_name: Corven
 name: Corven

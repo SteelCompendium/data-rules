@@ -3,6 +3,7 @@ benefit: Whenever you make a [melee](../rule/combat/melee.md) [free strike](../f
 drawback: While you have [temporary Stamina](../rule/health/temporary-stamina.md) from this complication, you grow visible fangs, you take a [bane](../rule/dice/bane.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with humanoids, and your vampire progenitor can sense your location.
 file_basename: vampire-scion
 file_dpath: complication
+flavor: A vampire has bitten you. You're not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.
 item_id: vampire-scion
 item_name: Vampire Scion
 name: Vampire Scion

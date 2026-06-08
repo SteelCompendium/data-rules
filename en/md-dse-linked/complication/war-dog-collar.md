@@ -3,6 +3,7 @@ benefit: Even if you are a war dog yourself, other war dogs can't use their Post
 drawback: Each time you use your Posthumous Retirement ability, the Director can spend 3 Malice to make your collar malfunction and deal its damage to you in addition to the usual targets.
 file_basename: war-dog-collar
 file_dpath: complication
+flavor: 'You wear a loyalty collar from one of Ajax''s war dogs (see Draw Steel: Monsters). You''ve managed to rig the collar so it explodes outward while keeping you safe.'
 item_id: war-dog-collar
 item_name: War Dog Collar
 name: War Dog Collar

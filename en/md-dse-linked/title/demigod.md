@@ -2,6 +2,7 @@
 effect: 'You gain the following benefits:'
 file_basename: demigod
 file_dpath: title
+flavor: The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!
 item_id: demigod
 item_name: Demigod
 name: Demigod

@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: master-librarian
 file_dpath: title
+flavor: You want to know the exact coordinates of the Gem of the Waves shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.
 item_id: master-librarian
 item_name: Master Librarian
 name: Master Librarian

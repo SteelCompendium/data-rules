@@ -1,12 +1,14 @@
 ---
 file_basename: third-eye-seeker
 file_dpath: treasure/leveled/weapon
+flavor: The shifting patterns on this bow's crystalline grip resemble dozens of blinking eyes.
 item_id: third-eye-seeker
 item_name: Third Eye Seeker
 keywords:
     - Bow
     - Psionic
 name: Third Eye Seeker
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/third-eye-seeker
 source: mcdm.heroes.v1
 treasure_type: weapon

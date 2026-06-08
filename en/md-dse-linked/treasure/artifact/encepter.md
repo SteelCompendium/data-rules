@@ -1,6 +1,7 @@
 ---
 file_basename: encepter
 file_dpath: treasure/artifact
+flavor: A bejeweled scepter with a spiraling porcelain handle balances an orb of light above its crown.
 item_id: encepter
 item_name: Encepter
 keywords:

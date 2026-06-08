@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: noble
 file_dpath: title
+flavor: Technically, I'm called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest.
 item_id: noble
 item_name: Noble
 name: Noble

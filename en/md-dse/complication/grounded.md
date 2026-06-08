@@ -3,6 +3,7 @@ benefit: 'You have the 1st-level [Elementalist Specialization](scc:mcdm.heroes.v
 drawback: You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.
 file_basename: grounded
 file_dpath: complication
+flavor: Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 item_id: grounded
 item_name: Grounded
 name: Grounded

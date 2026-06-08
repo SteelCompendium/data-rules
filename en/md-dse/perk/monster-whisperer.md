@@ -1,6 +1,7 @@
 ---
 file_basename: monster-whisperer
 file_dpath: perk
+flavor: You can use the Handle Animals skill to interact with nonsapient creatures who are not animals.
 item_id: monster-whisperer
 item_name: Monster Whisperer
 name: Monster Whisperer

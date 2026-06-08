@@ -1,6 +1,7 @@
 ---
 file_basename: shared-spirit
 file_dpath: complication
+flavor: A supernatural spirit occupies your body, with each of you controlling your body by turns. You and the spirit share the same short-term goals and work equally well with your companions, though you might have different personalities, mannerisms, and long-term goals.
 item_id: shared-spirit
 item_name: Shared Spirit
 name: Shared Spirit

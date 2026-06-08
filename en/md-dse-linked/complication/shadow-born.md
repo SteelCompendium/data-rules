@@ -3,6 +3,7 @@ benefit: Whenever you start your [turn](../rule/combat/turn.md) with [concealmen
 drawback: You have holy weakness 5.
 file_basename: shadow-born
 file_dpath: complication
+flavor: 'You were born in the dusk land ruled by the Queen of Shadows, and its darkness has seeped into your bones. (See The Myriad Worlds of the Timescape in Chapter 1: The Basics.)'
 item_id: shadow-born
 item_name: Shadow Born
 name: Shadow Born

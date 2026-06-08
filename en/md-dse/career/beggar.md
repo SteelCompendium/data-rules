@@ -1,6 +1,7 @@
 ---
 file_basename: beggar
 file_dpath: career
+flavor: You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food.
 item_id: beggar
 item_name: Beggar
 language: Two languages

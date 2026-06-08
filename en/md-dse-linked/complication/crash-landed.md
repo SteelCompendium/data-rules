@@ -3,6 +3,7 @@ benefit: You have the Timescape skill (from the lore skill group). Additionally,
 drawback: You take a [bane](../rule/dice/bane.md) on any [test](../rule/test/test.md) made to know about anything related to the world where you [crash landed](crash-landed.md).
 file_basename: crash-landed
 file_dpath: complication
+flavor: You used to flit around the stars in your own ship. But an ugly run-in with a pirate (or a pirate hunter) has left you marooned on this backwater world. You're prepared to carve out a life here—at least until you can hitch a ride somewhere else.
 item_id: crash-landed
 item_name: Crash Landed
 name: Crash Landed

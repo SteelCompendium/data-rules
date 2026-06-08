@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: local-hero
 file_dpath: title
+flavor: Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!
 item_id: local-hero
 item_name: Local Hero
 name: Local Hero

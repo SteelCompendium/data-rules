@@ -1,6 +1,7 @@
 ---
 file_basename: martial
 file_dpath: culture
+flavor: A hero with a martial upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 item_id: martial
 item_name: Martial
 name: Martial

@@ -94,6 +94,7 @@ content: |-
     Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, hands clenched, arms in a guarding position before him. "Discipline, training, focus. These are my [implements](scc:mcdm.heroes.v1/rule.treasure/implement)."
 
     "Well you can't ever be disarmed," John said. "That could be useful." Ardashir's smile was brilliant. "I suffice," he said.
+flavor: In spite of their friendly, outgoing nature, the rare presence of a hakaan in human society is considered a harbinger. An omen of dark times.
 name: Hakaan
 scc: mcdm.heroes.v1/ancestry/hakaan
 signature_trait_name: Big!

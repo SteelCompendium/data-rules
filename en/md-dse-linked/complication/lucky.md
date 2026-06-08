@@ -3,6 +3,7 @@ benefit: When you spend a [hero token](../rule/resource/hero-token.md) to succee
 drawback: Whenever you obtain a tier 1 outcome on a [test](../rule/test/test.md) and don't spend a [hero token](../rule/resource/hero-token.md) to reroll, you take a [bane](../rule/dice/bane.md) on the next [test](../rule/test/test.md) you make.
 file_basename: lucky
 file_dpath: complication
+flavor: You've always had a lucky streak. When you leave things in the hands of fate, you succeed more than you fail. But luck is fickle—and when you don't trust it, it deserts you.
 item_id: lucky
 item_name: Lucky
 name: Lucky

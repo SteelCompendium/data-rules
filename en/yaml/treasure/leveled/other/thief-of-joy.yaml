@@ -18,10 +18,12 @@ content: |-
     **5th Level:** The torque's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) increases to three times your highest [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score. Additionally, when you use the torque's maneuver and the target creature is the same level as you, you gain your choice of envy or disdain.
 
     **9th Level:** The torque's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) increases to five times your highest [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.
+flavor: This burnished copper torque thrums with a sense of judgment.
 keywords:
     - Neck
     - Psionic
 name: Thief of Joy
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/thief-of-joy
 treasure_type: other
 type: treasure

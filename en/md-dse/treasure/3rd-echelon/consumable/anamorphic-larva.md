@@ -3,11 +3,13 @@ echelon: "3"
 effect: When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you. The wall can't be created to fill any square occupied by a creature with [stability](scc:mcdm.heroes.v1/rule.character/stability) 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
 file_basename: anamorphic-larva
 file_dpath: treasure/3rd-echelon/consumable
+flavor: A cloudy glass vial holds a writhing monstrous grub.
 item_id: anamorphic-larva
 item_name: Anamorphic Larva
 keywords:
     - Psionic
 name: Anamorphic Larva
+project_goal: "180"
 scc: mcdm.heroes.v1/treasure.3rd-echelon.consumable/anamorphic-larva
 source: mcdm.heroes.v1
 treasure_type: consumable

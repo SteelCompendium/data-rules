@@ -16,10 +16,12 @@ content: |-
     **5th Level:** While the tome is open, the [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [distance](scc:mcdm.heroes.v1/rule.combat/distance) for your [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) magic or psionic abilities increases to +5. Additionally, when you or a creature you have [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect) to uses a magic or psionic ability, you can use a [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to grant a +3 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
 
     **9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on [Reason](scc:mcdm.heroes.v1/rule.character/reason) [tests](scc:mcdm.heroes.v1/rule.test/test) made to recall lore, and when you use a [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability), its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost is reduced by 1 (to a minimum of 1).
+flavor: This ornate high elf tome seems to sigh each time it is opened.
 keywords:
     - '[Implement](scc:mcdm.heroes.v1/rule.treasure/implement)'
     - Magic
 name: Words Become Wonders at Next Breath
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/words-become-wonders-at-next-breath
 treasure_type: implement
 type: treasure

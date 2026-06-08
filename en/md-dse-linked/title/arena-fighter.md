@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: arena-fighter
 file_dpath: title
+flavor: You've never seen the showstopper? The move so brutal it was banned in the arena? Come closer and I'll show it to you.
 item_id: arena-fighter
 item_name: Arena Fighter
 name: Arena Fighter

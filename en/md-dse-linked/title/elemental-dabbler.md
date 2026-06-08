@@ -2,6 +2,7 @@
 effect: 'Choose a [damage type](../rule/damage/damage-type.md) to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:'
 file_basename: elemental-dabbler
 file_dpath: title
+flavor: Spirit of fire, I command you!
 item_id: elemental-dabbler
 item_name: Elemental Dabbler
 name: Elemental Dabbler

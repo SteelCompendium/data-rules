@@ -3,6 +3,7 @@ benefit: On your [turn](../rule/combat/turn.md), you can choose a [heroic abilit
 drawback: While you are [winded](../rule/health/winded.md), you take a −2 [penalty](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md).
 file_basename: getting-too-old-for-this
 file_dpath: complication
+flavor: You were once a renowned hero, but you've been living the last few years in blissful peace. Now you're coming out of retirement for one last hurrah. Your fighting skills might have atrophied to the point where you're no stronger than a wet-behind-the-ears novice adventurer, but you still remember some of your old tricks.
 item_id: getting-too-old-for-this
 item_name: Getting Too Old for This
 name: Getting Too Old for This

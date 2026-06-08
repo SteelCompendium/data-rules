@@ -1,12 +1,14 @@
 ---
 file_basename: authoritys-end
 file_dpath: treasure/leveled/weapon
+flavor: This long, sinuous chain is composed entirely of broken links held together by unseen power.
 item_id: authoritys-end
 item_name: Authority's End
 keywords:
     - Psionic
     - Whip
 name: Authority's End
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/authoritys-end
 source: mcdm.heroes.v1
 treasure_type: weapon

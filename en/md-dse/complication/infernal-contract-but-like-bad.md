@@ -3,6 +3,7 @@ benefit: 'Choose one of the following benefits:'
 drawback: Your body bears a fiendish mark. Any creature who understands religion and notes the mark can tell that your soul belongs to Hell, imposing a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on any [test](scc:mcdm.heroes.v1/rule.test/test) you make to interact with those creatures (unless they're into that). Additionally, when you die, your soul goes to Hell and you can't be restored to life.
 file_basename: infernal-contract-but-like-bad
 file_dpath: complication
+flavor: You made a deal with a devil. Not a very good deal, because it wasn't a very good devil. It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the devil to void the deal.
 item_id: infernal-contract-but-like-bad
 item_name: Infernal Contract... But, Like, Bad
 name: Infernal Contract... But, Like, Bad

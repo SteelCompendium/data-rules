@@ -2,6 +2,7 @@
 effect: You are restored to life. You gain the Tough But Withered signature trait from the [revenant](scc:mcdm.heroes.v1/ancestry/revenant) ancestry.
 file_basename: back-from-the-grave
 file_dpath: title
+flavor: Hi! Remember me?
 item_id: back-from-the-grave
 item_name: Back From the Grave
 name: Back From the Grave

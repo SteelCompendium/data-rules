@@ -1,12 +1,14 @@
 ---
 file_basename: lance-of-the-sundered-star
 file_dpath: treasure/leveled/weapon
+flavor: This needlelike lance is cast of shimmering metal and induces a yearning for the skies in those who handle it.
 item_id: lance-of-the-sundered-star
 item_name: Lance of the Sundered Star
 keywords:
     - Magic
     - Polearm
 name: Lance of the Sundered Star
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/lance-of-the-sundered-star
 source: mcdm.heroes.v1
 treasure_type: weapon

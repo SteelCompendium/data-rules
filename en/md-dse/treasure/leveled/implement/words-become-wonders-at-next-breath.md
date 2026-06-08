@@ -1,12 +1,14 @@
 ---
 file_basename: words-become-wonders-at-next-breath
 file_dpath: treasure/leveled/implement
+flavor: This ornate high elf tome seems to sigh each time it is opened.
 item_id: words-become-wonders-at-next-breath
 item_name: Words Become Wonders at Next Breath
 keywords:
     - '[Implement](scc:mcdm.heroes.v1/rule.treasure/implement)'
     - Magic
 name: Words Become Wonders at Next Breath
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/words-become-wonders-at-next-breath
 source: mcdm.heroes.v1
 treasure_type: implement

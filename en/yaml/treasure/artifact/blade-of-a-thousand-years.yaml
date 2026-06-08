@@ -16,6 +16,7 @@ content: |-
     **[Victory](scc:mcdm.heroes.v1/rule.resource/victories)'s Assurance:** This weapon always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking the blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure [victory](scc:mcdm.heroes.v1/rule.resource/victories) against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
 
     **Soul of the Martyr:** If the wielder dies while holding this blade, their soul is drawn into the starlight hilt, where it remains for the rest of time to prevent any chance of resurrection. The sword disappears, but the lingering feeling of hope that spreads from it remains. For the next hour, the effects of Rally the Righteous increase to provide a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on weapon abilities and magic abilities, [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 10, an increase to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) maximum of 30, and a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) of +30.
+flavor: This fabled sword features a hilt made of glittering starlight, out of which its gleaming metal blade extends.
 keywords:
     - Magic; Light Weapon
     - Medium Weapon

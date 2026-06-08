@@ -3,6 +3,7 @@ benefit: You know how to talk to monarchs, aristocrats, and other wealthy leader
 drawback: Your royal [ward](scc:mcdm.heroes.v1/complication/ward) can be a burden. Whenever you take a [respite](scc:mcdm.heroes.v1/rule.resource/respite), roll a d10. On a 1, your [ward](scc:mcdm.heroes.v1/complication/ward) contacts you and requires your help during the [respite](scc:mcdm.heroes.v1/rule.resource/respite), requiring you to spend your time helping them instead of undertaking a [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity.
 file_basename: ward
 file_dpath: complication
+flavor: Your childhood sweetheart was royalty, and the two of you stayed close throughout the years. When your former sweetheart died, you swore an oath to dedicate your life to become a role model for their child, advising them in the ways of being a benevolent monarch.
 item_id: ward
 item_name: Ward
 name: Ward

@@ -3,6 +3,7 @@ benefit: At the start of any [combat round](../rule/combat/combat-round.md), you
 drawback: Whenever you start a [respite](../rule/resource/respite.md) activity, roll 2d10. If you roll a 1 on either die, you inadvertently absent yourself from reality, reappearing at the end of the [respite](../rule/resource/respite.md). You gain the benefits of taking a [respite](../rule/resource/respite.md) but don't perform the [respite](../rule/resource/respite.md) activity.
 file_basename: evanesceria
 file_dpath: complication
+flavor: You have contracted a rare magical disease called evanesceria. From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
 item_id: evanesceria
 item_name: Evanesceria
 name: Evanesceria

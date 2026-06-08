@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** You earn no [Victories](scc:mcdm.heroes.v1/rule.resource/victories) from combat encounters or other challenges for which your relative was present. Additionally, each time you summon your relative, the next time you gain [Renown](scc:mcdm.heroes.v1/rule.resource/renown), your relative gains that [Renown](scc:mcdm.heroes.v1/rule.resource/renown) instead.
 drawback: You earn no [Victories](scc:mcdm.heroes.v1/rule.resource/victories) from combat encounters or other challenges for which your relative was present. Additionally, each time you summon your relative, the next time you gain [Renown](scc:mcdm.heroes.v1/rule.resource/renown), your relative gains that [Renown](scc:mcdm.heroes.v1/rule.resource/renown) instead.
+flavor: Sure, you're a promising young hero in your own right—but people always ask you about your famous relative. Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 name: Famous Relative
 scc: mcdm.heroes.v1/complication/famous-relative
 type: complication

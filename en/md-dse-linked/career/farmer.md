@@ -1,6 +1,7 @@
 ---
 file_basename: farmer
 file_dpath: career
+flavor: You grew crops or cared for livestock.
 item_id: farmer
 item_name: Farmer
 language: One language

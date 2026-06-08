@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: zombie-slayer
 file_dpath: title
+flavor: Why won't you die?! You've already done it once, you should be good at it by now!
 item_id: zombie-slayer
 item_name: Zombie Slayer
 name: Zombie Slayer

@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: planar-voyager
 file_dpath: title
+flavor: I've seen skywhales floating above the seas of Primordius. I've seen star freighters dancing around the moons of Axiom. So I guess you're right, I'm not from around these parts.
 item_id: planar-voyager
 item_name: Planar Voyager
 name: Planar Voyager

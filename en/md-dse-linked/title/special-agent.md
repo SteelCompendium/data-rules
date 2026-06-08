@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: special-agent
 file_dpath: title
+flavor: And this is interesting... if you twist the third button on your overcoat no, don't do it now!
 item_id: special-agent
 item_name: Special Agent
 name: Special Agent

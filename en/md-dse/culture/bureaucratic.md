@@ -1,6 +1,7 @@
 ---
 file_basename: bureaucratic
 file_dpath: culture
+flavor: Bureaucratic cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities
 item_id: bureaucratic
 item_name: Bureaucratic
 name: Bureaucratic

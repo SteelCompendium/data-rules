@@ -2,6 +2,7 @@
 equipment_text: You wear light armor and wield a medium weapon.
 file_basename: battlemind
 file_dpath: kit
+flavor: Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
 item_id: battlemind
 item_name: Battlemind
 name: Battlemind

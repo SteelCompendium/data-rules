@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** With a tier 1 outcome, you receive a painful vision that is fractal and inscrutable. When you finish the [respite](scc:mcdm.heroes.v1/rule.resource/respite), you lose 1 [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 drawback: With a tier 1 outcome, you receive a painful vision that is fractal and inscrutable. When you finish the [respite](scc:mcdm.heroes.v1/rule.resource/respite), you lose 1 [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+flavor: You broke a magic amulet, immersing your mind in weird energy that granted you the power of premonition. However, you struggle to control this new gift. Whenever you take a respite, make a Reason test to determine whether you gain this complication's benefit or drawback.
 name: Waking Dreams
 scc: mcdm.heroes.v1/complication/waking-dreams
 type: complication

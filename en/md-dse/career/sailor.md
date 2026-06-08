@@ -1,6 +1,7 @@
 ---
 file_basename: sailor
 file_dpath: career
+flavor: You worked on a ship, whether a merchant cog, a mercenary or military craft, or a pirate vessel. You might have been a deckhand, a mate, or even the captain.
 item_id: sailor
 item_name: Sailor
 language: Two languages

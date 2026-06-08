@@ -1,6 +1,7 @@
 ---
 file_basename: self-taught
 file_dpath: complication
+flavor: While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a guide. What you lost in polish and tactical acumen, you now make up for in raw power.
 item_id: self-taught
 item_name: Self-Taught
 name: Self-Taught

@@ -3,6 +3,7 @@ benefit: While you are [taunted](scc:mcdm.heroes.v1/condition/taunted) by a crea
 drawback: In combat, whenever a creature makes a [strike](scc:mcdm.heroes.v1/rule.combat/strike) against you and you are not [taunted](scc:mcdm.heroes.v1/condition/taunted), you are [taunted](scc:mcdm.heroes.v1/condition/taunted) by that creature until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) or be compelled to reply with an insult.
 file_basename: wrathful-spirit
 file_dpath: complication
+flavor: You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 item_id: wrathful-spirit
 item_name: Wrathful Spirit
 name: Wrathful Spirit

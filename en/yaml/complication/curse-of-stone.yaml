@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** You have sonic weakness 5. Additionally, while you are [winded](scc:mcdm.heroes.v1/rule.health/winded), you are [dazed](scc:mcdm.heroes.v1/condition/dazed).
 drawback: You have sonic weakness 5. Additionally, while you are [winded](scc:mcdm.heroes.v1/rule.health/winded), you are [dazed](scc:mcdm.heroes.v1/condition/dazed).
+flavor: As a child, you met a creature who turns people to stone, such as a medusa. You escaped half petrified, avoiding the fate of others who stand as statues now.
 name: Curse of Stone
 scc: mcdm.heroes.v1/complication/curse-of-stone
 type: complication

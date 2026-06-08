@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: maestro
 file_dpath: title
+flavor: When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.
 item_id: maestro
 item_name: Maestro
 name: Maestro

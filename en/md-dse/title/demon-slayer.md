@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: demon-slayer
 file_dpath: title
+flavor: F'lath v'korr en zaratha g'rrack.
 item_id: demon-slayer
 item_name: Demon Slayer
 name: Demon Slayer

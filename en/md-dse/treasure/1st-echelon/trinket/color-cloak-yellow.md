@@ -3,12 +3,14 @@ echelon: "1"
 effect: While worn, a yellow Color Cloak grants you lightning immunity equal to your level.
 file_basename: color-cloak-yellow
 file_dpath: treasure/1st-echelon/trinket
+flavor: This yellow rubbery hooded cloak is emblazoned with a golden Anjali sigil meaning "lightning."
 item_id: color-cloak-yellow
 item_name: Color Cloak (Yellow)
 keywords:
     - Magic
     - Neck
 name: Color Cloak (Yellow)
+project_goal: "150"
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-yellow
 source: mcdm.heroes.v1
 treasure_type: trinket

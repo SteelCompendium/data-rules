@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: ratcatcher
 file_dpath: title
+flavor: I like fighting these little guys. Means I don't have to waste money on a helmet.
 item_id: ratcatcher
 item_name: Ratcatcher
 name: Ratcatcher

@@ -1,6 +1,7 @@
 ---
 file_basename: criminal
 file_dpath: career
+flavor: You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin.
 item_id: criminal
 item_name: Criminal
 language: One language

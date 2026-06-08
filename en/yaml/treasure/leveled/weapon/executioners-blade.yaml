@@ -16,10 +16,12 @@ content: |-
     **5th Level:** The weapon's extra psychic damage increases to 2, or to 4 if the target is [winded](scc:mcdm.heroes.v1/rule.health/winded). Additionally, whenever you cause an enemy to become [winded](scc:mcdm.heroes.v1/rule.health/winded) with an ability using the weapon, you gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge) that you can immediately spend.
 
     **9th Level:** The weapon's extra psychic damage increases to 3, or to 6 if the target is [winded](scc:mcdm.heroes.v1/rule.health/winded). Additionally, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on any ability using the weapon against a [winded](scc:mcdm.heroes.v1/rule.health/winded) target.
+flavor: This blade exudes a faint hum that grows louder as its quarry weakens.
 keywords:
     - Heavy Weapon
     - Psionic
 name: Executioner's Blade
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/executioners-blade
 treasure_type: weapon
 type: treasure

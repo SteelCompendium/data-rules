@@ -1,6 +1,7 @@
 ---
 file_basename: curse-of-poverty
 file_dpath: complication
+flavor: A soothsayer once predicted you would have a long life, even as they told you you'd never be rich. But you're determined to prove them wrong. You'll get rich or die trying!
 item_id: curse-of-poverty
 item_name: Curse of Poverty
 name: Curse of Poverty

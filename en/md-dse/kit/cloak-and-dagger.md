@@ -2,6 +2,7 @@
 equipment_text: You wear light armor and wield one or two light weapons.
 file_basename: cloak-and-dagger
 file_dpath: kit
+flavor: Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while increasing the effectiveness of your short-range strikes.
 item_id: cloak-and-dagger
 item_name: Cloak and Dagger
 name: Cloak and Dagger

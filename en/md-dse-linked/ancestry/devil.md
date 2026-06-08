@@ -1,6 +1,7 @@
 ---
 file_basename: devil
 file_dpath: ancestry
+flavor: The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some hellmark-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 item_id: devil
 item_name: Devil
 name: Devil

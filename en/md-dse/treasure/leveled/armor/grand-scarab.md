@@ -1,12 +1,14 @@
 ---
 file_basename: grand-scarab
 file_dpath: treasure/leveled/armor
+flavor: The blue-purple carapace and wings of a gigantic scarab beetle have been formed into an ornate breastplate.
 item_id: grand-scarab
 item_name: Grand Scarab
 keywords:
     - Magic
     - Medium Armor
 name: Grand Scarab
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/grand-scarab
 source: mcdm.heroes.v1
 treasure_type: armor

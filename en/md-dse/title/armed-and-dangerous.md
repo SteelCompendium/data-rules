@@ -2,6 +2,7 @@
 effect: You can use and gain the benefits of kits.
 file_basename: armed-and-dangerous
 file_dpath: title
+flavor: I'm not picky. Any tool will suffice. A sword seems a most appropriate tool for this job.
 item_id: armed-and-dangerous
 item_name: Armed and Dangerous
 name: Armed and Dangerous

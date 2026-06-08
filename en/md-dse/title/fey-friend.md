@@ -2,6 +2,7 @@
 effect: 'You know the Khelt language. Additionally, choose one of the following benefits:'
 file_basename: fey-friend
 file_dpath: title
+flavor: Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged.
 item_id: fey-friend
 item_name: Fey Friend
 name: Fey Friend

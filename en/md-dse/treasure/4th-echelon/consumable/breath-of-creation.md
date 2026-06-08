@@ -3,11 +3,13 @@ echelon: "4"
 effect: When you inhale the Breath of Creation as a maneuver, you are imbued with cosmic power. You earn 1 [Renown](scc:mcdm.heroes.v1/rule.resource/renown), and you create a [size](scc:mcdm.heroes.v1/rule.character/size) 2 portal to a new demiplane in an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) square. The demiplane is a 20-[cube](scc:mcdm.heroes.v1/rule.combat/cube) area whose form and mundane features are chosen by you. The portal appears only to you and creatures you designate, and only you and those creatures can enter the demiplane. When a creature moves into the portal, they emerge from a corresponding portal inside the demiplane, and vice versa. Objects created within the demiplane turn to dust if removed from it.
 file_basename: breath-of-creation
 file_dpath: treasure/4th-echelon/consumable
+flavor: A glass flask holds a roiling storm of astral plasma.
 item_id: breath-of-creation
 item_name: Breath of Creation
 keywords:
     - Psionic
 name: Breath of Creation
+project_goal: "360"
 scc: mcdm.heroes.v1/treasure.4th-echelon.consumable/breath-of-creation
 source: mcdm.heroes.v1
 treasure_type: consumable

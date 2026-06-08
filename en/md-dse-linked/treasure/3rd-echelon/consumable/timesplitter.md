@@ -3,11 +3,13 @@ echelon: "3"
 effect: 'As a maneuver, you make a [ranged](../../../rule/combat/ranged.md) [free strike](../../../feature/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The [strike](../../../rule/combat/strike.md) deals an extra 1d6 psychic damage and adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):'
 file_basename: timesplitter
 file_dpath: treasure/3rd-echelon/consumable
+flavor: This spiked crystal makes a beautiful ringing sound when first touched.
 item_id: timesplitter
 item_name: Timesplitter
 keywords:
     - Psionic
 name: Timesplitter
+project_goal: "180"
 scc: mcdm.heroes.v1/treasure.3rd-echelon.consumable/timesplitter
 source: mcdm.heroes.v1
 treasure_type: consumable

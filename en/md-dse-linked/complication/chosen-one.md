@@ -3,6 +3,7 @@ benefit: You have 3 destiny points. Whenever you spend your [Heroic Resource](..
 drawback: Whenever you spend 1 or more destiny points, you take 1d10 psychic damage that can't be reduced in any way, and the cult that seeks you becomes aware of your location.
 file_basename: chosen-one
 file_dpath: complication
+flavor: Perhaps the stars marked you out at birth, or maybe your name appears in an ancient prophecy. In any case, a sinister cult has decided that you're important to their plans—though you don't particularly like the fate those plans have in store for you.
 item_id: chosen-one
 item_name: Chosen One
 name: Chosen One

@@ -1,12 +1,14 @@
 ---
 file_basename: executioners-blade
 file_dpath: treasure/leveled/weapon
+flavor: This blade exudes a faint hum that grows louder as its quarry weakens.
 item_id: executioners-blade
 item_name: Executioner's Blade
 keywords:
     - Heavy Weapon
     - Psionic
 name: Executioner's Blade
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/executioners-blade
 source: mcdm.heroes.v1
 treasure_type: weapon

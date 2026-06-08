@@ -3,6 +3,7 @@ benefit: You have the Handle Animals skill (from the interpersonal skill group).
 drawback: 'You don''t have a culture (see Culture in Chapter 4: [Background](../chapter/background.md)), though you can speak Caelian.'
 file_basename: raised-by-beasts
 file_dpath: complication
+flavor: You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes, bears, or wolves) took you in. Returning to so-called civilization was a shock, but you're now determined to learn all you can about your own kind.
 item_id: raised-by-beasts
 item_name: Raised by Beasts
 name: Raised by Beasts

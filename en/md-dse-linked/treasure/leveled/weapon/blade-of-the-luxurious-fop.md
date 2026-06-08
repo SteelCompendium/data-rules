@@ -1,12 +1,14 @@
 ---
 file_basename: blade-of-the-luxurious-fop
 file_dpath: treasure/leveled/weapon
+flavor: Despite sporting an outrageously ornate hilt adorned with far too many jewels, this blade remains perfectly balanced.
 item_id: blade-of-the-luxurious-fop
 item_name: Blade of the Luxurious Fop
 keywords:
     - Light Weapon
     - Magic
 name: Blade of the Luxurious Fop
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/blade-of-the-luxurious-fop
 source: mcdm.heroes.v1
 treasure_type: weapon

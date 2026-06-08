@@ -3,11 +3,13 @@ echelon: "2"
 effect: 'As a maneuver, you snap this wand in half, letting you vertically pull one object or creature of [size](scc:mcdm.heroes.v1/rule.character/size) 3 or less a number of squares based on that target''s [size](scc:mcdm.heroes.v1/rule.character/size):'
 file_basename: telemagnet
 file_dpath: treasure/2nd-echelon/consumable
+flavor: A short iron wand shaped of interlocking segments leaks greasy black oil from its joints.
 item_id: telemagnet
 item_name: Telemagnet
 keywords:
     - Psionic
 name: Telemagnet
+project_goal: "90"
 scc: mcdm.heroes.v1/treasure.2nd-echelon.consumable/telemagnet
 source: mcdm.heroes.v1
 treasure_type: consumable

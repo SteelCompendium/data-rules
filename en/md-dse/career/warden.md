@@ -1,6 +1,7 @@
 ---
 file_basename: warden
 file_dpath: career
+flavor: You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the leader of a rescue party for those wandering the wilds.
 item_id: warden
 item_name: Warden
 language: One language

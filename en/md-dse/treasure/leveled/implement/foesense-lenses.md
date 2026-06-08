@@ -1,12 +1,14 @@
 ---
 file_basename: foesense-lenses
 file_dpath: treasure/leveled/implement
+flavor: These spectacles feature pink-tinted glass lenses held in a silver frame.
 item_id: foesense-lenses
 item_name: Foesense Lenses
 keywords:
     - '[Implement](scc:mcdm.heroes.v1/rule.treasure/implement)'
     - Psionic
 name: Foesense Lenses
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/foesense-lenses
 source: mcdm.heroes.v1
 treasure_type: implement

@@ -1,6 +1,7 @@
 ---
 file_basename: mages-apprentice
 file_dpath: career
+flavor: For long years, you studied magic under the mentorship of a more experienced mage.
 item_id: mages-apprentice
 item_name: Mage's Apprentice
 language: One language

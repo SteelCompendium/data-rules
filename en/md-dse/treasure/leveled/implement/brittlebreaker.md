@@ -1,12 +1,14 @@
 ---
 file_basename: brittlebreaker
 file_dpath: treasure/leveled/implement
+flavor: This crystal wand thrums with power, yet is so thin and brittle that it feels as if even a slight squeeze will shatter it.
 item_id: brittlebreaker
 item_name: Brittlebreaker
 keywords:
     - Psionic
     - Wand
 name: Brittlebreaker
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/brittlebreaker
 source: mcdm.heroes.v1
 treasure_type: implement

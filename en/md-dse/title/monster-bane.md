@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: monster-bane
 file_dpath: title
+flavor: You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn't see the size of the mouse!
 item_id: monster-bane
 item_name: Monster Bane
 name: Monster Bane

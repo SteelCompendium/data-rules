@@ -1,6 +1,7 @@
 ---
 file_basename: boren
 file_dpath: kit
+flavor: With this stormwight kit, you channel your primordial ferocity into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 item_id: boren
 item_name: Boren
 name: Boren

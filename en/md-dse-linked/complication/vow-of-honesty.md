@@ -3,6 +3,7 @@ benefit: If a creature is of a lower level than you, you automatically know when
 drawback: When you lie, your honor is stained and you lose this complication's benefit. Additionally, you take a [bane](../rule/dice/bane.md) on any [test](../rule/test/test.md) that uses a skill from the interpersonal skill group. You can lose the [bane](../rule/dice/bane.md) and regain this complication's benefit only by doing penance, such as gaining the forgiveness of the creature you lied to.
 file_basename: vow-of-honesty
 file_dpath: complication
+flavor: You were brought up to a strict standard of behavior. You cannot tell a lie.
 item_id: vow-of-honesty
 item_name: Vow of Honesty
 name: Vow of Honesty

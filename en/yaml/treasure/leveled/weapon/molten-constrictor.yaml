@@ -16,10 +16,12 @@ content: |-
     **5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by a [strike](scc:mcdm.heroes.v1/rule.combat/strike) using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver.
 
     **9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](scc:mcdm.heroes.v1/condition/grabbed) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) with another weapon against a target [grabbed](scc:mcdm.heroes.v1/condition/grabbed) using the net.
+flavor: This flexible black-iron net burns with the heat of a volcano.
 keywords:
     - Magic
     - Net
 name: Molten Constrictor
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/molten-constrictor
 treasure_type: weapon
 type: treasure

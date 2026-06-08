@@ -1,6 +1,7 @@
 ---
 file_basename: medium
 file_dpath: complication
+flavor: You can perceive ghosts and spirits that others don't sense. These supernatural entities constantly whisper unsettling secrets in your mind—when they're not trying to kill you.
 item_id: medium
 item_name: Medium
 name: Medium

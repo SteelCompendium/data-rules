@@ -3,6 +3,7 @@ benefit: With a tier 2 outcome, you experience a vision of an event currently ha
 drawback: With a tier 1 outcome, you receive a painful vision that is fractal and inscrutable. When you finish the [respite](../rule/resource/respite.md), you lose 1 [Recovery](../rule/health/recoveries.md).
 file_basename: waking-dreams
 file_dpath: complication
+flavor: You broke a magic amulet, immersing your mind in weird energy that granted you the power of premonition. However, you struggle to control this new gift. Whenever you take a respite, make a Reason test to determine whether you gain this complication's benefit or drawback.
 item_id: waking-dreams
 item_name: Waking Dreams
 name: Waking Dreams

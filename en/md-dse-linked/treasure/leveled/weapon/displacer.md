@@ -1,12 +1,14 @@
 ---
 file_basename: displacer
 file_dpath: treasure/leveled/weapon
+flavor: This crystal battleaxe seems to pull at the hands that wield it, as if anxious to leap across the battlefield.
 item_id: displacer
 item_name: Displacer
 keywords:
     - Medium Weapon
     - Psionic
 name: Displacer
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/displacer
 source: mcdm.heroes.v1
 treasure_type: weapon

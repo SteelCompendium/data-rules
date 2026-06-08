@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: sworn-hunter
 file_dpath: title
+flavor: I will follow you to the ends of the earth—just so I can kick you off the edge.
 item_id: sworn-hunter
 item_name: Sworn Hunter
 name: Sworn Hunter

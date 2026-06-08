@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: unstoppable
 file_dpath: title
+flavor: I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king's corpse.
 item_id: unstoppable
 item_name: Unstoppable
 name: Unstoppable

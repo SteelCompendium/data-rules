@@ -1,6 +1,7 @@
 ---
 file_basename: soldier
 file_dpath: career
+flavor: In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces.
 item_id: soldier
 item_name: Soldier
 language: Two languages

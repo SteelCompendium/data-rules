@@ -3,6 +3,7 @@ benefit: 'As long as you are not in a building or other structure, you can spend
 drawback: People aware of the origin of your mount are afraid to interact with you, since they worry the Hawklords will come after them by association. You take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on any [test](scc:mcdm.heroes.v1/rule.test/test) made to influence anyone who knows of the Hawklords and who has observed you with your giant hawk. Such people might also report you to the Hawklords, who come looking for you at the Director's discretion.
 file_basename: hawk-rider
 file_dpath: complication
+flavor: 'You travel with a giant hawk who you stole from the Hawklords (see Vasloria in Chapter 1: The Basics). You might once have been a Hawklord yourself, or perhaps you escaped their captivity. Having a giant hawk companion comes with its share of inconveniences and dangers, but those are a small price to pay for the freedom of the open sky.'
 item_id: hawk-rider
 item_name: Hawk Rider
 name: Hawk Rider

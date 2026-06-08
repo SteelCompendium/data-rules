@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: brawler
 file_dpath: title
+flavor: We won't kill you. But you might wish we had.
 item_id: brawler
 item_name: Brawler
 name: Brawler

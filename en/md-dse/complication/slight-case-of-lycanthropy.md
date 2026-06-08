@@ -3,6 +3,7 @@ benefit: Whenever you make a non-minion creature [winded](scc:mcdm.heroes.v1/rul
 drawback: At the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn), if you have five or more [surges](scc:mcdm.heroes.v1/rule.resource/surge)—or one or more [surges](scc:mcdm.heroes.v1/rule.resource/surge) while in moonlight—you lose all your [surges](scc:mcdm.heroes.v1/rule.resource/surge) and become a wolfish hybrid until the end of your [turn](scc:mcdm.heroes.v1/rule.combat/turn). While in that form, you have your usual statistics, but you must make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the nearest creature if you can. You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 file_basename: slight-case-of-lycanthropy
 file_dpath: complication
+flavor: Maybe you were bitten as a child, or maybe it's a family curse. Either way, you have a malady that is best not discussed in public, lest torches and pitchforks make an appearance.
 item_id: slight-case-of-lycanthropy
 item_name: Slight Case of Lycanthropy
 name: Slight Case of Lycanthropy

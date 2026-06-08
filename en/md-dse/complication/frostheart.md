@@ -3,6 +3,7 @@ benefit: You have cold immunity 5. Additionally, whenever you make a [strike](sc
 drawback: You have fire weakness 5.
 file_basename: frostheart
 file_dpath: complication
+flavor: At the edge of the world, you were lost in a winter storm and presumed dead. But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 item_id: frostheart
 item_name: Frostheart
 name: Frostheart

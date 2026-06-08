@@ -1,6 +1,7 @@
 ---
 file_basename: teamwork
 file_dpath: perk
+flavor: When you take your first turn during any montage test, you can both make a test and assist another hero's test.
 item_id: teamwork
 item_name: Teamwork
 name: Teamwork

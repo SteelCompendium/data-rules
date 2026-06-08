@@ -1,6 +1,7 @@
 ---
 file_basename: vuken
 file_dpath: kit
+flavor: With this stormwight kit, you channel your primordial ferocity into the form of a wolf, becoming a fleet-footed hunter. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 item_id: vuken
 item_name: Vuken
 name: Vuken

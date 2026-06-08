@@ -1,6 +1,7 @@
 ---
 file_basename: laborer
 file_dpath: career
+flavor: You worked as a farmer, builder, clothes washer, forester, miner, or some other profession engaged in hard manual labor.
 item_id: laborer
 item_name: Laborer
 language: One language

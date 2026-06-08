@@ -3,6 +3,7 @@ benefit: You know the Corrupt Spirit maneuver, taught to you by your mentor. (In
 drawback: You have holy weakness 1. Each time you use Corrupt Spirit, your holy weakness increases by 1, to a maximum equal to your [recovery value](../rule/health/recoveries.md). Whenever you take holy damage, this weakness resets to 1.
 file_basename: corrupted-mentor
 file_dpath: complication
+flavor: Your mentor taught you everything and you trusted them completely until they went rogue, betraying you or the organization you both belonged to. Their current whereabouts and activities are unknown, though disturbing rumors are heard from time to time. Even worse, as their former pupil, you're now under suspicion as well.
 item_id: corrupted-mentor
 item_name: Corrupted Mentor
 name: Corrupted Mentor

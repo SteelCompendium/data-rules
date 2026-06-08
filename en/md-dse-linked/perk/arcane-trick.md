@@ -1,6 +1,7 @@
 ---
 file_basename: arcane-trick
 file_dpath: perk
+flavor: You have the following ability.
 item_id: arcane-trick
 item_name: Arcane Trick
 name: Arcane Trick

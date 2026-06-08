@@ -2,6 +2,7 @@
 equipment_text: You wear heavy armor and wield a shield and a medium weapon.
 file_basename: shining-armor
 file_dpath: kit
+flavor: The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 item_id: shining-armor
 item_name: Shining Armor
 name: Shining Armor

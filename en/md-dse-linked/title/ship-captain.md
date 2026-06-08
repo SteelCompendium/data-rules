@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: ship-captain
 file_dpath: title
+flavor: Up anchor, shipmates! 'Tisn't gold but glory we seek!
 item_id: ship-captain
 item_name: Ship Captain
 name: Ship Captain

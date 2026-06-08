@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: ancient-loremaster
 file_dpath: title
+flavor: It's astonishing what you find in old books. Look at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.
 item_id: ancient-loremaster
 item_name: Ancient Loremaster
 name: Ancient Loremaster

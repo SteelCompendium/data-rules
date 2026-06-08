@@ -2,6 +2,7 @@
 equipment_text: You wear light armor and wield a shield and a medium weapon.
 file_basename: spellsword
 file_dpath: kit
+flavor: The Spellsword kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
 item_id: spellsword
 item_name: Spellsword
 name: Spellsword

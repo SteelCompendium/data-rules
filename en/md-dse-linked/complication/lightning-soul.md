@@ -3,6 +3,7 @@ benefit: Whenever you regain [Stamina](../rule/health/stamina.md) in combat, you
 drawback: Whenever you are wet, you have [damage weakness](../rule/damage/damage-weakness.md) 5.
 file_basename: lightning-soul
 file_dpath: complication
+flavor: You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful elementalist, but you absorbed the lightning into your body. It's always there now, simmering under the surface.
 item_id: lightning-soul
 item_name: Lightning Soul
 name: Lightning Soul

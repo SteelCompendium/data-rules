@@ -1,6 +1,7 @@
 ---
 file_basename: blade-of-a-thousand-years
 file_dpath: treasure/artifact
+flavor: This fabled sword features a hilt made of glittering starlight, out of which its gleaming metal blade extends.
 item_id: blade-of-a-thousand-years
 item_name: Blade of a Thousand Years
 keywords:

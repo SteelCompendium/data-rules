@@ -3,6 +3,7 @@ benefit: You have a piece of magic jewelry such as a signet ring. As a maneuver,
 drawback: You earn no [Victories](scc:mcdm.heroes.v1/rule.resource/victories) from combat encounters or other challenges for which your relative was present. Additionally, each time you summon your relative, the next time you gain [Renown](scc:mcdm.heroes.v1/rule.resource/renown), your relative gains that [Renown](scc:mcdm.heroes.v1/rule.resource/renown) instead.
 file_basename: famous-relative
 file_dpath: complication
+flavor: Sure, you're a promising young hero in your own right—but people always ask you about your famous relative. Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 item_id: famous-relative
 item_name: Famous Relative
 name: Famous Relative

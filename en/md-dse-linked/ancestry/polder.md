@@ -1,6 +1,7 @@
 ---
 file_basename: polder
 file_dpath: ancestry
+flavor: After humans, polders are the most numerous and diverse ancestry in Orden. They are not humans, but they live in and among humans and share their gods and culture. Almost every human culture in Orden has a polder saint or a human saint venerated by polder.
 item_id: polder
 item_name: Polder
 name: Polder

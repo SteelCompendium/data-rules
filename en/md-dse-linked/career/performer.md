@@ -1,6 +1,7 @@
 ---
 file_basename: performer
 file_dpath: career
+flavor: You can sing, act, or dance well enough that people actually pay you to do it. Imagine that!
 item_id: performer
 item_name: Performer
 name: Performer

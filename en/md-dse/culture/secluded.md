@@ -1,6 +1,7 @@
 ---
 file_basename: secluded
 file_dpath: culture
+flavor: A secluded culture is based in one relatively close-quarters structure—a building, a cavern, and so forth—and interacts with other cultures only rarely. Such places are often buildings or complexes such as monasteries, castles, or prisons. Folk in a secluded culture have little or no reason to leave their home or interact with other cultures on the outside, but might have an awareness of those cultures and of events happening beyond their enclave.
 item_id: secluded
 item_name: Secluded
 name: Secluded

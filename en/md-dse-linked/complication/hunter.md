@@ -3,6 +3,7 @@ benefit: 'Choose one skill from the following:'
 drawback: You are so obsessed with finding your quarry that you take a [bane](../rule/dice/bane.md) on any [test](../rule/test/test.md) made to track other creatures.
 file_basename: hunter
 file_dpath: complication
+flavor: You are hunting someone or something—perhaps a wanted criminal, a person who wronged you, or a dangerous monster or beast. You won't rest until you face off against your quarry!
 item_id: hunter
 item_name: Hunter
 name: Hunter

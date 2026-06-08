@@ -1,12 +1,14 @@
 ---
 file_basename: adaptive-second-skin-of-toxins
 file_dpath: treasure/leveled/armor
+flavor: This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.
 item_id: adaptive-second-skin-of-toxins
 item_name: Adaptive Second Skin of Toxins
 keywords:
     - Light Armor
     - Magic
 name: Adaptive Second Skin of Toxins
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/adaptive-second-skin-of-toxins
 source: mcdm.heroes.v1
 treasure_type: armor

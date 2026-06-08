@@ -3,6 +3,7 @@ benefit: Your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries) increa
 drawback: You have fire weakness 5.
 file_basename: wodewalker
 file_dpath: complication
+flavor: You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green elementalists had saved your life by infusing the regenerative bark of a tree to your body.
 item_id: wodewalker
 item_name: Wodewalker
 name: Wodewalker

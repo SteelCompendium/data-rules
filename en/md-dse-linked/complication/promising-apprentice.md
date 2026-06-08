@@ -3,6 +3,7 @@ benefit: You have one skill of your choice from the crafting skill group. Additi
 drawback: Whoever killed your mentor cursed you. You take a [bane](../rule/dice/bane.md) on any [test](../rule/test/test.md) that doesn't use one of your skills.
 file_basename: promising-apprentice
 file_dpath: complication
+flavor: You were apprenticed to learn a crafting trade. Your mentor said you had a special gift and might well become a master of your craft someday. But before your training was complete, your mentor was killed.
 item_id: promising-apprentice
 item_name: Promising Apprentice
 name: Promising Apprentice

@@ -2,6 +2,7 @@
 effect: The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
 file_basename: owed-a-favor
 file_dpath: title
+flavor: The Guild's gratitude knows no bounds! We'll repay you in any way we can... short of actually paying you.
 item_id: owed-a-favor
 item_name: Owed a Favor
 name: Owed a Favor

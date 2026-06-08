@@ -3,6 +3,7 @@ benefit: You have one skill of your choice from the intrigue skill group. Additi
 drawback: Each time you earn [Renown](scc:mcdm.heroes.v1/rule.resource/renown), your pursuer learns your location. Unless you lay low or move to a new location, you'll be visited by agents of the pursuer within 1d10 days. If you linger after that, your pursuer finds you.
 file_basename: hunted
 file_dpath: complication
+flavor: You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a revenant, or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
 item_id: hunted
 item_name: Hunted
 name: Hunted

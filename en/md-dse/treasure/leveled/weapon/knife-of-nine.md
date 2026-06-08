@@ -1,12 +1,14 @@
 ---
 file_basename: knife-of-nine
 file_dpath: treasure/leveled/weapon
+flavor: This ivory dagger features nine faintly glowing indentations along the blade.
 item_id: knife-of-nine
 item_name: Knife of Nine
 keywords:
     - Light Weapon
     - Psionic
 name: Knife of Nine
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/knife-of-nine
 source: mcdm.heroes.v1
 treasure_type: weapon

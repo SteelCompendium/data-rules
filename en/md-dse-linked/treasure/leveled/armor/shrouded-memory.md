@@ -1,12 +1,14 @@
 ---
 file_basename: shrouded-memory
 file_dpath: treasure/leveled/armor
+flavor: This midnight-dark leather coat is embossed with fractal patterns that appear different each time they are observed.
 item_id: shrouded-memory
 item_name: Shrouded Memory
 keywords:
     - Light Armor
     - Psionic
 name: Shrouded Memory
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/shrouded-memory
 source: mcdm.heroes.v1
 treasure_type: armor

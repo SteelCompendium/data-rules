@@ -6,6 +6,7 @@ content: |-
 
     **Drawback:** Whenever you start a [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity, roll 2d10. If you roll a 1 on either die, you inadvertently absent yourself from reality, reappearing at the end of the [respite](scc:mcdm.heroes.v1/rule.resource/respite). You gain the benefits of taking a [respite](scc:mcdm.heroes.v1/rule.resource/respite) but don't perform the [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity.
 drawback: Whenever you start a [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity, roll 2d10. If you roll a 1 on either die, you inadvertently absent yourself from reality, reappearing at the end of the [respite](scc:mcdm.heroes.v1/rule.resource/respite). You gain the benefits of taking a [respite](scc:mcdm.heroes.v1/rule.resource/respite) but don't perform the [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity.
+flavor: You have contracted a rare magical disease called evanesceria. From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
 name: Evanesceria
 scc: mcdm.heroes.v1/complication/evanesceria
 type: complication

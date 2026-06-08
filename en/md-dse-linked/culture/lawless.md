@@ -1,6 +1,7 @@
 ---
 file_basename: lawless
 file_dpath: culture
+flavor: Your hero grew up among folk who performed activities that other people—whether within or outside their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. And under tyranny, people engaged in rebellion are often considered lawless in their actions and activities. People brought up in a lawless culture typically don't mind breaking the rules when it suits them—and are good at making sure no one finds out they did.
 item_id: lawless
 item_name: Lawless
 name: Lawless

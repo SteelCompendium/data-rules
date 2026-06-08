@@ -2,6 +2,7 @@
 equipment_text: You wear no armor and wield a whip.
 file_basename: whirlwind
 file_dpath: kit
+flavor: The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
 item_id: whirlwind
 item_name: Whirlwind
 name: Whirlwind

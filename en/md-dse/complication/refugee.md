@@ -3,6 +3,7 @@ benefit: When your family fled your homeland, they left their most valuable asse
 drawback: The faction that invaded your homeland wants you captured or dead. Any of their agents or sympathizers attempt to harm you if they recognize you, as the Director determines.
 file_basename: refugee
 file_dpath: complication
+flavor: A hostile army—perhaps the forces of Ajax, the Iron Saint—conquered your homeland. Your family escaped, but you can't return home until your oppressors are defeated once and for all.
 item_id: refugee
 item_name: Refugee
 name: Refugee

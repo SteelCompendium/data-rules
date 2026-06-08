@@ -2,6 +2,7 @@
 effect: 'Choose one of the following benefits:'
 file_basename: mage-hunter
 file_dpath: title
+flavor: Their power is dangerous. Unnatural. Someone needs to do something.
 item_id: mage-hunter
 item_name: Mage Hunter
 name: Mage Hunter

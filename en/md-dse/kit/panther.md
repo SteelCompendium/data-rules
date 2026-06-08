@@ -2,6 +2,7 @@
 equipment_text: You wear no armor and wield a heavy weapon.
 file_basename: panther
 file_dpath: kit
+flavor: If you want a good balance of protection, speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 item_id: panther
 item_name: Panther
 name: Panther

@@ -1,6 +1,7 @@
 ---
 file_basename: mortal-coil
 file_dpath: treasure/artifact
+flavor: This floating helix of golden metal spins ever faster as it activates, crackling with crimson sparks.
 item_id: mortal-coil
 item_name: Mortal Coil
 keywords:
