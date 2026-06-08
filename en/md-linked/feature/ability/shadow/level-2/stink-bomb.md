@@ -2,7 +2,7 @@
 action_type: Main action
 class: shadow
 cost: 5 Insight
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../../../../condition/weakened.md) (save ends).
 flavor: Putrid yellow gas explodes from a bomb you toss.
 keywords:
@@ -20,9 +20,9 @@ type: ability
 
 | **Area, Ranged**        |                  **Main action** |
 |-------------------------|---------------------------------:|
-| **📏 3 cube within 10** | **🎯 Each creature in the area** |
+| **📏 3 [cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 2 poison damage
 - **12-16:** 5 poison damage

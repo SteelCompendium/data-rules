@@ -1,6 +1,6 @@
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
+    - effect: While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one [test](scc:mcdm.heroes.v1/rule.test/test) made to jump, tumble, or climb as part of their movement before the end of their turn.
       name: Effect
 feature_type: ability
 flavor: Folks love a good tumble.
@@ -11,8 +11,8 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    content: "\n*Folks love a good tumble.*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **\U0001F4CF 5 aura**                | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn."
-    distance: 5 aura
+    content: "\n*Folks love a good tumble.*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **\U0001F4CF 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)**                | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one [test](scc:mcdm.heroes.v1/rule.test/test) made to jump, tumble, or climb as part of their movement before the end of their turn."
+    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
     feature_type: ability
     flavor: Folks love a good tumble.
     item_id: acrobatics

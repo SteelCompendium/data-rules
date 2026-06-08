@@ -4,7 +4,7 @@ class: fury
 cost: 3 Ferocity
 cost_amount: "3"
 cost_resource: Ferocity
-distance: 1 burst
+distance: 1 [burst](../../../../rule/combat/burst.md)
 feature_type: ability
 file_basename: back
 file_dpath: feature/ability/fury/level-1
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 3 Ferocity
-distance: 1 burst
+distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*You hew about you with your mighty weapon, hurling enemies backward.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 burst**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 5 damage\n- **12-16:** 8 damage; push 1\n- **17+:** 11 damage; push 3"
+    - effect: "\n*You hew about you with your mighty weapon, hurling enemies backward.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](../../../../rule/combat/burst.md)**          | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 5 damage\n- **12-16:** 8 damage; push 1\n- **17+:** 11 damage; push 3"
 feature_type: ability
 flavor: You hew about you with your mighty weapon, hurling enemies backward.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     action_type: Main action
     class: fury
     cost: 3 Ferocity
-    distance: 1 burst
+    distance: 1 [burst](../../../../rule/combat/burst.md)
     flavor: You hew about you with your mighty weapon, hurling enemies backward.
     keywords:
         - Area

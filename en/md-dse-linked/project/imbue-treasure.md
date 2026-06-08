@@ -9,19 +9,19 @@ source: mcdm.heroes.v1
 type: project
 ---
 
-You can create leveled treasures by imbuing items with magic or psionic power. You must have a mundane version of the item you plan to imbue, such as a sword or shield, when you start this project.
+You can create [leveled treasures](../rule/treasure/leveled-treasure.md) by imbuing items with magic or psionic power. You must have a mundane version of the item you plan to imbue, such as a sword or shield, when you start this project.
 
 You can imbue any item three times. The first time you imbue it, you pick a 1st-level enhancement. The second time you imbue it, you pick a 5th-level enhancement. The third time you imbue it, you pick a 9th-level enhancement. A hero using armor or a weapon can't benefit from an enhancement unless they are using a kit that includes the armor or weapon type, and their level matches the enhancement's level.
 
 If an enhancement has a Roman numeral greater than I after it, such as the Phasing III enhancement, that enhancement can't be applied unless the item has all previous versions of the enhancement. This means you can't imbue armor with the Phasing III enhancement unless it has the Phasing I and Phasing II enhancements first. The effects of numbered enhancements are cumulative unless otherwise noted.
 
-Enhancements are broken out by item type (armor, implement, or weapon) and level. Each item type and level features a table showing the name, item prerequisite, and project source language of each enhancement. Imbued items take the Magic or Psionic keyword (your choice) and are part of any kit categories appropriate to the type of item (light armor, medium weapon, and so forth).
+Enhancements are broken out by item type (armor, implement, or weapon) and level. Each item type and level features a table showing the name, [item prerequisite](../rule/downtime/item-prerequisite.md), and [project source](../rule/downtime/project-source.md) language of each enhancement. Imbued items take the Magic or Psionic keyword (your choice) and are part of any kit categories appropriate to the type of item (light armor, medium weapon, and so forth).
 
 Imbuing treasure with supernatural power as a downtime project typically means you undertake that project to make use of the treasure yourself. As such, all the features of imbuing refer to "you" as the user of the item. However, imbued items can be created for other creatures, or created by other creatures and found as treasure.
 
 ##### Imbue Weapon
 
-A weapon imbued with an enhancement grants you special benefits while it is wielded. Additionally, when a weapon receives its 1st-level enhancement, it grants your weapon abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the damage bonus to +2, and a 9th-level enhancement increases it to +3.
+A weapon imbued with an enhancement grants you special benefits while it is wielded. Additionally, when a weapon receives its 1st-level enhancement, it grants your weapon abilities that deal [rolled damage](../rule/damage/rolled-damage.md) a +1 damage bonus. A 5th-level enhancement increases the damage bonus to +2, and a 9th-level enhancement increases it to +3.
 
 ###### Unarmed Strike Treasures
 
@@ -29,11 +29,11 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 ###### 1st-Level Weapon Enhancement
 
-**Item Prerequisite:** Varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** Varies
 
-**Project Source:** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
 
-**Project Roll [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
+**[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -49,7 +49,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 **Terrifying I:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 2 psychic damage.
 
-**Thundering I:** Whenever you deal rolled damage to a creature using this weapon, you can push that creature 1 square after the other effects of the ability resolve.
+**Thundering I:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can push that creature 1 square after the other effects of the ability resolve.
 
 **Vengeance I:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 2 damage.
 
@@ -57,7 +57,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 ###### 1st-Level Weapon Enhancements Table
 
-| Enhancement   | Item Prerequisite                                                    | Project Source Language |
+| Enhancement   | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                    | [Project Source](../rule/downtime/project-source.md) Language |
 |---------------|----------------------------------------------------------------------|-------------------------|
 | Blood Bargain | The blood of a [devil](../ancestry/devil.md)                                                 | Anjali                  |
 | Chilling I    | A piece of ice from Quintessence that never melts                    | Yllyric                 |
@@ -71,11 +71,11 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 ###### 5th-Level Weapon Enhancement
 
-**Item Prerequisite:** A weapon with a 1st-level enhancement; varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** A weapon with a 1st-level enhancement; varies
 
-**Project Source:** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
 
-**Project Roll [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
+**[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -96,7 +96,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > **Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is [slowed](../condition/slowed.md) (save ends). This replaces the benefit of Chilling I.
 >
-> **Devastating:** Whenever you make an ability roll using this weapon, the number you need to roll to score a critical hit is reduced by 1.
+> **Devastating:** Whenever you make an [ability roll](../rule/dice/ability-roll.md) using this weapon, the number you need to roll to score a [critical hit](../rule/combat/critical-hit.md) is reduced by 1.
 >
 > **Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 [Stamina](../rule/health/stamina.md) or less, they drop to 0 [Stamina](../rule/health/stamina.md). This replaces the benefit of Disrupting I.
 >
@@ -110,13 +110,13 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > **Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is [frightened](../condition/frightened.md) (save ends). This replaces the benefit of Terrifying I.
 >
-> **Thundering II:** Whenever you deal rolled damage to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../condition/prone.md) after being pushed. This replaces the benefit of Thundering I.
+> **Thundering II:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../condition/prone.md) after being pushed. This replaces the benefit of Thundering I.
 >
 > **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
 
 ###### 5th-Level Weapon Enhancements
 
-| Enchantment   | Item Prerequisite                                               | Project Source Language |
+| Enchantment   | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                               | [Project Source](../rule/downtime/project-source.md) Language |
 |---------------|-----------------------------------------------------------------|-------------------------|
 | Chargebreaker | An adamantine spearhead                                         | Zaliac                  |
 | Chilling II   | Frozen bones from the lair of a white dragon                    | Yllyric                 |
@@ -130,11 +130,11 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 ###### 9th-Level Weapon Enhancement
 
-**Item Prerequisite:** A weapon with a 5th-level enhancement; varies
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** A weapon with a 5th-level enhancement; varies
 
-**Project Source:** Texts or lore in a language determined by the enhancement
+**[Project Source](../rule/downtime/project-source.md):** Texts or lore in a language determined by the enhancement
 
-**Project Roll [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
+**[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), or [Intuition](../rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -146,7 +146,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 **Imprisoning:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [restrained](../condition/restrained.md) (save ends). While [restrained](../condition/restrained.md) in this way, the creature can't use magic or psionic abilities.
 
-**Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are [winded](../rule/health/winded.md), you have the following ability.
+**Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the [tier outcome](../rule/dice/tier-outcome.md) of the [power roll](../rule/dice/power-roll.md)-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are [winded](../rule/health/winded.md), you have the following ability.
 
 ###### Nova
 
@@ -155,9 +155,9 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > | **Area, Magic** |               **Main action** |
 > |-----------------|------------------------------:|
-> | **📏 3 burst**  | **🎯 Each enemy in the area** |
+> | **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + Your Highest [Characteristic](../rule/character/characteristic.md) Score:**
+> **[Power Roll](../rule/dice/power-roll.md) + Your Highest [Characteristic](../rule/character/characteristic.md) Score:**
 >
 > - **≤11:** 7 fire damage
 > - **12-16:** 11 fire damage
@@ -165,15 +165,15 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > **Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is [frightened](../condition/frightened.md) (save ends). This replaces the benefit of Terrifying II.
 >
-> **Thundering III:** Whenever you deal rolled damage to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them [prone](../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
+> **Thundering III:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them [prone](../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >
-> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a [bane](../rule/dice/bane.md) on the ability to target each enemy in a cube 3 within [distance](../rule/combat/distance.md). If your signature ability would usually cause its target to become [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md), each target in the area is instead [slowed](../condition/slowed.md) until the end of their next turn.
+> **Windcutting:** Whenever you use a melee [signature ability](../rule/combat/signature-ability.md) that usually targets one creature, you can take a [bane](../rule/dice/bane.md) on the ability to target each enemy in a [cube](../rule/combat/cube.md) 3 within [distance](../rule/combat/distance.md). If your [signature ability](../rule/combat/signature-ability.md) would usually cause its target to become [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md), each target in the area is instead [slowed](../condition/slowed.md) until the end of their next turn.
 
 ###### 9th-Level Weapon Enhancements
 
-| Enhancement    | Item Prerequisite                                                                                                                     | Project Source Language |
+| Enhancement    | [Item Prerequisite](../rule/downtime/item-prerequisite.md)                                                                                                                     | [Project Source](../rule/downtime/project-source.md) Language |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | Chilling III   | The weapon must be dipped in the Glacial Forge in the coldest depths of Hell                                                          | Yllyric                 |
 | Disrupting III | Wrappings from a mummy buried at least a century ago                                                                                  | Anjali                  |

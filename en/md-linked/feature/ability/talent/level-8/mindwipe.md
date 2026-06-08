@@ -24,11 +24,11 @@ type: ability
 |---------------------------------------|--------------------:|
 | **📏 Melee 2**                        | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
-- **≤11:** 12 + R damage; R < WEAK, the target takes a [bane](../../../../rule/dice/bane.md) on their next power roll
-- **12-16:** 17 + R damage; R < AVERAGE, the target takes a [bane](../../../../rule/dice/bane.md) on power rolls (save ends)
-- **17+:** 23 + R damage; R < STRONG, the target has a double [bane](../../../../rule/dice/bane.md) on power rolls (save ends)
+- **≤11:** 12 + R damage; R < WEAK, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)
+- **12-16:** 17 + R damage; R < AVERAGE, the target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) (save ends)
+- **17+:** 23 + R damage; R < STRONG, the target has a double [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) (save ends)
 
 **Effect:** The target can't communicate with anyone until the end of the encounter.
 

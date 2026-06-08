@@ -26,7 +26,7 @@ type: ability
 
 **Effect:** You mark the target.
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
 - **12-16:** 6 + M damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)

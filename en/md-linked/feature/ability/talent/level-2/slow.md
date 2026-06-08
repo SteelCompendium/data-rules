@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: A target can't use triggered actions while their speed is reduced this way.
+effect: A target can't use [triggered actions](../../../../rule/combat/triggered-action.md) while their [speed](../../../../rule/character/speed.md) is reduced this way.
 flavor: Perhaps they wonder why everyone else is moving so quickly?
 keywords:
     - Chronopathy
@@ -23,12 +23,12 @@ type: ability
 |----------------------------------|----------------------------------:|
 | **📏 Ranged 10**                 | **🎯 Three creatures or objects** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
-- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../../condition/slowed.md) (save ends).
-- **12-16:** The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-- **17+:** The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+- **≤11:** The target's [speed](../../../../rule/character/speed.md) is halved (save ends), or if P < WEAK, the target is [slowed](../../../../condition/slowed.md) (save ends).
+- **12-16:** The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < AVERAGE, the target's [speed](../../../../rule/character/speed.md) is 0 (save ends).
+- **17+:** The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < STRONG, the target's [speed](../../../../rule/character/speed.md) is 0 (save ends).
 
-**Effect:** A target can't use triggered actions while their speed is reduced this way.
+**Effect:** A target can't use [triggered actions](../../../../rule/combat/triggered-action.md) while their [speed](../../../../rule/character/speed.md) is reduced this way.
 
-**Strained:** The potency of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
+**Strained:** The [potency](../../../../rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).

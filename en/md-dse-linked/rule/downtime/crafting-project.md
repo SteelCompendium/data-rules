@@ -9,6 +9,6 @@ source: mcdm.heroes.v1
 type: rule
 ---
 
-Crafting projects enable heroes to create vehicles, supernatural treasures, and more. When you start a crafting project, other creatures can also work on the project, using their respite activity to contribute a project roll in order to get the work done faster.
+Crafting projects enable heroes to create vehicles, supernatural treasures, and more. When you start a crafting project, other creatures can also work on the project, using their [respite](../resource/respite.md) activity to contribute a [project roll](project-roll.md) in order to get the work done faster.
 
-Unless a project has an event table of its own, the Director uses the Crafting and Research Events table for crafting project events.
+Unless a project has an event table of its own, the Director uses the Crafting and Research Events table for crafting [project events](project-event.md).

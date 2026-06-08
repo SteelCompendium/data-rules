@@ -21,7 +21,7 @@ scc: mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making
 source: mcdm.heroes.v1
 subtype: triggered
 target: Self or one ally
-trigger: The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.
+trigger: The target gains a condition or effect that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
 type: ability
 ---
 
@@ -50,11 +50,11 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making
     subtype: triggered
     target: Self or one ally
-    trigger: The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.
+    trigger: The target gains a condition or effect that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
     type: ability
 name: Pain of Your Own Making
 target: Self or one ally
-trigger: The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.
+trigger: The target gains a condition or effect that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
 type: feature
 usage: Free triggered
 ```

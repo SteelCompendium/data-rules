@@ -4,7 +4,7 @@ class: fury
 cost: 11 Ferocity
 cost_amount: "11"
 cost_resource: Ferocity
-distance: 5 cube within 10
+distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effect: This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) and ignores [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity).
 feature_type: ability
 file_basename: deluge
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 11 Ferocity
-distance: 5 cube within 10
+distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - effect: This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) and ignores [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity).
 feature_type: ability
@@ -39,7 +39,7 @@ metadata:
     action_type: Main action
     class: fury
     cost: 11 Ferocity
-    distance: 5 cube within 10
+    distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
     effect: This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) and ignores [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity).
     flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/primordial-storm).
     keywords:

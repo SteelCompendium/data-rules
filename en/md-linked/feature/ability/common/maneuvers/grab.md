@@ -16,7 +16,7 @@ type: ability
 |-------------------|--------------------:|
 | **📏 Melee 1**    | **🎯 One creature** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** No effect.
 - **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](../../../common/main-actions/free-strike.md) against you before they are [grabbed](../../../../condition/grabbed.md).

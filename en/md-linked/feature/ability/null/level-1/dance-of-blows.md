@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: "null"
-distance: 1 burst
+distance: 1 [burst](../../../../rule/combat/burst.md)
 effect: You can slide one adjacent enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
 flavor: You strike everywhere at once, tricking an enemy into moving out of position.
 keywords:
@@ -21,9 +21,9 @@ type: ability
 
 | **Area, Psionic, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 1 burst**            | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../../../../rule/combat/burst.md)**            | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 4 damage

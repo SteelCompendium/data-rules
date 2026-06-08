@@ -17,7 +17,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 + I damage
 - **12-16:** 4 + I damage

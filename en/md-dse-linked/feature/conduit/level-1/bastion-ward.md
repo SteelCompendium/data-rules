@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to saving throws.
+    - effect: Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to [saving throws](../../../rule/general/saving-throw.md).
 feature_type: feature
 metadata:
     class: conduit

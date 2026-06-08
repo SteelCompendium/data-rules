@@ -4,7 +4,7 @@ class: conduit
 cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
-distance: 5 cube within 10
+distance: 5 [cube](../../../../rule/combat/cube.md) within 10
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
 feature_type: ability
 file_basename: night-falls
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 11 Piety
-distance: 5 cube within 10
+distance: 5 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
 feature_type: ability
@@ -39,7 +39,7 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 11 Piety
-    distance: 5 cube within 10
+    distance: 5 [cube](../../../../rule/combat/cube.md) within 10
     effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
     flavor: You summon darkness that thwarts only your foes.
     keywords:

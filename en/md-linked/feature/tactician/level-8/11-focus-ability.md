@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.tactician.level-8/11-focus-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 11 focus to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 11 focus to use.
 
 ## Go Now and Speed Well {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/go-now-and-speed-well"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 |------------------|------------------------:|
 | **📏 Ranged 10** | **🎯 Self or one ally** |
 
-**Effect:** The target gains 2 [surges](../../../rule/resource/surge.md) and can use a signature or heroic ability as a free triggered action. The ability has a double [edge](../../../rule/dice/edge.md) on the power roll, ignores [damage immunity](../../../rule/damage/damage-immunity.md), and increases the potency of any potency effects by 1.
+**Effect:** The target gains 2 [surges](../../../rule/resource/surge.md) and can use a signature or [heroic ability](../../../rule/general/heroic-ability.md) as a free [triggered action](../../../rule/combat/triggered-action.md). The ability has a double [edge](../../../rule/dice/edge.md) on the [power roll](../../../rule/dice/power-roll.md), ignores [damage immunity](../../../rule/damage/damage-immunity.md), and increases the [potency](../../../rule/character/potency.md) of any [potency](../../../rule/character/potency.md) effects by 1.
 
 ## Finish Them! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/finish-them"}
 
@@ -41,7 +41,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Effect:** Each target gains 1 [surge](../../../rule/resource/surge.md) and can use a signature ability as a free triggered action. That ability gains an [edge](../../../rule/dice/edge.md) on the power roll and increases the potency of any potency effects by 1.
+**Effect:** Each target gains 1 [surge](../../../rule/resource/surge.md) and can use a [signature ability](../../../rule/combat/signature-ability.md) as a free [triggered action](../../../rule/combat/triggered-action.md). That ability gains an [edge](../../../rule/dice/edge.md) on the [power roll](../../../rule/dice/power-roll.md) and increases the [potency](../../../rule/character/potency.md) of any [potency](../../../rule/character/potency.md) effects by 1.
 
 ## I'll Open and You'll Close {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/ill-open-and-youll-close"}
 
@@ -52,10 +52,10 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M damage
 - **12-16:** 10 + M damage
 - **17+:** 14 + M damage
 
-**Effect:** One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their [Heroic Resource](../../../rule/resource/heroic-resource.md), as long as they have enough [Heroic Resource](../../../rule/resource/heroic-resource.md) to pay for the ability. If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) before the chosen ally has used their ability, the ally can pick a different target.
+**Effect:** One ally within 10 squares of you can use a [heroic ability](../../../rule/general/heroic-ability.md) against the target as a free [triggered action](../../../rule/combat/triggered-action.md) without spending any of their [Heroic Resource](../../../rule/resource/heroic-resource.md), as long as they have enough [Heroic Resource](../../../rule/resource/heroic-resource.md) to pay for the ability. If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) before the chosen ally has used their ability, the ally can pick a different target.

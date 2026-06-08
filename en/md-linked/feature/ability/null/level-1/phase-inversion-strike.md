@@ -24,7 +24,7 @@ type: ability
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; push 2
 - **12-16:** 6 + A damage; push 4

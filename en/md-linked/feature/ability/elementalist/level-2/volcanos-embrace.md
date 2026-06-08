@@ -24,7 +24,7 @@ type: ability
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
 - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)

@@ -5,7 +5,7 @@ cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
 distance: Ranged 10
-effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
+effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](../../../../rule/combat/free-maneuver.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
 feature_type: ability
 file_basename: your-allies-turn-on-you
 file_dpath: feature/ability/censor/level-8
@@ -28,7 +28,7 @@ type: ability
 cost: 11 Wrath
 distance: Ranged 10
 effects:
-    - effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
+    - effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](../../../../rule/combat/free-maneuver.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
 feature_type: ability
 flavor: You turn your enemies' ire to the target.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: censor
     cost: 11 Wrath
     distance: Ranged 10
-    effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
+    effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](../../../../rule/combat/free-maneuver.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
     flavor: You turn your enemies' ire to the target.
     keywords:
         - Ranged

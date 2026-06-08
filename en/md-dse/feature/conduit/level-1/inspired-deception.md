@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) on the test instead of another [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic).
+    - effect: The gods favor your thievery with magic. Whenever you make a [test](scc:mcdm.heroes.v1/rule.test/test) that uses a skill you have from the intrigue skill group, you can use [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) on the [test](scc:mcdm.heroes.v1/rule.test/test) instead of another [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic).
 feature_type: feature
 metadata:
     class: conduit

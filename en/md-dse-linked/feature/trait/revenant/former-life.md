@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Choose the ancestry you were before you died. Your [size](../../../rule/character/size.md) is that ancestry's [size](../../../rule/character/size.md) and your speed is 5. Unless you select one of the Previous Life traits (see below), you don't receive any other ancestral traits from your original ancestry.
+    - effect: Choose the ancestry you were before you died. Your [size](../../../rule/character/size.md) is that ancestry's [size](../../../rule/character/size.md) and your [speed](../../../rule/character/speed.md) is 5. Unless you select one of the Previous Life traits (see below), you don't receive any other ancestral traits from your original ancestry.
 feature_type: trait
 metadata:
     ancestry: revenant

@@ -22,7 +22,7 @@ type: ability
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I corruption damage; M < WEAK, [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
 - **12-16:** 6 + I corruption damage; M < AVERAGE, [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)

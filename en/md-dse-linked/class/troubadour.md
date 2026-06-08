@@ -1,5 +1,4 @@
 ---
-average_potency: '[Presence](../rule/character/presence.md) − 1'
 file_basename: troubadour
 file_dpath: class
 item_id: troubadour
@@ -9,9 +8,7 @@ scc: mcdm.heroes.v1/class/troubadour
 skills:
     - 'You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)'
 source: mcdm.heroes.v1
-strong_potency: '[Presence](../rule/character/presence.md)'
 type: class
-weak_potency: '[Presence](../rule/character/presence.md) − 2'
 ---
 
 The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](troubadour.md). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
@@ -30,11 +27,11 @@ There is no visible text in the image provided. The image appears to show a deco
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** [Presence](../rule/character/presence.md) − 2
+**Weak [Potency](../rule/character/potency.md):** [Presence](../rule/character/presence.md) − 2
 
-**Average Potency:** [Presence](../rule/character/presence.md) − 1
+**Average [Potency](../rule/character/potency.md):** [Presence](../rule/character/presence.md) − 1
 
-**Strong Potency:** [Presence](../rule/character/presence.md)
+**Strong [Potency](../rule/character/potency.md):** [Presence](../rule/character/presence.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 

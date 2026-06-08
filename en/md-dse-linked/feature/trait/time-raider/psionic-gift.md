@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Choose one signature ability from the following options. Signature abilities can be used at will.
+    - effect: Choose one [signature ability](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will.
 feature_type: trait
 metadata:
     ancestry: time-raider

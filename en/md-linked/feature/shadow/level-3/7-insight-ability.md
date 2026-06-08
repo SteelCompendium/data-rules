@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.shadow.level-3/7-insight-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 7 insight to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 7 insight to use.
 
 ## Dancer {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/dancer"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../../movement/forced-movement.md) adjacent to you or damages you, you can take the [Disengage](../../common/move-actions/disengage.md) move action as a free triggered action.
+**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../../movement/forced-movement.md) adjacent to you or damages you, you can take the [Disengage](../../common/move-actions/disengage.md) move action as a free [triggered action](../../../rule/combat/triggered-action.md).
 
 ## Misdirecting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike"}
 
@@ -28,7 +28,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 9 + A damage
 - **12-16:** 13 + A damage
@@ -45,7 +45,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + A damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -60,7 +60,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 + A damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 11 + A damage; M < AVERAGE, [prone and](../../../condition/prone.md) can't stand (save ends)

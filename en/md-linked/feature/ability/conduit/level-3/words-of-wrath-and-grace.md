@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 cost: 7 Piety
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 effect: Each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.
 keywords:
@@ -20,9 +20,9 @@ type: ability
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|
-| **📏 5 burst**   | **🎯 Each enemy in the area** |
+| **📏 5 [burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 2 holy damage
 - **12-16:** 5 holy damage

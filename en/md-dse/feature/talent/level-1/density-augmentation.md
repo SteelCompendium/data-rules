@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You gain a +6 bonus to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+    - effect: You gain a +6 bonus to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](scc:mcdm.heroes.v1/rule.character/stability).
 feature_type: feature
 metadata:
     class: talent

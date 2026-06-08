@@ -5,7 +5,7 @@ cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
 distance: Ranged 10
-effect: You create two illusory duplicates of the target, which appear anywhere within [distance](scc:mcdm.heroes.v1/rule.combat/distance). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+effect: You create two illusory duplicates of the target, which appear anywhere within [distance](scc:mcdm.heroes.v1/rule.combat/distance). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their [speed](scc:mcdm.heroes.v1/rule.character/speed). If the target is targeted by an ability, they can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to switch places with a duplicate within their [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 feature_type: ability
 file_basename: trinity-of-trickery
 file_dpath: feature/ability/conduit/level-7
@@ -27,7 +27,7 @@ type: ability
 cost: 9 Piety
 distance: Ranged 10
 effects:
-    - effect: You create two illusory duplicates of the target, which appear anywhere within [distance](scc:mcdm.heroes.v1/rule.combat/distance). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+    - effect: You create two illusory duplicates of the target, which appear anywhere within [distance](scc:mcdm.heroes.v1/rule.combat/distance). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their [speed](scc:mcdm.heroes.v1/rule.character/speed). If the target is targeted by an ability, they can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to switch places with a duplicate within their [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 feature_type: ability
 flavor: Hey! I'm over here. No, here, numbskull.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 9 Piety
     distance: Ranged 10
-    effect: You create two illusory duplicates of the target, which appear anywhere within [distance](scc:mcdm.heroes.v1/rule.combat/distance). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+    effect: You create two illusory duplicates of the target, which appear anywhere within [distance](scc:mcdm.heroes.v1/rule.combat/distance). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their [speed](scc:mcdm.heroes.v1/rule.character/speed). If the target is targeted by an ability, they can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to switch places with a duplicate within their [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
     flavor: Hey! I'm over here. No, here, numbskull.
     keywords:
         - Magic

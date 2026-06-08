@@ -15,7 +15,7 @@ level: "1"
 name: Overwatch
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch
 source: mcdm.heroes.v1
-spend: '1 Focus: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).'
+spend: '1 Focus: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)).'
 subtype: triggered
 target: One creature
 trigger: The target moves.
@@ -26,7 +26,7 @@ type: ability
 distance: Ranged 10
 effects:
     - effect: At any time during the target's movement, one ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them.
-    - effect: '1 Focus: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).'
+    - effect: '1 Focus: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)).'
       name: Spend
 feature_type: ability
 flavor: Under your direction, an ally waits for just the right moment to strike.
@@ -43,7 +43,7 @@ metadata:
     level: "1"
     name: Overwatch
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch
-    spend: '1 Focus: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).'
+    spend: '1 Focus: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)).'
     subtype: triggered
     target: One creature
     trigger: The target moves.

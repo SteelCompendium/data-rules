@@ -16,9 +16,9 @@ Hell is dominated by the Seven Cities of Hell, each ruled by a different archdev
 
 Those [devils](devil.md) who join "the trade," as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. [Devils](devil.md) looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a [devil](devil.md), who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned [devil](devil.md) acting as the broker.
 
-On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [devil](devil.md) on Orden permanently. Some stranded [devils](devil.md) seek to return to Hell, but most prefer life in Orden, where the phrase "stabbed in the back by a colleague" is usually a metaphor.
+On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [devil](devil.md) on [Orden](../rule/world/orden.md) permanently. Some stranded [devils](devil.md) seek to return to Hell, but most prefer life in [Orden](../rule/world/orden.md), where the phrase "stabbed in the back by a colleague" is usually a metaphor.
 
-The majority of [devils](devil.md) in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](devil.md) who were stranded in the mundane world decades, centuries, even millennia ago.
+The majority of [devils](devil.md) in [Orden](../rule/world/orden.md) are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](devil.md) who were stranded in the mundane world decades, centuries, even millennia ago.
 
 ### On Devils
 

@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Ranged 10
-effect: One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
+effect: One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the [tier outcome](../../../../rule/dice/tier-outcome.md) of your [power roll](../../../../rule/dice/power-roll.md).
 flavor: Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.
 keywords:
     - Magic
@@ -23,10 +23,10 @@ type: ability
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage
 - **12-16:** 5 + I holy damage
 - **17+:** 8 + I holy damage
 
-**Effect:** One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
+**Effect:** One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the [tier outcome](../../../../rule/dice/tier-outcome.md) of your [power roll](../../../../rule/dice/power-roll.md).

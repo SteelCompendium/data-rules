@@ -1,5 +1,5 @@
 cost: 7 Piety
-distance: 5 burst
+distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
@@ -11,8 +11,8 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*Your saint grants your enemies a vision of pain and fills your allies with healing energy.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF 5 burst**   | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 holy damage\n- **12-16:** 5 holy damage\n- **17+:** 7 holy damage\n\n**Effect:** Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
-    distance: 5 burst
+    content: "\n*Your saint grants your enemies a vision of pain and fills your allies with healing energy.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**   | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 holy damage\n- **12-16:** 5 holy damage\n- **17+:** 7 holy damage\n\n**Effect:** Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
+    distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     feature_type: ability
     flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.
     item_id: words-of-wrath-and-grace

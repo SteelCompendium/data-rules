@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 7 Clarity
 distance: Ranged 10
-effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
+effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) [tests](../../../../rule/test/test.md) until the end of the encounter.
 flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
 keywords:
     - Animapathy
@@ -24,12 +24,12 @@ type: ability
 |---------------------------------------------|--------------------:|
 | **📏 Ranged 10**                            | **🎯 One creature** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 6 + P damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** 10 + P damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
 - **17+:** 14 + P damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 
-**Effect:** The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
+**Effect:** The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) [tests](../../../../rule/test/test.md) until the end of the encounter.
 
-**Strained:** The potency of this ability increases by 1. You take 2d6 damage and gain 3 [surges](../../../../rule/resource/surge.md) that you can use immediately.
+**Strained:** The [potency](../../../../rule/character/potency.md) of this ability increases by 1. You take 2d6 damage and gain 3 [surges](../../../../rule/resource/surge.md) that you can use immediately.

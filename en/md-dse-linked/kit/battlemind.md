@@ -8,8 +8,6 @@ melee_damage_bonus: +2/+2/+2
 name: Battlemind
 scc: mcdm.heroes.v1/kit/battlemind
 source: mcdm.heroes.v1
-speed_bonus: "+2"
-stability_bonus: "+1"
 type: kit
 ---
 
@@ -21,11 +19,11 @@ You wear light armor and wield a medium weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +2
+**[Speed](../rule/character/speed.md) Bonus:** +2
 
-**Stability Bonus:** +1
+**[Stability](../rule/character/stability.md) Bonus:** +1
 
 **Melee Damage Bonus:** +2/+2/+2
 
@@ -39,7 +37,7 @@ You wear light armor and wield a medium weapon.
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 5 + M, R, I, or P damage
 - **12-16:** 8 + M, R, I, or P damage

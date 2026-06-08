@@ -2,7 +2,7 @@
 action_type: Triggered
 class: tactician
 distance: Melee 2
-effect: You can [shift](../../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
+effect: You can [shift](../../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any [potency](../../../../rule/character/potency.md) effect associated with it, the [potency](../../../../rule/character/potency.md) is decreased by 1.
 feature_type: ability
 file_basename: parry
 file_dpath: feature/ability/tactician/level-1
@@ -26,7 +26,7 @@ type: ability
 ```ds-feature
 distance: Melee 2
 effects:
-    - effect: You can [shift](../../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
+    - effect: You can [shift](../../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any [potency](../../../../rule/character/potency.md) effect associated with it, the [potency](../../../../rule/character/potency.md) is decreased by 1.
     - effect: '1 Focus: This ability''s [distance](../../../../rule/combat/distance.md) becomes Melee 1 + your [Reason](../../../../rule/character/reason.md) score, and you can [shift](../../../../movement/shifting.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score instead of 1 square.'
       name: Spend
 feature_type: ability
@@ -38,7 +38,7 @@ metadata:
     action_type: Triggered
     class: tactician
     distance: Melee 2
-    effect: You can [shift](../../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
+    effect: You can [shift](../../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any [potency](../../../../rule/character/potency.md) effect associated with it, the [potency](../../../../rule/character/potency.md) is decreased by 1.
     flavor: Your quick reflexes cost an enemy the precision they seek.
     keywords:
         - Melee

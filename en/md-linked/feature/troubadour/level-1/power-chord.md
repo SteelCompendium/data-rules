@@ -15,9 +15,9 @@ You have the following ability.
 
 | **Area, Magic** |                  **Maneuver** |
 |-----------------|------------------------------:|
-| **📏 2 burst**  | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** Push 1
 - **12-16:** Push 2

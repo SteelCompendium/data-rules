@@ -22,7 +22,7 @@ type: ability
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 6 + A damage; R < WEAK, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
 - **12-16:** 9 + A damage; R < AVERAGE, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)

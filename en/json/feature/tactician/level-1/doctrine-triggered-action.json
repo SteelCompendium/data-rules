@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine) grants you a triggered action, as shown on the Doctrine Triggered Actions table.\n\n###### Doctrine Triggered Actions Table\n\n| Doctrine   | Triggered Action |\n|------------|------------------|\n| Insurgent  | [Advanced Tactics](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics) |\n| Mastermind | [Overwatch](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch)        |\n| Vanguard   | [Parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry)            |"
+      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine) grants you a [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), as shown on the Doctrine [Triggered Actions](scc:mcdm.heroes.v1/rule.combat/triggered-action) table.\n\n###### Doctrine Triggered Actions Table\n\n| Doctrine   | [Triggered Action](scc:mcdm.heroes.v1/rule.combat/triggered-action) |\n|------------|------------------|\n| Insurgent  | [Advanced Tactics](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics) |\n| Mastermind | [Overwatch](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch)        |\n| Vanguard   | [Parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry)            |"
     }
   ],
   "feature_type": "feature",

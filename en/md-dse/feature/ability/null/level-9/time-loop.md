@@ -9,7 +9,7 @@ effect: You take a bonus turn immediately after the triggering creature. This ab
 feature_type: ability
 file_basename: time-loop
 file_dpath: feature/ability/null/level-9
-flavor: You show shadows what true speed is.
+flavor: You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.
 item_id: time-loop
 item_name: Time Loop
 keywords:
@@ -30,7 +30,7 @@ distance: Self
 effects:
     - effect: You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
 feature_type: ability
-flavor: You show shadows what true speed is.
+flavor: You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.
 keywords:
     - Psionic
 metadata:
@@ -39,7 +39,7 @@ metadata:
     cost: 11 Discipline
     distance: Self
     effect: You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
-    flavor: You show shadows what true speed is.
+    flavor: You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.
     keywords:
         - Psionic
     level: "9"

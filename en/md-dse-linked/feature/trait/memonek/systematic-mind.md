@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You gain an [edge](../../../rule/dice/edge.md) on tests made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
+    - effect: You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
 feature_type: trait
 metadata:
     ancestry: memonek

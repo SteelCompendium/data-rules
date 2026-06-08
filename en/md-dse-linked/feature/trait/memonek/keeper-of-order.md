@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an [edge](../../../rule/dice/edge.md) or a [bane](../../../rule/dice/bane.md) on the roll, to turn a double [edge](../../../rule/dice/edge.md) into an [edge](../../../rule/dice/edge.md), or to turn a double [bane](../../../rule/dice/bane.md) into a [bane](../../../rule/dice/bane.md).
+    - effect: Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a [power roll](../../../rule/dice/power-roll.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to remove an [edge](../../../rule/dice/edge.md) or a [bane](../../../rule/dice/bane.md) on the roll, to turn a double [edge](../../../rule/dice/edge.md) into an [edge](../../../rule/dice/edge.md), or to turn a double [bane](../../../rule/dice/bane.md) into a [bane](../../../rule/dice/bane.md).
 feature_type: trait
 metadata:
     ancestry: memonek

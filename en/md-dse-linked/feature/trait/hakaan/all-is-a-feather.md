@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You are exceptionally strong. You gain an [edge](../../../rule/dice/edge.md) on tests made to lift and haul heavy objects.
+    - effect: You are exceptionally strong. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to lift and haul heavy objects.
 feature_type: trait
 metadata:
     ancestry: hakaan

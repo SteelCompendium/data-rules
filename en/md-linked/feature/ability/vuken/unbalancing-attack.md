@@ -20,7 +20,7 @@ type: ability
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)

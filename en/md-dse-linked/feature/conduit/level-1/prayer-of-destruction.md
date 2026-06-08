@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your god infuses wrath within your being. You gain a +1 bonus to rolled damage with magic abilities.
+    - effect: Your god infuses wrath within your being. You gain a +1 bonus to [rolled damage](../../../rule/damage/rolled-damage.md) with magic abilities.
 feature_type: feature
 metadata:
     class: conduit

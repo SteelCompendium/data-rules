@@ -13,9 +13,9 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../class/fury.md) uses their [Brutal Slam](../../feature/ability/fury/level-1/brutal-slam.md) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See Abilities for more information.
+The game uses two types of power rolls. An **[ability roll](ability-roll.md)** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../class/fury.md) uses their [Brutal Slam](../../feature/ability/fury/level-1/brutal-slam.md) ability to strike an enemy, their [ability roll](ability-roll.md) determines how much [damage](../damage/damage.md) the enemy takes and how far back the enemy is pushed. See Abilities for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../../class/tactician.md) might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](../../class/elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../../chapter/tests.md) for more information.
+A **[test](../test/test.md)** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../../class/tactician.md) might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a [test](../test/test.md). An [elementalist](../../class/elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a [test](../test/test.md) if they want to try. See [Tests](../../chapter/tests.md) for more information.
 
 > **Sapient Creatures**
 >
@@ -23,13 +23,13 @@ A **test** is a power roll you make outside of using your abilities to affect or
 
 #### Making a Power Roll
 
-When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your [characteristics](../character/characteristic.md). The [characteristic](../character/characteristic.md) you add depends on the kind of roll you're making, as outlined in Abilities and Tests.
+When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your [characteristics](../character/characteristic.md). The [characteristic](../character/characteristic.md) you add depends on the kind of roll you're making, as outlined in Abilities and [Tests](../test/test.md).
 
 ##### Downgrade a Power Roll
 
 Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../../condition/restrained.md) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../../condition/slowed.md) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](../../condition/slowed.md) than [restrained](../../condition/restrained.md).
 
-If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see Critical Hit in [Classes](../../chapter/classes.md)).
+If you downgrade a [critical hit](../combat/critical-hit.md), you still get the extra action benefit of the [critical hit](../combat/critical-hit.md) (see [Critical Hit](../combat/critical-hit.md) in [Classes](../../chapter/classes.md)).
 
 #### Edges and Banes
 
@@ -55,6 +55,6 @@ We also liked capping [edges](edge.md) and [banes](bane.md) at two because it ke
 
 #### Automatic Tier Outcomes
 
-Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](edge.md), [banes](bane.md), bonuses, or penalties that might affect the roll. If you obtain an automatic tier outcome and the power roll would have an additional effect if you get a specific roll, such as scoring a critical hit in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
+Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](edge.md), [banes](bane.md), bonuses, or penalties that might affect the roll. If you obtain an automatic [tier outcome](tier-outcome.md) and the power roll would have an additional effect if you get a specific roll, such as scoring a [critical hit](../combat/critical-hit.md) in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
 
 If you are under multiple effects that each grant you a different automatic outcome, those effects cancel each other out and all automatic outcomes are ignored. If multiple effects grant you the same automatic outcome, you obtain that outcome.

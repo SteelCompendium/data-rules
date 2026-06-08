@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Ranged 10
-effect: Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
+effect: Each target uses a [signature ability](../../../../rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the [power roll](../../../../rule/dice/power-roll.md). After resolving the targets' abilities, you make a [power roll](../../../../rule/dice/power-roll.md) against each original target.
 flavor: You trick your enemies into attacking each other and leave them confused by the aftermath.
 keywords:
     - Magic
@@ -23,9 +23,9 @@ type: ability
 |---------------------------|---------------------:|
 | **📏 Ranged 10**          | **🎯 Three enemies** |
 
-**Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
+**Effect:** Each target uses a [signature ability](../../../../rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the [power roll](../../../../rule/dice/power-roll.md). After resolving the targets' abilities, you make a [power roll](../../../../rule/dice/power-roll.md) against each original target.
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** R < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** R < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

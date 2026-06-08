@@ -1,5 +1,4 @@
 ---
-average_potency: '[Reason](../rule/character/reason.md) − 1'
 file_basename: elementalist
 file_dpath: class
 item_id: elementalist
@@ -9,9 +8,7 @@ scc: mcdm.heroes.v1/class/elementalist
 skills:
     - 'You gain the Magic skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
 source: mcdm.heroes.v1
-strong_potency: '[Reason](../rule/character/reason.md)'
 type: class
-weak_potency: '[Reason](../rule/character/reason.md) − 2'
 ---
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
@@ -31,11 +28,11 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-**Weak Potency:** [Reason](../rule/character/reason.md) − 2
+**Weak [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md) − 2
 
-**Average Potency:** [Reason](../rule/character/reason.md) − 1
+**Average [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md) − 1
 
-**Strong Potency:** [Reason](../rule/character/reason.md)
+**Strong [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 

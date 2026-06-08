@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../../class/conduit.md) Domain Abilities table.
+        Choose one of your domains. You gain a [heroic ability](../../../rule/general/heroic-ability.md) from that domain, as shown on the 2nd-Level [Conduit](../../../class/conduit.md) Domain Abilities table.
 
         ###### 2nd-Level Conduit Domain Abilities Table
 

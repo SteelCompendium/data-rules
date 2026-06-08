@@ -1,5 +1,4 @@
 ---
-average_potency: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition) − 1'
 file_basename: "null"
 file_dpath: class
 item_id: "null"
@@ -9,9 +8,7 @@ scc: mcdm.heroes.v1/class/null
 skills:
     - 'You gain the [Psionics](scc:mcdm.heroes.v1/skill/psionics) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Timescape.)'
 source: mcdm.heroes.v1
-strong_potency: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 type: class
-weak_potency: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition) − 2'
 ---
 
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
@@ -30,11 +27,11 @@ The mind is not separate from the body. Perfection of one requires perfection of
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) − 2
+**Weak [Potency](scc:mcdm.heroes.v1/rule.character/potency):** [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) − 2
 
-**Average Potency:** [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) − 1
+**Average [Potency](scc:mcdm.heroes.v1/rule.character/potency):** [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) − 1
 
-**Strong Potency:** [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+**Strong [Potency](scc:mcdm.heroes.v1/rule.character/potency):** [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
 
 **Starting [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) at 1st Level:** 21
 

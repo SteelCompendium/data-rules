@@ -9,7 +9,7 @@ effect: While [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, th
 feature_type: ability
 file_basename: thorn-cage
 file_dpath: feature/ability/conduit/level-9
-flavor: Vines burst forth from the ground and bind your foe, slowly closing around them.
+flavor: Vines [burst](scc:mcdm.heroes.v1/rule.combat/burst) forth from the ground and bind your foe, slowly closing around them.
 item_id: thorn-cage
 item_name: Thorn Cage
 keywords:
@@ -30,7 +30,7 @@ distance: Ranged 10
 effects:
     - effect: While [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, the target takes 10 damage at the start of each of your turns.
 feature_type: ability
-flavor: Vines burst forth from the ground and bind your foe, slowly closing around them.
+flavor: Vines [burst](scc:mcdm.heroes.v1/rule.combat/burst) forth from the ground and bind your foe, slowly closing around them.
 keywords:
     - Magic
     - Ranged
@@ -41,7 +41,7 @@ metadata:
     cost: 11 Piety
     distance: Ranged 10
     effect: While [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, the target takes 10 damage at the start of each of your turns.
-    flavor: Vines burst forth from the ground and bind your foe, slowly closing around them.
+    flavor: Vines [burst](scc:mcdm.heroes.v1/rule.combat/burst) forth from the ground and bind your foe, slowly closing around them.
     keywords:
         - Magic
         - Ranged

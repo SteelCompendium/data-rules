@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Melee 3
 effects:
-    - effect: "*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 3**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
+    - effect: "*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 3**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
 feature_type: ability
 flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
 keywords:

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../../ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
+    - effect: Each time you finish a [respite](../../../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../../ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to [saving throws](../../../rule/general/saving-throw.md) that lasts until you finish another [respite](../../../rule/resource/respite.md).
 feature_type: feature
 metadata:
     class: conduit

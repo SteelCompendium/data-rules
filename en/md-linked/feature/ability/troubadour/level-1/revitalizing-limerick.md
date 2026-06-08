@@ -1,7 +1,7 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
+distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: There once was a man from Capital...
 keywords:
@@ -20,6 +20,6 @@ type: ability
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
-| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
 **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).

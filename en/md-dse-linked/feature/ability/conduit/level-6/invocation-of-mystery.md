@@ -4,7 +4,7 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effect: Each target is invisible until the start of your next turn.
 feature_type: ability
 file_basename: invocation-of-mystery
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: Each target is invisible until the start of your next turn.
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Maneuver
     class: conduit
     cost: 9 Piety
-    distance: 4 burst
+    distance: 4 [burst](../../../../rule/combat/burst.md)
     effect: Each target is invisible until the start of your next turn.
     flavor: '"Now you see us..."'
     keywords:

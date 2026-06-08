@@ -4,4 +4,4 @@ scc: mcdm.heroes.v1/condition/slowed
 type: condition
 ---
 
-A creature who is [slowed](slowed.md) has speed 2 unless their speed is already lower, and they can't [shift](../movement/shifting.md).
+A creature who is [slowed](slowed.md) has [speed](../rule/character/speed.md) 2 unless their [speed](../rule/character/speed.md) is already lower, and they can't [shift](../movement/shifting.md).

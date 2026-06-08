@@ -4,7 +4,7 @@ class: elementalist
 cost: 5 Essence
 cost_amount: "5"
 cost_resource: Essence
-distance: 3 cube within 10
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effect: 'Until the start of your next turn, the area gains the following effects:'
 feature_type: ability
 file_basename: o-flower-aid-o-earth-defend
@@ -28,7 +28,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Essence
-distance: 3 cube within 10
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - effect: 'Until the start of your next turn, the area gains the following effects:'
 feature_type: ability
@@ -43,7 +43,7 @@ metadata:
     action_type: Maneuver
     class: elementalist
     cost: 5 Essence
-    distance: 3 cube within 10
+    distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
     effect: 'Until the start of your next turn, the area gains the following effects:'
     flavor: Revitalizing plants and jagged stones grow, helping allies and hindering foes.
     keywords:

@@ -1,7 +1,7 @@
 cost: 7 Clarity
 distance: Ranged 10
 effects:
-    - effect: The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [Presence](scc:mcdm.heroes.v1/rule.character/presence) tests until the end of the encounter.
+    - effect: The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [Presence](scc:mcdm.heroes.v1/rule.character/presence) [tests](scc:mcdm.heroes.v1/rule.test/test) until the end of the encounter.
       name: Effect
 feature_type: ability
 flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
@@ -13,7 +13,7 @@ keywords:
 metadata:
     action_type: Main action
     class: talent
-    content: "\n*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*\n\n| **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |\n|---------------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                            | **\U0001F3AF One creature** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 6 + P damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 10 + P damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 14 + P damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n\n**Effect:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [Presence](scc:mcdm.heroes.v1/rule.character/presence) tests until the end of the encounter.\n\n**Strained:** The potency of this ability increases by 1. You take 2d6 damage and gain 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge) that you can use immediately."
+    content: "\n*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*\n\n| **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |\n|---------------------------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**                            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 6 + P damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 10 + P damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 14 + P damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n\n**Effect:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [Presence](scc:mcdm.heroes.v1/rule.character/presence) [tests](scc:mcdm.heroes.v1/rule.test/test) until the end of the encounter.\n\n**Strained:** The [potency](scc:mcdm.heroes.v1/rule.character/potency) of this ability increases by 1. You take 2d6 damage and gain 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge) that you can use immediately."
     distance: Ranged 10
     feature_type: ability
     flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.

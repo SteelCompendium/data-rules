@@ -3,7 +3,7 @@ action_type: Triggered
 class: tactician
 cost: 5 Focus
 distance: Ranged 5
-effect: You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a power roll against the target.
+effect: You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
 flavor: You prioritize saving an ally over your own safety.
 keywords:
     - Ranged
@@ -27,9 +27,9 @@ type: ability
 
 **Trigger:** The target deals damage to an ally.
 
-**Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a power roll against the target.
+**Effect:** You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** R < WEAK, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
 - **12-16:** R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)

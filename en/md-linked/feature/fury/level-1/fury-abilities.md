@@ -10,7 +10,7 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 ## Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../ability/fury/level-1/to-the-death.md)!)
+Choose one [signature ability](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [To the Death](../../ability/fury/level-1/to-the-death.md)!)
 
 ### Brutal Slam {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam"}
 
@@ -21,7 +21,7 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|-------------------------------:|
 | **📏 Melee 1**            |  **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; push 1
 - **12-16:** 6 + M damage; push 2
@@ -36,7 +36,7 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 + M damage
 - **12-16:** 5 + M damage
@@ -53,7 +53,7 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|--------------------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature of your [size](../../../rule/character/size.md) or smaller** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../condition/grabbed.md)
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../condition/grabbed.md)
@@ -68,21 +68,21 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
 - **17+:** 9 + M damage
 
-**Effect:** You gain 2 [surges](../../../rule/resource/surge.md), and the target can make an opportunity attack against you as a free triggered action.
+**Effect:** You gain 2 [surges](../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../rule/combat/triggered-action.md).
 
 ## Heroic Abilities
 
-You fight with an array of heroic abilities, all of which cost ferocity to fuel them.
+You fight with an array of [heroic abilities](../../../rule/general/heroic-ability.md), all of which cost ferocity to fuel them.
 
 ### 3-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
 
 ### Back! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/back"}
 
@@ -91,9 +91,9 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 | **Area, Melee, Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 1 burst**          | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 5 damage
 - **12-16:** 8 damage; push 1
@@ -108,13 +108,13 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; slide 2
 - **12-16:** 5 + M damage; slide 3
 - **17+:** 8 + M damage; slide 5
 
-**Effect:** When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.
+**Effect:** When you slide the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
 
 ### Tide of Death {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/tide-of-death"}
 
@@ -125,15 +125,15 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You move up to your speed in a straight line, and enemy squares are not [difficult terrain](../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
+**Effect:** You move up to your [speed](../../../rule/character/speed.md) in a straight line, and enemy squares are not [difficult terrain](../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy whose space you move through.
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 3 damage
 - **17+:** 5 damage
 
-**Effect:** The last target you damage takes extra damage equal to your [Might](../../../rule/character/might.md) score for each opportunity attack you trigger during your move.
+**Effect:** The last target you damage takes extra damage equal to your [Might](../../../rule/character/might.md) score for each [opportunity attack](../../../rule/combat/opportunity-attack.md) you trigger during your move.
 
 ### Your Entrails Are Your Extrails! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/your-entrails-are-your-extrails"}
 
@@ -144,7 +144,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../condition/bleeding.md) (save ends)
 - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../condition/bleeding.md) (save ends)
@@ -154,7 +154,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ### 5-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../../ability/fury/level-1/blood-for-blood.md)!)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../../ability/fury/level-1/blood-for-blood.md)!)
 
 ### Blood for Blood! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood"}
 
@@ -165,7 +165,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 |-----------------------------|------------------------------:|
 | **📏 Melee 1**              | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../condition/bleeding.md) and [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../condition/bleeding.md) and [weakened](../../../condition/weakened.md) (save ends)
@@ -178,11 +178,11 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 *Anger is your energy.*
 
-| **-**       | **Free maneuver** |
+| **-**       | **[Free maneuver](../../../rule/combat/free-maneuver.md)** |
 |-------------|------------------:|
 | **📏 Self** |       **🎯 Self** |
 
-**Effect:** You gain 1 [surge](../../../rule/resource/surge.md), and the next ability roll you make this turn automatically obtains a tier 3 outcome.
+**Effect:** You gain 1 [surge](../../../rule/resource/surge.md), and the next [ability roll](../../../rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
 
 ### Thunder Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar"}
 
@@ -193,7 +193,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 damage; push 2
 - **12-16:** 9 damage; push 4
@@ -210,7 +210,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 7 + M damage
 - **12-16:** 11 + M damage

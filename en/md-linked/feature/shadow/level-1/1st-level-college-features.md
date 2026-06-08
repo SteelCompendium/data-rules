@@ -67,7 +67,7 @@ You have the following ability.
 
 The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 [surge](../../../rule/resource/surge.md).
 
-**Spend 1 Insight:** Choose a creature whose [size](../../../rule/character/size.md) is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an [edge](../../../rule/dice/edge.md) on tests made to convince the creature's allies that you are the creature.
+**Spend 1 Insight:** Choose a creature whose [size](../../../rule/character/size.md) is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to convince the creature's allies that you are the creature.
 
 ## Smoke Bomb {data-scc="mcdm.heroes.v1/feature.shadow.level-1/smoke-bomb"}
 

@@ -4,7 +4,7 @@ class: conduit
 cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effect: Each ally in the area deals fire damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score with their next strike made before the end of their next turn.
 feature_type: ability
 file_basename: morning-light
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Piety
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: Each ally in the area deals fire damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score with their next strike made before the end of their next turn.
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 5 Piety
-    distance: 3 burst
+    distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: Each ally in the area deals fire damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score with their next strike made before the end of their next turn.
     flavor: Light shines at your command, burning your foes and blessing your allies.
     keywords:

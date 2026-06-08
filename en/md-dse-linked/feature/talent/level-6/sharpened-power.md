@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability has any power roll, that roll gains an [edge](../../../rule/dice/edge.md).
+    - effect: If the ability has any [power roll](../../../rule/dice/power-roll.md), that roll gains an [edge](../../../rule/dice/edge.md).
 feature_type: feature
 metadata:
     class: talent

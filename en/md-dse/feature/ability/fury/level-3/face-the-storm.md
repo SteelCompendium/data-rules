@@ -5,7 +5,7 @@ cost: 7 Ferocity
 cost_amount: "7"
 cost_resource: Ferocity
 distance: Self
-effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score and increases its potency by 1.
+effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals [rolled damage](scc:mcdm.heroes.v1/rule.damage/rolled-damage) against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score and increases its [potency](scc:mcdm.heroes.v1/rule.character/potency) by 1.
 feature_type: ability
 file_basename: face-the-storm
 file_dpath: feature/ability/fury/level-3
@@ -26,7 +26,7 @@ type: ability
 cost: 7 Ferocity
 distance: Self
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score and increases its potency by 1.
+    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals [rolled damage](scc:mcdm.heroes.v1/rule.damage/rolled-damage) against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score and increases its [potency](scc:mcdm.heroes.v1/rule.character/potency) by 1.
 feature_type: ability
 flavor: Shocked in the face of your naked brutality, your enemy's instincts take over.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: fury
     cost: 7 Ferocity
     distance: Self
-    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score and increases its potency by 1.
+    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each creature you make a melee [strike](scc:mcdm.heroes.v1/rule.combat/strike) against who has P < AVERAGE is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn. Additionally, when you use an ability that deals [rolled damage](scc:mcdm.heroes.v1/rule.damage/rolled-damage) against any enemy [taunted](scc:mcdm.heroes.v1/condition/taunted) by you, the ability deals extra damage equal to twice your [Might](scc:mcdm.heroes.v1/rule.character/might) score and increases its [potency](scc:mcdm.heroes.v1/rule.character/potency) by 1.
     flavor: Shocked in the face of your naked brutality, your enemy's instincts take over.
     keywords:
         - Magic

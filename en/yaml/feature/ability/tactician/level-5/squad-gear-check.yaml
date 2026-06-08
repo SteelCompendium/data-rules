@@ -12,7 +12,7 @@ keywords:
 metadata:
     action_type: Main action
     class: tactician
-    content: "\n*You distract a foe while your allies secure their defensive gear.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** | **Main action**     |\n|---------------------------|---------------------|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 9 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 18 + M damage\n\n**Effect:** You and each ally adjacent to the target gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)."
+    content: "\n*You distract a foe while your allies secure their defensive gear.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** | **Main action**     |\n|---------------------------|---------------------|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 9 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 18 + M damage\n\n**Effect:** You and each ally adjacent to the target gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)."
     distance: Melee 1
     feature_type: ability
     flavor: You distract a foe while your allies secure their defensive gear.

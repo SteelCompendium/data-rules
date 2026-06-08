@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 cost: 3 Drama
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
 flavor: You write something unexpected into the scene that hinders your enemy.
 keywords:
@@ -21,9 +21,9 @@ type: ability
 
 | **Area, Magic, Ranged**     |               **Main action** |
 |-----------------------------|------------------------------:|
-| **📏 3 cube within 10**     | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**     | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)

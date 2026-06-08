@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: While you have 5 or more Victories, you can undertake an additional respite activity during a respite.
+    - effect: While you have 5 or more [Victories](../../../rule/resource/victories.md), you can undertake an additional [respite](../../../rule/resource/respite.md) activity during a [respite](../../../rule/resource/respite.md).
 feature_type: feature
 metadata:
     class: talent

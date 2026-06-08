@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.troubadour.level-2/2nd-level-class-act-ability
 type: feature
 ---
 
-Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choice of one of two heroic abilities.
+Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 2nd-Level Auteur Ability
 
@@ -58,7 +58,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 + **A** damage
 - **12-16:** 11 + **A** damage
@@ -79,7 +79,7 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Special**    |  **🎯 Special** |
 
-**Effect:** You use an ability that you have observed being used this combat round. The ability must have the [Strike](../../../rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../../../rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../../../rule/combat/strike.md), you use your [Presence](../../../rule/character/presence.md) score for any power rolls, and any damage you deal is sonic damage.
+**Effect:** You use an ability that you have observed being used this combat round. The ability must have the [Strike](../../../rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../../../rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../../../rule/combat/strike.md), you use your [Presence](../../../rule/character/presence.md) score for any [power rolls](../../../rule/dice/power-roll.md), and any damage you deal is sonic damage.
 
 ### Tough Crowd {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd"}
 
@@ -88,11 +88,11 @@ Choose one of the following abilities.
 
 | **Area, Magic, Ranged** | **Main action** |
 |-------------------------|----------------:|
-| **📏 3 cube within 10** |  **🎯 Special** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10** |  **🎯 Special** |
 
-**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.
+**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy in the area.
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 corruption damage; M < WEAK, pull 1 toward the center of the area
 - **12-16:** 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area

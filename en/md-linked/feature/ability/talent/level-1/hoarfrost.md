@@ -23,10 +23,10 @@ type: ability
 |----------------------------------------------|--------------------:|
 | **📏 Ranged 10**                             | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
-- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
 
 **Strained:** You are [slowed](../../../../condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../../../../condition/slowed.md) by this ability is [restrained](../../../../condition/restrained.md) instead.

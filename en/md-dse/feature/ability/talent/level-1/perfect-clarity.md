@@ -5,7 +5,7 @@ cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
 distance: Ranged 10
-effect: Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
+effect: Until the start of your next turn, the target gains a +3 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed), and they have a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
 feature_type: ability
 file_basename: perfect-clarity
 file_dpath: feature/ability/talent/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Clarity
 distance: Ranged 10
 effects:
-    - effect: Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
+    - effect: Until the start of your next turn, the target gains a +3 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed), and they have a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
 feature_type: ability
 flavor: You clear the mind of nothing but the goal.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 5 Clarity
     distance: Ranged 10
-    effect: Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
+    effect: Until the start of your next turn, the target gains a +3 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed), and they have a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
     flavor: You clear the mind of nothing but the goal.
     keywords:
         - Psionic

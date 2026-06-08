@@ -22,7 +22,7 @@ effects:
         - **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the [Gymnastics](../../../skill/gymnastics.md) skill.
         - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the [Music](../../../skill/music.md) skill and can play an instrument.
 
-        Your [troubadour class act](troubadour-class-act.md) is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
+        Your [troubadour class act](troubadour-class-act.md) is your [subclass](../../../rule/general/subclass.md), and your choice of class act determines many of the features you'll gain as you gain new levels.
 feature_type: feature
 metadata:
     class: troubadour

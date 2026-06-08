@@ -28,7 +28,7 @@ type: ability
 cost: 3 Insight
 distance: Melee 1 or ranged 5
 effects:
-    - effect: "\n*A bargain.*\n\n| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|-----------------------------------|--------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 10 damage"
+    - effect: "\n*A bargain.*\n\n| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|-----------------------------------|--------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 10 damage"
 feature_type: ability
 flavor: A bargain.
 keywords:

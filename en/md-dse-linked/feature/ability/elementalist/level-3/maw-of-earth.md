@@ -4,7 +4,7 @@ class: elementalist
 cost: 7 Essence
 cost_amount: "7"
 cost_resource: Essence
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: The ground in or directly beneath the area drops 3 squares.
 feature_type: ability
 file_basename: maw-of-earth
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 7 Essence
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: The ground in or directly beneath the area drops 3 squares.
 feature_type: ability
@@ -41,7 +41,7 @@ metadata:
     action_type: Main action
     class: elementalist
     cost: 7 Essence
-    distance: 3 cube within 10
+    distance: 3 [cube](../../../../rule/combat/cube.md) within 10
     effect: The ground in or directly beneath the area drops 3 squares.
     flavor: You open up the ground, spewing out shrapnel of stone and debris.
     keywords:

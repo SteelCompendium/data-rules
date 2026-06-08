@@ -3,7 +3,7 @@
   "distance": "Self",
   "effects": [
     {
-      "effect": "This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.",
+      "effect": "This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "null",
-    "content": "\n*You channel your discipline into momentum that defies gravity.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** Vertical slide 5\n- **12-16:** Vertical slide 7\n- **17+:** Vertical slide 9\n\n**Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.",
+    "content": "\n*You channel your discipline into momentum that defies gravity.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** Vertical slide 5\n- **12-16:** Vertical slide 7\n- **17+:** Vertical slide 9\n\n**Effect:** This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "You channel your discipline into momentum that defies gravity.",

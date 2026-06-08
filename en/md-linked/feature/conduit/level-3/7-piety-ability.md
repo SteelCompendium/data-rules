@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.conduit.level-3/7-piety-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 7 piety to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 7 piety to use.
 
 ## Fear of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods"}
 
@@ -15,9 +15,9 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 | **Area, Magic, Ranged**  |               **Main action** |
 |--------------------------|------------------------------:|
-| **📏 5 cube within 10**  | **🎯 Each enemy in the area** |
+| **📏 5 [cube](../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 6 psychic damage; I < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -45,7 +45,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 |---------------------------|-----------------:|
 | **📏 Ranged 10**          | **🎯 One enemy** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 7 + I corruption damage
 - **12-16:** 10 + I corruption damage
@@ -60,9 +60,9 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|
-| **📏 5 burst**   | **🎯 Each enemy in the area** |
+| **📏 5 [burst](../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 holy damage
 - **12-16:** 5 holy damage

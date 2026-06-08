@@ -12,7 +12,7 @@ keywords:
 metadata:
     ability_type: Signature
     action_type: Main action
-    content: "*The strength of your assault makes it impossible for your foe to ignore you.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 5 + M or A damage\n- **12-16:** 8 + M or A damage\n- **17+:** 11 + M or A damage\n\n**Effect:** The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn."
+    content: "*The strength of your assault makes it impossible for your foe to ignore you.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 5 + M or A damage\n- **12-16:** 8 + M or A damage\n- **17+:** 11 + M or A damage\n\n**Effect:** The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn."
     distance: Melee 1
     feature_type: ability
     flavor: The strength of your assault makes it impossible for your foe to ignore you.

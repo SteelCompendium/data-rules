@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.
+    - effect: You can increase the number of rounds in a [montage test](../../../rule/test/montage-test.md) by 1 if the [test](../../../rule/test/test.md) would end before the heroes hit the success limit.
 feature_type: feature
 metadata:
     class: talent

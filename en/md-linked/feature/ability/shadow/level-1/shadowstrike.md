@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 5 Insight
 distance: Self; see below
-effect: You use a [strike](../../../../rule/combat/strike.md) signature ability twice.
+effect: You use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) twice.
 flavor: They have no idea what the college taught you.
 keywords:
     - Magic
@@ -23,4 +23,4 @@ type: ability
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You use a [strike](../../../../rule/combat/strike.md) signature ability twice.
+**Effect:** You use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) twice.

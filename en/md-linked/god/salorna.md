@@ -16,7 +16,7 @@ Killing for food is likewise natural. People need to eat and the pig knows this 
 
 A wheel that harnesses the power of the river is a beautiful thing. [Humans](../ancestry/human.md) and river physically connected. A dam that blocks the river is a desecration.
 
-Some of Salorna's priests are [conduits](../class/conduit.md); some are mages of the green. Both seek to preserve the balance and respect for nature. Because much of Vasloria is covered in elven forest, Salorna's druids are also often diplomats to the elves.
+Some of Salorna's priests are [conduits](../class/conduit.md); some are mages of the green. Both seek to preserve the balance and respect for nature. Because much of [Vasloria](../rule/world/vasloria.md) is covered in elven forest, Salorna's druids are also often diplomats to the elves.
 
 Salorna has few [censors](../class/censor.md), but not none! Favoring light armor and ranged weapons, her [censors](../class/censor.md) are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
 

@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.shadow.level-8/11-insight-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 11 insight to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 11 insight to use.
 
 ## Assassinate {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/assassinate"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 12 + A damage
 - **12-16:** 18 + A damage
@@ -32,9 +32,9 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 2 burst**  | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 11 corruption damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -49,7 +49,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You can use a [strike](../../../rule/combat/strike.md) signature ability four times, use a [strike](../../../rule/combat/strike.md) signature ability that gains an [edge](../../../rule/dice/edge.md) three times, or use a [strike](../../../rule/combat/strike.md) signature ability that has a double [edge](../../../rule/dice/edge.md) twice. You can [shift](../../../movement/shifting.md) up to 2 squares between each use.
+**Effect:** You can use a [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) four times, use a [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md) three times, or use a [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) that has a double [edge](../../../rule/dice/edge.md) twice. You can [shift](../../../movement/shifting.md) up to 2 squares between each use.
 
 ## They Always Line Up {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up"}
 
@@ -60,7 +60,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 12 damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 18 damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)

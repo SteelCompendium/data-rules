@@ -9,7 +9,7 @@ type: trait
 
 ## Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
 
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../../chapter/tests.md)), and you gain an [edge](../../../rule/dice/edge.md) on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../../chapter/negotiation.md)).
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../../chapter/tests.md)), and you gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) when attempting to discover an [NPC](../../../rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../../chapter/negotiation.md)).
 
 ## Purchased Devil Traits
 
@@ -21,11 +21,11 @@ Your pointy tail allows you to punctuate all your actions. Once per round when y
 
 ### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
 
-Your powerful legs make you faster. You have speed 6.
+Your powerful legs make you faster. You have [speed](../../../rule/character/speed.md) 6.
 
 ### Glowing Eyes {data-scc="mcdm.heroes.v1/feature.trait.devil/glowing-eyes"}
 
-Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to deal that creature psychic damage equal to 1d10 + your level.
+Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a [triggered action](../../../rule/combat/triggered-action.md) to deal that creature psychic damage equal to 1d10 + your level.
 
 ### Hellsight {data-scc="mcdm.heroes.v1/feature.trait.devil/hellsight"}
 
@@ -33,7 +33,7 @@ Your eyes let you see through darkness, fog, and other obscuring effects. You do
 
 ### Impressive Horns {data-scc="mcdm.heroes.v1/feature.trait.devil/impressive-horns"}
 
-Your cherished horns are larger than the average [devil's](../../../ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+Your cherished horns are larger than the average [devil's](../../../ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a [saving throw](../../../rule/general/saving-throw.md), you succeed on a roll of 5 or higher.
 
 ### Prehensile Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/prehensile-tail"}
 

@@ -16,11 +16,11 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [shadow college](shadow-college.md) grants you a triggered action, as shown on the College Triggered Actions table.
+        Your [shadow college](shadow-college.md) grants you a [triggered action](../../../rule/combat/triggered-action.md), as shown on the College [Triggered Actions](../../../rule/combat/triggered-action.md) table.
 
         ###### College Triggered Actions Table
 
-        | College         | Triggered Action      |
+        | College         | [Triggered Action](../../../rule/combat/triggered-action.md)      |
         |-----------------|-----------------------|
         | Black Ash       | [In All This Confusion](../../ability/shadow/level-1/in-all-this-confusion.md) |
         | Caustic Alchemy | [Defensive Roll](../../ability/shadow/level-1/defensive-roll.md)        |

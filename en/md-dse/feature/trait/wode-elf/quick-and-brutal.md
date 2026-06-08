@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.
+    - effect: Whenever you score a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), you can take an additional main action and an additional move action instead of just a main action.
 feature_type: trait
 metadata:
     ancestry: wode-elf

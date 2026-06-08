@@ -4,7 +4,7 @@ class: elementalist
 cost: 9 Essence
 cost_amount: "9"
 cost_resource: Essence
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../condition/restrained.md) (save ends).
 feature_type: ability
 file_basename: web-of-all-thats-come-before
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 9 Essence
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../condition/restrained.md) (save ends).
 feature_type: ability
@@ -41,7 +41,7 @@ metadata:
     action_type: Main action
     class: elementalist
     cost: 9 Essence
-    distance: 4 cube within 10
+    distance: 4 [cube](../../../../rule/combat/cube.md) within 10
     effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../condition/restrained.md) (save ends).
     flavor: Threads you've been weaving through your adventures create a vibrant, pearlescent web.
     keywords:

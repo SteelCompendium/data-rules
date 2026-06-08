@@ -4,7 +4,7 @@ class: conduit
 cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effect: At the end of each of your turns until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: blessing-of-the-blade
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 11 Piety
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
     - effect: At the end of each of your turns until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Maneuver
     class: conduit
     cost: 11 Piety
-    distance: 5 aura
+    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
     effect: At the end of each of your turns until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: '"The power of the gods is within you, friends. Allow me to unleash it."'
     keywords:

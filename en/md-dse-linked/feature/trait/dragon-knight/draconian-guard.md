@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Whenever you or an adjacent creature takes damage from a [strike](../../../rule/combat/strike.md), you can use a triggered action to guard against the blow. You reduce any damage from the [strike](../../../rule/combat/strike.md) by an amount equal to your level.
+    - effect: Whenever you or an adjacent creature takes damage from a [strike](../../../rule/combat/strike.md), you can use a [triggered action](../../../rule/combat/triggered-action.md) to guard against the blow. You reduce any damage from the [strike](../../../rule/combat/strike.md) by an amount equal to your level.
 feature_type: trait
 metadata:
     ancestry: dragon-knight

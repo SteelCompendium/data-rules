@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Choose one heroic ability from the following options, each of which costs 11 essence to use.
+    - effect: Choose one [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) from the following options, each of which costs 11 essence to use.
 feature_type: feature
 metadata:
     class: elementalist

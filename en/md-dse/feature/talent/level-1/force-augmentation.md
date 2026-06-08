@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
+    - effect: Your damage-dealing psionic abilities gain a +1 bonus to [rolled damage](scc:mcdm.heroes.v1/rule.damage/rolled-damage).
 feature_type: feature
 metadata:
     class: talent

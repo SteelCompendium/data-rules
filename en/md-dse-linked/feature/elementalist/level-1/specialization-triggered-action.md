@@ -16,11 +16,11 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [elemental specialization](elemental-specialization.md) grants you a triggered action, as shown on the Specialization Triggered Actions table.
+        Your [elemental specialization](elemental-specialization.md) grants you a [triggered action](../../../rule/combat/triggered-action.md), as shown on the Specialization [Triggered Actions](../../../rule/combat/triggered-action.md) table.
 
         ###### Elemental Specialization Triggered Actions Table
 
-        | Specialization  | Triggered Action          |
+        | Specialization  | [Triggered Action](../../../rule/combat/triggered-action.md)          |
         |-----------------|---------------------------|
         | Earth           | [Skin Like Castle Walls](../../ability/elementalist/level-1/skin-like-castle-walls.md)    |
         | Fire            | [Explosive Assistance](../../ability/elementalist/level-1/explosive-assistance.md)      |

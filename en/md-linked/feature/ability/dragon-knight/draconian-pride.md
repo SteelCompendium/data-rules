@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 ancestry: dragon-knight
-distance: 1 burst
+distance: 1 [burst](../../../rule/combat/burst.md)
 flavor: You let loose a mighty roar to shake your foes' spirits.
 keywords:
     - Area
@@ -17,9 +17,9 @@ type: ability
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 1 burst**  | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage; push 1

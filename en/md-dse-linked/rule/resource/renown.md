@@ -9,16 +9,16 @@ source: mcdm.heroes.v1
 type: rule
 ---
 
-As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
+As you accomplish heroic deeds, your fame allows you to influence [NPCs](../general/npc.md) and attract [followers](../general/follower.md). Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
 At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see Chapter 4: [Background](../../chapter/background.md)).
 
 ### Increasing Renown
 
-Some perks (see Chapter 7), downtime projects (Chapter 12: [Downtime Projects](../../chapter/downtime-projects.md)), and titles and treasures (part of Chapter 13: [Rewards](../../chapter/rewards.md)) can increase your renown. But for the most part, you earn Renown at the end of an exciting adventure, often after the acknowledgement of a powerful NPC that you helped save them, their family, their home, their organization—or even their nation or world. That NPC and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
+Some perks (see Chapter 7), downtime projects (Chapter 12: [Downtime Projects](../../chapter/downtime-projects.md)), and titles and treasures (part of Chapter 13: [Rewards](../../chapter/rewards.md)) can increase your [renown](renown.md). But for the most part, you earn [Renown](renown.md) at the end of an exciting adventure, often after the acknowledgement of a powerful [NPC](../general/npc.md) that you helped save them, their family, their home, their organization—or even their nation or world. That [NPC](../general/npc.md) and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
 
-In most campaigns, the Director sets the characters up to earn 1 Renown per level, but some campaigns will feature heroes who are more or less famous (or infamous) than that.
+In most campaigns, the Director sets the characters up to earn 1 [Renown](renown.md) per level, but some campaigns will feature heroes who are more or less famous (or infamous) than that.
 
 ### Influence Negotiation
 
-Renown changes the way NPCs respond to heroes during negotiations (see Chapter 11: [Negotiation](../../chapter/negotiation.md)), whether that renown takes the form of fame or infamy.
+[Renown](renown.md) changes the way [NPCs](../general/npc.md) respond to heroes during negotiations (see Chapter 11: [Negotiation](../../chapter/negotiation.md)), whether that [renown](renown.md) takes the form of fame or infamy.

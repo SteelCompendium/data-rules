@@ -10,7 +10,7 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 ## Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../ability/censor/level-1/your-allies-cannot-save-you.md)!)
+Choose one [signature ability](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../ability/censor/level-1/your-allies-cannot-save-you.md)!)
 
 ### Back Blasphemer! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer"}
 
@@ -19,9 +19,9 @@ Choose one signature ability from the following options. Signature abilities can
 
 | **Area, Magic, Melee, Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
+| **📏 2 [cube](../../../rule/combat/cube.md) within 1**         | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 holy damage; push 1
 - **12-16:** 4 holy damage; push 2
@@ -36,7 +36,7 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          |           **🎯 One creature** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P psychic damage
 - **12-16:** 7 + P psychic damage
@@ -53,7 +53,7 @@ Choose one signature ability from the following options. Signature abilities can
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -68,7 +68,7 @@ Choose one signature ability from the following options. Signature abilities can
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M holy damage
 - **12-16:** 5 + M holy damage
@@ -78,11 +78,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 ## Heroic Abilities
 
-You call upon a number of heroic abilities, all of them bound to your wrath.
+You call upon a number of [heroic abilities](../../../rule/general/heroic-ability.md), all of them bound to your wrath.
 
 ### 3-Wrath Ability
 
-Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../../ability/censor/level-1/the-gods-punish-and-defend.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../../ability/censor/level-1/the-gods-punish-and-defend.md).)
 
 ### Behold a Shield of Faith! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith"}
 
@@ -93,13 +93,13 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M holy damage
 - **12-16:** 6 + M holy damage
 - **17+:** 9 + M holy damage
 
-**Effect:** Until the start of your next turn, enemies take a [bane](../../../rule/dice/bane.md) on ability rolls made against you or any ally adjacent to you.
+**Effect:** Until the start of your next turn, enemies take a [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md) made against you or any ally adjacent to you.
 
 ### Driving Assault {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault"}
 
@@ -110,13 +110,13 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; push 1
 - **12-16:** 6 + M damage; push 3
 - **17+:** 9 + M damage; push 5
 
-**Effect:** You can [shift](../../../movement/shifting.md) up to your speed in a straight line toward the target after pushing them.
+**Effect:** You can [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md) in a straight line toward the target after pushing them.
 
 ### The Gods Punish and Defend {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend"}
 
@@ -127,7 +127,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 5 + M holy damage
 - **12-16:** 8 + M holy damage
@@ -144,7 +144,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P holy damage; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -152,7 +152,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ### 5-Wrath Ability
 
-Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../../ability/censor/level-1/purifying-fire.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../../ability/censor/level-1/purifying-fire.md).)
 
 ### Arrest {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/arrest"}
 
@@ -163,7 +163,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   |           **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M holy damage; [grabbed](../../../condition/grabbed.md)
 - **12-16:** 9 + M holy damage; [grabbed](../../../condition/grabbed.md)
@@ -180,7 +180,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 |-------------------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](../../../condition/frightened.md) of you (save ends)
 - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../../condition/frightened.md) of you (save ends)
@@ -197,7 +197,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             |           **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 + M holy damage
 - **12-16:** 3 + M holy damage
@@ -214,7 +214,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 |-------------------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)
 - **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)

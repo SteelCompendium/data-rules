@@ -4,7 +4,7 @@ class: fury
 cost: 11 Ferocity
 cost_amount: "11"
 cost_resource: Ferocity
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
 feature_type: ability
 file_basename: death-comes-for-you-all
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 11 Ferocity
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
 feature_type: ability
@@ -41,7 +41,7 @@ metadata:
     action_type: Main action
     class: fury
     cost: 11 Ferocity
-    distance: 3 burst
+    distance: 3 [burst](../../../../rule/combat/burst.md)
     effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
     flavor: You use your weapon to create a destructive shockwave.
     keywords:

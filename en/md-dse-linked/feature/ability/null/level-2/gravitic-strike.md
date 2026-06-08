@@ -28,7 +28,7 @@ type: ability
 cost: 5 Discipline
 distance: Melee 3
 effects:
-    - effect: "\n*Your fist emanates gravitic force that pulls a distant enemy closer.*\n\n| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 3**                     | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 8 + A psychic damage; vertical pull 3\n- **12-16:** 12 + A psychic damage; vertical pull 5\n- **17+:** 16 + A psychic damage; vertical pull 7"
+    - effect: "\n*Your fist emanates gravitic force that pulls a distant enemy closer.*\n\n| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 3**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 8 + A psychic damage; vertical pull 3\n- **12-16:** 12 + A psychic damage; vertical pull 5\n- **17+:** 16 + A psychic damage; vertical pull 7"
 feature_type: ability
 flavor: Your fist emanates gravitic force that pulls a distant enemy closer.
 keywords:

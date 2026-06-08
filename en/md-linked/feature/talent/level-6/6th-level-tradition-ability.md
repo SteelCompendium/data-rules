@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.talent.level-6/6th-level-tradition-ability
 type: feature
 ---
 
-Your [talent tradition](../level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
+Your [talent tradition](../level-1/talent-tradition.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 6th-Level Chronopathy Abilities
 
@@ -23,9 +23,9 @@ Choose one of the following abilities.
 
 **Effect:** The target has [damage weakness](../../../rule/damage/damage-weakness.md) 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../condition/prone.md).
 
-**Strained:** This ability gains the [Strike](../../../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../../condition/weakened.md) (save ends).
+**Strained:** This ability gains the [Strike](../../../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a [power roll](../../../rule/dice/power-roll.md), then are [weakened](../../../condition/weakened.md) (save ends).
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 8 + P psychic damage
 - **12-16:** 13 + P psychic damage
@@ -38,16 +38,16 @@ Choose one of the following abilities.
 
 | **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
-| **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
+| **📏 4 [cube](../../../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
 **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../../rule/health/stamina.md) remain undestroyed.
 
-Make a power roll that targets each enemy in the area.
+Make a [power roll](../../../rule/dice/power-roll.md) that targets each enemy in the area.
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** P < WEAK, the target is [slowed](../../../condition/slowed.md) until the effect ends
-- **12-16:** P < AVERAGE, the target's speed is 0 until the effect ends
+- **12-16:** P < AVERAGE, the target's [speed](../../../rule/character/speed.md) is 0 until the effect ends
 - **17+:** P < STRONG, the target is [restrained](../../../condition/restrained.md) until the effect ends
 
 **Strained:** Any creature or object [force moved](../../../movement/forced-movement.md) in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../../../condition/restrained.md) in the area can be [force moved](../../../movement/forced-movement.md). You are [restrained](../../../condition/restrained.md) until the effect ends.
@@ -63,9 +63,9 @@ Choose one of the following abilities.
 
 | **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
-| **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
+| **📏 4 [cube](../../../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 6 damage; vertical pull 5 toward the center of the area
 - **12-16:** 9 damage; vertical pull 7 toward the center of the area
@@ -84,13 +84,13 @@ Choose one of the following abilities.
 |----------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                             | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../../movement/forced-movement.md) is vertical
 - **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../../movement/forced-movement.md) is vertical
 - **17+:** Slide 12 + R; [prone](../../../condition/prone.md); M < STRONG, the [forced movement](../../../movement/forced-movement.md) is vertical
 
-**Strained:** The [forced movement](../../../movement/forced-movement.md) ignores stability. You take 2d6 damage and are [weakened](../../../condition/weakened.md) (save ends).
+**Strained:** The [forced movement](../../../movement/forced-movement.md) ignores [stability](../../../rule/character/stability.md). You take 2d6 damage and are [weakened](../../../condition/weakened.md) (save ends).
 
 ## 6th-Level Telepathy Abilities
 
@@ -105,10 +105,10 @@ Choose one of the following abilities.
 |-------------------------------------------|--------------------:|
 | **📏 Melee 2**                            | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** 10 psychic damage; the target takes a [bane](../../../rule/dice/bane.md) on ability rolls made to harm you or your allies (save ends)
-- **12-16:** 14 psychic damage; the target has a double [bane](../../../rule/dice/bane.md) on ability rolls made to harm you or your allies (save ends)
+- **≤11:** 10 psychic damage; the target takes a [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md) made to harm you or your allies (save ends)
+- **12-16:** 14 psychic damage; the target has a double [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md) made to harm you or your allies (save ends)
 - **17+:** 20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)
 
 **Strained:** While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.
@@ -122,9 +122,9 @@ Choose one of the following abilities.
 |----------------------------------------|---------------:|
 | **📏 Ranged 10**                       | **🎯 Special** |
 
-**Effect:** You target a number of creatures with this ability determined by the outcome of your power roll. You and your allies are invisible to each target until the start of your next turn.
+**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next turn.
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** Two creatures
 - **12-16:** Three creatures

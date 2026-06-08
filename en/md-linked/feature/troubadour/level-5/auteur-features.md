@@ -10,7 +10,7 @@ Choose one of the following features.
 
 ## Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within [distance](../../../rule/combat/distance.md) of your [Dramatic Monologue](../../ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../../../condition/bleeding.md), [frightened](../../../condition/frightened.md)[, prone](../../../condition/prone.md), [slowed](../../../condition/slowed.md), or [taunted](../../../condition/taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.
+Once on each of your turns, you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to change one condition affecting a creature within [distance](../../../rule/combat/distance.md) of your [Dramatic Monologue](../../ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../../../condition/bleeding.md), [frightened](../../../condition/frightened.md)[, prone](../../../condition/prone.md), [slowed](../../../condition/slowed.md), or [taunted](../../../condition/taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.
 
 ## Take Two!
 
@@ -23,6 +23,6 @@ You have the following performance ability, which is usable with your [Routines]
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
-| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+| **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can reroll the first power roll that turn that obtains a tier 2 outcome. They must use the new roll.
+**Effect:** While this performance is active, each target who starts their turn in the area can reroll the first [power roll](../../../rule/dice/power-roll.md) that turn that obtains a tier 2 outcome. They must use the new roll.

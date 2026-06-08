@@ -5,7 +5,7 @@ cost: 3 Focus
 cost_amount: "3"
 cost_resource: Focus
 distance: Ranged 10
-effect: Each target can move up to their speed.
+effect: Each target can move up to their [speed](../../../../rule/character/speed.md).
 feature_type: ability
 file_basename: squad-forward
 file_dpath: feature/ability/tactician/level-1
@@ -26,7 +26,7 @@ type: ability
 cost: 3 Focus
 distance: Ranged 10
 effects:
-    - effect: Each target can move up to their speed.
+    - effect: Each target can move up to their [speed](../../../../rule/character/speed.md).
 feature_type: ability
 flavor: On your command, you and your allies force back the enemy line.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 3 Focus
     distance: Ranged 10
-    effect: Each target can move up to their speed.
+    effect: Each target can move up to their [speed](../../../../rule/character/speed.md).
     flavor: On your command, you and your allies force back the enemy line.
     keywords:
         - Ranged

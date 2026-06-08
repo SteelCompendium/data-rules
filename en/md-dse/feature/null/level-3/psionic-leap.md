@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You can long jump and high jump a [distance](scc:mcdm.heroes.v1/rule.combat/distance) equal to twice your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score without needing to make a test.
+    - effect: You can long jump and high jump a [distance](scc:mcdm.heroes.v1/rule.combat/distance) equal to twice your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score without needing to make a [test](scc:mcdm.heroes.v1/rule.test/test).
 feature_type: feature
 metadata:
     class: "null"

@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
+effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
 feature_type: ability
 file_basename: double-strike
 file_dpath: feature/ability/dual-wielder
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
+    - effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
 feature_type: ability
 flavor: Why strike once when you could do it twice?
 keywords:
@@ -34,7 +34,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: Melee 1
-    effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
+    effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
     flavor: Why strike once when you could do it twice?
     keywords:
         - Melee

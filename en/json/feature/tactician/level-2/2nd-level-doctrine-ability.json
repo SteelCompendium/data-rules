@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine) grants your choice of one of two heroic abilities.\n\n##### 2nd-Level Insurgent Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Mastermind Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Vanguard Ability\n\nChoose one of the following abilities."
+      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine) grants your choice of one of two [heroic abilities](scc:mcdm.heroes.v1/rule.general/heroic-ability).\n\n##### 2nd-Level Insurgent Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Mastermind Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Vanguard Ability\n\nChoose one of the following abilities."
     }
   ],
   "feature_type": "feature",

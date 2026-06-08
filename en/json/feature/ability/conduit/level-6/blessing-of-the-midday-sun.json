@@ -1,9 +1,9 @@
 {
   "cost": "9 Piety",
-  "distance": "4 aura",
+  "distance": "4 [aura](scc:mcdm.heroes.v1/rule.combat/aura)",
   "effects": [
     {
-      "effect": "Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy in the area takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls, and you and each ally in the area gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.",
+      "effect": "Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy in the area takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll), and you and each ally in the area gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.",
       "name": "Effect"
     }
   ],
@@ -16,8 +16,8 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*Your body emits a heat that bakes your enemies and inspires your allies.*\n\n| **Area, Magic**  |                              **Maneuver** |\n|------------------|------------------------------------------:|\n| **📏 4 aura**    | **🎯 Self and each creature in the area** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy in the area takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls, and you and each ally in the area gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.",
-    "distance": "4 aura",
+    "content": "\n*Your body emits a heat that bakes your enemies and inspires your allies.*\n\n| **Area, Magic**  |                              **Maneuver** |\n|------------------|------------------------------------------:|\n| **📏 4 [aura](scc:mcdm.heroes.v1/rule.combat/aura)**    | **🎯 Self and each creature in the area** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy in the area takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll), and you and each ally in the area gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.",
+    "distance": "4 [aura](scc:mcdm.heroes.v1/rule.combat/aura)",
     "feature_type": "ability",
     "flavor": "Your body emits a heat that bakes your enemies and inspires your allies.",
     "item_id": "blessing-of-the-midday-sun",

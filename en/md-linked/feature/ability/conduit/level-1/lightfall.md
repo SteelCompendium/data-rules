@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: conduit
-distance: 2 burst
+distance: 2 [burst](../../../../rule/combat/burst.md)
 effect: You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
 flavor: A rain of holy light scours your enemies and repositions your allies.
 keywords:
@@ -20,9 +20,9 @@ type: ability
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|
-| **📏 2 burst**   | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 2 holy damage
 - **12-16:** 3 holy damage

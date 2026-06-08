@@ -5,7 +5,7 @@ cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
 distance: Ranged 10
-effect: The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../../../rule/dice/edge.md) on power rolls.
+effect: The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: fulfill-your-destiny
 file_dpath: feature/ability/censor/level-9
@@ -29,7 +29,7 @@ type: ability
 cost: 11 Wrath
 distance: Ranged 10
 effects:
-    - effect: The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../../../rule/dice/edge.md) on power rolls.
+    - effect: The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: You have looked at various futures, and only this one works.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: censor
     cost: 11 Wrath
     distance: Ranged 10
-    effect: The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../../../rule/dice/edge.md) on power rolls.
+    effect: The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md).
     flavor: You have looked at various futures, and only this one works.
     keywords:
         - Magic

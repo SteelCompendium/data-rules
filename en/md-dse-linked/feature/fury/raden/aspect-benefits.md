@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You gain an [edge](../../../rule/dice/edge.md) on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../../../movement/difficult-terrain.md).
+    - effect: You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to hide and sneak. Additionally, you ignore [difficult terrain](../../../movement/difficult-terrain.md).
 feature_type: feature
 metadata:
     class: fury

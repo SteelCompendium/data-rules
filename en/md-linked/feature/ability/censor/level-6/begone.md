@@ -2,7 +2,7 @@
 action_type: Main action
 class: censor
 cost: 9 Wrath
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 flavor: You terrify your enemies into retreating, creating chaos in their ranks.
 keywords:
     - Area
@@ -19,9 +19,9 @@ type: ability
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 4 psychic damage; slide 3
 - **12-16:** 6 psychic damage; slide 5

@@ -24,7 +24,7 @@ type: ability
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   |           **🎯 One creature** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 6 + M holy damage; [grabbed](../../../../condition/grabbed.md)
 - **12-16:** 9 + M holy damage; [grabbed](../../../../condition/grabbed.md)

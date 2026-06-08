@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
+effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
 flavor: Why strike once when you could do it twice?
 keywords:
     - Melee
@@ -21,10 +21,10 @@ type: ability
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-**Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
+**Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.

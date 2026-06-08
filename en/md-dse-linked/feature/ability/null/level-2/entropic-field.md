@@ -4,7 +4,7 @@ class: "null"
 cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
-distance: 3 cube within 1
+distance: 3 [cube](../../../../rule/combat/cube.md) within 1
 feature_type: ability
 file_basename: entropic-field
 file_dpath: feature/ability/null/level-2
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Discipline
-distance: 3 cube within 1
+distance: 3 [cube](../../../../rule/combat/cube.md) within 1
 effects:
-    - effect: "\n*You drastically increase the local entropy.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 1**    | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
+    - effect: "\n*You drastically increase the local entropy.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](../../../../rule/combat/cube.md) within 1**    | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
 feature_type: ability
 flavor: You drastically increase the local entropy.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     action_type: Main action
     class: "null"
     cost: 5 Discipline
-    distance: 3 cube within 1
+    distance: 3 [cube](../../../../rule/combat/cube.md) within 1
     flavor: You drastically increase the local entropy.
     keywords:
         - Area

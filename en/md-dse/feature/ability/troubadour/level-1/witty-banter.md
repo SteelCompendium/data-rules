@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 distance: Melee 1 or ranged 5
-effect: One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn.
 feature_type: ability
 file_basename: witty-banter
 file_dpath: feature/ability/troubadour/level-1
@@ -27,7 +27,7 @@ type: ability
 ```ds-feature
 distance: Melee 1 or ranged 5
 effects:
-    - effect: One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+    - effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn.
     - effect: '1 Drama: The chosen ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).'
       name: Spend
 feature_type: ability
@@ -41,7 +41,7 @@ metadata:
     action_type: Main action
     class: troubadour
     distance: Melee 1 or ranged 5
-    effect: One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+    effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn.
     flavor: A lyrical (and physical) jab insults an enemy and inspires an ally.
     keywords:
         - Magic

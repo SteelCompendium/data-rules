@@ -16,13 +16,13 @@ Your class provides you with many of your features, most of your abilities—you
 
 **[Censor](../class/censor.md):** A [censor](../class/censor.md) is a trained warrior devoted to a saint or god. They hunt down the forces of evil using melee weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
 
-**[Conduit](../class/conduit.md):** A [conduit](../class/conduit.md) is the devoted priest of a saint or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are renowned for their healing abilities.
+**[Conduit](../class/conduit.md):** A [conduit](../class/conduit.md) is the devoted priest of a saint or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are [renown](../rule/resource/renown.md)ed for their healing abilities.
 
 **[Elementalist](../class/elementalist.md):** An [elementalist](../class/elementalist.md) studies the elemental forces of the timescape and controls earth, fire, the void, and more with magic. Many of their abilities cover wide areas of the battlefield, and they have a versatile array of tricks that allow them to both control combat and manipulate the environment around them when the fight is done.
 
 **[Fury](../class/fury.md):** Coursing with the ferocity of the Primordial Chaos in their veins, a [fury](../class/fury.md) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](../class/fury.md) lives.
 
-**[Null](../class/null.md):** Disciplined and calm, the [null](../class/null.md) is an unarmed warrior who manifests an aura that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
+**[Null](../class/null.md):** Disciplined and calm, the [null](../class/null.md) is an unarmed warrior who manifests an [aura](../rule/combat/aura.md) that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
 
 **[Shadow](../class/shadow.md):** Stalking from the darkness, the [shadow](../class/shadow.md) is an expert assassin and thief who fights equally well in melee and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
 
@@ -36,11 +36,11 @@ Your class provides you with many of your features, most of your abilities—you
 
 Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../feature/common/main-actions/free-strike.md) and maneuvers such as [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) (see Maneuvers in Chapter 10: [Combat](combat.md)). But your class, ancestry (see Chapter 3: [Ancestries](ancestries.md)), kit (Chapter 6: [Kits](kits.md)), titles and treasures (Chapter 13: [Rewards](rewards.md)), and other heroic options give you access to more powerful abilities that make your hero stand out.
 
-Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's power roll (if it has one) and effects.
+Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's [power roll](../rule/dice/power-roll.md) (if it has one) and effects.
 
 > **Abilities in Combat**
 >
-> All the abilities appearing in this book are used as a main action, a maneuver, a triggered action, or some other part of your turn. As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as combat rounds. If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
+> All the abilities appearing in this book are used as a main action, a maneuver, a [triggered action](../rule/combat/triggered-action.md), or some other part of your turn. As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as combat rounds. If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
 
 #### Name and Story Text
 
@@ -66,11 +66,11 @@ The nine [Heroic Resources](../rule/resource/heroic-resource.md) in the game are
 
 #### Type
 
-Each ability notes the type of activity required to use it, on the right side of the first line beneath the flavor text. Most abilities require you to use a main action, a maneuver, a move action, a triggered action, a free maneuver, or a free triggered action (with all those terms explained in Taking a Turn in Chapter 10: [Combat](combat.md)). For instance, if you use an ability that has "Main Action" as its type entry, you must use your main action to activate the ability.
+Each ability notes the type of activity required to use it, on the right side of the first line beneath the flavor text. Most abilities require you to use a main action, a maneuver, a move action, a [triggered action](../rule/combat/triggered-action.md), a [free maneuver](../rule/combat/free-maneuver.md), or a free [triggered action](../rule/combat/triggered-action.md) (with all those terms explained in Taking a Turn in Chapter 10: [Combat](combat.md)). For instance, if you use an ability that has "Main Action" as its type entry, you must use your main action to activate the ability.
 
 ##### Trigger
 
-If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician's](../class/tactician.md) Parry ability is: "A creature deals damage to the target." A [tactician](../class/tactician.md) can use their Parry ability only when that specific triggering event occurs.
+If an ability requires a [triggered action](../rule/combat/triggered-action.md) or a free [triggered action](../rule/combat/triggered-action.md) to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician's](../class/tactician.md) Parry ability is: "A creature deals damage to the target." A [tactician](../class/tactician.md) can use their Parry ability only when that specific triggering event occurs.
 
 #### "During the Move"
 
@@ -78,17 +78,17 @@ Certain ability effects allow you to move and affect other creatures or objects 
 
 #### Roll Against Multiple Creatures
 
-When an ability has multiple targets (whether a [strike](../rule/combat/strike.md) with more than one target or an area affect), you make one power roll and apply the total to all targets. If you have [edges](../rule/dice/edge.md) or [banes](../rule/dice/bane.md) (see Chapter 1: [The Basics](the-basics.md)) against some but not all of your targets, you might apply a different tier outcome to individual targets.
+When an ability has multiple targets (whether a [strike](../rule/combat/strike.md) with more than one target or an area affect), you make one [power roll](../rule/dice/power-roll.md) and apply the total to all targets. If you have [edges](../rule/dice/edge.md) or [banes](../rule/dice/bane.md) (see Chapter 1: [The Basics](the-basics.md)) against some but not all of your targets, you might apply a different [tier outcome](../rule/dice/tier-outcome.md) to individual targets.
 
-For example, if you target three creatures with a [strike](../rule/combat/strike.md) ability and the power roll totals 11, each of the targets should be affected by the tier 1 outcome of the ability. However, if you gain an [edge](../rule/dice/edge.md) on [strikes](../rule/combat/strike.md) against one of the targets to add 2 to the power roll, your total against that target is 13, and they are affected by the tier 2 outcome of the ability.
+For example, if you target three creatures with a [strike](../rule/combat/strike.md) ability and the [power roll](../rule/dice/power-roll.md) totals 11, each of the targets should be affected by the tier 1 outcome of the ability. However, if you gain an [edge](../rule/dice/edge.md) on [strikes](../rule/combat/strike.md) against one of the targets to add 2 to the [power roll](../rule/dice/power-roll.md), your total against that target is 13, and they are affected by the tier 2 outcome of the ability.
 
 #### Effect
 
-Many abilities that require power rolls also have effect entries describing additional effects or rules for how the ability is used. If an ability doesn't require a power roll, it has an effect entry that describes how it works.
+Many abilities that require [power rolls](../rule/dice/power-roll.md) also have effect entries describing additional effects or rules for how the ability is used. If an ability doesn't require a [power roll](../rule/dice/power-roll.md), it has an effect entry that describes how it works.
 
 ##### Actions Within Actions
 
-If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow's](../class/shadow.md) [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability is a maneuver that allows you to [teleport](../movement/teleport.md) and then use the [Hide](../feature/common/maneuvers/hide.md) maneuver as its overall effect. Using the [Hide](../feature/common/maneuvers/hide.md) maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
+If an ability's effect allows you to take a main action, a maneuver, a move action, or a [triggered action](../rule/combat/triggered-action.md), the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow's](../class/shadow.md) [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability is a maneuver that allows you to [teleport](../movement/teleport.md) and then use the [Hide](../feature/common/maneuvers/hide.md) maneuver as its overall effect. Using the [Hide](../feature/common/maneuvers/hide.md) maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
 
 #### Spend Heroic Resource
 
@@ -98,9 +98,9 @@ Some abilities have a "Spend X [Heroic Resource]" entry in the body of the abili
 
 The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest bonus—from each use of the ability applies. The most recently used ability applies for determining duration.
 
-For example, the [null's](../class/null.md) [Null Field](../feature/null/level-1/null-field.md) ability reduces the potencies of enemies within the field by 1. If two allied [nulls](../class/null.md) each have their [Null Field](../feature/null/level-1/null-field.md) ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
+For example, the [null's](../class/null.md) [Null Field](../feature/null/level-1/null-field.md) ability reduces the [potencies](../rule/character/potency.md) of enemies within the field by 1. If two allied [nulls](../class/null.md) each have their [Null Field](../feature/null/level-1/null-field.md) ability active and an enemy cultist is targeted by both abilities, that cultist's [potencies](../rule/character/potency.md) are reduced by 1, not by 2.
 
-Different effects that impose the same condition (see Conditions below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../condition/weakened.md) (imposing a [bane](../rule/dice/bane.md) on the target's power rolls), the target isn't [weakened](../condition/weakened.md) twice to impose a double [bane](../rule/dice/bane.md) on those rolls. A character who is [grabbed](../condition/grabbed.md) by an enemy can't be [grabbed](../condition/grabbed.md) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their [recovery value](../rule/health/recoveries.md), the hero's [recovery value](../rule/health/recoveries.md) is halved only once.
+Different effects that impose the same condition (see Conditions below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../condition/weakened.md) (imposing a [bane](../rule/dice/bane.md) on the target's [power rolls](../rule/dice/power-roll.md)), the target isn't [weakened](../condition/weakened.md) twice to impose a double [bane](../rule/dice/bane.md) on those rolls. A character who is [grabbed](../condition/grabbed.md) by an enemy can't be [grabbed](../condition/grabbed.md) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their [recovery value](../rule/health/recoveries.md), the hero's [recovery value](../rule/health/recoveries.md) is halved only once.
 
 #### Ending Effects
 
@@ -112,7 +112,7 @@ Some effects last until the end of the encounter. If such an effect is used outs
 
 ##### Creature Ends an Ability Effect
 
-A creature who imposes an effect on another creature using an ability can end that effect as a free maneuver unless the ability says otherwise.
+A creature who imposes an effect on another creature using an ability can end that effect as a [free maneuver](../rule/combat/free-maneuver.md) unless the ability says otherwise.
 
 #### Straight Line
 
@@ -120,9 +120,9 @@ Whenever a creature moves or is subjected to [forced movement](../movement/force
 
 #### Abilities in Class Tables
 
-Each class in this chapter includes a table that shows the progression as a hero gains new levels in that class. Each of those tables has an Abilities column and another column that shows abilities granted by the hero's subclass, tracking all the heroic abilities a hero of that class has at each level. Each ability is represented by a numeral noting the ability's [Heroic Resource](../rule/resource/heroic-resource.md) cost.
+Each class in this chapter includes a table that shows the progression as a hero gains new levels in that class. Each of those tables has an Abilities column and another column that shows abilities granted by the hero's [subclass](../rule/general/subclass.md), tracking all the [heroic abilities](../rule/general/heroic-ability.md) a hero of that class has at each level. Each ability is represented by a numeral noting the ability's [Heroic Resource](../rule/resource/heroic-resource.md) cost.
 
-For example a 6th-level [censor](../class/censor.md) has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the [censor's](../class/censor.md) subclass). This means a [censor](../class/censor.md) of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 wrath.
+For example a 6th-level [censor](../class/censor.md) has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the [censor's](../class/censor.md) [subclass](../rule/general/subclass.md)). This means a [censor](../class/censor.md) of that level has a [signature ability](../rule/combat/signature-ability.md) and four [heroic abilities](../rule/general/heroic-ability.md) costing 3, 5, 7, and 9 wrath respectively, plus an additional two [subclass](../rule/general/subclass.md) [heroic abilities](../rule/general/heroic-ability.md) costing 5 and 9 wrath.
 
 > **Quick Build Gold Icons**
 >

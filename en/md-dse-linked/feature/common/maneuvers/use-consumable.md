@@ -13,7 +13,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: 'Unless otherwise noted in its description, a creature can activate a consumable treasure such as a potion with the [Use Consumable](use-consumable.md) maneuver. A creature can use this maneuver to administer a consumable treasure that benefits the user either to themself or to a willing adjacent creature. See Consumables in Chapter 13: [Rewards](../../../chapter/rewards.md).'
+    - effect: 'Unless otherwise noted in its description, a creature can activate a [consumable](../../../rule/treasure/consumable.md) treasure such as a potion with the [Use Consumable](use-consumable.md) maneuver. A creature can use this maneuver to administer a [consumable](../../../rule/treasure/consumable.md) treasure that benefits the user either to themself or to a willing adjacent creature. See [Consumables](../../../rule/treasure/consumable.md) in Chapter 13: [Rewards](../../../chapter/rewards.md).'
 feature_type: feature
 metadata:
     name: Use Consumable

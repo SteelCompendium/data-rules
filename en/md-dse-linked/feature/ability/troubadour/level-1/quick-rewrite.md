@@ -4,7 +4,7 @@ class: troubadour
 cost: 3 Drama
 cost_amount: "3"
 cost_resource: Drama
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
 feature_type: ability
 file_basename: quick-rewrite
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 3 Drama
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
 feature_type: ability
@@ -39,7 +39,7 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 3 Drama
-    distance: 3 cube within 10
+    distance: 3 [cube](../../../../rule/combat/cube.md) within 10
     effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
     flavor: You write something unexpected into the scene that hinders your enemy.
     keywords:

@@ -10,7 +10,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 ## Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../ability/talent/level-1/incinerate.md), [Kinetic Grip](../../ability/talent/level-1/kinetic-grip.md).)
+Choose two [signature abilities](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Incinerate](../../ability/talent/level-1/incinerate.md), [Kinetic Grip](../../ability/talent/level-1/kinetic-grip.md).)
 
 ### Entropic Bolt {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt"}
 
@@ -21,7 +21,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                         | **🎯 One creature or object** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -29,7 +29,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 
-**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.
+**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the [power roll](../../../rule/dice/power-roll.md).
 
 ### Hoarfrost {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost"}
 
@@ -40,11 +40,11 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------------------------|--------------------:|
 | **📏 Ranged 10**                             | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../condition/slowed.md) (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../condition/slowed.md) (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
 
 **Strained:** You are [slowed](../../../condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../../../condition/slowed.md) by this ability is [restrained](../../../condition/restrained.md) instead.
 
@@ -55,9 +55,9 @@ Choose two signature abilities from the following options. Signature abilities c
 
 | **Area, Fire, Psionic, Pyrokinesis, Ranged** |               **Main action** |
 |----------------------------------------------|------------------------------:|
-| **📏 3 cube within 10**                      | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10**                      | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 fire damage
 - **12-16:** 4 fire damage
@@ -65,7 +65,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
 
-**Strained:** The size of the cube increases by 2, but the fire disappears at the end of your turn.
+**Strained:** The size of the [cube](../../../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your turn.
 
 ### Kinetic Grip {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip"}
 
@@ -76,7 +76,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------------|------------------------------:|
 | **📏 Ranged 10**                 | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** Slide 2 + R
 - **12-16:** Slide 4 + R
@@ -91,15 +91,15 @@ Choose two signature abilities from the following options. Signature abilities c
 
 | **Area, Psionic, Telepathy** |               **Main action** |
 |------------------------------|------------------------------:|
-| **📏 1 burst**               | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../../../rule/combat/burst.md)**               | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 psychic damage
 - **12-16:** 5 psychic damage; push 1
 - **17+:** 7 psychic damage; push 2
 
-**Strained:** The size of the burst increases by 2, and you are [bleeding](../../../condition/bleeding.md) until the start of your next turn.
+**Strained:** The size of the [burst](../../../rule/combat/burst.md) increases by 2, and you are [bleeding](../../../condition/bleeding.md) until the start of your next turn.
 
 ### Materialize {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/materialize"}
 
@@ -110,7 +110,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------------------|------------------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R damage
 - **12-16:** 5 + R damage
@@ -129,7 +129,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                               | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R damage; M < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** 4 + R damage; M < AVERAGE[, prone](../../../condition/prone.md)
@@ -148,7 +148,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------------------|------------------------------:|
 | **📏 Melee 2**                         | **🎯 One creature or object** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 3 + P damage
 - **12-16:** 6 + P damage
@@ -160,11 +160,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ## Heroic Abilities
 
-You know a range of heroic abilities, all of which cost clarity to fuel them.
+You know a range of [heroic abilities](../../../rule/general/heroic-ability.md), all of which cost clarity to fuel them.
 
 ### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../ability/talent/level-1/choke.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../ability/talent/level-1/choke.md).)
 
 ### Awe {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/awe"}
 
@@ -175,9 +175,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Effect:** If you target an ally, they gain [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
+**Effect:** If you target an ally, they gain [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn. If you target an enemy, you make a [power roll](../../../rule/dice/power-roll.md).
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -192,13 +192,13 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 |----------------------------------------------|--------------------:|
 | **📏 Ranged 10**                             | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
 - **17+:** 8 + R damage; M < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 
-**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../condition/restrained.md) by this ability, this [forced movement](../../../movement/forced-movement.md) ignores their stability.
+**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../condition/restrained.md) by this ability, this [forced movement](../../../movement/forced-movement.md) ignores their [stability](../../../rule/character/stability.md).
 
 ### Precognition {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/precognition"}
 
@@ -209,7 +209,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 |---------------------------------|------------------------:|
 | **📏 Melee 2**                  | **🎯 Self or one ally** |
 
-**Effect:** Ability rolls made against the target take a [bane](../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../common/main-actions/free-strike.md) against the source of the damage.
+**Effect:** [Ability rolls](../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../../../rule/combat/triggered-action.md) to make a [free strike](../../common/main-actions/free-strike.md) against the source of the damage.
 
 ### Smolder {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/smolder"}
 
@@ -222,7 +222,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 **Effect:** Choose the [damage type](../../../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R damage; R < WEAK, the target has weakness 5 (save ends)
 - **12-16:** 6 + R damage; R < AVERAGE, the target has weakness 5 (save ends)
@@ -230,7 +230,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../ability/talent/level-1/inertia-soak.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../ability/talent/level-1/inertia-soak.md).)
 
 ### Flashback {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/flashback"}
 
@@ -254,7 +254,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 |----------------------------------|------------------------:|
 | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target ignores [difficult terrain](../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../movement/forced-movement.md) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
+**Effect:** The target ignores [difficult terrain](../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../movement/forced-movement.md) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../../rule/character/stability.md). A creature can only be force moved this way once a turn.
 
 **Strained:** You are [weakened](../../../condition/weakened.md) (save ends). While you are [weakened](../../../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +5 bonus.
 
@@ -267,7 +267,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 |------------------------------------|------------------------:|
 | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target's stability increases by an amount equal to your [Reason](../../../rule/character/reason.md) score, and they gain 10 [temporary Stamina](../../../rule/health/temporary-stamina.md) and 2 [surges](../../../rule/resource/surge.md). This stability increase lasts until the target no longer has [temporary Stamina](../../../rule/health/temporary-stamina.md) from this ability.
+**Effect:** The target's [stability](../../../rule/character/stability.md) increases by an amount equal to your [Reason](../../../rule/character/reason.md) score, and they gain 10 [temporary Stamina](../../../rule/health/temporary-stamina.md) and 2 [surges](../../../rule/resource/surge.md). This [stability](../../../rule/character/stability.md) increase lasts until the target no longer has [temporary Stamina](../../../rule/health/temporary-stamina.md) from this ability.
 
 **Strained:** You can't use maneuvers (save ends).
 
@@ -280,6 +280,6 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 |--------------------------------|------------------------:|
 | **📏 Ranged 10**               | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double [edge](../../../rule/dice/edge.md) on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
+**Effect:** Until the start of your next turn, the target gains a +3 bonus to [speed](../../../rule/character/speed.md), and they have a double [edge](../../../rule/dice/edge.md) on the next [power roll](../../../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
 
-**Strained:** You take 1d6 damage, and you can't use triggered actions (save ends).
+**Strained:** You take 1d6 damage, and you can't use [triggered actions](../../../rule/combat/triggered-action.md) (save ends).

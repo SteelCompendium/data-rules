@@ -22,11 +22,11 @@ If the ability is ranged, the [distance](../../../rule/combat/distance.md) gains
 
 ## Heightened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/heightened-power"}
 
-If the ability deals rolled damage, it deals extra damage equal to your [Intuition](../../../rule/character/intuition.md) score.
+If the ability deals [rolled damage](../../../rule/damage/rolled-damage.md), it deals extra damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Magnified Power {data-scc="mcdm.heroes.v1/feature.null.level-7/magnified-power"}
 
-If the ability has a potency, you increase that potency by an amount equal to your [Intuition](../../../rule/character/intuition.md) score.
+If the ability has a [potency](../../../rule/character/potency.md), you increase that [potency](../../../rule/character/potency.md) by an amount equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Shared Power {data-scc="mcdm.heroes.v1/feature.null.level-7/shared-power"}
 
@@ -34,4 +34,4 @@ If the ability targets individual creatures or objects, you target one additiona
 
 ## Sharpened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/sharpened-power"}
 
-If the ability has any power roll, that roll gains an [edge](../../../rule/dice/edge.md).
+If the ability has any [power roll](../../../rule/dice/power-roll.md), that roll gains an [edge](../../../rule/dice/edge.md).

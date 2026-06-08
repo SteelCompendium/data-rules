@@ -22,7 +22,7 @@ type: ability
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage; slide 1
 - **12-16:** 5 + I holy damage; slide 2

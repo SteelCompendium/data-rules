@@ -24,7 +24,7 @@ type: ability
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 13 + A damage; M < WEAK, the target is suppressed (save ends)
 - **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)

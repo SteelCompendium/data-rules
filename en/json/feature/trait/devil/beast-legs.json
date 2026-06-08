@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your powerful legs make you faster. You have speed 6."
+      "effect": "Your powerful legs make you faster. You have [speed](scc:mcdm.heroes.v1/rule.character/speed) 6."
     }
   ],
   "feature_type": "trait",

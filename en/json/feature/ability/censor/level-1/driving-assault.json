@@ -3,7 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed in a straight line toward the target after pushing them.",
+      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) in a straight line toward the target after pushing them.",
       "name": "Effect"
     }
   ],
@@ -17,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*As you force your enemy back with your weapon, you use your faith to stay close.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Melee 1**             | **🎯 One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 3 + M damage; push 1\n- **12-16:** 6 + M damage; push 3\n- **17+:** 9 + M damage; push 5\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed in a straight line toward the target after pushing them.",
+    "content": "\n*As you force your enemy back with your weapon, you use your faith to stay close.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Melee 1**             | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 3 + M damage; push 1\n- **12-16:** 6 + M damage; push 3\n- **17+:** 9 + M damage; push 5\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) in a straight line toward the target after pushing them.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "As you force your enemy back with your weapon, you use your faith to stay close.",

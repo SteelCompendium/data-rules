@@ -5,43 +5,43 @@ scc: mcdm.heroes.v1/chapter/skills
 type: chapter
 ---
 
-Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a test, having a particular skill associated with the test increases your chance of success.
+Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a [test](../rule/test/test.md), having a particular skill associated with the [test](../rule/test/test.md) increases your chance of success.
 
 ## Applying Skills
 
-If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the [Hide](../skill/hide.md) skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an [Agility](../rule/character/agility.md) test to hide behind a barrel, or a [Presence](../rule/character/presence.md) test to disappear into a crowd.
+If you have a skill that applies to a [test](../rule/test/test.md) you make, you gain a +2 bonus to the [test](../rule/test/test.md). For instance, if your hero has the [Hide](../skill/hide.md) skill, you have a +2 bonus to any [test](../rule/test/test.md) you make that involves hiding yourself. This might include an [Agility](../rule/character/agility.md) [test](../rule/test/test.md) to hide behind a barrel, or a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) to disappear into a crowd.
 
-The +2 bonus gained for a skill isn't an [edge](../rule/dice/edge.md). A player can make a test that has both the +2 bonus for a skill and the +2 bonus for an [edge](../rule/dice/edge.md).
+The +2 bonus gained for a skill isn't an [edge](../rule/dice/edge.md). A player can make a [test](../rule/test/test.md) that has both the +2 bonus for a skill and the +2 bonus for an [edge](../rule/dice/edge.md).
 
-You can't apply more than one skill to a test.
+You can't apply more than one skill to a [test](../rule/test/test.md).
 
 ### Justify the Skill
 
-It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a test using a [characteristic](../rule/character/characteristic.md) and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus the skill represents. If the Director disagrees with you, that's the final word.
+It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a [test](../rule/test/test.md) using a [characteristic](../rule/character/characteristic.md) and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus the skill represents. If the Director disagrees with you, that's the final word.
 
-Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a [Presence](../rule/character/presence.md) test to impress a noble at a party, using the [Brag](../skill/brag.md) skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a [Presence](../rule/character/presence.md) test using the [Magic](../skill/magic.md) skill that you do have!
+Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) to impress a noble at a party, using the [Brag](../skill/brag.md) skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) using the [Magic](../skill/magic.md) skill that you do have!
 
-Sometimes you won't have a skill that applies to a test. That's okay! If your [characteristic](../rule/character/characteristic.md) score is decent, you likely have a good chance of success without a skill.
+Sometimes you won't have a skill that applies to a [test](../rule/test/test.md). That's okay! If your [characteristic](../rule/character/characteristic.md) score is decent, you likely have a good chance of success without a skill.
 
 ### Mixing Characteristics and Skills
 
-Although certain skills are often paired with one [characteristic](../rule/character/characteristic.md) more than others, a skill can apply to a test made using any [characteristic](../rule/character/characteristic.md) that makes sense. The Director has the final say on which [characteristic](../rule/character/characteristic.md) is used to complete a task, and can call for a different [characteristic](../rule/character/characteristic.md) based on the circumstances.
+Although certain skills are often paired with one [characteristic](../rule/character/characteristic.md) more than others, a skill can apply to a [test](../rule/test/test.md) made using any [characteristic](../rule/character/characteristic.md) that makes sense. The Director has the final say on which [characteristic](../rule/character/characteristic.md) is used to complete a task, and can call for a different [characteristic](../rule/character/characteristic.md) based on the circumstances.
 
-For example, intimidating someone with a purely verbal threat is a [Presence](../rule/character/presence.md) test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a [Might](../rule/character/might.md) test instead. The [Intimidate](../skill/intimidate.md) skill can apply to both tests. In the same way, scaling the side of a building is covered by a [Might](../rule/character/might.md) test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an [Agility](../rule/character/agility.md) test instead. The [Climb](../skill/climb.md) skill applies to both of these tests.
+For example, intimidating someone with a purely verbal threat is a [Presence](../rule/character/presence.md) [test](../rule/test/test.md). But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a [Might](../rule/character/might.md) [test](../rule/test/test.md) instead. The [Intimidate](../skill/intimidate.md) skill can apply to both [tests](../rule/test/test.md). In the same way, scaling the side of a building is covered by a [Might](../rule/character/might.md) [test](../rule/test/test.md), but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an [Agility](../rule/character/agility.md) [test](../rule/test/test.md) instead. The [Climb](../skill/climb.md) skill applies to both of these [tests](../rule/test/test.md).
 
 ## Many Specific Skills
 
 *Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate [Climb](../skill/climb.md), [Jump](../skill/jump.md), [Lift](../skill/lift.md), and [Swim](../skill/swim.md) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: [Pick Lock](../skill/pick-lock.md), [Pick Pocket](../skill/pick-pocket.md), and [Sabotage](../skill/sabotage.md).
 
-Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a [characteristic](../rule/character/characteristic.md). By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
+Having a wide range of specific skills means you'll frequently make [tests](../rule/test/test.md) that don't use one of your character's skills, simply applying a [characteristic](../rule/character/characteristic.md). By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a [test](../rule/test/test.md). That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
 Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](../class/elementalist.md) who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
-The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../skill/climb.md) skill for a +2 bonus to my [Presence](../rule/character/presence.md) test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
+The rules for skills allow for them to be flexibly applied to any [test](../rule/test/test.md) that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../skill/climb.md) skill for a +2 bonus to my [Presence](../rule/character/presence.md) [test](../rule/test/test.md)?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many [tests](../rule/test/test.md) as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
-> **[Edges](../rule/dice/edge.md) on Tests With Specific Skills**
+> **[Edges](../rule/dice/edge.md) on [Tests](../rule/test/test.md) With Specific Skills**
 >
-> Certain features and abilities grant a creature an [edge](../rule/dice/edge.md) on tests made with a specific skill. A creature making a test where the specific skill would apply gains an [edge](../rule/dice/edge.md) on the test even if they don't have the skill. For example, the [conduit's](../class/conduit.md) Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the [Hide](../skill/hide.md) skill an [edge](../rule/dice/edge.md) on those tests. Any creature who attempts to hide in the fog gains an [edge](../rule/dice/edge.md) on the test as long as the [Hide](../skill/hide.md) skill would apply to that test, regardless of whether they have that skill or not.
+> Certain features and abilities grant a creature an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made with a specific skill. A creature making a [test](../rule/test/test.md) where the specific skill would apply gains an [edge](../rule/dice/edge.md) on the [test](../rule/test/test.md) even if they don't have the skill. For example, the [conduit's](../class/conduit.md) Blessing of Fortunate Weather can create foggy weather that grants creatures who make [tests](../rule/test/test.md) using the [Hide](../skill/hide.md) skill an [edge](../rule/dice/edge.md) on those [tests](../rule/test/test.md). Any creature who attempts to hide in the fog gains an [edge](../rule/dice/edge.md) on the [test](../rule/test/test.md) as long as the [Hide](../skill/hide.md) skill would apply to that [test](../rule/test/test.md), regardless of whether they have that skill or not.
 
 > **Are All Skills Equal?**
 >
@@ -55,9 +55,9 @@ Skills are broken down into five skill groups: crafting, exploration, interperso
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
 
-Rewards for tests made with crafting skills typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
+Rewards for [tests](../rule/test/test.md) made with crafting skills typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
 
-Consequences for tests made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
+Consequences for [tests](../rule/test/test.md) made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
 
 #### Crafting Skills Table
 
@@ -118,9 +118,9 @@ Craft clothing of cloth or leather.
 
 Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
 
-Rewards for tests made with exploration skills typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
+Rewards for [tests](../rule/test/test.md) made with exploration skills typically include helping another creature engaging in the same task succeed without needing to also make a [test](../rule/test/test.md), automatically succeeding on a follow-up [test](../rule/test/test.md) while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
 
-Consequences for tests made with exploration skills include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
+Consequences for [tests](../rule/test/test.md) made with exploration skills include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
 
 #### Exploration Skills Table
 
@@ -181,9 +181,9 @@ Move through deep liquid.
 
 Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see Chapter 11: [Negotiation](negotiation.md)). Aside from the [Handle Animals](../skill/handle-animals.md) skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
 
-Rewards for tests made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
+Rewards for [tests](../rule/test/test.md) made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
 
-Consequences for tests made with interpersonal skills include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
+Consequences for [tests](../rule/test/test.md) made with interpersonal skills include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
 
 #### Interpersonal Skills Table
 
@@ -259,9 +259,9 @@ Read the emotions and body language of other creatures.
 
 Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.
 
-Rewards for tests made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.
+Rewards for [tests](../rule/test/test.md) made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a [test](../rule/test/test.md), automatically succeeding on a follow-up [test](../rule/test/test.md) while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.
 
-Consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
+Consequences for [tests](../rule/test/test.md) made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
 #### Intrigue Skills Table
 
@@ -332,9 +332,9 @@ Follow a trail that another creature has left behind.
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
 
-Rewards for tests made with lore skills typically include learning an extra piece of useful information.
+Rewards for [tests](../rule/test/test.md) made with lore skills typically include learning an extra piece of useful information.
 
-Consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the Optional Rule: Secret Reactive Tests sidebar earlier in this chapter).
+Consequences for [tests](../rule/test/test.md) made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard [tests](../rule/test/test.md) with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the [power roll](../rule/dice/power-roll.md) (see the Optional Rule: Secret [Reactive Tests](../rule/test/reactive-test.md) sidebar earlier in this chapter).
 
 #### Lore Skills Table
 

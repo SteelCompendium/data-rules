@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: "*You shoot forth a purple beam of psychic force that moves your target.*\n\n| **Psionic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  | Main action                   |\n|------------------------------|-------------------------------|\n| **\U0001F4CF Ranged 10**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 2 + R, I, or P psychic damage; slide 1\n- **12-16:** 5 + R, I, or P psychic damage; slide 2\n- **17+:** 7 + R, I, or P psychic damage; slide 3"
+    - effect: "*You shoot forth a purple beam of psychic force that moves your target.*\n\n| **Psionic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  | Main action                   |\n|------------------------------|-------------------------------|\n| **\U0001F4CF Ranged 10**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 2 + R, I, or P psychic damage; slide 1\n- **12-16:** 5 + R, I, or P psychic damage; slide 2\n- **17+:** 7 + R, I, or P psychic damage; slide 3"
 feature_type: ability
 flavor: You shoot forth a purple beam of psychic force that moves your target.
 keywords:

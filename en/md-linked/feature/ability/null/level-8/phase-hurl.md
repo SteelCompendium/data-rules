@@ -24,7 +24,7 @@ type: ability
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.conduit.level-9/9th-level-domain-ability
 type: feature
 ---
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](../../../class/conduit.md) Domain Abilities table.
+Choose one of your domains. You gain a [heroic ability](../../../rule/general/heroic-ability.md) from that domain, as shown on the 9th-Level [Conduit](../../../class/conduit.md) Domain Abilities table.
 
 ### 9th-Level Conduit Domain Abilities Table
 
@@ -45,7 +45,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------|------------------------:|
 | **📏 Ranged 10**   | **🎯 Self or one ally** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each of the target's power rolls has its outcome improved by one tier.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each of the target's [power rolls](../../../rule/dice/power-roll.md) has its outcome improved by one tier.
 
 ### Blessing of the Fortress {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/blessing-of-the-fortress"}
 
@@ -67,19 +67,19 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------|----------------:|
 | **📏 Ranged 10**   |  **🎯 Special** |
 
-**Effect:** You conjure a [size](../../../rule/character/size.md) 4 dragon that appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The dragon has speed 6 and can [fly](../../../movement/fly.md), stability 4, 100 [Stamina](../../../rule/health/stamina.md), immunity all to fire damage, and uses your [characteristics](../../../rule/character/characteristic.md). The dragon disappears at the end of the encounter, if their [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md).
+**Effect:** You conjure a [size](../../../rule/character/size.md) 4 dragon that appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The dragon has [speed](../../../rule/character/speed.md) 6 and can [fly](../../../movement/fly.md), [stability](../../../rule/character/stability.md) 4, 100 [Stamina](../../../rule/health/stamina.md), immunity all to fire damage, and uses your [characteristics](../../../rule/character/characteristic.md). The dragon disappears at the end of the encounter, if their [Stamina](../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../rule/health/dying.md).
 
-On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
+On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 [cube](../../../rule/combat/cube.md) within 1 square of them. Make the following [power roll](../../../rule/dice/power-roll.md) targeting each enemy in the area.
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 5 fire damage
 - **12-16:** 9 fire damage
 - **17+:** 12 fire damage
 
-Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon [strike](../../../rule/combat/strike.md) with their claw against an adjacent creature or object. The dragon can also make this [strike](../../../rule/combat/strike.md) as a [free strike](../../common/main-actions/free-strike.md).
+Additionally, you can use a maneuver to move the dragon up to their [speed](../../../rule/character/speed.md), or to make a melee weapon [strike](../../../rule/combat/strike.md) with their claw against an adjacent creature or object. The dragon can also make this [strike](../../../rule/combat/strike.md) as a [free strike](../../common/main-actions/free-strike.md).
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I damage
 - **12-16:** 5 + I damage
@@ -92,15 +92,15 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 5 cube within 5**  | **🎯 Each enemy in the area** |
+| **📏 5 [cube](../../../rule/combat/cube.md) within 5**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 lightning damage, 2 sonic damage
 - **12-16:** 3 lightning damage, 3 sonic damage
 - **17+:** 5 lightning damage, 5 sonic damage
 
-**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../../../rule/health/dying.md). At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.
+**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../../../rule/health/dying.md). At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its [power roll](../../../rule/dice/power-roll.md).
 
 ### Night Falls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls"}
 
@@ -109,7 +109,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 | **Area, Magic, Ranged** |  **Main action** |
 |-------------------------|-----------------:|
-| **📏 5 cube within 10** |   **🎯 Special** |
+| **📏 5 [cube](../../../rule/combat/cube.md) within 10** |   **🎯 Special** |
 
 **Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
 
@@ -122,7 +122,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 |--------------------|-------------------:|
 | **📏 Ranged 10**   | **🎯 Four allies** |
 
-**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../../../rule/health/recoveries.md), can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../condition/prone.md).
+**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../../../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of their turn, and can stand up if they [are prone](../../../condition/prone.md).
 
 ### Righteous Phalanx {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx"}
 
@@ -142,9 +142,9 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 5 cube within 10** | **🎯 Each enemy in the area** |
+| **📏 5 [cube](../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 9 fire damage
 - **12-16:** 14 fire damage
@@ -153,13 +153,13 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 ### Thorn Cage {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/thorn-cage"}
 
 
-*Vines burst forth from the ground and bind your foe, slowly closing around them.*
+*Vines [burst](../../../rule/combat/burst.md) forth from the ground and bind your foe, slowly closing around them.*
 
 | **Magic, Ranged, [Strike](../../../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 10 + I damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -170,7 +170,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 ### Word of Final Redemption {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption"}
 
 
-*Your death will fuel our victory.*
+*Your death will fuel our [victory](../../../rule/resource/victories.md).*
 
 | **Magic, Ranged**  |  **Free triggered** |
 |--------------------|--------------------:|
@@ -189,7 +189,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)

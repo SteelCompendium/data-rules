@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* [Hammer and Anvil](../../ability/tactician/level-1/hammer-and-anvil.md).)
+    - effect: Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 focus to use. (*Quick Build:* [Hammer and Anvil](../../ability/tactician/level-1/hammer-and-anvil.md).)
 feature_type: feature
 metadata:
     class: tactician

@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: "null"
-distance: 1 burst
+distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effect: You can slide one adjacent enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
 file_basename: dance-of-blows
@@ -23,7 +23,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 1 burst
+distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: You can slide one adjacent enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
@@ -35,7 +35,7 @@ keywords:
 metadata:
     action_type: Main action
     class: "null"
-    distance: 1 burst
+    distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: You can slide one adjacent enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
     flavor: You strike everywhere at once, tricking an enemy into moving out of position.
     keywords:

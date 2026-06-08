@@ -5,7 +5,7 @@ cost: 7 Essence
 cost_amount: "7"
 cost_resource: Essence
 distance: Ranged 10
-effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls. At the end of their first turn, they have a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll). At the end of their first turn, they have a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll). At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 feature_type: ability
 file_basename: erase
 file_dpath: feature/ability/elementalist/level-3
@@ -29,7 +29,7 @@ type: ability
 cost: 7 Essence
 distance: Ranged 10
 effects:
-    - effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls. At the end of their first turn, they have a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+    - effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll). At the end of their first turn, they have a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll). At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 feature_type: ability
 flavor: With a flick of the wrist, you phase creatures out of existence.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: elementalist
     cost: 7 Essence
     distance: Ranged 10
-    effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls. At the end of their first turn, they have a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+    effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll). At the end of their first turn, they have a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll). At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
     flavor: With a flick of the wrist, you phase creatures out of existence.
     keywords:
         - Magic

@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: "\n*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
+    - effect: "\n*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
 feature_type: ability
 flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
 keywords:

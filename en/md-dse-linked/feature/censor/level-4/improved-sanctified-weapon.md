@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
+    - effect: The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 bonus to [rolled damage](../../../rule/damage/rolled-damage.md) instead of +1.
 feature_type: feature
 metadata:
     class: censor

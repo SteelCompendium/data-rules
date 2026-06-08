@@ -4,7 +4,7 @@ class: troubadour
 cost: 5 Drama
 cost_amount: "5"
 cost_resource: Drama
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effect: Each target can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares. Any [teleport](scc:mcdm.heroes.v1/movement/teleport)ed target who was [slowed](scc:mcdm.heroes.v1/condition/slowed) is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed).
 feature_type: ability
 file_basename: flip-the-script
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Drama
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: Each target can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares. Any [teleport](scc:mcdm.heroes.v1/movement/teleport)ed target who was [slowed](scc:mcdm.heroes.v1/condition/slowed) is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed).
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 5 Drama
-    distance: 3 burst
+    distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: Each target can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares. Any [teleport](scc:mcdm.heroes.v1/movement/teleport)ed target who was [slowed](scc:mcdm.heroes.v1/condition/slowed) is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed).
     flavor: You try a different take on events, justifying the new locations everyone ended up in.
     keywords:

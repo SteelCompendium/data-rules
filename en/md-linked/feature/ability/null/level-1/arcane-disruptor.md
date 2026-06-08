@@ -24,7 +24,7 @@ type: ability
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
 - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)

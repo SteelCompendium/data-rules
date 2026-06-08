@@ -6,11 +6,11 @@ scc: mcdm.heroes.v1/feature.conduit.level-1/conduit-ward
 type: feature
 ---
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](bastion-ward.md).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a [respite](../../../rule/resource/respite.md) activity. (*Quick Build:* [Bastion Ward](bastion-ward.md).)
 
 ## Bastion Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/bastion-ward"}
 
-Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to saving throws.
+Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to [saving throws](../../../rule/general/saving-throw.md).
 
 ## Quickness Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/quickness-ward"}
 

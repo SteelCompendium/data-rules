@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.shadow.level-5/9-insight-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 insight to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 9 insight to use.
 
 ## Blackout {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/blackout"}
 
@@ -15,9 +15,9 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 | **Area, Magic** |   **Maneuver** |
 |-----------------|---------------:|
-| **📏 3 burst**  | **🎯 Special** |
+| **📏 3 [burst](../../../rule/combat/burst.md)**  | **🎯 Special** |
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies [concealment](../../../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../../../movement/shifting.md) to a new location within the area and make a [free strike](../../common/main-actions/free-strike.md) against them.
+**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies [concealment](../../../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) to a new location within the area and make a [free strike](../../common/main-actions/free-strike.md) against them.
 
 ## Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 
@@ -28,9 +28,9 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
-**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
+**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../rule/dice/power-roll.md) upon your return.
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + A corruption damage
 - **12-16:** 13 + A corruption damage
@@ -45,13 +45,13 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 |-----------------------------|------------------------------:|
 | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 10 damage
 - **12-16:** 14 damage
 - **17+:** 20 damage
 
-**Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
+**Effect:** You disappear before making the [power roll](../../../rule/dice/power-roll.md). After the [power roll](../../../rule/dice/power-roll.md) is resolved, you appear in the first unoccupied space at the far end of the line.
 
 ## You Talk Too Much {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much"}
 
@@ -62,7 +62,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 10 + A damage; P < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 15 + A damage; P < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)

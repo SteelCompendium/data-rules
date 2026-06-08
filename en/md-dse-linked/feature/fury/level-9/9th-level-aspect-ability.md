@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [primordial aspect](../level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+        Your [primordial aspect](../level-1/primordial-aspect.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
         ##### 9th-Level Berserker Abilities
 

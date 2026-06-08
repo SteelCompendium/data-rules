@@ -11,7 +11,7 @@ type: trait
 
 You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:
 
-**Detection:** Pick a specific type of creature (such as goblins or [humans](../../../ancestry/human.md)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have line of effect to the creature or object. You can change the type of creature or object as a maneuver.
+**Detection:** Pick a specific type of creature (such as goblins or [humans](../../../ancestry/human.md)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have [line of effect](../../../rule/combat/line-of-effect.md) to the creature or object. You can change the type of creature or object as a maneuver.
 
 **Light:** Your skin sheds light for 10 squares. You can turn this light on and off as a maneuver.
 
@@ -29,7 +29,7 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 ### Grounded {data-scc="mcdm.heroes.v1/feature.trait.dwarf/grounded"}
 
-Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to stability.
+Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to [stability](../../../rule/character/stability.md).
 
 ### Spark Off Your Skin {data-scc="mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin"}
 
@@ -37,7 +37,7 @@ Your stone skin affords you potent protection. You have a +6 bonus to [Stamina](
 
 ### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 
-Your body is made to withstand the blows of your enemies. Your [Might](../../../rule/character/might.md) score is treated as 1 higher for the purpose of resisting potencies, and you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) tests when called for to resist environmental effects or a creature's traits or abilities.
+Your body is made to withstand the blows of your enemies. Your [Might](../../../rule/character/might.md) score is treated as 1 higher for the purpose of resisting [potencies](../../../rule/character/potency.md), and you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) [tests](../../../rule/test/test.md) when called for to resist environmental effects or a creature's traits or abilities.
 
 ### Stone Singer {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stone-singer"}
 

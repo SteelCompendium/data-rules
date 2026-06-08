@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: censor
-distance: 2 cube within 1
+distance: 2 [cube](../../../../rule/combat/cube.md) within 1
 feature_type: ability
 file_basename: back-blasphemer
 file_dpath: feature/ability/censor/level-1
@@ -23,9 +23,9 @@ type: ability
 ---
 
 ```ds-feature
-distance: 2 cube within 1
+distance: 2 [cube](../../../../rule/combat/cube.md) within 1
 effects:
-    - effect: "\n*You channel power through your weapon to repel foes.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 2 cube within 1**         | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** 2 holy damage; push 1\n- **12-16:** 4 holy damage; push 2\n- **17+:** 6 holy damage; push 3"
+    - effect: "\n*You channel power through your weapon to repel foes.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 2 [cube](../../../../rule/combat/cube.md) within 1**         | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** 2 holy damage; push 1\n- **12-16:** 4 holy damage; push 2\n- **17+:** 6 holy damage; push 3"
 feature_type: ability
 flavor: You channel power through your weapon to repel foes.
 keywords:
@@ -36,7 +36,7 @@ keywords:
 metadata:
     action_type: Main action
     class: censor
-    distance: 2 cube within 1
+    distance: 2 [cube](../../../../rule/combat/cube.md) within 1
     flavor: You channel power through your weapon to repel foes.
     keywords:
         - Area

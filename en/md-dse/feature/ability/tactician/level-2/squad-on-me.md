@@ -4,8 +4,8 @@ class: tactician
 cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
-distance: 1 burst
-effect: Until the start of your next turn, each target has a bonus to stability equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+effect: Until the start of your next turn, each target has a bonus to [stability](scc:mcdm.heroes.v1/rule.character/stability) equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: squad-on-me
 file_dpath: feature/ability/tactician/level-2
@@ -24,9 +24,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Focus
-distance: 1 burst
+distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: Until the start of your next turn, each target has a bonus to stability equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+    - effect: Until the start of your next turn, each target has a bonus to [stability](scc:mcdm.heroes.v1/rule.character/stability) equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 flavor: Together we are invincible!
 keywords:
@@ -35,8 +35,8 @@ metadata:
     action_type: Maneuver
     class: tactician
     cost: 5 Focus
-    distance: 1 burst
-    effect: Until the start of your next turn, each target has a bonus to stability equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+    distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    effect: Until the start of your next turn, each target has a bonus to [stability](scc:mcdm.heroes.v1/rule.character/stability) equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: Together we are invincible!
     keywords:
         - Area

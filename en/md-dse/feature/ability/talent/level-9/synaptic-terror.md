@@ -4,8 +4,8 @@ class: talent
 cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
-distance: 3 burst
-effect: You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+effect: You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) until the start of your next turn. Each target enemy is affected by the ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
 feature_type: ability
 file_basename: synaptic-terror
 file_dpath: feature/ability/talent/level-9
@@ -26,9 +26,9 @@ type: ability
 
 ```ds-feature
 cost: 11 Clarity
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
+    - effect: You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) until the start of your next turn. Each target enemy is affected by the ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
 feature_type: ability
 flavor: You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.
 keywords:
@@ -39,8 +39,8 @@ metadata:
     action_type: Main action
     class: talent
     cost: 11 Clarity
-    distance: 3 burst
-    effect: You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
+    distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    effect: You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) until the start of your next turn. Each target enemy is affected by the ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
     flavor: You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.
     keywords:
         - Area

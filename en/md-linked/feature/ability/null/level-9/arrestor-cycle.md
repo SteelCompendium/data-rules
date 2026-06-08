@@ -26,7 +26,7 @@ type: ability
 
 **Trigger:** The triggering creature starts their turn.
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** I < WEAK, the target loses their turn
 - **12-16:** I < AVERAGE, the target loses their turn

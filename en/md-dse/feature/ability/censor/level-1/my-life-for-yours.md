@@ -16,7 +16,7 @@ level: "1"
 name: My Life for Yours
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours
 source: mcdm.heroes.v1
-spend: '1 Wrath: You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](scc:mcdm.heroes.v1/condition/prone) target can stand up.'
+spend: '1 Wrath: You can end one effect on the target that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn, or a [prone](scc:mcdm.heroes.v1/condition/prone) target can stand up.'
 subtype: triggered
 target: Self or one ally
 trigger: The target starts their turn or takes damage.
@@ -27,7 +27,7 @@ type: ability
 distance: Ranged 10
 effects:
     - effect: You spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and the target regains [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries).
-    - effect: '1 Wrath: You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](scc:mcdm.heroes.v1/condition/prone) target can stand up.'
+    - effect: '1 Wrath: You can end one effect on the target that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn, or a [prone](scc:mcdm.heroes.v1/condition/prone) target can stand up.'
       name: Spend
 feature_type: ability
 flavor: You channel some of your vitality into more resilience for you or an ally.
@@ -46,7 +46,7 @@ metadata:
     level: "1"
     name: My Life for Yours
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours
-    spend: '1 Wrath: You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](scc:mcdm.heroes.v1/condition/prone) target can stand up.'
+    spend: '1 Wrath: You can end one effect on the target that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn, or a [prone](scc:mcdm.heroes.v1/condition/prone) target can stand up.'
     subtype: triggered
     target: Self or one ally
     trigger: The target starts their turn or takes damage.

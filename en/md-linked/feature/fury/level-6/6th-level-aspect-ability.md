@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.fury.level-6/6th-level-aspect-ability
 type: feature
 ---
 
-Your [primordial aspect](../level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../level-1/primordial-aspect.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 6th-Level Berserker Abilities
 
@@ -21,9 +21,9 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You jump up to your maximum jump [distance](../../../rule/combat/distance.md) and make one power roll that targets each creature adjacent to the space where you land.
+**Effect:** You jump up to your maximum jump [distance](../../../rule/combat/distance.md) and make one [power roll](../../../rule/dice/power-roll.md) that targets each creature adjacent to the space where you land.
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 4 damage; push 1
 - **12-16:** 7 damage; push 2
@@ -38,7 +38,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 7 + M damage; push 3
 - **12-16:** 11 + M damage; push 5
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 
 **Trigger:** You reduce a creature to 0 [Stamina](../../../rule/health/stamina.md) with a [strike](../../../rule/combat/strike.md).
 
-**Effect:** You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.
+**Effect:** You target a creature adjacent to you with the same strike, using the same [power roll](../../../rule/dice/power-roll.md) as the triggering strike.
 
 ### Seek and Destroy {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy"}
 
@@ -72,9 +72,9 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to your speed.
+**Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md).
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; P < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 6 + M damage; P < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -95,7 +95,7 @@ Choose one of the following abilities.
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 8 damage; M < WEAK, [grabbed](../../../condition/grabbed.md)
 - **12-16:** 13 damage; M < AVERAGE, [grabbed](../../../condition/grabbed.md)
@@ -110,8 +110,8 @@ Choose one of the following abilities.
 
 | **Area, Magic** |                     **Maneuver** |
 |-----------------|---------------------------------:|
-| **📏 3 aura**   | **🎯 Each creature in the area** |
+| **📏 3 [aura](../../../rule/combat/aura.md)**   | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../../../rule/damage/damage-type.md) equal to twice your [Might](../../../rule/character/might.md) score at the end of each of your turns. Additionally, you can [fly](../../../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../../../movement/fly.md) until the start of their next turn or until the effect ends.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../../../rule/damage/damage-type.md) equal to twice your [Might](../../../rule/character/might.md) score at the end of each of your turns. Additionally, you can [fly](../../../movement/fly.md) while the [aura](../../../rule/combat/aura.md) is active. Each ally target who starts or ends their turn in the area can also [fly](../../../movement/fly.md) until the start of their next turn or until the effect ends.
 
 **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../stormwight-kits/primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.

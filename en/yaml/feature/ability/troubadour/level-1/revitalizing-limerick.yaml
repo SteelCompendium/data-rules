@@ -1,4 +1,4 @@
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
     - effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
@@ -11,8 +11,8 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    content: "\n*There once was a man from Capital...*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **\U0001F4CF 5 aura**                | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
-    distance: 5 aura
+    content: "\n*There once was a man from Capital...*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **\U0001F4CF 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)**                | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. Each chosen target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
+    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
     feature_type: ability
     flavor: There once was a man from Capital...
     item_id: revitalizing-limerick

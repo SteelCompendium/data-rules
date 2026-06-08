@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.null.level-8/11-discipline-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 11 discipline to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 11 discipline to use.
 
 ## Arcane Purge {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 13 + A damage; M < WEAK, the target is suppressed (save ends)
 - **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -49,9 +49,9 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 
 | **Area, Psionic**      |               **Main action** |
 |------------------------|------------------------------:|
-| **📏 3 cube within 1** | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 12 psychic damage; push 3
 - **12-16:** 17 psychic damage; push 5

@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You can push your body to move at incredible speeds. Your speed is 7.
+    - effect: You can push your body to move at incredible [speeds](../../../rule/character/speed.md). Your [speed](../../../rule/character/speed.md) is 7.
 feature_type: trait
 metadata:
     ancestry: memonek

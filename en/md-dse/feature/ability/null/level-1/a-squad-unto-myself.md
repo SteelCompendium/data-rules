@@ -4,8 +4,8 @@ class: "null"
 cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
-distance: 2 burst
-effect: You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a free maneuver before or after you use this ability.
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+effect: You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) before or after you use this ability.
 feature_type: ability
 file_basename: a-squad-unto-myself
 file_dpath: feature/ability/null/level-1
@@ -26,9 +26,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Discipline
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a free maneuver before or after you use this ability.
+    - effect: You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) before or after you use this ability.
 feature_type: ability
 flavor: You move so quickly, it seems as though an army assaulted your foes.
 keywords:
@@ -39,8 +39,8 @@ metadata:
     action_type: Main action
     class: "null"
     cost: 5 Discipline
-    distance: 2 burst
-    effect: You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a free maneuver before or after you use this ability.
+    distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    effect: You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) before or after you use this ability.
     flavor: You move so quickly, it seems as though an army assaulted your foes.
     keywords:
         - Area

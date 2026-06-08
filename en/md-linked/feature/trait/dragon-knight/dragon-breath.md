@@ -5,7 +5,7 @@ scc: mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath
 type: trait
 ---
 
-You have the following signature ability.
+You have the following [signature ability](../../../rule/combat/signature-ability.md).
 
 ## Dragon Breath {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath"}
 
@@ -13,9 +13,9 @@ You have the following signature ability.
 
 | **Area, Magic**        |               **Main action** |
 |------------------------|------------------------------:|
-| **📏 3 cube within 1** | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 4 damage

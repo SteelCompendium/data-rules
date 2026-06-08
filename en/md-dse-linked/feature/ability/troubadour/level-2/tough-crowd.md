@@ -4,8 +4,8 @@ class: troubadour
 cost: 5 Drama
 cost_amount: "5"
 cost_resource: Drama
-distance: 3 cube within 10
-effect: The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
+effect: The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy in the area.
 feature_type: ability
 file_basename: tough-crowd
 file_dpath: feature/ability/troubadour/level-2
@@ -26,9 +26,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Drama
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
-    - effect: The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.
+    - effect: The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy in the area.
 feature_type: ability
 flavor: Your fans don't seem to like the opening act...
 keywords:
@@ -39,8 +39,8 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 5 Drama
-    distance: 3 cube within 10
-    effect: The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.
+    distance: 3 [cube](../../../../rule/combat/cube.md) within 10
+    effect: The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy in the area.
     flavor: Your fans don't seem to like the opening act...
     keywords:
         - Area

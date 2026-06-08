@@ -4,7 +4,7 @@ class: troubadour
 cost: 7 Drama
 cost_amount: "7"
 cost_resource: Drama
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each ally in the area can [shift](../../../../movement/shifting.md) up to 2 squares.
 feature_type: ability
 file_basename: infernal-gavotte
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 7 Drama
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: Each ally in the area can [shift](../../../../movement/shifting.md) up to 2 squares.
 feature_type: ability
@@ -41,7 +41,7 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 7 Drama
-    distance: 3 burst
+    distance: 3 [burst](../../../../rule/combat/burst.md)
     effect: Each ally in the area can [shift](../../../../movement/shifting.md) up to 2 squares.
     flavor: A spicy performance lights a fire under your allies' feet.
     keywords:

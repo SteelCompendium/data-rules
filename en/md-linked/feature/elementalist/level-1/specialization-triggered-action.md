@@ -6,11 +6,11 @@ scc: mcdm.heroes.v1/feature.elementalist.level-1/specialization-triggered-action
 type: feature
 ---
 
-Your [elemental specialization](elemental-specialization.md) grants you a triggered action, as shown on the Specialization Triggered Actions table.
+Your [elemental specialization](elemental-specialization.md) grants you a [triggered action](../../../rule/combat/triggered-action.md), as shown on the Specialization [Triggered Actions](../../../rule/combat/triggered-action.md) table.
 
 ### Elemental Specialization Triggered Actions Table
 
-| Specialization  | Triggered Action          |
+| Specialization  | [Triggered Action](../../../rule/combat/triggered-action.md)          |
 |-----------------|---------------------------|
 | Earth           | [Skin Like Castle Walls](../../ability/elementalist/level-1/skin-like-castle-walls.md)    |
 | Fire            | [Explosive Assistance](../../ability/elementalist/level-1/explosive-assistance.md)      |
@@ -60,7 +60,7 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 
 **Effect:** The target takes half the damage.
 
-**Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
+**Spend 1 Essence:** If the damage has any [potency](../../../rule/character/potency.md) effects associated with it, the [potency](../../../rule/character/potency.md) is reduced by 1 for the target.
 
 ### Subtle Relocation {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/subtle-relocation"}
 

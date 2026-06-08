@@ -4,12 +4,12 @@ class: troubadour
 cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
-distance: 3 burst
-effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+effect: Unless you score a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
 feature_type: ability
 file_basename: action-hero
 file_dpath: feature/ability/troubadour/level-5
-flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
+flavor: You wield your weapon at blistering [speed](scc:mcdm.heroes.v1/rule.character/speed), leaving everyone around you fighting for their lives.
 item_id: action-hero
 item_name: Action Hero
 keywords:
@@ -26,11 +26,11 @@ type: ability
 
 ```ds-feature
 cost: 9 Drama
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
+    - effect: Unless you score a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
 feature_type: ability
-flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
+flavor: You wield your weapon at blistering [speed](scc:mcdm.heroes.v1/rule.character/speed), leaving everyone around you fighting for their lives.
 keywords:
     - Area
     - Melee
@@ -39,9 +39,9 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 9 Drama
-    distance: 3 burst
-    effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
-    flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
+    distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    effect: Unless you score a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
+    flavor: You wield your weapon at blistering [speed](scc:mcdm.heroes.v1/rule.character/speed), leaving everyone around you fighting for their lives.
     keywords:
         - Area
         - Melee

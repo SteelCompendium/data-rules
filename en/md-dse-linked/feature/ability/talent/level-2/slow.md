@@ -5,7 +5,7 @@ cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
 distance: Ranged 10
-effect: A target can't use triggered actions while their speed is reduced this way.
+effect: A target can't use [triggered actions](../../../../rule/combat/triggered-action.md) while their [speed](../../../../rule/character/speed.md) is reduced this way.
 feature_type: ability
 file_basename: slow
 file_dpath: feature/ability/talent/level-2
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Clarity
 distance: Ranged 10
 effects:
-    - effect: A target can't use triggered actions while their speed is reduced this way.
+    - effect: A target can't use [triggered actions](../../../../rule/combat/triggered-action.md) while their [speed](../../../../rule/character/speed.md) is reduced this way.
 feature_type: ability
 flavor: Perhaps they wonder why everyone else is moving so quickly?
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 5 Clarity
     distance: Ranged 10
-    effect: A target can't use triggered actions while their speed is reduced this way.
+    effect: A target can't use [triggered actions](../../../../rule/combat/triggered-action.md) while their [speed](../../../../rule/character/speed.md) is reduced this way.
     flavor: Perhaps they wonder why everyone else is moving so quickly?
     keywords:
         - Chronopathy

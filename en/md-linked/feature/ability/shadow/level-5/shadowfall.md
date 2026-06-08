@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 9 Insight
 distance: 10 x 1 line within 1
-effect: You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
+effect: You disappear before making the [power roll](../../../../rule/dice/power-roll.md). After the [power roll](../../../../rule/dice/power-roll.md) is resolved, you appear in the first unoccupied space at the far end of the line.
 flavor: You vanish. They fall. You reappear.
 keywords:
     - Area
@@ -23,10 +23,10 @@ type: ability
 |-----------------------------|------------------------------:|
 | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 10 damage
 - **12-16:** 14 damage
 - **17+:** 20 damage
 
-**Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
+**Effect:** You disappear before making the [power roll](../../../../rule/dice/power-roll.md). After the [power roll](../../../../rule/dice/power-roll.md) is resolved, you appear in the first unoccupied space at the far end of the line.

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an [Intuition](../../../rule/character/intuition.md) test, you can make a [Presence](../../../rule/character/presence.md) test instead.
+    - effect: Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an [Intuition](../../../rule/character/intuition.md) [test](../../../rule/test/test.md), you can make a [Presence](../../../rule/character/presence.md) [test](../../../rule/test/test.md) instead.
 feature_type: feature
 metadata:
     class: censor

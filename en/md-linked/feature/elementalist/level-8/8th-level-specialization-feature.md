@@ -19,21 +19,21 @@ Your [elemental specialization](../level-1/elemental-specialization.md) grants y
 
 ## Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star"}
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within [distance](../../../rule/combat/distance.md) of your [Hurl Element](../../ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this [forced movement](../../../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../../../movement/forced-movement.md) ignores stability for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within [distance](../../../rule/combat/distance.md) of your [Hurl Element](../../ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their [stability](../../../rule/character/stability.md) reduces this [forced movement](../../../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../../../movement/forced-movement.md) ignores [stability](../../../rule/character/stability.md) for your allies.
 
-Additionally, your [Mantle of Essence](../level-4/mantle-of-essence.md) improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.
+Additionally, your [Mantle of Essence](../level-4/mantle-of-essence.md) improves. While in the area of the [aura](../../../rule/combat/aura.md), enemies and objects have their [stability](../../../rule/character/stability.md) reduced by an amount equal to your level.
 
 ## Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/chimeric-manifestation"}
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../../complication/animal-form.md) as a free maneuver the first time you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../../complication/animal-form.md) as a [free maneuver](../../../rule/combat/free-maneuver.md) the first time you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../../../complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../../../complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest [speed](../../../rule/character/speed.md) between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
 ## The Flame Primordial {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/the-flame-primordial"}
 
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../../ability/elementalist/level-1/return-to-formlessness.md) ability instead.
+You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to target it with your [Return to Formlessness](../../ability/elementalist/level-1/return-to-formlessness.md) ability instead.
 
 Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your [Reason](../../../rule/character/reason.md) score until the start of their next turn. This increases to twice your [Reason](../../../rule/character/reason.md) score if the enemy is made of or is wearing mostly metal.
 
@@ -44,15 +44,15 @@ You have the following ability.
 ### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth"}
 
 
-*The ground rumbles as an elemental bursts forth, ready to serve.*
+*The ground rumbles as an elemental [bursts](../../../rule/combat/burst.md) forth, ready to serve.*
 
 | **Earth, Magic, Ranged** | **Main action** |
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../../../rule/combat/distance.md). The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
+**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../../../rule/combat/distance.md). The source takes their turn immediately after you, moving up to their [speed](../../../rule/character/speed.md) and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
 
-The source starts an encounter at full [Stamina](../../../rule/health/stamina.md), but maintains their current [Stamina](../../../rule/health/stamina.md) throughout the encounter, even if they are dismissed and you use this ability again. They can't regain [Stamina](../../../rule/health/stamina.md) during the encounter. When the source's [Stamina](../../../rule/health/stamina.md) is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
+The source starts an encounter at full [Stamina](../../../rule/health/stamina.md), but maintains their current [Stamina](../../../rule/health/stamina.md) throughout the encounter, even if they are dismissed and you use this ability again. They can't regain [Stamina](../../../rule/health/stamina.md) during the encounter. When the source's [Stamina](../../../rule/health/stamina.md) is reduced to 0, you can't use this ability again until you earn 1 or more [Victories](../../../rule/resource/victories.md).
 
 **Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
 
@@ -64,7 +64,7 @@ The source starts an encounter at full [Stamina](../../../rule/health/stamina.md
 >
 >|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
 >|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
->|    **2**<br>[Size](../../../rule/character/size.md)    |     **6**<br>Speed     | **45**<br>[Stamina](../../../rule/health/stamina.md) |  **5**<br>Stability   | **5**<br>[Free Strike](../../common/main-actions/free-strike.md) |
+>|    **2**<br>[Size](../../../rule/character/size.md)    |     **6**<br>[Speed](../../../rule/character/speed.md)     | **45**<br>[Stamina](../../../rule/health/stamina.md) |  **5**<br>[Stability](../../../rule/character/stability.md)   | **5**<br>[Free Strike](../../common/main-actions/free-strike.md) |
 >| **-**<br>Immunities | **[Burrow](../../../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
 >|   **+3**<br>[Might](../../../rule/character/might.md)   |   **+1**<br>[Agility](../../../rule/character/agility.md)    | **-5**<br>[Reason](../../../rule/character/reason.md)  |  **-5**<br>[Intuition](../../../rule/character/intuition.md)  |  **-3**<br>[Presence](../../../rule/character/presence.md)  |
 >
@@ -86,7 +86,7 @@ The source starts an encounter at full [Stamina](../../../rule/health/stamina.md
 >> |-----------------------------------|------------------------------:|
 >> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >>
->> **Power Roll + 3:**
+>> **[Power Roll](../../../rule/dice/power-roll.md) + 3:**
 >>
 >> - **≤11:** 5 damage; push 3
 >> - **12-16:** 9 damage; push 4

@@ -23,8 +23,8 @@ type: ability
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
-- **≤11:** 4 + A damage; [taunted](../../../../condition/taunted.md) (EoT)
-- **12-16:** 5 + A damage; [taunted](../../../../condition/taunted.md) (EoT), slide 1
-- **17+:** 6 + A damage; [taunted](../../../../condition/taunted.md) (EoT), slide 2
+- **≤11:** 4 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+- **12-16:** 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 1
+- **17+:** 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 2

@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.shadow.level-9/9th-level-college-ability
 type: feature
 ---
 
-Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
+Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 9th-Level Black Ash Abilities
 
@@ -21,9 +21,9 @@ Choose one of the following abilities.
 |--------------------------|----------------:|
 | **📏 Self; see below**   |     **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../../../movement/shifting.md).
+**Effect:** You [shift](../../../movement/shifting.md) up to twice your [speed](../../../rule/character/speed.md), making one [power roll](../../../rule/dice/power-roll.md) that targets each creature you come adjacent to during the [shift](../../../movement/shifting.md).
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../movement/teleport.md) up to 3 squares.
 - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../movement/teleport.md) up to 5 squares.
@@ -38,13 +38,13 @@ Choose one of the following abilities.
 |----------------------------------|--------------------:|
 | **📏 Melee 3**                   | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 13 + A corruption damage; push 3
 - **12-16:** 18 + A corruption damage; push 5
 - **17+:** 25 + A corruption damage; push 7
 
-**Effect:** On a critical hit, the target is [grabbed](../../../condition/grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
+**Effect:** On a [critical hit](../../../rule/combat/critical-hit.md), the target is [grabbed](../../../condition/grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
 
 ## 9th-Level Caustic Alchemy Abilities
 
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 
 **Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 damage
 - **12-16:** 10 damage
@@ -76,13 +76,13 @@ Choose one of the following abilities.
 |-----------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A fire damage; vertical push 8
 - **12-16:** 7 + A fire damage; vertical push 10
 - **17+:** 11 + A fire damage; vertical push 15
 
-**Effect:** The ground beneath a 3-cube area around the target's starting position is [difficult terrain](../../../movement/difficult-terrain.md).
+**Effect:** The ground beneath a 3-[cube](../../../rule/combat/cube.md) area around the target's starting position is [difficult terrain](../../../movement/difficult-terrain.md).
 
 ## 9th-Level Harlequin Mask Abilities
 
@@ -97,7 +97,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 Ranged 10**  |     **🎯 One creature** |
 
-**Effect:** Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
+**Effect:** Until the end of the encounter, you gain the target's damage immunities and [speed](../../../rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../../../rule/combat/signature-ability.md), using their bonus for the [power roll](../../../rule/dice/power-roll.md).
 
 ### It Was Me All Along {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along"}
 
@@ -108,7 +108,7 @@ Choose one of the following abilities.
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 15 + A damage
 - **12-16:** 21 + A damage

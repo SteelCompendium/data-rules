@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: elementalist
 distance: Ranged 10
-effect: For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability.
+effect: For each [Victory](scc:mcdm.heroes.v1/rule.resource/victories) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability.
 feature_type: ability
 file_basename: shared-void-sense
 file_dpath: feature/ability/elementalist/level-1
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability.
+    - effect: For each [Victory](scc:mcdm.heroes.v1/rule.resource/victories) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability.
 feature_type: ability
 flavor: You grant allies a taste of your unearthly vision.
 keywords:
@@ -35,7 +35,7 @@ metadata:
     action_type: Maneuver
     class: elementalist
     distance: Ranged 10
-    effect: For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability.
+    effect: For each [Victory](scc:mcdm.heroes.v1/rule.resource/victories) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense) ability.
     flavor: You grant allies a taste of your unearthly vision.
     keywords:
         - Magic

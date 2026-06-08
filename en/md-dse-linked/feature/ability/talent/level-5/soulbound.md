@@ -5,7 +5,7 @@ cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
 distance: Ranged 10
-effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../../rule/dice/bane.md) on power rolls while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
 feature_type: ability
 file_basename: soulbound
 file_dpath: feature/ability/talent/level-5
@@ -29,7 +29,7 @@ type: ability
 cost: 9 Clarity
 distance: Ranged 10
 effects:
-    - effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../../rule/dice/bane.md) on power rolls while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+    - effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
 feature_type: ability
 flavor: You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: talent
     cost: 9 Clarity
     distance: Ranged 10
-    effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../../rule/dice/bane.md) on power rolls while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+    effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
     flavor: You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.
     keywords:
         - Animapathy

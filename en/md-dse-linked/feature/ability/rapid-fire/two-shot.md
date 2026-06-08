@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Ranged 12
 effects:
-    - effect: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
+    - effect: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
 feature_type: ability
 flavor: When you fire two arrows back-to-back, both hit their mark.
 keywords:

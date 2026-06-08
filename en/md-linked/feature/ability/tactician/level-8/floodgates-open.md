@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Ranged 10
-effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a signature ability as a free triggered action. That ability gains an [edge](../../../../rule/dice/edge.md) on the power roll and increases the potency of any potency effects by 1.
+effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md). That ability gains an [edge](../../../../rule/dice/edge.md) on the [power roll](../../../../rule/dice/power-roll.md) and increases the [potency](../../../../rule/character/potency.md) of any [potency](../../../../rule/character/potency.md) effects by 1.
 flavor: You direct your squad to strike in unison and with devastating effect.
 keywords:
     - Ranged
@@ -21,4 +21,4 @@ type: ability
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Effect:** Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a signature ability as a free triggered action. That ability gains an [edge](../../../../rule/dice/edge.md) on the power roll and increases the potency of any potency effects by 1.
+**Effect:** Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md). That ability gains an [edge](../../../../rule/dice/edge.md) on the [power roll](../../../../rule/dice/power-roll.md) and increases the [potency](../../../../rule/character/potency.md) of any [potency](../../../../rule/character/potency.md) effects by 1.

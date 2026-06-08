@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability deals rolled damage, it deals extra damage equal to your [Reason](../../../rule/character/reason.md) score.
+    - effect: If the ability deals [rolled damage](../../../rule/damage/rolled-damage.md), it deals extra damage equal to your [Reason](../../../rule/character/reason.md) score.
 feature_type: feature
 metadata:
     class: talent

@@ -16,11 +16,11 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as shown on the Doctrine Triggered Actions table.
+        Your [tactical doctrine](tactical-doctrine.md) grants you a [triggered action](../../../rule/combat/triggered-action.md), as shown on the Doctrine [Triggered Actions](../../../rule/combat/triggered-action.md) table.
 
         ###### Doctrine Triggered Actions Table
 
-        | Doctrine   | Triggered Action |
+        | Doctrine   | [Triggered Action](../../../rule/combat/triggered-action.md) |
         |------------|------------------|
         | Insurgent  | [Advanced Tactics](../../ability/tactician/level-1/advanced-tactics.md) |
         | Mastermind | [Overwatch](../../ability/tactician/level-1/overwatch.md)        |

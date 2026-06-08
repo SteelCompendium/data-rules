@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.censor.level-1/inspired-deception
 type: feature
 ---
 
-The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use [Presence](../../../rule/character/presence.md) on the test instead of another [characteristic](../../../rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../../../rule/test/test.md) that uses a skill you have from the intrigue skill group, you can use [Presence](../../../rule/character/presence.md) on the [test](../../../rule/test/test.md) instead of another [characteristic](../../../rule/character/characteristic.md).

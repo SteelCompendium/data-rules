@@ -20,11 +20,11 @@ effects:
 
         ##### Heroic Abilities
 
-        Your heroic abilities cover a range of combat tactics, all of which require focus to use.
+        Your [heroic abilities](../../../rule/general/heroic-ability.md) cover a range of combat tactics, all of which require focus to use.
 
         ###### 3-Focus Ability
 
-        Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* [Inspiring Strike](../../ability/tactician/level-1/inspiring-strike.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 focus to use. (*Quick Build:* [Inspiring Strike](../../ability/tactician/level-1/inspiring-strike.md).)
 feature_type: feature
 metadata:
     class: tactician

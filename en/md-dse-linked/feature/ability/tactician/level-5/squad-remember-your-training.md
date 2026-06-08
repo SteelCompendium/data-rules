@@ -5,7 +5,7 @@ cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
 distance: Ranged 10
-effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a signature ability that has a double [edge](../../../../rule/dice/edge.md).
+effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) that has a double [edge](../../../../rule/dice/edge.md).
 feature_type: ability
 file_basename: squad-remember-your-training
 file_dpath: feature/ability/tactician/level-5
@@ -26,7 +26,7 @@ type: ability
 cost: 9 Focus
 distance: Ranged 10
 effects:
-    - effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a signature ability that has a double [edge](../../../../rule/dice/edge.md).
+    - effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) that has a double [edge](../../../../rule/dice/edge.md).
 feature_type: ability
 flavor: You remind your allies how to best use their gear.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 9 Focus
     distance: Ranged 10
-    effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a signature ability that has a double [edge](../../../../rule/dice/edge.md).
+    effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) that has a double [edge](../../../../rule/dice/edge.md).
     flavor: You remind your allies how to best use their gear.
     keywords:
         - Ranged

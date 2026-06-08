@@ -10,7 +10,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ## Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../ability/conduit/level-1/blessed-light.md), [Staggering Curse](../../ability/conduit/level-1/staggering-curse.md).)
+Choose two [signature abilities](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Blessed Light](../../ability/conduit/level-1/blessed-light.md), [Staggering Curse](../../ability/conduit/level-1/staggering-curse.md).)
 
 ### Blessed Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/blessed-light"}
 
@@ -21,13 +21,13 @@ Choose two signature abilities from the following options. Signature abilities c
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage
 - **12-16:** 5 + I holy damage
 - **17+:** 8 + I holy damage
 
-**Effect:** One ally within [distance](../../../rule/combat/distance.md) gains a number of [surges](../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
+**Effect:** One ally within [distance](../../../rule/combat/distance.md) gains a number of [surges](../../../rule/resource/surge.md) equal to the [tier outcome](../../../rule/dice/tier-outcome.md) of your [power roll](../../../rule/dice/power-roll.md).
 
 ### Drain {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/drain"}
 
@@ -38,7 +38,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |--------------------------|--------------------:|
 | **📏 Melee 1**           | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 + I corruption damage
 - **12-16:** 5 + I corruption damage
@@ -55,7 +55,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage; vertical pull 2
 - **12-16:** 5 + I holy damage; vertical pull 3
@@ -68,9 +68,9 @@ Choose two signature abilities from the following options. Signature abilities c
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|
-| **📏 2 burst**   | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 holy damage
 - **12-16:** 3 holy damage
@@ -87,13 +87,13 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 + I corruption damage
 - **12-16:** 4 + I corruption damage
 - **17+:** 6 + I corruption damage
 
-**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can impose a [bane](../../../rule/dice/bane.md) on one power roll made against them before the end of their next turn.
+**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can impose a [bane](../../../rule/dice/bane.md) on one [power roll](../../../rule/dice/power-roll.md) made against them before the end of their next turn.
 
 ### Staggering Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse"}
 
@@ -104,7 +104,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage; slide 1
 - **12-16:** 5 + I holy damage; slide 2
@@ -119,7 +119,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage
 - **12-16:** 6 + I holy damage
@@ -136,19 +136,19 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a [bane](../../../rule/dice/bane.md) on their next power roll
-- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../../../rule/dice/bane.md) on their next power roll
-- **17+:** 8 + I corruption damage; P < STRONG, the target takes a [bane](../../../rule/dice/bane.md) on their next power roll
+- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md)
+- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md)
+- **17+:** 8 + I corruption damage; P < STRONG, the target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md)
 
 ## Heroic Abilities
 
-You make use of a number of heroic abilities, all of which channel piety to empower them.
+You make use of a number of [heroic abilities](../../../rule/general/heroic-ability.md), all of which channel piety to empower them.
 
 ### 3-Piety Ability
 
-Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../ability/conduit/level-1/violence-will-not-aid-thee.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../ability/conduit/level-1/violence-will-not-aid-thee.md).)
 
 ### Call the Thunder Down {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down"}
 
@@ -157,15 +157,15 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 3 cube within 10** | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 sonic damage; push 1
 - **12-16:** 3 sonic damage; push 2
 - **17+:** 5 sonic damage; push 3
 
-**Effect:** You can push each willing ally in the area the same [distance](../../../rule/combat/distance.md), ignoring stability.
+**Effect:** You can push each willing ally in the area the same [distance](../../../rule/combat/distance.md), ignoring [stability](../../../rule/character/stability.md).
 
 ### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
 
@@ -187,7 +187,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage; A < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../../../condition/prone.md)
@@ -202,7 +202,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I lightning damage
 - **12-16:** 6 + I lightning damage
@@ -212,7 +212,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 ### 5-Piety Ability
 
-Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../ability/conduit/level-1/curse-of-terror.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../ability/conduit/level-1/curse-of-terror.md).)
 
 ### Corruption's Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/corruptions-curse"}
 
@@ -223,7 +223,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I corruption damage; M < WEAK, [damage weakness](../../../rule/damage/damage-weakness.md) 5 (save ends)
 - **12-16:** 6 + I corruption damage; M < AVERAGE, [damage weakness](../../../rule/damage/damage-weakness.md) 5 (save ends)
@@ -238,7 +238,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 |----------------------------|-------------------------------------:|
 | **📏 Ranged 10**           |                  **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -255,7 +255,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 
 **Effect:** You can target yourself instead of one ally with this ability.
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** The target gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - **12-16:** The target gains 10 [temporary Stamina](../../../rule/health/temporary-stamina.md).
@@ -268,6 +268,6 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 
 | **Area, Magic** |              **Main action** |
 |-----------------|-----------------------------:|
-| **📏 4 burst**  | **🎯 Each ally in the area** |
+| **📏 4 [burst](../../../rule/combat/burst.md)**  | **🎯 Each ally in the area** |
 
-**Effect:** Each target can spend a [Recovery](../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../condition/prone.md).
+**Effect:** Each target can spend a [Recovery](../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](triggered-action.md) to end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn, or to stand up if [prone](../../../condition/prone.md).

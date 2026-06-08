@@ -4,8 +4,8 @@ class: conduit
 cost: 3 Piety
 cost_amount: "3"
 cost_resource: Piety
-distance: 3 cube within 10
-effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring stability.
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
+effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
 feature_type: ability
 file_basename: call-the-thunder-down
 file_dpath: feature/ability/conduit/level-1
@@ -26,9 +26,9 @@ type: ability
 
 ```ds-feature
 cost: 3 Piety
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
-    - effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring stability.
+    - effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
 feature_type: ability
 flavor: You ask your saint for thunder and your prayer is answered.
 keywords:
@@ -39,8 +39,8 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 3 Piety
-    distance: 3 cube within 10
-    effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring stability.
+    distance: 3 [cube](../../../../rule/combat/cube.md) within 10
+    effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
     flavor: You ask your saint for thunder and your prayer is answered.
     keywords:
         - Area

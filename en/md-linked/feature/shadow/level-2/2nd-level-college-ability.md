@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-ability
 type: feature
 ---
 
-Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
+Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 2nd-Level Black Ash Ability
 
@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |------------------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 + A damage; you can [teleport](../../../movement/teleport.md) the target 1 square
 - **12-16:** 10 + A damage; you can [teleport](../../../movement/teleport.md) the target up to 3 squares
@@ -53,9 +53,9 @@ Choose one of the following abilities.
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 One creature** |
 
-**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.
+**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a [power roll](../../../rule/dice/power-roll.md) targeting each enemy within 2 squares of it.
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A fire damage
 - **12-16:** 7 + A fire damage
@@ -68,9 +68,9 @@ Choose one of the following abilities.
 
 | **Area, Ranged**        |                  **Main action** |
 |-------------------------|---------------------------------:|
-| **📏 3 cube within 10** | **🎯 Each creature in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2 poison damage
 - **12-16:** 5 poison damage
@@ -89,15 +89,15 @@ Choose one of the following abilities.
 
 | **Area, Magic, Ranged** |                     **Maneuver** |
 |-------------------------|---------------------------------:|
-| **📏 3 cube within 10** | **🎯 Each creature in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** Slide 4
 - **12-16:** Slide 5
 - **17+:** Slide 7
 
-**Effect:** This [forced movement](../../../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../rule/character/intuition.md) score.
+**Effect:** This [forced movement](../../../movement/forced-movement.md) ignores [stability](../../../rule/character/stability.md). Instead, the [forced movement](../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../rule/character/intuition.md) score.
 
 ### So Gullible {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible"}
 

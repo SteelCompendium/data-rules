@@ -19,7 +19,7 @@ effects:
 
         ##### Signature Ability
 
-        You gain a new signature ability from your kit.
+        You gain a new [signature ability](../../../rule/combat/signature-ability.md) from your kit.
 feature_type: feature
 metadata:
     class: fury

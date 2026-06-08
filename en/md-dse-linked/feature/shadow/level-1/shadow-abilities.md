@@ -20,19 +20,19 @@ effects:
 
         ##### Signature Ability
 
-        Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../ability/shadow/level-1/teamwork-has-its-place.md).)
+        Choose one [signature ability](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../ability/shadow/level-1/teamwork-has-its-place.md).)
 
         ##### Heroic Abilities
 
-        A range of heroic abilities define your combat prowess, all of which make use of your insight.
+        A range of [heroic abilities](../../../rule/general/heroic-ability.md) define your combat prowess, all of which make use of your insight.
 
         ###### 3-Insight Ability
 
-        Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](../../ability/shadow/level-1/get-in-get-out.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](../../ability/shadow/level-1/get-in-get-out.md).)
 
         ##### 5-Insight Ability
 
-        Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](../../ability/shadow/level-1/coup-de-grace.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](../../ability/shadow/level-1/coup-de-grace.md).)
 feature_type: feature
 metadata:
     class: shadow

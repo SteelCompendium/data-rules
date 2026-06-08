@@ -2,7 +2,7 @@
 action_type: Main action
 class: censor
 distance: Ranged 10
-effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../censor/level-4/invocation-of-the-heart.md) feature. You don't need [line of effect](../../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
 feature_type: ability
 file_basename: guided-to-your-side
 file_dpath: feature/ability/censor/level-7
@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+    - effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../censor/level-4/invocation-of-the-heart.md) feature. You don't need [line of effect](../../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
 feature_type: ability
 flavor: You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.
 keywords:
@@ -33,7 +33,7 @@ metadata:
     action_type: Main action
     class: censor
     distance: Ranged 10
-    effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+    effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../censor/level-4/invocation-of-the-heart.md) feature. You don't need [line of effect](../../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
     flavor: You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.
     keywords:
         - Magic

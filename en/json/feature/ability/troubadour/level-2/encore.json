@@ -3,7 +3,7 @@
   "distance": "Special",
   "effects": [
     {
-      "effect": "You use an ability that you have observed being used this combat round. The ability must have the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword, cost 5 or fewer of a [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource), and cost no Malice. When you make the [strike](scc:mcdm.heroes.v1/rule.combat/strike), you use your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score for any power rolls, and any damage you deal is sonic damage.",
+      "effect": "You use an ability that you have observed being used this combat round. The ability must have the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword, cost 5 or fewer of a [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource), and cost no Malice. When you make the [strike](scc:mcdm.heroes.v1/rule.combat/strike), you use your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score for any [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll), and any damage you deal is sonic damage.",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*Again! Again!*\n\n| **Magic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** | **Main action** |\n|-------------------|----------------:|\n| **📏 Special**    |  **🎯 Special** |\n\n**Effect:** You use an ability that you have observed being used this combat round. The ability must have the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword, cost 5 or fewer of a [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource), and cost no Malice. When you make the [strike](scc:mcdm.heroes.v1/rule.combat/strike), you use your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score for any power rolls, and any damage you deal is sonic damage.",
+    "content": "\n*Again! Again!*\n\n| **Magic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** | **Main action** |\n|-------------------|----------------:|\n| **📏 Special**    |  **🎯 Special** |\n\n**Effect:** You use an ability that you have observed being used this combat round. The ability must have the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword, cost 5 or fewer of a [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource), and cost no Malice. When you make the [strike](scc:mcdm.heroes.v1/rule.combat/strike), you use your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score for any [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll), and any damage you deal is sonic damage.",
     "distance": "Special",
     "feature_type": "ability",
     "flavor": "Again! Again!",

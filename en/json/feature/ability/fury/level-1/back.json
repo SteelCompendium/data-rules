@@ -1,6 +1,6 @@
 {
   "cost": "3 Ferocity",
-  "distance": "1 burst",
+  "distance": "1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
       "effect": ""
@@ -16,8 +16,8 @@
   "metadata": {
     "action_type": "Main action",
     "class": "fury",
-    "content": "\n*You hew about you with your mighty weapon, hurling enemies backward.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 1 burst**          | **🎯 Each enemy in the area** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 5 damage\n- **12-16:** 8 damage; push 1\n- **17+:** 11 damage; push 3",
-    "distance": "1 burst",
+    "content": "\n*You hew about you with your mighty weapon, hurling enemies backward.*\n\n| **Area, Melee, Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **📏 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**          | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 5 damage\n- **12-16:** 8 damage; push 1\n- **17+:** 11 damage; push 3",
+    "distance": "1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "You hew about you with your mighty weapon, hurling enemies backward.",
     "item_id": "back",

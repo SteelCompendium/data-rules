@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your cherished horns are larger than the average [devil's](../../../ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+    - effect: Your cherished horns are larger than the average [devil's](../../../ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a [saving throw](../../../rule/general/saving-throw.md), you succeed on a roll of 5 or higher.
 feature_type: trait
 metadata:
     ancestry: devil

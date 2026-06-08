@@ -22,7 +22,7 @@ type: ability
 |---------------------------|-------------------------:|
 | **📏 Melee 1**            |      **🎯 One creature** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
 - **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)

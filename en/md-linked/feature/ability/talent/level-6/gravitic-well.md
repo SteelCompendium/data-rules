@@ -2,7 +2,7 @@
 action_type: Main action
 class: talent
 cost: 9 Clarity
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effect: Targets closest to the center of the area are pulled first.
 flavor: You bend gravity into a fine point and pull your foes toward it.
 keywords:
@@ -22,9 +22,9 @@ type: ability
 
 | **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
-| **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
+| **📏 4 [cube](../../../../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 6 damage; vertical pull 5 toward the center of the area
 - **12-16:** 9 damage; vertical pull 7 toward the center of the area

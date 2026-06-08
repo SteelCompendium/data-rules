@@ -24,7 +24,7 @@ type: ability
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 8 damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
 - **12-16:** 13 damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)

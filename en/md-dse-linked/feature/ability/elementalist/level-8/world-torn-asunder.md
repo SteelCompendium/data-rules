@@ -4,7 +4,7 @@ class: elementalist
 cost: 11 Essence
 cost_amount: "11"
 cost_resource: Essence
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 effect: You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../../condition/prone.md) and [size](../../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
 feature_type: ability
 file_basename: world-torn-asunder
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 11 Essence
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../../condition/prone.md) and [size](../../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
 feature_type: ability
@@ -39,7 +39,7 @@ metadata:
     action_type: Main action
     class: elementalist
     cost: 11 Essence
-    distance: 5 burst
+    distance: 5 [burst](../../../../rule/combat/burst.md)
     effect: You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../../condition/prone.md) and [size](../../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
     flavor: You stomp your foot and quake the whole world over.
     keywords:

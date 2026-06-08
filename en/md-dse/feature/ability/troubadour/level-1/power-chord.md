@@ -1,7 +1,7 @@
 ---
 action_type: Maneuver
 class: troubadour
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 feature_type: ability
 file_basename: power-chord
 file_dpath: feature/ability/troubadour/level-1
@@ -20,9 +20,9 @@ type: ability
 ---
 
 ```ds-feature
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: "\n*Your instrument rings true and your music blows everyone away.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3"
+    - effect: "\n*Your instrument rings true and your music blows everyone away.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3"
 feature_type: ability
 flavor: Your instrument rings true and your music blows everyone away.
 keywords:
@@ -31,7 +31,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: troubadour
-    distance: 2 burst
+    distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     flavor: Your instrument rings true and your music blows everyone away.
     keywords:
         - Area

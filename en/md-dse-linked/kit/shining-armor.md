@@ -8,7 +8,6 @@ melee_damage_bonus: +2/+2/+2
 name: Shining Armor
 scc: mcdm.heroes.v1/kit/shining-armor
 source: mcdm.heroes.v1
-stability_bonus: "+1"
 type: kit
 ---
 
@@ -20,9 +19,9 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +12 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +12 per [echelon](../rule/general/echelon.md)
 
-**Stability Bonus:** +1
+**[Stability](../rule/character/stability.md) Bonus:** +1
 
 **Melee Damage Bonus:** +2/+2/+2
 
@@ -36,7 +35,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
 - **12-16:** 8 + M or A damage

@@ -5,7 +5,7 @@ cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
 distance: Melee 1
-effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their [stability](../../../../rule/character/stability.md) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](../../../../rule/dice/ability-roll.md).
 feature_type: ability
 file_basename: phase-strike
 file_dpath: feature/ability/null/level-1
@@ -29,7 +29,7 @@ type: ability
 cost: 5 Discipline
 distance: Melee 1
 effects:
-    - effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+    - effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their [stability](../../../../rule/character/stability.md) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](../../../../rule/dice/ability-roll.md).
 feature_type: ability
 flavor: For a moment, your foe slips out of phase with this manifold.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: "null"
     cost: 5 Discipline
     distance: Melee 1
-    effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+    effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their [stability](../../../../rule/character/stability.md) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](../../../../rule/dice/ability-roll.md).
     flavor: For a moment, your foe slips out of phase with this manifold.
     keywords:
         - Melee

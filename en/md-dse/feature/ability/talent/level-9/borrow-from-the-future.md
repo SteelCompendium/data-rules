@@ -4,7 +4,7 @@ class: talent
 cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effect: The targets share 6 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
 feature_type: ability
 file_basename: borrow-from-the-future
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 11 Clarity
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: The targets share 6 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
 feature_type: ability
@@ -39,7 +39,7 @@ metadata:
     action_type: Maneuver
     class: talent
     cost: 11 Clarity
-    distance: 2 burst
+    distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: The targets share 6 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
     flavor: You lean on future heroism to assist you in the now.
     keywords:

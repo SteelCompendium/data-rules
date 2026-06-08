@@ -15,9 +15,9 @@ You have the following performance abilities, which are usable with your [Routin
 
 | **Area, Magic, Performance** |                **No action** |
 |------------------------------|-----------------------------:|
-| **📏 5 aura**                | **🎯 Each ally in the area** |
+| **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Each ally in the area** |
 
-**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../rule/health/recoveries.md) or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../rule/health/recoveries.md) or use [triggered actions](../../../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
 
 ## Radical Fantasia {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/radical-fantasia"}
 
@@ -26,6 +26,6 @@ You have the following performance abilities, which are usable with your [Routin
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
-| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+| **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.
+**Effect:** While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a [triggered action](../../../rule/combat/triggered-action.md) as a free [triggered action](../../../rule/combat/triggered-action.md).

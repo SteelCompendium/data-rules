@@ -10,7 +10,6 @@ name: Cloak and Dagger
 ranged_damage_bonus: +1/+1/+1
 scc: mcdm.heroes.v1/kit/cloak-and-dagger
 source: mcdm.heroes.v1
-speed_bonus: "+2"
 type: kit
 ---
 
@@ -22,9 +21,9 @@ You wear light armor and wield one or two light weapons.
 
 ##### Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +2
+**[Speed](../rule/character/speed.md) Bonus:** +2
 
 **Melee Damage Bonus:** +1/+1/+1
 
@@ -44,7 +43,7 @@ You wear light armor and wield one or two light weapons.
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage; you can [shift](../movement/shifting.md) 1 square
 - **12-16:** 6 + M or A damage; you can [shift](../movement/shifting.md) up to 2 squares

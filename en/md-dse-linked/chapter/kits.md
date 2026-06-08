@@ -14,7 +14,7 @@ The knight in [shining armor](../kit/shining-armor.md). The [warrior priest](../
 
 ### Changing Your Kit
 
-Your choice of kit is always flexible, and your hero is never locked into a specific kit. If you want to change your kit, you can do so as a respite activity (see Respite in Chapter 1: [The Basics](the-basics.md)).
+Your choice of kit is always flexible, and your hero is never locked into a specific kit. If you want to change your kit, you can do so as a [respite](../rule/resource/respite.md) activity (see [Respite](../rule/resource/respite.md) in Chapter 1: [The Basics](the-basics.md)).
 
 ### Kit Equipment
 
@@ -94,39 +94,39 @@ Whip weapons include the standard whip, spiked chains, flails, and any similarly
 
 When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](../kit/ranger.md) or [Shining Armor](../kit/shining-armor.md) kits. However, you can't use it with the [Cloak and Dagger](../kit/cloak-and-dagger.md) or [Stick and Robe](../kit/stick-and-robe.md) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
 
-If you find a piece of equipment you really want to use that isn't part of your kit, you can always change your kit as a respite activity.
+If you find a piece of equipment you really want to use that isn't part of your kit, you can always change your kit as a [respite](../rule/resource/respite.md) activity.
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your [Stamina](../rule/health/stamina.md), speed, and stability, as well as the damage and [distance](../rule/combat/distance.md) of your weapon abilities, including your [free strikes](../feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your [Stamina](../rule/health/stamina.md), [speed](../rule/character/speed.md), and [stability](../rule/character/stability.md), as well as the damage and [distance](../rule/combat/distance.md) of your weapon abilities, including your [free strikes](../feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
-Your kit's [Stamina](../rule/health/stamina.md) bonus is added to your [Stamina](../rule/health/stamina.md) maximum and scales with your echelon.
+Your kit's [Stamina](../rule/health/stamina.md) bonus is added to your [Stamina](../rule/health/stamina.md) maximum and scales with your [echelon](../rule/general/echelon.md).
 
 #### Speed Bonus
 
-Your kit's speed bonus is added to your speed.
+Your kit's [speed](../rule/character/speed.md) bonus is added to your [speed](../rule/character/speed.md).
 
 #### Stability Bonus
 
-Your kit's stability bonus is added to your stability.
+Your kit's [stability](../rule/character/stability.md) bonus is added to your [stability](../rule/character/stability.md).
 
 #### Damage Bonuses
 
-Kits can grant you a bonus to damage with both melee and ranged weapon abilities. If a kit has a melee damage bonus, that bonus is added to the rolled damage of any damage-dealing ability with both the Melee and Weapon keywords. A kit's ranged damage bonus is added to the rolled damage of damage-dealing abilities with both the Ranged and Weapon keywords.
+Kits can grant you a bonus to damage with both melee and ranged weapon abilities. If a kit has a melee damage bonus, that bonus is added to the [rolled damage](../rule/damage/rolled-damage.md) of any damage-dealing ability with both the Melee and Weapon keywords. A kit's ranged damage bonus is added to the [rolled damage](../rule/damage/rolled-damage.md) of damage-dealing abilities with both the Ranged and Weapon keywords.
 
 ##### Bonuses Across Tiers
 
-Kit damage bonuses increase based on the tier outcome of the power roll for a weapon ability, and are presented as "+X/+Y/+Z." The X bonus is added to a tier 1 outcome, the Y bonus is added to a tier 2 outcome, and the Z bonus is added to a tier 3 outcome.
+Kit damage bonuses increase based on the [tier outcome](../rule/dice/tier-outcome.md) of the [power roll](../rule/dice/power-roll.md) for a weapon ability, and are presented as "+X/+Y/+Z." The X bonus is added to a tier 1 outcome, the Y bonus is added to a tier 2 outcome, and the Z bonus is added to a tier 3 outcome.
 
-For example, the [Shining Armor](../kit/shining-armor.md) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The [Sniper](../kit/sniper.md) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
+For example, the [Shining Armor](../kit/shining-armor.md) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all [tier outcomes](../rule/dice/tier-outcome.md). The [Sniper](../kit/sniper.md) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an [ability roll](../rule/dice/ability-roll.md), but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
 
 #### Distance Bonus
 
 A kit's melee [distance](../rule/combat/distance.md) bonus increases the [distance](../rule/combat/distance.md) of abilities with the Melee and Weapon keywords. A kit's ranged [distance](../rule/combat/distance.md) bonus increases the [distance](../rule/combat/distance.md) of abilities with the Ranged and Weapon keywords.
 
-A [distance](../rule/combat/distance.md) bonus doesn't increase the size of any ability's area of effect.
+A [distance](../rule/combat/distance.md) bonus doesn't increase the size of any ability's [area of effect](../rule/combat/area-of-effect.md).
 
 #### Disengage Bonus
 
@@ -134,7 +134,7 @@ A kit that has a disengage bonus increases the number of squares you can [shift]
 
 ### Kit Signature Ability
 
-Each kit grants a signature ability, **whose [distance](../rule/combat/distance.md) and damage already includes the kit's bonuses**. For instance, the [Guisarmier](../kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a [distance](../rule/combat/distance.md) of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that [distance](../rule/combat/distance.md) and damage including the bonuses from the kit.
+Each kit grants a [signature ability](../rule/combat/signature-ability.md), **whose [distance](../rule/combat/distance.md) and damage already includes the kit's bonuses**. For instance, the [Guisarmier](../kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a [distance](../rule/combat/distance.md) of melee 2 and deals 4, 7, or 9 damage depending on the [tier outcome](../rule/dice/tier-outcome.md), with that [distance](../rule/combat/distance.md) and damage including the bonuses from the kit.
 
 For details on the ability format, see Abilities in Chapter 5: [Classes](classes.md).
 
@@ -152,16 +152,16 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 The rules of the game expect that heroes always have access to their equipment. That's because for most of the time in the game, heroes aren't worried about surviving for days on end in a dungeon and tracking every piece of gear they carry. However, there might be times where your group wants to tell a story of heroes who are captured and stripped of their equipment, or who find themselves at a masquerade where weapons need to be checked at the door. For those kinds of scenarios, you can use the following rules:
 
-- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's [Stamina](../rule/health/stamina.md) bonus and stability bonus. If you lose your shield but keep the rest of your armor, your [Stamina](../rule/health/stamina.md) decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its [Stamina](../rule/health/stamina.md) bonus, even if you aren't actively wielding it.
+- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's [Stamina](../rule/health/stamina.md) bonus and [stability](../rule/character/stability.md) bonus. If you lose your shield but keep the rest of your armor, your [Stamina](../rule/health/stamina.md) decreases by 3 per [echelon](../rule/general/echelon.md). As long as you are carrying your shield, you don't lose its [Stamina](../rule/health/stamina.md) bonus, even if you aren't actively wielding it.
 - If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's melee damage bonus.
 - If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and [distance](../rule/combat/distance.md) bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
 - If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee [distance](../rule/combat/distance.md) bonus.
-- If your kit has an ensnaring weapon you aren't wielding, you lose the kit's signature ability.
+- If your kit has an ensnaring weapon you aren't wielding, you lose the kit's [signature ability](../rule/combat/signature-ability.md).
 - If your kit has a bow weapon you aren't wielding, you lose the kit's ranged damage bonus and [distance](../rule/combat/distance.md) bonus.
 
 ###### Kits Table
 
-| Kit              | Armor          | Weapon             | [Stamina](../rule/health/stamina.md) per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee [Distance](../rule/combat/distance.md) | Ranged [Distance](../rule/combat/distance.md) | Disengage |
+| Kit              | Armor          | Weapon             | [Stamina](../rule/health/stamina.md) per [Echelon](../rule/general/echelon.md) | [Speed](../rule/character/speed.md) | [Stability](../rule/character/stability.md) | Melee Damage | Ranged Damage | Melee [Distance](../rule/combat/distance.md) | Ranged [Distance](../rule/combat/distance.md) | Disengage |
 |------------------|----------------|--------------------|---------------------|-------|-----------|--------------|---------------|----------------|-----------------|-----------|
 | [Arcane Archer](../kit/arcane-archer.md)    | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
 | [Battlemind](../kit/battlemind.md)       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |

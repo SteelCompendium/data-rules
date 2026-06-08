@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "One ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a number of [surges](scc:mcdm.heroes.v1/rule.resource/surge) equal to the tier outcome of your power roll.",
+      "effect": "One ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a number of [surges](scc:mcdm.heroes.v1/rule.resource/surge) equal to the [tier outcome](scc:mcdm.heroes.v1/rule.dice/tier-outcome) of your [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
       "name": "Effect"
     }
   ],
@@ -18,7 +18,7 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Ranged 10**          | **🎯 One creature or object** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 + I holy damage\n- **12-16:** 5 + I holy damage\n- **17+:** 8 + I holy damage\n\n**Effect:** One ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a number of [surges](scc:mcdm.heroes.v1/rule.resource/surge) equal to the tier outcome of your power roll.",
+    "content": "\n*Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 Ranged 10**          | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 + I holy damage\n- **12-16:** 5 + I holy damage\n- **17+:** 8 + I holy damage\n\n**Effect:** One ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a number of [surges](scc:mcdm.heroes.v1/rule.resource/surge) equal to the [tier outcome](scc:mcdm.heroes.v1/rule.dice/tier-outcome) of your [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.",

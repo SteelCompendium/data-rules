@@ -17,23 +17,23 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Bey
 
 ### Beyondsight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/beyondsight"}
 
-As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have line of effect to any creature or object in that area. You can restore your usual vision as a maneuver.
+As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have [line of effect](../../../rule/combat/line-of-effect.md) to any creature or object in that area. You can restore your usual vision as a maneuver.
 
 ### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
 
-Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../../../rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) against such creatures. Additionally, whenever you are targeted by a [strike](../../../rule/combat/strike.md), you can use a triggered action to impose a [bane](../../../rule/dice/bane.md) on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../../../rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) against such creatures. Additionally, whenever you are targeted by a [strike](../../../rule/combat/strike.md), you can use a [triggered action](../../../rule/combat/triggered-action.md) to impose a [bane](../../../rule/dice/bane.md) on the [power roll](../../../rule/dice/power-roll.md).
 
 ### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 
-Your unique physiology enhances your movement. You gain an [edge](../../../rule/dice/edge.md) on tests that use the [Climb](../../../skill/climb.md), [Gymnastics](../../../skill/gymnastics.md), or [Swim](../../../skill/swim.md) skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the [Climb](../../../skill/climb.md), [Gymnastics](../../../skill/gymnastics.md), or [Swim](../../../skill/swim.md) skills when you can use all your arms in the attempt.
 
 ### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../../common/maneuvers/grab.md) or [Knockback](../../common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../../condition/grabbed.md) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../../common/maneuvers/grab.md) or [Knockback](../../common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same [power roll](../../../rule/dice/power-roll.md) for both targets. Additionally, you can have up to two creatures [grabbed](../../../condition/grabbed.md) at a time.
 
 ### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
 
-Choose one signature ability from the following options. Signature abilities can be used at will.
+Choose one [signature ability](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will.
 
 #### Concussive Slam {data-scc="mcdm.heroes.v1/feature.ability.time-raider/concussive-slam"}
 
@@ -43,7 +43,7 @@ Choose one signature ability from the following options. Signature abilities can
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
@@ -57,7 +57,7 @@ Choose one signature ability from the following options. Signature abilities can
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P psychic damage; slide 1
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
@@ -65,13 +65,13 @@ Choose one signature ability from the following options. Signature abilities can
 
 #### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
 
-*You fill yourself or an ally with a burst of speed.*
+*You fill yourself or an ally with a burst of [speed](../../../rule/character/speed.md).*
 
 | **Psionic, Melee** | Maneuver               |
 |-------------------|------------------------|
 | **📏 Melee 1**    | **🎯 Self or one ally** |
 
-**Effect:** The target gains a bonus to speed equal to your [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md) score (your choice) until the start of your next turn.
+**Effect:** The target gains a bonus to [speed](../../../rule/character/speed.md) equal to your [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md) score (your choice) until the start of your next turn.
 
 ### Unstoppable Mind
 

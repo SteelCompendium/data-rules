@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [talent tradition](scc:mcdm.heroes.v1/feature.talent.level-1/talent-tradition) grants your choice of one of two heroic abilities.
+        Your [talent tradition](scc:mcdm.heroes.v1/feature.talent.level-1/talent-tradition) grants your choice of one of two [heroic abilities](scc:mcdm.heroes.v1/rule.general/heroic-ability).
 
         ##### 2nd-Level Chronopathy Ability
 

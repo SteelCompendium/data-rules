@@ -3,7 +3,7 @@
   "distance": "Melee 1 or ranged 5",
   "effects": [
     {
-      "effect": "If the target has none of your allies adjacent to them, you gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) before making the power roll.",
+      "effect": "If the target has none of your allies adjacent to them, you gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) before making the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
       "name": "Effect"
     }
   ],
@@ -19,7 +19,7 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*\"It's better, just you and me. Isn't it?\"*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + A damage\n- **12-16:** 6 + A damage\n- **17+:** 9 + A damage\n\n**Effect:** If the target has none of your allies adjacent to them, you gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) before making the power roll.",
+    "content": "\n*\"It's better, just you and me. Isn't it?\"*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + A damage\n- **12-16:** 6 + A damage\n- **17+:** 9 + A damage\n\n**Effect:** If the target has none of your allies adjacent to them, you gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) before making the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
     "distance": "Melee 1 or ranged 5",
     "feature_type": "ability",
     "flavor": "\"It's better, just you and me. Isn't it?\"",

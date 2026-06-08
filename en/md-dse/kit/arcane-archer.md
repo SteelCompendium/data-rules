@@ -9,7 +9,6 @@ name: Arcane Archer
 ranged_damage_bonus: +2/+2/+2
 scc: mcdm.heroes.v1/kit/arcane-archer
 source: mcdm.heroes.v1
-speed_bonus: "+1"
 type: kit
 ---
 
@@ -21,7 +20,7 @@ You wear no armor and wield a bow.
 
 ##### Kit Bonuses
 
-**Speed Bonus:** +1
+**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +1
 
 **Ranged Damage Bonus:** +2/+2/+2
 
@@ -39,18 +38,18 @@ You wear no armor and wield a bow.
 |-----------------------------------|------------------------------:|
 | **📏 Ranged 15**                  | **🎯 One creature or object** |
 
-**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**
+**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence):**
 
 - **≤11:** 5 + A, R, I, or P fire damage
 - **12-16:** 7 + A, R, I, or P fire damage
 - **17+:** 10 + A, R, I, or P fire damage
 
-**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.
+**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
 
 ```ds-feature
 distance: Ranged 15
 effects:
-    - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.
+    - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
 feature_type: ability
 flavor: Your ammunition explodes with magical energy.
 keywords:
@@ -61,7 +60,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: Ranged 15
-    effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's power roll.
+    effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
     flavor: Your ammunition explodes with magical energy.
     keywords:
         - Magic

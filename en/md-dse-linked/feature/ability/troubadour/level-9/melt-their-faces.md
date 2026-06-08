@@ -5,7 +5,7 @@ cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
 distance: Melee 1 or ranged 10
-effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores stability.'
+effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md).'
 feature_type: ability
 file_basename: melt-their-faces
 file_dpath: feature/ability/troubadour/level-9
@@ -29,7 +29,7 @@ type: ability
 cost: 11 Drama
 distance: Melee 1 or ranged 10
 effects:
-    - effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores stability.'
+    - effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md).'
 feature_type: ability
 flavor: The power of music rips through the reality around the target and blows them away.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: troubadour
     cost: 11 Drama
     distance: Melee 1 or ranged 10
-    effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores stability.'
+    effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md).'
     flavor: The power of music rips through the reality around the target and blows them away.
     keywords:
         - Magic

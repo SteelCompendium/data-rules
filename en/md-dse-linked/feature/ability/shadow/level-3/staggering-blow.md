@@ -28,7 +28,7 @@ type: ability
 cost: 7 Insight
 distance: Melee 1 or ranged 5
 effects:
-    - effect: "\n*There's no recovering from this.*\n\n| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)\n- **17+:** 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)"
+    - effect: "\n*There's no recovering from this.*\n\n| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)\n- **17+:** 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)"
 feature_type: ability
 flavor: There's no recovering from this.
 keywords:

@@ -11,18 +11,18 @@ You project a psionic field of order around your body, dampening the effects of 
 ## Null Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/null-field"}
 
 
-*You project an aura that dampens the power of your foes.*
+*You project an [aura](../../../rule/combat/aura.md) that dampens the power of your foes.*
 
 | **Area, Psionic** |                  **Maneuver** |
 |-------------------|------------------------------:|
-| **📏 1 aura**     | **🎯 Each enemy in the area** |
+| **📏 1 [aura](../../../rule/combat/aura.md)**     | **🎯 Each enemy in the area** |
 
-**Effect:** Each target reduces their potencies by 1.
+**Effect:** Each target reduces their [potencies](../../../rule/character/potency.md) by 1.
 
-Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null Field](null-field.md) one of the following additional effects until the start of your next turn:
+Once as a [free maneuver](../../../rule/combat/free-maneuver.md) on each of your turns, you can spend 1 discipline and give your [Null Field](null-field.md) one of the following additional effects until the start of your next turn:
 
 - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 - Inertial Anchor: Any target who starts their turn in the area can't [shift](../../../movement/shifting.md).
-- Synaptic Break: Whenever you or any ally uses an ability against a target that has a potency effect, the potency is increased by 1.
+- Synaptic Break: Whenever you or any ally uses an ability against a target that has a [potency](../../../rule/character/potency.md) effect, the [potency](../../../rule/character/potency.md) is increased by 1.
 
 This ability remains active even after an encounter ends. It ends only if you are [dying](../../../rule/health/dying.md) or if you willingly end it (no action required).

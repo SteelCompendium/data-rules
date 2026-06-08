@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 cost: 3 Essence
-distance: 2 burst
+distance: 2 [burst](../../../../rule/combat/burst.md)
 effect: You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your [Reason](../../../../rule/character/reason.md) score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 flavor: Like a stone was dropped into a pond, waves in the earth radiate from you.
 keywords:
@@ -21,9 +21,9 @@ type: ability
 
 | **Area, Earth, Magic** |               **Main action** |
 |------------------------|------------------------------:|
-| **📏 2 burst**         | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../../rule/combat/burst.md)**         | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 5 damage

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
+    - effect: Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 11 ferocity to use.
 feature_type: feature
 metadata:
     class: fury

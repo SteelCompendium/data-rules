@@ -23,7 +23,7 @@ type: ability
 |----------------------------|-------------------------:|
 | **📏 Melee 1**             |      **🎯 One creature** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage
 - **12-16:** 14 + M damage

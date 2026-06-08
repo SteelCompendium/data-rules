@@ -28,11 +28,11 @@ Each career grants you two or three skills, detailed in the Skills section of Ch
 
 #### Languages
 
-Some careers allow you to learn extra languages, chosen from those available in Languages in Orden above.
+Some careers allow you to learn extra languages, chosen from those available in Languages in [Orden](../rule/world/orden.md) above.
 
 #### Renown
 
-Some careers increase your starting Renown score (from a base score of 0). See Renown in Chapter 13: [Rewards](rewards.md) for more information.
+Some careers increase your starting [Renown](../rule/resource/renown.md) score (from a base score of 0). See [Renown](../rule/resource/renown.md) in Chapter 13: [Rewards](rewards.md) for more information.
 
 #### Perk
 

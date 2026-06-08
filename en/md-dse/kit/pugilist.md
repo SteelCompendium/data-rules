@@ -8,8 +8,6 @@ melee_damage_bonus: +1/+1/+1
 name: Pugilist
 scc: mcdm.heroes.v1/kit/pugilist
 source: mcdm.heroes.v1
-speed_bonus: "+2"
-stability_bonus: "+1"
 type: kit
 ---
 
@@ -21,11 +19,11 @@ You wear no armor and wield only your unarmed [strikes](scc:mcdm.heroes.v1/rule.
 
 ##### Kit Bonuses
 
-**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per echelon
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
 
-**Speed Bonus:** +2
+**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +2
 
-**Stability Bonus:** +1
+**[Stability](scc:mcdm.heroes.v1/rule.character/stability) Bonus:** +1
 
 **Melee Damage Bonus:** +1/+1/+1
 
@@ -39,7 +37,7 @@ You wear no armor and wield only your unarmed [strikes](scc:mcdm.heroes.v1/rule.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
+**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage; slide 1

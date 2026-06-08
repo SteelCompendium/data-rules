@@ -1,5 +1,5 @@
 {
-  "content": "The [Raider](scc:mcdm.heroes.v1/kit/raider) kit keeps you protected while granting you full mobility, providing a boost to speed and [distance](scc:mcdm.heroes.v1/rule.combat/distance) that lets you run around the battlefield like a Viking warrior.\n\n##### Equipment\n\nYou wear light armor and wield a shield and a light weapon.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per echelon\n\n**Speed Bonus:** +1\n\n**Melee Damage Bonus:** +1/+1/+1\n\n**Ranged Damage Bonus:** +1/+1/+1\n\n**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +5\n\n**Disengage Bonus:** +1\n\n##### Signature Ability\n\n###### Raider's Awe\n\n*You execute a brutal strike that leaves your foe reeling. (Previously known as \"[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)\")*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + M or A damage\n- **12-16:** 6 + M or A damage\n- **17+:** 8 + M or A damage\n\n**Effect:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next power roll made before the end of their next turn.",
+  "content": "The [Raider](scc:mcdm.heroes.v1/kit/raider) kit keeps you protected while granting you full mobility, providing a boost to [speed](scc:mcdm.heroes.v1/rule.character/speed) and [distance](scc:mcdm.heroes.v1/rule.combat/distance) that lets you run around the battlefield like a Viking warrior.\n\n##### Equipment\n\nYou wear light armor and wield a shield and a light weapon.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)\n\n**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +1\n\n**Melee Damage Bonus:** +1/+1/+1\n\n**Ranged Damage Bonus:** +1/+1/+1\n\n**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +5\n\n**Disengage Bonus:** +1\n\n##### Signature Ability\n\n###### Raider's Awe\n\n*You execute a brutal strike that leaves your foe reeling. (Previously known as \"[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)\")*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + M or A damage\n- **12-16:** 6 + M or A damage\n- **17+:** 8 + M or A damage\n\n**Effect:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made before the end of their next turn.",
   "disengage_bonus": "+1",
   "equipment_text": "You wear light armor and wield a shield and a light weapon.",
   "melee_damage_bonus": "+1/+1/+1",
@@ -11,7 +11,7 @@
     "distance": "Melee 1 or ranged 10",
     "effects": [
       {
-        "effect": "The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next power roll made before the end of their next turn.",
+        "effect": "The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made before the end of their next turn.",
         "name": "Effect"
       }
     ],
@@ -26,7 +26,7 @@
     "metadata": {
       "ability_type": "Signature",
       "action_type": "Main action",
-      "content": "*You execute a brutal strike that leaves your foe reeling. (Previously known as \"[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)\")*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + M or A damage\n- **12-16:** 6 + M or A damage\n- **17+:** 8 + M or A damage\n\n**Effect:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next power roll made before the end of their next turn.",
+      "content": "*You execute a brutal strike that leaves your foe reeling. (Previously known as \"[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)\")*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + M or A damage\n- **12-16:** 6 + M or A damage\n- **17+:** 8 + M or A damage\n\n**Effect:** The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made before the end of their next turn.",
       "distance": "Melee 1 or ranged 10",
       "feature_type": "ability",
       "flavor": "You execute a brutal strike that leaves your foe reeling. (Previously known as \"[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)\")",
@@ -46,6 +46,5 @@
     "type": "feature",
     "usage": "Main action"
   },
-  "speed_bonus": "+1",
   "type": "kit"
 }

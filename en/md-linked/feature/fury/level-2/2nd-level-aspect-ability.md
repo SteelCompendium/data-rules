@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-ability
 type: feature
 ---
 
-Your [primordial aspect](../level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../level-1/primordial-aspect.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 2nd-Level Berserker Ability
 
@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 Melee 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This [forced movement](../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../../rule/character/might.md) score.
+**Effect:** You vertically push the target up to 4 squares. This [forced movement](../../../movement/forced-movement.md) ignores the target's [stability](../../../rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../../rule/character/might.md) score.
 
 ### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
@@ -32,11 +32,11 @@ Choose one of the following abilities.
 |------------------------|-------------:|
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../../../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../../../movement/difficult-terrain.md).
+**Effect:** You move up to your [speed](../../../rule/character/speed.md) in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../../../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../../../movement/difficult-terrain.md).
 
-Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.
+Additionally, you make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy you move adjacent to during this movement.
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** Push 1
 - **12-16:** Push 2
@@ -55,7 +55,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../condition/dazed.md) and [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../condition/dazed.md) and [frightened](../../../condition/frightened.md) (save ends)
@@ -70,9 +70,9 @@ Choose one of the following abilities.
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies you move adjacent to during this [shift](../../../movement/shifting.md).
+**Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md) and make one [power roll](../../../rule/dice/power-roll.md) that targets up to three enemies you move adjacent to during this [shift](../../../movement/shifting.md).
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 damage; A < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -91,13 +91,13 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 4 damage; I < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 6 damage; I < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
 - **17+:** 10 damage; I < STRONG, [slowed](../../../condition/slowed.md) (save ends)
 
-**Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
+**Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to move.
 
 ### Visceral Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar"}
 
@@ -106,9 +106,9 @@ Choose one of the following abilities.
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 2 burst**  | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)

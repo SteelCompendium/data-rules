@@ -4,7 +4,7 @@ class: elementalist
 cost: 9 Essence
 cost_amount: "9"
 cost_resource: Essence
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effect: The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
 feature_type: ability
 file_basename: storm-of-sands
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 9 Essence
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
 feature_type: ability
@@ -41,7 +41,7 @@ metadata:
     action_type: Main action
     class: elementalist
     cost: 9 Essence
-    distance: 4 cube within 10
+    distance: 4 [cube](../../../../rule/combat/cube.md) within 10
     effect: The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
     flavor: Dirt and debris swirl into a dark, pulsing hurricane.
     keywords:

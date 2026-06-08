@@ -10,43 +10,43 @@ source: mcdm.heroes.v1
 type: chapter
 ---
 
-When you want your hero to rifle through a desk and locate a specific document, scale a castle wall, negotiate a treaty with a monarch, or undertake any other activity with a chance of failure, you'll need to make a test to determine how successful you are at the task. A test is any power roll that has failure or consequences as an option.
+When you want your hero to rifle through a desk and locate a specific document, scale a castle wall, negotiate a treaty with a monarch, or undertake any other activity with a chance of failure, you'll need to make a [test](../rule/test/test.md) to determine how successful you are at the task. A [test](../rule/test/test.md) is any [power roll](../rule/dice/power-roll.md) that has failure or consequences as an option.
 
 ### When to Make a Test
 
-The Director should ask a player to make a test only when the player's hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won't grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can stand up to either try again or walk around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
+The Director should ask a player to make a [test](../rule/test/test.md) only when the player's hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won't grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can stand up to either try again or walk around the wall. As such, no [test](../rule/test/test.md) is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a [test](../rule/test/test.md) to determine what happens.
 
-The advancement of a story shouldn't be halted by failing a test. For instance, the heroes might need to know the color of a [dwarf](../ancestry/dwarf.md) king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful [Reason](../rule/character/reason.md) test allows the heroes to recall that lore, but the test shouldn't be their only option to get the information. If the test fails, perhaps the heroes need to go to a [flying](../movement/fly.md) library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
+The advancement of a story shouldn't be halted by failing a [test](../rule/test/test.md). For instance, the heroes might need to know the color of a [dwarf](../ancestry/dwarf.md) king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful [Reason](../rule/character/reason.md) [test](../rule/test/test.md) allows the heroes to recall that lore, but the [test](../rule/test/test.md) shouldn't be their only option to get the information. If the [test](../rule/test/test.md) fails, perhaps the heroes need to go to a [flying](../movement/fly.md) library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed [test](../rule/test/test.md) should always result in a story becoming more interesting, not in the action coming to an end.
 
 #### It Just Works!
 
-When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to climb a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can climb up the wall without needing to make a test.
+When a hero attempts to solve a task that typically requires a [test](../rule/test/test.md) with clever, outside-the-box thinking, the Director can instead decide that no [test](../rule/test/test.md) is required and the attempt automatically works! For example, if a hero who wants to climb a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can climb up the wall without needing to make a [test](../rule/test/test.md).
 
-That said, such clever ideas often work for free the first time, but the Director could decide they require tests if they are used again.
+That said, such clever ideas often work for free the first time, but the Director could decide they require [tests](../rule/test/test.md) if they are used again.
 
 ### Heroes Make Tests
 
-If a hero attempts to sneak by an enemy guard unnoticed, should the hero make an [Agility](../rule/character/agility.md) test to sneak, or should the guard make an [Intuition](../rule/character/intuition.md) test to catch the hero in the act? If a cultist lies to a hero about the location of a secret temple, does the cultist roll a [Presence](../rule/character/presence.md) test to conceal the truth, or does the hero roll an [Intuition](../rule/character/intuition.md) test to discern the cultist's honesty?
+If a hero attempts to sneak by an enemy guard unnoticed, should the hero make an [Agility](../rule/character/agility.md) [test](../rule/test/test.md) to sneak, or should the guard make an [Intuition](../rule/character/intuition.md) [test](../rule/test/test.md) to catch the hero in the act? If a cultist lies to a hero about the location of a secret temple, does the cultist roll a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) to conceal the truth, or does the hero roll an [Intuition](../rule/character/intuition.md) [test](../rule/test/test.md) to discern the cultist's honesty?
 
-Except in certain scenarios (explored at NPCs Roll for Deceptive Tasks and Opposed Power Rolls below), heroes make tests and NPCs do not. Heroes are the stars of the story, and the consequences and rewards of tests have longer-lasting implications for them. There are exceptions to this rule, of course. If a hero travels with an NPC retainer or companion, that NPC will almost certainly make tests from time to time. But for the most part, NPCs and other creatures never need to make tests when what they do opposes what the heroes do.
+Except in certain scenarios (explored at [NPCs](../rule/general/npc.md) Roll for Deceptive Tasks and [Opposed Power Rolls](../rule/dice/opposed-power-roll.md) below), heroes make [tests](../rule/test/test.md) and [NPCs](../rule/general/npc.md) do not. Heroes are the stars of the story, and the consequences and rewards of [tests](../rule/test/test.md) have longer-lasting implications for them. There are exceptions to this rule, of course. If a hero travels with an [NPC](../rule/general/npc.md) [retainer](../rule/general/retainer.md) or companion, that [NPC](../rule/general/npc.md) will almost certainly make [tests](../rule/test/test.md) from time to time. But for the most part, [NPCs](../rule/general/npc.md) and other creatures never need to make [tests](../rule/test/test.md) when what they do opposes what the heroes do.
 
-To quickly assess the difficulty of a task opposed by one or more creatures and the test made to attempt it, the Director can use the following guidelines (though these are not hard and fast rules):
+To quickly assess the difficulty of a task opposed by one or more creatures and the [test](../rule/test/test.md) made to attempt it, the Director can use the following guidelines (though these are not hard and fast rules):
 
-- **Easy Test:** A test is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their test roll for the task than the hero does. If a hero with an [Agility](../rule/character/agility.md) score of 2 attempts to sneak by a guard with an [Intuition](../rule/character/intuition.md) score of 0, the test is easy.
-- **Moderate Test:** A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
-- **Hard Test:** A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
+- **Easy [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their [test](../rule/test/test.md) roll for the task than the hero does. If a hero with an [Agility](../rule/character/agility.md) score of 2 attempts to sneak by a guard with an [Intuition](../rule/character/intuition.md) score of 0, the [test](../rule/test/test.md) is easy.
+- **Moderate [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their [test](../rule/test/test.md) rolls than the hero, or if only one creature opposes the hero and has the same [test](../rule/test/test.md) bonus as the hero.
+- **Hard [Test](../rule/test/test.md):** A [test](../rule/test/test.md) is hard if an opposed creature would have a higher bonus to their [test](../rule/test/test.md) roll than the hero, or if multiple creatures with the same [test](../rule/test/test.md) bonus as the hero oppose the hero.
 
 The failure consequences of opposed tasks are some of the easiest to create on the fly. Fail to hide from someone, and they notice you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you're picking up the tab. The consequence is that the opposition bests the hero.
 
 #### NPCs Roll for Deceptive Tasks
 
-At times, the Director might choose for an NPC to make a test when engaged in a deceptive task, rather than having characters attempt to note the deception. By having the NPC roll in these scenarios, the Director doesn't tip their hand to the players that subterfuge is afoot.
+At times, the Director might choose for an [NPC](../rule/general/npc.md) to make a [test](../rule/test/test.md) when engaged in a deceptive task, rather than having characters attempt to note the deception. By having the [NPC](../rule/general/npc.md) roll in these scenarios, the Director doesn't tip their hand to the players that subterfuge is afoot.
 
-For example, when an assassin attempts to ambush the heroes while they sit around a campfire, if any player says their hero is on the lookout for danger, that hero would make an [Intuition](../rule/character/intuition.md) test to notice the danger. But if no one is keeping watch, the assassin makes an [Agility](../rule/character/agility.md) test to sneak up on the heroes unnoticed. If the assassin fails the test, the heroes notice immediately as their assailant loudly steps on a twig. If the assassin succeeds, the heroes don't notice until the assailant is right on top of them.
+For example, when an assassin attempts to ambush the heroes while they sit around a campfire, if any player says their hero is on the lookout for danger, that hero would make an [Intuition](../rule/character/intuition.md) [test](../rule/test/test.md) to notice the danger. But if no one is keeping watch, the assassin makes an [Agility](../rule/character/agility.md) [test](../rule/test/test.md) to sneak up on the heroes unnoticed. If the assassin fails the [test](../rule/test/test.md), the heroes notice immediately as their assailant loudly steps on a twig. If the assassin succeeds, the heroes don't notice until the assailant is right on top of them.
 
-An NPC might also make a [Presence](../rule/character/presence.md) test if they lie to the heroes, as long as the heroes have no reason to believe the character would be deceptive. The Director knows if the heroes are wary in that way because the players will ask if they can make a test to discern the NPC's honesty.
+An [NPC](../rule/general/npc.md) might also make a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) if they lie to the heroes, as long as the heroes have no reason to believe the character would be deceptive. The Director knows if the heroes are wary in that way because the players will ask if they can make a [test](../rule/test/test.md) to discern the [NPC](../rule/general/npc.md)'s honesty.
 
-As an optional rule, the Director is also free to ask the heroes to make a reactive test to a deceptive NPC instead (see Reactive Tests below) whenever they choose.
+As an optional rule, the Director is also free to ask the heroes to make a [reactive test](../rule/test/reactive-test.md) to a deceptive [NPC](../rule/general/npc.md) instead (see [Reactive Tests](../rule/test/reactive-test.md) below) whenever they choose.
 
 ### Example Tests
 
@@ -58,9 +58,9 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 **Grace (playing Val, a [conduit](../class/conduit.md)):** *Agreed.*
 
-**Director:** *Okay. It'll be a [Might](../rule/character/might.md) test to get up to the top of the wall.*
+**Director:** *Okay. It'll be a [Might](../rule/character/might.md) [test](../rule/test/test.md) to get up to the top of the wall.*
 
-The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to climb, designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
+The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to climb, designed to repel invaders. The [test](../rule/test/test.md)'s difficulty is hard, but the Director keeps that information a secret for now.
 
 **Alyssa (playing Jorn, a [tactician](../class/tactician.md)):** *Let me go first. I've got good [Might](../rule/character/might.md) and can throw the others down a rope once I'm up there. And I've got the [Climb](../skill/climb.md) skill.*
 
@@ -70,23 +70,23 @@ Alyssa rolls 2d10 and gets a 13. She then adds her [Might](../rule/character/mig
 
 **Alyssa:** *A 17! That's tier 3, baby!*
 
-The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 outcome is a success on a hard test.
+The Director checks the [Test Difficulty](../rule/test/test-difficulty.md) Outcomes table to confirm that a tier 3 outcome is a success on a hard [test](../rule/test/test.md).
 
 **Director:** *Okay, you're on top of the wall. You notice a few guards patrolling atop the opposite side of the wall in the distance, but they're looking out at the city right now.*
 
 **Alyssa:** *Great! I toss down a rope. Val, you're next.*
 
-**Grace:** *So it's a [Might](../rule/character/might.md) test. Would you let me use Endurance? It's a lot of physical exertion to climb.*
+**Grace:** *So it's a [Might](../rule/character/might.md) [test](../rule/test/test.md). Would you let me use Endurance? It's a lot of physical exertion to climb.*
 
-**Director:** *It's not a climb that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
+**Director:** *It's not a climb that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier [test](../rule/test/test.md).*
 
 **Grace:** *Fair. Okay, dice. Let's do this.*
 
-Given the rope, the Director decides that this second climb attempt is an easy test. Grace rolls 2d10 and gets an 11. With her [Might](../rule/character/might.md) score of 2, that's a 13.
+Given the rope, the Director decides that this second climb attempt is an easy [test](../rule/test/test.md). Grace rolls 2d10 and gets an 11. With her [Might](../rule/character/might.md) score of 2, that's a 13.
 
 **Grace:** *13! That's a tier 2 outcome for Val.*
 
-The Director checks the Test Difficulty Outcomes table once more, confirming that a tier 2 outcome is a success on an easy test.
+The Director checks the [Test Difficulty](../rule/test/test-difficulty.md) Outcomes table once more, confirming that a tier 2 outcome is a success on an easy [test](../rule/test/test.md).
 
 **Director:** *Good news! You make it to the top of the wall alongside Jorn.*
 
@@ -96,13 +96,13 @@ The Director checks the Test Difficulty Outcomes table once more, confirming tha
 
 **Alyssa:** *What if Korvo grabs onto the rope and I lift him up while he just hangs on for the ride?*
 
-**Director:** *Sure. That'll be a [Might](../rule/character/might.md) test if Korvo's down for it.*
+**Director:** *Sure. That'll be a [Might](../rule/character/might.md) [test](../rule/test/test.md) if Korvo's down for it.*
 
 **James:** *Nothing risked, nothing saved. Let's do it. Just be careful. Any loud noises could attract those guards.*
 
 **Alyssa:** *Please. I'm a pro. Since I'm lifting this [polder](../ancestry/polder.md) off the ground, does the Lift skill apply?*
 
-**Director:** *Yes, it does. Roll it up. That's a medium difficulty test.*
+**Director:** *Yes, it does. Roll it up. That's a medium difficulty [test](../rule/test/test.md).*
 
 Lifting the diminutive [polder](../ancestry/polder.md), Alyssa rolls 2d10-but gets a 2! With her [Might](../rule/character/might.md) score and Lift skill bonus of +2, the total is 6.
 
@@ -124,15 +124,15 @@ The Director then decides to make the failure potentially more interesting, by a
 
 ### Assist a Test
 
-You can attempt to assist another creature with a test they make, provided you have a skill that applies to the test, the other creature isn't using that same skill on the test, and you can describe how your character helps to the Director's satisfaction. In other words, your attempt to help has to make sense, and you have to bring some useful expertise to the table. Helping another creature sneak by shouting encouragement at them isn't going to make them stealthier.
+You can attempt to assist another creature with a [test](../rule/test/test.md) they make, provided you have a skill that applies to the [test](../rule/test/test.md), the other creature isn't using that same skill on the [test](../rule/test/test.md), and you can describe how your character helps to the Director's satisfaction. In other words, your attempt to help has to make sense, and you have to bring some useful expertise to the table. Helping another creature sneak by shouting encouragement at them isn't going to make them stealthier.
 
-When you attempt to assist another creature, make a test using the skill you choose, and using a [characteristic](../rule/character/characteristic.md) chosen by the Director based on the activity you use to help. The outcome of that test determines the bonus applied to the test you're assisting:
+When you attempt to assist another creature, make a [test](../rule/test/test.md) using the skill you choose, and using a [characteristic](../rule/character/characteristic.md) chosen by the Director based on the activity you use to help. The outcome of that [test](../rule/test/test.md) determines the bonus applied to the [test](../rule/test/test.md) you're assisting:
 
-- **≤11:** You get in the way or make things worse. The creature takes a [bane](../rule/dice/bane.md) on their test.
-- **12-16:** Your help grants the other creature an [edge](../rule/dice/edge.md) on their test.
-- **17+:** Your help gives the other creature a double [edge](../rule/dice/edge.md) on their test.
+- **≤11:** You get in the way or make things worse. The creature takes a [bane](../rule/dice/bane.md) on their [test](../rule/test/test.md).
+- **12-16:** Your help grants the other creature an [edge](../rule/dice/edge.md) on their [test](../rule/test/test.md).
+- **17+:** Your help gives the other creature a double [edge](../rule/dice/edge.md) on their [test](../rule/test/test.md).
 
-For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../rule/character/presence.md) test using Flirt. The outcome of that test determines the bonus you provide to the other hero's [Agility](../rule/character/agility.md) test to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
+For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) using Flirt. The outcome of that [test](../rule/test/test.md) determines the bonus you provide to the other hero's [Agility](../rule/character/agility.md) [test](../rule/test/test.md) to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
 
 ### Hide and Sneak
 
@@ -142,11 +142,11 @@ Hiding and sneaking are important tools for heroes and their foes. You might wan
 
 To hide from a creature, you must have [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) from that creature (see Chapter 10: [Combat](combat.md)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
 
-When you use the [Hide](../feature/common/maneuvers/hide.md) maneuver to hide during combat while you have [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a test using the [Hide](../skill/hide.md) skill to determine how well hidden you are.
+When you use the [Hide](../feature/common/maneuvers/hide.md) maneuver to hide during combat while you have [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a [test](../rule/test/test.md) using the [Hide](../skill/hide.md) skill to determine how well hidden you are.
 
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
-Additionally, while you are hidden from another creature, you gain an [edge](../rule/dice/edge.md) on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) toward them and use an ability against them, and still gain an [edge](../rule/dice/edge.md) on ability rolls made against the creature as long as you use the ability before the end of that turn.
+Additionally, while you are hidden from another creature, you gain an [edge](../rule/dice/edge.md) on [ability rolls](../rule/dice/ability-roll.md) made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) toward them and use an ability against them, and still gain an [edge](../rule/dice/edge.md) on [ability rolls](../rule/dice/ability-roll.md) made against the creature as long as you use the ability before the end of that turn.
 
 Draw Steel
 
@@ -154,16 +154,16 @@ You are no longer hidden from a creature if you don't have [cover](../rule/comba
 
 ##### Searching for Hidden Creatures
 
-You can search for creatures who are hidden from you as long as those creatures are within 10 squares and you have line of effect to them. To do so, you use a maneuver to make an [Intuition](../rule/character/intuition.md) test using the Search skill, and any hidden creatures within 10 squares of you each make an opposed [Agility](../rule/character/agility.md) test using the [Hide](../skill/hide.md) skill (see Opposed Power Rolls earlier in this chapter). At the Director's discretion, different [characteristics](../rule/character/characteristic.md) and skills can be used in this opposed test. For example, your foe might make a [Presence](../rule/character/presence.md) test using the [Handle Animals](../skill/handle-animals.md) skill to hide among a flock of sheep without disturbing them, or you could make a [Reason](../rule/character/reason.md) test using the Eavesdrop skill to pick out the breathing of a creature hidden in the dark.
+You can search for creatures who are hidden from you as long as those creatures are within 10 squares and you have [line of effect](../rule/combat/line-of-effect.md) to them. To do so, you use a maneuver to make an [Intuition](../rule/character/intuition.md) [test](../rule/test/test.md) using the Search skill, and any hidden creatures within 10 squares of you each make an opposed [Agility](../rule/character/agility.md) [test](../rule/test/test.md) using the [Hide](../skill/hide.md) skill (see [Opposed Power Rolls](../rule/dice/opposed-power-roll.md) earlier in this chapter). At the Director's discretion, different [characteristics](../rule/character/characteristic.md) and skills can be used in this opposed [test](../rule/test/test.md). For example, your foe might make a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) using the [Handle Animals](../skill/handle-animals.md) skill to hide among a flock of sheep without disturbing them, or you could make a [Reason](../rule/character/reason.md) [test](../rule/test/test.md) using the Eavesdrop skill to pick out the breathing of a creature hidden in the dark.
 
-If the total of your test is higher than that of a hidden creature, they are no longer hidden from you. Otherwise, they remain hidden from you. As part of the maneuver used to search for hidden creatures, you can point out any creatures you notice to allies within 10 squares of you, making those creatures no longer hidden from those allies.
+If the total of your [test](../rule/test/test.md) is higher than that of a hidden creature, they are no longer hidden from you. Otherwise, they remain hidden from you. As part of the maneuver used to search for hidden creatures, you can point out any creatures you notice to allies within 10 squares of you, making those creatures no longer hidden from those allies.
 
-If a creature is hidden from your allies but not from you, you can use a maneuver without making a test to point that creature out to your allies.
+If a creature is hidden from your allies but not from you, you can use a maneuver without making a [test](../rule/test/test.md) to point that creature out to your allies.
 
 > **What Does It Mean to Be Observed?**
 >
-> Most of the time, if a creature has line of effect to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
+> Most of the time, if a creature has [line of effect](../rule/combat/line-of-effect.md) to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have [line of effect](../rule/combat/line-of-effect.md) to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their [line of effect](../rule/combat/line-of-effect.md), so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
 
 #### Sneaking
 
-While you are hidden from another creature and not in combat, you can attempt to sneak—avoiding the senses of other creatures as you move around them in the open—to remain hidden. While sneaking, your speed is halved. To sneak, you make an [Agility](../rule/character/agility.md) test using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This test can use another [characteristic](../rule/character/characteristic.md) at the Director's discretion, such as using [Presence](../rule/character/presence.md) to blend in with a crowd on a packed city street.
+While you are hidden from another creature and not in combat, you can attempt to sneak—avoiding the senses of other creatures as you move around them in the open—to remain hidden. While sneaking, your [speed](../rule/character/speed.md) is halved. To sneak, you make an [Agility](../rule/character/agility.md) [test](../rule/test/test.md) using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This [test](../rule/test/test.md) can use another [characteristic](../rule/character/characteristic.md) at the Director's discretion, such as using [Presence](../rule/character/presence.md) to blend in with a crowd on a packed city street.

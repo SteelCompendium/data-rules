@@ -14,7 +14,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "tactician",
-    "content": "\n*You shout a phrase that galvanizes your team.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **📏 Ranged 10** | **🎯 Three allies** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).\n- **12-16:** Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).\n- **17+:** Each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
+    "content": "\n*You shout a phrase that galvanizes your team.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **📏 Ranged 10** | **🎯 Three allies** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).\n- **12-16:** Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).\n- **17+:** Each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You shout a phrase that galvanizes your team.",

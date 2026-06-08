@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an [edge](../../../rule/dice/edge.md) on [Reason](../../../rule/character/reason.md) tests.
+    - effect: Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an [edge](../../../rule/dice/edge.md) on [Reason](../../../rule/character/reason.md) [tests](../../../rule/test/test.md).
 feature_type: feature
 metadata:
     class: tactician

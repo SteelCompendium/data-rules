@@ -9,7 +9,6 @@ melee_damage_bonus: +1/+1/+1
 name: Whirlwind
 scc: mcdm.heroes.v1/kit/whirlwind
 source: mcdm.heroes.v1
-speed_bonus: "+3"
 type: kit
 ---
 
@@ -21,7 +20,7 @@ You wear no armor and wield a whip.
 
 ##### Kit Bonuses
 
-**Speed Bonus:** +3
+**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +3
 
 **Melee Damage Bonus:** +1/+1/+1
 
@@ -39,7 +38,7 @@ You wear no armor and wield a whip.
 |---------------------------|--------------------:|
 | **📏 Melee 3**            | **🎯 One creature** |
 
-**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
+**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 4 + M or A damage; vertical pull 1
 - **12-16:** 7 + M or A damage; vertical pull 2
@@ -48,7 +47,7 @@ You wear no armor and wield a whip.
 ```ds-feature
 distance: Melee 3
 effects:
-    - effect: "*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 3**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
+    - effect: "*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 3**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
 feature_type: ability
 flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
 keywords:

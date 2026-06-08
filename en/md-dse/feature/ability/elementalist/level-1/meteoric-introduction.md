@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: "\n*You give your enemy a gentle tap-like an asteroid impact.*\n\n| **Earth, Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                  | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 + R damage; push 2\n- **12-16:** 5 + R damage; push 3\n- **17+:** 8 + R damage; push 4"
+    - effect: "\n*You give your enemy a gentle tap-like an asteroid impact.*\n\n| **Earth, Magic, Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                  | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 + R damage; push 2\n- **12-16:** 5 + R damage; push 3\n- **17+:** 8 + R damage; push 4"
 feature_type: ability
 flavor: You give your enemy a gentle tap-like an asteroid impact.
 keywords:

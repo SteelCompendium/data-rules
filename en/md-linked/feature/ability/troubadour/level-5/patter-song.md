@@ -21,7 +21,7 @@ type: ability
 |-------------------|---------------:|
 | **📏 Ranged 10**  | **🎯 Special** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** One ally within [distance](../../../../rule/combat/distance.md) can take their turn immediately after yours.
 - **12-16:** Two allies within [distance](../../../../rule/combat/distance.md) can take their turns immediately after yours in any order.

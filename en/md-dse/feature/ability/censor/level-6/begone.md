@@ -4,7 +4,7 @@ class: censor
 cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 feature_type: ability
 file_basename: begone
 file_dpath: feature/ability/censor/level-6
@@ -24,9 +24,9 @@ type: ability
 
 ```ds-feature
 cost: 9 Wrath
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: "\n*You terrify your enemies into retreating, creating chaos in their ranks.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 4 psychic damage; slide 3\n- **12-16:** 6 psychic damage; slide 5\n- **17+:** 8 psychic damage; slide 7"
+    - effect: "\n*You terrify your enemies into retreating, creating chaos in their ranks.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 4 psychic damage; slide 3\n- **12-16:** 6 psychic damage; slide 5\n- **17+:** 8 psychic damage; slide 7"
 feature_type: ability
 flavor: You terrify your enemies into retreating, creating chaos in their ranks.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: censor
     cost: 9 Wrath
-    distance: 3 burst
+    distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     flavor: You terrify your enemies into retreating, creating chaos in their ranks.
     keywords:
         - Area

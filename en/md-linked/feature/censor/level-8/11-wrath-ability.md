@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.censor.level-8/11-wrath-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 11 wrath to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 11 wrath to use.
 
 ## Excommunication {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/excommunication"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 + M damage; I < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 13 + M damage; I < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           |           **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage
 - **12-16:** 15 + M damage
@@ -51,7 +51,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 |----------------------------|--------------------:|
 | **📏 Melee 1**             | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 + M damage; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 13 + M damage; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -68,10 +68,10 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           |           **🎯 One creature** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage; I < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
 - **17+:** 12 + P damage; I < STRONG, [slowed](../../../condition/slowed.md) (save ends)
 
-**Effect:** While the target is [slowed](../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../common/main-actions/free-strike.md) against the target instead.
+**Effect:** While the target is [slowed](../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](../../../rule/combat/free-maneuver.md) to make a [free strike](../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../common/main-actions/free-strike.md) against the target instead.

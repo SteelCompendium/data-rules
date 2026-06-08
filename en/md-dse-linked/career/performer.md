@@ -5,7 +5,6 @@ item_id: performer
 item_name: Performer
 name: Performer
 perk: One interpersonal perk (*Quick Build:* [Harmonizer](../perk/harmonizer.md).)
-renown: "+2"
 scc: mcdm.heroes.v1/career/performer
 skills:
     - The [Music](../skill/music.md) or [Perform](../skill/perform.md) skill (from the interpersonal skill group), plus two more skills from the interpersonal group (*Quick Build:* [Flirt](../skill/flirt.md), [Music](../skill/music.md), [Perform](../skill/perform.md).)
@@ -24,7 +23,7 @@ You gain the following career benefits:
 
 **Skills:** The [Music](../skill/music.md) or [Perform](../skill/perform.md) skill (from the interpersonal skill group), plus two more skills from the interpersonal group (*Quick Build:* [Flirt](../skill/flirt.md), [Music](../skill/music.md), [Perform](../skill/perform.md).)
 
-**Renown:** +2
+**[Renown](../rule/resource/renown.md):** +2
 
 **Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](../perk/harmonizer.md).)
 

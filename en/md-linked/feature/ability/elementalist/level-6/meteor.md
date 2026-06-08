@@ -25,7 +25,7 @@ type: ability
 |--------------------------------------|------------------------------:|
 | **📏 Ranged 10**                     | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** You [teleport](../../../../movement/teleport.md) the target up to 4 squares.
 - **12-16:** You [teleport](../../../../movement/teleport.md) the target up to 6 squares.

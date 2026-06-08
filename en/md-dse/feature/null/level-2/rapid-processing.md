@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.
+    - effect: As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any [respite](scc:mcdm.heroes.v1/rule.resource/respite), you can take an additional [respite](scc:mcdm.heroes.v1/rule.resource/respite) activity.
 feature_type: feature
 metadata:
     class: "null"

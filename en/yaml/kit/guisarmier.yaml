@@ -1,4 +1,4 @@
-content: "The [Guisarmier](scc:mcdm.heroes.v1/kit/guisarmier) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.\n\n##### Equipment\n\nYou wear medium armor and wield a polearm.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per echelon\n\n**Stability Bonus:** +1\n\n**Melee Damage Bonus:** +2/+2/+2\n\n**Melee [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +1\n\n##### Signature Ability\n\n###### Forward Thrust, Backward Smash\n\n*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
+content: "The [Guisarmier](scc:mcdm.heroes.v1/kit/guisarmier) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.\n\n##### Equipment\n\nYou wear medium armor and wield a polearm.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)\n\n**[Stability](scc:mcdm.heroes.v1/rule.character/stability) Bonus:** +1\n\n**Melee Damage Bonus:** +2/+2/+2\n\n**Melee [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +1\n\n##### Signature Ability\n\n###### Forward Thrust, Backward Smash\n\n*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
 equipment_text: You wear medium armor and wield a polearm.
 melee_damage_bonus: +2/+2/+2
 name: Guisarmier
@@ -17,7 +17,7 @@ signature_ability:
     metadata:
         ability_type: Signature
         action_type: Main action
-        content: "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
+        content: "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
         distance: Melee 2
         feature_type: ability
         flavor: In your hands, the haft is as good as the head.
@@ -33,5 +33,4 @@ signature_ability:
     target: Two creatures or objects
     type: feature
     usage: Main action
-stability_bonus: "+1"
 type: kit

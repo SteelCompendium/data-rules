@@ -5,7 +5,7 @@ cost: 11 Focus
 cost_amount: "11"
 cost_resource: Focus
 distance: Ranged 10
-effect: The target gains 2 [surges](../../../../rule/resource/surge.md) and can use a signature or heroic ability as a free triggered action. The ability has a double [edge](../../../../rule/dice/edge.md) on the power roll, ignores [damage immunity](../../../../rule/damage/damage-immunity.md), and increases the potency of any potency effects by 1.
+effect: The target gains 2 [surges](../../../../rule/resource/surge.md) and can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md). The ability has a double [edge](../../../../rule/dice/edge.md) on the [power roll](../../../../rule/dice/power-roll.md), ignores [damage immunity](../../../../rule/damage/damage-immunity.md), and increases the [potency](../../../../rule/character/potency.md) of any [potency](../../../../rule/character/potency.md) effects by 1.
 feature_type: ability
 file_basename: go-now-and-speed-well
 file_dpath: feature/ability/tactician/level-8
@@ -26,7 +26,7 @@ type: ability
 cost: 11 Focus
 distance: Ranged 10
 effects:
-    - effect: The target gains 2 [surges](../../../../rule/resource/surge.md) and can use a signature or heroic ability as a free triggered action. The ability has a double [edge](../../../../rule/dice/edge.md) on the power roll, ignores [damage immunity](../../../../rule/damage/damage-immunity.md), and increases the potency of any potency effects by 1.
+    - effect: The target gains 2 [surges](../../../../rule/resource/surge.md) and can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md). The ability has a double [edge](../../../../rule/dice/edge.md) on the [power roll](../../../../rule/dice/power-roll.md), ignores [damage immunity](../../../../rule/damage/damage-immunity.md), and increases the [potency](../../../../rule/character/potency.md) of any [potency](../../../../rule/character/potency.md) effects by 1.
 feature_type: ability
 flavor: You direct an attack to strike true.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 11 Focus
     distance: Ranged 10
-    effect: The target gains 2 [surges](../../../../rule/resource/surge.md) and can use a signature or heroic ability as a free triggered action. The ability has a double [edge](../../../../rule/dice/edge.md) on the power roll, ignores [damage immunity](../../../../rule/damage/damage-immunity.md), and increases the potency of any potency effects by 1.
+    effect: The target gains 2 [surges](../../../../rule/resource/surge.md) and can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md). The ability has a double [edge](../../../../rule/dice/edge.md) on the [power roll](../../../../rule/dice/power-roll.md), ignores [damage immunity](../../../../rule/damage/damage-immunity.md), and increases the [potency](../../../../rule/character/potency.md) of any [potency](../../../../rule/character/potency.md) effects by 1.
     flavor: You direct an attack to strike true.
     keywords:
         - Ranged

@@ -22,7 +22,7 @@ type: ability
 |----------------------------|------------------------------:|
 | **📏 Ranged 10**           | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 3 + I holy damage; A < WEAK[, prone](../../../../condition/prone.md)
 - **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../../../../condition/prone.md)

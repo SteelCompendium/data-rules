@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.talent.level-1/psionic-augmentation
 type: feature
 ---
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](talent-ward.md) below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../../null/level-1/force-augmentation.md).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](talent-ward.md) below) by undergoing a psionic meditation as a [respite](../../../rule/resource/respite.md) activity. (*Quick Build:*  [Force Augmentation](../../null/level-1/force-augmentation.md).)
 
 ## Battle Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/battle-augmentation"}
 
@@ -16,7 +16,7 @@ If you have a kit, you can't take this augmentation.
 
 ## Density Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/density-augmentation"}
 
-You gain a +6 bonus to [Stamina](../../../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+You gain a +6 bonus to [Stamina](../../../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../rule/character/stability.md).
 
 ## Distance Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/distance-augmentation"}
 
@@ -24,8 +24,8 @@ Your ranged psionic abilities gain a +2 bonus to [distance](../../../rule/combat
 
 ## Force Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/force-augmentation"}
 
-Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
+Your damage-dealing psionic abilities gain a +1 bonus to [rolled damage](../../../rule/damage/rolled-damage.md).
 
 ## Speed Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/speed-augmentation"}
 
-You gain a +1 bonus to speed and to the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
+You gain a +1 bonus to [speed](../../../rule/character/speed.md) and to the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.

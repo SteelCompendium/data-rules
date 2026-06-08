@@ -5,7 +5,7 @@ cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
 distance: Ranged 10
-effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
+effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's [power roll](../../../../rule/dice/power-roll.md) automatically obtains a tier 3 outcome.
 feature_type: ability
 file_basename: coordinated-execution
 file_dpath: feature/ability/tactician/level-6
@@ -20,7 +20,7 @@ scc: mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution
 source: mcdm.heroes.v1
 subtype: triggered
 target: One ally
-trigger: The target uses an ability to deal rolled damage to a creature while hidden.
+trigger: The target uses an ability to deal [rolled damage](../../../../rule/damage/rolled-damage.md) to a creature while hidden.
 type: ability
 ---
 
@@ -28,7 +28,7 @@ type: ability
 cost: 9 Focus
 distance: Ranged 10
 effects:
-    - effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
+    - effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's [power roll](../../../../rule/dice/power-roll.md) automatically obtains a tier 3 outcome.
 feature_type: ability
 flavor: You direct your ally to make a killing blow.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: tactician
     cost: 9 Focus
     distance: Ranged 10
-    effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
+    effect: If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's [power roll](../../../../rule/dice/power-roll.md) automatically obtains a tier 3 outcome.
     flavor: You direct your ally to make a killing blow.
     keywords:
         - Ranged
@@ -47,11 +47,11 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution
     subtype: triggered
     target: One ally
-    trigger: The target uses an ability to deal rolled damage to a creature while hidden.
+    trigger: The target uses an ability to deal [rolled damage](../../../../rule/damage/rolled-damage.md) to a creature while hidden.
     type: ability
 name: Coordinated Execution
 target: One ally
-trigger: The target uses an ability to deal rolled damage to a creature while hidden.
+trigger: The target uses an ability to deal [rolled damage](../../../../rule/damage/rolled-damage.md) to a creature while hidden.
 type: feature
 usage: Free triggered
 ```

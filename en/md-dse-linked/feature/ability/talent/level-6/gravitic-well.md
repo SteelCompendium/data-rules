@@ -4,7 +4,7 @@ class: talent
 cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effect: Targets closest to the center of the area are pulled first.
 feature_type: ability
 file_basename: gravitic-well
@@ -27,7 +27,7 @@ type: ability
 
 ```ds-feature
 cost: 9 Clarity
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: Targets closest to the center of the area are pulled first.
 feature_type: ability
@@ -41,7 +41,7 @@ metadata:
     action_type: Main action
     class: talent
     cost: 9 Clarity
-    distance: 4 cube within 10
+    distance: 4 [cube](../../../../rule/combat/cube.md) within 10
     effect: Targets closest to the center of the area are pulled first.
     flavor: You bend gravity into a fine point and pull your foes toward it.
     keywords:

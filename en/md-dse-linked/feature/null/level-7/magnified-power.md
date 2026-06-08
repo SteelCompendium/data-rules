@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability has a potency, you increase that potency by an amount equal to your [Intuition](../../../rule/character/intuition.md) score.
+    - effect: If the ability has a [potency](../../../rule/character/potency.md), you increase that [potency](../../../rule/character/potency.md) by an amount equal to your [Intuition](../../../rule/character/intuition.md) score.
 feature_type: feature
 metadata:
     class: "null"

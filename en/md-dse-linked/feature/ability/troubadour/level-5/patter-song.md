@@ -26,7 +26,7 @@ type: ability
 cost: 9 Drama
 distance: Ranged 10
 effects:
-    - effect: "\n*Dazzle them with your fancy patter and they forget where they were.*\n\n| **Magic, Ranged** |   **Maneuver** |\n|-------------------|---------------:|\n| **\U0001F4CF Ranged 10**  | **\U0001F3AF Special** |\n\n**Power Roll + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** One ally within [distance](../../../../rule/combat/distance.md) can take their turn immediately after yours.\n- **12-16:** Two allies within [distance](../../../../rule/combat/distance.md) can take their turns immediately after yours in any order.\n- **17+:** Three allies within [distance](../../../../rule/combat/distance.md) can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round."
+    - effect: "\n*Dazzle them with your fancy patter and they forget where they were.*\n\n| **Magic, Ranged** |   **Maneuver** |\n|-------------------|---------------:|\n| **\U0001F4CF Ranged 10**  | **\U0001F3AF Special** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** One ally within [distance](../../../../rule/combat/distance.md) can take their turn immediately after yours.\n- **12-16:** Two allies within [distance](../../../../rule/combat/distance.md) can take their turns immediately after yours in any order.\n- **17+:** Three allies within [distance](../../../../rule/combat/distance.md) can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round."
 feature_type: ability
 flavor: Dazzle them with your fancy patter and they forget where they were.
 keywords:

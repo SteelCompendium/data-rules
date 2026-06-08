@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: As a respite activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to rolled damage with abilities that use the weapon. This benefit lasts until you finish another respite.
+    - effect: As a [respite](../../../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to [rolled damage](../../../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../../../rule/resource/respite.md).
 feature_type: feature
 metadata:
     class: conduit

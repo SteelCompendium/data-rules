@@ -20,19 +20,19 @@ effects:
 
         ##### Signature Abilities
 
-        Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../ability/null/level-1/faster-than-the-eye.md), [Inertial Step](../../ability/null/level-1/inertial-step.md).)
+        Choose two [signature abilities](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Faster Than the Eye](../../ability/null/level-1/faster-than-the-eye.md), [Inertial Step](../../ability/null/level-1/inertial-step.md).)
 
         ##### Heroic Abilities
 
-        You have mastered a range of heroic abilities, all of them channeled through your discipline.
+        You have mastered a range of [heroic abilities](../../../rule/general/heroic-ability.md), all of them channeled through your discipline.
 
         ###### 3-Discipline Ability
 
-        Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](../../ability/null/level-1/chronal-spike.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](../../ability/null/level-1/chronal-spike.md).)
 
         ###### 5-Discipline Ability
 
-        Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](../../ability/null/level-1/a-squad-unto-myself.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](../../ability/null/level-1/a-squad-unto-myself.md).)
 feature_type: feature
 metadata:
     class: "null"

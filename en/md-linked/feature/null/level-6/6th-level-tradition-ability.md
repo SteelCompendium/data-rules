@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.null.level-6/6th-level-tradition-ability
 type: feature
 ---
 
-Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two heroic abilities.
+Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 6th-Level Chronokinetic Abilities
 
@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You can use up to three signature abilities, each of which gains an [edge](../../../rule/dice/edge.md).
+**Effect:** You can use up to three [signature abilities](../../../rule/combat/signature-ability.md), each of which gains an [edge](../../../rule/dice/edge.md).
 
 ### Phase Step {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/phase-step"}
 
@@ -32,9 +32,9 @@ Choose one of the following abilities.
 |----------------------------|----------------:|
 | **📏 Self; see below**     |     **🎯 Self** |
 
-**Effect:** You can [shift](../../../movement/shifting.md) up to your speed, and squares occupied by enemies or objects are not [difficult terrain](../../../movement/difficult-terrain.md) for this [shift](../../../movement/shifting.md). You make one power roll that targets each enemy you moved through during this [shift](../../../movement/shifting.md).
+**Effect:** You can [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md), and squares occupied by enemies or objects are not [difficult terrain](../../../movement/difficult-terrain.md) for this [shift](../../../movement/shifting.md). You make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy you moved through during this [shift](../../../movement/shifting.md).
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 damage; M < WEAK, [dazed](../../../condition/dazed.md)
 - **12-16:** 8 damage; M < AVERAGE, [dazed](../../../condition/dazed.md)
@@ -53,7 +53,7 @@ Choose one of the following abilities.
 |---------------------|----------------------------------:|
 | **📏 Ranged 10**    | **🎯 Three creatures or objects** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** Vertical slide 6
 - **12-16:** Vertical slide 8
@@ -85,13 +85,13 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** Vertical slide 5
 - **12-16:** Vertical slide 7
 - **17+:** Vertical slide 9
 
-**Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
+**Effect:** This movement ignores [stability](../../../rule/character/stability.md). If you slide into another creature, you resolve damage to both of you as if your [force move](../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
 
 ### Iron Body {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/iron-body"}
 
@@ -102,4 +102,4 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain 20 [temporary Stamina](../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your stability gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score.
+**Effect:** You gain 20 [temporary Stamina](../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your [stability](../../../rule/character/stability.md) gains a bonus equal to your [Intuition](../../../rule/character/intuition.md) score.

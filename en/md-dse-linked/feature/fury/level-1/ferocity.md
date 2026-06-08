@@ -24,7 +24,7 @@ effects:
 
         ##### Ferocity in Combat
 
-        At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.
+        At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 ferocity.
 
         Additionally, the first time each combat round that you take damage, you gain 1 ferocity. The first time you become [winded](../../../rule/health/winded.md) or are [dying](../../../rule/health/dying.md) in an encounter, you gain 1d3 ferocity.
 
@@ -32,9 +32,9 @@ effects:
 
         ##### Ferocity Outside of Combat
 
-        Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+        Though you can't gain ferocity outside of combat, you can use your [heroic abilities](../../../rule/general/heroic-ability.md) and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more [Victories](../../../rule/resource/victories.md) or finish a [respite](../../../rule/resource/respite.md).
 
-        When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../../ability/fury/level-1/to-the-uttermost-end.md), you can use it as if you had spent an amount of ferocity equal to your Victories.
+        When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../../ability/fury/level-1/to-the-uttermost-end.md), you can use it as if you had spent an amount of ferocity equal to your [Victories](../../../rule/resource/victories.md).
 feature_type: feature
 metadata:
     class: fury

@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-ability
 type: feature
 ---
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../../class/conduit.md) Domain Abilities table.
+Choose one of your domains. You gain a [heroic ability](../../../rule/general/heroic-ability.md) from that domain, as shown on the 2nd-Level [Conduit](../../../class/conduit.md) Domain Abilities table.
 
 ### 2nd-Level Conduit Domain Abilities Table
 
@@ -36,8 +36,8 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](../../../rule/health/dying.md):
 
-- Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.
-- Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
+- Whenever a target makes a [power roll](../../../rule/dice/power-roll.md), they can roll three dice and choose which two rolls to use.
+- Whenever a target makes a [power roll](../../../rule/dice/power-roll.md), they must roll three dice and use the lowest two rolls.
 
 ### Blessing of Insight {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight"}
 
@@ -57,7 +57,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 | **Area, Magic**  |                          **Maneuver** |
 |------------------|--------------------------------------:|
-| **📏 5 burst**   | **🎯 Self and each ally in the area** |
+| **📏 5 [burst](../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
 
 **Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
 
@@ -70,11 +70,11 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |---------------------------|--------------------:|
 | **📏 Ranged 10**          | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../common/main-actions/free-strike.md) against a target you choose
 - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
-- **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
+- **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their [speed](../../../rule/character/speed.md) to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
 ### Morning Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light"}
 
@@ -83,9 +83,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|
-| **📏 3 burst**   | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 4 fire damage
 - **12-16:** 6 fire damage
@@ -100,9 +100,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 | **Area, Magic, Ranged**  |               **Main action** |
 |--------------------------|------------------------------:|
-| **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -117,7 +117,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 |--------------------|-------------------------:|
 | **📏 Ranged 10**   | **🎯 Self and one ally** |
 
-**Effect:** Until the end of the encounter or until the target is [dying](../../../rule/health/dying.md), at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+**Effect:** Until the end of the encounter or until the target is [dying](../../../rule/health/dying.md), at the start of each of the target's turns, they gain a bonus to [speed](../../../rule/character/speed.md) and a bonus to [rolled damage](../../../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
 
 ### Reap {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/reap"}
 
@@ -148,9 +148,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 | **Area, Magic, Ranged**  |               **Main action** |
 |--------------------------|------------------------------:|
-| **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 2 lightning damage; vertical slide 1
 - **12-16:** 5 lightning damage; vertical slide 2
@@ -174,6 +174,6 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 | **Area, Magic**  |              **Main action** |
 |------------------|-----------------------------:|
-| **📏 3 aura**    | **🎯 Each ally in the area** |
+| **📏 3 [aura](../../../rule/combat/aura.md)**    | **🎯 Each ally in the area** |
 
 **Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), whenever a target starts their turn in the area, they can spend a [Recovery](../../../rule/health/recoveries.md).

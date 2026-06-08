@@ -10,7 +10,7 @@ source: mcdm.heroes.v1
 type: ancestry
 ---
 
-After [humans](human.md), [polders](polder.md) are the most numerous and diverse ancestry in Orden. They are not [humans](human.md), but they live in and among [humans](human.md) and share their gods and culture. Almost every [human](human.md) culture in Orden has a [polder](polder.md) saint or a [human](human.md) saint venerated by [polder](polder.md).
+After [humans](human.md), [polders](polder.md) are the most numerous and diverse ancestry in [Orden](../rule/world/orden.md). They are not [humans](human.md), but they live in and among [humans](human.md) and share their gods and culture. Almost every [human](human.md) culture in [Orden](../rule/world/orden.md) has a [polder](polder.md) saint or a [human](human.md) saint venerated by [polder](polder.md).
 
 Short, averaging 31/2 feet tall, the [polders](polder.md)' origins are obscure. They are a young species who, like [humans](human.md), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](polder.md) consider this a base slander and point out they're also famed as chefs, though [polders](polder.md) can be found in every profession, especially in cities.
 
@@ -70,7 +70,7 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](polder.md) looked at the [high elf](high-elf.md) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](polder.md) looked at the [high elf](high-elf.md) and nodded, impressed. [Test](../rule/test/test.md) passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 

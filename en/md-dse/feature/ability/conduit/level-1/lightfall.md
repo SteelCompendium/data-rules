@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: conduit
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effect: You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.
 feature_type: ability
 file_basename: lightfall
@@ -22,7 +22,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.
 feature_type: ability
@@ -33,7 +33,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    distance: 2 burst
+    distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.
     flavor: A rain of holy light scours your enemies and repositions your allies.
     keywords:

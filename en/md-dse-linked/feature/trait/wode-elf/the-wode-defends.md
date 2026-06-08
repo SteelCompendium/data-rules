@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following signature ability. Signature abilities can be used at will.
+    - effect: You have the following [signature ability](../../../rule/combat/signature-ability.md). [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will.
 feature_type: trait
 metadata:
     ancestry: wode-elf

@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 cost: 9 Drama
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:
     - Area
@@ -19,9 +19,9 @@ type: ability
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 5 burst**  | **🎯 Each enemy in the area** |
+| **📏 5 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
 - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)

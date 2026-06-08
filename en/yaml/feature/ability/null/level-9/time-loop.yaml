@@ -5,17 +5,17 @@ effects:
     - effect: You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
       name: Effect
 feature_type: ability
-flavor: You show shadows what true speed is.
+flavor: You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.
 keywords:
     - Psionic
 metadata:
     ability_type: Triggered
     action_type: Free triggered
     class: "null"
-    content: "\n*You show shadows what true speed is.*\n\n| **Psionic** | **Free triggered** |\n|-------------|-------------------:|\n| **\U0001F4CF Self** |        **\U0001F3AF Self** |\n\n**Trigger:** Another creature on the encounter map ends their turn.\n\n**Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round."
+    content: "\n*You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.*\n\n| **Psionic** | **Free triggered** |\n|-------------|-------------------:|\n| **\U0001F4CF Self** |        **\U0001F3AF Self** |\n\n**Trigger:** Another creature on the encounter map ends their turn.\n\n**Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round."
     distance: Self
     feature_type: ability
-    flavor: You show shadows what true speed is.
+    flavor: You show shadows what true [speed](scc:mcdm.heroes.v1/rule.character/speed) is.
     item_id: time-loop
     item_name: Time Loop
     keywords:

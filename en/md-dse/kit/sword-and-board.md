@@ -9,7 +9,6 @@ melee_damage_bonus: +2/+2/+2
 name: Sword and Board
 scc: mcdm.heroes.v1/kit/sword-and-board
 source: mcdm.heroes.v1
-stability_bonus: "+1"
 type: kit
 ---
 
@@ -21,9 +20,9 @@ You wear medium armor and wield a shield and a medium weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +9 per echelon
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +9 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
 
-**Stability Bonus:** +1
+**[Stability](scc:mcdm.heroes.v1/rule.character/stability) Bonus:** +1
 
 **Melee Damage Bonus:** +2/+2/+2
 
@@ -39,7 +38,7 @@ You wear medium armor and wield a shield and a medium weapon.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
+**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 4 + M or A damage; push 1
 - **12-16:** 7 + M or A damage; push 2
@@ -48,7 +47,7 @@ You wear medium armor and wield a shield and a medium weapon.
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: "*In your hands, a shield isn't just for protection.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; push 1\n- **12-16:** 7 + M or A damage; push 2\n- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)"
+    - effect: "*In your hands, a shield isn't just for protection.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; push 1\n- **12-16:** 7 + M or A damage; push 2\n- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)"
 feature_type: ability
 flavor: In your hands, a shield isn't just for protection.
 keywords:

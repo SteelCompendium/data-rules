@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
+effect: This movement ignores [stability](../../../../rule/character/stability.md). If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
 flavor: You channel your discipline into momentum that defies gravity.
 keywords:
     - Psionic
@@ -21,10 +21,10 @@ type: ability
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** Vertical slide 5
 - **12-16:** Vertical slide 7
 - **17+:** Vertical slide 9
 
-**Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
+**Effect:** This movement ignores [stability](../../../../rule/character/stability.md). If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.

@@ -20,19 +20,19 @@ effects:
 
         ##### Signature Abilities
 
-        Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../ability/talent/level-1/incinerate.md), [Kinetic Grip](../../ability/talent/level-1/kinetic-grip.md).)
+        Choose two [signature abilities](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Incinerate](../../ability/talent/level-1/incinerate.md), [Kinetic Grip](../../ability/talent/level-1/kinetic-grip.md).)
 
         ##### Heroic Abilities
 
-        You know a range of heroic abilities, all of which cost clarity to fuel them.
+        You know a range of [heroic abilities](../../../rule/general/heroic-ability.md), all of which cost clarity to fuel them.
 
         ###### 3-Clarity Ability
 
-        Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../ability/talent/level-1/choke.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../ability/talent/level-1/choke.md).)
 
         ###### 5-Clarity Ability
 
-        Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../ability/talent/level-1/inertia-soak.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../ability/talent/level-1/inertia-soak.md).)
 feature_type: feature
 metadata:
     class: talent

@@ -3,8 +3,8 @@ action_type: Free triggered
 class: tactician
 cost: 9 Focus
 distance: Melee 1
-effect: The target takes half the damage. You then make a power roll against the triggering creature.
-flavor: You [parry](../level-1/parry.md) with almost supernatural speed.
+effect: The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.
+flavor: You [parry](../level-1/parry.md) with almost supernatural [speed](../../../../rule/character/speed.md).
 keywords:
     - Melee
     - Weapon
@@ -18,7 +18,7 @@ type: ability
 ---
 
 
-*You [parry](../level-1/parry.md) with almost supernatural speed.*
+*You [parry](../level-1/parry.md) with almost supernatural [speed](../../../../rule/character/speed.md).*
 
 | **Melee, Weapon** | **Free triggered** |
 | ------------------------------------|-------------------:|
@@ -26,9 +26,9 @@ type: ability
 
 **Trigger:** A creature deals damage to the target.
 
-**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.
+**Effect:** The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

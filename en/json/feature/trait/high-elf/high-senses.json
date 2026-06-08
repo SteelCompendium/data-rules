@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your senses are especially keen and perceptive. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on tests made to notice threats."
+      "effect": "Your senses are especially keen and perceptive. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to notice threats."
     }
   ],
   "feature_type": "trait",

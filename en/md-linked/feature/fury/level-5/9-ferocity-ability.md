@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.fury.level-5/9-ferocity-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 9 ferocity to use.
 
 ## Debilitating Strike {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 10 + M damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -36,7 +36,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Trigger:** A creature causes you to be [winded](../../../rule/health/winded.md) or [dying](../../../rule/health/dying.md), or damages you while you are [winded](../../../rule/health/winded.md) or [dying](../../../rule/health/dying.md).
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M damage
 - **12-16:** 9 + M damage
@@ -53,7 +53,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 damage; push 3
 - **12-16:** 14 damage; push 5
@@ -70,10 +70,10 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 9 + M damage; M < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
 - **17+:** 18 + M damage; M < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 
-**Effect:** While the target is [slowed](../../../condition/slowed.md) this way, any other effect that would make the target [slowed](../../../condition/slowed.md) instead makes them [restrained](../../../condition/restrained.md) by this ability. Additionally, a creature who fails the saving throw while [restrained](../../../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+**Effect:** While the target is [slowed](../../../condition/slowed.md) this way, any other effect that would make the target [slowed](../../../condition/slowed.md) instead makes them [restrained](../../../condition/restrained.md) by this ability. Additionally, a creature who fails the [saving throw](../../../rule/general/saving-throw.md) while [restrained](../../../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).

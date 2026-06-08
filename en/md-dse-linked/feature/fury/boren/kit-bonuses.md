@@ -16,8 +16,8 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        - **[Stamina](../../../rule/health/stamina.md) Bonus:** +9 per echelon
-        - **Stability Bonus:** +2
+        - **[Stamina](../../../rule/health/stamina.md) Bonus:** +9 per [echelon](../../../rule/general/echelon.md)
+        - **[Stability](../../../rule/character/stability.md) Bonus:** +2
         - **Melee Damage Bonus:** +0/+0/+4
 feature_type: feature
 metadata:

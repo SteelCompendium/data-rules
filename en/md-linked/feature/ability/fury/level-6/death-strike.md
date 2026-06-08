@@ -3,7 +3,7 @@ action_type: Free triggered
 class: fury
 cost: 9 Ferocity
 distance: Melee 1
-effect: You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.
+effect: You target a creature adjacent to you with the same strike, using the same [power roll](../../../../rule/dice/power-roll.md) as the triggering strike.
 flavor: Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.
 keywords:
     - Melee
@@ -27,4 +27,4 @@ type: ability
 
 **Trigger:** You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a [strike](../../../../rule/combat/strike.md).
 
-**Effect:** You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.
+**Effect:** You target a creature adjacent to you with the same strike, using the same [power roll](../../../../rule/dice/power-roll.md) as the triggering strike.

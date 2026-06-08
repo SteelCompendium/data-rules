@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your powerful legs make you faster. You have speed 6.
+    - effect: Your powerful legs make you faster. You have [speed](../../../rule/character/speed.md) 6.
 feature_type: trait
 metadata:
     ancestry: devil

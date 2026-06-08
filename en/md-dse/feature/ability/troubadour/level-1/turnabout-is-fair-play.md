@@ -18,7 +18,7 @@ source: mcdm.heroes.v1
 spend: '3 Drama: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a double [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) is negated. A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) is negated.'
 subtype: triggered
 target: One creature
-trigger: The target makes an ability roll that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
+trigger: The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
 type: ability
 ---
 
@@ -46,11 +46,11 @@ metadata:
     spend: '3 Drama: An [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the triggering roll becomes a double [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) is negated. A [bane](scc:mcdm.heroes.v1/rule.dice/bane) becomes a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) is negated.'
     subtype: triggered
     target: One creature
-    trigger: The target makes an ability roll that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
+    trigger: The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
     type: ability
 name: Turnabout Is Fair Play
 target: One creature
-trigger: The target makes an ability roll that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
+trigger: The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) that has an [edge](scc:mcdm.heroes.v1/rule.dice/edge), a double [edge](scc:mcdm.heroes.v1/rule.dice/edge), a [bane](scc:mcdm.heroes.v1/rule.dice/bane), or a double [bane](scc:mcdm.heroes.v1/rule.dice/bane).
 type: feature
 usage: Triggered
 ```

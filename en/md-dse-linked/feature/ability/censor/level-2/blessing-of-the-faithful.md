@@ -4,7 +4,7 @@ class: censor
 cost: 5 Wrath
 cost_amount: "5"
 cost_resource: Wrath
-distance: 3 aura
+distance: 3 [aura](../../../../rule/combat/aura.md)
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
 feature_type: ability
 file_basename: blessing-of-the-faithful
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Wrath
-distance: 3 aura
+distance: 3 [aura](../../../../rule/combat/aura.md)
 effects:
     - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Maneuver
     class: censor
     cost: 5 Wrath
-    distance: 3 aura
+    distance: 3 [aura](../../../../rule/combat/aura.md)
     effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
     flavor: The gods reward your faith.
     keywords:

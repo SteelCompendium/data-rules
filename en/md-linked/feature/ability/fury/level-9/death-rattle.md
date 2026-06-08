@@ -2,7 +2,7 @@
 action_type: Main action
 class: fury
 cost: 11 Ferocity
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 flavor: You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.
 keywords:
     - Area
@@ -19,9 +19,9 @@ type: ability
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)
 - **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature

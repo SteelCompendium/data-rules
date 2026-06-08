@@ -22,7 +22,7 @@ effects:
         - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
         - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-        Your [null tradition](null-tradition.md) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+        Your [null tradition](null-tradition.md) is your [subclass](../../../rule/general/subclass.md), and your choice of tradition determines many of the features you'll gain as you gain new levels.
 feature_type: feature
 metadata:
     class: "null"

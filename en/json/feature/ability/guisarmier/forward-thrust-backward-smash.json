@@ -16,7 +16,7 @@
   "metadata": {
     "ability_type": "Signature",
     "action_type": "Main action",
-    "content": "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **📏 Melee 2**            | **🎯 Two creatures or objects** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage",
+    "content": "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **📏 Melee 2**            | **🎯 Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage",
     "distance": "Melee 2",
     "feature_type": "ability",
     "flavor": "In your hands, the haft is as good as the head.",

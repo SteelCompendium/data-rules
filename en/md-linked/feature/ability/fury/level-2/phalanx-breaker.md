@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 5 Ferocity
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies you move adjacent to during this [shift](../../../../movement/shifting.md).
+effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move adjacent to during this [shift](../../../../movement/shifting.md).
 flavor: Organizing your forces like feckless creatures of Law. Pitiful.
 keywords:
     - Melee
@@ -22,9 +22,9 @@ type: ability
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You [shift](../../../../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies you move adjacent to during this [shift](../../../../movement/shifting.md).
+**Effect:** You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move adjacent to during this [shift](../../../../movement/shifting.md).
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 2 damage; A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

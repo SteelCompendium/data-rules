@@ -1,14 +1,14 @@
 {
   "cost": "11 Piety",
-  "distance": "5 aura",
+  "distance": "5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)",
   "effects": [
     {
-      "effect": "Until the end of the encounter, any ability roll made against a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5.",
+      "effect": "Until the end of the encounter, any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5.",
       "name": "Effect"
     }
   ],
   "feature_type": "ability",
-  "flavor": "A protective aura defends your allies from harm.",
+  "flavor": "A protective [aura](scc:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.",
   "keywords": [
     "Area",
     "Magic"
@@ -16,10 +16,10 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*A protective aura defends your allies from harm.*\n\n| **Area, Magic**   |                          **Maneuver** |\n|-------------------|--------------------------------------:|\n| **📏 5 aura**     | **🎯 Self and each ally in the area** |\n\n**Effect:** Until the end of the encounter, any ability roll made against a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5.",
-    "distance": "5 aura",
+    "content": "\n*A protective [aura](scc:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.*\n\n| **Area, Magic**   |                          **Maneuver** |\n|-------------------|--------------------------------------:|\n| **📏 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)**     | **🎯 Self and each ally in the area** |\n\n**Effect:** Until the end of the encounter, any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5.",
+    "distance": "5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)",
     "feature_type": "ability",
-    "flavor": "A protective aura defends your allies from harm.",
+    "flavor": "A protective [aura](scc:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.",
     "item_id": "blessing-of-steel",
     "item_name": "Blessing of Steel",
     "keywords": [

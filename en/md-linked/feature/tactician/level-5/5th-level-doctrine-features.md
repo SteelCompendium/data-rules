@@ -26,16 +26,16 @@ You have mastered the ability to distract your foes, allowing you and your allie
 
 ## I Predicted That {data-scc="mcdm.heroes.v1/feature.tactician.level-5/i-predicted-that"}
 
-Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an [edge](../../../rule/dice/edge.md) on [Reason](../../../rule/character/reason.md) tests.
+Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an [edge](../../../rule/dice/edge.md) on [Reason](../../../rule/character/reason.md) [tests](../../../rule/test/test.md).
 
 ## Leave No Trace {data-scc="mcdm.heroes.v1/feature.tactician.level-5/leave-no-trace"}
 
-You and any ally within 10 squares of you can move at full speed while sneaking. Additionally, enemies within 10 squares of you take a [bane](../../../rule/dice/bane.md) on tests made to search for you or your allies while any of you are hidden.
+You and any ally within 10 squares of you can move at full [speed](../../../rule/character/speed.md) while sneaking. Additionally, enemies within 10 squares of you take a [bane](../../../rule/dice/bane.md) on [tests](../../../rule/test/test.md) made to search for you or your allies while any of you are hidden.
 
 ## Shake It Off {data-scc="mcdm.heroes.v1/feature.tactician.level-5/shake-it-off"}
 
-As a free maneuver, you can spend 1d6 [Stamina](../../../rule/health/stamina.md) to ignore a consequence from a test, or to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally adjacent to you can also spend [Stamina](../../../rule/health/stamina.md) as a free maneuver to gain this benefit.
+As a [free maneuver](../../../rule/combat/free-maneuver.md), you can spend 1d6 [Stamina](../../../rule/health/stamina.md) to ignore a consequence from a [test](../../../rule/test/test.md), or to end one effect on you that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your turn. Any ally adjacent to you can also spend [Stamina](../../../rule/health/stamina.md) as a [free maneuver](../../../rule/combat/free-maneuver.md) to gain this benefit.
 
 ## Tactical Offensive {data-scc="mcdm.heroes.v1/feature.tactician.level-5/tactical-offensive"}
 
-When you use the [Charge](../../common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../common/main-actions/free-strike.md).
+When you use the [Charge](../../common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or [heroic ability](../../../rule/general/heroic-ability.md) with the Melee and Strike keywords instead of a melee [free strike](../../common/main-actions/free-strike.md).

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../../../movement/shifting.md) up to their speed, and ability rolls made against them have a double [bane](../../../rule/dice/bane.md) until the end of the combat round. Additionally, any surprised enemy is no longer surprised.
+    - effect: Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../../../movement/shifting.md) up to their [speed](../../../rule/character/speed.md), and [ability rolls](../../../rule/dice/ability-roll.md) made against them have a double [bane](../../../rule/dice/bane.md) until the end of the combat round. Additionally, any [surprised](../../../rule/combat/surprised.md) enemy is no longer [surprised](../../../rule/combat/surprised.md).
 feature_type: feature
 metadata:
     class: troubadour

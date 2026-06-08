@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.elementalist.level-5/9-essence-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 essence to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 9 essence to use.
 
 ## Combustion Deferred {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/combustion-deferred"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 8 + R fire damage
 - **12-16:** 13 + R fire damage
@@ -32,9 +32,9 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 | **Area, Earth, Magic, Ranged** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
+| **📏 4 [cube](../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage
@@ -42,7 +42,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../rule/combat/concealment.md) while in the area.
 
-**Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.
+**Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the [power roll](../../../rule/dice/power-roll.md) again without spending essence.
 
 ## Subverted Perception of Space {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/subverted-perception-of-space"}
 
@@ -53,11 +53,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 9 + R corruption damage
-- **12-16:** 10 + R corruption damage; the target has line of effect only to creatures and objects within 4 squares of them until the start of your next turn
-- **17+:** 15 + R corruption damage; the target has line of effect only to adjacent creatures and objects until the start of your next turn
+- **12-16:** 10 + R corruption damage; the target has [line of effect](../../../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next turn
+- **17+:** 15 + R corruption damage; the target has [line of effect](../../../rule/combat/line-of-effect.md) only to adjacent creatures and objects until the start of your next turn
 
 ## Web of All That's Come Before {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before"}
 
@@ -66,9 +66,9 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 | **Area, Green, Magic, Ranged** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
+| **📏 4 [cube](../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 corruption damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)

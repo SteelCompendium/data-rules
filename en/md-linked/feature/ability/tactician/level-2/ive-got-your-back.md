@@ -23,10 +23,10 @@ type: ability
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
-- **≤11:** 5 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
-- **12-16:** 9 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
-- **17+:** 12 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
+- **≤11:** 5 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+- **12-16:** 9 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+- **17+:** 12 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
 
 **Effect:** One ally adjacent to the target can spend a [Recovery](../../../../rule/health/recoveries.md).

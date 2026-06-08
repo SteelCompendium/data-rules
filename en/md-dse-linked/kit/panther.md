@@ -8,12 +8,10 @@ melee_damage_bonus: +0/+0/+4
 name: Panther
 scc: mcdm.heroes.v1/kit/panther
 source: mcdm.heroes.v1
-speed_bonus: "+1"
-stability_bonus: "+1"
 type: kit
 ---
 
-If you want a good balance of protection, speed, and damage, the [Panther](panther.md) kit is for you. This kit increases your [Stamina](../rule/health/stamina.md) not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
+If you want a good balance of protection, [speed](../rule/character/speed.md), and damage, the [Panther](panther.md) kit is for you. This kit increases your [Stamina](../rule/health/stamina.md) not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
 ##### Equipment
 
@@ -21,11 +19,11 @@ You wear no armor and wield a heavy weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +6 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +6 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +1
+**[Speed](../rule/character/speed.md) Bonus:** +1
 
-**Stability Bonus:** +1
+**[Stability](../rule/character/stability.md) Bonus:** +1
 
 **Melee Damage Bonus:** +0/+0/+4
 
@@ -39,7 +37,7 @@ You wear no armor and wield a heavy weapon.
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage

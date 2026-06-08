@@ -28,7 +28,7 @@ type: ability
 cost: 5 Discipline
 distance: Melee 3
 effects:
-    - effect: "\n*The force of your [strike](scc:mcdm.heroes.v1/rule.combat/strike) moves your target in a surprising direction.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 3**                     | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 8 + A damage; slide 1\n- **12-16:** 12 + A damage; slide 3\n- **17+:** 16 + A damage; slide 5"
+    - effect: "\n*The force of your [strike](scc:mcdm.heroes.v1/rule.combat/strike) moves your target in a surprising direction.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 3**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 8 + A damage; slide 1\n- **12-16:** 12 + A damage; slide 3\n- **17+:** 16 + A damage; slide 5"
 feature_type: ability
 flavor: The force of your [strike](scc:mcdm.heroes.v1/rule.combat/strike) moves your target in a surprising direction.
 keywords:

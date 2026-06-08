@@ -2,7 +2,7 @@
 action_type: Triggered
 class: talent
 distance: Ranged 10
-effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
+effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
 feature_type: ability
 file_basename: again
 file_dpath: feature/ability/talent/level-1
@@ -18,14 +18,14 @@ scc: mcdm.heroes.v1/feature.ability.talent.level-1/again
 source: mcdm.heroes.v1
 subtype: triggered
 target: Self or one creature
-trigger: The target makes an ability roll.
+trigger: The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll).
 type: ability
 ---
 
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
+    - effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
 feature_type: ability
 flavor: You step back a split second to see if things play out a little differently.
 keywords:
@@ -35,7 +35,7 @@ metadata:
     action_type: Triggered
     class: talent
     distance: Ranged 10
-    effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
+    effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
     flavor: You step back a split second to see if things play out a little differently.
     keywords:
         - Psionic
@@ -45,11 +45,11 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/again
     subtype: triggered
     target: Self or one creature
-    trigger: The target makes an ability roll.
+    trigger: The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll).
     type: ability
 name: Again
 target: Self or one creature
-trigger: The target makes an ability roll.
+trigger: The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll).
 type: feature
 usage: Triggered
 ```

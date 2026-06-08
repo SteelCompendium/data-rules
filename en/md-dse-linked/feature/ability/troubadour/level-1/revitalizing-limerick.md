@@ -1,7 +1,7 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
+distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: revitalizing-limerick
@@ -22,7 +22,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 5 aura
+distance: 5 [aura](../../../../rule/combat/aura.md)
 effects:
     - effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
@@ -34,7 +34,7 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    distance: 5 aura
+    distance: 5 [aura](../../../../rule/combat/aura.md)
     effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
     flavor: There once was a man from Capital...
     keywords:

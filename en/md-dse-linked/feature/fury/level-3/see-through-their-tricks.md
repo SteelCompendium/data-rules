@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have a double [edge](../../../rule/dice/edge.md) on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double [edge](../../../rule/dice/edge.md) on tests made to gamble!
+    - effect: You have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to gamble!
 feature_type: feature
 metadata:
     class: fury

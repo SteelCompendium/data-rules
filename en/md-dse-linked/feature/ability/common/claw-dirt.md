@@ -18,7 +18,7 @@ type: ability
 ```ds-feature
 distance: Self
 effects:
-    - effect: "| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Power Roll + [Might](../../../rule/character/might.md):**\n\n- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../../condition/slowed.md) and [weakened](../../../condition/weakened.md) (EoT).\n- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../../condition/slowed.md) (EoT).\n- **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through."
+    - effect: "| **-**       | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**\n\n- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../../condition/slowed.md) and [weakened](../../../condition/weakened.md) ([EoT](../../../rule/combat/end-of-turn.md)).\n- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md)).\n- **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through."
 feature_type: ability
 keywords:
     - '-'

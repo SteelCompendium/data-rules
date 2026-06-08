@@ -23,10 +23,10 @@ type: ability
 |-----------------------------|--------------------:|
 | **📏 Melee 1 or ranged 10** | **🎯 One creature** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
-- **≤11:** The target takes a [bane](../../../../rule/dice/bane.md) on ability rolls (save ends).
-- **12-16:** The target has a double [bane](../../../../rule/dice/bane.md) on ability rolls (save ends).
-- **17+:** The target has a double [bane](../../../../rule/dice/bane.md) on power rolls (save ends).
+- **≤11:** The target takes a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) (save ends).
+- **12-16:** The target has a double [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) (save ends).
+- **17+:** The target has a double [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) (save ends).
 
 **Effect:** Choose one ally within [distance](../../../../rule/combat/distance.md). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../common/main-actions/free-strike.md) against them after the ability is resolved.

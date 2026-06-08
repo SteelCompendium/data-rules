@@ -6,13 +6,11 @@ item_name: Politician
 language: One language
 name: Politician
 perk: One interpersonal perk (*Quick Build:* [Engrossing Monologue](scc:mcdm.heroes.v1/perk/engrossing-monologue).)
-renown: "+1"
 scc: mcdm.heroes.v1/career/politician
 skills:
     - Two skills from the interpersonal skill group (*Quick Build:* [Lead](scc:mcdm.heroes.v1/skill/lead), [Lie](scc:mcdm.heroes.v1/skill/lie).)
 source: mcdm.heroes.v1
 type: career
-wealth: "+1"
 ---
 
 You worked as a leader within a formal, bureaucratic organization or government. You might have been appointed, born, or elected into your position, but getting people to agree and making decisions for the people you serve (or who served you) was your job. In defining your career, think about the following questions:
@@ -28,9 +26,9 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](scc:mcdm.heroes.v1/rule.resource/renown):** +1
 
-**Wealth:** +1
+**[Wealth](scc:mcdm.heroes.v1/rule.resource/wealth):** +1
 
 **Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](scc:mcdm.heroes.v1/perk/engrossing-monologue).)
 

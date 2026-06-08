@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
+        Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
         ##### 2nd-Level Black Ash Ability
 

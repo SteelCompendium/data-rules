@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 3 Insight
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to your speed, dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
+effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
 flavor: Move unexpectedly, strike fast, and be gone!
 keywords:
     - Melee
@@ -23,10 +23,10 @@ type: ability
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 5 + A damage
 - **12-16:** 8 + A damage
 - **17+:** 11 + A damage
 
-**Effect:** You can [shift](../../../../movement/shifting.md) up to your speed, dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
+**Effect:** You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.

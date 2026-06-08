@@ -5,7 +5,7 @@ cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
 distance: Ranged 10
-effect: You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.
+effect: You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a [power roll](../../../../rule/dice/power-roll.md) targeting each enemy within 2 squares of it.
 feature_type: ability
 file_basename: sticky-bomb
 file_dpath: feature/ability/shadow/level-2
@@ -26,7 +26,7 @@ type: ability
 cost: 5 Insight
 distance: Ranged 10
 effects:
-    - effect: You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.
+    - effect: You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a [power roll](../../../../rule/dice/power-roll.md) targeting each enemy within 2 squares of it.
 feature_type: ability
 flavor: Explosives are best when they're attached to an enemy.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: shadow
     cost: 5 Insight
     distance: Ranged 10
-    effect: You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.
+    effect: You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a [power roll](../../../../rule/dice/power-roll.md) targeting each enemy within 2 squares of it.
     flavor: Explosives are best when they're attached to an enemy.
     keywords:
         - Ranged

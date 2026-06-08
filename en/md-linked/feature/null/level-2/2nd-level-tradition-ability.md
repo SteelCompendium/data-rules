@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You can use a signature or heroic ability. You gain an [edge](../../../rule/dice/edge.md) on that ability's power rolls.
+**Effect:** You can use a signature or [heroic ability](../../../rule/general/heroic-ability.md). You gain an [edge](../../../rule/dice/edge.md) on that ability's [power rolls](../../../rule/dice/power-roll.md).
 
 ### Force Redirected {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/force-redirected"}
 
@@ -32,7 +32,7 @@ Choose one of the following abilities.
 |------------------------------------|--------------------:|
 | **📏 Melee 3**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + A damage; slide 1
 - **12-16:** 12 + A damage; slide 3
@@ -40,7 +40,7 @@ Choose one of the following abilities.
 
 ## 2nd-Level Cryokinetic Ability
 
-Choose one of the following heroic abilities.
+Choose one of the following [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ### Entropic Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/entropic-field"}
 
@@ -49,9 +49,9 @@ Choose one of the following heroic abilities.
 
 | **Area, Psionic, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 3 cube within 1**    | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 1**    | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -81,7 +81,7 @@ Choose one of the following abilities.
 |------------------------------------|--------------------:|
 | **📏 Melee 3**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + A psychic damage; vertical pull 3
 - **12-16:** 12 + A psychic damage; vertical pull 5
@@ -96,7 +96,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** You gain 10 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - **12-16:** You gain 15 [temporary Stamina](../../../rule/health/temporary-stamina.md).

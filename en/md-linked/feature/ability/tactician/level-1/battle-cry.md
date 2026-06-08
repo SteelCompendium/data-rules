@@ -20,7 +20,7 @@ type: ability
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** Each target gains 1 [surge](../../../../rule/resource/surge.md).
 - **12-16:** Each target gains 2 [surges](../../../../rule/resource/surge.md).

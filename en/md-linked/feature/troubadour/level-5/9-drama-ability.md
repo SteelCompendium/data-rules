@@ -6,24 +6,24 @@ scc: mcdm.heroes.v1/feature.troubadour.level-5/9-drama-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 drama to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 9 drama to use.
 
 ## Action Hero {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/action-hero"}
 
 
-*You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*
+*You wield your weapon at blistering [speed](../../../rule/character/speed.md), leaving everyone around you fighting for their lives.*
 
 | **Area, Melee, Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 3 burst**          | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 10 damage
 - **12-16:** 14 damage
 - **17+:** 20 damage
 
-**Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](../../../rule/health/stamina.md).
+**Effect:** Unless you score a [critical hit](../../../rule/combat/critical-hit.md), this ability can't reduce a non-minion target below 1 [Stamina](../../../rule/health/stamina.md).
 
 ## Continuity Error {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/continuity-error"}
 
@@ -56,7 +56,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 |-------------------|---------------:|
 | **📏 Ranged 10**  | **🎯 Special** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** One ally within [distance](../../../rule/combat/distance.md) can take their turn immediately after yours.
 - **12-16:** Two allies within [distance](../../../rule/combat/distance.md) can take their turns immediately after yours in any order.

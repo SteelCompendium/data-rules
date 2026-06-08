@@ -1,8 +1,8 @@
 ---
 action_type: Maneuver
 class: talent
-distance: 3 burst
-effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their speed. You can also [shift](../../../../movement/shifting.md) up to your speed. While [flying](../../../../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
+distance: 3 [burst](../../../../rule/combat/burst.md)
+effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their [speed](../../../../rule/character/speed.md). You can also [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). While [flying](../../../../movement/fly.md), a target's [stability](../../../../rule/character/stability.md) is reduced to 0 and can't be increased.
 feature_type: ability
 file_basename: levitation-field
 file_dpath: feature/ability/talent/level-8
@@ -22,9 +22,9 @@ type: ability
 ---
 
 ```ds-feature
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their speed. You can also [shift](../../../../movement/shifting.md) up to your speed. While [flying](../../../../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
+    - effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their [speed](../../../../rule/character/speed.md). You can also [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). While [flying](../../../../movement/fly.md), a target's [stability](../../../../rule/character/stability.md) is reduced to 0 and can't be increased.
     - effect: '5 Clarity: The effects last for 1 hour instead.'
       name: Spend
 feature_type: ability
@@ -35,8 +35,8 @@ keywords:
 metadata:
     action_type: Maneuver
     class: talent
-    distance: 3 burst
-    effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their speed. You can also [shift](../../../../movement/shifting.md) up to your speed. While [flying](../../../../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
+    distance: 3 [burst](../../../../rule/combat/burst.md)
+    effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their [speed](../../../../rule/character/speed.md). You can also [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). While [flying](../../../../movement/fly.md), a target's [stability](../../../../rule/character/stability.md) is reduced to 0 and can't be increased.
     flavor: You manipulate the air around your allies so they can move as freely through the sky as you can.
     keywords:
         - Area

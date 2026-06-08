@@ -1,6 +1,6 @@
 {
   "ability_type": "Signature",
-  "distance": "2 burst",
+  "distance": "2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
       "effect": "You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.",
@@ -17,8 +17,8 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*A rain of holy light scours your enemies and repositions your allies.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **📏 2 burst**   | **🎯 Each enemy in the area** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 holy damage\n- **12-16:** 3 holy damage\n- **17+:** 5 holy damage\n\n**Effect:** You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.",
-    "distance": "2 burst",
+    "content": "\n*A rain of holy light scours your enemies and repositions your allies.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **📏 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**   | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 2 holy damage\n- **12-16:** 3 holy damage\n- **17+:** 5 holy damage\n\n**Effect:** You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.",
+    "distance": "2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "A rain of holy light scours your enemies and repositions your allies.",
     "item_id": "lightfall",

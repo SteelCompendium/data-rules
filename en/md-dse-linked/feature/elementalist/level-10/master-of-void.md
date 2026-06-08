@@ -18,7 +18,7 @@ effects:
     - effect: |-
         Whenever you willingly move, you can [teleport](../../../movement/teleport.md).
 
-        Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.
+        Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require [project sources](../../../rule/downtime/project-source.md) for [research projects](../../../rule/downtime/research-project.md). Whenever you use a [respite](../../../rule/resource/respite.md) activity to make a [project roll](../../../rule/downtime/project-roll.md) for a [research project](../../../rule/downtime/research-project.md), you automatically complete the project.
 feature_type: feature
 metadata:
     class: elementalist

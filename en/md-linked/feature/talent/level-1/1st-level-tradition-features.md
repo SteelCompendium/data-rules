@@ -46,9 +46,9 @@ You have the following ability.
 |---------------------|----------------------------:|
 | **📏 Ranged 10**    | **🎯 Self or one creature** |
 
-**Trigger:** The target makes an ability roll.
+**Trigger:** The target makes an [ability roll](../../../rule/dice/ability-roll.md).
 
-**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
+**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../../../rule/dice/power-roll.md) and use the new roll.
 
 ## Feedback Loop {data-scc="mcdm.heroes.v1/feature.talent.level-1/feedback-loop"}
 
@@ -100,6 +100,6 @@ You have the following ability.
 | **📏 Ranged 10**    | **🎯 One creature or object** |
 
 
-**Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an [edge](../../../rule/dice/edge.md).
+**Effect:** The next [ability roll](../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next turn gains an [edge](../../../rule/dice/edge.md).
 
 **Spend 1 Clarity:** You target one additional creature or object.

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You can long jump and high jump a [distance](../../../rule/combat/distance.md) equal to twice your [Agility](../../../rule/character/agility.md) score without needing to make a test.
+    - effect: You can long jump and high jump a [distance](../../../rule/combat/distance.md) equal to twice your [Agility](../../../rule/character/agility.md) score without needing to make a [test](../../../rule/test/test.md).
 feature_type: feature
 metadata:
     class: "null"

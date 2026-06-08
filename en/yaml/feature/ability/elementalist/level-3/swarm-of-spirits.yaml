@@ -1,7 +1,7 @@
 cost: 7 Essence
-distance: 3 aura
+distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Until the end of your next turn, each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
+    - effect: Until the end of your next turn, each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 bonus to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).
       name: Effect
 feature_type: ability
 flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
@@ -12,8 +12,8 @@ keywords:
 metadata:
     action_type: Main action
     class: elementalist
-    content: "\n*Guardian animal spirits surround you to harry your foes and bolster your allies.*\n\n| **Area, Green, Magic** |               **Main action** |\n|------------------------|------------------------------:|\n| **\U0001F4CF 3 aura**          | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 damage\n- **12-16:** 6 damage\n- **17+:** 9 damage\n\n**Effect:** Until the end of your next turn, each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.\n\n**Persistent 1:** You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn."
-    distance: 3 aura
+    content: "\n*Guardian animal spirits surround you to harry your foes and bolster your allies.*\n\n| **Area, Green, Magic** |               **Main action** |\n|------------------------|------------------------------:|\n| **\U0001F4CF 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)**          | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 3 damage\n- **12-16:** 6 damage\n- **17+:** 9 damage\n\n**Effect:** Until the end of your next turn, each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 bonus to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).\n\n**Persistent 1:** You make the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn."
+    distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
     feature_type: ability
     flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
     item_id: swarm-of-spirits

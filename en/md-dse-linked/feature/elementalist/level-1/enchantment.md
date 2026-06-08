@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You weave an elemental [enchantment](enchantment.md) into your body that enhances your statistics. Choose one of the following enchantments. You can change your [enchantment](enchantment.md) and ward (see [Elementalist Ward](elementalist-ward.md) below) by performing a complex ritual as a respite activity. (*Quick Build:*  [Enchantment of Destruction](enchantment-of-destruction.md).)
+    - effect: You weave an elemental [enchantment](enchantment.md) into your body that enhances your statistics. Choose one of the following enchantments. You can change your [enchantment](enchantment.md) and ward (see [Elementalist Ward](elementalist-ward.md) below) by performing a complex ritual as a [respite](../../../rule/resource/respite.md) activity. (*Quick Build:*  [Enchantment of Destruction](enchantment-of-destruction.md).)
 feature_type: feature
 metadata:
     class: elementalist

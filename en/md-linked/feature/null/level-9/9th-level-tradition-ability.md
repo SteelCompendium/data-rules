@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.null.level-9/9th-level-tradition-ability
 type: feature
 ---
 
-Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two heroic abilities.
+Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 9th-Level Chronokinetic Abilities
 
@@ -23,7 +23,7 @@ Choose one of the following abilities.
 
 **Trigger:** The triggering creature starts their turn.
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** I < WEAK, the target loses their turn
 - **12-16:** I < AVERAGE, the target loses their turn
@@ -34,7 +34,7 @@ Choose one of the following abilities.
 ### Time Loop {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/time-loop"}
 
 
-*You show shadows what true speed is.*
+*You show shadows what true [speed](../../../rule/character/speed.md) is.*
 
 | **Psionic** | **Free triggered** |
 |-------------|-------------------:|
@@ -57,13 +57,13 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** You gain 20 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - **12-16:** You gain 30 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 - **17+:** You gain 40 [temporary Stamina](../../../rule/health/temporary-stamina.md).
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](../../../rule/damage/damage-immunity.md) granted by your [Entropic Adaptability](../level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../../../rule/health/dying.md), and you have a +2 bonus to potencies.
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](../../../rule/damage/damage-immunity.md) granted by your [Entropic Adaptability](../level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../../../rule/health/dying.md), and you have a +2 bonus to [potencies](../../../rule/character/potency.md).
 
 ### Heat Drain {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/heat-drain"}
 
@@ -74,13 +74,13 @@ Choose one of the following abilities.
 |----------------------------|--------------------:|
 | **📏 Melee 1**             | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 8 + I cold damage; M < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
 - **17+:** 15 + I cold damage; M < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 
-**Effect:** While [restrained](../../../condition/restrained.md) this way, the target takes cold damage equal to your [Intuition](../../../rule/character/intuition.md) score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../../condition/restrained.md) this way, any potency associated with the damage is reduced by 2.
+**Effect:** While [restrained](../../../condition/restrained.md) this way, the target takes cold damage equal to your [Intuition](../../../rule/character/intuition.md) score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../../condition/restrained.md) this way, any [potency](../../../rule/character/potency.md) associated with the damage is reduced by 2.
 
 ## 9th-Level Metakinetic Abilities
 
@@ -108,7 +108,7 @@ Choose one of the following abilities.
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../../../condition/dazed.md)
 - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../../../condition/dazed.md)

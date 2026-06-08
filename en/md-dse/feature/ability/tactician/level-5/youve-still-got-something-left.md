@@ -5,11 +5,11 @@ cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
 distance: Ranged 10
-effect: The target uses a heroic ability with the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword as a free triggered action, and deals extra damage with that ability equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The ability has its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost reduced by 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score (minimum cost 0).
+effect: The target uses a [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) with the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), and deals extra damage with that ability equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The ability has its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost reduced by 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score (minimum cost 0).
 feature_type: ability
 file_basename: youve-still-got-something-left
 file_dpath: feature/ability/tactician/level-5
-flavor: You push an ally to use a heroic ability sooner than they otherwise would.
+flavor: You push an ally to use a [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) sooner than they otherwise would.
 item_id: youve-still-got-something-left
 item_name: You've Still Got Something Left
 keywords:
@@ -26,9 +26,9 @@ type: ability
 cost: 9 Focus
 distance: Ranged 10
 effects:
-    - effect: The target uses a heroic ability with the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword as a free triggered action, and deals extra damage with that ability equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The ability has its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost reduced by 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score (minimum cost 0).
+    - effect: The target uses a [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) with the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), and deals extra damage with that ability equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The ability has its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost reduced by 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score (minimum cost 0).
 feature_type: ability
-flavor: You push an ally to use a heroic ability sooner than they otherwise would.
+flavor: You push an ally to use a [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) sooner than they otherwise would.
 keywords:
     - Ranged
 metadata:
@@ -36,8 +36,8 @@ metadata:
     class: tactician
     cost: 9 Focus
     distance: Ranged 10
-    effect: The target uses a heroic ability with the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword as a free triggered action, and deals extra damage with that ability equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The ability has its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost reduced by 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score (minimum cost 0).
-    flavor: You push an ally to use a heroic ability sooner than they otherwise would.
+    effect: The target uses a [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) with the [Strike](scc:mcdm.heroes.v1/rule.combat/strike) keyword as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), and deals extra damage with that ability equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The ability has its [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) cost reduced by 1 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score (minimum cost 0).
+    flavor: You push an ally to use a [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) sooner than they otherwise would.
     keywords:
         - Ranged
     level: "5"

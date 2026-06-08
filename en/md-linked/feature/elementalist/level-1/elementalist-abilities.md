@@ -10,7 +10,7 @@ Your understanding of elemental magic grants you unique abilities, letting you d
 
 ## Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../ability/elementalist/level-1/bifurcated-incineration.md), [Viscous Fire](../../ability/elementalist/level-1/viscous-fire.md).)
+Choose two [signature abilities](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Bifurcated Incineration](../../ability/elementalist/level-1/bifurcated-incineration.md), [Viscous Fire](../../ability/elementalist/level-1/viscous-fire.md).)
 
 ### Afflict a Bountiful Decay {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/afflict-a-bountiful-decay"}
 
@@ -21,13 +21,13 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R corruption damage
 - **12-16:** 4 + R corruption damage
 - **17+:** 6 + R corruption damage
 
-**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+**Effect:** Choose yourself or one ally within [distance](../../../rule/combat/distance.md). That character can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn.
 
 ### Bifurcated Incineration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration"}
 
@@ -38,7 +38,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |---------------------------------|--------------------------------:|
 | **📏 Ranged 10**                | **🎯 Two creatures or objects** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 fire damage
 - **12-16:** 4 fire damage
@@ -53,7 +53,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |--------------------------------|--------------------:|
 | **📏 Melee 1**                 | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R corruption damage
 - **12-16:** 6 + R corruption damage
@@ -70,7 +70,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |----------------------------------|---------------------:|
 | **📏 Ranged 10**                 |  **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R damage
 - **12-16:** 5 + R damage
@@ -87,7 +87,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |---------------------------------|------------------------------:|
 | **📏 Melee 1**                  | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R damage; push 2
 - **12-16:** 5 + R damage; push 3
@@ -102,7 +102,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
@@ -115,9 +115,9 @@ Choose two signature abilities from the following options. Signature abilities c
 
 | **Area, Earth, Magic, Ranged** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 2 cube within 10**        | **🎯 Each enemy in the area** |
+| **📏 2 [cube](../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage
@@ -134,7 +134,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R fire damage; push 2
 - **12-16:** 5 + R fire damage; push 3
@@ -142,11 +142,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ## Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your essence.
+You channel a variety of [heroic abilities](../../../rule/general/heroic-ability.md), all of them fueled by your essence.
 
 ### 3-Essence Ability
 
-Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
 
 ### Behold the Mystery {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/behold-the-mystery"}
 
@@ -155,9 +155,9 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 | **Area, Magic, Ranged, Void** |               **Main action** |
 |-------------------------------|------------------------------:|
-| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 psychic damage
 - **12-16:** 4 psychic damage
@@ -174,13 +174,13 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 5 + R fire damage
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within [distance](../../../rule/combat/distance.md) at the start of your turn, you can make the power roll again without spending essence (no action required).
+**Persistent 1:** If the target is within [distance](../../../rule/combat/distance.md) at the start of your turn, you can make the [power roll](../../../rule/dice/power-roll.md) again without spending essence (no action required).
 
 ### Invigorating Growth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth"}
 
@@ -191,7 +191,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 |----------------------------------|---------------------:|
 | **📏 Ranged 10**                 |  **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 4 + R poison damage
 - **12-16:** 7 + R poison damage
@@ -206,9 +206,9 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 | **Area, Earth, Magic** |               **Main action** |
 |------------------------|------------------------------:|
-| **📏 2 burst**         | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../rule/combat/burst.md)**         | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 5 damage
@@ -218,7 +218,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 ### 5-Essence Ability
 
-Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../../ability/elementalist/level-1/conflagration.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../../ability/elementalist/level-1/conflagration.md).)
 
 ### Conflagration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration"}
 
@@ -227,9 +227,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 | **Area, Fire, Magic, Ranged** |               **Main action** |
 |-------------------------------|------------------------------:|
-| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 4 fire damage
 - **12-16:** 6 fire damage
@@ -246,15 +246,15 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+**Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate [power roll](../../../rule/dice/power-roll.md) for each creature on the ground above a hole and small enough to fall in. (You can't score a [critical hit](../../../rule/combat/critical-hit.md) with this ability because it uses a maneuver.)
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** The target can [shift](../../../movement/shifting.md) 1 square from the edge of the hole to the nearest unoccupied space of their choice.
 - **12-16:** The target falls into the hole.
 - **17+:** The target falls into the hole and can't reduce the height of the fall.
 
-**Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.
+**Persistent 1:** At the start of your turn, you open another hole, making a [power roll](../../../rule/dice/power-roll.md) against each creature who could fall into the hole when it opens without spending essence.
 
 ### No More Than a Breeze {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/no-more-than-a-breeze"}
 
@@ -265,7 +265,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |-------------------------|------------------------:|
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../../movement/difficult-terrain.md), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../../rule/combat/opportunity-attack.md). If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -276,12 +276,12 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 | **Area, Green, Magic, Ranged** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 4 acid damage
 - **12-16:** 6 acid damage
 - **17+:** 10 acid damage
 
-**Effect:** You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
+**Effect:** You can end one effect on yourself that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your turn. Each ally in the area also gains this benefit.

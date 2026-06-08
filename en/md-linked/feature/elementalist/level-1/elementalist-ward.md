@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.elementalist.level-1/elementalist-ward
 type: feature
 ---
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and [enchantment](enchantment.md) (see above) by performing a complex ritual as a respite activity. (*Quick Build:*  [Ward of Surprising Reactivity](ward-of-surprising-reactivity.md).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and [enchantment](enchantment.md) (see above) by performing a complex ritual as a [respite](../../../rule/resource/respite.md) activity. (*Quick Build:*  [Ward of Surprising Reactivity](ward-of-surprising-reactivity.md).)
 
 ## Ward of Delightful Consequences {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-delightful-consequences"}
 
@@ -18,8 +18,8 @@ You weave a shield of all the elements around yourself, channeling their full pr
 
 ## Ward of Nature's Affection {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-natures-affection"}
 
-The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../../../rule/character/reason.md) score deals damage to you, you can use a free triggered action to slide that creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
+The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../../../rule/character/reason.md) score deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to slide that creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Ward of Surprising Reactivity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-surprising-reactivity"}
 
-You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push that creature up to a number of squares equal to twice your [Reason](../../../rule/character/reason.md) score.
+You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to push that creature up to a number of squares equal to twice your [Reason](../../../rule/character/reason.md) score.

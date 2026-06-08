@@ -23,7 +23,7 @@ type: ability
 |-----------------------------------|--------------------:|
 | **📏 Ranged 10**                  | **🎯 One creature** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
 - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)

@@ -25,9 +25,9 @@ type: ability
 
 **Effect:** The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
 
-**Strained:** This ability gains the [Strike](../../../../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../../../condition/weakened.md) (save ends).
+**Strained:** This ability gains the [Strike](../../../../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a [power roll](../../../../rule/dice/power-roll.md), then are [weakened](../../../../condition/weakened.md) (save ends).
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 8 + P psychic damage
 - **12-16:** 13 + P psychic damage

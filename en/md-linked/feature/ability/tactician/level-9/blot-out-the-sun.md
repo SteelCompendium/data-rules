@@ -2,7 +2,7 @@
 action_type: Main action
 class: tactician
 cost: 11 Focus
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each target can make a ranged [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md) against any enemy marked by you within [distance](../../../../rule/combat/distance.md) of their ranged [free strike](../../../common/main-actions/free-strike.md). A target ignores [banes](../../../../rule/dice/bane.md) and double [banes](../../../../rule/dice/bane.md) when making this [strike](../../../../rule/combat/strike.md).
 flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
 keywords:
@@ -19,6 +19,6 @@ type: ability
 
 | **Area**       |                       **Main action** |
 |----------------|--------------------------------------:|
-| **📏 3 burst** | **🎯 Self and each ally in the area** |
+| **📏 3 [burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
 **Effect:** Each target can make a ranged [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md) against any enemy marked by you within [distance](../../../../rule/combat/distance.md) of their ranged [free strike](../../../common/main-actions/free-strike.md). A target ignores [banes](../../../../rule/dice/bane.md) and double [banes](../../../../rule/dice/bane.md) when making this [strike](../../../../rule/combat/strike.md).

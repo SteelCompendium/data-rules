@@ -11,7 +11,7 @@ keywords:
 metadata:
     ability_type: Free-strike
     action_type: Main action
-    content: "| **Charge, Melee, Stike, Weapon** |               **Main action** |\n| -------------------------------- | -----------------------------:|\n| **\U0001F4CF Melee 1**                   | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 5 + M or A damage\n- **17+:** 7 + M or A damage"
+    content: "| **Charge, Melee, Stike, Weapon** |               **Main action** |\n| -------------------------------- | -----------------------------:|\n| **\U0001F4CF Melee 1**                   | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 5 + M or A damage\n- **17+:** 7 + M or A damage"
     distance: Melee 1
     feature_type: ability
     item_id: melee-weapon-free-strike-combat

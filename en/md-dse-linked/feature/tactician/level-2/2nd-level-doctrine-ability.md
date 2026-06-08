@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of one of two heroic abilities.
+        Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
         ##### 2nd-Level Insurgent Ability
 

@@ -23,8 +23,8 @@ type: ability
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 9 + R corruption damage
-- **12-16:** 10 + R corruption damage; the target has line of effect only to creatures and objects within 4 squares of them until the start of your next turn
-- **17+:** 15 + R corruption damage; the target has line of effect only to adjacent creatures and objects until the start of your next turn
+- **12-16:** 10 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next turn
+- **17+:** 15 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to adjacent creatures and objects until the start of your next turn

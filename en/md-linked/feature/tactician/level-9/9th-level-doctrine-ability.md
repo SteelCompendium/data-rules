@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.tactician.level-9/9th-level-doctrine-ability
 type: feature
 ---
 
-Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 9th-Level Insurgent Abilities
 
@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |------------------|---------------------------:|
 | **📏 Ranged 10** | **🎯 Self and two allies** |
 
-**Effect:** Each target gains 2 [surges](../../../rule/resource/surge.md), and can use a free triggered action to use a signature ability that gains an [edge](../../../rule/dice/edge.md). After resolving their ability, each target can [shift](../../../movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../../../rule/combat/cover.md) or [concealment](../../../rule/combat/concealment.md), or if they are observed.
+**Effect:** Each target gains 2 [surges](../../../rule/resource/surge.md), and can use a free [triggered action](../../../rule/combat/triggered-action.md) to use a [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md). After resolving their ability, each target can [shift](../../../movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../../../rule/combat/cover.md) or [concealment](../../../rule/combat/concealment.md), or if they are observed.
 
 ### Their Lack of Focus Is Their Undoing {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing"}
 
@@ -32,9 +32,9 @@ Choose one of the following abilities.
 |---------------------------|---------------------:|
 | **📏 Ranged 10**          | **🎯 Three enemies** |
 
-**Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
+**Effect:** Each target uses a [signature ability](../../../rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the [power roll](../../../rule/dice/power-roll.md). After resolving the targets' abilities, you make a [power roll](../../../rule/dice/power-roll.md) against each original target.
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** R < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** R < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -51,7 +51,7 @@ Choose one of the following abilities.
 
 | **Area**       |                       **Main action** |
 |----------------|--------------------------------------:|
-| **📏 3 burst** | **🎯 Self and each ally in the area** |
+| **📏 3 [burst](../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
 **Effect:** Each target can make a ranged [free strike](../../common/main-actions/free-strike.md) that gains an [edge](../../../rule/dice/edge.md) against any enemy marked by you within [distance](../../../rule/combat/distance.md) of their ranged [free strike](../../common/main-actions/free-strike.md). A target ignores [banes](../../../rule/dice/bane.md) and double [banes](../../../rule/dice/bane.md) when making this [strike](../../../rule/combat/strike.md).
 
@@ -81,7 +81,7 @@ Choose one of the following abilities.
 
 **Effect:** You mark the target.
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 11 + M damage
 - **12-16:** 16 + M damage
@@ -100,10 +100,10 @@ Choose one of the following abilities.
 
 **Effect:** The target is marked by you.
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 8 + M damage
 - **12-16:** 13 + M damage
 - **17+:** 17 + M damage
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), you can use a signature or heroic ability instead of a [free strike](../../common/main-actions/free-strike.md) against any target marked by you.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), you can use a signature or [heroic ability](../../../rule/general/heroic-ability.md) instead of a [free strike](../../common/main-actions/free-strike.md) against any target marked by you.

@@ -13,7 +13,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: "null"
-    content: "\n*A single touch from you, and your enemy flies backward.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                  **Maneuver** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** Push 3\n- **12-16:** Push 5\n- **17+:** Push 7\n\n**Effect:** An object you target must be your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on this ability. Additionally, for each square you push the target, they take 1 psychic damage."
+    content: "\n*A single touch from you, and your enemy flies backward.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                  **Maneuver** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**                     | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** Push 3\n- **12-16:** Push 5\n- **17+:** Push 7\n\n**Effect:** An object you target must be your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on this ability. Additionally, for each square you push the target, they take 1 psychic damage."
     distance: Melee 1
     feature_type: ability
     flavor: A single touch from you, and your enemy flies backward.

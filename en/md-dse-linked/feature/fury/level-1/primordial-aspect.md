@@ -22,7 +22,7 @@ effects:
         - **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the [Hide](../../../skill/hide.md) skill.
         - **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the [Track](../../../skill/track.md) skill.
 
-        Your [primordial aspect](primordial-aspect.md) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
+        Your [primordial aspect](primordial-aspect.md) is your [subclass](../../../rule/general/subclass.md), and your choice of aspect determines many of the features you'll gain as you gain new levels.
 feature_type: feature
 metadata:
     class: fury

@@ -22,7 +22,7 @@ type: ability
 |---------------------------|---------------------:|
 | **📏 Ranged 10**          | **🎯 Three enemies** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

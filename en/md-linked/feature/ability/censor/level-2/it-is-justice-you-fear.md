@@ -23,7 +23,7 @@ type: ability
 |---------------------------|--------------------:|
 | **📏 Ranged 10**          | **🎯 One creature** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
 - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)

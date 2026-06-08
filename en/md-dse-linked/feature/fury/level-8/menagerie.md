@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You can use all [stormwight kits](../stormwight-kits/kit-features.md). During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+    - effect: You can use all [stormwight kits](../stormwight-kits/kit-features.md). During a [respite](../../../rule/resource/respite.md), you can choose to swap your stormwight kit and still take another [respite](../../../rule/resource/respite.md) activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a [test](../../../rule/test/test.md) to track another creature, you can roll three dice and choose which two to use.
 feature_type: feature
 metadata:
     class: fury

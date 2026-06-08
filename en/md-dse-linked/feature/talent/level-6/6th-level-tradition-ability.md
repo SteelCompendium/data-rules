@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [talent tradition](../level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
+        Your [talent tradition](../level-1/talent-tradition.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
         ##### 6th-Level Chronopathy Abilities
 

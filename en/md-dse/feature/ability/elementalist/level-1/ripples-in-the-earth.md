@@ -4,7 +4,7 @@ class: elementalist
 cost: 3 Essence
 cost_amount: "3"
 cost_resource: Essence
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effect: You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 feature_type: ability
 file_basename: ripples-in-the-earth
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 3 Essence
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 feature_type: ability
@@ -39,7 +39,7 @@ metadata:
     action_type: Main action
     class: elementalist
     cost: 3 Essence
-    distance: 2 burst
+    distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
     flavor: Like a stone was dropped into a pond, waves in the earth radiate from you.
     keywords:

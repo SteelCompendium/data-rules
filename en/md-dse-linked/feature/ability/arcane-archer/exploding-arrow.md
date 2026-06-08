@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Ranged 15
-effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
+effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: exploding-arrow
 file_dpath: feature/ability/arcane-archer
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Ranged 15
 effects:
-    - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
+    - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: Your ammunition explodes with magical energy.
 keywords:
@@ -36,7 +36,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: Ranged 15
-    effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
+    effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
     flavor: Your ammunition explodes with magical energy.
     keywords:
         - Magic

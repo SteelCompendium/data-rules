@@ -16,11 +16,11 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [primordial aspect](primordial-aspect.md) grants you a triggered action, as shown on the Aspect Triggered Actions table.
+        Your [primordial aspect](primordial-aspect.md) grants you a [triggered action](../../../rule/combat/triggered-action.md), as shown on the Aspect [Triggered Actions](../../../rule/combat/triggered-action.md) table.
 
         ###### Aspect Triggered Actions Table
 
-        | Aspect                   | Triggered Action   |
+        | Aspect                   | [Triggered Action](../../../rule/combat/triggered-action.md)   |
         |--------------------------|--------------------|
         | Berserker                | [Lines of Force](../../ability/fury/level-1/lines-of-force.md)     |
         | Reaver                   | [Unearthly Reflexes](../../ability/fury/level-1/unearthly-reflexes.md) |

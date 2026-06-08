@@ -4,7 +4,7 @@ class: fury
 cost: 11 Ferocity
 cost_amount: "11"
 cost_resource: Ferocity
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 feature_type: ability
 file_basename: death-rattle
 file_dpath: feature/ability/fury/level-9
@@ -24,9 +24,9 @@ type: ability
 
 ```ds-feature
 cost: 11 Ferocity
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)\n- **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature\n- **17+:** 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature"
+    - effect: "\n*You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 [burst](../../../../rule/combat/burst.md)**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)\n- **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature\n- **17+:** 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature"
 feature_type: ability
 flavor: You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: fury
     cost: 11 Ferocity
-    distance: 3 burst
+    distance: 3 [burst](../../../../rule/combat/burst.md)
     flavor: You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.
     keywords:
         - Area

@@ -21,7 +21,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage
 - **12-16:** 7 + A damage; push 1

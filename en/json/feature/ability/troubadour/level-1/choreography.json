@@ -1,8 +1,8 @@
 {
-  "distance": "5 aura",
+  "distance": "5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)",
   "effects": [
     {
-      "effect": "While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.",
+      "effect": "While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their turn.",
       "name": "Effect"
     }
   ],
@@ -16,8 +16,8 @@
   "metadata": {
     "action_type": "No action",
     "class": "troubadour",
-    "content": "\n*Taps, kicks, steps. It's all \"[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography).\"*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **📏 5 aura**                | **🎯 Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.",
-    "distance": "5 aura",
+    "content": "\n*Taps, kicks, steps. It's all \"[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography).\"*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **📏 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)**                | **🎯 Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their turn.",
+    "distance": "5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)",
     "feature_type": "ability",
     "flavor": "Taps, kicks, steps. It's all \"[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography).\"",
     "item_id": "choreography",

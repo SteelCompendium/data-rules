@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You always have your ear to the ground, your finger on the pulse. When you start or finish a respite, choose one of the following effects.
+    - effect: You always have your ear to the ground, your finger on the pulse. When you start or finish a [respite](../../../rule/resource/respite.md), choose one of the following effects.
 feature_type: feature
 metadata:
     class: troubadour

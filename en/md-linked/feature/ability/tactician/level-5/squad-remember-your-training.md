@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 9 Focus
 distance: Ranged 10
-effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a signature ability that has a double [edge](../../../../rule/dice/edge.md).
+effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) that has a double [edge](../../../../rule/dice/edge.md).
 flavor: You remind your allies how to best use their gear.
 keywords:
     - Ranged
@@ -21,4 +21,4 @@ type: ability
 |------------------------------|----------------------------------------:|
 | **📏 Ranged 10**  | **🎯 Self and two allies** |
 
-**Effect:** Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a signature ability that has a double [edge](../../../../rule/dice/edge.md).
+**Effect:** Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) that has a double [edge](../../../../rule/dice/edge.md).

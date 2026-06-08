@@ -12,7 +12,7 @@ keywords:
 metadata:
     action_type: Main action
     class: censor
-    content: "\n*Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             |           **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 2 + M holy damage\n- **12-16:** 3 + M holy damage\n- **17+:** 5 + M holy damage\n\n**Effect:** When a target who is not a leader or solo creature is made [winded](scc:mcdm.heroes.v1/rule.health/winded) by this ability, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)."
+    content: "\n*Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**             |           **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 2 + M holy damage\n- **12-16:** 3 + M holy damage\n- **17+:** 5 + M holy damage\n\n**Effect:** When a target who is not a leader or solo creature is made [winded](scc:mcdm.heroes.v1/rule.health/winded) by this ability, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)."
     distance: Melee 1
     feature_type: ability
     flavor: Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).

@@ -5,7 +5,7 @@ cost: 3 Discipline
 cost_amount: "3"
 cost_resource: Discipline
 distance: Melee 1
-effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free triggered action to [shift](../../../../movement/shifting.md) up to your speed. You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
+effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
 feature_type: ability
 file_basename: relentless-nemesis
 file_dpath: feature/ability/null/level-1
@@ -29,7 +29,7 @@ type: ability
 cost: 3 Discipline
 distance: Melee 1
 effects:
-    - effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free triggered action to [shift](../../../../movement/shifting.md) up to your speed. You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
+    - effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
 feature_type: ability
 flavor: You strike, and for the next few moments, your enemy can't escape you.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: "null"
     cost: 3 Discipline
     distance: Melee 1
-    effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free triggered action to [shift](../../../../movement/shifting.md) up to your speed. You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
+    effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
     flavor: You strike, and for the next few moments, your enemy can't escape you.
     keywords:
         - Melee

@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: The magic in your blood makes it difficult for others to move you. You have a +1 bonus to stability.
+    - effect: The magic in your blood makes it difficult for others to move you. You have a +1 bonus to [stability](scc:mcdm.heroes.v1/rule.character/stability).
 feature_type: trait
 metadata:
     ancestry: orc

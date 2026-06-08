@@ -4,8 +4,8 @@ class: elementalist
 cost: 5 Essence
 cost_amount: "5"
 cost_resource: Essence
-distance: 3 cube within 10
-effect: You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
+effect: You can end one effect on yourself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of your turn. Each ally in the area also gains this benefit.
 feature_type: ability
 file_basename: test-of-rain
 file_dpath: feature/ability/elementalist/level-1
@@ -27,9 +27,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Essence
-distance: 3 cube within 10
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
-    - effect: You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
+    - effect: You can end one effect on yourself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of your turn. Each ally in the area also gains this benefit.
 feature_type: ability
 flavor: You call down a rain that burns your enemies and restores your allies.
 keywords:
@@ -41,8 +41,8 @@ metadata:
     action_type: Main action
     class: elementalist
     cost: 5 Essence
-    distance: 3 cube within 10
-    effect: You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
+    distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
+    effect: You can end one effect on yourself that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of your turn. Each ally in the area also gains this benefit.
     flavor: You call down a rain that burns your enemies and restores your allies.
     keywords:
         - Area

@@ -5,7 +5,7 @@ cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
 distance: Ranged 5
-effect: Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
+effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next turn.
 feature_type: ability
 file_basename: acceleration-field
 file_dpath: feature/ability/talent/level-9
@@ -28,7 +28,7 @@ type: ability
 cost: 11 Clarity
 distance: Ranged 5
 effects:
-    - effect: Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
+    - effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next turn.
 feature_type: ability
 flavor: You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 11 Clarity
     distance: Ranged 5
-    effect: Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
+    effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next turn.
     flavor: You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.
     keywords:
         - Chronopathy

@@ -1,6 +1,6 @@
 {
   "cost": "9 Essence",
-  "distance": "4 burst",
+  "distance": "4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
       "effect": "The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their turn in the area has [cover](scc:mcdm.heroes.v1/rule.combat/cover).",
@@ -19,8 +19,8 @@
   "metadata": {
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*You create a terrarium that spans from canopy above to underbrush below.*\n\n| **Area, Earth, Green, Magic, Void** | **Main action** |\n|-------------------------------------|----------------:|\n| **📏 4 burst**                      |  **🎯 Special** |\n\n**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their turn in the area has [cover](scc:mcdm.heroes.v1/rule.combat/cover).\n\n**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
-    "distance": "4 burst",
+    "content": "\n*You create a terrarium that spans from canopy above to underbrush below.*\n\n| **Area, Earth, Green, Magic, Void** | **Main action** |\n|-------------------------------------|----------------:|\n| **📏 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**                      |  **🎯 Special** |\n\n**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their turn in the area has [cover](scc:mcdm.heroes.v1/rule.combat/cover).\n\n**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
+    "distance": "4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "You create a terrarium that spans from canopy above to underbrush below.",
     "item_id": "the-wode-remembers-and-returns",

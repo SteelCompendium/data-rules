@@ -18,7 +18,7 @@ Your [null tradition](../level-1/null-tradition.md) grants you a feature, as sho
 
 ## Entropic Adaptability {data-scc="mcdm.heroes.v1/feature.null.level-2/entropic-adaptability"}
 
-You have cold immunity equal to twice your [Intuition](../../../rule/character/intuition.md) score. Additionally, you ignore [difficult terrain](../../../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full speed while moving.
+You have cold immunity equal to twice your [Intuition](../../../rule/character/intuition.md) score. Additionally, you ignore [difficult terrain](../../../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full [speed](../../../rule/character/speed.md) while moving.
 
 ## Inertial Sink {data-scc="mcdm.heroes.v1/feature.null.level-2/inertial-sink"}
 
@@ -28,4 +28,4 @@ Additionally, when you fall, you reduce the effective height of the fall by 5 sq
 
 ## Rapid Processing {data-scc="mcdm.heroes.v1/feature.null.level-2/rapid-processing"}
 
-As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.
+As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any [respite](../../../rule/resource/respite.md), you can take an additional [respite](../../../rule/resource/respite.md) activity.

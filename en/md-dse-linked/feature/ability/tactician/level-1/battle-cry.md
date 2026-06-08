@@ -25,7 +25,7 @@ type: ability
 cost: 3 Focus
 distance: Ranged 10
 effects:
-    - effect: "\n*You shout a phrase that galvanizes your team.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**Power Roll + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** Each target gains 1 [surge](../../../../rule/resource/surge.md).\n- **12-16:** Each target gains 2 [surges](../../../../rule/resource/surge.md).\n- **17+:** Each target gains 3 [surges](../../../../rule/resource/surge.md)."
+    - effect: "\n*You shout a phrase that galvanizes your team.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** Each target gains 1 [surge](../../../../rule/resource/surge.md).\n- **12-16:** Each target gains 2 [surges](../../../../rule/resource/surge.md).\n- **17+:** Each target gains 3 [surges](../../../../rule/resource/surge.md)."
 feature_type: ability
 flavor: You shout a phrase that galvanizes your team.
 keywords:

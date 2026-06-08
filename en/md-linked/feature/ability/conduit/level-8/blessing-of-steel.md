@@ -2,9 +2,9 @@
 action_type: Maneuver
 class: conduit
 cost: 11 Piety
-distance: 5 aura
-effect: Until the end of the encounter, any ability roll made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5.
-flavor: A protective aura defends your allies from harm.
+distance: 5 [aura](../../../../rule/combat/aura.md)
+effect: Until the end of the encounter, any [ability roll](../../../../rule/dice/ability-roll.md) made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5.
+flavor: A protective [aura](../../../../rule/combat/aura.md) defends your allies from harm.
 keywords:
     - Area
     - Magic
@@ -16,10 +16,10 @@ type: ability
 ---
 
 
-*A protective aura defends your allies from harm.*
+*A protective [aura](../../../../rule/combat/aura.md) defends your allies from harm.*
 
 | **Area, Magic**   |                          **Maneuver** |
 |-------------------|--------------------------------------:|
-| **📏 5 aura**     | **🎯 Self and each ally in the area** |
+| **📏 5 [aura](../../../../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter, any ability roll made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5.
+**Effect:** Until the end of the encounter, any [ability roll](../../../../rule/dice/ability-roll.md) made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5.

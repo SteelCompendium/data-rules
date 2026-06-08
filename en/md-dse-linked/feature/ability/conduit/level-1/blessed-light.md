@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Ranged 10
-effect: One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
+effect: One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the [tier outcome](../../../../rule/dice/tier-outcome.md) of your [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: blessed-light
 file_dpath: feature/ability/conduit/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
+    - effect: One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the [tier outcome](../../../../rule/dice/tier-outcome.md) of your [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: conduit
     distance: Ranged 10
-    effect: One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
+    effect: One ally within [distance](../../../../rule/combat/distance.md) gains a number of [surges](../../../../rule/resource/surge.md) equal to the [tier outcome](../../../../rule/dice/tier-outcome.md) of your [power roll](../../../../rule/dice/power-roll.md).
     flavor: Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.
     keywords:
         - Magic

@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        You are never surprised. Additionally, whenever you would push a target with [forced movement](../../../movement/forced-movement.md), you can slide them instead.
+        You are never [surprised](../../../rule/combat/surprised.md). Additionally, whenever you would push a target with [forced movement](../../../movement/forced-movement.md), you can slide them instead.
 
         As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 feature_type: feature

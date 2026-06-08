@@ -23,10 +23,10 @@ type: ability
 |----------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                             | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
 - **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
 - **17+:** Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
 
-**Strained:** The [forced movement](../../../../movement/forced-movement.md) ignores stability. You take 2d6 damage and are [weakened](../../../../condition/weakened.md) (save ends).
+**Strained:** The [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). You take 2d6 damage and are [weakened](../../../../condition/weakened.md) (save ends).

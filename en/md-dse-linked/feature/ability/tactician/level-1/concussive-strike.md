@@ -28,7 +28,7 @@ type: ability
 cost: 3 Focus
 distance: Melee 1 or ranged 5
 effects:
-    - effect: "\n*Your precise strike leaves your foe struggling to respond.*\n\n| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|-----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 3 + M damage; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)\n- **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)\n- **17+:** 8 + M damage; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)"
+    - effect: "\n*Your precise strike leaves your foe struggling to respond.*\n\n| **Melee, Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|-----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 3 + M damage; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)\n- **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)\n- **17+:** 8 + M damage; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)"
 feature_type: ability
 flavor: Your precise strike leaves your foe struggling to respond.
 keywords:

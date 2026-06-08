@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to speed until the end of the round.
+    - effect: The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of the round.
 feature_type: trait
 metadata:
     ancestry: orc

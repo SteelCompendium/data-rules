@@ -1,8 +1,8 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
-effect: While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.
+distance: 5 [aura](../../../../rule/combat/aura.md)
+effect: While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a [triggered action](../../../../rule/combat/triggered-action.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).
 feature_type: ability
 file_basename: radical-fantasia
 file_dpath: feature/ability/troubadour/level-8
@@ -22,9 +22,9 @@ type: ability
 ---
 
 ```ds-feature
-distance: 5 aura
+distance: 5 [aura](../../../../rule/combat/aura.md)
 effects:
-    - effect: While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.
+    - effect: While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a [triggered action](../../../../rule/combat/triggered-action.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).
 feature_type: ability
 flavor: "\U0001D160♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪"
 keywords:
@@ -34,8 +34,8 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    distance: 5 aura
-    effect: While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.
+    distance: 5 [aura](../../../../rule/combat/aura.md)
+    effect: While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a [triggered action](../../../../rule/combat/triggered-action.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).
     flavor: "\U0001D160♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪"
     keywords:
         - Area

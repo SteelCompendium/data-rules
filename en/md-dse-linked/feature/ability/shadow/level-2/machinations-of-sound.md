@@ -4,8 +4,8 @@ class: shadow
 cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
-distance: 3 cube within 10
-effect: This [forced movement](../../../../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
+effect: This [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
 feature_type: ability
 file_basename: machinations-of-sound
 file_dpath: feature/ability/shadow/level-2
@@ -26,9 +26,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Insight
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
-    - effect: This [forced movement](../../../../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
+    - effect: This [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
 feature_type: ability
 flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
 keywords:
@@ -39,8 +39,8 @@ metadata:
     action_type: Maneuver
     class: shadow
     cost: 5 Insight
-    distance: 3 cube within 10
-    effect: This [forced movement](../../../../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
+    distance: 3 [cube](../../../../rule/combat/cube.md) within 10
+    effect: This [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
     flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
     keywords:
         - Area

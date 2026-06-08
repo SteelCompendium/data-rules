@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*Pillars of ice erupt from the ground and launch your foes into the air.*\n\n| **Psionic, Ranged** |                   **Main action** |\n|---------------------|----------------------------------:|\n| **📏 Ranged 10**    | **🎯 Three creatures or objects** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** Vertical slide 6\n- **12-16:** Vertical slide 8\n- **17+:** Vertical slide 10\n\n**Effect:** The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved.",
+    "content": "\n*Pillars of ice erupt from the ground and launch your foes into the air.*\n\n| **Psionic, Ranged** |                   **Main action** |\n|---------------------|----------------------------------:|\n| **📏 Ranged 10**    | **🎯 Three creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** Vertical slide 6\n- **12-16:** Vertical slide 8\n- **17+:** Vertical slide 10\n\n**Effect:** The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Pillars of ice erupt from the ground and launch your foes into the air.",

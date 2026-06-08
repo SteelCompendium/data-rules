@@ -1,5 +1,4 @@
 ---
-average_potency: '[Presence](../rule/character/presence.md) − 1'
 file_basename: censor
 file_dpath: class
 item_id: censor
@@ -9,9 +8,7 @@ scc: mcdm.heroes.v1/class/censor
 skills:
     - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)'
 source: mcdm.heroes.v1
-strong_potency: '[Presence](../rule/character/presence.md)'
 type: class
-weak_potency: '[Presence](../rule/character/presence.md) − 2'
 ---
 
 Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.
@@ -34,11 +31,11 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** [Presence](../rule/character/presence.md) − 2
+**Weak [Potency](../rule/character/potency.md):** [Presence](../rule/character/presence.md) − 2
 
-**Average Potency:** [Presence](../rule/character/presence.md) − 1
+**Average [Potency](../rule/character/potency.md):** [Presence](../rule/character/presence.md) − 1
 
-**Strong Potency:** [Presence](../rule/character/presence.md)
+**Strong [Potency](../rule/character/potency.md):** [Presence](../rule/character/presence.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 

@@ -4,7 +4,7 @@ class: troubadour
 cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
-distance: Three 3 cubes within 1
+distance: Three 3 [cubes](scc:mcdm.heroes.v1/rule.combat/cube) within 1
 effect: A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.
 feature_type: ability
 file_basename: feedback
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 9 Drama
-distance: Three 3 cubes within 1
+distance: Three 3 [cubes](scc:mcdm.heroes.v1/rule.combat/cube) within 1
 effects:
     - effect: A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 9 Drama
-    distance: Three 3 cubes within 1
+    distance: Three 3 [cubes](scc:mcdm.heroes.v1/rule.combat/cube) within 1
     effect: A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.
     flavor: Your music pounds the crowd to the beat until their hearts can't stand it anymore.
     keywords:

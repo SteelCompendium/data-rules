@@ -23,7 +23,7 @@ type: ability
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
 - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)

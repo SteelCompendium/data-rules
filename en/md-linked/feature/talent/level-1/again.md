@@ -17,6 +17,6 @@ You have the following ability.
 |---------------------|----------------------------:|
 | **📏 Ranged 10**    | **🎯 Self or one creature** |
 
-**Trigger:** The target makes an ability roll.
+**Trigger:** The target makes an [ability roll](../../../rule/dice/ability-roll.md).
 
-**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
+**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../../../rule/dice/power-roll.md) and use the new roll.

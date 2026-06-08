@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.null.level-5/9-discipline-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 discipline to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 9 discipline to use.
 
 ## Anticipating Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/anticipating-strike"}
 
@@ -19,7 +19,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 **Trigger:** The target moves or uses a main action.
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 + A damage; I < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)
@@ -36,7 +36,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 10 + A damage; A < WEAK, [grabbed](../../../condition/grabbed.md)
 - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../condition/grabbed.md)
@@ -53,7 +53,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 |-------------|------------:|
 | **📏 Self** | **🎯 Self** |
 
-**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a [bane](../../../rule/dice/bane.md) on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../level-1/null-field.md) ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+**Effect:** You jump up to your [speed](../../../rule/character/speed.md) without provoking [opportunity attacks](../../../rule/combat/opportunity-attack.md). Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md). You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../level-1/null-field.md) ability is active, your afterimage also projects the [aura](../../../rule/combat/aura.md) from that ability, which you control as if you were in the afterimage's space.
 
 ## Synaptic Reset {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset"}
 
@@ -62,6 +62,6 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 | **Area, Psionic** |                          **Maneuver** |
 |-------------------|--------------------------------------:|
-| **📏 3 burst**    | **🎯 Self and each ally in the area** |
+| **📏 3 [burst](../../../rule/combat/burst.md)**    | **🎯 Self and each ally in the area** |
 
 **Effect:** Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md) for each condition or effect removed.

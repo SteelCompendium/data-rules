@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: 'You can interpret diagrams and charts even if you don''t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](../../../chapter/downtime-projects.md)).'
+    - effect: 'You can interpret diagrams and charts even if you don''t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the [project source](../../../rule/downtime/project-source.md) for any crafting or [research project](../../../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../../chapter/downtime-projects.md)).'
 feature_type: feature
 metadata:
     class: censor

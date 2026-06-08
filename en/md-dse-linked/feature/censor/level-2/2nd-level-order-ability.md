@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [censor order](../level-1/censor-order.md) grants your choice of one of two heroic abilities.
+        Your [censor order](../level-1/censor-order.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
         ##### 2nd-Level Exorcist Ability
 

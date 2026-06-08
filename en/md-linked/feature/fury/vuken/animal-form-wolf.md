@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.fury.vuken/animal-form-wolf
 type: feature
 ---
 
-While you are in your wolf form, your [size](../../../rule/character/size.md) is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../../../movement/difficult-terrain.md).
+While you are in your wolf form, your [size](../../../rule/character/size.md) is 1L, you have a +2 bonus to [speed](../../../rule/character/speed.md), and you ignore [difficult terrain](../../../movement/difficult-terrain.md).

@@ -1,5 +1,5 @@
 {
-  "content": "Trinkets are treasures that can be used at will without a reduction in their potency. They generally provide a small benefit, such as allowing you to see farther or become a bit better at picking locks.\n\nLike consumables, trinket treasures are organized by echelon. You can carry any number of trinkets.",
+  "content": "Trinkets are treasures that can be used at will without a reduction in their [potency](scc:mcdm.heroes.v1/rule.character/potency). They generally provide a small benefit, such as allowing you to see farther or become a bit better at picking locks.\n\nLike [consumables](scc:mcdm.heroes.v1/rule.treasure/consumable), trinket treasures are organized by [echelon](scc:mcdm.heroes.v1/rule.general/echelon). You can carry any number of trinkets.",
   "name": "Trinkets",
   "scc": "mcdm.heroes.v1/rule.treasure/trinket",
   "type": "rule"

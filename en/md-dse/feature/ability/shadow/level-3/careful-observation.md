@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: shadow
 distance: Ranged 20
-effect: As long as you remain within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the target, maintain line of effect to them, and strike no other creature first, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that [strike](scc:mcdm.heroes.v1/rule.combat/strike).
+effect: As long as you remain within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the target, maintain [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect) to them, and strike no other creature first, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that [strike](scc:mcdm.heroes.v1/rule.combat/strike).
 feature_type: ability
 file_basename: careful-observation
 file_dpath: feature/ability/shadow/level-3
@@ -22,7 +22,7 @@ type: ability
 ```ds-feature
 distance: Ranged 20
 effects:
-    - effect: As long as you remain within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the target, maintain line of effect to them, and strike no other creature first, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that [strike](scc:mcdm.heroes.v1/rule.combat/strike).
+    - effect: As long as you remain within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the target, maintain [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect) to them, and strike no other creature first, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that [strike](scc:mcdm.heroes.v1/rule.combat/strike).
 feature_type: ability
 flavor: A moment of focus leaves a foe firmly in your sights.
 keywords:
@@ -31,7 +31,7 @@ metadata:
     action_type: Maneuver
     class: shadow
     distance: Ranged 20
-    effect: As long as you remain within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the target, maintain line of effect to them, and strike no other creature first, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that [strike](scc:mcdm.heroes.v1/rule.combat/strike).
+    effect: As long as you remain within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the target, maintain [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect) to them, and strike no other creature first, you gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on the next strike you make against the assessed creature, and gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) you can use only on that [strike](scc:mcdm.heroes.v1/rule.combat/strike).
     flavor: A moment of focus leaves a foe firmly in your sights.
     keywords:
         - Ranged

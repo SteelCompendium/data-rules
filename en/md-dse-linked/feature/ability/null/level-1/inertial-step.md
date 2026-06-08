@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md).
+effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md).
 feature_type: ability
 file_basename: inertial-step
 file_dpath: feature/ability/null/level-1
@@ -26,7 +26,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md).
+    - effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md).
 feature_type: ability
 flavor: You flit about the battlefield and take an opportunistic strike.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     action_type: Main action
     class: "null"
     distance: Melee 1
-    effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md).
+    effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md).
     flavor: You flit about the battlefield and take an opportunistic strike.
     keywords:
         - Melee

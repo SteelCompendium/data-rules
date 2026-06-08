@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.elementalist.level-3/7-essence-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 7 essence to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 7 essence to use.
 
 ## Erase {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/erase"}
 
@@ -17,15 +17,15 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 |---------------------------------|----------------:|
 | **📏 Ranged 10**                |  **🎯 Special** |
 
-**Special:** The number of creatures you target with this ability is determined by your power roll.
+**Special:** The number of creatures you target with this ability is determined by your [power roll](../../../rule/dice/power-roll.md).
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** One creature
 - **12-16:** Two creatures
 - **17+:** Three creatures
 
-**Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](../../../rule/dice/bane.md) on power rolls. At the end of their first turn, they have a double [bane](../../../rule/dice/bane.md) on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+**Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](../../../rule/dice/bane.md) on [power rolls](../../../rule/dice/power-roll.md). At the end of their first turn, they have a double [bane](../../../rule/dice/bane.md) on [power rolls](../../../rule/dice/power-roll.md). At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 
 ## Maw of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth"}
 
@@ -34,9 +34,9 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 | **Area, Earth, Magic, Ranged** |                **Main action** |
 |--------------------------------|-------------------------------:|
-| **📏 3 cube within 10**        |  **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10**        |  **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 5 damage
 - **12-16:** 9 damage
@@ -51,17 +51,17 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 | **Area, Green, Magic** |               **Main action** |
 |------------------------|------------------------------:|
-| **📏 3 aura**          | **🎯 Each enemy in the area** |
+| **📏 3 [aura](../../../rule/combat/aura.md)**          | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 6 damage
 - **17+:** 9 damage
 
-**Effect:** Until the end of your next turn, each ally in the area has each of their [characteristic](../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
+**Effect:** Until the end of your next turn, each ally in the area has each of their [characteristic](../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../rule/character/potency.md), and has a +1 bonus to [saving throws](../../../rule/general/saving-throw.md).
 
-**Persistent 1:** You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
+**Persistent 1:** You make the [power roll](../../../rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
 
 ## Wall of Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/wall-of-fire"}
 

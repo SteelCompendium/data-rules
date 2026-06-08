@@ -24,7 +24,7 @@ type: ability
 
 **Effect:** You can target yourself instead of one ally with this ability.
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** The target gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 - **12-16:** The target gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).

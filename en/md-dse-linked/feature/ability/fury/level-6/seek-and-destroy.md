@@ -5,7 +5,7 @@ cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
 distance: Melee 1
-effect: You [shift](../../../../movement/shifting.md) up to your speed.
+effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
 feature_type: ability
 file_basename: seek-and-destroy
 file_dpath: feature/ability/fury/level-6
@@ -28,7 +28,7 @@ type: ability
 cost: 9 Ferocity
 distance: Melee 1
 effects:
-    - effect: You [shift](../../../../movement/shifting.md) up to your speed.
+    - effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
 feature_type: ability
 flavor: You break through the enemy lines to make an example.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: fury
     cost: 9 Ferocity
     distance: Melee 1
-    effect: You [shift](../../../../movement/shifting.md) up to your speed.
+    effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
     flavor: You break through the enemy lines to make an example.
     keywords:
         - Melee

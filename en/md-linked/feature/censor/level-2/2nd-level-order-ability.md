@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-ability
 type: feature
 ---
 
-Your [censor order](../level-1/censor-order.md) grants your choice of one of two heroic abilities.
+Your [censor order](../level-1/censor-order.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 2nd-Level Exorcist Ability
 
@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Ranged 10**          | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -36,9 +36,9 @@ Choose one of the following abilities.
 
 | **Area, Magic** |                  **Maneuver** |
 |-----------------|------------------------------:|
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes holy damage equal to twice your [Presence](../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../../ability/censor/level-1/judgment.md) ability against one target as a free triggered action.
+**Effect:** Each target takes holy damage equal to twice your [Presence](../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../../ability/censor/level-1/judgment.md) ability against one target as a free [triggered action](../../../rule/combat/triggered-action.md).
 
 ## 2nd-Level Oracle Ability
 
@@ -66,7 +66,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 Ranged 10**  | **🎯 Self or one ally** |
 
-**Effect:** The target can use a free triggered action to use a [strike](../../../rule/combat/strike.md) signature ability or a [strike](../../../rule/combat/strike.md) heroic ability, and has a double [edge](../../../rule/dice/edge.md) on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
+**Effect:** The target can use a free [triggered action](../../../rule/combat/triggered-action.md) to use a [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) or a [strike](../../../rule/combat/strike.md) [heroic ability](../../../rule/general/heroic-ability.md), and has a double [edge](../../../rule/dice/edge.md) on that ability. If a [heroic ability](../../../rule/general/heroic-ability.md) is chosen, reduce its [Heroic Resource](../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 
 ## 2nd-Level Paragon Ability
 
@@ -79,7 +79,7 @@ Choose one of the following abilities.
 
 | **Area, Magic** |                          **Maneuver** |
 |-----------------|--------------------------------------:|
-| **📏 3 aura**   | **🎯 Self and each ally in the area** |
+| **📏 3 [aura](../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
 **Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each target gains 1 [surge](../../../rule/resource/surge.md) at the end of each of your turns.
 
@@ -92,7 +92,7 @@ Choose one of the following abilities.
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   |           **🎯 One creature** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)

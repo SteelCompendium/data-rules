@@ -4,7 +4,7 @@ class: troubadour
 cost: 7 Drama
 cost_amount: "7"
 cost_resource: Drama
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effect: Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 feature_type: ability
 file_basename: extensive-rewrites
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 7 Drama
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Maneuver
     class: troubadour
     cost: 7 Drama
-    distance: 4 burst
+    distance: 4 [burst](../../../../rule/combat/burst.md)
     effect: Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
     flavor: No, this isn't right. That foe was over there!
     keywords:

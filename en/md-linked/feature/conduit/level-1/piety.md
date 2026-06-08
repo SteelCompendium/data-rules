@@ -10,7 +10,7 @@ Your deity grants you a [Heroic Resource](../../../rule/resource/heroic-resource
 
 ## Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your Victories. At the start of each of your turns during combat, you gain 1d3 piety.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 piety.
 
 Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
 
@@ -22,9 +22,9 @@ You lose any remaining piety at the end of the encounter.
 
 ## Piety Outside of Combat
 
-Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain piety outside of combat, you can use your [heroic abilities](../../../rule/general/heroic-ability.md) and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more [Victories](../../../rule/resource/victories.md) or finish a [respite](../../../rule/resource/respite.md).
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of piety equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of piety equal to your [Victories](../../../rule/resource/victories.md).
 
 ## Domain Piety and Effects {data-scc="mcdm.heroes.v1/feature.conduit.level-1/domain-piety-and-effects"}
 
@@ -44,8 +44,8 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ### Fate Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a [power roll](../../../rule/dice/power-roll.md), or an enemy within 10 squares obtains a tier 1 outcome on a [power roll](../../../rule/dice/power-roll.md).
+- **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of the encounter.
 
 ### Knowledge Domain Piety and Effect
 
@@ -55,7 +55,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains [Stamina](../../../rule/health/stamina.md).
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../../../rule/health/recoveries.md), can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they [are prone](../../../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to two times your [Intuition](../../../rule/character/intuition.md) score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../../../rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn, or can stand up if they [are prone](../../../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to two times your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Love Domain Piety and Effect
 
@@ -69,13 +69,13 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ### Protection Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md), or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a [bane](../../../rule/dice/bane.md) or double [bane](../../../rule/dice/bane.md) on an enemy's power roll.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md), or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a [bane](../../../rule/dice/bane.md) or double [bane](../../../rule/dice/bane.md) on an enemy's [power roll](../../../rule/dice/power-roll.md).
 - **Prayer Effect:** One ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to four times your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Storm Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is [force moved](../../../movement/forced-movement.md).
-- **Prayer Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your [Intuition](../../../rule/character/intuition.md) score.
+- **Prayer Effect:** Each enemy in a 3 [cube](../../../rule/combat/cube.md) within 10 squares takes lightning damage equal to twice your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Sun Domain Piety and Effect
 

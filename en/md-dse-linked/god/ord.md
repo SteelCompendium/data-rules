@@ -11,7 +11,7 @@ type: god
 
 **Domains:** Creation, Knowledge, Protection, Sun, War
 
-Ord, the Maker, the Engineer, is the patron of the [dwarves](../ancestry/dwarf.md). Ord, along with his siblings Aan, Eth, and Kul, created Orden. These four saw the world as a dynamic expression of their philosophies.
+Ord, the Maker, the Engineer, is the patron of the [dwarves](../ancestry/dwarf.md). Ord, along with his siblings Aan, Eth, and Kul, created [Orden](../rule/world/orden.md). These four saw the world as a dynamic expression of their philosophies.
 
 Ord values integrity, honor, faithfulness to an ideal. Courage in battle and fair play. Treating your opponent honorably, Ord teaches, is an expression of your own worthiness. Ord is associated with permanence, which some elder [dwarves](../ancestry/dwarf.md) take to mean a kind of slavish devotion to tradition. But Ord teaches permanence is the quality of reliability, of steadfastness. Young [dwarves](../ancestry/dwarf.md) who chafe at the stale and stifling traditions of their elders remind the greybeards that Ord is the Maker. He expects his children to create marvels, to bring forth new discoveries, new insights. To remake the world anew each generation.
 
@@ -29,7 +29,7 @@ The first, great hero of the [dwarves](../ancestry/dwarf.md), Zarok was a noted 
 
 It was after Zarok retired from his career as a warmaster and became the ambassador to the elves that he undertook a study of how different cultures express the idea of justice. He surveyed the various traditions of elves, [humans](../ancestry/human.md), and [orcs](../ancestry/orc.md) and wrote *The Conversations*-a series of fictional dialogues in which two characters, deliberately chosen from [dwarf](../ancestry/dwarf.md) theater so as to be familiar to his audience, debate the question: "What are the [characteristics](../rule/character/characteristic.md) of a just society?"
 
-*The Conversations* marks the beginning of legal theory in Orden. It sought not only to state what a just society was, but to prove it ethically through a series of logical statements. Most of the work concerns itself with the proper, ethical uses of political power. The adversarial system of legal representation is his.
+*The Conversations* marks the beginning of legal theory in [Orden](../rule/world/orden.md). It sought not only to state what a just society was, but to prove it ethically through a series of logical statements. Most of the work concerns itself with the proper, ethical uses of political power. The adversarial system of legal representation is his.
 
 Zarok teaches that all people should be equal under the law. His is the principle of fair play—sportsmanship. Respect for your adversary. The responsibility of the strong to protect the weak.
 
@@ -53,6 +53,6 @@ Stakros the Engineer, the Machine Mind, the Operator, founder of the Order of Fa
 
 Stakros it was—*not* a steel [dwarf](../ancestry/dwarf.md)—who forged the first strife-engine, a great war-walker manned by thirty [dwarves](../ancestry/dwarf.md). At the battle of Kalas Mithral, the war-walker grappled with the legion of yllindyr the star elves summoned to defeat the walls of the steel [dwarf](../ancestry/dwarf.md) capital.
 
-After the war, Stakros turned his [talents](../class/talent.md) to peaceful pursuits. He forged the first magma diver, designed to withstand enormous temperatures and pressures, all the while protecting the operator within. Inside his marvel Stakros personally dove into the great volcano Oxor-myr, returning with marvelous ores never before seen in Orden. His design soon evolved into a variety of armored frames to suit a variety of purposes.
+After the war, Stakros turned his [talents](../class/talent.md) to peaceful pursuits. He forged the first magma diver, designed to withstand enormous temperatures and pressures, all the while protecting the operator within. Inside his marvel Stakros personally dove into the great volcano Oxor-myr, returning with marvelous ores never before seen in [Orden](../rule/world/orden.md). His design soon evolved into a variety of armored frames to suit a variety of purposes.
 
 Stakros teaches the value of knowledge for knowledge's sake, and the power of the mind to overcome any obstacle. He also teaches that knowledge is power, and in unready hands can only be dangerous.

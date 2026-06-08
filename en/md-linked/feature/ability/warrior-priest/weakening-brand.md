@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
+effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 flavor: The impact of your weapon brands your target for destruction.
 keywords:
     - Magic
@@ -22,10 +22,10 @@ type: ability
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 3 + M, R, I, or P holy damage
 - **12-16:** 5 + M, R, I, or P holy damage
 - **17+:** 8 + M, R, I, or P holy damage
 
-**Effect:** Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
+**Effect:** Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).

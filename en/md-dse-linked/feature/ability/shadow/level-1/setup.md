@@ -27,7 +27,7 @@ type: ability
 cost: 5 Insight
 distance: Ranged 5
 effects:
-    - effect: "\n*Your friends will thank you.*\n\n| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 6 + A damage; R < WEAK, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)\n- **12-16:** 9 + A damage; R < AVERAGE, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)\n- **17+:** 13 + A damage; R < STRONG, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)"
+    - effect: "\n*Your friends will thank you.*\n\n| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 6 + A damage; R < WEAK, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)\n- **12-16:** 9 + A damage; R < AVERAGE, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)\n- **17+:** 13 + A damage; R < STRONG, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)"
 feature_type: ability
 flavor: Your friends will thank you.
 keywords:

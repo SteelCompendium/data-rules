@@ -1,6 +1,6 @@
 ---
 benefit: You have the following ability.
-drawback: 'Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See Renown in Chapter 13: [Rewards](../chapter/rewards.md).'
+drawback: 'Rather than attracting [followers](../rule/general/follower.md) at 3, 6, 9, and 12 [Renown](../rule/resource/renown.md), you can attract [followers](../rule/general/follower.md) only when your [Renown](../rule/resource/renown.md) reaches 4, 8, 12, and 16. See [Renown](../rule/resource/renown.md) in Chapter 13: [Rewards](../chapter/rewards.md).'
 file_basename: stripped-of-rank
 file_dpath: complication
 item_id: stripped-of-rank
@@ -24,8 +24,8 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 > |------------------|----------------:|
 > | **📏 Ranged 10** | **🎯 One ally** |
 >
-> **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
+> **Effect:** The target can use a [triggered action](../rule/combat/triggered-action.md) to take a main action, a maneuver, or a move action.
 >
-> **Special:** If you have the [Strike Now](../feature/ability/tactician/level-1/strike-now.md) [tactician](../class/tactician.md) ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
+> **Special:** If you have the [Strike Now](../feature/ability/tactician/level-1/strike-now.md) [tactician](../class/tactician.md) ability, the target can use a free [triggered action](../rule/combat/triggered-action.md) instead of a [triggered action](../rule/combat/triggered-action.md) to gain the benefit of this ability.
 
-**Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See Renown in Chapter 13: [Rewards](../chapter/rewards.md).
+**Drawback:** Rather than attracting [followers](../rule/general/follower.md) at 3, 6, 9, and 12 [Renown](../rule/resource/renown.md), you can attract [followers](../rule/general/follower.md) only when your [Renown](../rule/resource/renown.md) reaches 4, 8, 12, and 16. See [Renown](../rule/resource/renown.md) in Chapter 13: [Rewards](../chapter/rewards.md).

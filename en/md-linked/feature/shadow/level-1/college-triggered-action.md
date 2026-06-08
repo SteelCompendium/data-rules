@@ -6,11 +6,11 @@ scc: mcdm.heroes.v1/feature.shadow.level-1/college-triggered-action
 type: feature
 ---
 
-Your [shadow college](shadow-college.md) grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow college](shadow-college.md) grants you a [triggered action](../../../rule/combat/triggered-action.md), as shown on the College [Triggered Actions](../../../rule/combat/triggered-action.md) table.
 
 ### College Triggered Actions Table
 
-| College         | Triggered Action      |
+| College         | [Triggered Action](../../../rule/combat/triggered-action.md)      |
 |-----------------|-----------------------|
 | Black Ash       | [In All This Confusion](../../ability/shadow/level-1/in-all-this-confusion.md) |
 | Caustic Alchemy | [Defensive Roll](../../ability/shadow/level-1/defensive-roll.md)        |
@@ -42,7 +42,7 @@ Your [shadow college](shadow-college.md) grants you a triggered action, as shown
 
 **Effect:** You take half the triggering damage, then can [shift](../../../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../../../movement/shifting.md) with [concealment](../../../rule/combat/concealment.md) or [cover](../../../rule/combat/cover.md), you can use the [Hide](../../common/maneuvers/hide.md) maneuver even if you are observed.
 
-**Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
+**Spend 1 Insight:** The [potency](../../../rule/character/potency.md) of any effects associated with the damage are reduced by 1 for you.
 
 ### In All This Confusion {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion"}
 

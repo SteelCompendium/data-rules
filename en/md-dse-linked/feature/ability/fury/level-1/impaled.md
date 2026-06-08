@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: "\n*You skewer your enemy like a boar upon a spit.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |                             **Main action** |\n|---------------------------|--------------------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature of your [size](../../../../rule/character/size.md) or smaller** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)\n- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)\n- **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)"
+    - effect: "\n*You skewer your enemy like a boar upon a spit.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |                             **Main action** |\n|---------------------------|--------------------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature of your [size](../../../../rule/character/size.md) or smaller** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)\n- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)\n- **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)"
 feature_type: ability
 flavor: You skewer your enemy like a boar upon a spit.
 keywords:

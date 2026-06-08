@@ -1,7 +1,7 @@
 ---
 action_type: No action
 class: troubadour
-distance: 2 aura
+distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score and [teleport](scc:mcdm.heroes.v1/movement/teleport) those targets to unoccupied spaces in the area. A target can't be [teleport](scc:mcdm.heroes.v1/movement/teleport)ed in a way that would harm them (such as over a cliff), leave them [dying](scc:mcdm.heroes.v1/rule.health/dying), or result in them suffering a condition or other negative effect.
 feature_type: ability
 file_basename: blocking
@@ -22,7 +22,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 2 aura
+distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
     - effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score and [teleport](scc:mcdm.heroes.v1/movement/teleport) those targets to unoccupied spaces in the area. A target can't be [teleport](scc:mcdm.heroes.v1/movement/teleport)ed in a way that would harm them (such as over a cliff), leave them [dying](scc:mcdm.heroes.v1/rule.health/dying), or result in them suffering a condition or other negative effect.
 feature_type: ability
@@ -34,7 +34,7 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    distance: 2 aura
+    distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
     effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score and [teleport](scc:mcdm.heroes.v1/movement/teleport) those targets to unoccupied spaces in the area. A target can't be [teleport](scc:mcdm.heroes.v1/movement/teleport)ed in a way that would harm them (such as over a cliff), leave them [dying](scc:mcdm.heroes.v1/rule.health/dying), or result in them suffering a condition or other negative effect.
     flavor: No, no, no, you lose the audience that way. Try it like this...
     keywords:

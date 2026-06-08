@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.shadow.level-6/6th-level-college-ability
 type: feature
 ---
 
-Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
+Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 6th-Level Black Ash Abilities
 
@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + A damage; vertical push 5
 - **12-16:** 6 + A damage; vertical push 10
@@ -36,7 +36,7 @@ Choose one of the following abilities.
 
 | **Magic**      |                          **Maneuver** |
 |----------------|--------------------------------------:|
-| **📏 4 burst** | **🎯 Self and each ally in the area** |
+| **📏 4 [burst](../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
 **Effect:** Each target can [teleport](../../../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your [Agility](../../../rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../../../rule/combat/concealment.md) or [cover](../../../rule/combat/cover.md) can use the [Hide](../../common/maneuvers/hide.md) maneuver even if they are observed.
 
@@ -53,7 +53,7 @@ Choose one of the following abilities.
 |------------------|-----------------------:|
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
+**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../../rule/character/potency.md) at the end of the encounter.
 
 A creature who drinks the potion can spend up to 2 [Recoveries](../../../rule/health/recoveries.md), and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
 
@@ -66,13 +66,13 @@ A creature who drinks the potion can spend up to 2 [Recoveries](../../../rule/he
 |------------------|-----------------------:|
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
+**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../../rule/character/potency.md) at the end of the encounter.
 
-A creature who drinks the potion receives benefits based on your power roll.
+A creature who drinks the potion receives benefits based on your [power roll](../../../rule/dice/power-roll.md).
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** The creature's speed is increased by 2 until the end of the encounter.
+- **≤11:** The creature's [speed](../../../rule/character/speed.md) is increased by 2 until the end of the encounter.
 - **12-16:** The creature can [fly](../../../movement/fly.md) until the end of the encounter.
 - **17+:** The creature turns invisible until the end of their next turn.
 
@@ -87,9 +87,9 @@ Choose one of the following abilities.
 
 | **Area, Magic** |                  **Maneuver** |
 |-----------------|------------------------------:|
-| **📏 5 burst**  | **🎯 Each enemy in the area** |
+| **📏 5 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Until the start of your next turn, any ability roll made against a target gains an [edge](../../../rule/dice/edge.md).
+**Effect:** Until the start of your next turn, any [ability roll](../../../rule/dice/ability-roll.md) made against a target gains an [edge](../../../rule/dice/edge.md).
 
 ### Puppet Strings {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings"}
 
@@ -100,10 +100,10 @@ Choose one of the following abilities.
 |--------------------------------------|-------------------:|
 | **📏 Melee 1**                       | **🎯 Two enemies** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../common/main-actions/free-strike.md).
 - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
-- **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can [shift](../../../movement/shifting.md) up to their speed and use a main action ability of your choice.
+- **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can [shift](../../../movement/shifting.md) up to their [speed](../../../rule/character/speed.md) and use a main action ability of your choice.
 
 **Effect:** You choose the new targets for the original target's [free strike](../../common/main-actions/free-strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.

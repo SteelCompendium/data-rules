@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. The chosen character gains a bonus to their [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries) equal to your level that lasts until you finish another respite.
+    - effect: Each time you finish a [respite](scc:mcdm.heroes.v1/rule.resource/respite), you can choose yourself or one ally who is also finishing a [respite](scc:mcdm.heroes.v1/rule.resource/respite) to gain the benefit of a divine ritual. The chosen character gains a bonus to their [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries) equal to your level that lasts until you finish another [respite](scc:mcdm.heroes.v1/rule.resource/respite).
 feature_type: feature
 metadata:
     class: conduit

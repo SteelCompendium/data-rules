@@ -1,7 +1,7 @@
 ---
 action_type: Main action
-distance: 1 burst
-effect: You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the power roll.
+distance: 1 [burst](../../../rule/combat/burst.md)
+effect: You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: wing-buffet
 file_dpath: feature/ability/corven
@@ -22,9 +22,9 @@ type: ability
 ---
 
 ```ds-feature
-distance: 1 burst
+distance: 1 [burst](../../../rule/combat/burst.md)
 effects:
-    - effect: You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the power roll.
+    - effect: You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: Foes who try to close in around you do so at their peril.
 keywords:
@@ -33,8 +33,8 @@ keywords:
     - Weapon
 metadata:
     action_type: Main action
-    distance: 1 burst
-    effect: You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the power roll.
+    distance: 1 [burst](../../../rule/combat/burst.md)
+    effect: You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the [power roll](../../../rule/dice/power-roll.md).
     flavor: Foes who try to close in around you do so at their peril.
     keywords:
         - Area

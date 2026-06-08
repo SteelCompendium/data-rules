@@ -1,12 +1,12 @@
 ---
 action_type: Maneuver
 class: conduit
-distance: 3 aura
-effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on tests made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+distance: 3 [aura](../../../../rule/combat/aura.md)
+effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 feature_type: ability
 file_basename: blessing-of-secrets
 file_dpath: feature/ability/conduit/level-4
-flavor: You project an illusory aura that makes you and allies harder to notice.
+flavor: You project an illusory [aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.
 item_id: blessing-of-secrets
 item_name: Blessing of Secrets
 keywords:
@@ -21,20 +21,20 @@ type: ability
 ---
 
 ```ds-feature
-distance: 3 aura
+distance: 3 [aura](../../../../rule/combat/aura.md)
 effects:
-    - effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on tests made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+    - effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 feature_type: ability
-flavor: You project an illusory aura that makes you and allies harder to notice.
+flavor: You project an illusory [aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.
 keywords:
     - Area
     - Magic
 metadata:
     action_type: Maneuver
     class: conduit
-    distance: 3 aura
-    effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on tests made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
-    flavor: You project an illusory aura that makes you and allies harder to notice.
+    distance: 3 [aura](../../../../rule/combat/aura.md)
+    effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+    flavor: You project an illusory [aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.
     keywords:
         - Area
         - Magic

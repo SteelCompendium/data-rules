@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.elementalist.level-9/new-11-essence-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn't select at 8th level (see 8th-Level Features).
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn't select at 8th level (see 8th-Level Features).
 
 ## Earth Rejects You {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-9/earth-rejects-you"}
 
@@ -15,9 +15,9 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 | **Area, Earth, Magic, Ranged** |                          **Main action** |
 |--------------------------------|-----------------------------------------:|
-| **📏 5 cube within 10**        | **🎯 Each enemy and object in the area** |
+| **📏 5 [cube](../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy and object in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 6 damage
 - **12-16:** 9 damage
@@ -47,7 +47,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |-----------------|----------------:|
 | **📏 Self**     |     **🎯 Self** |
 
-**Effect:** You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](../../../movement/shifting.md) up to 2 squares between your use of each ability.
+**Effect:** You use up to three [heroic abilities](../../../rule/general/heroic-ability.md) whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](../../../movement/shifting.md) up to 2 squares between your use of each ability.
 
 ## Unquenchable Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-9/unquenchable-fire"}
 
@@ -58,7 +58,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |---------------------------------|---------------------------:|
 | **📏 Ranged 10**                | **🎯 One enemy or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)

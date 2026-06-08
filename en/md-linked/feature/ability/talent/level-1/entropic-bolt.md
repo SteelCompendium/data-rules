@@ -24,7 +24,7 @@ type: ability
 |------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                         | **🎯 One creature or object** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
@@ -32,4 +32,4 @@ type: ability
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 
-**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.
+**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the [power roll](../../../../rule/dice/power-roll.md).

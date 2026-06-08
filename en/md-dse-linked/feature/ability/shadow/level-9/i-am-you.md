@@ -5,7 +5,7 @@ cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
 distance: Ranged 10
-effect: Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
+effect: Until the end of the encounter, you gain the target's damage immunities and [speed](../../../../rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../../../../rule/combat/signature-ability.md), using their bonus for the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: i-am-you
 file_dpath: feature/ability/shadow/level-9
@@ -27,7 +27,7 @@ type: ability
 cost: 11 Insight
 distance: Ranged 10
 effects:
-    - effect: Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
+    - effect: Until the end of the encounter, you gain the target's damage immunities and [speed](../../../../rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../../../../rule/combat/signature-ability.md), using their bonus for the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: Your mask reflects your foe's face. Surely they won't need it much longer.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: shadow
     cost: 11 Insight
     distance: Ranged 10
-    effect: Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
+    effect: Until the end of the encounter, you gain the target's damage immunities and [speed](../../../../rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../../../../rule/combat/signature-ability.md), using their bonus for the [power roll](../../../../rule/dice/power-roll.md).
     flavor: Your mask reflects your foe's face. Surely they won't need it much longer.
     keywords:
         - Magic

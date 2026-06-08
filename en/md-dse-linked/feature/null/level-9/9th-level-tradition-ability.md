@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two heroic abilities.
+        Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
         ##### 9th-Level Chronokinetic Abilities
 

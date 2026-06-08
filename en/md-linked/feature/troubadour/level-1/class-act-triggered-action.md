@@ -6,11 +6,11 @@ scc: mcdm.heroes.v1/feature.troubadour.level-1/class-act-triggered-action
 type: feature
 ---
 
-Your [troubadour class act](troubadour-class-act.md) grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour class act](troubadour-class-act.md) grants you a [triggered action](../../../rule/combat/triggered-action.md), as shown on the Class Act [Triggered Actions](../../../rule/combat/triggered-action.md) table.
 
 ### Class Act Triggered Action Table
 
-| Class Act | Triggered Action       |
+| Class Act | [Triggered Action](../../../rule/combat/triggered-action.md)       |
 |-----------|------------------------|
 | Auteur    | [Turnabout Is Fair Play](../../ability/troubadour/level-1/turnabout-is-fair-play.md) |
 | Duelist   | [Riposte](../../ability/troubadour/level-1/riposte.md)                |
@@ -53,7 +53,7 @@ Your [troubadour class act](troubadour-class-act.md) grants you a triggered acti
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 One creature** |
 
-**Trigger:** The target makes an ability roll that has an [edge](../../../rule/dice/edge.md), a double [edge](../../../rule/dice/edge.md), a [bane](../../../rule/dice/bane.md), or a double [bane](../../../rule/dice/bane.md).
+**Trigger:** The target makes an [ability roll](../../../rule/dice/ability-roll.md) that has an [edge](../../../rule/dice/edge.md), a double [edge](../../../rule/dice/edge.md), a [bane](../../../rule/dice/bane.md), or a double [bane](../../../rule/dice/bane.md).
 
 **Effect:** An [edge](../../../rule/dice/edge.md) on the triggering roll becomes a [bane](../../../rule/dice/bane.md), or a double [edge](../../../rule/dice/edge.md) becomes an [edge](../../../rule/dice/edge.md). A [bane](../../../rule/dice/bane.md) becomes an [edge](../../../rule/dice/edge.md), or a double [bane](../../../rule/dice/bane.md) becomes a [bane](../../../rule/dice/bane.md).
 

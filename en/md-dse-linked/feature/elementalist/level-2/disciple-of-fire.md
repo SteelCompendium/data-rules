@@ -18,7 +18,7 @@ effects:
     - effect: |-
         Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level. Additionally, fire damage you deal ignores a target's fire immunity.
 
-        At the start of a combat encounter, you gain a number of [surges](../../../rule/resource/surge.md) equal to your Victories. Whenever you spend a [surge](../../../rule/resource/surge.md) to deal extra damage, you can make that damage fire damage.
+        At the start of a combat encounter, you gain a number of [surges](../../../rule/resource/surge.md) equal to your [Victories](../../../rule/resource/victories.md). Whenever you spend a [surge](../../../rule/resource/surge.md) to deal extra damage, you can make that damage fire damage.
 feature_type: feature
 metadata:
     class: elementalist

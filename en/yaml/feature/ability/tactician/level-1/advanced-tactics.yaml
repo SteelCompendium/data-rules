@@ -4,7 +4,7 @@ effects:
     - effect: The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), which they can use on the triggering damage.
       name: Effect
     - cost: Spend 1 Focus
-      effect: If the damage has any potency effect associated with it, the potency is increased by 1.
+      effect: If the damage has any [potency](scc:mcdm.heroes.v1/rule.character/potency) effect associated with it, the [potency](scc:mcdm.heroes.v1/rule.character/potency) is increased by 1.
 feature_type: ability
 flavor: Your leadership aids an ally.
 keywords:
@@ -13,7 +13,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: tactician
-    content: "\n*Your leadership aids an ally.*\n\n| **Ranged**       |   **Triggered** |\n|------------------|----------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF One ally** |\n\n**Trigger:** The target deals damage to another creature.\n\n**Effect:** The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), which they can use on the triggering damage.\n\n**Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1."
+    content: "\n*Your leadership aids an ally.*\n\n| **Ranged**       |   **Triggered** |\n|------------------|----------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF One ally** |\n\n**Trigger:** The target deals damage to another creature.\n\n**Effect:** The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), which they can use on the triggering damage.\n\n**Spend 1 Focus:** If the damage has any [potency](scc:mcdm.heroes.v1/rule.character/potency) effect associated with it, the [potency](scc:mcdm.heroes.v1/rule.character/potency) is increased by 1."
     distance: Ranged 10
     feature_type: ability
     flavor: Your leadership aids an ally.

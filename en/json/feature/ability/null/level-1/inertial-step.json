@@ -3,7 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike).",
+      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your [speed](scc:mcdm.heroes.v1/rule.character/speed) before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike).",
       "name": "Effect"
     }
   ],
@@ -19,7 +19,7 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You flit about the battlefield and take an opportunistic strike.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 5 + A damage\n- **12-16:** 7 + A damage\n- **17+:** 10 + A damage\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike).",
+    "content": "\n*You flit about the battlefield and take an opportunistic strike.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **📏 Melee 1**                     | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 5 + A damage\n- **12-16:** 7 + A damage\n- **17+:** 10 + A damage\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your [speed](scc:mcdm.heroes.v1/rule.character/speed) before or after you make this [strike](scc:mcdm.heroes.v1/rule.combat/strike).",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You flit about the battlefield and take an opportunistic strike.",

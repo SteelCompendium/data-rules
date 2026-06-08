@@ -1,7 +1,7 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effect: While this performance is active, each target who starts their turn in the area gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: ballad-of-the-beast
@@ -22,7 +22,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
     - effect: While this performance is active, each target who starts their turn in the area gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
@@ -34,7 +34,7 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    distance: 5 aura
+    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
     effect: While this performance is active, each target who starts their turn in the area gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪
     keywords:

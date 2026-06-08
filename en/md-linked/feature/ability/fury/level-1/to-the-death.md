@@ -2,7 +2,7 @@
 action_type: Main action
 class: fury
 distance: Melee 1
-effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an opportunity attack against you as a free triggered action.
+effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../../rule/combat/triggered-action.md).
 flavor: Your reckless assault leaves you tactically vulnerable.
 keywords:
     - Melee
@@ -23,10 +23,10 @@ type: ability
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
 - **17+:** 9 + M damage
 
-**Effect:** You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an opportunity attack against you as a free triggered action.
+**Effect:** You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../../rule/combat/triggered-action.md).

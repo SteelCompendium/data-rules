@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "Each target can move up to their speed.",
+      "effect": "Each target can move up to their [speed](scc:mcdm.heroes.v1/rule.character/speed).",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "tactician",
-    "content": "\n*On your command, you and your allies force back the enemy line.*\n\n| **Ranged**       |               **Maneuver** |\n|------------------|---------------------------:|\n| **📏 Ranged 10** | **🎯 Self and two allies** |\n\n**Effect:** Each target can move up to their speed.",
+    "content": "\n*On your command, you and your allies force back the enemy line.*\n\n| **Ranged**       |               **Maneuver** |\n|------------------|---------------------------:|\n| **📏 Ranged 10** | **🎯 Self and two allies** |\n\n**Effect:** Each target can move up to their [speed](scc:mcdm.heroes.v1/rule.character/speed).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "On your command, you and your allies force back the enemy line.",

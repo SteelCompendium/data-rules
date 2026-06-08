@@ -2,9 +2,9 @@
 action_type: Main action
 class: troubadour
 cost: 9 Drama
-distance: 3 burst
-effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md).
-flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
+distance: 3 [burst](../../../../rule/combat/burst.md)
+effect: Unless you score a [critical hit](../../../../rule/combat/critical-hit.md), this ability can't reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md).
+flavor: You wield your weapon at blistering [speed](../../../../rule/character/speed.md), leaving everyone around you fighting for their lives.
 keywords:
     - Area
     - Melee
@@ -17,16 +17,16 @@ type: ability
 ---
 
 
-*You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*
+*You wield your weapon at blistering [speed](../../../../rule/character/speed.md), leaving everyone around you fighting for their lives.*
 
 | **Area, Melee, Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 3 burst**          | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 10 damage
 - **12-16:** 14 damage
 - **17+:** 20 damage
 
-**Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md).
+**Effect:** Unless you score a [critical hit](../../../../rule/combat/critical-hit.md), this ability can't reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md).

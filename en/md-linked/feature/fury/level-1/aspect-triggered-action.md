@@ -6,11 +6,11 @@ scc: mcdm.heroes.v1/feature.fury.level-1/aspect-triggered-action
 type: feature
 ---
 
-Your [primordial aspect](primordial-aspect.md) grants you a triggered action, as shown on the Aspect Triggered Actions table.
+Your [primordial aspect](primordial-aspect.md) grants you a [triggered action](../../../rule/combat/triggered-action.md), as shown on the Aspect [Triggered Actions](../../../rule/combat/triggered-action.md) table.
 
 ### Aspect Triggered Actions Table
 
-| Aspect                   | Triggered Action   |
+| Aspect                   | [Triggered Action](../../../rule/combat/triggered-action.md)   |
 |--------------------------|--------------------|
 | Berserker                | [Lines of Force](../../ability/fury/level-1/lines-of-force.md)     |
 | Reaver                   | [Unearthly Reflexes](../../ability/fury/level-1/unearthly-reflexes.md) |
@@ -59,4 +59,4 @@ Your [primordial aspect](primordial-aspect.md) grants you a triggered action, as
 
 **Effect:** You take half the damage from the triggering effect and can [shift](../../../movement/shifting.md) up to a number of squares equal to your [Agility](../../../rule/character/agility.md) score.
 
-**Spend 1 Ferocity:** If the damage has any potency effects associated with it, the potency is reduced by 1 for you.
+**Spend 1 Ferocity:** If the damage has any [potency](../../../rule/character/potency.md) effects associated with it, the [potency](../../../rule/character/potency.md) is reduced by 1 for you.

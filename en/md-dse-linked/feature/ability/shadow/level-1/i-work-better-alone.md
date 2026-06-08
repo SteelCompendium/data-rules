@@ -2,7 +2,7 @@
 action_type: Main action
 class: shadow
 distance: Melee 1 or ranged 5
-effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
+effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: i-work-better-alone
 file_dpath: feature/ability/shadow/level-1
@@ -26,7 +26,7 @@ type: ability
 ```ds-feature
 distance: Melee 1 or ranged 5
 effects:
-    - effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
+    - effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: '"It''s better, just you and me. Isn''t it?"'
 keywords:
@@ -38,7 +38,7 @@ metadata:
     action_type: Main action
     class: shadow
     distance: Melee 1 or ranged 5
-    effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
+    effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
     flavor: '"It''s better, just you and me. Isn''t it?"'
     keywords:
         - Melee

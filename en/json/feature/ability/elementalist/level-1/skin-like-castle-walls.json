@@ -8,7 +8,7 @@
     },
     {
       "cost": "Spend 1 Essence",
-      "effect": "If the damage has any potency effects associated with it, the potency is reduced by 1 for the target."
+      "effect": "If the damage has any [potency](scc:mcdm.heroes.v1/rule.character/potency) effects associated with it, the [potency](scc:mcdm.heroes.v1/rule.character/potency) is reduced by 1 for the target."
     }
   ],
   "feature_type": "ability",
@@ -22,7 +22,7 @@
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "elementalist",
-    "content": "\n*You cover yourself or an ally in protective stone.*\n\n| **Earth, Magic, Ranged**  |           **Triggered** |\n|---------------------------|------------------------:|\n| **📏 Ranged 10**          | **🎯 Self or one ally** |\n\n**Trigger:** The target takes damage.\n\n**Effect:** The target takes half the damage.\n\n**Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.",
+    "content": "\n*You cover yourself or an ally in protective stone.*\n\n| **Earth, Magic, Ranged**  |           **Triggered** |\n|---------------------------|------------------------:|\n| **📏 Ranged 10**          | **🎯 Self or one ally** |\n\n**Trigger:** The target takes damage.\n\n**Effect:** The target takes half the damage.\n\n**Spend 1 Essence:** If the damage has any [potency](scc:mcdm.heroes.v1/rule.character/potency) effects associated with it, the [potency](scc:mcdm.heroes.v1/rule.character/potency) is reduced by 1 for the target.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You cover yourself or an ally in protective stone.",

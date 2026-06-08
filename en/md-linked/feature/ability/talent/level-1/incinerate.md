@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: talent
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
 flavor: The air erupts into a column of smokeless flame.
 keywords:
@@ -23,9 +23,9 @@ type: ability
 
 | **Area, Fire, Psionic, Pyrokinesis, Ranged** |               **Main action** |
 |----------------------------------------------|------------------------------:|
-| **📏 3 cube within 10**                      | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**                      | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 2 fire damage
 - **12-16:** 4 fire damage
@@ -33,4 +33,4 @@ type: ability
 
 **Effect:** A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
 
-**Strained:** The size of the cube increases by 2, but the fire disappears at the end of your turn.
+**Strained:** The size of the [cube](../../../../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your turn.

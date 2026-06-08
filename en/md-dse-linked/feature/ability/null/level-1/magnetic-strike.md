@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Melee 2
 effects:
-    - effect: "\n*The force of your blow extends past the limits of your body, pulling your enemy closer.*\n\n| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 2**                     | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 5 + A psychic damage; vertical pull 1\n- **12-16:** 8 + A psychic damage; vertical pull 2\n- **17+:** 11 + A psychic damage; vertical pull 3"
+    - effect: "\n*The force of your blow extends past the limits of your body, pulling your enemy closer.*\n\n| **Melee, Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF Melee 2**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 5 + A psychic damage; vertical pull 1\n- **12-16:** 8 + A psychic damage; vertical pull 2\n- **17+:** 11 + A psychic damage; vertical pull 3"
 feature_type: ability
 flavor: The force of your blow extends past the limits of your body, pulling your enemy closer.
 keywords:

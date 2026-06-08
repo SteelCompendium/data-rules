@@ -10,27 +10,27 @@ source: mcdm.heroes.v1
 type: chapter
 ---
 
-Virtue is its own reward... but wouldn't a magic sword also be kind of nice? As heroes adventure, they find and craft treasures even as they are awarded titles, earn renown, attract followers, and amass wealth. This chapter presents all the various rewards a hero can earn during their career! As you read over the rewards within, make note of the treasures and titles your hero would like to earn. Then you can start pursuing them during your adventures.
+Virtue is its own reward... but wouldn't a magic sword also be kind of nice? As heroes adventure, they find and craft treasures even as they are awarded titles, earn [renown](scc:mcdm.heroes.v1/rule.resource/renown), attract [followers](scc:mcdm.heroes.v1/rule.general/follower), and amass wealth. This chapter presents all the various rewards a hero can earn during their career! As you read over the rewards within, make note of the treasures and titles your hero would like to earn. Then you can start pursuing them during your adventures.
 
 ## Wealth
 
-Draw Steel isn't about accumulating and counting every piece of copper you acquire. Instead of tracking a bank account, the amount of stuff your hero can purchase is based on their Wealth score. As you accomplish more deeds, you acquire more treasure and rewards from grateful NPCs that allow you to be an even more effective hero.
+Draw Steel isn't about accumulating and counting every piece of copper you acquire. Instead of tracking a bank account, the amount of stuff your hero can purchase is based on their Wealth score. As you accomplish more deeds, you acquire more treasure and rewards from grateful [NPCs](scc:mcdm.heroes.v1/rule.general/npc) that allow you to be an even more effective hero.
 
 The Hero Wealth table shows the types of items, gear, services, property, and more that you can purchase in the game. For a hero to make a purchase, the item must be available to them. Being able to afford a suit of armor or a stay at an inn doesn't do much good in the middle of a trackless forest, an empty desert, or a remote dungeon ruin. As well, the Director can also decide that a hero can afford only a limited number of purchases. For example, a hero with Wealth 3 can easily buy a small house, but that Wealth doesn't mean they can buy up every available small house in the local area to become a landlord.
 
 The table isn't meant to be an exhaustive list, but you and the Director can use it to judge what your character can and can't purchase. For instance, the relative value of an ox isn't on the table, but you can reasonably assume that if you can buy a horse, you can probably afford an ox as well. (Don't @ us, farm nerds.) And if you can't afford something you want, fear not! You might still be able to acquire a specific good or service through negotiation, or by trading your heroic services instead of spending cash.
 
-Treasures such as magic swords, psionic crowns, and even healing potions are rare to the point where they don't appear on the Hero Wealth table. Such items typically can't be purchased, and are instead found on adventures, traded for other treasures, given as rewards by NPCs, or crafted by the heroes.
+Treasures such as magic swords, psionic crowns, and even healing potions are rare to the point where they don't appear on the Hero Wealth table. Such items typically can't be purchased, and are instead found on adventures, traded for other treasures, given as rewards by [NPCs](scc:mcdm.heroes.v1/rule.general/npc), or crafted by the heroes.
 
 ### Earning Wealth
 
-Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a [monarch](scc:mcdm.heroes.v1/title/monarch) as a reward for a job well done.
+Each hero starts with a [Wealth](scc:mcdm.heroes.v1/rule.resource/wealth) score of 1 that can be improved by their choice of career during character creation (see Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)). Your hero earns [Wealth](scc:mcdm.heroes.v1/rule.resource/wealth) whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a [monarch](scc:mcdm.heroes.v1/title/monarch) as a reward for a job well done.
 
 In general, a hero earns 1 wealth every second level of play. The Director can increase this rate if they wish.
 
 ### Losing Wealth
 
-As an optional rule, the Director can allow a hero to make a purchase that is one above their Wealth score. If this occurs, the hero's Wealth is reduced by 1 (to a minimum of 0) after making the purchase.
+As an optional rule, the Director can allow a hero to make a purchase that is one above their [Wealth](scc:mcdm.heroes.v1/rule.resource/wealth) score. If this occurs, the hero's [Wealth](scc:mcdm.heroes.v1/rule.resource/wealth) is reduced by 1 (to a minimum of 0) after making the purchase.
 
 > **Heroes Don't Do It for Gold**
 >

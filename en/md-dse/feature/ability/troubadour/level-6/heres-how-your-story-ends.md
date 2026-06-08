@@ -4,7 +4,7 @@ class: troubadour
 cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
-distance: 5 burst
+distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 feature_type: ability
 file_basename: heres-how-your-story-ends
 file_dpath: feature/ability/troubadour/level-6
@@ -24,9 +24,9 @@ type: ability
 
 ```ds-feature
 cost: 9 Drama
-distance: 5 burst
+distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: "\n*You give away the ending of this battle, and it's not great for them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
+    - effect: "\n*You give away the ending of this battle, and it's not great for them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
 feature_type: ability
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 9 Drama
-    distance: 5 burst
+    distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     flavor: You give away the ending of this battle, and it's not great for them.
     keywords:
         - Area

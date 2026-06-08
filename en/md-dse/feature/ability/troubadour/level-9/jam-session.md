@@ -4,8 +4,8 @@ class: troubadour
 cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
-distance: 5 burst
-effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
 feature_type: ability
 file_basename: jam-session
 file_dpath: feature/ability/troubadour/level-9
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 11 Drama
-distance: 5 burst
+distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+    - effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
 feature_type: ability
 flavor: Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 11 Drama
-    distance: 5 burst
-    effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+    distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
     flavor: Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.
     keywords:
         - Area

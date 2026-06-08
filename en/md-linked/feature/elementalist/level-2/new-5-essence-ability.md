@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.elementalist.level-2/new-5-essence-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn't select at 1st level (see 1st-Level Features).
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn't select at 1st level (see 1st-Level Features).
 
 ## O Flower Aid, O Earth Defend {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/o-flower-aid-o-earth-defend"}
 
@@ -15,15 +15,15 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 | **Area, Earth, Green, Magic, Ranged** |   **Maneuver** |
 |---------------------------------------|---------------:|
-| **📏 3 cube within 10**               | **🎯 Special** |
+| **📏 3 [cube](../../../rule/combat/cube.md) within 10**               | **🎯 Special** |
 
 **Effect:** Until the start of your next turn, the area gains the following effects:
 
-- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of [Recoveries](../../../rule/health/recoveries.md).
+- Once as a [free maneuver](../../../rule/combat/free-maneuver.md) at the start of your turn, you allow yourself and each ally in the area to spend any number of [Recoveries](../../../rule/health/recoveries.md).
 - The area is [difficult terrain](../../../movement/difficult-terrain.md) for enemies.
 - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your [Reason](../../../rule/character/reason.md) score.
 
-**Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
+**Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your [line of effect](../../../rule/combat/line-of-effect.md).
 
 ## Subvert the Green Within {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within"}
 
@@ -34,9 +34,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
+**Effect:** The target uses their [signature ability](../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../rule/dice/power-roll.md) against the target of this ability.
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 5 + R poison damage
 - **12-16:** 9 + R poison damage
@@ -51,9 +51,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |-------------------------------|------------------------:|
 | **📏 Ranged 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is [teleport](../../../movement/teleport.md)ed to another space within [distance](../../../rule/combat/distance.md). Make a power roll that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleport](../../../movement/teleport.md)ed to another space within [distance](../../../rule/combat/distance.md). Make a [power roll](../../../rule/dice/power-roll.md) that affects each enemy adjacent to the target's new space.
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 3 fire damage
 - **12-16:** 5 fire damage
@@ -68,7 +68,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../../condition/restrained.md) (save ends)
 - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../../condition/restrained.md) (save ends)

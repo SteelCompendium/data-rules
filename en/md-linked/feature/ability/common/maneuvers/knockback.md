@@ -16,7 +16,7 @@ type: ability
 |-------------------|--------------------:|
 | **📏 Melee 1**    | **🎯 One creature** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** Push 1
 - **12-16:** Push 2

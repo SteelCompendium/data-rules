@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Melee 2
 effects:
-    - effect: "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
+    - effect: "*In your hands, the haft is as good as the head.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
 feature_type: ability
 flavor: In your hands, the haft is as good as the head.
 keywords:

@@ -17,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*A bargain.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|-----------------------------------|--------------------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 10 damage",
+    "content": "\n*A bargain.*\n\n| **Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|-----------------------------------|--------------------------------:|\n| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 10 damage",
     "distance": "Melee 1 or ranged 5",
     "feature_type": "ability",
     "flavor": "A bargain.",

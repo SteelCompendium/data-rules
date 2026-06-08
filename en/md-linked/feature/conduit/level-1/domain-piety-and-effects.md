@@ -22,8 +22,8 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ## Fate Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a [power roll](../../../rule/dice/power-roll.md), or an enemy within 10 squares obtains a tier 1 outcome on a [power roll](../../../rule/dice/power-roll.md).
+- **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of the encounter.
 
 ## Knowledge Domain Piety and Effect
 
@@ -33,7 +33,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ## Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains [Stamina](../../../rule/health/stamina.md).
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../../../rule/health/recoveries.md), can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they [are prone](../../../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to two times your [Intuition](../../../rule/character/intuition.md) score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../../../rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of their turn, or can stand up if they [are prone](../../../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to two times your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Love Domain Piety and Effect
 
@@ -47,13 +47,13 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ## Protection Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md), or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a [bane](../../../rule/dice/bane.md) or double [bane](../../../rule/dice/bane.md) on an enemy's power roll.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md), or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a [bane](../../../rule/dice/bane.md) or double [bane](../../../rule/dice/bane.md) on an enemy's [power roll](../../../rule/dice/power-roll.md).
 - **Prayer Effect:** One ally within 10 squares gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to four times your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Storm Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is [force moved](../../../movement/forced-movement.md).
-- **Prayer Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your [Intuition](../../../rule/character/intuition.md) score.
+- **Prayer Effect:** Each enemy in a 3 [cube](../../../rule/combat/cube.md) within 10 squares takes lightning damage equal to twice your [Intuition](../../../rule/character/intuition.md) score.
 
 ## Sun Domain Piety and Effect
 

@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.troubadour.level-9/9th-level-class-act-ability
 type: feature
 ---
 
-Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choice of one of two heroic abilities.
+Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 9th-Level Auteur Abilities
 
@@ -21,11 +21,11 @@ Choose one of the following abilities.
 |-----------------------------|--------------------:|
 | **📏 Melee 1 or ranged 10** | **🎯 One creature** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** The target takes a [bane](../../../rule/dice/bane.md) on ability rolls (save ends).
-- **12-16:** The target has a double [bane](../../../rule/dice/bane.md) on ability rolls (save ends).
-- **17+:** The target has a double [bane](../../../rule/dice/bane.md) on power rolls (save ends).
+- **≤11:** The target takes a [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md) (save ends).
+- **12-16:** The target has a double [bane](../../../rule/dice/bane.md) on [ability rolls](../../../rule/dice/ability-roll.md) (save ends).
+- **17+:** The target has a double [bane](../../../rule/dice/bane.md) on [power rolls](../../../rule/dice/power-roll.md) (save ends).
 
 **Effect:** Choose one ally within [distance](../../../rule/combat/distance.md). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../common/main-actions/free-strike.md) against them after the ability is resolved.
 
@@ -38,7 +38,7 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Ranged 10**  | **🎯 One ally** |
 
-**Effect:** The target gains 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md), has a double [edge](../../../rule/dice/edge.md) on a power roll of their choice made during their next turn, is no longer [slowed](../../../condition/slowed.md) or [weakened](../../../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+**Effect:** The target gains 3 of their [Heroic Resource](../../../rule/resource/heroic-resource.md), has a double [edge](../../../rule/dice/edge.md) on a [power roll](../../../rule/dice/power-roll.md) of their choice made during their next turn, is no longer [slowed](../../../condition/slowed.md) or [weakened](../../../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 ## 9th-Level Duelist Abilities
 
@@ -53,7 +53,7 @@ Choose one of the following abilities.
 |-----------------------------------|------------------------------:|
 | **📏 Melee 3**                    | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 15 + A damage
 - **12-16:** 21 + A damage
@@ -70,13 +70,13 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** Add your current [Stamina](../../../rule/health/stamina.md) to your target's current [Stamina](../../../rule/health/stamina.md), then you have half that total [Stamina](../../../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../../../rule/health/stamina.md) this way than their [Stamina](../../../rule/health/stamina.md) maximum, the difference in [Stamina](../../../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../../../rule/health/stamina.md) than your maximum this way. You then make a power roll.
+**Effect:** Add your current [Stamina](../../../rule/health/stamina.md) to your target's current [Stamina](../../../rule/health/stamina.md), then you have half that total [Stamina](../../../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../../../rule/health/stamina.md) this way than their [Stamina](../../../rule/health/stamina.md) maximum, the difference in [Stamina](../../../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../../../rule/health/stamina.md) than your maximum this way. You then make a [power roll](../../../rule/dice/power-roll.md).
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.
-- **12-16:** You and the target can end any effects on yourselves that are ended by a saving throw or that end at the end of your turns.
-- **17+:** You can choose any of the current effects on you and the target that are ended by a saving throw or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
+- **≤11:** You and the target can each end one effect on yourselves that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your turns.
+- **12-16:** You and the target can end any effects on yourselves that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of your turns.
+- **17+:** You can choose any of the current effects on you and the target that are ended by a [saving throw](../../../rule/general/saving-throw.md) or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
 
 ## 9th-Level Virtuoso Abilities
 
@@ -89,15 +89,15 @@ Choose one of the following abilities.
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 5 burst**  | **🎯 Each enemy in the area** |
+| **📏 5 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 8 sonic damage
 - **12-16:** 11 sonic damage
 - **17+:** 15 sonic damage
 
-**Effect:** Each creature within [distance](../../../rule/combat/distance.md) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+**Effect:** Each creature within [distance](../../../rule/combat/distance.md) gains a +5 bonus to [speed](../../../rule/character/speed.md) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
 
 ### Melt Their Faces {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces"}
 
@@ -108,10 +108,10 @@ Choose one of the following abilities.
 |----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 12 + P sonic damage; push 5
 - **12-16:** 16 + P sonic damage; push 10
 - **17+:** 22 + P sonic damage; push 15
 
-**Effect:** [Forced movement](../../../movement/forced-movement.md) from this ability ignores stability.
+**Effect:** [Forced movement](../../../movement/forced-movement.md) from this ability ignores [stability](../../../rule/character/stability.md).

@@ -4,7 +4,7 @@ class: shadow
 cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 feature_type: ability
 file_basename: shadowgrasp
 file_dpath: feature/ability/shadow/level-8
@@ -24,9 +24,9 @@ type: ability
 
 ```ds-feature
 cost: 11 Insight
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: "\n*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 11 corruption damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 21 corruption damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
+    - effect: "\n*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 11 corruption damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)\n- **17+:** 21 corruption damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
 feature_type: ability
 flavor: The shadows around you give way, allowing the shadow creature within you to grasp at your foes.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: shadow
     cost: 11 Insight
-    distance: 2 burst
+    distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     flavor: The shadows around you give way, allowing the shadow creature within you to grasp at your foes.
     keywords:
         - Area

@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your senses are especially keen and perceptive. You gain an [edge](../../../rule/dice/edge.md) on tests made to notice threats.
+    - effect: Your senses are especially keen and perceptive. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to notice threats.
 feature_type: trait
 metadata:
     ancestry: high-elf

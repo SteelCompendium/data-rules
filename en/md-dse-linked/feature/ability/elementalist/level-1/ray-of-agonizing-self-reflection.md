@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: "\n*You inflict pain and doubt in equal measure.*\n\n| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md), Void** |               **Main action** | \n|---------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
+    - effect: "\n*You inflict pain and doubt in equal measure.*\n\n| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md), Void** |               **Main action** | \n|---------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
 feature_type: ability
 flavor: You inflict pain and doubt in equal measure.
 keywords:

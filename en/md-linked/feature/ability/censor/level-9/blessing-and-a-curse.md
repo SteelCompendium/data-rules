@@ -3,7 +3,7 @@ action_type: Triggered
 class: censor
 cost: 11 Wrath
 distance: Ranged 10
-effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next power roll.
+effect: The target obtains a tier 1 or tier 3 outcome on their [power roll](../../../../rule/dice/power-roll.md) (your choice). You can then choose another target within [distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next [power roll](../../../../rule/dice/power-roll.md).
 flavor: The gods bless and damn in equal measure.
 keywords:
     - Magic
@@ -13,7 +13,7 @@ name: Blessing and a Curse
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/blessing-and-a-curse
 subtype: triggered
 target: One creature
-trigger: The target makes a power roll.
+trigger: The target makes a [power roll](../../../../rule/dice/power-roll.md).
 type: ability
 ---
 
@@ -24,6 +24,6 @@ type: ability
 |--------------------|--------------------:|
 | **📏 Ranged 10**   | **🎯 One creature** |
 
-**Trigger:** The target makes a power roll.
+**Trigger:** The target makes a [power roll](../../../../rule/dice/power-roll.md).
 
-**Effect:** The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next power roll.
+**Effect:** The target obtains a tier 1 or tier 3 outcome on their [power roll](../../../../rule/dice/power-roll.md) (your choice). You can then choose another target within [distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next [power roll](../../../../rule/dice/power-roll.md).

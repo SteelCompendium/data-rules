@@ -4,7 +4,7 @@ class: tactician
 cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effect: Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). Additionally, they can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), remove any conditions or effects on them, and stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
 feature_type: ability
 file_basename: win-this-day
@@ -24,7 +24,7 @@ type: ability
 
 ```ds-feature
 cost: 9 Focus
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). Additionally, they can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), remove any conditions or effects on them, and stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
 feature_type: ability
@@ -35,7 +35,7 @@ metadata:
     action_type: Main action
     class: tactician
     cost: 9 Focus
-    distance: 3 burst
+    distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). Additionally, they can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), remove any conditions or effects on them, and stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
     flavor: You inspire your allies to recover and gather their strength.
     keywords:

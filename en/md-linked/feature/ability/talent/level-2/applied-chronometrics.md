@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
+effect: Until the start of your next turn, each target gains a +5 bonus to [speed](../../../../rule/character/speed.md), they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
 flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
 keywords:
     - Chronopathy
@@ -23,12 +23,12 @@ type: ability
 |----------------------------------|---------------:|
 | **📏 Ranged 10**                 | **🎯 Special** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** You target two creatures, one of which can be you.
 - **12-16:** You target three creatures, one of which can be you.
 - **17+:** You target four creatures, one of which can be you.
 
-**Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
+**Effect:** Until the start of your next turn, each target gains a +5 bonus to [speed](../../../../rule/character/speed.md), they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
 
-**Strained:** Your speed is halved until the end of the encounter.
+**Strained:** Your [speed](../../../../rule/character/speed.md) is halved until the end of the encounter.

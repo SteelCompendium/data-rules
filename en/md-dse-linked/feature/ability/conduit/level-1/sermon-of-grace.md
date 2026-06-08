@@ -4,8 +4,8 @@ class: conduit
 cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
-distance: 4 burst
-effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
+distance: 4 [burst](../../../../rule/combat/burst.md)
+effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
 feature_type: ability
 file_basename: sermon-of-grace
 file_dpath: feature/ability/conduit/level-1
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Piety
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
+    - effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
 feature_type: ability
 flavor: You inspire your allies with tales of your saint's great deeds.
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 5 Piety
-    distance: 4 burst
-    effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
+    distance: 4 [burst](../../../../rule/combat/burst.md)
+    effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
     flavor: You inspire your allies with tales of your saint's great deeds.
     keywords:
         - Area

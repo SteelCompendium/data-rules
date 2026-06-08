@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.troubadour.level-1/routines
 type: feature
 ---
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../../../condition/dazed.md), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
+You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../../../condition/dazed.md), dead, or [surprised](../../../rule/combat/surprised.md), you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
 You start off with the [Choreography](../../ability/troubadour/level-1/choreography.md) and [Revitalizing Limerick](../../ability/troubadour/level-1/revitalizing-limerick.md) performance abilities. Your choice of class act grants you additional performances.
 
@@ -17,9 +17,9 @@ You start off with the [Choreography](../../ability/troubadour/level-1/choreogra
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
-| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+| **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
+**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../../../rule/character/speed.md) until the end of their turn.
 
 ## Revitalizing Limerick {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/revitalizing-limerick"}
 
@@ -28,6 +28,6 @@ You start off with the [Choreography](../../ability/troubadour/level-1/choreogra
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
-| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+| **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
 **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../rule/health/recoveries.md).

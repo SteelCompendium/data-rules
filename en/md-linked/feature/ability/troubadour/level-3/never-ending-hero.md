@@ -1,8 +1,8 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
-effect: While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on power rolls and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
+distance: 5 [aura](../../../../rule/combat/aura.md)
+effect: While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
 flavor: And toniiight we can truly say ♪ They will alllways find a way!♪
 keywords:
     - Area
@@ -20,6 +20,6 @@ type: ability
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
-| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on power rolls and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
+**Effect:** While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.

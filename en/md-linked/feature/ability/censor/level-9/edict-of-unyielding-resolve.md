@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 cost: 11 Wrath
-distance: 2 aura
+distance: 2 [aura](../../../../rule/combat/aura.md)
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target who starts their turn in the area gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 flavor: You and your allies are clad in shimmering armor.
 keywords:
@@ -20,6 +20,6 @@ type: ability
 
 | **Area, Magic** |                          **Maneuver** |
 |-----------------|--------------------------------------:|
-| **📏 2 aura**   | **🎯 Self and each ally in the area** |
+| **📏 2 [aura](../../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
 **Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target who starts their turn in the area gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).

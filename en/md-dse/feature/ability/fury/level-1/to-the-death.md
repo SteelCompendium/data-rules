@@ -2,7 +2,7 @@
 action_type: Main action
 class: fury
 distance: Melee 1
-effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an opportunity attack against you as a free triggered action.
+effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an [opportunity attack](scc:mcdm.heroes.v1/rule.combat/opportunity-attack) against you as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).
 feature_type: ability
 file_basename: to-the-death
 file_dpath: feature/ability/fury/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an opportunity attack against you as a free triggered action.
+    - effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an [opportunity attack](scc:mcdm.heroes.v1/rule.combat/opportunity-attack) against you as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).
 feature_type: ability
 flavor: Your reckless assault leaves you tactically vulnerable.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: fury
     distance: Melee 1
-    effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an opportunity attack against you as a free triggered action.
+    effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an [opportunity attack](scc:mcdm.heroes.v1/rule.combat/opportunity-attack) against you as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).
     flavor: Your reckless assault leaves you tactically vulnerable.
     keywords:
         - Melee

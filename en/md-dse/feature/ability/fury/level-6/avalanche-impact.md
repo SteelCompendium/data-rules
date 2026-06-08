@@ -5,7 +5,7 @@ cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
 distance: Self
-effect: You jump up to your maximum jump [distance](scc:mcdm.heroes.v1/rule.combat/distance) and make one power roll that targets each creature adjacent to the space where you land.
+effect: You jump up to your maximum jump [distance](scc:mcdm.heroes.v1/rule.combat/distance) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature adjacent to the space where you land.
 feature_type: ability
 file_basename: avalanche-impact
 file_dpath: feature/ability/fury/level-6
@@ -26,7 +26,7 @@ type: ability
 cost: 9 Ferocity
 distance: Self
 effects:
-    - effect: You jump up to your maximum jump [distance](scc:mcdm.heroes.v1/rule.combat/distance) and make one power roll that targets each creature adjacent to the space where you land.
+    - effect: You jump up to your maximum jump [distance](scc:mcdm.heroes.v1/rule.combat/distance) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature adjacent to the space where you land.
 feature_type: ability
 flavor: You leap and crash down, causing a shockwave that devastates foes.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: fury
     cost: 9 Ferocity
     distance: Self
-    effect: You jump up to your maximum jump [distance](scc:mcdm.heroes.v1/rule.combat/distance) and make one power roll that targets each creature adjacent to the space where you land.
+    effect: You jump up to your maximum jump [distance](scc:mcdm.heroes.v1/rule.combat/distance) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets each creature adjacent to the space where you land.
     flavor: You leap and crash down, causing a shockwave that devastates foes.
     keywords:
         - Magic

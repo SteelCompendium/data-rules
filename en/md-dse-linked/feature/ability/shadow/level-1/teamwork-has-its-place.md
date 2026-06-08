@@ -2,7 +2,7 @@
 action_type: Main action
 class: shadow
 distance: Melee 1 or ranged 5
-effect: If any ally is adjacent to the target, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
+effect: If any ally is adjacent to the target, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: teamwork-has-its-place
 file_dpath: feature/ability/shadow/level-1
@@ -26,7 +26,7 @@ type: ability
 ```ds-feature
 distance: Melee 1 or ranged 5
 effects:
-    - effect: If any ally is adjacent to the target, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
+    - effect: If any ally is adjacent to the target, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: You attack an enemy as an ally exposes their weakness.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     action_type: Main action
     class: shadow
     distance: Melee 1 or ranged 5
-    effect: If any ally is adjacent to the target, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
+    effect: If any ally is adjacent to the target, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
     flavor: You attack an enemy as an ally exposes their weakness.
     keywords:
         - Melee

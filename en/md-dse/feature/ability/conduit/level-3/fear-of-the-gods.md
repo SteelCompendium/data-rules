@@ -4,7 +4,7 @@ class: conduit
 cost: 7 Piety
 cost_amount: "7"
 cost_resource: Piety
-distance: 5 cube within 10
+distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effect: Each target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or a creature you choose within [distance](scc:mcdm.heroes.v1/rule.combat/distance).
 feature_type: ability
 file_basename: fear-of-the-gods
@@ -26,7 +26,7 @@ type: ability
 
 ```ds-feature
 cost: 7 Piety
-distance: 5 cube within 10
+distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - effect: Each target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or a creature you choose within [distance](scc:mcdm.heroes.v1/rule.combat/distance).
 feature_type: ability
@@ -39,7 +39,7 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 7 Piety
-    distance: 5 cube within 10
+    distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
     effect: Each target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or a creature you choose within [distance](scc:mcdm.heroes.v1/rule.combat/distance).
     flavor: Your divine magic makes a creature appear as what your enemies fear most.
     keywords:

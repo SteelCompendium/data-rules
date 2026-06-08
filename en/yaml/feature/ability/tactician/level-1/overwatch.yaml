@@ -4,7 +4,7 @@ effects:
     - effect: At any time during the target's movement, one ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them.
       name: Effect
     - cost: Spend 1 Focus
-      effect: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).
+      effect: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)).
 feature_type: ability
 flavor: Under your direction, an ally waits for just the right moment to strike.
 keywords:
@@ -13,7 +13,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: tactician
-    content: "\n*Under your direction, an ally waits for just the right moment to strike.*\n\n| **Ranged**       |       **Triggered** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF One creature** |\n\n**Trigger:** The target moves.\n\n**Effect:** At any time during the target's movement, one ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them.\n\n**Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)."
+    content: "\n*Under your direction, an ally waits for just the right moment to strike.*\n\n| **Ranged**       |       **Triggered** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF One creature** |\n\n**Trigger:** The target moves.\n\n**Effect:** At any time during the target's movement, one ally can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them.\n\n**Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))."
     distance: Ranged 10
     feature_type: ability
     flavor: Under your direction, an ally waits for just the right moment to strike.

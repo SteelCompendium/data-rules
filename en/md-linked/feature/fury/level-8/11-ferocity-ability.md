@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.fury.level-8/11-ferocity-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 11 ferocity to use.
 
 ## Elemental Ferocity {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/elemental-ferocity"}
 
@@ -28,7 +28,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M damage
 - **12-16:** 10 + M damage
@@ -56,9 +56,9 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 |----------------------------------|----------------:|
 | **📏 Self; see below**           |     **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your [Might](../../../rule/character/might.md) score. Then make one power roll that targets each enemy you move adjacent to during this [shift](../../../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
+**Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md). Each enemy you move adjacent to during this movement takes damage equal to twice your [Might](../../../rule/character/might.md) score. Then make one [power roll](../../../rule/dice/power-roll.md) that targets each enemy you move adjacent to during this [shift](../../../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** Any target whose [Stamina](../../../rule/health/stamina.md) is equal to or less than 8 dies.
 - **12-16:** Any target whose [Stamina](../../../rule/health/stamina.md) is equal to or less than 11 dies.

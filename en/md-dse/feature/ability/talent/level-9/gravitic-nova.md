@@ -4,8 +4,8 @@ class: talent
 cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
-distance: 3 burst
-effect: On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+effect: On a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), the size of the area increases by 3, and this ability deals an extra 10 damage.
 feature_type: ability
 file_basename: gravitic-nova
 file_dpath: feature/ability/talent/level-9
@@ -26,9 +26,9 @@ type: ability
 
 ```ds-feature
 cost: 11 Clarity
-distance: 3 burst
+distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
+    - effect: On a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), the size of the area increases by 3, and this ability deals an extra 10 damage.
 feature_type: ability
 flavor: Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.
 keywords:
@@ -39,8 +39,8 @@ metadata:
     action_type: Main action
     class: talent
     cost: 11 Clarity
-    distance: 3 burst
-    effect: On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
+    distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    effect: On a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), the size of the area increases by 3, and this ability deals an extra 10 damage.
     flavor: Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.
     keywords:
         - Area

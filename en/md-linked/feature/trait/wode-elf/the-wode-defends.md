@@ -5,7 +5,7 @@ scc: mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends
 type: trait
 ---
 
-You have the following signature ability. Signature abilities can be used at will.
+You have the following [signature ability](../../../rule/combat/signature-ability.md). [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will.
 
 ## The Wode Defends {data-scc="mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends"}
 
@@ -15,7 +15,7 @@ You have the following signature ability. Signature abilities can be used at wil
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          |           **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)

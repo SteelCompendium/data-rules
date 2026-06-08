@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.conduit.level-5/9-piety-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 piety to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 9 piety to use.
 
 ## Beacon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/beacon-of-grace"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 |---------------------------|--------------------:|
 | **📏 Ranged 10**          | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 8 + I holy damage
 - **12-16:** 13 + I holy damage
@@ -32,9 +32,9 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 | **Area, Magic, Ranged**  |               **Main action** |
 |--------------------------|------------------------------:|
-| **📏 4 cube within 10**  | **🎯 Each enemy in the area** |
+| **📏 4 [cube](../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** 4 corruption damage; I < WEAK, [prone and](../../../condition/prone.md) can't stand (save ends)
 - **12-16:** 7 corruption damage; I < AVERAGE, [prone and](../../../condition/prone.md) can't stand (save ends)

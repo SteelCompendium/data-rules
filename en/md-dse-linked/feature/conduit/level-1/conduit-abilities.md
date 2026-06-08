@@ -20,19 +20,19 @@ effects:
 
         ##### Signature Abilities
 
-        Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../ability/conduit/level-1/blessed-light.md), [Staggering Curse](../../ability/conduit/level-1/staggering-curse.md).)
+        Choose two [signature abilities](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Blessed Light](../../ability/conduit/level-1/blessed-light.md), [Staggering Curse](../../ability/conduit/level-1/staggering-curse.md).)
 
         ##### Heroic Abilities
 
-        You make use of a number of heroic abilities, all of which channel piety to empower them.
+        You make use of a number of [heroic abilities](../../../rule/general/heroic-ability.md), all of which channel piety to empower them.
 
         ###### 3-Piety Ability
 
-        Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../ability/conduit/level-1/violence-will-not-aid-thee.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../ability/conduit/level-1/violence-will-not-aid-thee.md).)
 
         ###### 5-Piety Ability
 
-        Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../ability/conduit/level-1/curse-of-terror.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../ability/conduit/level-1/curse-of-terror.md).)
 feature_type: feature
 metadata:
     class: conduit

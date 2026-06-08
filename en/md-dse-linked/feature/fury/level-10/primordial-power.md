@@ -16,9 +16,9 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        You have an epic resource called [primordial power](primordial-power.md). Each time you finish a respite, you gain [primordial power](primordial-power.md) equal to the XP you gain. You can spend [primordial power](primordial-power.md) on your abilities as if it were ferocity.
+        You have an epic resource called [primordial power](primordial-power.md). Each time you finish a [respite](../../../rule/resource/respite.md), you gain [primordial power](primordial-power.md) equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend [primordial power](primordial-power.md) on your abilities as if it were ferocity.
 
-        Additionally, you can spend any amount of [primordial power](primordial-power.md) as a free maneuver, ending one effect on you for each [primordial power](primordial-power.md) spent.
+        Additionally, you can spend any amount of [primordial power](primordial-power.md) as a [free maneuver](../../../rule/combat/free-maneuver.md), ending one effect on you for each [primordial power](primordial-power.md) spent.
 
         You can also spend 3 [primordial power](primordial-power.md) to create a portal to Quintessence without needing a source of elemental power.
 

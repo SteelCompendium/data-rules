@@ -27,7 +27,7 @@ type: ability
 cost: 3 Piety
 distance: Ranged 10
 effects:
-    - effect: "\n*Your divine [fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*\n\n| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 3 + I holy damage; A < WEAK[, prone](../../../../condition/prone.md)\n- **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../../../../condition/prone.md)\n- **17+:** 9 + I holy damage; A < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)"
+    - effect: "\n*Your divine [fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*\n\n| **Magic, Ranged, [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**           | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 3 + I holy damage; A < WEAK[, prone](../../../../condition/prone.md)\n- **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../../../../condition/prone.md)\n- **17+:** 9 + I holy damage; A < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)"
 feature_type: ability
 flavor: Your divine [fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.
 keywords:

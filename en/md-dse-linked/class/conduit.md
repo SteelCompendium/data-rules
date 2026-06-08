@@ -1,5 +1,4 @@
 ---
-average_potency: '[Intuition](../rule/character/intuition.md) - 1'
 file_basename: conduit
 file_dpath: class
 item_id: conduit
@@ -9,9 +8,7 @@ scc: mcdm.heroes.v1/class/conduit
 skills:
     - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)'
 source: mcdm.heroes.v1
-strong_potency: '[Intuition](../rule/character/intuition.md)'
 type: class
-weak_potency: '[Intuition](../rule/character/intuition.md) - 2'
 ---
 
 The power of the gods flows through you! As a vessel for [divine power](../feature/conduit/level-10/divine-power.md), you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
@@ -31,11 +28,11 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-**Weak Potency:** [Intuition](../rule/character/intuition.md) - 2
+**Weak [Potency](../rule/character/potency.md):** [Intuition](../rule/character/intuition.md) - 2
 
-**Average Potency:** [Intuition](../rule/character/intuition.md) - 1
+**Average [Potency](../rule/character/potency.md):** [Intuition](../rule/character/intuition.md) - 1
 
-**Strong Potency:** [Intuition](../rule/character/intuition.md)
+**Strong [Potency](../rule/character/potency.md):** [Intuition](../rule/character/intuition.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 

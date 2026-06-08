@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: "*You shoot forth a purple beam of psychic force that moves your target.*\n\n| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md)**  | Main action                   |\n|------------------------------|-------------------------------|\n| **\U0001F4CF Ranged 10**             | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**\n\n- **≤11:** 2 + R, I, or P psychic damage; slide 1\n- **12-16:** 5 + R, I, or P psychic damage; slide 2\n- **17+:** 7 + R, I, or P psychic damage; slide 3"
+    - effect: "*You shoot forth a purple beam of psychic force that moves your target.*\n\n| **Psionic, Ranged, [Strike](../../../rule/combat/strike.md)**  | Main action                   |\n|------------------------------|-------------------------------|\n| **\U0001F4CF Ranged 10**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**\n\n- **≤11:** 2 + R, I, or P psychic damage; slide 1\n- **12-16:** 5 + R, I, or P psychic damage; slide 2\n- **17+:** 7 + R, I, or P psychic damage; slide 3"
 feature_type: ability
 flavor: You shoot forth a purple beam of psychic force that moves your target.
 keywords:

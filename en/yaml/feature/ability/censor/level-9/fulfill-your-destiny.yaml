@@ -2,7 +2,7 @@ ability_type: Triggered
 cost: 11 Wrath
 distance: Ranged 10
 effects:
-    - effect: The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on power rolls.
+    - effect: The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll).
       name: Effect
 feature_type: ability
 flavor: You have looked at various futures, and only this one works.
@@ -13,7 +13,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: censor
-    content: "\n*You have looked at various futures, and only this one works.*\n\n| **Magic, Ranged**  |   **Triggered** |\n|--------------------|----------------:|\n| **\U0001F4CF Ranged 10**   | **\U0001F3AF One ally** |\n\n**Trigger:** You or another hero ends their turn.\n\n**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on power rolls."
+    content: "\n*You have looked at various futures, and only this one works.*\n\n| **Magic, Ranged**  |   **Triggered** |\n|--------------------|----------------:|\n| **\U0001F4CF Ranged 10**   | **\U0001F3AF One ally** |\n\n**Trigger:** You or another hero ends their turn.\n\n**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll)."
     distance: Ranged 10
     feature_type: ability
     flavor: You have looked at various futures, and only this one works.

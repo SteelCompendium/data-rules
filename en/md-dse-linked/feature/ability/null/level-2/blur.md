@@ -5,7 +5,7 @@ cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
 distance: Self
-effect: You can use a signature or heroic ability. You gain an [edge](../../../../rule/dice/edge.md) on that ability's power rolls.
+effect: You can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md). You gain an [edge](../../../../rule/dice/edge.md) on that ability's [power rolls](../../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: blur
 file_dpath: feature/ability/null/level-2
@@ -26,7 +26,7 @@ type: ability
 cost: 5 Discipline
 distance: Self
 effects:
-    - effect: You can use a signature or heroic ability. You gain an [edge](../../../../rule/dice/edge.md) on that ability's power rolls.
+    - effect: You can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md). You gain an [edge](../../../../rule/dice/edge.md) on that ability's [power rolls](../../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: You release stored time, allowing you to act twice.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: "null"
     cost: 5 Discipline
     distance: Self
-    effect: You can use a signature or heroic ability. You gain an [edge](../../../../rule/dice/edge.md) on that ability's power rolls.
+    effect: You can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md). You gain an [edge](../../../../rule/dice/edge.md) on that ability's [power rolls](../../../../rule/dice/power-roll.md).
     flavor: You release stored time, allowing you to act twice.
     keywords:
         - Psionic

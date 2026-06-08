@@ -12,7 +12,7 @@ keywords:
 metadata:
     action_type: Main action
     class: fury
-    content: "\n*You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 7 + M damage; push 3\n- **12-16:** 11 + M damage; push 5\n- **17+:** 16 + M damage; push 7\n\n**Effect:** When the target ends this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), each creature within 2 squares of the target is pushed 3 squares."
+    content: "\n*You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 7 + M damage; push 3\n- **12-16:** 11 + M damage; push 5\n- **17+:** 16 + M damage; push 7\n\n**Effect:** When the target ends this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), each creature within 2 squares of the target is pushed 3 squares."
     distance: Melee 1
     feature_type: ability
     flavor: You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.

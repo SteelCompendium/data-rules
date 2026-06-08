@@ -23,7 +23,7 @@ type: ability
 |---------------------------------|------------------------------:|
 | **📏 Melee 1**                  | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R damage; push 2
 - **12-16:** 5 + R damage; push 3

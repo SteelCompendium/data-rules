@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.troubadour.level-3/7-drama-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 7 drama to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 7 drama to use.
 
 ## Extensive Rewrites {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/extensive-rewrites"}
 
@@ -15,13 +15,13 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 | **Area, Magic** |                  **Maneuver** |
 |-----------------|------------------------------:|
-| **📏 4 burst**  | **🎯 Each enemy in the area** |
+| **📏 4 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** Slide 3; P < WEAK, this slide ignores the target's stability
-- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's stability
-- **17+:** Slide 7; P < STRONG, this slide ignores the target's stability
+- **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../rule/character/stability.md)
+- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../rule/character/stability.md)
+- **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../rule/character/stability.md)
 
 **Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 
@@ -32,9 +32,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 | **Area, Magic, Melee, Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 3 burst**                 | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 fire damage; A < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 7 fire damage; A < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
@@ -51,7 +51,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 |------------------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
 
-**Power Roll + [Presence](../../../rule/character/presence.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage
 - **12-16:** 8 + P damage; push 3
@@ -70,4 +70,4 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](../../../rule/combat/distance.md), with the [distance](../../../rule/combat/distance.md) of this ability replacing those abilities' [distances](../../../rule/combat/distance.md). The target can't be [force moved](../../../movement/forced-movement.md) by an ability used beyond [distance](../../../rule/combat/distance.md) this way.
 
-Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../../rule/resource/surge.md) or forcing them to take a [bane](../../../rule/dice/bane.md) on the next ability roll they make before the start of your next turn.
+Additionally, once on each of your turns, you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../../rule/resource/surge.md) or forcing them to take a [bane](../../../rule/dice/bane.md) on the next [ability roll](../../../rule/dice/ability-roll.md) they make before the start of your next turn.

@@ -22,7 +22,7 @@ type: ability
 |----------------------------|------------------------------:|
 | **📏 Melee 1**             | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)

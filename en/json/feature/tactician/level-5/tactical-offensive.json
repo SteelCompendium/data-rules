@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "When you use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike)."
+      "effect": "When you use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action to attack a creature marked by you, you can use a signature or [heroic ability](scc:mcdm.heroes.v1/rule.general/heroic-ability) with the Melee and Strike keywords instead of a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike)."
     }
   ],
   "feature_type": "feature",

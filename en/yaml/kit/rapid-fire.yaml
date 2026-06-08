@@ -1,4 +1,4 @@
-content: "The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.\n\n##### Equipment\n\nYou wear light armor and wield a bow.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +3 per echelon\n\n**Speed Bonus:** +1\n\n**Ranged Damage Bonus:** +2/+2/+2\n\n**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +7\n\n**Disengage Bonus:** +1\n\n##### Signature Ability\n\n###### Two Shot\n\n*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
+content: "The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.\n\n##### Equipment\n\nYou wear light armor and wield a bow.\n\n##### Kit Bonuses\n\n**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +3 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)\n\n**[Speed](scc:mcdm.heroes.v1/rule.character/speed) Bonus:** +1\n\n**Ranged Damage Bonus:** +2/+2/+2\n\n**Ranged [Distance](scc:mcdm.heroes.v1/rule.combat/distance) Bonus:** +7\n\n**Disengage Bonus:** +1\n\n##### Signature Ability\n\n###### Two Shot\n\n*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
 disengage_bonus: "+1"
 equipment_text: You wear light armor and wield a bow.
 name: Rapid-Fire
@@ -18,7 +18,7 @@ signature_ability:
     metadata:
         ability_type: Signature
         action_type: Main action
-        content: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
+        content: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 12**           | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
         distance: Ranged 12
         feature_type: ability
         flavor: When you fire two arrows back-to-back, both hit their mark.
@@ -34,5 +34,4 @@ signature_ability:
     target: Two creatures or objects
     type: feature
     usage: Main action
-speed_bonus: "+1"
 type: kit

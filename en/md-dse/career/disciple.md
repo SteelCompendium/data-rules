@@ -5,7 +5,6 @@ item_id: disciple
 item_name: Disciple
 name: Disciple
 perk: One supernatural perk (*Quick Build:* [Ritualist](scc:mcdm.heroes.v1/perk/ritualist).)
-project_points: "240"
 scc: mcdm.heroes.v1/career/disciple
 skills:
     - The [Religion](scc:mcdm.heroes.v1/skill/religion) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](scc:mcdm.heroes.v1/skill/culture), [Magic](scc:mcdm.heroes.v1/skill/magic), [Religion](scc:mcdm.heroes.v1/skill/religion).)
@@ -24,7 +23,7 @@ You gain the following career benefits:
 
 **Skills:** The [Religion](scc:mcdm.heroes.v1/skill/religion) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](scc:mcdm.heroes.v1/skill/culture), [Magic](scc:mcdm.heroes.v1/skill/magic), [Religion](scc:mcdm.heroes.v1/skill/religion).)
 
-**Project Points:** 240
+**[Project Points](scc:mcdm.heroes.v1/rule.downtime/project-points):** 240
 
 **Perk:** One supernatural perk (*Quick Build:* [Ritualist](scc:mcdm.heroes.v1/perk/ritualist).)
 

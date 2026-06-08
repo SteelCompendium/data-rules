@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "All stormwight kits have the following features in common.\n\n##### Signature Ability\n\nYou gain a new signature ability from your kit."
+      "effect": "All stormwight kits have the following features in common.\n\n##### Signature Ability\n\nYou gain a new [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) from your kit."
     }
   ],
   "feature_type": "feature",

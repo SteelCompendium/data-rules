@@ -16,8 +16,8 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        - **[Stamina](../../../rule/health/stamina.md) Bonus:** +9 per echelon
-        - **Speed Bonus:** +2
+        - **[Stamina](../../../rule/health/stamina.md) Bonus:** +9 per [echelon](../../../rule/general/echelon.md)
+        - **[Speed](../../../rule/character/speed.md) Bonus:** +2
         - **Melee Damage Bonus:** +2/+2/+2
         - **Disengage Bonus:** +1
 feature_type: feature

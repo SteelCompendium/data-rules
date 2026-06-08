@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: "\n*The heavy impact of your weapon attacks drives your foes ever back.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |                **Main action** |\n|---------------------------|-------------------------------:|\n| **\U0001F4CF Melee 1**            |  **\U0001F3AF One creature or object** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 3 + M damage; push 1\n- **12-16:** 6 + M damage; push 2\n- **17+:** 9 + M damage; push 4"
+    - effect: "\n*The heavy impact of your weapon attacks drives your foes ever back.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |                **Main action** |\n|---------------------------|-------------------------------:|\n| **\U0001F4CF Melee 1**            |  **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 3 + M damage; push 1\n- **12-16:** 6 + M damage; push 2\n- **17+:** 9 + M damage; push 4"
 feature_type: ability
 flavor: The heavy impact of your weapon attacks drives your foes ever back.
 keywords:

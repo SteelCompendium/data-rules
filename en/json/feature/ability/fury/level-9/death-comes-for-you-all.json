@@ -1,6 +1,6 @@
 {
   "cost": "11 Ferocity",
-  "distance": "3 burst",
+  "distance": "3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
       "effect": "If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage.",
@@ -18,8 +18,8 @@
   "metadata": {
     "action_type": "Main action",
     "class": "fury",
-    "content": "\n*You use your weapon to create a destructive shockwave.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **📏 3 burst**                 | **🎯 Each enemy in the area** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 7 damage; push 3\n- **12-16:** 10 damage; push 5\n- **17+:** 15 damage; push 7\n\n**Effect:** If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage.",
-    "distance": "3 burst",
+    "content": "\n*You use your weapon to create a destructive shockwave.*\n\n| **Area, Magic, Melee, Weapon** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **📏 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**                 | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 7 damage; push 3\n- **12-16:** 10 damage; push 5\n- **17+:** 15 damage; push 7\n\n**Effect:** If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage.",
+    "distance": "3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "You use your weapon to create a destructive shockwave.",
     "item_id": "death-comes-for-you-all",

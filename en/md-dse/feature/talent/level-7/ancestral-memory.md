@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Each time you finish a respite, you can choose a number of skills you have up to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.
+    - effect: Each time you finish a [respite](scc:mcdm.heroes.v1/rule.resource/respite), you can choose a number of skills you have up to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next [respite](scc:mcdm.heroes.v1/rule.resource/respite).
 feature_type: feature
 metadata:
     class: talent

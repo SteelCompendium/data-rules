@@ -4,8 +4,8 @@ class: troubadour
 cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
-distance: 5 burst
-effect: Each creature within [distance](../../../../rule/combat/distance.md) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+distance: 5 [burst](../../../../rule/combat/burst.md)
+effect: Each creature within [distance](../../../../rule/combat/distance.md) gains a +5 bonus to [speed](../../../../rule/character/speed.md) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
 feature_type: ability
 file_basename: jam-session
 file_dpath: feature/ability/troubadour/level-9
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 11 Drama
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: Each creature within [distance](../../../../rule/combat/distance.md) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+    - effect: Each creature within [distance](../../../../rule/combat/distance.md) gains a +5 bonus to [speed](../../../../rule/character/speed.md) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
 feature_type: ability
 flavor: Your [jam session](jam-session.md) creates new genres that compel everyone to get up and move.
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 11 Drama
-    distance: 5 burst
-    effect: Each creature within [distance](../../../../rule/combat/distance.md) gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+    distance: 5 [burst](../../../../rule/combat/burst.md)
+    effect: Each creature within [distance](../../../../rule/combat/distance.md) gains a +5 bonus to [speed](../../../../rule/character/speed.md) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
     flavor: Your [jam session](jam-session.md) creates new genres that compel everyone to get up and move.
     keywords:
         - Area

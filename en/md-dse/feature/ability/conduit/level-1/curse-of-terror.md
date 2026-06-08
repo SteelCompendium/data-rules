@@ -27,7 +27,7 @@ type: ability
 cost: 5 Piety
 distance: Ranged 10
 effects:
-    - effect: "\n*Fear of divine judgment overwhelms your foe.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |                      **Main action** |\n|----------------------------|-------------------------------------:|\n| **\U0001F4CF Ranged 10**           |                  **\U0001F3AF One creature** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 6 + I holy damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 13 + I holy damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
+    - effect: "\n*Fear of divine judgment overwhelms your foe.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |                      **Main action** |\n|----------------------------|-------------------------------------:|\n| **\U0001F4CF Ranged 10**           |                  **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 6 + I holy damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 13 + I holy damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
 feature_type: ability
 flavor: Fear of divine judgment overwhelms your foe.
 keywords:

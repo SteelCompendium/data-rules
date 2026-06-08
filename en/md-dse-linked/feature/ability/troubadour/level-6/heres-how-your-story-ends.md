@@ -4,7 +4,7 @@ class: troubadour
 cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 feature_type: ability
 file_basename: heres-how-your-story-ends
 file_dpath: feature/ability/troubadour/level-6
@@ -24,9 +24,9 @@ type: ability
 
 ```ds-feature
 cost: 9 Drama
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*You give away the ending of this battle, and it's not great for them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)\n- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)\n- **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)"
+    - effect: "\n*You give away the ending of this battle, and it's not great for them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 [burst](../../../../rule/combat/burst.md)**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)\n- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)\n- **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)"
 feature_type: ability
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: troubadour
     cost: 9 Drama
-    distance: 5 burst
+    distance: 5 [burst](../../../../rule/combat/burst.md)
     flavor: You give away the ending of this battle, and it's not great for them.
     keywords:
         - Area

@@ -2,7 +2,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The target can use a signature ability as a free triggered action.",
+      "effect": "The target can use a [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).",
       "name": "Effect"
     },
     {
@@ -18,7 +18,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*Your foe left an opening. You point this out to an ally!*\n\n| **Ranged** | **Main action** |\n| ---------------------------------------|----------------:|\n| **📏 Ranged 10**  | **🎯 One ally** |\n\n**Effect:** The target can use a signature ability as a free triggered action.\n\n**Spend 5 Focus:** You target two allies instead of one.",
+    "content": "\n*Your foe left an opening. You point this out to an ally!*\n\n| **Ranged** | **Main action** |\n| ---------------------------------------|----------------:|\n| **📏 Ranged 10**  | **🎯 One ally** |\n\n**Effect:** The target can use a [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).\n\n**Spend 5 Focus:** You target two allies instead of one.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Your foe left an opening. You point this out to an ally!",

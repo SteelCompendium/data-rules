@@ -18,7 +18,7 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*Your precise strikes let your allies take advantage of a target's agony.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + A damage\n- **12-16:** 5 + A damage\n- **17+:** 8 + A damage; I \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)\n\n**Effect:** One ally within 5 squares of the target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).",
+    "content": "\n*Your precise strikes let your allies take advantage of a target's agony.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + A damage\n- **12-16:** 5 + A damage\n- **17+:** 8 + A damage; I \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)\n\n**Effect:** One ally within 5 squares of the target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "Your precise strikes let your allies take advantage of a target's agony.",

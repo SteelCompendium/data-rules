@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../../../rule/character/reason.md) score deals damage to you, you can use a free triggered action to slide that creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
+    - effect: The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../../../rule/character/reason.md) score deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to slide that creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 feature_type: feature
 metadata:
     class: elementalist

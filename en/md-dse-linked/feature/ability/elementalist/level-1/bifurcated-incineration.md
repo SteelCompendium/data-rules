@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: "\n*Two jets of flame lance out at your command.*\n\n| **Fire, Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |                 **Main action** |\n|---------------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 10**                | **\U0001F3AF Two creatures or objects** |\n\n**Power Roll + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 2 fire damage\n- **12-16:** 4 fire damage\n- **17+:** 6 fire damage"
+    - effect: "\n*Two jets of flame lance out at your command.*\n\n| **Fire, Magic, Ranged, [Strike](../../../../rule/combat/strike.md)** |                 **Main action** |\n|---------------------------------|--------------------------------:|\n| **\U0001F4CF Ranged 10**                | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 2 fire damage\n- **12-16:** 4 fire damage\n- **17+:** 6 fire damage"
 feature_type: ability
 flavor: Two jets of flame lance out at your command.
 keywords:

@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 cost: 11 Discipline
-distance: 3 cube within 1
+distance: 3 [cube](../../../../rule/combat/cube.md) within 1
 flavor: You warp reality to grow a limb for just a moment and make a single devastating attack.
 keywords:
     - Area
@@ -19,9 +19,9 @@ type: ability
 
 | **Area, Psionic**      |               **Main action** |
 |------------------------|------------------------------:|
-| **📏 3 cube within 1** | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 12 psychic damage; push 3
 - **12-16:** 17 psychic damage; push 5

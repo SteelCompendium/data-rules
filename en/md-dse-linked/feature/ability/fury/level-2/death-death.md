@@ -27,7 +27,7 @@ type: ability
 cost: 5 Ferocity
 distance: Melee 1
 effects:
-    - effect: "\n*Your unbridled rage strikes terror in their hearts.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)\n- **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)\n- **17+:** 8 + M damage; P < STRONG, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)"
+    - effect: "\n*Your unbridled rage strikes terror in their hearts.*\n\n| **Melee, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)\n- **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)\n- **17+:** 8 + M damage; P < STRONG, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)"
 feature_type: ability
 flavor: Your unbridled rage strikes terror in their hearts.
 keywords:

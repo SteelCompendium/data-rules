@@ -26,10 +26,10 @@ type: ability
 
 **Effect:** The target is marked by you.
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 8 + M damage
 - **12-16:** 13 + M damage
 - **17+:** 17 + M damage
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), you can use a signature or heroic ability instead of a [free strike](../../../common/main-actions/free-strike.md) against any target marked by you.
+**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), you can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md) instead of a [free strike](../../../common/main-actions/free-strike.md) against any target marked by you.

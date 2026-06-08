@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: "\n*You lift and hurl your foe away from you.*\n\n| **Psionic, Ranged, Telekinesis** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                 | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** Slide 2 + R\n- **12-16:** Slide 4 + R\n- **17+:** Slide 6 + R; [prone](../../../../condition/prone.md)\n\n**Strained:** You must vertical push the target instead of sliding them."
+    - effect: "\n*You lift and hurl your foe away from you.*\n\n| **Psionic, Ranged, Telekinesis** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF Ranged 10**                 | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** Slide 2 + R\n- **12-16:** Slide 4 + R\n- **17+:** Slide 6 + R; [prone](../../../../condition/prone.md)\n\n**Strained:** You must vertical push the target instead of sliding them."
 feature_type: ability
 flavor: You lift and hurl your foe away from you.
 keywords:

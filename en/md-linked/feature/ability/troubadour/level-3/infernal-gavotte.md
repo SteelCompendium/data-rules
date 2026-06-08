@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 cost: 7 Drama
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each ally in the area can [shift](../../../../movement/shifting.md) up to 2 squares.
 flavor: A spicy performance lights a fire under your allies' feet.
 keywords:
@@ -22,9 +22,9 @@ type: ability
 
 | **Area, Magic, Melee, Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 3 burst**                 | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 5 fire damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
 - **12-16:** 7 fire damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)

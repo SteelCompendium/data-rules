@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.elementalist.level-6/new-9-essence-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn't select at 5th level (see 5th-Level Features).
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn't select at 5th level (see 5th-Level Features).
 
 ## Luminous Champion Aloft {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/luminous-champion-aloft"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------------|------------------------:|
 | **📏 Ranged 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to speed, they can [fly](../../../movement/fly.md), and their abilities ignore [concealment](../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 bonus to [speed](../../../rule/character/speed.md), they can [fly](../../../movement/fly.md), and their abilities ignore [concealment](../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -32,11 +32,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Effect:** Until the start of your next turn, the target has the following benefits:
 
-- Their [size](../../../rule/character/size.md) and stability increase by 2, with any [size](../../../rule/character/size.md) 1 target becoming [size](../../../rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../../condition/restrained.md) until the effect ends.
+- Their [size](../../../rule/character/size.md) and [stability](../../../rule/character/stability.md) increase by 2, with any [size](../../../rule/character/size.md) 1 target becoming [size](../../../rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](../../../rule/character/stability.md). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../../condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
 - Their [strikes](../../../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../../rule/character/reason.md) score.
 - When the target force moves a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +2 bonus.
-- They can use their highest [characteristic](../../../rule/character/characteristic.md) instead of [Might](../../../rule/character/might.md) for [Might](../../../rule/character/might.md) power rolls.
+- They can use their highest [characteristic](../../../rule/character/characteristic.md) instead of [Might](../../../rule/character/might.md) for [Might](../../../rule/character/might.md) [power rolls](../../../rule/dice/power-roll.md).
 
 **Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 [Recoveries](../../../rule/health/recoveries.md).
 
@@ -49,7 +49,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------------|------------------------------:|
 | **📏 Ranged 10**                     | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** You [teleport](../../../movement/teleport.md) the target up to 4 squares.
 - **12-16:** You [teleport](../../../movement/teleport.md) the target up to 6 squares.
@@ -64,7 +64,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 | **Area, Earth, Green, Magic, Void** | **Main action** |
 |-------------------------------------|----------------:|
-| **📏 4 burst**                      |  **🎯 Special** |
+| **📏 4 [burst](../../../rule/combat/burst.md)**                      |  **🎯 Special** |
 
 **Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../rule/combat/cover.md).
 

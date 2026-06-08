@@ -23,7 +23,7 @@ type: ability
 |------------------------------------|--------------------:|
 | **📏 Melee 2**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 5 + A psychic damage; vertical pull 1
 - **12-16:** 8 + A psychic damage; vertical pull 2

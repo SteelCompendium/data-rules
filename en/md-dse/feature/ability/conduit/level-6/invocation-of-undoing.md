@@ -4,7 +4,7 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: 4 burst
+distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 feature_type: ability
 file_basename: invocation-of-undoing
 file_dpath: feature/ability/conduit/level-6
@@ -24,9 +24,9 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: 4 burst
+distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: "\n*You utter a secret word of destruction known only to deities.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF 4 burst**   | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 sonic damage; push 3\n- **12-16:** 6 sonic damage; push 5\n- **17+:** 9 sonic damage; push 7\n\n**Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings."
+    - effect: "\n*You utter a secret word of destruction known only to deities.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**   | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 sonic damage; push 3\n- **12-16:** 6 sonic damage; push 5\n- **17+:** 9 sonic damage; push 7\n\n**Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings."
 feature_type: ability
 flavor: You utter a secret word of destruction known only to deities.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 9 Piety
-    distance: 4 burst
+    distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     flavor: You utter a secret word of destruction known only to deities.
     keywords:
         - Area

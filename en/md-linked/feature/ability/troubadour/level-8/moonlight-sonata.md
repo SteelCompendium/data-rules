@@ -1,8 +1,8 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
-effect: While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../../rule/health/recoveries.md) or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+distance: 5 [aura](../../../../rule/combat/aura.md)
+effect: While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../../rule/health/recoveries.md) or use [triggered actions](../../../../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
 flavor: Music pours out of your heart, filling the area with the utmost delicacy and without damper.
 keywords:
     - Area
@@ -20,6 +20,6 @@ type: ability
 
 | **Area, Magic, Performance** |                **No action** |
 |------------------------------|-----------------------------:|
-| **📏 5 aura**                | **🎯 Each ally in the area** |
+| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Each ally in the area** |
 
-**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../../rule/health/recoveries.md) or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../../rule/health/recoveries.md) or use [triggered actions](../../../../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.

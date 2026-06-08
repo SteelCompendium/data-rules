@@ -4,7 +4,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next power roll.",
+      "effect": "The target obtains a tier 1 or tier 3 outcome on their [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
       "name": "Effect"
     }
   ],
@@ -18,7 +18,7 @@
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "censor",
-    "content": "\n*The gods bless and damn in equal measure.*\n\n| **Magic, Ranged**  |       **Triggered** |\n|--------------------|--------------------:|\n| **📏 Ranged 10**   | **🎯 One creature** |\n\n**Trigger:** The target makes a power roll.\n\n**Effect:** The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next power roll.",
+    "content": "\n*The gods bless and damn in equal measure.*\n\n| **Magic, Ranged**  |       **Triggered** |\n|--------------------|--------------------:|\n| **📏 Ranged 10**   | **🎯 One creature** |\n\n**Trigger:** The target makes a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).\n\n**Effect:** The target obtains a tier 1 or tier 3 outcome on their [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "The gods bless and damn in equal measure.",
@@ -37,7 +37,7 @@
   },
   "name": "Blessing and a Curse",
   "target": "One creature",
-  "trigger": "The target makes a power roll.",
+  "trigger": "The target makes a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
   "type": "feature",
   "usage": "Triggered"
 }

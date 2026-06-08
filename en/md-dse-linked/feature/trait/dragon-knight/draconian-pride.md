@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following signature ability.
+    - effect: You have the following [signature ability](../../../rule/combat/signature-ability.md).
 feature_type: trait
 metadata:
     ancestry: dragon-knight

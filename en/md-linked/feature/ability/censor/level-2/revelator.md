@@ -2,8 +2,8 @@
 action_type: Maneuver
 class: censor
 cost: 5 Wrath
-distance: 3 burst
-effect: Each target takes holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free triggered action.
+distance: 3 [burst](../../../../rule/combat/burst.md)
+effect: Each target takes holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free [triggered action](../../../../rule/combat/triggered-action.md).
 flavor: You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../level-1/judgment.md).
 keywords:
     - Area
@@ -20,6 +20,6 @@ type: ability
 
 | **Area, Magic** |                  **Maneuver** |
 |-----------------|------------------------------:|
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free triggered action.
+**Effect:** Each target takes holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free [triggered action](../../../../rule/combat/triggered-action.md).

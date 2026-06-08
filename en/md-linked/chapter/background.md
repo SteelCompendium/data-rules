@@ -19,7 +19,7 @@ For our purposes, a hero's culture represents people, not a place. Yes, you migh
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find the right place for that culture within the world of the campaign.
 
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](../ancestry/human.md). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../ancestry/wode-elf.md). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../ancestry/dwarf.md) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../ancestry/dwarf.md) raised in the [dwarf](../ancestry/dwarf.md) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
+In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of [Vasloria](../rule/world/vasloria.md) on [Orden](../rule/world/orden.md), are mostly [humans](../ancestry/human.md). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../ancestry/wode-elf.md). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../ancestry/dwarf.md) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../ancestry/dwarf.md) raised in the [dwarf](../ancestry/dwarf.md) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
 You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](../ancestry/revenant.md) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
 
@@ -70,11 +70,11 @@ The culture you choose or create grants you the following benefits:
 
 - You know the language of your culture, in addition to knowing Caelian.
 - From the environment, organization, and upbringing aspects of your culture, you gain access to skills. You can select one skill from each aspect's list of options. (Skills in Chapter 9: [Tests](tests.md) has information on the part skills play in the game.)
-- You gain an [edge](../rule/dice/edge.md) on tests made to recall lore about your culture, and on tests made to influence and interact with people of your culture. (See [Edges](../rule/dice/edge.md) and [Banes](../rule/dice/bane.md) in Chapter 1: [The Basics](the-basics.md).)
+- You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to recall lore about your culture, and on [tests](../rule/test/test.md) made to influence and interact with people of your culture. (See [Edges](../rule/dice/edge.md) and [Banes](../rule/dice/bane.md) in Chapter 1: [The Basics](the-basics.md).)
 
 #### Language
 
-Your culture's language aspect determines how the people of your culture communicate. Languages in Orden below discusses the many languages of the world of Orden, including Caelian—the language of the fallen empire that once dominated that world.
+Your culture's language aspect determines how the people of your culture communicate. Languages in [Orden](../rule/world/orden.md) below discusses the many languages of the world of [Orden](../rule/world/orden.md), including Caelian—the language of the fallen empire that once dominated that world.
 
 #### Environment
 
@@ -190,25 +190,25 @@ Your hero grew up among leaders who rule over others and play the games of polit
 
 #### Languages in Orden
 
-The languages granted by your hero's culture shape their understanding of the world and their relationship to the creatures within it. The following section details the languages of Orden, the baseline world of the game, but the Director can use these languages in their own campaign world or can swap this list with their own list of languages.
+The languages granted by your hero's culture shape their understanding of the world and their relationship to the creatures within it. The following section details the languages of [Orden](../rule/world/orden.md), the baseline world of the game, but the Director can use these languages in their own campaign world or can swap this list with their own list of languages.
 
 If your hero knows a language, they can speak, read, write, and understand it.
 
 ##### Caelian Empire
 
-The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent [human](../ancestry/human.md) empire, all [humans](../ancestry/human.md) (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
+The Caelian Empire dominated five of the eight regions of [Orden](../rule/world/orden.md) 3,000 years ago. During the height of this most recent [human](../ancestry/human.md) empire, all [humans](../ancestry/human.md) (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](../ancestry/human.md) in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](../ancestry/dwarf.md), [dragon knights](../ancestry/dragon-knight.md), elves, [hakaan](../ancestry/hakaan.md), [orcs](../ancestry/orc.md), [polders](../ancestry/polder.md), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
+Most people in [Orden](../rule/world/orden.md) can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](../ancestry/dwarf.md), [dragon knights](../ancestry/dragon-knight.md), elves, [hakaan](../ancestry/hakaan.md), [orcs](../ancestry/orc.md), [polders](../ancestry/polder.md), lizardfolk, and goblins. If a person speaks more than one language in [Orden](../rule/world/orden.md), the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of [Orden](../rule/world/orden.md) have in common.
 
 ##### Extant Languages
 
-Folk have been speaking, signing, and writing in Orden for at least thirty thousand years, but most of the world's ancient languages are now dead. Many have been forgotten. Others were spoken by peoples who never developed writing, preventing those languages from being preserved. And many languages that were preserved in writing left no related descendants, so that no one now knows what sounds that writing represented.
+Folk have been speaking, signing, and writing in [Orden](../rule/world/orden.md) for at least thirty thousand years, but most of the world's ancient languages are now dead. Many have been forgotten. Others were spoken by peoples who never developed writing, preventing those languages from being preserved. And many languages that were preserved in writing left no related descendants, so that no one now knows what sounds that writing represented.
 
-The languages on the Languages by Ancestry table are the most common languages actively spoken and signed by significant populations of people in Orden. The Vaslorian [Human](../ancestry/human.md) Languages table shows the dominant languages in that region's human-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your [orc](../ancestry/orc.md) hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
+The languages on the Languages by Ancestry table are the most common languages actively spoken and signed by significant populations of people in [Orden](../rule/world/orden.md). The Vaslorian [Human](../ancestry/human.md) Languages table shows the dominant languages in that region's human-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your [orc](../ancestry/orc.md) hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
 
-Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elf languages, just as there are multiple [human](../ancestry/human.md) languages.
+Most languages have colloquial or casual names. For instance, many people in [Orden](../rule/world/orden.md) call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elf languages, just as there are multiple [human](../ancestry/human.md) languages.
 
 Each extant language has a spoken, signed, and written version. When you learn a language, you know how to speak, sign, and read it.
 
@@ -224,7 +224,7 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Phaedros                  | Phaedran    |
 | Rioja                     | Riojan      |
 | Vanigar                   | Vaniric     |
-| Vasloria                  | Vaslorian   |
+| [Vasloria](../rule/world/vasloria.md)                  | Vaslorian   |
 
 ###### Languages by Ancestry Table
 
@@ -232,7 +232,7 @@ Each extant language has a spoken, signed, and written version. When you learn a
 |-----------------------|---------------------------------------|--------------------------------------------------------------------------------|
 | Anjali                | [Devils](../ancestry/devil.md), hobgoblins                    | Language of contract law                                                       |
 | Axiomatic             | [Memonek](../ancestry/memonek.md)                               | Native language of Axiom, and the common<br>language of the timescape by trade |
-| Caelian               | Orden denizens                        | Common language of Orden                                                       |
+| Caelian               | [Orden](../rule/world/orden.md) denizens                        | Common language of [Orden](../rule/world/orden.md)                                                       |
 | Filliaric             | Angulotls                             |                                                                                |
 | The First<br>Language | Elder dragons                         | Language of magic                                                              |
 | Hyrallic              | [High elves](../ancestry/high-elf.md)                            | Language of interspecies diplomacy                                             |
@@ -258,15 +258,15 @@ Each extant language has a spoken, signed, and written version. When you learn a
 
 ##### Language Usage
 
-**Hyrallic** is the primary language of the [high elves](../ancestry/high-elf.md) in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](../ancestry/dwarf.md). As a result, while anyone who lives near or trades with a [human](../ancestry/human.md) culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
+**Hyrallic** is the primary language of the [high elves](../ancestry/high-elf.md) in [Orden](../rule/world/orden.md). Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](../ancestry/dwarf.md). As a result, while anyone who lives near or trades with a [human](../ancestry/human.md) culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
-**Yllyric** is the cultural language of [wode elves](../ancestry/wode-elf.md), and also the common language among those who defend and protect the natural forests of Orden.
+**Yllyric** is the cultural language of [wode elves](../ancestry/wode-elf.md), and also the common language among those who defend and protect the natural forests of [Orden](../rule/world/orden.md).
 
 Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular [dwarf](../ancestry/dwarf.md) language. Even when such texts aren't fully written in Zaliac, they use a lot of [dwarf](../ancestry/dwarf.md) language when describing esoteric, complex ideas.
 
 Just as Zaliac is used in engineering, contract law isn't written purely in **Anjali**, the dominant language of the Seven Cities of Hell. But a lot of the legal jargon in any contract, as well as some of the language of trial courts, features many Anjali words. People are sticklers for detail in the Seven Cities, and this makes their language popular among lawyers.
 
-In the same way that intelligent creatures in Orden who live near or trade with other cultures use Caelian as a common language, the denizens of the World Below, the Dark Under All, often speak **Variac**, the language of the voiceless talkers.
+In the same way that intelligent creatures in [Orden](../rule/world/orden.md) who live near or trade with other cultures use Caelian as a common language, the denizens of the World Below, the Dark Under All, often speak **Variac**, the language of the voiceless talkers.
 
 ##### Dead Languages
 
@@ -276,7 +276,7 @@ Most of these ancient writings were written by people who expected other people 
 
 Sages can reconstruct many of these languages by learning which modern languages descended from them, then comparing them to related languages from the same time period that might have survived. Translating such ancient languages has been extremely useful for crafting and research.
 
-The Dead Languages table shows some of the dead languages of Orden, and the modern languages related to those ancient languages.
+The Dead Languages table shows some of the dead languages of [Orden](../rule/world/orden.md), and the modern languages related to those ancient languages.
 
 ###### Dead Languages Table
 
@@ -314,21 +314,21 @@ Each career grants you two or three skills, detailed in the Skills section of Ch
 
 #### Languages
 
-Some careers allow you to learn extra languages, chosen from those available in Languages in Orden above.
+Some careers allow you to learn extra languages, chosen from those available in Languages in [Orden](../rule/world/orden.md) above.
 
 #### Renown
 
-Some careers increase your starting Renown score (from a base score of 0). See Renown in Chapter 13: [Rewards](rewards.md) for more information.
+Some careers increase your starting [Renown](../rule/resource/renown.md) score (from a base score of 0). See [Renown](../rule/resource/renown.md) in Chapter 13: [Rewards](rewards.md) for more information.
 
 #### Wealth {data-scc="mcdm.heroes.v1/rule.resource/wealth"}
 
-Some careers increase your starting Wealth score (from a base score of 1). See Wealth in Chapter 13: [Rewards](rewards.md) for more information.
+Some careers increase your starting [Wealth](../rule/resource/wealth.md) score (from a base score of 1). See [Wealth](../rule/resource/wealth.md) in Chapter 13: [Rewards](rewards.md) for more information.
 
 #### Project Points {data-scc="mcdm.heroes.v1/rule.downtime/project-points"}
 
-Some careers provide project points you can put toward crafting and research projects (see Chapter 12: [Downtime Projects](downtime-projects.md)). These project points can be divided among multiple projects, but they can't be used more than once. You must meet the other prerequisites for a project to start it, as usual.
+Some careers provide [project points](../rule/downtime/project-points.md) you can put toward crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](downtime-projects.md)). These [project points](../rule/downtime/project-points.md) can be divided among multiple projects, but they can't be used more than once. You must meet the other prerequisites for a project to start it, as usual.
 
-At the Director's discretion, your career might also let you start the game with the materials needed for one or more projects, so you can immediately put your project points toward those projects—possibly before the adventure begins! This is especially useful for characters who are going on only one adventure. Otherwise, you can hold onto the points and spend them once you do start a project.
+At the Director's discretion, your career might also let you start the game with the materials needed for one or more projects, so you can immediately put your [project points](../rule/downtime/project-points.md) toward those projects—possibly before the adventure begins! This is especially useful for characters who are going on only one adventure. Otherwise, you can hold onto the points and spend them once you do start a project.
 
 #### Perk
 
@@ -391,9 +391,9 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
-**Wealth:** +1
+**[Wealth](../rule/resource/wealth.md):** +1
 
 **Perk:** One lore perk (*Quick Build:* I've Read About This Place.)
 
@@ -421,7 +421,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 240
+**[Project Points](../rule/downtime/project-points.md):** 240
 
 **Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../perk/area-of-expertise.md).)
 
@@ -475,7 +475,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](../perk/criminal-contacts.md).)
 
@@ -501,7 +501,7 @@ You gain the following career benefits:
 
 **Skills:** The [Religion](../skill/religion.md) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](../skill/culture.md), [Magic](../skill/magic.md), [Religion](../skill/religion.md).)
 
-**Project Points:** 240
+**[Project Points](../rule/downtime/project-points.md):** 240
 
 **Perk:** One supernatural perk (*Quick Build:* [Ritualist](../perk/ritualist.md).)
 
@@ -556,7 +556,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](../perk/monster-whisperer.md).)
 
@@ -567,7 +567,7 @@ You gain the following career benefits:
 | 3  | **Cursed:** While tilling your fields, you found something in the dirt. Perhaps it was a chipped and dented weapon, a piece of ancient jewelry, or something altogether unique. Excited by your find, you showed it to a loved one, but when they touched it, something happened. You now know it was a curse conveyed by the item, though you don't know why it affected them and not you. You left your old life in search of answers. |
 | 4  | **Hard Times:** Your farm had always been prosperous, until the last few years. Changes in the weather caused smaller yields until you could no longer pay your tithe to the local noble. Her soldiers took what items of value they found, including a precious family heirloom. You left the struggling farm behind to find a better life. |
 | 5  | **Razed:** Your animals were killed, your crops and home set ablaze. The culprits might have been wandering bandits, raiders from a nearby kingdom, or hired thugs sent by a rival farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch, so you took up a life of heroism to protect others from such villainy. |
-| 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back—and get revenge. |
+| 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the [renown](../rule/resource/renown.md)ed bloodline would end. You intend to get them back—and get revenge. |
 
 #### Gladiator {data-scc="mcdm.heroes.v1/career/gladiator"}
 
@@ -584,7 +584,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +2
+**[Renown](../rule/resource/renown.md):** +2
 
 **Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../perk/friend-catapult.md).)
 
@@ -612,7 +612,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One exploration perk (*Quick Build:* Brawny.)
 
@@ -640,7 +640,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
 **Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
 
@@ -666,7 +666,7 @@ You gain the following career benefits:
 
 **Skills:** The [Music](../skill/music.md) or [Perform](../skill/perform.md) skill (from the interpersonal skill group), plus two more skills from the interpersonal group (*Quick Build:* [Flirt](../skill/flirt.md), [Music](../skill/music.md), [Perform](../skill/perform.md).)
 
-**Renown:** +2
+**[Renown](../rule/resource/renown.md):** +2
 
 **Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](../perk/harmonizer.md).)
 
@@ -694,9 +694,9 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
-**Wealth:** +1
+**[Wealth](../rule/resource/wealth.md):** +1
 
 **Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](../perk/engrossing-monologue.md).)
 
@@ -724,7 +724,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 240
+**[Project Points](../rule/downtime/project-points.md):** 240
 
 **Perk:** One lore perk (*Quick Build:* [Expert Sage](../perk/expert-sage.md).)
 
@@ -778,7 +778,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
 **Perk:** One exploration perk (*Quick Build:* Teamwork.)
 
@@ -806,7 +806,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](../perk/camouflage-hunter.md).)
 

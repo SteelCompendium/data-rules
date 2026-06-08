@@ -2,7 +2,7 @@
 action_type: Main action
 class: shadow
 distance: Melee 1 or ranged 5
-effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
+effect: If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
 flavor: '"It''s better, just you and me. Isn''t it?"'
 keywords:
     - Melee
@@ -24,10 +24,10 @@ type: ability
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 3 + A damage
 - **12-16:** 6 + A damage
 - **17+:** 9 + A damage
 
-**Effect:** If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
+**Effect:** If the target has none of your allies adjacent to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).

@@ -17,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*Your attack leaves them reeling, allowing you to follow up.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; slide 2\n- **12-16:** 6 + A damage; slide 3\n- **17+:** 10 + A damage; slide 5\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you slide them.",
+    "content": "\n*Your attack leaves them reeling, allowing you to follow up.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; slide 2\n- **12-16:** 6 + A damage; slide 3\n- **17+:** 10 + A damage; slide 5\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you slide them.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "Your attack leaves them reeling, allowing you to follow up.",

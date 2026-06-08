@@ -12,7 +12,7 @@ keywords:
 metadata:
     ability_type: Signature
     action_type: Main action
-    content: "*Your enemies try in vain to fall back from your pouncing attack.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage\n- **12-16:** 7 + A damage; push 1\n- **17+:** 9 + A damage; push 2\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you pushed the target."
+    content: "*Your enemies try in vain to fall back from your pouncing attack.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage\n- **12-16:** 7 + A damage; push 1\n- **17+:** 9 + A damage; push 2\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you pushed the target."
     distance: Melee 1
     feature_type: ability
     flavor: Your enemies try in vain to fall back from your pouncing attack.

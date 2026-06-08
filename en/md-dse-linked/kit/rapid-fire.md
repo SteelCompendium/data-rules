@@ -9,7 +9,6 @@ name: Rapid-Fire
 ranged_damage_bonus: +2/+2/+2
 scc: mcdm.heroes.v1/kit/rapid-fire
 source: mcdm.heroes.v1
-speed_bonus: "+1"
 type: kit
 ---
 
@@ -21,9 +20,9 @@ You wear light armor and wield a bow.
 
 ##### Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +1
+**[Speed](../rule/character/speed.md) Bonus:** +1
 
 **Ranged Damage Bonus:** +2/+2/+2
 
@@ -41,7 +40,7 @@ You wear light armor and wield a bow.
 |----------------------------|--------------------------------:|
 | **📏 Ranged 12**           | **🎯 Two creatures or objects** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage

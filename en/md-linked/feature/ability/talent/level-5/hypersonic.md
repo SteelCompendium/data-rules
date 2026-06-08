@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 9 Clarity
 distance: 5 x 2 line within 1
-effect: You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the power roll.
+effect: You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the [power roll](../../../../rule/dice/power-roll.md).
 flavor: You move fast enough to turn around and watch your foes feel the aftermath.
 keywords:
     - Area
@@ -24,9 +24,9 @@ type: ability
 |----------------------------------------|------------------------------:|
 | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 
-**Effect:** You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the power roll.
+**Effect:** You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the [power roll](../../../../rule/dice/power-roll.md).
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 12 sonic damage
 - **12-16:** 18 sonic damage

@@ -1,7 +1,7 @@
 ability_type: Triggered
 distance: Ranged 10
 effects:
-    - effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
+    - effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
       name: Effect
 feature_type: ability
 flavor: You step back a split second to see if things play out a little differently.
@@ -12,7 +12,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: talent
-    content: "\n*You step back a split second to see if things play out a little differently.*\n\n| **Psionic, Ranged** |               **Triggered** |\n|---------------------|----------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF Self or one creature** |\n\n**Trigger:** The target makes an ability roll.\n\n**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll."
+    content: "\n*You step back a split second to see if things play out a little differently.*\n\n| **Psionic, Ranged** |               **Triggered** |\n|---------------------|----------------------------:|\n| **\U0001F4CF Ranged 10**    | **\U0001F3AF Self or one creature** |\n\n**Trigger:** The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll).\n\n**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll."
     distance: Ranged 10
     feature_type: ability
     flavor: You step back a split second to see if things play out a little differently.
@@ -28,6 +28,6 @@ metadata:
     type: feature/ability/talent/level-1
 name: Again
 target: Self or one creature
-trigger: The target makes an ability roll.
+trigger: The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll).
 type: feature
 usage: Triggered

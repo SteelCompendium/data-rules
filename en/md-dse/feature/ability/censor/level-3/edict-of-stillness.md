@@ -4,12 +4,12 @@ class: censor
 cost: 7 Wrath
 cost_amount: "7"
 cost_resource: Wrath
-distance: 2 aura
+distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) out of the area, they take holy damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 feature_type: ability
 file_basename: edict-of-stillness
 file_dpath: feature/ability/censor/level-3
-flavor: The holy aura you project makes it painful for evil-doers to leave your reach.
+flavor: The holy [aura](scc:mcdm.heroes.v1/rule.combat/aura) you project makes it painful for evil-doers to leave your reach.
 item_id: edict-of-stillness
 item_name: Edict of Stillness
 keywords:
@@ -25,11 +25,11 @@ type: ability
 
 ```ds-feature
 cost: 7 Wrath
-distance: 2 aura
+distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
     - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) out of the area, they take holy damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 feature_type: ability
-flavor: The holy aura you project makes it painful for evil-doers to leave your reach.
+flavor: The holy [aura](scc:mcdm.heroes.v1/rule.combat/aura) you project makes it painful for evil-doers to leave your reach.
 keywords:
     - Area
     - Magic
@@ -37,9 +37,9 @@ metadata:
     action_type: Maneuver
     class: censor
     cost: 7 Wrath
-    distance: 2 aura
+    distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
     effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) out of the area, they take holy damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
-    flavor: The holy aura you project makes it painful for evil-doers to leave your reach.
+    flavor: The holy [aura](scc:mcdm.heroes.v1/rule.combat/aura) you project makes it painful for evil-doers to leave your reach.
     keywords:
         - Area
         - Magic

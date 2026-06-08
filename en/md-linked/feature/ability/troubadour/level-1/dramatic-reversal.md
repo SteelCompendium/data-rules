@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 cost: 5 Drama
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 flavor: Give the audience a surprise.
 keywords:
     - Area
@@ -19,9 +19,9 @@ type: ability
 
 | **Area, Magic** |                       **Main action** |
 |-----------------|--------------------------------------:|
-| **📏 3 burst**  | **🎯 Self and each ally in the area** |
+| **📏 3 [burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../../common/main-actions/free-strike.md).
 - **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md).

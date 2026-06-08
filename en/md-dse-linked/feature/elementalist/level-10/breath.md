@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.
+        You have an epic resource called breath. Each time you finish a [respite](../../../rule/resource/respite.md), you gain breath equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.
 
         Breath remains until you convert it to essence.
 feature_type: feature

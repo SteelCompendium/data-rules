@@ -22,7 +22,7 @@ type: ability
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 12 damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 18 damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)

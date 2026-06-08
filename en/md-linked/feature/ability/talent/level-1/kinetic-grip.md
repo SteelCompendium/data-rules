@@ -22,7 +22,7 @@ type: ability
 |----------------------------------|------------------------------:|
 | **📏 Ranged 10**                 | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** Slide 2 + R
 - **12-16:** Slide 4 + R

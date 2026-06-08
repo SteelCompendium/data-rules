@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 cost: 9 Piety
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 flavor: You utter a secret word of destruction known only to deities.
 keywords:
     - Area
@@ -19,9 +19,9 @@ type: ability
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|
-| **📏 4 burst**   | **🎯 Each enemy in the area** |
+| **📏 4 [burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 3 sonic damage; push 3
 - **12-16:** 6 sonic damage; push 5

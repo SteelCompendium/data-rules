@@ -1,8 +1,8 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
-effect: While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
+distance: 5 [aura](../../../../rule/combat/aura.md)
+effect: While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one [test](../../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their turn.
 flavor: Folks love a good tumble.
 keywords:
     - Area
@@ -20,6 +20,6 @@ type: ability
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
-| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
+**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one [test](../../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their turn.

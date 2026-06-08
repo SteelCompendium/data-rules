@@ -5,7 +5,7 @@ cost: 9 Discipline
 cost_amount: "9"
 cost_resource: Discipline
 distance: Self; see below
-effect: You can [shift](../../../../movement/shifting.md) up to your speed, and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one power roll that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
+effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
 feature_type: ability
 file_basename: phase-step
 file_dpath: feature/ability/null/level-6
@@ -28,7 +28,7 @@ type: ability
 cost: 9 Discipline
 distance: Self; see below
 effects:
-    - effect: You can [shift](../../../../movement/shifting.md) up to your speed, and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one power roll that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
+    - effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
 feature_type: ability
 flavor: You weaken your connection to this manifold, allowing you to move through and damage enemies.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: "null"
     cost: 9 Discipline
     distance: Self; see below
-    effect: You can [shift](../../../../movement/shifting.md) up to your speed, and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one power roll that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
+    effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
     flavor: You weaken your connection to this manifold, allowing you to move through and damage enemies.
     keywords:
         - Melee

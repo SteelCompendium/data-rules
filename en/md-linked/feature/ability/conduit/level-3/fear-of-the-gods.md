@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 cost: 7 Piety
-distance: 5 cube within 10
+distance: 5 [cube](../../../../rule/combat/cube.md) within 10
 effect: Each target is [frightened](../../../../condition/frightened.md) of you or a creature you choose within [distance](../../../../rule/combat/distance.md).
 flavor: Your divine magic makes a creature appear as what your enemies fear most.
 keywords:
@@ -21,9 +21,9 @@ type: ability
 
 | **Area, Magic, Ranged**  |               **Main action** |
 |--------------------------|------------------------------:|
-| **📏 5 cube within 10**  | **🎯 Each enemy in the area** |
+| **📏 5 [cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 6 psychic damage; I < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
 - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)

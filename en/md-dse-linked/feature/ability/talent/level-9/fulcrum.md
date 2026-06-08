@@ -5,7 +5,7 @@ cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
 distance: Special
-effect: Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
+effect: Make a [power roll](../../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
 feature_type: ability
 file_basename: fulcrum
 file_dpath: feature/ability/talent/level-9
@@ -28,7 +28,7 @@ type: ability
 cost: 11 Clarity
 distance: Special
 effects:
-    - effect: Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
+    - effect: Make a [power roll](../../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
 feature_type: ability
 flavor: You precisely manipulate the creatures around you.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 11 Clarity
     distance: Special
-    effect: Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
+    effect: Make a [power roll](../../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
     flavor: You precisely manipulate the creatures around you.
     keywords:
         - Area

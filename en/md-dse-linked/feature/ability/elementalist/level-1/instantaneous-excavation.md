@@ -5,7 +5,7 @@ cost: 5 Essence
 cost_amount: "5"
 cost_resource: Essence
 distance: Ranged 10
-effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate [power roll](../../../../rule/dice/power-roll.md) for each creature on the ground above a hole and small enough to fall in. (You can't score a [critical hit](../../../../rule/combat/critical-hit.md) with this ability because it uses a maneuver.)
 feature_type: ability
 file_basename: instantaneous-excavation
 file_dpath: feature/ability/elementalist/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Essence
 distance: Ranged 10
 effects:
-    - effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+    - effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate [power roll](../../../../rule/dice/power-roll.md) for each creature on the ground above a hole and small enough to fall in. (You can't score a [critical hit](../../../../rule/combat/critical-hit.md) with this ability because it uses a maneuver.)
 feature_type: ability
 flavor: The surface of the world around you opens up to swallow foes.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: elementalist
     cost: 5 Essence
     distance: Ranged 10
-    effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+    effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate [power roll](../../../../rule/dice/power-roll.md) for each creature on the ground above a hole and small enough to fall in. (You can't score a [critical hit](../../../../rule/combat/critical-hit.md) with this ability because it uses a maneuver.)
     flavor: The surface of the world around you opens up to swallow foes.
     keywords:
         - Earth

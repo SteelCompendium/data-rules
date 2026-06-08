@@ -19,12 +19,12 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 | **Area, Melee, Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 1 burst**          | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-**Effect:** You can [shift](../movement/shifting.md) up to 2 squares before or after making the power roll.
+**Effect:** You can [shift](../movement/shifting.md) up to 2 squares before or after making the [power roll](../rule/dice/power-roll.md).

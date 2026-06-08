@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 cost: 9 Essence
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effect: The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
 flavor: Dirt and debris swirl into a dark, pulsing hurricane.
 keywords:
@@ -22,9 +22,9 @@ type: ability
 
 | **Area, Earth, Magic, Ranged** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
+| **📏 4 [cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage
@@ -32,4 +32,4 @@ type: ability
 
 **Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
 
-**Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.
+**Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the [power roll](../../../../rule/dice/power-roll.md) again without spending essence.

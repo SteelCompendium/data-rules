@@ -5,7 +5,7 @@ cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
 distance: Melee 1
-effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
+effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to move.
 feature_type: ability
 file_basename: apex-predator
 file_dpath: feature/ability/fury/level-2
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Ferocity
 distance: Melee 1
 effects:
-    - effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
+    - effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to move.
 feature_type: ability
 flavor: I will hunt you down.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: fury
     cost: 5 Ferocity
     distance: Melee 1
-    effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
+    effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to move.
     flavor: I will hunt you down.
     keywords:
         - Melee

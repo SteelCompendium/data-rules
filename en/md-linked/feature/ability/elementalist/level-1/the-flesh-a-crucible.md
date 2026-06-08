@@ -23,10 +23,10 @@ type: ability
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 5 + R fire damage
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within [distance](../../../../rule/combat/distance.md) at the start of your turn, you can make the power roll again without spending essence (no action required).
+**Persistent 1:** If the target is within [distance](../../../../rule/combat/distance.md) at the start of your turn, you can make the [power roll](../../../../rule/dice/power-roll.md) again without spending essence (no action required).

@@ -5,7 +5,7 @@ cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
 distance: 5 x 2 line within 1
-effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) to a square on the opposite side of the area before making the power roll.
+effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) to a square on the opposite side of the area before making the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
 feature_type: ability
 file_basename: hypersonic
 file_dpath: feature/ability/talent/level-5
@@ -29,7 +29,7 @@ type: ability
 cost: 9 Clarity
 distance: 5 x 2 line within 1
 effects:
-    - effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) to a square on the opposite side of the area before making the power roll.
+    - effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) to a square on the opposite side of the area before making the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
 feature_type: ability
 flavor: You move fast enough to turn around and watch your foes feel the aftermath.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: talent
     cost: 9 Clarity
     distance: 5 x 2 line within 1
-    effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) to a square on the opposite side of the area before making the power roll.
+    effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) to a square on the opposite side of the area before making the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
     flavor: You move fast enough to turn around and watch your foes feel the aftermath.
     keywords:
         - Area

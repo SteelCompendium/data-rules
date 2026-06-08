@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.fury.level-3/7-ferocity-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 7 ferocity to use.
 
 ## Demon Unleashed {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/demon-unleashed"}
 
@@ -28,7 +28,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each creature you make a melee [strike](../../../rule/combat/strike.md) against who has P < AVERAGE is [taunted](../../../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../../../rule/character/might.md) score and increases its potency by 1.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), each creature you make a melee [strike](../../../rule/combat/strike.md) against who has P < AVERAGE is [taunted](../../../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) against any enemy [taunted](../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../../../rule/character/might.md) score and increases its [potency](../../../rule/character/potency.md) by 1.
 
 ## Steelbreaker {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/steelbreaker"}
 

@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 cost: 5 Discipline
-distance: 3 cube within 1
+distance: 3 [cube](../../../../rule/combat/cube.md) within 1
 flavor: You drastically increase the local entropy.
 keywords:
     - Area
@@ -20,9 +20,9 @@ type: ability
 
 | **Area, Psionic, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 3 cube within 1**    | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../../rule/combat/cube.md) within 1**    | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)

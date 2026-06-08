@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Ranged 10
-effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one power roll made against them before the end of their next turn.
+effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one [power roll](../../../../rule/dice/power-roll.md) made against them before the end of their next turn.
 feature_type: ability
 file_basename: sacrificial-offer
 file_dpath: feature/ability/conduit/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one power roll made against them before the end of their next turn.
+    - effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one [power roll](../../../../rule/dice/power-roll.md) made against them before the end of their next turn.
 feature_type: ability
 flavor: Divine magic tears at your foe and defends a nearby friend.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: conduit
     distance: Ranged 10
-    effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one power roll made against them before the end of their next turn.
+    effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one [power roll](../../../../rule/dice/power-roll.md) made against them before the end of their next turn.
     flavor: Divine magic tears at your foe and defends a nearby friend.
     keywords:
         - Magic

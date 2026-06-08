@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.elementalist.level-8/11-essence-ability
 type: feature
 ---
 
-Choose one heroic ability from the following options, each of which costs 11 essence to use.
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 11 essence to use.
 
 ## Heart of the Wode {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/heart-of-the-wode"}
 
@@ -17,7 +17,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A [size](../../../rule/character/size.md) 5 tree appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The tree has 100 [Stamina](../../../rule/health/stamina.md) and can't be [force moved](../../../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../../common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../../../condition/prone.md). Each ally within [distance](../../../rule/combat/distance.md) also gains this benefit.
+**Effect:** A [size](../../../rule/character/size.md) 5 tree appears in an unoccupied space within [distance](../../../rule/combat/distance.md). The tree has 100 [Stamina](../../../rule/health/stamina.md) and can't be [force moved](../../../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../../common/maneuvers/catch-breath.md) maneuver as a [free maneuver](../../../rule/combat/free-maneuver.md). Additionally, when you start your turn with [line of effect](../../../rule/combat/line-of-effect.md) to the tree, you can end one effect on yourself that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your turn, or you can stand up if you [are prone](../../../condition/prone.md). Each ally within [distance](../../../rule/combat/distance.md) also gains this benefit.
 
 Each enemy who ends their turn within 3 squares of the tree is [restrained](../../../condition/restrained.md) until the end of their next turn. A creature [restrained](../../../condition/restrained.md) this way can use a main action to end the effect early.
 
@@ -28,9 +28,9 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 
 | **Area, Fire, Magic, Ranged** |               **Main action** |
 |-------------------------------|------------------------------:|
-| **📏 5 cube within 10**       | **🎯 Each enemy in the area** |
+| **📏 5 [cube](../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)
 - **12-16:** 10 fire damage; the Director loses 3 Malice
@@ -56,9 +56,9 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 
 | **Area, Earth, Magic** |               **Main action** |
 |------------------------|------------------------------:|
-| **📏 5 burst**         | **🎯 Each enemy in the area** |
+| **📏 5 [burst](../../../rule/combat/burst.md)**         | **🎯 Each enemy in the area** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** M < WEAK[, prone](../../../condition/prone.md)
 - **12-16:** M < AVERAGE[, prone](../../../condition/prone.md)

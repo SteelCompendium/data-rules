@@ -13,7 +13,7 @@ A creature wanting to push an adjacent creature away from them can attempt to sh
 |-------------------|--------------------:|
 | **📏 Melee 1**    | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** Push 1
 - **12-16:** Push 2

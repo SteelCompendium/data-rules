@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../ability/conduit/level-1/word-of-guidance.md).)
+    - effect: Choose one of the following [triggered actions](../../../rule/combat/triggered-action.md). (*Quick Build:* [Word of Guidance](../../ability/conduit/level-1/word-of-guidance.md).)
 feature_type: feature
 metadata:
     class: conduit

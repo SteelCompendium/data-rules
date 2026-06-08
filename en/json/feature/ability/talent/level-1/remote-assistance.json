@@ -2,7 +2,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The next ability roll an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).",
+      "effect": "The next [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).",
       "name": "Effect"
     },
     {
@@ -19,7 +19,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "talent",
-    "content": "\n*An ally gains the benefit of your intellect.*\n\n| **Psionic, Ranged** |                  **Maneuver** |\n|---------------------|------------------------------:|\n| **📏 Ranged 10**    | **🎯 One creature or object** |\n\n\n**Effect:** The next ability roll an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).\n\n**Spend 1 Clarity:** You target one additional creature or object.",
+    "content": "\n*An ally gains the benefit of your intellect.*\n\n| **Psionic, Ranged** |                  **Maneuver** |\n|---------------------|------------------------------:|\n| **📏 Ranged 10**    | **🎯 One creature or object** |\n\n\n**Effect:** The next [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) an ally makes against the target before the start of your next turn gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).\n\n**Spend 1 Clarity:** You target one additional creature or object.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "An ally gains the benefit of your intellect.",

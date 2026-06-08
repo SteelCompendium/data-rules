@@ -27,7 +27,7 @@ type: ability
 cost: 11 Insight
 distance: 5 x 1 line within 5
 effects:
-    - effect: "\n*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*\n\n| **Area, Ranged, Weapon**   |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF 5 x 1 line within 5** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 12 damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 18 damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 24 damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
+    - effect: "\n*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*\n\n| **Area, Ranged, Weapon**   |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF 5 x 1 line within 5** | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 12 damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)\n- **12-16:** 18 damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)\n- **17+:** 24 damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)"
 feature_type: ability
 flavor: You fire a projectile so fast that it passes through a line of foes, hamstringing them.
 keywords:

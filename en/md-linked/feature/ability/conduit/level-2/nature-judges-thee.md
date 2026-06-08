@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 cost: 5 Piety
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 flavor: Mystical thorned vines appear at your bidding and bind your foes.
 keywords:
     - Area
@@ -20,9 +20,9 @@ type: ability
 
 | **Area, Magic, Ranged**  |               **Main action** |
 |--------------------------|------------------------------:|
-| **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 2 damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
 - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)

@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*Fear of divine judgment overwhelms your foe.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |                      **Main action** |\n|----------------------------|-------------------------------------:|\n| **📏 Ranged 10**           |                  **🎯 One creature** |\n\n**Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 6 + I holy damage; I \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 9 + I holy damage; I \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 13 + I holy damage; I \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
+    "content": "\n*Fear of divine judgment overwhelms your foe.*\n\n| **Magic, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |                      **Main action** |\n|----------------------------|-------------------------------------:|\n| **📏 Ranged 10**           |                  **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 6 + I holy damage; I \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 9 + I holy damage; I \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 13 + I holy damage; I \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Fear of divine judgment overwhelms your foe.",

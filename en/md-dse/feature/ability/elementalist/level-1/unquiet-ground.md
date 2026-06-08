@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: elementalist
-distance: 2 cube within 10
+distance: 2 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effect: The ground beneath the area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
 feature_type: ability
 file_basename: unquiet-ground
@@ -24,7 +24,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 2 cube within 10
+distance: 2 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - effect: The ground beneath the area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
 feature_type: ability
@@ -37,7 +37,7 @@ keywords:
 metadata:
     action_type: Main action
     class: elementalist
-    distance: 2 cube within 10
+    distance: 2 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
     effect: The ground beneath the area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
     flavor: A sudden storm of detritus assaults your foes and leaves them struggling to move.
     keywords:

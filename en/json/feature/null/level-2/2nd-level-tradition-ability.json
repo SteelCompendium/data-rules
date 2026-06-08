@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [null tradition](scc:mcdm.heroes.v1/feature.null.level-1/null-tradition) grants your choice of one of two abilities.\n\n##### 2nd-Level Chronokinetic Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Cryokinetic Ability\n\nChoose one of the following heroic abilities.\n\n##### 2nd-Level Metakinetic Ability\n\nChoose one of the following abilities."
+      "effect": "Your [null tradition](scc:mcdm.heroes.v1/feature.null.level-1/null-tradition) grants your choice of one of two abilities.\n\n##### 2nd-Level Chronokinetic Ability\n\nChoose one of the following abilities.\n\n##### 2nd-Level Cryokinetic Ability\n\nChoose one of the following [heroic abilities](scc:mcdm.heroes.v1/rule.general/heroic-ability).\n\n##### 2nd-Level Metakinetic Ability\n\nChoose one of the following abilities."
     }
   ],
   "feature_type": "feature",

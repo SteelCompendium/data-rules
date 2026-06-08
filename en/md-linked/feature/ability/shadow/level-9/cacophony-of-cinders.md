@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 11 Insight
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).
+effect: You [shift](../../../../movement/shifting.md) up to twice your [speed](../../../../rule/character/speed.md), making one [power roll](../../../../rule/dice/power-roll.md) that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).
 flavor: You tumble through the battle, stabbing foes and [teleporting](../../../../movement/teleport.md) allies.
 keywords:
     - Magic
@@ -23,9 +23,9 @@ type: ability
 |--------------------------|----------------:|
 | **📏 Self; see below**   |     **🎯 Self** |
 
-**Effect:** You [shift](../../../../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).
+**Effect:** You [shift](../../../../movement/shifting.md) up to twice your [speed](../../../../rule/character/speed.md), making one [power roll](../../../../rule/dice/power-roll.md) that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../movement/teleport.md) up to 3 squares.
 - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.

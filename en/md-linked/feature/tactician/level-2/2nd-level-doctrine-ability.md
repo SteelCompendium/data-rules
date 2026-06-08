@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-ability
 type: feature
 ---
 
-Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 2nd-Level Insurgent Ability
 
@@ -34,9 +34,9 @@ Choose one of the following abilities.
 |---------------------------|----------------:|
 | **📏 Self; see below**    |     **🎯 Self** |
 
-**Effect:** You [shift](../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../rule/health/recoveries.md), and you can make the following weapon [strike](../../../rule/combat/strike.md) with a [distance](../../../rule/combat/distance.md) of melee 1 against a creature.
+**Effect:** You [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md) directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../rule/health/recoveries.md), and you can make the following weapon [strike](../../../rule/combat/strike.md) with a [distance](../../../rule/combat/distance.md) of melee 1 against a creature.
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R damage; R < WEAK, [frightened](../../../condition/frightened.md) (save ends)
 - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../condition/frightened.md) (save ends)
@@ -55,11 +55,11 @@ Choose one of the following abilities.
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../rule/character/reason.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** 5 + R damage; [taunted](../../../condition/taunted.md) (EoT)
-- **12-16:** 9 + R damage; [taunted](../../../condition/taunted.md) (EoT)
-- **17+:** 12 + R damage; [taunted](../../../condition/taunted.md) (EoT)
+- **≤11:** 5 + R damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md))
+- **12-16:** 9 + R damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md))
+- **17+:** 12 + R damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md))
 
 **Effect:** One ally adjacent to the target can spend a [Recovery](../../../rule/health/recoveries.md).
 
@@ -91,9 +91,9 @@ Choose one of the following abilities.
 
 **Trigger:** The target deals damage to an ally.
 
-**Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a power roll against the target.
+**Effect:** You move up to your [speed](../../../rule/character/speed.md) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a [power roll](../../../rule/dice/power-roll.md) against the target.
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** R < WEAK, the target is [frightened](../../../condition/frightened.md) of the triggering ally (save ends)
 - **12-16:** R < AVERAGE, the target is [frightened](../../../condition/frightened.md) of the triggering ally (save ends)
@@ -106,6 +106,6 @@ Choose one of the following abilities.
 
 | **Area**       |                          **Maneuver** |
 |----------------|--------------------------------------:|
-| **📏 1 burst** | **🎯 Self and each ally in the area** |
+| **📏 1 [burst](../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the start of your next turn, each target has a bonus to stability equal to your [Might](../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../rule/resource/surge.md).
+**Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../rule/character/stability.md) equal to your [Might](../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../rule/resource/surge.md).

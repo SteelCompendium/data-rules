@@ -20,19 +20,19 @@ effects:
 
         ##### Signature Abilities
 
-        Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../ability/elementalist/level-1/bifurcated-incineration.md), [Viscous Fire](../../ability/elementalist/level-1/viscous-fire.md).)
+        Choose two [signature abilities](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Bifurcated Incineration](../../ability/elementalist/level-1/bifurcated-incineration.md), [Viscous Fire](../../ability/elementalist/level-1/viscous-fire.md).)
 
         ##### Heroic Abilities
 
-        You channel a variety of heroic abilities, all of them fueled by your essence.
+        You channel a variety of [heroic abilities](../../../rule/general/heroic-ability.md), all of them fueled by your essence.
 
         ###### 3-Essence Ability
 
-        Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
 
         ###### 5-Essence Ability
 
-        Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../../ability/elementalist/level-1/conflagration.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../../ability/elementalist/level-1/conflagration.md).)
 feature_type: feature
 metadata:
     class: elementalist

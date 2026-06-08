@@ -4,7 +4,7 @@ class: fury
 cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effect: This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features)).
 feature_type: ability
 file_basename: visceral-roar
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Ferocity
-distance: 2 burst
+distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features)).
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Main action
     class: fury
     cost: 5 Ferocity
-    distance: 2 burst
+    distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effect: This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features)).
     flavor: The sound of the storm within you staggers your opponents.
     keywords:

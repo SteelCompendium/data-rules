@@ -1,8 +1,8 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
-effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their turn.
 feature_type: ability
 file_basename: choreography
 file_dpath: feature/ability/troubadour/level-1
@@ -22,9 +22,9 @@ type: ability
 ---
 
 ```ds-feature
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
+    - effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their turn.
 feature_type: ability
 flavor: Taps, kicks, steps. It's all "[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography)."
 keywords:
@@ -34,8 +34,8 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    distance: 5 aura
-    effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
+    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+    effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their turn.
     flavor: Taps, kicks, steps. It's all "[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography)."
     keywords:
         - Area

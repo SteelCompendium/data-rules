@@ -21,7 +21,7 @@ type: ability
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square
 - **12-16:** 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares

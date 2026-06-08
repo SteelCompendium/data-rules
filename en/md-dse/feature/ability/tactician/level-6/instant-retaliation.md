@@ -5,11 +5,11 @@ cost: 9 Focus
 cost_amount: "9"
 cost_resource: Focus
 distance: Melee 1
-effect: The target takes half the damage. You then make a power roll against the triggering creature.
+effect: The target takes half the damage. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the triggering creature.
 feature_type: ability
 file_basename: instant-retaliation
 file_dpath: feature/ability/tactician/level-6
-flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
+flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural [speed](scc:mcdm.heroes.v1/rule.character/speed).
 item_id: instant-retaliation
 item_name: Instant Retaliation
 keywords:
@@ -29,9 +29,9 @@ type: ability
 cost: 9 Focus
 distance: Melee 1
 effects:
-    - effect: The target takes half the damage. You then make a power roll against the triggering creature.
+    - effect: The target takes half the damage. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the triggering creature.
 feature_type: ability
-flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
+flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural [speed](scc:mcdm.heroes.v1/rule.character/speed).
 keywords:
     - Melee
     - Weapon
@@ -40,8 +40,8 @@ metadata:
     class: tactician
     cost: 9 Focus
     distance: Melee 1
-    effect: The target takes half the damage. You then make a power roll against the triggering creature.
-    flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
+    effect: The target takes half the damage. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the triggering creature.
+    flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural [speed](scc:mcdm.heroes.v1/rule.character/speed).
     keywords:
         - Melee
         - Weapon

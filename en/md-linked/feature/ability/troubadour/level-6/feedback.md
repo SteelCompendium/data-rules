@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 cost: 9 Drama
-distance: Three 3 cubes within 1
+distance: Three 3 [cubes](../../../../rule/combat/cube.md) within 1
 effect: A [prone target](../../../../condition/prone.md) ignores this ability.
 flavor: Your music pounds the crowd to the beat until their hearts can't stand it anymore.
 keywords:
@@ -20,11 +20,11 @@ type: ability
 
 | **Area, Magic**               |               **Main action** |
 |-------------------------------|------------------------------:|
-| **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
+| **📏 Three 3 [cubes](../../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |
 
 **Effect:** A [prone target](../../../../condition/prone.md) ignores this ability.
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 7 sonic damage; P < WEAK[, prone](../../../../condition/prone.md)
 - **12-16:** 10 sonic damage; P < AVERAGE[, prone](../../../../condition/prone.md)

@@ -8,7 +8,7 @@
     },
     {
       "cost": "Spend 1 Insight",
-      "effect": "The potency of any effects associated with the damage are reduced by 1 for you."
+      "effect": "The [potency](scc:mcdm.heroes.v1/rule.character/potency) of any effects associated with the damage are reduced by 1 for you."
     }
   ],
   "feature_type": "ability",
@@ -20,7 +20,7 @@
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "shadow",
-    "content": "\n*When an enemy attacks, you roll with the impact to reduce the harm.*\n\n| **-**       | **Triggered** |\n|-------------|--------------:|\n| **📏 Self** |   **🎯 Self** |\n\n**Trigger:** Another creature damages you.\n\n**Effect:** You take half the triggering damage, then can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares after the triggering effect resolves. If you end this [shift](scc:mcdm.heroes.v1/movement/shifting) with [concealment](scc:mcdm.heroes.v1/rule.combat/concealment) or [cover](scc:mcdm.heroes.v1/rule.combat/cover), you can use the [Hide](scc:mcdm.heroes.v1/feature.common.maneuvers/hide) maneuver even if you are observed.\n\n**Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.",
+    "content": "\n*When an enemy attacks, you roll with the impact to reduce the harm.*\n\n| **-**       | **Triggered** |\n|-------------|--------------:|\n| **📏 Self** |   **🎯 Self** |\n\n**Trigger:** Another creature damages you.\n\n**Effect:** You take half the triggering damage, then can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares after the triggering effect resolves. If you end this [shift](scc:mcdm.heroes.v1/movement/shifting) with [concealment](scc:mcdm.heroes.v1/rule.combat/concealment) or [cover](scc:mcdm.heroes.v1/rule.combat/cover), you can use the [Hide](scc:mcdm.heroes.v1/feature.common.maneuvers/hide) maneuver even if you are observed.\n\n**Spend 1 Insight:** The [potency](scc:mcdm.heroes.v1/rule.character/potency) of any effects associated with the damage are reduced by 1 for you.",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "When an enemy attacks, you roll with the impact to reduce the harm.",

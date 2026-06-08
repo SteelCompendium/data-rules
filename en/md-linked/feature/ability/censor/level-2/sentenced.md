@@ -24,7 +24,7 @@ type: ability
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   |           **🎯 One creature** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
 - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)

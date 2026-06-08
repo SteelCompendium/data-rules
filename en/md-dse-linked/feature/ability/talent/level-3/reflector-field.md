@@ -4,8 +4,8 @@ class: talent
 cost: 7 Clarity
 cost_amount: "7"
 cost_resource: Clarity
-distance: 3 aura
-effect: The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
+distance: 3 [aura](../../../../rule/combat/aura.md)
+effect: The [aura](../../../../rule/combat/aura.md) lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
 feature_type: ability
 file_basename: reflector-field
 file_dpath: feature/ability/talent/level-3
@@ -26,9 +26,9 @@ type: ability
 
 ```ds-feature
 cost: 7 Clarity
-distance: 3 aura
+distance: 3 [aura](../../../../rule/combat/aura.md)
 effects:
-    - effect: The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
+    - effect: The [aura](../../../../rule/combat/aura.md) lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
 feature_type: ability
 flavor: A protective field reverses the momentum of incoming attacks.
 keywords:
@@ -39,8 +39,8 @@ metadata:
     action_type: Main action
     class: talent
     cost: 7 Clarity
-    distance: 3 aura
-    effect: The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
+    distance: 3 [aura](../../../../rule/combat/aura.md)
+    effect: The [aura](../../../../rule/combat/aura.md) lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
     flavor: A protective field reverses the momentum of incoming attacks.
     keywords:
         - Area

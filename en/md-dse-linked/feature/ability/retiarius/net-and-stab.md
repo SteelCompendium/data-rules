@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: Melee 2
 effects:
-    - effect: "*The well-thrown net that follows your main attack leaves your foes right where you want them.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (EoT)\n- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (EoT)\n- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (EoT)"
+    - effect: "*The well-thrown net that follows your main attack leaves your foes right where you want them.*\n\n| **Melee, [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 2**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))\n- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))\n- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md))"
 feature_type: ability
 flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
 keywords:

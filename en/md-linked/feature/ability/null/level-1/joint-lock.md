@@ -23,7 +23,7 @@ type: ability
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
 - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)

@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your unique physiology enhances your movement. You gain an [edge](../../../rule/dice/edge.md) on tests that use the [Climb](../../../skill/climb.md), [Gymnastics](../../../skill/gymnastics.md), or [Swim](../../../skill/swim.md) skills when you can use all your arms in the attempt.
+    - effect: Your unique physiology enhances your movement. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the [Climb](../../../skill/climb.md), [Gymnastics](../../../skill/gymnastics.md), or [Swim](../../../skill/swim.md) skills when you can use all your arms in the attempt.
 feature_type: trait
 metadata:
     ancestry: time-raider

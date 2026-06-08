@@ -1,7 +1,7 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effect: While this performance is active, a target who starts their turn in the area gains a bonus to the [distance](scc:mcdm.heroes.v1/rule.combat/distance) they can [shift](scc:mcdm.heroes.v1/movement/shifting) equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score until the end of their turn.
 feature_type: ability
 file_basename: we-cant-be-upstaged
@@ -22,7 +22,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 5 aura
+distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
     - effect: While this performance is active, a target who starts their turn in the area gains a bonus to the [distance](scc:mcdm.heroes.v1/rule.combat/distance) they can [shift](scc:mcdm.heroes.v1/movement/shifting) equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score until the end of their turn.
 feature_type: ability
@@ -34,7 +34,7 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    distance: 5 aura
+    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
     effect: While this performance is active, a target who starts their turn in the area gains a bonus to the [distance](scc:mcdm.heroes.v1/rule.combat/distance) they can [shift](scc:mcdm.heroes.v1/movement/shifting) equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score until the end of their turn.
     flavor: Swordplay so graceful it looks like you all practiced this.
     keywords:

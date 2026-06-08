@@ -24,7 +24,7 @@ type: ability
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
 - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
@@ -32,4 +32,4 @@ type: ability
 
 **Effect:** While [slowed](../../../../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
 
-**Strained:** While [slowed](../../../../condition/slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double [bane](../../../../rule/dice/bane.md) on ability rolls made against the target while they are [slowed](../../../../condition/slowed.md) this way.
+**Strained:** While [slowed](../../../../condition/slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made against the target while they are [slowed](../../../../condition/slowed.md) this way.

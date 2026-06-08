@@ -22,7 +22,7 @@ type: ability
 |----------------------------|--------------------:|
 | **📏 Ranged 5**            | **🎯 One creature** |
 
-**Power Roll + [Intuition](../../../../rule/character/intuition.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
 - **≤11:** 8 + I damage; A < WEAK, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
 - **12-16:** 12 + I damage; A < AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)

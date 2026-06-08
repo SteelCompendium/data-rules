@@ -16,31 +16,31 @@ Treasures are the supernatural items that heroes find on their adventures, or th
 
 Treasures come in all shapes and sizes, and are broken down into four types.
 
-**Consumables** are the most numerous treasures. These include potions, dusts, and other items that are consumed by you when you activate them. Most consumables can be used only once!
+**[Consumables](../rule/treasure/consumable.md)** are the most numerous treasures. These include potions, dusts, and other items that are consumed by you when you activate them. Most [consumables](../rule/treasure/consumable.md) can be used only once!
 
-**Trinkets** are treasures with supernatural properties that never fade. These include magic bags, boots, cloaks, gloves, jewelry, and other oddities.
+**[Trinkets](../rule/treasure/trinket.md)** are treasures with supernatural properties that never fade. These include magic bags, boots, cloaks, gloves, jewelry, and other oddities.
 
-**Leveled treasures** are treasures that become even more powerful in the hands of a higher-level hero. They connect with their user, building a bond that fuels the item's supernatural power. Armor, implements, and weapons are the most common types of leveled treasure.
+**[Leveled treasures](../rule/treasure/leveled-treasure.md)** are treasures that become even more powerful in the hands of a higher-level hero. They connect with their user, building a bond that fuels the item's supernatural power. Armor, implements, and weapons are the most common types of [leveled treasure](../rule/treasure/leveled-treasure.md).
 
 **Artifacts** are treasures of legendary power that can change or shape an adventure—or even an entire campaign. Each of these game-breaking items is unique, highly coveted, and well guarded.
 
 ### Found, Earned, or Crafted
 
-The rules of the game account for worlds where the average person sometimes even the average noble—doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In Vasloria, a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
+The rules of the game account for worlds where the average person sometimes even the average noble—doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In [Vasloria](../rule/world/vasloria.md), a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
 
 Most treasures are found as part of adventures. Many people concoct dastardly schemes, but only those with the will and power to enact that vision become villains—and acquiring treasures of great power is often part of a villain's plans. As such, the heroes who vanquish those evildoers often get to claim those treasures for themselves. At
 
 other times, generous and well-off individuals such as monarchs and powerful mages can reward treasures as thanks for heroic deeds.
 
-Heroes can also craft their own treasures, forging the tools they need to get the job done using the rules in Chapter 12: [Downtime Projects](downtime-projects.md). Items that can be crafted have their item prerequisite, project source, project roll [characteristic](../rule/character/characteristic.md), and project goal (the number of project points needed to complete the project) noted in their descriptions.
+Heroes can also craft their own treasures, forging the tools they need to get the job done using the rules in Chapter 12: [Downtime Projects](downtime-projects.md). Items that can be crafted have their [item prerequisite](../rule/downtime/item-prerequisite.md), [project source](../rule/downtime/project-source.md), [project roll](../rule/downtime/project-roll.md) [characteristic](../rule/character/characteristic.md), and project goal (the number of [project points](../rule/downtime/project-points.md) needed to complete the project) noted in their descriptions.
 
 #### What Does This Treasure Do?
 
 When a hero finds a treasure, they learn its properties if they examine it for 5 uninterrupted minutes, unless the item's description says otherwise.
 
-> **Treasure Item Prerequisite**
+> **Treasure [Item Prerequisite](../rule/downtime/item-prerequisite.md)**
 >
-> Each treasure has an item prerequisite necessary for crafting it. The exact nature of many of the materials used as an item's prerequisite is left nebulous so that the Director can more easily work those materials into a campaign. What's a mindspider, and how rare is their silk? That's for the Director to decide, whether they want to drop prerequisite items into their planned adventures or craft an entire side quest around finding them.
+> Each treasure has an [item prerequisite](../rule/downtime/item-prerequisite.md) necessary for crafting it. The exact nature of many of the materials used as an item's prerequisite is left nebulous so that the Director can more easily work those materials into a campaign. What's a mindspider, and how rare is their silk? That's for the Director to decide, whether they want to drop prerequisite items into their planned adventures or craft an entire side quest around finding them.
 
 #### Wearing Treasures
 
@@ -72,4 +72,4 @@ The Magic and Psionic keywords for treasures refer to how those treasures are cr
 
 #### Stamina Bonuses and Damage Bonuses
 
-If two treasures give a creature a bonus to their [Stamina](../rule/health/stamina.md) or a bonus to the rolled damage of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. [Stamina](../rule/health/stamina.md) bonuses and damage bonuses from consumables ignore this rule, and can be stacked with other [Stamina](../rule/health/stamina.md) bonuses and damage bonuses granted by treasures.
+If two treasures give a creature a bonus to their [Stamina](../rule/health/stamina.md) or a bonus to the [rolled damage](../rule/damage/rolled-damage.md) of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. [Stamina](../rule/health/stamina.md) bonuses and damage bonuses from [consumables](../rule/treasure/consumable.md) ignore this rule, and can be stacked with other [Stamina](../rule/health/stamina.md) bonuses and damage bonuses granted by treasures.

@@ -4,7 +4,7 @@ class: elementalist
 cost: 3 Essence
 cost_amount: "3"
 cost_resource: Essence
-distance: 3 cube within 10
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 feature_type: ability
 file_basename: behold-the-mystery
 file_dpath: feature/ability/elementalist/level-1
@@ -26,9 +26,9 @@ type: ability
 
 ```ds-feature
 cost: 3 Essence
-distance: 3 cube within 10
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
-    - effect: "\n*You open a rift into the void to harry your foes.*\n\n| **Area, Magic, Ranged, Void** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 10**       | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 4 psychic damage\n- **17+:** 6 psychic damage\n\n**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence."
+    - effect: "\n*You open a rift into the void to harry your foes.*\n\n| **Area, Magic, Ranged, Void** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**       | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 4 psychic damage\n- **17+:** 6 psychic damage\n\n**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence."
 feature_type: ability
 flavor: You open a rift into the void to harry your foes.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     action_type: Main action
     class: elementalist
     cost: 3 Essence
-    distance: 3 cube within 10
+    distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
     flavor: You open a rift into the void to harry your foes.
     keywords:
         - Area

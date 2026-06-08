@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choice of one of two heroic abilities.
+        Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
         ##### 6th-Level Auteur Abilities
 

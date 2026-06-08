@@ -16,9 +16,9 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.
+        You stand firm and magnetize your allies to stay grounded. Your [stability](../../../rule/character/stability.md) increases by your level.
 
-        Additionally, whenever an ally within [distance](../../../rule/combat/distance.md) of your [Hurl Element](../../ability/elementalist/level-1/hurl-element.md) ability is [force moved](../../../movement/forced-movement.md), you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
+        Additionally, whenever an ally within [distance](../../../rule/combat/distance.md) of your [Hurl Element](../../ability/elementalist/level-1/hurl-element.md) ability is [force moved](../../../movement/forced-movement.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to decrease your [stability](../../../rule/character/stability.md) down to a minimum of 0, then increase the ally's [stability](../../../rule/character/stability.md) by an amount equal to the [stability](../../../rule/character/stability.md) you lost. This change lasts until the end of the round.
 feature_type: feature
 metadata:
     class: elementalist

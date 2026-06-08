@@ -24,7 +24,7 @@ effects:
 
         ##### 2nd-Level Cryokinetic Ability
 
-        Choose one of the following heroic abilities.
+        Choose one of the following [heroic abilities](../../../rule/general/heroic-ability.md).
 
         ##### 2nd-Level Metakinetic Ability
 

@@ -5,7 +5,7 @@ cost: 7 Clarity
 cost_amount: "7"
 cost_resource: Clarity
 distance: Ranged 10
-effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
+effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) [tests](../../../../rule/test/test.md) until the end of the encounter.
 feature_type: ability
 file_basename: soul-burn
 file_dpath: feature/ability/talent/level-3
@@ -29,7 +29,7 @@ type: ability
 cost: 7 Clarity
 distance: Ranged 10
 effects:
-    - effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
+    - effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) [tests](../../../../rule/test/test.md) until the end of the encounter.
 feature_type: ability
 flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: talent
     cost: 7 Clarity
     distance: Ranged 10
-    effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
+    effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) [tests](../../../../rule/test/test.md) until the end of the encounter.
     flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
     keywords:
         - Animapathy

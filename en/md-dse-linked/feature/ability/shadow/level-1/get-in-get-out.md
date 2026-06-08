@@ -5,7 +5,7 @@ cost: 3 Insight
 cost_amount: "3"
 cost_resource: Insight
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to your speed, dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
+effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
 feature_type: ability
 file_basename: get-in-get-out
 file_dpath: feature/ability/shadow/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 3 Insight
 distance: Melee 1
 effects:
-    - effect: You can [shift](../../../../movement/shifting.md) up to your speed, dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
+    - effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
 feature_type: ability
 flavor: Move unexpectedly, strike fast, and be gone!
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: shadow
     cost: 3 Insight
     distance: Melee 1
-    effect: You can [shift](../../../../movement/shifting.md) up to your speed, dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
+    effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
     flavor: Move unexpectedly, strike fast, and be gone!
     keywords:
         - Melee

@@ -3,7 +3,7 @@
   "distance": "Melee 1 or ranged 5",
   "effects": [
     {
-      "effect": "One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.",
+      "effect": "One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn.",
       "name": "Effect"
     },
     {
@@ -23,7 +23,7 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*A lyrical (and physical) jab insults an enemy and inspires an ally.*\n\n| **Magic, Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |     **Main action** |\n|----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**       | **🎯 One creature** |\n\n**Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 4 + P psychic damage\n- **12-16:** 5 + P psychic damage\n- **17+:** 7 + P psychic damage\n\n**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.\n\n**Spend 1 Drama:** The chosen ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
+    "content": "\n*A lyrical (and physical) jab insults an enemy and inspires an ally.*\n\n| **Magic, Melee, Ranged, [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |     **Main action** |\n|----------------------------------|--------------------:|\n| **📏 Melee 1 or ranged 5**       | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 4 + P psychic damage\n- **12-16:** 5 + P psychic damage\n- **17+:** 7 + P psychic damage\n\n**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their turn.\n\n**Spend 1 Drama:** The chosen ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
     "distance": "Melee 1 or ranged 5",
     "feature_type": "ability",
     "flavor": "A lyrical (and physical) jab insults an enemy and inspires an ally.",

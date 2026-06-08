@@ -24,7 +24,7 @@ type: ability
 |---------------------------------|---------------------------:|
 | **📏 Ranged 10**                | **🎯 One enemy or object** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
 - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)

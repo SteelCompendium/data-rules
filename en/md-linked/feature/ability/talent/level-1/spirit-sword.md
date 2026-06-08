@@ -24,7 +24,7 @@ type: ability
 |----------------------------------------|------------------------------:|
 | **📏 Melee 2**                         | **🎯 One creature or object** |
 
-**Power Roll + [Presence](../../../../rule/character/presence.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
 - **≤11:** 3 + P damage
 - **12-16:** 6 + P damage

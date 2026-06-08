@@ -24,7 +24,7 @@ type: ability
 |--------------------------------|--------------------:|
 | **📏 Melee 1**                 | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 3 + R corruption damage
 - **12-16:** 6 + R corruption damage

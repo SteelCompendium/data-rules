@@ -5,7 +5,7 @@ cost: 3 Discipline
 cost_amount: "3"
 cost_resource: Discipline
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a [signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual.
 feature_type: ability
 file_basename: chronal-spike
 file_dpath: feature/ability/null/level-1
@@ -29,7 +29,7 @@ type: ability
 cost: 3 Discipline
 distance: Melee 1
 effects:
-    - effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+    - effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a [signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual.
 feature_type: ability
 flavor: You foresee the best moment to strike, then exploit it.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: "null"
     cost: 3 Discipline
     distance: Melee 1
-    effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+    effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a [signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual.
     flavor: You foresee the best moment to strike, then exploit it.
     keywords:
         - Melee

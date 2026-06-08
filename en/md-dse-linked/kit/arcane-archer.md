@@ -9,7 +9,6 @@ name: Arcane Archer
 ranged_damage_bonus: +2/+2/+2
 scc: mcdm.heroes.v1/kit/arcane-archer
 source: mcdm.heroes.v1
-speed_bonus: "+1"
 type: kit
 ---
 
@@ -21,7 +20,7 @@ You wear no armor and wield a bow.
 
 ##### Kit Bonuses
 
-**Speed Bonus:** +1
+**[Speed](../rule/character/speed.md) Bonus:** +1
 
 **Ranged Damage Bonus:** +2/+2/+2
 
@@ -39,10 +38,10 @@ You wear no armor and wield a bow.
 |-----------------------------------|------------------------------:|
 | **📏 Ranged 15**                  | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 5 + A, R, I, or P fire damage
 - **12-16:** 7 + A, R, I, or P fire damage
 - **17+:** 10 + A, R, I, or P fire damage
 
-**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../rule/character/characteristic.md) score used for this ability's power roll.
+**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../rule/character/characteristic.md) score used for this ability's [power roll](../rule/dice/power-roll.md).

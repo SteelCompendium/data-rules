@@ -23,21 +23,21 @@ Each career grants you two or three skills, detailed in the Skills section of Ch
 
 ### Languages
 
-Some careers allow you to learn extra languages, chosen from those available in Languages in Orden above.
+Some careers allow you to learn extra languages, chosen from those available in Languages in [Orden](../rule/world/orden.md) above.
 
 ### Renown
 
-Some careers increase your starting Renown score (from a base score of 0). See Renown in Chapter 13: [Rewards](rewards.md) for more information.
+Some careers increase your starting [Renown](../rule/resource/renown.md) score (from a base score of 0). See [Renown](../rule/resource/renown.md) in Chapter 13: [Rewards](rewards.md) for more information.
 
 ### Wealth {data-scc="mcdm.heroes.v1/rule.resource/wealth"}
 
-Some careers increase your starting Wealth score (from a base score of 1). See Wealth in Chapter 13: [Rewards](rewards.md) for more information.
+Some careers increase your starting [Wealth](../rule/resource/wealth.md) score (from a base score of 1). See [Wealth](../rule/resource/wealth.md) in Chapter 13: [Rewards](rewards.md) for more information.
 
 ### Project Points {data-scc="mcdm.heroes.v1/rule.downtime/project-points"}
 
-Some careers provide project points you can put toward crafting and research projects (see Chapter 12: [Downtime Projects](downtime-projects.md)). These project points can be divided among multiple projects, but they can't be used more than once. You must meet the other prerequisites for a project to start it, as usual.
+Some careers provide [project points](../rule/downtime/project-points.md) you can put toward crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](downtime-projects.md)). These [project points](../rule/downtime/project-points.md) can be divided among multiple projects, but they can't be used more than once. You must meet the other prerequisites for a project to start it, as usual.
 
-At the Director's discretion, your career might also let you start the game with the materials needed for one or more projects, so you can immediately put your project points toward those projects—possibly before the adventure begins! This is especially useful for characters who are going on only one adventure. Otherwise, you can hold onto the points and spend them once you do start a project.
+At the Director's discretion, your career might also let you start the game with the materials needed for one or more projects, so you can immediately put your [project points](../rule/downtime/project-points.md) toward those projects—possibly before the adventure begins! This is especially useful for characters who are going on only one adventure. Otherwise, you can hold onto the points and spend them once you do start a project.
 
 ### Perk
 
@@ -100,9 +100,9 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
-**Wealth:** +1
+**[Wealth](../rule/resource/wealth.md):** +1
 
 **Perk:** One lore perk (*Quick Build:* I've Read About This Place.)
 
@@ -130,7 +130,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 240
+**[Project Points](../rule/downtime/project-points.md):** 240
 
 **Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../perk/area-of-expertise.md).)
 
@@ -184,7 +184,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](../perk/criminal-contacts.md).)
 
@@ -210,7 +210,7 @@ You gain the following career benefits:
 
 **Skills:** The [Religion](../skill/religion.md) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](../skill/culture.md), [Magic](../skill/magic.md), [Religion](../skill/religion.md).)
 
-**Project Points:** 240
+**[Project Points](../rule/downtime/project-points.md):** 240
 
 **Perk:** One supernatural perk (*Quick Build:* [Ritualist](../perk/ritualist.md).)
 
@@ -265,7 +265,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](../perk/monster-whisperer.md).)
 
@@ -276,7 +276,7 @@ You gain the following career benefits:
 | 3  | **Cursed:** While tilling your fields, you found something in the dirt. Perhaps it was a chipped and dented weapon, a piece of ancient jewelry, or something altogether unique. Excited by your find, you showed it to a loved one, but when they touched it, something happened. You now know it was a curse conveyed by the item, though you don't know why it affected them and not you. You left your old life in search of answers. |
 | 4  | **Hard Times:** Your farm had always been prosperous, until the last few years. Changes in the weather caused smaller yields until you could no longer pay your tithe to the local noble. Her soldiers took what items of value they found, including a precious family heirloom. You left the struggling farm behind to find a better life. |
 | 5  | **Razed:** Your animals were killed, your crops and home set ablaze. The culprits might have been wandering bandits, raiders from a nearby kingdom, or hired thugs sent by a rival farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch, so you took up a life of heroism to protect others from such villainy. |
-| 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back—and get revenge. |
+| 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the [renown](../rule/resource/renown.md)ed bloodline would end. You intend to get them back—and get revenge. |
 
 ### Gladiator {data-scc="mcdm.heroes.v1/career/gladiator"}
 
@@ -293,7 +293,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +2
+**[Renown](../rule/resource/renown.md):** +2
 
 **Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../perk/friend-catapult.md).)
 
@@ -321,7 +321,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One exploration perk (*Quick Build:* Brawny.)
 
@@ -349,7 +349,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
 **Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
 
@@ -375,7 +375,7 @@ You gain the following career benefits:
 
 **Skills:** The [Music](../skill/music.md) or [Perform](../skill/perform.md) skill (from the interpersonal skill group), plus two more skills from the interpersonal group (*Quick Build:* [Flirt](../skill/flirt.md), [Music](../skill/music.md), [Perform](../skill/perform.md).)
 
-**Renown:** +2
+**[Renown](../rule/resource/renown.md):** +2
 
 **Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](../perk/harmonizer.md).)
 
@@ -403,9 +403,9 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
-**Wealth:** +1
+**[Wealth](../rule/resource/wealth.md):** +1
 
 **Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](../perk/engrossing-monologue.md).)
 
@@ -433,7 +433,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 240
+**[Project Points](../rule/downtime/project-points.md):** 240
 
 **Perk:** One lore perk (*Quick Build:* [Expert Sage](../perk/expert-sage.md).)
 
@@ -487,7 +487,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
 **Perk:** One exploration perk (*Quick Build:* Teamwork.)
 
@@ -515,7 +515,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](../perk/camouflage-hunter.md).)
 

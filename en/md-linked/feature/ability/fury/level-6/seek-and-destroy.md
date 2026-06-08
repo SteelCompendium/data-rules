@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 9 Ferocity
 distance: Melee 1
-effect: You [shift](../../../../movement/shifting.md) up to your speed.
+effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
 flavor: You break through the enemy lines to make an example.
 keywords:
     - Melee
@@ -23,9 +23,9 @@ type: ability
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** You [shift](../../../../movement/shifting.md) up to your speed.
+**Effect:** You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md).
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
 - **12-16:** 6 + M damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)

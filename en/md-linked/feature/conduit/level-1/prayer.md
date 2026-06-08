@@ -6,11 +6,11 @@ scc: mcdm.heroes.v1/feature.conduit.level-1/prayer
 type: feature
 ---
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](conduit-ward.md) below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](prayer-of-distance.md).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](conduit-ward.md) below) by praying to your god as a [respite](../../../rule/resource/respite.md) activity. (*Quick Build:* [Prayer of Distance](prayer-of-distance.md).)
 
 ## Prayer of Destruction {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-destruction"}
 
-Your god infuses wrath within your being. You gain a +1 bonus to rolled damage with magic abilities.
+Your god infuses wrath within your being. You gain a +1 bonus to [rolled damage](../../../rule/damage/rolled-damage.md) with magic abilities.
 
 ## Prayer of Distance {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-distance"}
 
@@ -24,8 +24,8 @@ If you have a kit, you can't take this blessing.
 
 ## Prayer of Speed {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-speed"}
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to [speed](../../../rule/character/speed.md) and to the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action.
 
 ## Prayer of Steel {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-steel"}
 
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to [Stamina](../../../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to [Stamina](../../../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../rule/character/stability.md).

@@ -22,8 +22,8 @@ type: ability
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 12 + A damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
 - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
-- **17+:** 24 + A damage; [bleeding](../../../../condition/bleeding.md) (EoT), or if M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
+- **17+:** 24 + A damage; [bleeding](../../../../condition/bleeding.md) ([EoT](../../../../rule/combat/end-of-turn.md)), or if M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)

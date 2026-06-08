@@ -23,7 +23,7 @@ type: ability
 |------------------------------------------|------------------------------:|
 | **📏 Ranged 10**                         | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 6 + R damage; M < WEAK[, prone](../../../../condition/prone.md)
 - **12-16:** 10 + R damage; M < AVERAGE[, prone](../../../../condition/prone.md)

@@ -23,10 +23,10 @@ type: ability
 |---------------------------|------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../../../../rule/character/might.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
-- **≤11:** 8 + M damage; as a free triggered action, one ally within 10 squares of the target can use a [strike](../../../../rule/combat/strike.md) signature ability against the target
-- **12-16:** 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a [strike](../../../../rule/combat/strike.md) signature ability that gains an [edge](../../../../rule/dice/edge.md) against the target
-- **17+:** 16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a [strike](../../../../rule/combat/strike.md) signature ability that gains an [edge](../../../../rule/dice/edge.md) against the target
+- **≤11:** 8 + M damage; as a free [triggered action](../../../../rule/combat/triggered-action.md), one ally within 10 squares of the target can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) against the target
+- **12-16:** 12 + M damage; as a free [triggered action](../../../../rule/combat/triggered-action.md), one ally within 10 squares of the target can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target
+- **17+:** 16 + M damage; as a free [triggered action](../../../../rule/combat/triggered-action.md), two allies within 10 squares of the target can each use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target
 
 **Effect:** Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 [surges](../../../../rule/resource/surge.md) before making the [strike](../../../../rule/combat/strike.md).

@@ -15,7 +15,7 @@ type: ability
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + [Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** No effect.
 - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../../../../condition/grabbed.md) can make a melee [free strike](../../../common/main-actions/free-strike.md) against you before you are no longer [grabbed](../../../../condition/grabbed.md).

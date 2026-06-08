@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: talent
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
 feature_type: ability
 file_basename: incinerate
@@ -25,7 +25,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
 feature_type: ability
@@ -39,7 +39,7 @@ keywords:
 metadata:
     action_type: Main action
     class: talent
-    distance: 3 cube within 10
+    distance: 3 [cube](../../../../rule/combat/cube.md) within 10
     effect: A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
     flavor: The air erupts into a column of smokeless flame.
     keywords:

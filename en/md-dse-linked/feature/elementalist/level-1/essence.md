@@ -20,7 +20,7 @@ effects:
 
         ##### Essence in Combat
 
-        At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your Victories. At the start of each of your turns during combat, you gain 2 essence.
+        At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your [Victories](../../../rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 essence.
 
         Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 essence.
 
@@ -28,11 +28,11 @@ effects:
 
         ##### Essence Outside of Combat
 
-        Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+        Though you can't gain essence outside of combat, you can use your [heroic abilities](../../../rule/general/heroic-ability.md) and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more [Victories](../../../rule/resource/victories.md) or finish a [respite](../../../rule/resource/respite.md).
 
-        When you use a persistent ability outside of combat (see [Persistent Magic](persistent-magic.md) below), you can maintain it for a number of rounds equal to your Victories.
+        When you use a persistent ability outside of combat (see [Persistent Magic](persistent-magic.md) below), you can maintain it for a number of rounds equal to your [Victories](../../../rule/resource/victories.md).
 
-        When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
+        When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your [Victories](../../../rule/resource/victories.md).
 feature_type: feature
 metadata:
     class: elementalist

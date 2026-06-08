@@ -16,7 +16,7 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a [bane](../../../rule/dice/bane.md) on tests made to search for you or other hidden creatures within 10 squares of you.
+        Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a [bane](../../../rule/dice/bane.md) on [tests](../../../rule/test/test.md) made to search for you or other hidden creatures within 10 squares of you.
 
         Additionally, you have the following ability.
 feature_type: feature

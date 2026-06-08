@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have a +10 bonus to the [distance](../../../rule/combat/distance.md) of your ranged abilities. Additionally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
+    - effect: You have a +10 bonus to the [distance](../../../rule/combat/distance.md) of your ranged abilities. Additionally, you don't need [line of effect](../../../rule/combat/line-of-effect.md) to a target of a ranged ability if the target is a creature capable of thought who you have previously had [line of effect](../../../rule/combat/line-of-effect.md) to.
 feature_type: feature
 metadata:
     class: talent

@@ -1,8 +1,8 @@
 ---
 action_type: Maneuver
 class: talent
-distance: 3 burst
-effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their speed. You can also [shift](../../../../movement/shifting.md) up to your speed. While [flying](../../../../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
+distance: 3 [burst](../../../../rule/combat/burst.md)
+effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their [speed](../../../../rule/character/speed.md). You can also [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). While [flying](../../../../movement/fly.md), a target's [stability](../../../../rule/character/stability.md) is reduced to 0 and can't be increased.
 flavor: You manipulate the air around your allies so they can move as freely through the sky as you can.
 keywords:
     - Area
@@ -20,8 +20,8 @@ type: ability
 
 | **Area, Psionic** |                 **Maneuver** |
 |-------------------|-----------------------------:|
-| **📏 3 burst**    | **🎯 Each ally in the area** |
+| **📏 3 [burst](../../../../rule/combat/burst.md)**    | **🎯 Each ally in the area** |
 
-**Effect:** Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their speed. You can also [shift](../../../../movement/shifting.md) up to your speed. While [flying](../../../../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
+**Effect:** Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their [speed](../../../../rule/character/speed.md). You can also [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). While [flying](../../../../movement/fly.md), a target's [stability](../../../../rule/character/stability.md) is reduced to 0 and can't be increased.
 
 **Spend 5 Clarity:** The effects last for 1 hour instead.

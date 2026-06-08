@@ -6,4 +6,4 @@ scc: mcdm.heroes.v1/feature.talent.level-6/sharpened-power
 type: feature
 ---
 
-If the ability has any power roll, that roll gains an [edge](../../../rule/dice/edge.md).
+If the ability has any [power roll](../../../rule/dice/power-roll.md), that roll gains an [edge](../../../rule/dice/edge.md).

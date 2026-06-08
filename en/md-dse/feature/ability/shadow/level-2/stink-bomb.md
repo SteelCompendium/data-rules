@@ -4,7 +4,7 @@ class: shadow
 cost: 5 Insight
 cost_amount: "5"
 cost_resource: Insight
-distance: 3 cube within 10
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effect: The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).
 feature_type: ability
 file_basename: stink-bomb
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Insight
-distance: 3 cube within 10
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - effect: The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Main action
     class: shadow
     cost: 5 Insight
-    distance: 3 cube within 10
+    distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
     effect: The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).
     flavor: Putrid yellow gas explodes from a bomb you toss.
     keywords:

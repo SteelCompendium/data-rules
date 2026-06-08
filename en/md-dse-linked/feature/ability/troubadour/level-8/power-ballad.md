@@ -5,7 +5,7 @@ cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
 distance: Ranged 10
-effect: Until the end of the encounter, whenever the target takes damage while [winded](../../../../rule/health/winded.md), they can use a free triggered action to deal half the damage they took to the source of the damage.
+effect: Until the end of the encounter, whenever the target takes damage while [winded](../../../../rule/health/winded.md), they can use a free [triggered action](../../../../rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage.
 feature_type: ability
 file_basename: power-ballad
 file_dpath: feature/ability/troubadour/level-8
@@ -27,7 +27,7 @@ type: ability
 cost: 11 Drama
 distance: Ranged 10
 effects:
-    - effect: Until the end of the encounter, whenever the target takes damage while [winded](../../../../rule/health/winded.md), they can use a free triggered action to deal half the damage they took to the source of the damage.
+    - effect: Until the end of the encounter, whenever the target takes damage while [winded](../../../../rule/health/winded.md), they can use a free [triggered action](../../../../rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage.
 feature_type: ability
 flavor: A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: troubadour
     cost: 11 Drama
     distance: Ranged 10
-    effect: Until the end of the encounter, whenever the target takes damage while [winded](../../../../rule/health/winded.md), they can use a free triggered action to deal half the damage they took to the source of the damage.
+    effect: Until the end of the encounter, whenever the target takes damage while [winded](../../../../rule/health/winded.md), they can use a free [triggered action](../../../../rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage.
     flavor: A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.
     keywords:
         - Magic

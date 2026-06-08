@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to stability.
+    - effect: Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to [stability](scc:mcdm.heroes.v1/rule.character/stability).
 feature_type: trait
 metadata:
     ancestry: dwarf

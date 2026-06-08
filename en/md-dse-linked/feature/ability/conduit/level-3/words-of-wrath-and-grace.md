@@ -4,7 +4,7 @@ class: conduit
 cost: 7 Piety
 cost_amount: "7"
 cost_resource: Piety
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 effect: Each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: words-of-wrath-and-grace
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 7 Piety
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: Each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 7 Piety
-    distance: 5 burst
+    distance: 5 [burst](../../../../rule/combat/burst.md)
     effect: Each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).
     flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.
     keywords:

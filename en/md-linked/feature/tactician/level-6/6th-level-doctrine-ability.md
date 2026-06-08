@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.tactician.level-6/6th-level-doctrine-ability
 type: feature
 ---
 
-Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of one of two [heroic abilities](../../../rule/general/heroic-ability.md).
 
 ## 6th-Level Insurgent Abilities
 
@@ -21,9 +21,9 @@ Choose one of the following abilities.
 |------------------|-------------------:|
 | **📏 Ranged 10** |    **🎯 One ally** |
 
-**Trigger:** The target uses an ability to deal rolled damage to a creature while hidden.
+**Trigger:** The target uses an ability to deal [rolled damage](../../../rule/damage/rolled-damage.md) to a creature while hidden.
 
-**Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../../../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
+**Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../../../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's [power roll](../../../rule/dice/power-roll.md) automatically obtains a tier 3 outcome.
 
 ### Panic in Their Lines {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines"}
 
@@ -34,7 +34,7 @@ Choose one of the following abilities.
 |-----------------------------------|---------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 6 + M damage; slide 1
 - **12-16:** 9 + M damage; slide 3
@@ -66,9 +66,9 @@ Choose one of the following abilities.
 
 | **Area**       |                          **Maneuver** |
 |----------------|--------------------------------------:|
-| **📏 2 burst** | **🎯 Self and each ally in the area** |
+| **📏 2 [burst](../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** You mark two enemies within 10 squares of you. Each target can [shift](../../../movement/shifting.md) up to their speed. You and each target gain 2 [surges](../../../rule/resource/surge.md).
+**Effect:** You mark two enemies within 10 squares of you. Each target can [shift](../../../movement/shifting.md) up to their [speed](../../../rule/character/speed.md). You and each target gain 2 [surges](../../../rule/resource/surge.md).
 
 ## 6th-Level Vanguard Abilities
 
@@ -77,7 +77,7 @@ Choose one of the following abilities.
 ### Instant Retaliation {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation"}
 
 
-*You [parry](../../ability/tactician/level-1/parry.md) with almost supernatural speed.*
+*You [parry](../../ability/tactician/level-1/parry.md) with almost supernatural [speed](../../../rule/character/speed.md).*
 
 | **Melee, Weapon** | **Free triggered** |
 | ------------------------------------|-------------------:|
@@ -85,9 +85,9 @@ Choose one of the following abilities.
 
 **Trigger:** A creature deals damage to the target.
 
-**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.
+**Effect:** The target takes half the damage. You then make a [power roll](../../../rule/dice/power-roll.md) against the triggering creature.
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** A < WEAK, [dazed](../../../condition/dazed.md) (save ends)
 - **12-16:** A < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
@@ -102,10 +102,10 @@ Choose one of the following abilities.
 |-----------------------------------|--------------------:|
 | **📏 Melee 1**                    | **🎯 One creature** |
 
-**Power Roll + [Might](../../../rule/character/might.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can use a melee [strike](../../../rule/combat/strike.md) signature ability instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
-- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can use a melee [strike](../../../rule/combat/strike.md) signature ability that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
-- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free triggered action, and can each use a melee [strike](../../../rule/combat/strike.md) signature ability that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can use a melee [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can use a melee [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
+- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../common/main-actions/charge.md) main action as a free [triggered action](../../../rule/combat/triggered-action.md), and can each use a melee [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) that gains an [edge](../../../rule/dice/edge.md) instead of a [free strike](../../common/main-actions/free-strike.md) for the charge
 
 **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../condition/dazed.md) (save ends). If the target is reduced to 0 [Stamina](../../../rule/health/stamina.md) before one or both allies has made their [strike](../../../rule/combat/strike.md), the ally or allies can pick a different target.

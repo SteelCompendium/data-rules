@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
+effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 file_basename: weakening-brand
 file_dpath: feature/ability/warrior-priest
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
+    - effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 feature_type: ability
 flavor: The impact of your weapon brands your target for destruction.
 keywords:
@@ -36,7 +36,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: Melee 1
-    effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's power roll.
+    effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
     flavor: The impact of your weapon brands your target for destruction.
     keywords:
         - Magic

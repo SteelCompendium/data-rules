@@ -1,11 +1,11 @@
 ---
-action_type: Free maneuver
+action_type: '[Free maneuver](../../../../rule/combat/free-maneuver.md)'
 class: fury
 cost: 5 Ferocity
 cost_amount: "5"
 cost_resource: Ferocity
 distance: Self
-effect: You gain 1 [surge](../../../../rule/resource/surge.md), and the next ability roll you make this turn automatically obtains a tier 3 outcome.
+effect: You gain 1 [surge](../../../../rule/resource/surge.md), and the next [ability roll](../../../../rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
 feature_type: ability
 file_basename: make-peace-with-your-god
 file_dpath: feature/ability/fury/level-1
@@ -26,17 +26,17 @@ type: ability
 cost: 5 Ferocity
 distance: Self
 effects:
-    - effect: You gain 1 [surge](../../../../rule/resource/surge.md), and the next ability roll you make this turn automatically obtains a tier 3 outcome.
+    - effect: You gain 1 [surge](../../../../rule/resource/surge.md), and the next [ability roll](../../../../rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
 feature_type: ability
 flavor: Anger is your energy.
 keywords:
     - '-'
 metadata:
-    action_type: Free maneuver
+    action_type: '[Free maneuver](../../../../rule/combat/free-maneuver.md)'
     class: fury
     cost: 5 Ferocity
     distance: Self
-    effect: You gain 1 [surge](../../../../rule/resource/surge.md), and the next ability roll you make this turn automatically obtains a tier 3 outcome.
+    effect: You gain 1 [surge](../../../../rule/resource/surge.md), and the next [ability roll](../../../../rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
     flavor: Anger is your energy.
     keywords:
         - '-'
@@ -48,5 +48,5 @@ metadata:
 name: Make Peace With Your God!
 target: Self
 type: feature
-usage: Free maneuver
+usage: '[Free maneuver](../../../../rule/combat/free-maneuver.md)'
 ```

@@ -4,7 +4,7 @@ class: "null"
 cost: 11 Discipline
 cost_amount: "11"
 cost_resource: Discipline
-distance: 3 cube within 1
+distance: 3 [cube](../../../../rule/combat/cube.md) within 1
 feature_type: ability
 file_basename: scalar-assault
 file_dpath: feature/ability/null/level-8
@@ -24,9 +24,9 @@ type: ability
 
 ```ds-feature
 cost: 11 Discipline
-distance: 3 cube within 1
+distance: 3 [cube](../../../../rule/combat/cube.md) within 1
 effects:
-    - effect: "\n*You warp reality to grow a limb for just a moment and make a single devastating attack.*\n\n| **Area, Psionic**      |               **Main action** |\n|------------------------|------------------------------:|\n| **\U0001F4CF 3 cube within 1** | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 12 psychic damage; push 3\n- **12-16:** 17 psychic damage; push 5\n- **17+:** 23 psychic damage; push 7"
+    - effect: "\n*You warp reality to grow a limb for just a moment and make a single devastating attack.*\n\n| **Area, Psionic**      |               **Main action** |\n|------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](../../../../rule/combat/cube.md) within 1** | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 12 psychic damage; push 3\n- **12-16:** 17 psychic damage; push 5\n- **17+:** 23 psychic damage; push 7"
 feature_type: ability
 flavor: You warp reality to grow a limb for just a moment and make a single devastating attack.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     action_type: Main action
     class: "null"
     cost: 11 Discipline
-    distance: 3 cube within 1
+    distance: 3 [cube](../../../../rule/combat/cube.md) within 1
     flavor: You warp reality to grow a limb for just a moment and make a single devastating attack.
     keywords:
         - Area

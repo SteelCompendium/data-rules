@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 ancestry: dragon-knight
-distance: 3 cube within 1
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 1
 effect: You choose the ability's [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) from acid, cold, corruption, fire, lightning, or poison.
 feature_type: ability
 file_basename: dragon-breath
@@ -21,7 +21,7 @@ type: ability
 ---
 
 ```ds-feature
-distance: 3 cube within 1
+distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 1
 effects:
     - effect: You choose the ability's [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) from acid, cold, corruption, fire, lightning, or poison.
 feature_type: ability
@@ -32,7 +32,7 @@ keywords:
 metadata:
     action_type: Main action
     ancestry: dragon-knight
-    distance: 3 cube within 1
+    distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 1
     effect: You choose the ability's [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) from acid, cold, corruption, fire, lightning, or poison.
     flavor: A furious exhalation of energy washes over your foes.
     keywords:

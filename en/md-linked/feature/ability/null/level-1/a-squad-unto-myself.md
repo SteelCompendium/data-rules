@@ -2,8 +2,8 @@
 action_type: Main action
 class: "null"
 cost: 5 Discipline
-distance: 2 burst
-effect: You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
+distance: 2 [burst](../../../../rule/combat/burst.md)
+effect: You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a [free maneuver](../../../../rule/combat/free-maneuver.md) before or after you use this ability.
 flavor: You move so quickly, it seems as though an army assaulted your foes.
 keywords:
     - Area
@@ -21,12 +21,12 @@ type: ability
 
 | **Area, Psionic, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 2 burst**            | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../../rule/combat/burst.md)**            | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 6 damage
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Effect:** You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
+**Effect:** You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a [free maneuver](../../../../rule/combat/free-maneuver.md) before or after you use this ability.

@@ -12,7 +12,7 @@ type: ancestry
 
 The native denizens of Axiom, the Plane of Uttermost Law, [memonek](memonek.md) dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
-The minds of [memonek](memonek.md) are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
+The minds of [memonek](memonek.md) are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like [Orden](../rule/world/orden.md) where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
 
 ### On Memonek
 
@@ -92,7 +92,7 @@ Count Revile hefted the starcore. "I have responsibilities to keep. I will retur
 
 John offered his hand. Revile shook it and then held it.
 
-"If there are many like you in this world of gods and sorcery," the noble [memonek](memonek.md) star captain said, "then your victory over evil is assured."
+"If there are many like you in this world of gods and sorcery," the noble [memonek](memonek.md) star captain said, "then your [victory](../rule/resource/victories.md) over evil is assured."
 
 "I don't know about many," John said, extricating his hand. He looked at the [dwarf](dwarf.md), elf, and [hakaan](hakaan.md).
 

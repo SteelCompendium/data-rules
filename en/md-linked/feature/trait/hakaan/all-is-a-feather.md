@@ -5,4 +5,4 @@ scc: mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather
 type: trait
 ---
 
-You are exceptionally strong. You gain an [edge](../../../rule/dice/edge.md) on tests made to lift and haul heavy objects.
+You are exceptionally strong. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to lift and haul heavy objects.

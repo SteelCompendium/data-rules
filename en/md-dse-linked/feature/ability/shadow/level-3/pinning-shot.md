@@ -27,7 +27,7 @@ type: ability
 cost: 7 Insight
 distance: Ranged 5
 effects:
-    - effect: "\n*One missile—placed well and placed hard.*\n\n| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**Power Roll + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)"
+    - effect: "\n*One missile—placed well and placed hard.*\n\n| **Ranged, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)"
 feature_type: ability
 flavor: One missile—placed well and placed hard.
 keywords:

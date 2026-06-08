@@ -3,7 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "effect": "Until the start of your next turn, enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on ability rolls made against you or any ally adjacent to you.",
+      "effect": "Until the start of your next turn, enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally adjacent to you.",
       "name": "Effect"
     }
   ],
@@ -17,7 +17,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Melee 1**             | **🎯 One creature or object** |\n\n**Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 3 + M holy damage\n- **12-16:** 6 + M holy damage\n- **17+:** 9 + M holy damage\n\n**Effect:** Until the start of your next turn, enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on ability rolls made against you or any ally adjacent to you.",
+    "content": "\n*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*\n\n| **Melee, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Melee 1**             | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 3 + M holy damage\n- **12-16:** 6 + M holy damage\n- **17+:** 9 + M holy damage\n\n**Effect:** Until the start of your next turn, enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally adjacent to you.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.",

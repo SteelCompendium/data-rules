@@ -28,7 +28,7 @@ type: ability
 
 **Trigger:** The target moves or uses a main action.
 
-**Power Roll + [Agility](../../../../rule/character/agility.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 7 + A damage; I < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
 - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)

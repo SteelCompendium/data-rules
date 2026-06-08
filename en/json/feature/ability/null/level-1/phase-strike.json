@@ -3,7 +3,7 @@
   "distance": "Melee 1",
   "effects": [
     {
-      "effect": "A target who goes out of phase is [slowed](scc:mcdm.heroes.v1/condition/slowed), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.",
+      "effect": "A target who goes out of phase is [slowed](scc:mcdm.heroes.v1/condition/slowed), has their [stability](scc:mcdm.heroes.v1/rule.character/stability) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll).",
       "name": "Effect"
     }
   ],
@@ -18,7 +18,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*For a moment, your foe slips out of phase with this manifold.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                           **Main action** |\n|------------------------------------|------------------------------------------:|\n| **📏 Melee 1**                     |                       **🎯 One creature** |\n\n**Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + A psychic damage; I \u003c WEAK, the target goes out of phase (save ends)\n- **12-16:** 4 + A psychic damage; I \u003c AVERAGE, the target goes out of phase (save ends)\n- **17+:** 6 + A psychic damage; I \u003c STRONG, the target goes out of phase (save ends)\n\n**Effect:** A target who goes out of phase is [slowed](scc:mcdm.heroes.v1/condition/slowed), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.",
+    "content": "\n*For a moment, your foe slips out of phase with this manifold.*\n\n| **Melee, Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                           **Main action** |\n|------------------------------------|------------------------------------------:|\n| **📏 Melee 1**                     |                       **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + A psychic damage; I \u003c WEAK, the target goes out of phase (save ends)\n- **12-16:** 4 + A psychic damage; I \u003c AVERAGE, the target goes out of phase (save ends)\n- **17+:** 6 + A psychic damage; I \u003c STRONG, the target goes out of phase (save ends)\n\n**Effect:** A target who goes out of phase is [slowed](scc:mcdm.heroes.v1/condition/slowed), has their [stability](scc:mcdm.heroes.v1/rule.character/stability) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll).",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "For a moment, your foe slips out of phase with this manifold.",

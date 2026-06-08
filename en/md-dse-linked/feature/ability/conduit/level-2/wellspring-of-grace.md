@@ -4,7 +4,7 @@ class: conduit
 cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
-distance: 3 aura
+distance: 3 [aura](../../../../rule/combat/aura.md)
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target starts their turn in the area, they can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: wellspring-of-grace
@@ -25,7 +25,7 @@ type: ability
 
 ```ds-feature
 cost: 5 Piety
-distance: 3 aura
+distance: 3 [aura](../../../../rule/combat/aura.md)
 effects:
     - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target starts their turn in the area, they can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
@@ -37,7 +37,7 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 5 Piety
-    distance: 3 aura
+    distance: 3 [aura](../../../../rule/combat/aura.md)
     effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target starts their turn in the area, they can spend a [Recovery](../../../../rule/health/recoveries.md).
     flavor: A holy light is emitted from your body, healing your allies.
     keywords:

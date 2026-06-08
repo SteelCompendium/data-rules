@@ -10,7 +10,7 @@ You rely on a unique blend of martial techniques and psionic prowess to take dow
 
 ## Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../ability/null/level-1/faster-than-the-eye.md), [Inertial Step](../../ability/null/level-1/inertial-step.md).)
+Choose two [signature abilities](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Faster Than the Eye](../../ability/null/level-1/faster-than-the-eye.md), [Inertial Step](../../ability/null/level-1/inertial-step.md).)
 
 ### Dance of Blows {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/dance-of-blows"}
 
@@ -19,9 +19,9 @@ Choose two signature abilities from the following options. Signature abilities c
 
 | **Area, Psionic, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 1 burst**            | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../../../rule/combat/burst.md)**            | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 4 damage
@@ -38,7 +38,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------|--------------------------------:|
 | **📏 Melee 1**                     | **🎯 Two creatures or objects** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 5 damage
@@ -55,13 +55,13 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 5 + A damage
 - **12-16:** 7 + A damage
 - **17+:** 10 + A damage
 
-**Effect:** You can [shift](../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../rule/combat/strike.md).
+**Effect:** You can [shift](../../../movement/shifting.md) up to half your [speed](../../../rule/character/speed.md) before or after you make this [strike](../../../rule/combat/strike.md).
 
 ### Joint Lock {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/joint-lock"}
 
@@ -72,7 +72,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../condition/grabbed.md)
 - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../condition/grabbed.md)
@@ -87,11 +87,11 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 4 + A damage; [taunted](../../../condition/taunted.md) (EoT)
-- **12-16:** 5 + A damage; [taunted](../../../condition/taunted.md) (EoT), slide 1
-- **17+:** 6 + A damage; [taunted](../../../condition/taunted.md) (EoT), slide 2
+- **≤11:** 4 + A damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md))
+- **12-16:** 5 + A damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md)), slide 1
+- **17+:** 6 + A damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md)), slide 2
 
 ### Magnetic Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/magnetic-strike"}
 
@@ -102,7 +102,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------|--------------------:|
 | **📏 Melee 2**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 5 + A psychic damage; vertical pull 1
 - **12-16:** 8 + A psychic damage; vertical pull 2
@@ -117,7 +117,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; push 2
 - **12-16:** 6 + A damage; push 4
@@ -134,7 +134,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; A < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
@@ -142,11 +142,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ## Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your discipline.
+You have mastered a range of [heroic abilities](../../../rule/general/heroic-ability.md), all of them channeled through your discipline.
 
 ### 3-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](../../ability/null/level-1/chronal-spike.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](../../ability/null/level-1/chronal-spike.md).)
 
 ### Chronal Spike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/chronal-spike"}
 
@@ -157,13 +157,13 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 7 + A damage
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can [shift](../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+**Effect:** You can [shift](../../../movement/shifting.md) up to half your [speed](../../../rule/character/speed.md) before or after you make this [strike](../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../common/main-actions/free-strike.md) or use a [signature ability](../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual.
 
 ### Psychic Pulse {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/psychic-pulse"}
 
@@ -172,7 +172,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 | **Area, Psionic** |                  **Maneuver** |
 |-------------------|------------------------------:|
-| **📏 2 burst**    | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../rule/combat/burst.md)**    | **🎯 Each enemy in the area** |
 
 **Effect:** Each target takes psychic damage equal to twice your [Intuition](../../../rule/character/intuition.md) score. Until the start of your next turn, the size of your [Null Field](null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](null-field.md) ability takes psychic damage equal to your [Intuition](../../../rule/character/intuition.md) score.
 
@@ -185,13 +185,13 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 + A damage
 - **12-16:** 8 + A damage
 - **17+:** 12 + A damage
 
-**Effect:** Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../movement/forced-movement.md), you can use a free triggered action to [shift](../../../movement/shifting.md) up to your speed. You must end this [shift](../../../movement/shifting.md) adjacent to the target.
+**Effect:** Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../movement/forced-movement.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md). You must end this [shift](../../../movement/shifting.md) adjacent to the target.
 
 ### Stunning Blow {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow"}
 
@@ -202,7 +202,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; I < WEAK, [dazed](../../../condition/dazed.md) and [slowed](../../../condition/slowed.md) (save ends)
 - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../condition/dazed.md) and [slowed](../../../condition/slowed.md) (save ends)
@@ -210,7 +210,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 ### 5-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](../../ability/null/level-1/a-squad-unto-myself.md).)
+Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](../../ability/null/level-1/a-squad-unto-myself.md).)
 
 ### Arcane Disruptor {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/arcane-disruptor"}
 
@@ -221,7 +221,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../../../condition/weakened.md) (save ends)
 - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../condition/weakened.md) (save ends)
@@ -238,7 +238,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Intuition](../../../rule/character/intuition.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
 - **≤11:** Push 3
 - **12-16:** Push 5
@@ -255,13 +255,13 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 |------------------------------------|------------------------------------------:|
 | **📏 Melee 1**                     |                       **🎯 One creature** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 3 + A psychic damage; I < WEAK, the target goes out of phase (save ends)
 - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 
-**Effect:** A target who goes out of phase is [slowed](../../../condition/slowed.md), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+**Effect:** A target who goes out of phase is [slowed](../../../condition/slowed.md), has their [stability](../../../rule/character/stability.md) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](../../../rule/dice/ability-roll.md).
 
 ### A Squad Unto Myself {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/a-squad-unto-myself"}
 
@@ -270,12 +270,12 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 | **Area, Psionic, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 2 burst**            | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../../../rule/combat/burst.md)**            | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../../../rule/character/agility.md):**
+**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 6 damage
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Effect:** You can take the [Disengage](../../common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
+**Effect:** You can take the [Disengage](../../common/move-actions/disengage.md) move action as a [free maneuver](../../../rule/combat/free-maneuver.md) before or after you use this ability.

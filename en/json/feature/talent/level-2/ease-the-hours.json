@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit."
+      "effect": "You can increase the number of rounds in a [montage test](scc:mcdm.heroes.v1/rule.test/montage-test) by 1 if the [test](scc:mcdm.heroes.v1/rule.test/test) would end before the heroes hit the success limit."
     }
   ],
   "feature_type": "feature",

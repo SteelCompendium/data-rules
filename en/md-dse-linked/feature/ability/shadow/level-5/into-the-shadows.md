@@ -5,7 +5,7 @@ cost: 9 Insight
 cost_amount: "9"
 cost_resource: Insight
 distance: Melee 1
-effect: You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
+effect: You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../../rule/dice/power-roll.md) upon your return.
 feature_type: ability
 file_basename: into-the-shadows
 file_dpath: feature/ability/shadow/level-5
@@ -29,7 +29,7 @@ type: ability
 cost: 9 Insight
 distance: Melee 1
 effects:
-    - effect: You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
+    - effect: You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../../rule/dice/power-roll.md) upon your return.
 feature_type: ability
 flavor: You sweep your foe off their feet and plunge them into absolute darkness.
 keywords:
@@ -42,7 +42,7 @@ metadata:
     class: shadow
     cost: 9 Insight
     distance: Melee 1
-    effect: You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
+    effect: You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../../rule/dice/power-roll.md) upon your return.
     flavor: You sweep your foe off their feet and plunge them into absolute darkness.
     keywords:
         - Magic

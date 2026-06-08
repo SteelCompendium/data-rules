@@ -1,6 +1,6 @@
 {
   "cost": "9 Piety",
-  "distance": "4 burst",
+  "distance": "4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
       "effect": "Each target is invisible until the start of your next turn.",
@@ -16,8 +16,8 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*\"Now you see us...\"*\n\n| **Area, Magic**  |                          **Maneuver** |\n|------------------|--------------------------------------:|\n| **📏 4 burst**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each target is invisible until the start of your next turn.",
-    "distance": "4 burst",
+    "content": "\n*\"Now you see us...\"*\n\n| **Area, Magic**  |                          **Maneuver** |\n|------------------|--------------------------------------:|\n| **📏 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each target is invisible until the start of your next turn.",
+    "distance": "4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "\"Now you see us...\"",
     "item_id": "invocation-of-mystery",

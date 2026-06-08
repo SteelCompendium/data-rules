@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your elf body and mind can't be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+    - effect: Your elf body and mind can't be contained for long. Whenever you make a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw), you succeed on a roll of 5 or higher.
 feature_type: trait
 metadata:
     ancestry: wode-elf

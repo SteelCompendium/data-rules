@@ -1,5 +1,4 @@
 ---
-average_potency: '[Reason](../rule/character/reason.md) − 1'
 file_basename: tactician
 file_dpath: class
 item_id: tactician
@@ -9,12 +8,10 @@ scc: mcdm.heroes.v1/class/tactician
 skills:
     - 'You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
 source: mcdm.heroes.v1
-strong_potency: '[Reason](../rule/character/reason.md)'
 type: class
-weak_potency: '[Reason](../rule/character/reason.md) − 2'
 ---
 
-Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
+Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the [followers](../rule/general/follower.md) of evil to best you if they can.
 
 **As a [tactician](tactician.md), you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
@@ -30,11 +27,11 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** [Reason](../rule/character/reason.md) − 2
+**Weak [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md) − 2
 
-**Average Potency:** [Reason](../rule/character/reason.md) − 1
+**Average [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md) − 1
 
-**Strong Potency:** [Reason](../rule/character/reason.md)
+**Strong [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 

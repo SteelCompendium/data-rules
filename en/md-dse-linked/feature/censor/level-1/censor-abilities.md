@@ -20,19 +20,19 @@ effects:
 
         ##### Signature Ability
 
-        Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../ability/censor/level-1/your-allies-cannot-save-you.md)!)
+        Choose one [signature ability](../../../rule/combat/signature-ability.md) from the following options. [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../ability/censor/level-1/your-allies-cannot-save-you.md)!)
 
         ##### Heroic Abilities
 
-        You call upon a number of heroic abilities, all of them bound to your wrath.
+        You call upon a number of [heroic abilities](../../../rule/general/heroic-ability.md), all of them bound to your wrath.
 
         ###### 3-Wrath Ability
 
-        Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../../ability/censor/level-1/the-gods-punish-and-defend.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../../ability/censor/level-1/the-gods-punish-and-defend.md).)
 
         ###### 5-Wrath Ability
 
-        Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../../ability/censor/level-1/purifying-fire.md).)
+        Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../../ability/censor/level-1/purifying-fire.md).)
 feature_type: feature
 metadata:
     class: censor

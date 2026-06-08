@@ -22,7 +22,7 @@ type: ability
 |--------------------------------------------|--------------------:|
 | **📏 Ranged 10**                           | **🎯 One creature** |
 
-**Power Roll + [Reason](../../../../rule/character/reason.md):**
+**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 2 + R psychic damage
 - **12-16:** 4 + R psychic damage
