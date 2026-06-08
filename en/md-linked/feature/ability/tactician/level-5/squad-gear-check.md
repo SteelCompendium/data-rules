@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 9 Focus
 distance: Melee 1
-effect: You and each ally adjacent to the target gain 10 temporary Stamina.
+effect: You and each ally adjacent to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 flavor: You distract a foe while your allies secure their defensive gear.
 keywords:
     - Melee
@@ -33,4 +33,4 @@ type: ability
 - **12-16:** 13 + M damage
 - **17+:** 18 + M damage
 
-**Effect:** You and each ally adjacent to the target gain 10 temporary Stamina.
+**Effect:** You and each ally adjacent to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).

@@ -1,7 +1,7 @@
 cost: 5 Drama
 distance: Special
 effects:
-    - effect: You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a Heroic Resource, and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
+    - effect: You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource), and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
       name: Effect
 feature_type: ability
 flavor: Again! Again!
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Main action
     class: troubadour
-    content: "\n*Again! Again!*\n\n| **Magic, Strike** | **Main action** |\n|-------------------|----------------:|\n| **\U0001F4CF Special**    |  **\U0001F3AF Special** |\n\n**Effect:** You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a Heroic Resource, and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage."
+    content: "\n*Again! Again!*\n\n| **Magic, Strike** | **Main action** |\n|-------------------|----------------:|\n| **\U0001F4CF Special**    |  **\U0001F3AF Special** |\n\n**Effect:** You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource), and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage."
     distance: Special
     feature_type: ability
     flavor: Again! Again!

@@ -5,7 +5,7 @@ cost: 9 Wrath
 cost_amount: "9"
 cost_resource: Wrath
 distance: Melee 1
-effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.
+effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 [surges](../../../../rule/resource/surge.md) before making the strike.
 feature_type: ability
 file_basename: congregation
 file_dpath: feature/ability/censor/level-6
@@ -32,7 +32,7 @@ type: ability
 cost: 9 Wrath
 distance: Melee 1
 effects:
-    - effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.
+    - effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 [surges](../../../../rule/resource/surge.md) before making the strike.
     - roll: Power Roll + Might
       tier1: 8 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability against the target
       tier2: 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target
@@ -48,7 +48,7 @@ metadata:
     class: censor
     cost: 9 Wrath
     distance: Melee 1
-    effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.
+    effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 [surges](../../../../rule/resource/surge.md) before making the strike.
     flavor: You focus your allies' wrath on a chosen foe.
     keywords:
         - Melee

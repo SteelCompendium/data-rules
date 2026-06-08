@@ -4,12 +4,12 @@
   "effects": [
     {
       "roll": "Power Roll + Intuition",
-      "tier1": "You gain 10 temporary Stamina.",
-      "tier2": "You gain 15 temporary Stamina.",
-      "tier3": "You gain 20 temporary Stamina."
+      "tier1": "You gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
+      "tier2": "You gain 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
+      "tier3": "You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)."
     },
     {
-      "effect": "While you have temporary Stamina from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while dying.",
+      "effect": "While you have [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while [dying](scc:mcdm.heroes.v1/rule.health/dying).",
       "name": "Effect"
     }
   ],
@@ -21,7 +21,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "null",
-    "content": "\n*You manifest a force barrier that absorbs incoming kinetic energy.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** You gain 10 temporary Stamina.\n- **12-16:** You gain 15 temporary Stamina.\n- **17+:** You gain 20 temporary Stamina.\n\n**Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while dying.",
+    "content": "\n*You manifest a force barrier that absorbs incoming kinetic energy.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** You gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **12-16:** You gain 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n- **17+:** You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).\n\n**Effect:** While you have [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while [dying](scc:mcdm.heroes.v1/rule.health/dying).",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "You manifest a force barrier that absorbs incoming kinetic energy.",

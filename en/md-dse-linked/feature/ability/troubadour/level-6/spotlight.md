@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 aura
-effect: While this performance is active, each target who starts their turn in the area gains 1 of their Heroic Resource. This Heroic Resource disappears at the end of the target's turn if they don't spend it.
+effect: While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
 feature_type: ability
 file_basename: spotlight
 file_dpath: feature/ability/troubadour/level-6
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: 5 aura
 effects:
-    - effect: While this performance is active, each target who starts their turn in the area gains 1 of their Heroic Resource. This Heroic Resource disappears at the end of the target's turn if they don't spend it.
+    - effect: While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
 feature_type: ability
 flavor: The audience is watching, so you'd better give them a show.
 keywords:
@@ -35,7 +35,7 @@ metadata:
     action_type: No action
     class: troubadour
     distance: 5 aura
-    effect: While this performance is active, each target who starts their turn in the area gains 1 of their Heroic Resource. This Heroic Resource disappears at the end of the target's turn if they don't spend it.
+    effect: While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
     flavor: The audience is watching, so you'd better give them a show.
     keywords:
         - Area

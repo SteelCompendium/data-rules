@@ -5,7 +5,7 @@ cost: 5 Wrath
 cost_amount: "5"
 cost_resource: Wrath
 distance: Ranged 10
-effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
+effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 feature_type: ability
 file_basename: with-my-blessing
 file_dpath: feature/ability/censor/level-2
@@ -27,7 +27,7 @@ type: ability
 cost: 5 Wrath
 distance: Ranged 10
 effects:
-    - effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
+    - effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 feature_type: ability
 flavor: A word in prayer, and the gods show the way.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: censor
     cost: 5 Wrath
     distance: Ranged 10
-    effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
+    effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
     flavor: A word in prayer, and the gods show the way.
     keywords:
         - Magic

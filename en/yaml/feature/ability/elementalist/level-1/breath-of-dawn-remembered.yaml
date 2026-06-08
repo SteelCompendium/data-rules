@@ -1,10 +1,10 @@
 ability_type: Triggered
 distance: Ranged 10
 effects:
-    - effect: The target can spend a Recovery.
+    - effect: The target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
     - cost: Spend 1+ Essence
-      effect: The target can spend an additional Recovery for each essence spent.
+      effect: The target can spend an additional [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) for each essence spent.
 feature_type: ability
 flavor: The power you channel grants the ability to get back in the fight.
 keywords:
@@ -15,7 +15,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: elementalist
-    content: "\n*The power you channel grants the ability to get back in the fight.*\n\n| **Green, Magic, Ranged**          |           **Triggered** |\n|-----------------------------------|------------------------:|\n| **\U0001F4CF Ranged 10**                  | **\U0001F3AF Self or one ally** |\n\n**Trigger:** The target starts their turn or takes damage.\n\n**Effect:** The target can spend a Recovery.\n\n**Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent."
+    content: "\n*The power you channel grants the ability to get back in the fight.*\n\n| **Green, Magic, Ranged**          |           **Triggered** |\n|-----------------------------------|------------------------:|\n| **\U0001F4CF Ranged 10**                  | **\U0001F3AF Self or one ally** |\n\n**Trigger:** The target starts their turn or takes damage.\n\n**Effect:** The target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).\n\n**Spend 1+ Essence:** The target can spend an additional [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) for each essence spent."
     distance: Ranged 10
     feature_type: ability
     flavor: The power you channel grants the ability to get back in the fight.

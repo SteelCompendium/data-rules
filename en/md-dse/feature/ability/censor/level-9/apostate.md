@@ -5,7 +5,7 @@ cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
 distance: Melee 1
-effect: Until the end of the encounter or until you are dying, the target has damage weakness 10.
+effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the target has damage weakness 10.
 feature_type: ability
 file_basename: apostate
 file_dpath: feature/ability/censor/level-9
@@ -32,7 +32,7 @@ type: ability
 cost: 11 Wrath
 distance: Melee 1
 effects:
-    - effect: Until the end of the encounter or until you are dying, the target has damage weakness 10.
+    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the target has damage weakness 10.
     - roll: Power Roll + Might
       tier1: 13 + M holy damage
       tier2: 19 + M holy damage
@@ -48,7 +48,7 @@ metadata:
     class: censor
     cost: 11 Wrath
     distance: Melee 1
-    effect: Until the end of the encounter or until you are dying, the target has damage weakness 10.
+    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the target has damage weakness 10.
     flavor: You channel holy energy to seal an enemy's fate.
     keywords:
         - Melee

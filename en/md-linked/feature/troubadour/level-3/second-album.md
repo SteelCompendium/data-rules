@@ -1,0 +1,31 @@
+---
+class: troubadour
+level: "3"
+name: Second Album
+scc: mcdm.heroes.v1/feature.troubadour.level-3/second-album
+type: feature
+---
+
+You have the following performance abilities, which are usable with your [Routines](../level-1/routines.md) feature.
+
+## "Fire Up the Night" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/fire-up-the-night"}
+
+
+*Maybe you and I ♪ We can still bring the light!♪*
+
+| **Area, Magic, Performance** |                         **No action** |
+|------------------------------|--------------------------------------:|
+| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+
+**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with [concealment](../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../chapter/tests.md)).
+
+## "Never-Ending Hero" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero"}
+
+
+*And toniiight we can truly say ♪ They will alllways find a way!♪*
+
+| **Area, Magic, Performance** |                         **No action** |
+|------------------------------|--------------------------------------:|
+| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+
+**Effect:** While this performance is active, each target who starts their turn [dying](../../../rule/health/dying.md) while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../condition/bleeding.md) until the end of their turn.

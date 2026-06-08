@@ -88,20 +88,20 @@ The game takes place in a series of scenes with the heroes as the main character
 
 This game is built so that each adventure you play and each battle you fight gets more exciting as it goes on. In fantastic tales, the heroes and their foes both grow in power over the course of an adventure. But it isn't time alone that grows a hero's capabilities. Rather, it's the adrenaline that comes from battle, the danger of the hero's profession, and the pressure to save the world—or at least some small part of it that pushes a character to do the impossible. Each small act of heroism gives a hero the confidence and bravery to perform legendary feats against all odds.
 
-The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: Victories, Experience, Heroic Resources, and Recoveries.
+The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: Victories, Experience, [Heroic Resources](../rule/resource/heroic-resource.md), and [Recoveries](../rule/health/recoveries.md).
 
 #### Recoveries
 
-Recoveries represent the number of times your hero can take a breather and keep fighting. Spending Recoveries lets you regain Stamina—the measure of any creature's physical vitality and capacity to shrug off or avoid damage (see Stamina in [Combat](combat.md)). Running out of Recoveries means your hero has reached their uttermost limit.
+[Recoveries](../rule/health/recoveries.md) represent the number of times your hero can take a breather and keep fighting. Spending [Recoveries](../rule/health/recoveries.md) lets you regain [Stamina](../rule/health/stamina.md)—the measure of any creature's physical vitality and capacity to shrug off or avoid damage (see [Stamina](../rule/health/stamina.md) in [Combat](combat.md)). Running out of [Recoveries](../rule/health/recoveries.md) means your hero has reached their uttermost limit.
 
-When you spend a Recovery, you regain Stamina equal to your **recovery value**, which is one-third your Stamina maximum. You can spend your Recoveries with a special maneuver (see below), or you might do so with a little supernatural help from a [conduit](../class/conduit.md), a boost of adrenaline from an allied [tactician](../class/tactician.md), or inspiration from your party's [troubadour](../class/troubadour.md).
+When you spend a [Recovery](../rule/health/recoveries.md), you regain [Stamina](../rule/health/stamina.md) equal to your **[recovery value](../rule/health/recoveries.md)**, which is one-third your [Stamina](../rule/health/stamina.md) maximum. You can spend your [Recoveries](../rule/health/recoveries.md) with a special maneuver (see below), or you might do so with a little supernatural help from a [conduit](../class/conduit.md), a boost of adrenaline from an allied [tactician](../class/tactician.md), or inspiration from your party's [troubadour](../class/troubadour.md).
 
 ##### Spending Recoveries
 
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver to regain Stamina. (See [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) in Maneuvers for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver.
+During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver to regain [Stamina](../rule/health/stamina.md). (See [Catch Breath](../feature/common/maneuvers/catch-breath.md) in Maneuvers for more information.) Some heroes have abilities that allow them or their allies to spend more [Recoveries](../rule/health/recoveries.md) without using the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver.
 
-Outside of combat and other dangerous situations, you can spend Recoveries freely.
+Outside of combat and other dangerous situations, you can spend [Recoveries](../rule/health/recoveries.md) freely.
 
 ##### Regaining Recoveries
 
-You regain all lost Recoveries when you finish a respite (see below).
+You regain all lost [Recoveries](../rule/health/recoveries.md) when you finish a respite (see below).

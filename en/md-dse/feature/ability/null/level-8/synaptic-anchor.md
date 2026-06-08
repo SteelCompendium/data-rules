@@ -20,7 +20,7 @@ scc: mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor
 source: mcdm.heroes.v1
 subtype: triggered
 target: Self or one creature
-trigger: The target takes damage from another creature's ability while in the area of your [Null Field](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-field) ability.
+trigger: The target takes damage from another creature's ability while in the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability.
 type: ability
 ---
 
@@ -47,11 +47,11 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor
     subtype: triggered
     target: Self or one creature
-    trigger: The target takes damage from another creature's ability while in the area of your [Null Field](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-field) ability.
+    trigger: The target takes damage from another creature's ability while in the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability.
     type: ability
 name: Synaptic Anchor
 target: Self or one creature
-trigger: The target takes damage from another creature's ability while in the area of your [Null Field](scc:mcdm.heroes.v1/feature.trait.null.level-1/null-field) ability.
+trigger: The target takes damage from another creature's ability while in the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability.
 type: feature
 usage: Free triggered
 ```

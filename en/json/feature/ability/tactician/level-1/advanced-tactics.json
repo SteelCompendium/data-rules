@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The target gains 2 surges, which they can use on the triggering damage.",
+      "effect": "The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), which they can use on the triggering damage.",
       "name": "Effect"
     },
     {
@@ -20,7 +20,7 @@
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "tactician",
-    "content": "\n*Your leadership aids an ally.*\n\n| **Ranged**       |   **Triggered** |\n|------------------|----------------:|\n| **📏 Ranged 10** | **🎯 One ally** |\n\n**Trigger:** The target deals damage to another creature.\n\n**Effect:** The target gains 2 surges, which they can use on the triggering damage.\n\n**Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.",
+    "content": "\n*Your leadership aids an ally.*\n\n| **Ranged**       |   **Triggered** |\n|------------------|----------------:|\n| **📏 Ranged 10** | **🎯 One ally** |\n\n**Trigger:** The target deals damage to another creature.\n\n**Effect:** The target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), which they can use on the triggering damage.\n\n**Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "Your leadership aids an ally.",

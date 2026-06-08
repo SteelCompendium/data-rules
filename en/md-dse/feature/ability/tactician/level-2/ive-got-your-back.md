@@ -5,7 +5,7 @@ cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
 distance: Ranged 5
-effect: One ally adjacent to the target can spend a Recovery.
+effect: One ally adjacent to the target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: ive-got-your-back
 file_dpath: feature/ability/tactician/level-2
@@ -32,7 +32,7 @@ type: ability
 cost: 5 Focus
 distance: Ranged 5
 effects:
-    - effect: One ally adjacent to the target can spend a Recovery.
+    - effect: One ally adjacent to the target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     - roll: Power Roll + Reason
       tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
       tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
@@ -48,7 +48,7 @@ metadata:
     class: tactician
     cost: 5 Focus
     distance: Ranged 5
-    effect: One ally adjacent to the target can spend a Recovery.
+    effect: One ally adjacent to the target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: Your enemy will think twice about attacking your friend.
     keywords:
         - Ranged

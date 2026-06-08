@@ -37,15 +37,15 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Goal:** 150
 
-**Blood Bargain:** As a maneuver, you can harm yourself with the weapon, taking 1d6 damage that can't be reduced in any way. An ally within 5 squares can then spend a Recovery.
+**Blood Bargain:** As a maneuver, you can harm yourself with the weapon, taking 1d6 damage that can't be reduced in any way. An ally within 5 squares can then spend a [Recovery](../rule/health/recoveries.md).
 
 **Chilling I:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 3 cold damage.
 
-**Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 Stamina or less, they drop to 0 Stamina.
+**Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 [Stamina](../rule/health/stamina.md) or less, they drop to 0 [Stamina](../rule/health/stamina.md).
 
 **Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md) conditions.
 
-**Merciful:** Whenever you reduce a non-undead creature to 0 Stamina using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 Stamina.
+**Merciful:** Whenever you reduce a non-undead creature to 0 [Stamina](../rule/health/stamina.md) using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 [Stamina](../rule/health/stamina.md).
 
 **Terrifying I:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 2 psychic damage.
 
@@ -98,7 +98,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Devastating:** Whenever you make an ability roll using this weapon, the number you need to roll to score a critical hit is reduced by 1.
 >
-> **Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 Stamina or less, they drop to 0 Stamina. This replaces the benefit of Disrupting I.
+> **Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 [Stamina](../rule/health/stamina.md) or less, they drop to 0 [Stamina](../rule/health/stamina.md). This replaces the benefit of Disrupting I.
 >
 > **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
 >
@@ -140,13 +140,13 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Chilling III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 9 cold damage and is [slowed](../condition/slowed.md) (save ends). This replaces the benefit of Chilling II.
 
-**Disrupting III:** Whenever you damage an undead using this weapon and leave that undead with 50 Stamina or less, they immediately drop to 0 Stamina. If you instead leave the undead with 100 Stamina or less, they are [frightened](../condition/frightened.md) (save ends). This replaces the benefit of Disrupting II.
+**Disrupting III:** Whenever you damage an undead using this weapon and leave that undead with 50 [Stamina](../rule/health/stamina.md) or less, they immediately drop to 0 [Stamina](../rule/health/stamina.md). If you instead leave the undead with 100 [Stamina](../rule/health/stamina.md) or less, they are [frightened](../condition/frightened.md) (save ends). This replaces the benefit of Disrupting II.
 
-**Draining:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [weakened](../condition/weakened.md) (save ends). Each time you weaken a creature with this weapon, you gain 1 surge.
+**Draining:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [weakened](../condition/weakened.md) (save ends). Each time you weaken a creature with this weapon, you gain 1 [surge](../rule/resource/surge.md).
 
 **Imprisoning:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [restrained](../condition/restrained.md) (save ends). While [restrained](../condition/restrained.md) in this way, the creature can't use magic or psionic abilities.
 
-**Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are winded, you have the following ability.
+**Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are [winded](../rule/health/winded.md), you have the following ability.
 
 ###### Nova
 

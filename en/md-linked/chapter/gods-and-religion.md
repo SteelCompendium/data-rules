@@ -61,7 +61,7 @@ For instance, the High City of Dalrath, a small barony in northern Aendrim, has 
 
 Because of all these gods and saints, religion in Orden is a very à la carte affair. There are [human](../ancestry/human.md) heroes in the elf pantheon. There are [dwarf](../ancestry/dwarf.md) saints in many [human](../ancestry/human.md) pantheons. Elder or younger, the gods do not care much about their followers' biology. If you devote your life to the teachings of a god and do good works in their name, you can expect to be rewarded regardless of your ancestry. And, though the Age of Saints is long past, most folk believe it is still possible for a mortal to ascend to sainthood or herodom, even in this late age.
 
-Lastly, though rulers across the land instinctively believe the gods are paying more attention to them because they are queens or dukes or the heads of a powerful wizard order or guild... there is no evidence of this. As far as theologists can tell, the gods seem to view every soul as equally worthy. Many of the tales of saints and heroes feature characters of enormous [divine power](../feature/trait/conduit/level-10/divine-power.md) battling over the soul of a normal person with no station or power or inheritance.
+Lastly, though rulers across the land instinctively believe the gods are paying more attention to them because they are queens or dukes or the heads of a powerful wizard order or guild... there is no evidence of this. As far as theologists can tell, the gods seem to view every soul as equally worthy. Many of the tales of saints and heroes feature characters of enormous [divine power](../feature/conduit/level-10/divine-power.md) battling over the soul of a normal person with no station or power or inheritance.
 
 As much as it annoys the great and the good, the gods view all mortals as equals.
 
@@ -353,7 +353,7 @@ Grole is the orcish hero of those facing impossible decisions. He is favored by 
 
 Khravila Who Ran Forty Leagues, The Eternal Runner, Khravila The Unstoppable.
 
-On the eve of a war between elves and [humans](../ancestry/human.md) that would certainly result in the death of many [orcs](../ancestry/orc.md) caught between the two great powers, Khravila's dying father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain—his son or daughter.
+On the eve of a war between elves and [humans](../ancestry/human.md) that would certainly result in the death of many [orcs](../ancestry/orc.md) caught between the two great powers, Khravila's [dying](../rule/health/dying.md) father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain—his son or daughter.
 
 At the moment of his death, when the god-caller rang the bell of souls officially announcing her father's passing to the tribe, Khravila looked at her brother and saw hesitation. Khravila had never known doubt.
 

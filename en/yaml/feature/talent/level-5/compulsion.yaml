@@ -1,0 +1,15 @@
+effects:
+    - effect: Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](scc:mcdm.heroes.v1/feature.talent.level-1/telepathic-speech) feature. The NPC must answer the question truthfully to the best of their ability.
+feature_type: feature
+metadata:
+    action_type: feature
+    class: talent
+    feature_type: feature
+    item_id: compulsion
+    item_name: Compulsion
+    level: 5
+    scc:
+        - mcdm.heroes.v1/feature.talent.level-5/compulsion
+    type: feature/talent/level-5
+name: Compulsion
+type: feature

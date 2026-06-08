@@ -5,7 +5,7 @@ cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
 distance: Ranged 10
-effect: The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+effect: The target can spend any number of [Recoveries](../../../../rule/health/recoveries.md), can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are [dying](../../../../rule/health/dying.md), the target gains 3 [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 file_basename: arise
 file_dpath: feature/ability/conduit/level-8
@@ -27,7 +27,7 @@ type: ability
 cost: 11 Piety
 distance: Ranged 10
 effects:
-    - effect: The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+    - effect: The target can spend any number of [Recoveries](../../../../rule/health/recoveries.md), can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are [dying](../../../../rule/health/dying.md), the target gains 3 [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 flavor: Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 11 Piety
     distance: Ranged 10
-    effect: The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+    effect: The target can spend any number of [Recoveries](../../../../rule/health/recoveries.md), can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are [dying](../../../../rule/health/dying.md), the target gains 3 [surges](../../../../rule/resource/surge.md).
     flavor: Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.
     keywords:
         - Magic

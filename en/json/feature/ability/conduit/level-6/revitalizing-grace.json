@@ -3,7 +3,7 @@
   "distance": "4 burst",
   "effects": [
     {
-      "effect": "Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).",
+      "effect": "Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*With a gesture, you restore your health and that of your allies.*\n\n| **Area, Magic**  |                       **Main action** |\n|------------------|--------------------------------------:|\n| **📏 4 burst**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).",
+    "content": "\n*With a gesture, you restore your health and that of your allies.*\n\n| **Area, Magic**  |                       **Main action** |\n|------------------|--------------------------------------:|\n| **📏 4 burst**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).",
     "distance": "4 burst",
     "feature_type": "ability",
     "flavor": "With a gesture, you restore your health and that of your allies.",

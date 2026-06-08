@@ -3,7 +3,7 @@
   "distance": "3 aura",
   "effects": [
     {
-      "effect": "Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.",
+      "effect": "Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "censor",
-    "content": "\n*The gods reward your faith.*\n\n| **Area, Magic** |                          **Maneuver** |\n|-----------------|--------------------------------------:|\n| **📏 3 aura**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.",
+    "content": "\n*The gods reward your faith.*\n\n| **Area, Magic** |                          **Maneuver** |\n|-----------------|--------------------------------------:|\n| **📏 3 aura**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.",
     "distance": "3 aura",
     "feature_type": "ability",
     "flavor": "The gods reward your faith.",

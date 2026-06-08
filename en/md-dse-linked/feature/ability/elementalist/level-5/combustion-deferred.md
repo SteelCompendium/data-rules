@@ -5,7 +5,7 @@ cost: 9 Essence
 cost_amount: "9"
 cost_resource: Essence
 distance: Ranged 10
-effect: When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
+effect: When the target ends their next turn, or if they drop to 0 [Stamina](../../../../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
 feature_type: ability
 file_basename: combustion-deferred
 file_dpath: feature/ability/elementalist/level-5
@@ -33,7 +33,7 @@ type: ability
 cost: 9 Essence
 distance: Ranged 10
 effects:
-    - effect: When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
+    - effect: When the target ends their next turn, or if they drop to 0 [Stamina](../../../../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
     - roll: Power Roll + Reason
       tier1: 8 + R fire damage
       tier2: 13 + R fire damage
@@ -50,7 +50,7 @@ metadata:
     class: elementalist
     cost: 9 Essence
     distance: Ranged 10
-    effect: When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
+    effect: When the target ends their next turn, or if they drop to 0 [Stamina](../../../../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
     flavor: Your flames dance from kindling to kindling to kindling.
     keywords:
         - Fire

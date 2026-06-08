@@ -5,7 +5,7 @@ cost: 11 Ferocity
 cost_amount: "11"
 cost_resource: Ferocity
 distance: Self
-effect: You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.
+effect: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 [Stamina](../../../../rule/health/stamina.md), you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 feature_type: ability
 file_basename: elemental-ferocity
 file_dpath: feature/ability/fury/level-8
@@ -26,7 +26,7 @@ type: ability
 cost: 11 Ferocity
 distance: Self
 effects:
-    - effect: You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.
+    - effect: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 [Stamina](../../../../rule/health/stamina.md), you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 feature_type: ability
 flavor: Your primordial energy makes for instant retribution.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: fury
     cost: 11 Ferocity
     distance: Self
-    effect: You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.
+    effect: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 [Stamina](../../../../rule/health/stamina.md), you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
     flavor: Your primordial energy makes for instant retribution.
     keywords:
         - Magic

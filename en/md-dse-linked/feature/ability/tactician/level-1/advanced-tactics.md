@@ -2,7 +2,7 @@
 action_type: Triggered
 class: tactician
 distance: Ranged 10
-effect: The target gains 2 surges, which they can use on the triggering damage.
+effect: The target gains 2 [surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.
 feature_type: ability
 file_basename: advanced-tactics
 file_dpath: feature/ability/tactician/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: The target gains 2 surges, which they can use on the triggering damage.
+    - effect: The target gains 2 [surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.
     - effect: '1 Focus: If the damage has any potency effect associated with it, the potency is increased by 1.'
       name: Spend
 feature_type: ability
@@ -36,7 +36,7 @@ metadata:
     action_type: Triggered
     class: tactician
     distance: Ranged 10
-    effect: The target gains 2 surges, which they can use on the triggering damage.
+    effect: The target gains 2 [surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.
     flavor: Your leadership aids an ally.
     keywords:
         - Ranged

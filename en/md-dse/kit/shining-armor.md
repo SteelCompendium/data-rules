@@ -9,7 +9,6 @@ name: Shining Armor
 scc: mcdm.heroes.v1/kit/shining-armor
 source: mcdm.heroes.v1
 stability_bonus: "+1"
-stamina_bonus: +12 per echelon
 type: kit
 ---
 
@@ -21,7 +20,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ##### Kit Bonuses
 
-**Stamina Bonus:** +12 per echelon
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +12 per echelon
 
 **Stability Bonus:** +1
 

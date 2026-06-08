@@ -2,9 +2,9 @@ cost: 3 Focus
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: Each target gains 1 surge.
-      tier2: Each target gains 2 surges.
-      tier3: Each target gains 3 surges.
+      tier1: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+      tier2: Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+      tier3: Each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 flavor: You shout a phrase that galvanizes your team.
 keywords:
@@ -12,7 +12,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: tactician
-    content: "\n*You shout a phrase that galvanizes your team.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**Power Roll + Reason:**\n\n- **≤11:** Each target gains 1 surge.\n- **12-16:** Each target gains 2 surges.\n- **17+:** Each target gains 3 surges."
+    content: "\n*You shout a phrase that galvanizes your team.*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**Power Roll + Reason:**\n\n- **≤11:** Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).\n- **12-16:** Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).\n- **17+:** Each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge)."
     distance: Ranged 10
     feature_type: ability
     flavor: You shout a phrase that galvanizes your team.

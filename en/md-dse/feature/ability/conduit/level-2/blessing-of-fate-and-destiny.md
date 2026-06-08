@@ -5,7 +5,7 @@ cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
 distance: Ranged 10
-effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:'
+effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying):'
 feature_type: ability
 file_basename: blessing-of-fate-and-destiny
 file_dpath: feature/ability/conduit/level-2
@@ -27,7 +27,7 @@ type: ability
 cost: 5 Piety
 distance: Ranged 10
 effects:
-    - effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:'
+    - effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying):'
 feature_type: ability
 flavor: Your enemies suffer their fate; your allies embrace their destiny!
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 5 Piety
     distance: Ranged 10
-    effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:'
+    effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying):'
     flavor: Your enemies suffer their fate; your allies embrace their destiny!
     keywords:
         - Magic

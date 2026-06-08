@@ -189,26 +189,26 @@ Hero tokens are a group resource that is tracked by the players and kept in a po
 
 #### Earning Hero Tokens
 
-At the start of a new game session, the heroes have a number of hero tokens equal to the number of heroes in the party.
+At the start of a new game session, the heroes have a number of [hero tokens](../rule/resource/hero-token.md) equal to the number of heroes in the party.
 
-Heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to reach the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure as part of a negotiation to get shelter for a group of refugees might earn a hero token for the group. The Director has the final say regarding which heroic acts earn hero tokens.
+Heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to reach the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure as part of a negotiation to get shelter for a group of refugees might earn a [hero token](../rule/resource/hero-token.md) for the group. The Director has the final say regarding which heroic acts earn [hero tokens](../rule/resource/hero-token.md).
 
-Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](tests.md)).
+Players can also be awarded [hero tokens](../rule/resource/hero-token.md) as part of a test's outcome when they succeed on the test with a reward (see [Tests](tests.md)).
 
 #### Spending Hero Tokens
 
-Whenever hero tokens are available, you can spend them in the following ways:
+Whenever [hero tokens](../rule/resource/hero-token.md) are available, you can spend them in the following ways:
 
-- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See Surges in [Classes](classes.md).)
-- You can spend a hero token when you fail a saving throw, letting you succeed on the save instead.
-- You can spend a hero token to reroll a test. You must use the new roll.
-- You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your recovery value before taking the damage.
+- You can spend a [hero token](../rule/resource/hero-token.md) to gain 2 [surges](../rule/resource/surge.md), allowing you to increase the damage or potency of an ability. (See [Surges](../rule/resource/surge.md) in [Classes](classes.md).)
+- You can spend a [hero token](../rule/resource/hero-token.md) when you fail a saving throw, letting you succeed on the save instead.
+- You can spend a [hero token](../rule/resource/hero-token.md) to reroll a test. You must use the new roll.
+- You can spend 2 [hero tokens](../rule/resource/hero-token.md) on your turn or when you take damage (no action required) to regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md) before taking the damage.
 
-You can use only one hero token benefit per turn or per test. Unless the Director decides otherwise, unused hero tokens disappear at the end of a session.
+You can use only one [hero token](../rule/resource/hero-token.md) benefit per turn or per test. Unless the Director decides otherwise, unused [hero tokens](../rule/resource/hero-token.md) disappear at the end of a session.
 
-> **Optional Rule: Hero Tokens Don't Reset**
+> **Optional Rule: [Hero Tokens](../rule/resource/hero-token.md) Don't Reset**
 >
-> A Director can decide that hero tokens don't refresh at the start of each session and don't disappear at the end of one. This style of play serves many groups who play short sessions consisting of only 2 or 3 hours of play, since it makes hero tokens less abundant and reliable. To use this option, one of the players must note the number of hero tokens available at the end of each session so everyone remembers how many are available the next time you play. The Director should take particular care to remember to award hero tokens for heroic behavior, since the heroes won't get any automatically.
+> A Director can decide that [hero tokens](../rule/resource/hero-token.md) don't refresh at the start of each session and don't disappear at the end of one. This style of play serves many groups who play short sessions consisting of only 2 or 3 hours of play, since it makes [hero tokens](../rule/resource/hero-token.md) less abundant and reliable. To use this option, one of the players must note the number of [hero tokens](../rule/resource/hero-token.md) available at the end of each session so everyone remembers how many are available the next time you play. The Director should take particular care to remember to award [hero tokens](../rule/resource/hero-token.md) for heroic behavior, since the heroes won't get any automatically.
 
 ### Game of Exceptions
 
@@ -240,7 +240,7 @@ Two types of characters inhabit the world of the game—the player characters (a
 
 > **Bags of Rats Ain't Heroic**
 >
-> Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and Heroic Resources. Those strategies don't work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to "win." In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a hero!
+> Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and [Heroic Resources](../rule/resource/heroic-resource.md). Those strategies don't work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to "win." In order to generate Victories and [Heroic Resources](../rule/resource/heroic-resource.md), you must face and overcome challenges worthy of a hero!
 
 ### Building a Heroic Narrative
 
@@ -248,7 +248,7 @@ The game takes place in a series of scenes with the heroes as the main character
 
 This game is built so that each adventure you play and each battle you fight gets more exciting as it goes on. In fantastic tales, the heroes and their foes both grow in power over the course of an adventure. But it isn't time alone that grows a hero's capabilities. Rather, it's the adrenaline that comes from battle, the danger of the hero's profession, and the pressure to save the world—or at least some small part of it that pushes a character to do the impossible. Each small act of heroism gives a hero the confidence and bravery to perform legendary feats against all odds.
 
-The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: Victories, Experience, Heroic Resources, and Recoveries.
+The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: Victories, Experience, [Heroic Resources](../rule/resource/heroic-resource.md), and [Recoveries](../rule/health/recoveries.md).
 
 #### Victories {data-scc="mcdm.heroes.v1/rule.resource/victories"}
 
@@ -280,25 +280,25 @@ Your hero's class description has more information about how to use your Heroic 
 
 #### Recoveries
 
-Recoveries represent the number of times your hero can take a breather and keep fighting. Spending Recoveries lets you regain Stamina—the measure of any creature's physical vitality and capacity to shrug off or avoid damage (see Stamina in [Combat](combat.md)). Running out of Recoveries means your hero has reached their uttermost limit.
+[Recoveries](../rule/health/recoveries.md) represent the number of times your hero can take a breather and keep fighting. Spending [Recoveries](../rule/health/recoveries.md) lets you regain [Stamina](../rule/health/stamina.md)—the measure of any creature's physical vitality and capacity to shrug off or avoid damage (see [Stamina](../rule/health/stamina.md) in [Combat](combat.md)). Running out of [Recoveries](../rule/health/recoveries.md) means your hero has reached their uttermost limit.
 
-When you spend a Recovery, you regain Stamina equal to your **recovery value**, which is one-third your Stamina maximum. You can spend your Recoveries with a special maneuver (see below), or you might do so with a little supernatural help from a [conduit](../class/conduit.md), a boost of adrenaline from an allied [tactician](../class/tactician.md), or inspiration from your party's [troubadour](../class/troubadour.md).
+When you spend a [Recovery](../rule/health/recoveries.md), you regain [Stamina](../rule/health/stamina.md) equal to your **[recovery value](../rule/health/recoveries.md)**, which is one-third your [Stamina](../rule/health/stamina.md) maximum. You can spend your [Recoveries](../rule/health/recoveries.md) with a special maneuver (see below), or you might do so with a little supernatural help from a [conduit](../class/conduit.md), a boost of adrenaline from an allied [tactician](../class/tactician.md), or inspiration from your party's [troubadour](../class/troubadour.md).
 
 ##### Spending Recoveries
 
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver to regain Stamina. (See [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) in Maneuvers for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver.
+During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver to regain [Stamina](../rule/health/stamina.md). (See [Catch Breath](../feature/common/maneuvers/catch-breath.md) in Maneuvers for more information.) Some heroes have abilities that allow them or their allies to spend more [Recoveries](../rule/health/recoveries.md) without using the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver.
 
-Outside of combat and other dangerous situations, you can spend Recoveries freely.
+Outside of combat and other dangerous situations, you can spend [Recoveries](../rule/health/recoveries.md) freely.
 
 ##### Regaining Recoveries
 
-You regain all lost Recoveries when you finish a respite (see below).
+You regain all lost [Recoveries](../rule/health/recoveries.md) when you finish a respite (see below).
 
 #### Respite {data-scc="mcdm.heroes.v1/rule.resource/respite"}
 
-A respite is a focused period of rest and recuperation that allows heroes to regain Stamina and Recoveries. During a respite, you must spend 24 hours uninterrupted and doing nothing but sleeping, eating, dressing your wounds, and recuperating. You can also undertake one respite activity, such as making a project roll (see [Downtime Projects](downtime-projects.md)) or changing your kit (see [Kits](kits.md)).
+A respite is a focused period of rest and recuperation that allows heroes to regain [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md). During a respite, you must spend 24 hours uninterrupted and doing nothing but sleeping, eating, dressing your wounds, and recuperating. You can also undertake one respite activity, such as making a project roll (see [Downtime Projects](downtime-projects.md)) or changing your kit (see [Kits](kits.md)).
 
-After 24 hours, your respite ends. When you finish a respite, you regain all your Recoveries and Stamina, and your Victories convert to Experience. You can take as many respites as you like in a row to keep accomplishing respite activities. Just keep in mind that while you're resting, your enemies are still scheming and carrying out their dastardly plans.
+After 24 hours, your respite ends. When you finish a respite, you regain all your [Recoveries](../rule/health/recoveries.md) and [Stamina](../rule/health/stamina.md), and your Victories convert to Experience. You can take as many respites as you like in a row to keep accomplishing respite activities. Just keep in mind that while you're resting, your enemies are still scheming and carrying out their dastardly plans.
 
 It is best to take a respite in a safe place where you aren't in a hostile environment or at risk of being attacked. If your respite is interrupted by enemies attacking, an earth tremor, swarms of biting insects, and similar serious distractions, the respite ends early and you don't gain the benefits for finishing it.
 
@@ -356,7 +356,7 @@ Western Vasloria, including most of Aendrim and Corwell and parts of Graid, was 
 
 Under Omund's rule, order thrived. Roads were safe. People could even walk into the woods unafraid of meeting anything more threatening than a nymph or conversational manticore.
 
-Omund died 15 years ago and so died the rule of law. Now the forest claims the towns and roads once held safe. The woods are dangerous. Their only law... [tooth and claw](../feature/trait/fury/level-2/tooth-and-claw.md).
+Omund died 15 years ago and so died the rule of law. Now the forest claims the towns and roads once held safe. The woods are dangerous. Their only law... [tooth and claw](../feature/fury/level-2/tooth-and-claw.md).
 
 Omund was betrayed and his castle fell to Ajax the Invincible, now called the Iron Saint. His wizard Mortum unlocked the secret of the ancient sky elf flying cities, and raised the Chrysopolis, Ajax's city-fortress in the sky.
 

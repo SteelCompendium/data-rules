@@ -20,9 +20,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-tier1: Each target gains 1 surge.
-tier2: Each target gains 2 surges.
-tier3: Each target gains 3 surges.
+tier1: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+tier2: Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+tier3: Each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 type: ability
 ---
 
@@ -32,9 +32,9 @@ distance: 1 burst
 effects:
     - effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up.
     - roll: Power Roll + Presence
-      tier1: Each target gains 1 surge.
-      tier2: Each target gains 2 surges.
-      tier3: Each target gains 3 surges.
+      tier1: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+      tier2: Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+      tier3: Each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 flavor: You channel your god's will to overcome hardship and inflict pain.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory
     target: Self and each ally in the area
-    tier1: Each target gains 1 surge.
-    tier2: Each target gains 2 surges.
-    tier3: Each target gains 3 surges.
+    tier1: Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+    tier2: Each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+    tier3: Each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
     type: ability
 name: Orison of Victory
 target: Self and each ally in the area

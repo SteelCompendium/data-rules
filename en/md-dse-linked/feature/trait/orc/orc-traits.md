@@ -19,7 +19,7 @@ effects:
 
         #### Purchased Orc Traits
 
-        You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
+        You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing [Recovery](../../../rule/health/recoveries.md), Grounded.)
 feature_type: trait
 metadata:
     ancestry: orc

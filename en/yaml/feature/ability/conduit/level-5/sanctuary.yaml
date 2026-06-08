@@ -1,7 +1,7 @@
 cost: 9 Piety
 distance: Ranged 10
 effects:
-    - effect: The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.
+    - effect: The target is removed from the encounter map until the start of their next turn and can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.
       name: Effect
 feature_type: ability
 flavor: You send yourself or an ally to a divine manifold to instantaneously regain health.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: conduit
-    content: "\n*You send yourself or an ally to a divine manifold to instantaneously regain health.*\n\n| **Magic, Ranged**  |            **Maneuver** |\n|--------------------|------------------------:|\n| **\U0001F4CF Ranged 10**   | **\U0001F3AF Self or one ally** |\n\n**Effect:** The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice."
+    content: "\n*You send yourself or an ally to a divine manifold to instantaneously regain health.*\n\n| **Magic, Ranged**  |            **Maneuver** |\n|--------------------|------------------------:|\n| **\U0001F4CF Ranged 10**   | **\U0001F3AF Self or one ally** |\n\n**Effect:** The target is removed from the encounter map until the start of their next turn and can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries). At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice."
     distance: Ranged 10
     feature_type: ability
     flavor: You send yourself or an ally to a divine manifold to instantaneously regain health.

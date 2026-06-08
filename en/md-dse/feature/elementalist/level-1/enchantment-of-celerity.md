@@ -1,0 +1,28 @@
+---
+action_type: feature
+class: elementalist
+feature_type: feature
+file_basename: enchantment-of-celerity
+file_dpath: feature/elementalist/level-1
+item_id: enchantment-of-celerity
+item_name: Enchantment of Celerity
+level: "1"
+name: Enchantment of Celerity
+scc: mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-celerity
+source: mcdm.heroes.v1
+type: feature
+---
+
+```ds-feature
+effects:
+    - effect: You gain a +1 bonus to speed and to the distance you can [shift](scc:mcdm.heroes.v1/movement/shifting) when you take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action.
+feature_type: feature
+metadata:
+    class: elementalist
+    level: "1"
+    name: Enchantment of Celerity
+    scc: mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-celerity
+    type: feature
+name: Enchantment of Celerity
+type: feature
+```

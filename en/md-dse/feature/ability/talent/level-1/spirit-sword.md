@@ -2,7 +2,7 @@
 action_type: Main action
 class: talent
 distance: Melee 2
-effect: You gain 1 surge.
+effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: spirit-sword
 file_dpath: feature/ability/talent/level-1
@@ -30,7 +30,7 @@ type: ability
 ```ds-feature
 distance: Melee 2
 effects:
-    - effect: You gain 1 surge.
+    - effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
     - roll: Power Roll + Presence
       tier1: 3 + P damage
       tier2: 6 + P damage
@@ -46,7 +46,7 @@ metadata:
     action_type: Main action
     class: talent
     distance: Melee 2
-    effect: You gain 1 surge.
+    effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: You form a blade of mind energy and stab your target, invigorating yourself.
     keywords:
         - Animapathy

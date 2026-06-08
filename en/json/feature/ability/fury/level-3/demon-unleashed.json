@@ -3,7 +3,7 @@
   "distance": "Self",
   "effects": [
     {
-      "effect": "Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P \u003c STRONG is [frightened](scc:mcdm.heroes.v1/condition/frightened) until the end of their turn.",
+      "effect": "Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy who starts their turn adjacent to you and has P \u003c STRONG is [frightened](scc:mcdm.heroes.v1/condition/frightened) until the end of their turn.",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "fury",
-    "content": "\n*Foes tremble at the sight of you.*\n\n| **Magic**   | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P \u003c STRONG is [frightened](scc:mcdm.heroes.v1/condition/frightened) until the end of their turn.",
+    "content": "\n*Foes tremble at the sight of you.*\n\n| **Magic**   | **Maneuver** |\n|-------------|-------------:|\n| **📏 Self** |  **🎯 Self** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy who starts their turn adjacent to you and has P \u003c STRONG is [frightened](scc:mcdm.heroes.v1/condition/frightened) until the end of their turn.",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "Foes tremble at the sight of you.",

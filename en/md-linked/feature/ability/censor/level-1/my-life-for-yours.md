@@ -2,7 +2,7 @@
 action_type: Triggered
 class: censor
 distance: Ranged 10
-effect: You spend a Recovery and the target regains Stamina equal to your recovery value.
+effect: You spend a [Recovery](../../../../rule/health/recoveries.md) and the target regains [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md).
 flavor: You channel some of your vitality into more resilience for you or an ally.
 keywords:
     - Magic
@@ -26,6 +26,6 @@ type: ability
 
 **Trigger:** The target starts their turn or takes damage.
 
-**Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
+**Effect:** You spend a [Recovery](../../../../rule/health/recoveries.md) and the target regains [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md).
 
 **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../../condition/prone.md) target can stand up.

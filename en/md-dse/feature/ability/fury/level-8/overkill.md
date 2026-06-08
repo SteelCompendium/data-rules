@@ -5,7 +5,7 @@ cost: 11 Ferocity
 cost_amount: "11"
 cost_resource: Ferocity
 distance: Melee 1
-effect: If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
+effect: If the target is a minion or is [winded](scc:mcdm.heroes.v1/rule.health/winded) but isn't a leader or solo creature, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
 feature_type: ability
 file_basename: overkill
 file_dpath: feature/ability/fury/level-8
@@ -33,7 +33,7 @@ type: ability
 cost: 11 Ferocity
 distance: Melee 1
 effects:
-    - effect: If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
+    - effect: If the target is a minion or is [winded](scc:mcdm.heroes.v1/rule.health/winded) but isn't a leader or solo creature, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
     - roll: Power Roll + Might
       tier1: 6 + M damage
       tier2: 10 + M damage
@@ -50,7 +50,7 @@ metadata:
     class: fury
     cost: 11 Ferocity
     distance: Melee 1
-    effect: If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
+    effect: If the target is a minion or is [winded](scc:mcdm.heroes.v1/rule.health/winded) but isn't a leader or solo creature, they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
     flavor: You strike so no damage is wasted.
     keywords:
         - Magic

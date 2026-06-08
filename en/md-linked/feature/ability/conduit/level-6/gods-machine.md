@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 9 Piety
 distance: Ranged 10
-effect: You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 Stamina and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its Stamina drops to 0, or if you are dying. When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.
+effect: You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 [Stamina](../../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md). When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.
 flavor: You conjure a whirring tank made of blades and metal.
 keywords:
     - Magic
@@ -26,7 +26,7 @@ type: ability
 |-------------------|-----------------|
 | **📏 Ranged 10**  | **🎯 Special**  |
 
-**Effect:** You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 Stamina and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its Stamina drops to 0, or if you are dying. When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.
+**Effect:** You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 [Stamina](../../../../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md). When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.
 
 **Power Roll + Intuition:**
 

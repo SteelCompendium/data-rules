@@ -1,0 +1,22 @@
+{
+  "effects": [
+    {
+      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine) grants you a triggered action, as shown on the Doctrine Triggered Actions table.\n\n###### Doctrine Triggered Actions Table\n\n| Doctrine   | Triggered Action |\n|------------|------------------|\n| Insurgent  | [Advanced Tactics](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics) |\n| Mastermind | [Overwatch](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch)        |\n| Vanguard   | [Parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry)            |"
+    }
+  ],
+  "feature_type": "feature",
+  "metadata": {
+    "action_type": "feature",
+    "class": "tactician",
+    "feature_type": "feature",
+    "item_id": "doctrine-triggered-action",
+    "item_name": "Doctrine Triggered Action",
+    "level": 1,
+    "scc": [
+      "mcdm.heroes.v1/feature.tactician.level-1/doctrine-triggered-action"
+    ],
+    "type": "feature/tactician/level-1"
+  },
+  "name": "Doctrine Triggered Action",
+  "type": "feature"
+}

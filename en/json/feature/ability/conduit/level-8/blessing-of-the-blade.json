@@ -3,7 +3,7 @@
   "distance": "5 aura",
   "effects": [
     {
-      "effect": "At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.",
+      "effect": "At the end of each of your turns until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*\"The power of the gods is within you, friends. Allow me to unleash it.\"*\n\n| **Area, Magic**   |                          **Maneuver** |\n|-------------------|--------------------------------------:|\n| **📏 5 aura**     | **🎯 Self and each ally in the area** |\n\n**Effect:** At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.",
+    "content": "\n*\"The power of the gods is within you, friends. Allow me to unleash it.\"*\n\n| **Area, Magic**   |                          **Maneuver** |\n|-------------------|--------------------------------------:|\n| **📏 5 aura**     | **🎯 Self and each ally in the area** |\n\n**Effect:** At the end of each of your turns until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
     "distance": "5 aura",
     "feature_type": "ability",
     "flavor": "\"The power of the gods is within you, friends. Allow me to unleash it.\"",

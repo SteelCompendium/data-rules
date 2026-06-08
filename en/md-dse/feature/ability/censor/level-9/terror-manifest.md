@@ -5,7 +5,7 @@ cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
 distance: Ranged 10
-effect: While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+effect: While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded), they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is [winded](scc:mcdm.heroes.v1/rule.health/winded), they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
 feature_type: ability
 file_basename: terror-manifest
 file_dpath: feature/ability/censor/level-9
@@ -32,7 +32,7 @@ type: ability
 cost: 11 Wrath
 distance: Ranged 10
 effects:
-    - effect: While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+    - effect: While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded), they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is [winded](scc:mcdm.heroes.v1/rule.health/winded), they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
     - roll: Power Roll + Presence
       tier1: 7 + P psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
       tier2: 10 + P psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
@@ -48,7 +48,7 @@ metadata:
     class: censor
     cost: 11 Wrath
     distance: Ranged 10
-    effect: While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+    effect: While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded), they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is [winded](scc:mcdm.heroes.v1/rule.health/winded), they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
     flavor: '"I know what you fear."'
     keywords:
         - Magic

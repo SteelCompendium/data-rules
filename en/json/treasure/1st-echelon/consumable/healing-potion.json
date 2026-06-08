@@ -1,7 +1,7 @@
 {
-  "content": "*Thick and red, this liquid tastes of sour beer.*\n\n**Keywords:** Magic, Potion\n\n**Item Prerequisite:** An ounce of costmary leaves\n\n**Project Source:** Texts or lore in Caelian\n\n**Project Roll Characteristic:** Reason or Intuition\n\n**Project Goal:** 45\n\n**Effect:** When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.",
+  "content": "*Thick and red, this liquid tastes of sour beer.*\n\n**Keywords:** Magic, Potion\n\n**Item Prerequisite:** An ounce of costmary leaves\n\n**Project Source:** Texts or lore in Caelian\n\n**Project Roll Characteristic:** Reason or Intuition\n\n**Project Goal:** 45\n\n**Effect:** When you drink this potion as a maneuver, you regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries) without spending a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
   "echelon": "1",
-  "effect": "When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.",
+  "effect": "When you drink this potion as a maneuver, you regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries) without spending a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
   "keywords": [
     "Magic",
     "Potion"

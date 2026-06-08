@@ -19,7 +19,7 @@
     "ability_type": "Triggered",
     "action_type": "Free triggered",
     "class": "fury",
-    "content": "\n*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*\n\n| **Melee, Strike, Weapon** | **Free triggered** |\n|---------------------------|-------------------:|\n| **📏 Melee 1**            |        **🎯 Self** |\n\n**Trigger:** You reduce a creature to 0 Stamina with a strike.\n\n**Effect:** You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.",
+    "content": "\n*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*\n\n| **Melee, Strike, Weapon** | **Free triggered** |\n|---------------------------|-------------------:|\n| **📏 Melee 1**            |        **🎯 Self** |\n\n**Trigger:** You reduce a creature to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) with a strike.\n\n**Effect:** You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.",
@@ -39,7 +39,7 @@
   },
   "name": "Death Strike",
   "target": "Self",
-  "trigger": "You reduce a creature to 0 Stamina with a strike.",
+  "trigger": "You reduce a creature to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) with a strike.",
   "type": "feature",
   "usage": "Free triggered"
 }

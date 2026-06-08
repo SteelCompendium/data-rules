@@ -52,7 +52,7 @@ Combat takes place over a series of combat rounds. During a combat round, each c
 
 #### When Does Combat Start?
 
-Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their Heroic Resource on it, because combat has already begun!
+Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their [Heroic Resource](../rule/resource/heroic-resource.md) on it, because combat has already begun!
 
 #### Determine Surprise {data-scc="mcdm.heroes.v1/rule.combat/surprised"}
 
@@ -130,9 +130,9 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 ### Movement
 
-During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../feature/trait/common/move-actions/advance.md) or [Disengage](../feature/trait/common/move-actions/disengage.md) move action (detailed under Move Actions below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../feature/common/move-actions/advance.md) or [Disengage](../feature/common/move-actions/disengage.md) move action (detailed under Move Actions below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../feature/trait/common/move-actions/advance.md) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../feature/common/move-actions/advance.md) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
 All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
@@ -174,11 +174,11 @@ When a creature uses the Dig maneuver, they can move vertically up to a number o
 
 ###### Targeting Burrowing Creatures
 
-If you are on the ground, you have line of effect to a [burrowing](../movement/burrow.md) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../movement/burrow.md) creature gains the benefit of cover from you.
+If you are on the ground, you have line of effect to a [burrowing](../movement/burrow.md) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../movement/burrow.md) creature gains the benefit of [cover](../rule/combat/cover.md) from you.
 
 If you are completely beneath the ground while [burrowing](../movement/burrow.md), you don't have line of effect to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while [burrowing](../movement/burrow.md) and are adjacent to another creature who is [burrowing](../movement/burrow.md), you have line of effect to that creature, though you both have cover from each other.
+If you are completely beneath the ground while [burrowing](../movement/burrow.md) and are adjacent to another creature who is [burrowing](../movement/burrow.md), you have line of effect to that creature, though you both have [cover](../rule/combat/cover.md) from each other.
 
 You can't gain the benefit of [high ground](../movement/high-ground.md) (see below) against creatures who are completely beneath the ground while [burrowing](../movement/burrow.md).
 
@@ -216,7 +216,7 @@ You can attempt to climb a creature whose size is greater than yours. If the cre
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to climb the creature, and they can make a [free strike](../feature/trait/common/main-actions/free-strike.md) against you.
+- **≤11:** You fail to climb the creature, and they can make a [free strike](../feature/common/main-actions/free-strike.md) against you.
 - **12-16:** You fail to climb the creature.
 - **17+:** You climb the creature.
 
@@ -232,7 +232,7 @@ If you are [knocked prone](../condition/prone.md) while climbing or riding a cre
 
 ##### Jump {data-scc="mcdm.heroes.v1/movement/jump"}
 
-Whenever an effect allows you to move (including using the [Advance](../feature/trait/common/move-actions/advance.md) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
+Whenever an effect allows you to move (including using the [Advance](../feature/common/move-actions/advance.md) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
 
 If you want to jump even longer or higher than your baseline jump allows, make a Might or Agility test:
 
@@ -265,7 +265,7 @@ When a creature [teleports](../movement/teleport.md), they move from one space t
 - A creature [teleporting](../movement/teleport.md) themself must have line of effect to their destination space. A creature [teleporting](../movement/teleport.md) another creature must have line of effect from the space the [teleport](../movement/teleport.md)ed creature leaves and to their destination space.
 - A [teleporting](../movement/teleport.md) creature's destination space can't be occupied by another creature or object.
 - The effect that lets a creature [teleport](../movement/teleport.md) indicates how far they can [teleport](../movement/teleport.md). That distance can be greater than the creature's speed.
-- If a creature can [teleport](../movement/teleport.md) as part of their usual movement, they can use the [Advance](../feature/trait/common/move-actions/advance.md) move action to [teleport](../movement/teleport.md) a number of squares up to their usual speed, unmodified by conditions or effects.
+- If a creature can [teleport](../movement/teleport.md) as part of their usual movement, they can use the [Advance](../feature/common/move-actions/advance.md) move action to [teleport](../movement/teleport.md) a number of squares up to their usual speed, unmodified by conditions or effects.
 - If a creature [teleports](../movement/teleport.md) [while prone](../condition/prone.md), they can be standing when they reach their destination space provided they are able to stand. If a prone creature is [teleport](../movement/teleport.md)ed by another creature, it is up to that creature whether the [teleport](../movement/teleport.md)ed creature remains prone or stands if they are able.
 - If you [teleport](../movement/teleport.md) while affected by the [grabbed](../condition/grabbed.md) or [restrained](../condition/restrained.md) conditions, those conditions end for you.
 - When a creature [teleports](../movement/teleport.md), they must leave the space where they start and enter a new space. A creature can't [teleport](../movement/teleport.md) to and from the same space.
@@ -379,23 +379,23 @@ Certain abilities and effects trigger when a creature moves into a particular ar
 
 ##### Death Effects and Forced Movement
 
-Some creatures have traits or abilities that trigger when they die or are reduced to 0 Stamina. If such a creature is reduced to 0 Stamina by damage from an ability or effect that also force moves them, the [forced movement](../movement/forced-movement.md) takes place before the triggered effect.
+Some creatures have traits or abilities that trigger when they die or are reduced to 0 [Stamina](../rule/health/stamina.md). If such a creature is reduced to 0 [Stamina](../rule/health/stamina.md) by damage from an ability or effect that also force moves them, the [forced movement](../movement/forced-movement.md) takes place before the triggered effect.
 
 ### Move Actions
 
 A move action allows a creature to move around the battlefield. Sometimes you'll already be exactly where you want to be so that you don't need to use a move action on your turn. That's okay! The decision to not move is just as tactical as the decision to move.
 
-#### Advance {data-scc="mcdm.heroes.v1/feature.trait.common.move-actions/advance"}
+#### Advance {data-scc="mcdm.heroes.v1/feature.common.move-actions/advance"}
 
-When a creature takes the [Advance](../feature/trait/common/move-actions/advance.md) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
+When a creature takes the [Advance](../feature/common/move-actions/advance.md) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
 
-#### Disengage {data-scc="mcdm.heroes.v1/feature.trait.common.move-actions/disengage"}
+#### Disengage {data-scc="mcdm.heroes.v1/feature.common.move-actions/disengage"}
 
-When a creature takes the [Disengage](../feature/trait/common/move-actions/disengage.md) move action, they can [shift](../movement/shifting.md) 1 square. Certain class features, kits, and other rules allow a creature to [shift](../movement/shifting.md) more than 1 square when they disengage. A creature who does so can break up their [shift](../movement/shifting.md) with their maneuver and main action however they wish.
+When a creature takes the [Disengage](../feature/common/move-actions/disengage.md) move action, they can [shift](../movement/shifting.md) 1 square. Certain class features, kits, and other rules allow a creature to [shift](../movement/shifting.md) more than 1 square when they disengage. A creature who does so can break up their [shift](../movement/shifting.md) with their maneuver and main action however they wish.
 
-#### Ride {data-scc="mcdm.heroes.v1/feature.trait.common.move-actions/ride"}
+#### Ride {data-scc="mcdm.heroes.v1/feature.common.move-actions/ride"}
 
-A creature can take the [Ride](../feature/trait/common/move-actions/ride.md) move action only while mounted on another creature (see Mounted Combat below). When a creature takes the [Ride](../feature/trait/common/move-actions/ride.md) move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the [Ride](../feature/trait/common/move-actions/ride.md) move action to have their mount use the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free triggered action. A creature can use the [Ride](../feature/trait/common/move-actions/ride.md) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
+A creature can take the [Ride](../feature/common/move-actions/ride.md) move action only while mounted on another creature (see Mounted Combat below). When a creature takes the [Ride](../feature/common/move-actions/ride.md) move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the [Ride](../feature/common/move-actions/ride.md) move action to have their mount use the [Disengage](../feature/common/move-actions/disengage.md) move action as a free triggered action. A creature can use the [Ride](../feature/common/move-actions/ride.md) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
 
 ### Maneuvers
 
@@ -403,19 +403,19 @@ A maneuver typically involves less focus and exertion than a main action (see be
 
 Sometimes you might not have anything you can do with your maneuver. That's totally fine! Often, the best thing to do on your turn is take a main action and move on.
 
-#### Aid Attack {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/aid-attack"}
+#### Aid Attack {data-scc="mcdm.heroes.v1/feature.common.maneuvers/aid-attack"}
 
-A creature who uses the [Aid Attack](../feature/trait/common/maneuvers/aid-attack.md) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
+A creature who uses the [Aid Attack](../feature/common/maneuvers/aid-attack.md) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
 
-#### Catch Breath {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/catch-breath"}
+#### Catch Breath {data-scc="mcdm.heroes.v1/feature.common.maneuvers/catch-breath"}
 
-A creature who uses the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for Stamina. See Recoveries in Chapter 1: [The Basics](the-basics.md).)
+A creature who uses the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver spends a [Recovery](../rule/health/recoveries.md) and regains [Stamina](../rule/health/stamina.md) equal to their [recovery value](../rule/health/recoveries.md). (See below for [Stamina](../rule/health/stamina.md). See [Recoveries](../rule/health/recoveries.md) in Chapter 1: [The Basics](the-basics.md).)
 
-A creature who is dying (see Dying and Death in Stamina below) can't use the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver, but other creatures can help them spend Recoveries in other ways.
+A creature who is [dying](../rule/health/dying.md) (see [Dying](../rule/health/dying.md) and Death in [Stamina](../rule/health/stamina.md) below) can't use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver, but other creatures can help them spend [Recoveries](../rule/health/recoveries.md) in other ways.
 
-#### Escape Grab {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/escape-grab"}
+#### Escape Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/escape-grab"}
 
-A creature who is [grabbed](../condition/grabbed.md) by another creature, an object, or an effect (see [Grab](../feature/trait/common/maneuvers/grab.md) below) can attempt to escape by using the following ability.
+A creature who is [grabbed](../condition/grabbed.md) by another creature, an object, or an effect (see [Grab](../feature/common/maneuvers/grab.md) below) can attempt to escape by using the following ability.
 
 ##### Escape Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab"}
 
@@ -427,14 +427,14 @@ A creature who is [grabbed](../condition/grabbed.md) by another creature, an obj
 **Power Roll + Might or Agility:**
 
 - **≤11:** No effect.
-- **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../condition/grabbed.md) can make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against you before you are no longer [grabbed](../condition/grabbed.md).
+- **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../condition/grabbed.md) can make a melee [free strike](../feature/common/main-actions/free-strike.md) against you before you are no longer [grabbed](../condition/grabbed.md).
 - **17+:** You are no longer [grabbed](../condition/grabbed.md).
 
 **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../condition/grabbed.md).
 
 See Conditions in Chapter 5: [Classes](classes.md) for information on the [grabbed](../condition/grabbed.md) condition.
 
-#### Grab {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/grab"}
+#### Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/grab"}
 
 A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
 
@@ -448,7 +448,7 @@ A creature seeking to keep a foe close and locked down can attempt to grab a cre
 **Power Roll + Might:**
 
 - **≤11:** No effect.
-- **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against you before they are [grabbed](../condition/grabbed.md).
+- **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](../feature/common/main-actions/free-strike.md) against you before they are [grabbed](../condition/grabbed.md).
 - **17+:** The target is [grabbed](../condition/grabbed.md) by you.
 
 **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
@@ -457,11 +457,11 @@ Unless otherwise indicated, a creature can grab only one creature at a time.
 
 See Conditions in Chapter 5: [Classes](classes.md) for information on the [grabbed](../condition/grabbed.md) condition.
 
-#### Hide {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/hide"}
+#### Hide {data-scc="mcdm.heroes.v1/feature.common.maneuvers/hide"}
 
-Using the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver, a creature attempts to hide from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: [Tests](tests.md) for full details.
+Using the [Hide](../feature/common/maneuvers/hide.md) maneuver, a creature attempts to hide from other creatures who aren't observing them while they have [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md). See Hide and Sneak in Chapter 9: [Tests](tests.md) for full details.
 
-#### Knockback {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/knockback"}
+#### Knockback {data-scc="mcdm.heroes.v1/feature.common.maneuvers/knockback"}
 
 A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
 
@@ -480,71 +480,71 @@ A creature wanting to push an adjacent creature away from them can attempt to sh
 
 **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
-#### Make or Assist a Test {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/make-or-assist-a-test"}
+#### Make or Assist a Test {data-scc="mcdm.heroes.v1/feature.common.maneuvers/make-or-assist-a-test"}
 
 Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door's lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: [Tests](tests.md)).
 
 Complex or time-consuming tests might require a main action if made in combat—or could take so long that they can't be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
 
-#### Search for Hidden Creatures {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/search-for-hidden-creatures"}
+#### Search for Hidden Creatures {data-scc="mcdm.heroes.v1/feature.common.maneuvers/search-for-hidden-creatures"}
 
-The [Search for Hidden Creatures](../feature/trait/common/maneuvers/search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: [Tests](tests.md)).
+The [Search for Hidden Creatures](../feature/common/maneuvers/search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: [Tests](tests.md)).
 
-#### Stand Up {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/stand-up"}
+#### Stand Up {data-scc="mcdm.heroes.v1/feature.common.maneuvers/stand-up"}
 
-A creature can use the [Stand Up](../feature/trait/common/maneuvers/stand-up.md) maneuver to stand up if they [are prone](../condition/prone.md), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent prone creature stand up.
+A creature can use the [Stand Up](../feature/common/maneuvers/stand-up.md) maneuver to stand up if they [are prone](../condition/prone.md), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent prone creature stand up.
 
-#### Use Consumable {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/use-consumable"}
+#### Use Consumable {data-scc="mcdm.heroes.v1/feature.common.maneuvers/use-consumable"}
 
-Unless otherwise noted in its description, a creature can activate a consumable treasure such as a potion with the [Use Consumable](../feature/trait/common/maneuvers/use-consumable.md) maneuver. A creature can use this maneuver to administer a consumable treasure that benefits the user either to themself or to a willing adjacent creature. See Consumables in Chapter 13: [Rewards](rewards.md).
+Unless otherwise noted in its description, a creature can activate a consumable treasure such as a potion with the [Use Consumable](../feature/common/maneuvers/use-consumable.md) maneuver. A creature can use this maneuver to administer a consumable treasure that benefits the user either to themself or to a willing adjacent creature. See Consumables in Chapter 13: [Rewards](rewards.md).
 
 ### Main Actions
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see Abilities in Chapter 5: [Classes](classes.md)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, [charge](../feature/trait/common/main-actions/charge.md) into battle, [defend](../feature/trait/common/main-actions/defend.md) yourself, or make a [free strike](../feature/trait/common/main-actions/free-strike.md).
+You can also use your main action to help another creature regain [Stamina](../rule/health/stamina.md), [charge](../feature/common/main-actions/charge.md) into battle, [defend](../feature/common/main-actions/defend.md) yourself, or make a [free strike](../feature/common/main-actions/free-strike.md).
 
 You can convert your main action into a maneuver or a move action, allowing you to [take two](../feature/ability/troubadour/level-5/take-two.md) maneuvers or move actions on your turn.
 
-#### Charge {data-scc="mcdm.heroes.v1/feature.trait.common.main-actions/charge"}
+#### Charge {data-scc="mcdm.heroes.v1/feature.common.main-actions/charge"}
 
-When a creature takes the [Charge](../feature/trait/common/main-actions/charge.md) main action, they move up to their speed in a straight line, then make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) (see [Free Strikes](../feature/trait/common/main-actions/free-strike.md) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](../feature/trait/common/main-actions/free-strike.md).
+When a creature takes the [Charge](../feature/common/main-actions/charge.md) main action, they move up to their speed in a straight line, then make a melee [free strike](../feature/common/main-actions/free-strike.md) (see [Free Strikes](../feature/common/main-actions/free-strike.md) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](../feature/common/main-actions/free-strike.md).
 
-A creature can't move through [difficult terrain](../movement/difficult-terrain.md) or [shift](../movement/shifting.md) when they charge. They can [fly](../movement/fly.md) or [burrow](../movement/burrow.md) as part of the [Charge](../feature/trait/common/main-actions/charge.md) main action if they have that movement available to them, but they can't climb or swim while charging unless they can automatically use that movement at full speed.
+A creature can't move through [difficult terrain](../movement/difficult-terrain.md) or [shift](../movement/shifting.md) when they charge. They can [fly](../movement/fly.md) or [burrow](../movement/burrow.md) as part of the [Charge](../feature/common/main-actions/charge.md) main action if they have that movement available to them, but they can't climb or swim while charging unless they can automatically use that movement at full speed.
 
-#### Defend {data-scc="mcdm.heroes.v1/feature.trait.common.main-actions/defend"}
+#### Defend {data-scc="mcdm.heroes.v1/feature.common.main-actions/defend"}
 
-When a creature takes the [Defend](../feature/trait/common/main-actions/defend.md) main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../condition/taunted.md) by them (see Conditions in Chapter 5: [Classes](classes.md)).
+When a creature takes the [Defend](../feature/common/main-actions/defend.md) main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../condition/taunted.md) by them (see Conditions in Chapter 5: [Classes](classes.md)).
 
-#### Free Strike {data-scc="mcdm.heroes.v1/feature.trait.common.main-actions/free-strike"}
+#### Free Strike {data-scc="mcdm.heroes.v1/feature.common.main-actions/free-strike"}
 
-A creature can use this main action to make a [free strike](../feature/trait/common/main-actions/free-strike.md) (see Free  Strikes below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../feature/trait/common/main-actions/free-strike.md) are available for when all else fails. For instance, a [fury](../class/fury.md) who has no other options for ranged strikes might use the [Ranged Weapon Free Strike](../feature/ability/common/ranged-weapon-free-strike.md) ability with an improvised weapon when battling a [flying](../movement/fly.md) foe.
+A creature can use this main action to make a [free strike](../feature/common/main-actions/free-strike.md) (see Free  Strikes below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../feature/common/main-actions/free-strike.md) are available for when all else fails. For instance, a [fury](../class/fury.md) who has no other options for ranged strikes might use the [Ranged Weapon Free Strike](../feature/ability/common/ranged-weapon-free-strike.md) ability with an improvised weapon when battling a [flying](../movement/fly.md) foe.
 
-#### Heal {data-scc="mcdm.heroes.v1/feature.trait.common.main-actions/heal"}
+#### Heal {data-scc="mcdm.heroes.v1/feature.common.main-actions/heal"}
 
-A creature who uses the [Heal](../feature/trait/common/main-actions/heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
+A creature who uses the [Heal](../feature/common/main-actions/heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a [Recovery](../rule/health/recoveries.md) to regain [Stamina](../rule/health/stamina.md), or can make a saving throw against one effect they are suffering that is ended by a saving throw.
 
 ### Free Strikes
 
-Every creature can use a [free strike](../feature/trait/common/main-actions/free-strike.md) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../feature/trait/common/main-actions/free-strike.md) when the rules call for it. Specific rules let you use [free strikes](../feature/trait/common/main-actions/free-strike.md) as part of an action that allows you to also do something else impactful, such as how the [Charge](../feature/trait/common/main-actions/charge.md) main action lets you move and use a melee [free strike](../feature/trait/common/main-actions/free-strike.md) in one main action (see Charge above).
+Every creature can use a [free strike](../feature/common/main-actions/free-strike.md) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../feature/common/main-actions/free-strike.md) when the rules call for it. Specific rules let you use [free strikes](../feature/common/main-actions/free-strike.md) as part of an action that allows you to also do something else impactful, such as how the [Charge](../feature/common/main-actions/charge.md) main action lets you move and use a melee [free strike](../feature/common/main-actions/free-strike.md) in one main action (see Charge above).
 
-Many rules and abilities allow heroes to make [free strikes](../feature/trait/common/main-actions/free-strike.md) when it isn't their turn, such as the [tactician's](../class/tactician.md) Overwatch ability. As well, all characters can make an opportunity attack [free strike](../feature/trait/common/main-actions/free-strike.md).
+Many rules and abilities allow heroes to make [free strikes](../feature/common/main-actions/free-strike.md) when it isn't their turn, such as the [tactician's](../class/tactician.md) Overwatch ability. As well, all characters can make an opportunity attack [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician's](../class/tactician.md) [Strike Now](../feature/ability/tactician/level-1/strike-now.md) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../feature/trait/common/main-actions/free-strike.md) instead of a granted signature ability or heroic ability.
+Some abilities, such as the [tactician's](../class/tactician.md) [Strike Now](../feature/ability/tactician/level-1/strike-now.md) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../feature/common/main-actions/free-strike.md) instead of a granted signature ability or heroic ability.
 
 #### Opportunity Attacks {data-scc="mcdm.heroes.v1/rule.combat/opportunity-attack"}
 
-Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without [shifting](../movement/shifting.md), the creature can take advantage of that movement to quickly make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against the enemy as a free triggered action. This is called an opportunity attack.
+Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without [shifting](../movement/shifting.md), the creature can take advantage of that movement to quickly make a melee [free strike](../feature/common/main-actions/free-strike.md) against the enemy as a free triggered action. This is called an opportunity attack.
 
 If a creature has a bane or double bane on the power roll against the enemy, they can't make an opportunity attack.
 
 #### Standard Free Strikes
 
-Every hero has two standard [free strike](../feature/trait/common/main-actions/free-strike.md) abilities available to them. Your class might give you additional [free strike](../feature/trait/common/main-actions/free-strike.md) options, and your kit can improve the standard options (see Chapter 6: [Kits](kits.md)).
+Every hero has two standard [free strike](../feature/common/main-actions/free-strike.md) abilities available to them. Your class might give you additional [free strike](../feature/common/main-actions/free-strike.md) options, and your kit can improve the standard options (see Chapter 6: [Kits](kits.md)).
 
-A melee weapon free strike is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon free strike is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../feature/trait/common/main-actions/free-strike.md).
+A melee weapon free strike is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon free strike is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../feature/common/main-actions/free-strike.md).
 
 ###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common.free-strikes/melee-weapon-free-strike-combat"}
 
@@ -588,11 +588,11 @@ Darkness, fog, invisibility magic, and any other effect that fully obscures a cr
 
 #### Invisible Creatures
 
-Invisible creatures always have concealment from other creatures. If an invisible creature isn't hidden, they can still be targeted by abilities. The test made to find a hidden creature who is invisible takes a bane.
+Invisible creatures always have [concealment](../rule/combat/concealment.md) from other creatures. If an invisible creature isn't hidden, they can still be targeted by abilities. The test made to find a hidden creature who is invisible takes a bane.
 
 ### Damage {data-scc="mcdm.heroes.v1/rule.damage/damage"}
 
-Strikes, area attacks, environmental effects, and other hazards can all deal damage to the heroes and their foes. Whenever a creature takes damage, they reduce their Stamina (see below) by an amount equal to the damage taken.
+Strikes, area attacks, environmental effects, and other hazards can all deal damage to the heroes and their foes. Whenever a creature takes damage, they reduce their [Stamina](../rule/health/stamina.md) (see below) by an amount equal to the damage taken.
 
 #### Damage Types {data-scc="mcdm.heroes.v1/rule.damage/damage-type"}
 
@@ -628,35 +628,35 @@ After any damage you take is reduced by damage immunity or other effects, your S
 
 #### Recoveries and Recovery Value {data-scc="mcdm.heroes.v1/rule.health/recoveries"}
 
-Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their [Stamina](../rule/health/stamina.md) maximum, rounded down. When you use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain [Stamina](../rule/health/stamina.md) equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain [Stamina](../rule/health/stamina.md) equal to your recovery value plus a little extra (as described by the effect), or to regain [Stamina](../rule/health/stamina.md) without spending a Recovery.
 
 #### Winded {data-scc="mcdm.heroes.v1/rule.health/winded"}
 
-Your winded value equals half your Stamina maximum. When your Stamina is equal to or less than your winded value, you are winded. Although being winded has no effects on its own, certain ancestry, class, item, title, and monster abilities affect winded creatures.
+Your winded value equals half your [Stamina](../rule/health/stamina.md) maximum. When your [Stamina](../rule/health/stamina.md) is equal to or less than your winded value, you are winded. Although being winded has no effects on its own, certain ancestry, class, item, title, and monster abilities affect winded creatures.
 
 You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death {data-scc="mcdm.heroes.v1/rule.health/dying"}
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your [Stamina](../rule/health/stamina.md) is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend [Recoveries](../rule/health/recoveries.md) in combat, and you can spend [Recoveries](../rule/health/recoveries.md) out of combat as usual.
 
-While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
+While your [Stamina](../rule/health/stamina.md) is lower than 0, if it reaches the negative of your [winded](../rule/health/winded.md) value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
 #### Director-Controlled Creatures
 
-In most circumstances, Director-controlled creatures die or are destroyed when their Stamina drops to 0.
+In most circumstances, Director-controlled creatures die or are destroyed when their [Stamina](../rule/health/stamina.md) drops to 0.
 
 ##### No Recoveries
 
-Director-controlled creatures don't have Recoveries or a recovery value. Any such creatures who regain Stamina during a battle do so by way of a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a Recovery or to regain Stamina equal to their recovery value on an injured NPC. In such cases, a Director-controlled creature regains Stamina equal to one-third of their Stamina maximum.
+Director-controlled creatures don't have [Recoveries](../rule/health/recoveries.md) or a [recovery value](../rule/health/recoveries.md). Any such creatures who regain [Stamina](../rule/health/stamina.md) during a battle do so by way of a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a [Recovery](../rule/health/recoveries.md) or to regain [Stamina](../rule/health/stamina.md) equal to their [recovery value](../rule/health/recoveries.md) on an injured NPC. In such cases, a Director-controlled creature regains [Stamina](../rule/health/stamina.md) equal to one-third of their [Stamina](../rule/health/stamina.md) maximum.
 
 #### Knocking Creatures Out
 
 If you damage a creature with an ability that would kill them, you can choose to instead knock them unconscious. If a creature takes damage while unconscious in this way, they die.
 
-Director-controlled creatures remain unconscious for 1 hour if no one does anything to wake them. They then gain 1 Stamina and are no longer unconscious.
+Director-controlled creatures remain unconscious for 1 hour if no one does anything to wake them. They then gain 1 [Stamina](../rule/health/stamina.md) and are no longer unconscious.
 
-Heroes remain unconscious for 1 hour if no one does anything to wake them. After 1 hour, they can spend a Recovery and are no longer unconscious. If the hero has no Recoveries left, they can't wake up until they finish a respite.
+Heroes remain unconscious for 1 hour if no one does anything to wake them. After 1 hour, they can spend a [Recovery](../rule/health/recoveries.md) and are no longer unconscious. If the hero has no [Recoveries](../rule/health/recoveries.md) left, they can't wake up until they finish a respite.
 
 ##### Unconscious
 
@@ -664,24 +664,24 @@ While you are unconscious, you can't take main actions, maneuvers, triggered act
 
 #### Temporary Stamina {data-scc="mcdm.heroes.v1/rule.health/temporary-stamina"}
 
-Some abilities, treasures, and other effects grant a creature temporary Stamina. Temporary Stamina shouldn't be included in a creature's Stamina total when figuring out a creature's recovery value or winded value. If you have temporary Stamina while winded, dying, or dead, the temporary Stamina doesn't change those states.
+Some abilities, treasures, and other effects grant a creature temporary [Stamina](../rule/health/stamina.md). Temporary [Stamina](../rule/health/stamina.md) shouldn't be included in a creature's [Stamina](../rule/health/stamina.md) total when figuring out a creature's [recovery value](../rule/health/recoveries.md) or [winded](../rule/health/winded.md) value. If you have temporary [Stamina](../rule/health/stamina.md) while [winded](../rule/health/winded.md), [dying](../rule/health/dying.md), or dead, the temporary [Stamina](../rule/health/stamina.md) doesn't change those states.
 
-Whenever you take damage while you have temporary Stamina, the temporary Stamina decreases first, and any leftover damage is applied to your Stamina as usual. For instance, if you have 10 temporary Stamina and take 16 damage, you lose the temporary Stamina and then lose another 6 Stamina.
+Whenever you take damage while you have temporary [Stamina](../rule/health/stamina.md), the temporary [Stamina](../rule/health/stamina.md) decreases first, and any leftover damage is applied to your [Stamina](../rule/health/stamina.md) as usual. For instance, if you have 10 temporary [Stamina](../rule/health/stamina.md) and take 16 damage, you lose the temporary [Stamina](../rule/health/stamina.md) and then lose another 6 [Stamina](../rule/health/stamina.md).
 
-There is no maximum to how much temporary Stamina you can have. Regaining Stamina can't restore temporary Stamina. If you have temporary Stamina and then gain more temporary Stamina, you get whichever amount of temporary Stamina is greater, rather than adding the two pools together. For instance, if an ability grants you 10 temporary Stamina when you already have 5, you have 10 temporary Stamina, not 15.
+There is no maximum to how much temporary [Stamina](../rule/health/stamina.md) you can have. Regaining [Stamina](../rule/health/stamina.md) can't restore temporary [Stamina](../rule/health/stamina.md). If you have temporary [Stamina](../rule/health/stamina.md) and then gain more temporary [Stamina](../rule/health/stamina.md), you get whichever amount of temporary [Stamina](../rule/health/stamina.md) is greater, rather than adding the two pools together. For instance, if an ability grants you 10 temporary [Stamina](../rule/health/stamina.md) when you already have 5, you have 10 temporary [Stamina](../rule/health/stamina.md), not 15.
 
-Unless otherwise indicated, temporary Stamina disappears at the end of an encounter.
+Unless otherwise indicated, temporary [Stamina](../rule/health/stamina.md) disappears at the end of an encounter.
 
 #### Object Stamina {data-scc="mcdm.heroes.v1/rule.general/unattended-object"}
 
-Mundane objects in the game have Stamina based on the material they're made of. When an object's Stamina is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A size 1 object or 1 square of a larger object made of common materials has Stamina as follows:
+Mundane objects in the game have [Stamina](../rule/health/stamina.md) based on the material they're made of. When an object's [Stamina](../rule/health/stamina.md) is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A size 1 object or 1 square of a larger object made of common materials has [Stamina](../rule/health/stamina.md) as follows:
 
-- Glass: 1 Stamina
-- Wood: 3 Stamina
-- Stone: 6 Stamina
-- Metal: 9 Stamina
+- Glass: 1 [Stamina](../rule/health/stamina.md)
+- Wood: 3 [Stamina](../rule/health/stamina.md)
+- Stone: 6 [Stamina](../rule/health/stamina.md)
+- Metal: 9 [Stamina](../rule/health/stamina.md)
 
-The Director can decide that a well-made or poorly made object has more or less Stamina. Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
+The Director can decide that a well-made or poorly made object has more or less [Stamina](../rule/health/stamina.md). Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
 
 ### Underwater Combat {data-scc="mcdm.heroes.v1/rule.combat/underwater-combat"}
 
@@ -695,7 +695,7 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat {data-scc="mcdm.heroes.v1/rule.combat/mounted-combat"}
 
-A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the [Ride](../feature/trait/common/move-actions/ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the [Ride](../feature/common/move-actions/ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
 If a creature riding a mount is [force moved](../movement/forced-movement.md), they are knocked off the mount and must make a test to determine how they land (see Climbing Other Creatures\). If a mount is [force moved](../movement/forced-movement.md), they carry any riders with them. Riders and mounts [teleport](../movement/teleport.md) separately.
 
@@ -703,11 +703,11 @@ If your mount dies, they [fall prone](../condition/prone.md), and you fall off t
 
 ### End of Combat
 
-At the end of combat, the Director determines if the heroes earn any Victories. Any effect or condition on you that you suffered during combat (except for being winded, unconscious, or dying) ends if you want it to.
+At the end of combat, the Director determines if the heroes earn any Victories. Any effect or condition on you that you suffered during combat (except for being [winded](../rule/health/winded.md), unconscious, or [dying](../rule/health/dying.md)) ends if you want it to.
 
 #### How Combat Ends
 
-The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's Stamina is reduced to 0.
+The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's [Stamina](../rule/health/stamina.md) is reduced to 0.
 
 To avoid a battle dragging, the Director can set objectives when they build the encounter. Once the heroes achieve those objectives, or if it becomes clear that they can win the fight with minimal effort, the Director can end the encounter. They might do so by calling "Cut!" like a film director, or they can use some other phrase or indicator.
 

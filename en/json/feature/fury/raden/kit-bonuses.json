@@ -1,0 +1,22 @@
+{
+  "effects": [
+    {
+      "effect": "- **[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +3 per echelon\n- **Speed Bonus:** +3\n- **Melee Damage Bonus:** +2/+2/+2\n- **Disengage Bonus:** +1"
+    }
+  ],
+  "feature_type": "feature",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "feature",
+    "item_id": "kit-bonuses",
+    "item_name": "Kit Bonuses",
+    "kit": "raden",
+    "scc": [
+      "mcdm.heroes.v1/feature.fury.raden/kit-bonuses"
+    ],
+    "type": "feature/fury/raden"
+  },
+  "name": "Kit Bonuses",
+  "type": "feature"
+}

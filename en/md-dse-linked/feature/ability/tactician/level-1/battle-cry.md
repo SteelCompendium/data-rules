@@ -19,9 +19,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry
 source: mcdm.heroes.v1
 target: Three allies
-tier1: Each target gains 1 surge.
-tier2: Each target gains 2 surges.
-tier3: Each target gains 3 surges.
+tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
+tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
+tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 type: ability
 ---
 
@@ -30,9 +30,9 @@ cost: 3 Focus
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: Each target gains 1 surge.
-      tier2: Each target gains 2 surges.
-      tier3: Each target gains 3 surges.
+      tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
+      tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
+      tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 flavor: You shout a phrase that galvanizes your team.
 keywords:
@@ -50,9 +50,9 @@ metadata:
     power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry
     target: Three allies
-    tier1: Each target gains 1 surge.
-    tier2: Each target gains 2 surges.
-    tier3: Each target gains 3 surges.
+    tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
+    tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
+    tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
     type: ability
 name: Battle Cry
 target: Three allies

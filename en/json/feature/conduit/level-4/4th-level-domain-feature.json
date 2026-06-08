@@ -1,0 +1,56 @@
+{
+  "ability": {
+    "distance": "3 aura",
+    "effects": [
+      {
+        "effect": "Each creature in the area has a double edge on tests made to [hide](scc:mcdm.heroes.v1/skill/hide) or [sneak](scc:mcdm.heroes.v1/skill/sneak). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "flavor": "You project an illusory aura that makes you and allies harder to notice.",
+    "keywords": [
+      "Area",
+      "Magic"
+    ],
+    "metadata": {
+      "action_type": "Maneuver",
+      "content": "\n*You project an illusory aura that makes you and allies harder to notice.*\n\n| **Area, Magic** |                         **Maneuver**  |\n|-----------------|--------------------------------------:|\n| **📏 3 aura**   | **🎯 Self and each ally in the area** |\n\n**Effect:** Each creature in the area has a double edge on tests made to [hide](scc:mcdm.heroes.v1/skill/hide) or [sneak](scc:mcdm.heroes.v1/skill/sneak). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.",
+      "distance": "3 aura",
+      "feature_type": "ability",
+      "flavor": "You project an illusory aura that makes you and allies harder to notice.",
+      "item_id": "blessing-of-secrets",
+      "item_name": "Blessing of Secrets",
+      "keywords": [
+        "Area",
+        "Magic"
+      ],
+      "target": "Self and each ally in the area",
+      "type": "feature/ability/common"
+    },
+    "name": "Blessing of Secrets",
+    "target": "Self and each ally in the area",
+    "type": "feature",
+    "usage": "Maneuver"
+  },
+  "effects": [
+    {
+      "effect": "Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](scc:mcdm.heroes.v1/class/conduit) Domain Features table.\n\n###### 4th-Level Conduit Domain Features Table\n\n| Domain     | Feature                     |\n|------------|-----------------------------|\n| Creation   | Improved [Hands of the Maker](scc:mcdm.heroes.v1/feature.ability.censor.level-1/hands-of-the-maker) |\n| Death      | Seance                      |\n| Fate       | [Oracular Warning](scc:mcdm.heroes.v1/feature.censor.level-4/oracular-warning)            |\n| Knowledge  | Saint's Epiphany            |\n| Life       | [Blessing of Life](scc:mcdm.heroes.v1/feature.censor.level-4/blessing-of-life)            |\n| Love       | Invocation of the Heart     |\n| Nature     | [Wode Road](scc:mcdm.heroes.v1/feature.censor.level-4/wode-road)                   |\n| Protection | [Impervious Touch](scc:mcdm.heroes.v1/feature.censor.level-4/impervious-touch)            |\n| Storm      | Windwalk                    |\n| Sun        | [Light of Revelation](scc:mcdm.heroes.v1/feature.censor.level-4/light-of-revelation)         |\n| Trickery   | [Blessing of Secrets](scc:mcdm.heroes.v1/feature.ability.censor.level-4/blessing-of-secrets)         |\n| War        | [Improved Sanctified Weapon](scc:mcdm.heroes.v1/feature.censor.level-4/improved-sanctified-weapon)  |\n\n###### Blessing of Life\n\nYour divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](scc:mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace) ability regains [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), they regain additional [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your Intuition score.\n\n###### Blessing of Secrets\n\nYou have the following ability.\n\n###### Impervious Touch\n\nAs a maneuver, you can touch an object with a size equal to your Intuition score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your Intuition score, and you can end the spell on any object at any time (no action required).\n\nAdditionally, you can place this spell on a building or vehicle (or a similar structure with the Director's approval) that is of a size larger than your Intuition score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your Intuition score simultaneously.\n\n###### Improved Hands of the Maker\n\nWhen you use your [Hands of the Maker](scc:mcdm.heroes.v1/feature.ability.censor.level-1/hands-of-the-maker) ability, you can create a mundane object that is size 2 or smaller.\n\n###### Improved Sanctified Weapon\n\nThe weapon improved by your [Sanctified Weapon](scc:mcdm.heroes.v1/feature.censor.level-1/sanctified-weapon) feature grants a +3 bonus to rolled damage instead of +1.\n\n###### Invocation of the Heart\n\nAs a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any distance, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).\n\n###### Light of Revelation\n\nAs a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.\n\n###### Oracular Warning\n\nEach time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) equal to 10 + your level that lasts until you finish a respite.\n\n###### Seance\n\nYou can commune with a network of spirits. As a respite activity, you speak the name of a creature who died and isn't undead. If the creature's spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn't free or willing to appear, you can speak another name or choose another respite activity.\n\n###### Saint's Epiphany\n\nAt the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your Intuition score to the roll.\n\n###### Windwalk\n\nWhile you have 5 or more Victories, you can [fly](scc:mcdm.heroes.v1/movement/fly). If you can already [fly](scc:mcdm.heroes.v1/movement/fly), you have a +2 bonus to speed while [flying](scc:mcdm.heroes.v1/movement/fly) instead.\n\n###### Wode Road\n\nAs a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required)."
+    }
+  ],
+  "feature_type": "feature",
+  "metadata": {
+    "action_type": "feature",
+    "class": "conduit",
+    "feature_type": "feature",
+    "item_id": "4th-level-domain-feature",
+    "item_name": "4th-Level Domain Feature",
+    "level": 4,
+    "scc": [
+      "mcdm.heroes.v1/feature.conduit.level-4/4th-level-domain-feature"
+    ],
+    "type": "feature/conduit/level-4"
+  },
+  "name": "4th-Level Domain Feature",
+  "type": "feature"
+}

@@ -5,7 +5,7 @@ cost: 5 Discipline
 cost_amount: "5"
 cost_resource: Discipline
 distance: Self
-effect: While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.
+effect: While you have [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while [dying](../../../../rule/health/dying.md).
 feature_type: ability
 file_basename: kinetic-shield
 file_dpath: feature/ability/null/level-2
@@ -20,9 +20,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield
 source: mcdm.heroes.v1
 target: Self
-tier1: You gain 10 temporary Stamina.
-tier2: You gain 15 temporary Stamina.
-tier3: You gain 20 temporary Stamina.
+tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 type: ability
 ---
 
@@ -30,11 +30,11 @@ type: ability
 cost: 5 Discipline
 distance: Self
 effects:
-    - effect: While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.
+    - effect: While you have [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while [dying](../../../../rule/health/dying.md).
     - roll: Power Roll + Intuition
-      tier1: You gain 10 temporary Stamina.
-      tier2: You gain 15 temporary Stamina.
-      tier3: You gain 20 temporary Stamina.
+      tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 feature_type: ability
 flavor: You manifest a force barrier that absorbs incoming kinetic energy.
 keywords:
@@ -44,7 +44,7 @@ metadata:
     class: "null"
     cost: 5 Discipline
     distance: Self
-    effect: While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.
+    effect: While you have [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while [dying](../../../../rule/health/dying.md).
     flavor: You manifest a force barrier that absorbs incoming kinetic energy.
     keywords:
         - Psionic
@@ -53,9 +53,9 @@ metadata:
     power_roll_characteristic: Intuition
     scc: mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield
     target: Self
-    tier1: You gain 10 temporary Stamina.
-    tier2: You gain 15 temporary Stamina.
-    tier3: You gain 20 temporary Stamina.
+    tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+    tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+    tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
     type: ability
 name: Kinetic Shield
 target: Self

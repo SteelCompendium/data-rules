@@ -1,0 +1,40 @@
+---
+action_type: feature
+class: fury
+feature_type: feature
+file_basename: growing-ferocity
+file_dpath: feature/fury/corven
+item_id: growing-ferocity
+item_name: Growing Ferocity
+kit: corven
+name: Growing Ferocity
+scc: mcdm.heroes.v1/feature.fury.corven/growing-ferocity
+source: mcdm.heroes.v1
+type: feature
+---
+
+```ds-feature
+effects:
+    - effect: |-
+        As your ferocity grows, you gain benefits as noted on the [Corven](scc:mcdm.heroes.v1/kit/corven) [Growing Ferocity](scc:mcdm.heroes.v1/feature.fury.boren/growing-ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+
+        ###### Corven Growing Ferocity Table
+
+        | Ferocity        | Benefit                                                                                                                                           |
+        |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+        | 2               | Whenever you use the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action, the distance you can [shift](scc:mcdm.heroes.v1/movement/shifting) gains a bonus equal to your Agility score.                                 |
+        | 4               | The first time you [shift](scc:mcdm.heroes.v1/movement/shifting) on a turn, you gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).                                                                                             |
+        | 6               | You gain an edge on Agility tests, the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver, and the [Knockback](scc:mcdm.heroes.v1/feature.common.maneuvers/knockback) maneuver.                                                          |
+        | 8 (4th level)   | The first time you [shift](scc:mcdm.heroes.v1/movement/shifting) on a turn, you gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge) instead of 1.                                                                               |
+        | 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver, and the [Knockback](scc:mcdm.heroes.v1/feature.common.maneuvers/knockback) maneuver.                                                    |
+        | 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, the potency of any effects targeting you is reduced by 2 for you. |
+feature_type: feature
+metadata:
+    class: fury
+    kit: corven
+    name: Growing Ferocity
+    scc: mcdm.heroes.v1/feature.fury.corven/growing-ferocity
+    type: feature
+name: Growing Ferocity
+type: feature
+```

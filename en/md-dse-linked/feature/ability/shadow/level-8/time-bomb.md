@@ -16,7 +16,7 @@ level: "8"
 name: Time Bomb
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb
 source: mcdm.heroes.v1
-spend: '2+ Insight: For every 2 insight spent, you increase the cube''s size by 1 and gain 1 surge that can be used only with this ability.'
+spend: '2+ Insight: For every 2 insight spent, you increase the cube''s size by 1 and gain 1 [surge](../../../../rule/resource/surge.md) that can be used only with this ability.'
 target: Each enemy in the area
 type: ability
 ---
@@ -25,7 +25,7 @@ type: ability
 distance: 2 cube within 10
 effects:
     - effect: Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
-    - effect: '2+ Insight: For every 2 insight spent, you increase the cube''s size by 1 and gain 1 surge that can be used only with this ability.'
+    - effect: '2+ Insight: For every 2 insight spent, you increase the cube''s size by 1 and gain 1 [surge](../../../../rule/resource/surge.md) that can be used only with this ability.'
       name: Spend
 feature_type: ability
 flavor: The longer it cooks, the bigger the boom.
@@ -44,7 +44,7 @@ metadata:
     level: "8"
     name: Time Bomb
     scc: mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb
-    spend: '2+ Insight: For every 2 insight spent, you increase the cube''s size by 1 and gain 1 surge that can be used only with this ability.'
+    spend: '2+ Insight: For every 2 insight spent, you increase the cube''s size by 1 and gain 1 [surge](../../../../rule/resource/surge.md) that can be used only with this ability.'
     target: Each enemy in the area
     type: ability
 name: Time Bomb

@@ -1,7 +1,7 @@
 cost: 11 Drama
 distance: Ranged 10
 effects:
-    - effect: The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+    - effect: The target gains 3 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource), has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
       name: Effect
 feature_type: ability
 flavor: You narrate the tension of the scene and put all hope into your protagonist to turn things around.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: troubadour
-    content: "\n*You narrate the tension of the scene and put all hope into your protagonist to turn things around.*\n\n| **Magic, Ranged** |    **Maneuver** |\n|-------------------|----------------:|\n| **\U0001F4CF Ranged 10**  | **\U0001F3AF One ally** |\n\n**Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round."
+    content: "\n*You narrate the tension of the scene and put all hope into your protagonist to turn things around.*\n\n| **Magic, Ranged** |    **Maneuver** |\n|-------------------|----------------:|\n| **\U0001F4CF Ranged 10**  | **\U0001F3AF One ally** |\n\n**Effect:** The target gains 3 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource), has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](scc:mcdm.heroes.v1/condition/slowed) or [weakened](scc:mcdm.heroes.v1/condition/weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round."
     distance: Ranged 10
     feature_type: ability
     flavor: You narrate the tension of the scene and put all hope into your protagonist to turn things around.

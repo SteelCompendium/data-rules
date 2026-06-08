@@ -5,7 +5,7 @@ effects:
       tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
       tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
       tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-    - effect: One ally adjacent to the target can spend a Recovery.
+    - effect: One ally adjacent to the target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability
 flavor: Your enemy will think twice about attacking your friend.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: tactician
-    content: "\n*Your enemy will think twice about attacking your friend.*\n\n| **Ranged, Strike, Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)\n- **12-16:** 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)\n- **17+:** 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)\n\n**Effect:** One ally adjacent to the target can spend a Recovery."
+    content: "\n*Your enemy will think twice about attacking your friend.*\n\n| **Ranged, Strike, Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF Ranged 5**            | **\U0001F3AF One creature** |\n\n**Power Roll + Reason:**\n\n- **≤11:** 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)\n- **12-16:** 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)\n- **17+:** 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)\n\n**Effect:** One ally adjacent to the target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
     distance: Ranged 5
     feature_type: ability
     flavor: Your enemy will think twice about attacking your friend.

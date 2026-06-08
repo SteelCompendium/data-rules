@@ -5,7 +5,7 @@ cost: 7 Piety
 cost_amount: "7"
 cost_resource: Piety
 distance: 5 burst
-effect: Each ally in the area can spend a Recovery.
+effect: Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: words-of-wrath-and-grace
 file_dpath: feature/ability/conduit/level-3
@@ -31,7 +31,7 @@ type: ability
 cost: 7 Piety
 distance: 5 burst
 effects:
-    - effect: Each ally in the area can spend a Recovery.
+    - effect: Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     - roll: Power Roll + Intuition
       tier1: 2 holy damage
       tier2: 5 holy damage
@@ -46,7 +46,7 @@ metadata:
     class: conduit
     cost: 7 Piety
     distance: 5 burst
-    effect: Each ally in the area can spend a Recovery.
+    effect: Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.
     keywords:
         - Area

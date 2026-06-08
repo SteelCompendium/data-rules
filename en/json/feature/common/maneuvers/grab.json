@@ -1,0 +1,58 @@
+{
+  "ability": {
+    "distance": "Melee 1",
+    "effects": [
+      {
+        "roll": "Power Roll + Might",
+        "tier1": "No effect.",
+        "tier2": "You can grab the target, but if you do, the target can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).",
+        "tier3": "The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you."
+      },
+      {
+        "effect": "You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.",
+        "name": "Effect"
+      }
+    ],
+    "feature_type": "ability",
+    "keywords": [
+      "Melee",
+      "Weapon"
+    ],
+    "metadata": {
+      "action_type": "Maneuver",
+      "content": "\n| **Melee, Weapon** |        **Maneuver** |\n|-------------------|--------------------:|\n| **📏 Melee 1**    | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** No effect.\n- **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).\n- **17+:** The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.\n\n**Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.\n\nUnless otherwise indicated, a creature can grab only one creature at a time.\n\nSee Conditions in Chapter 5: [Classes](scc:mcdm.heroes.v1/chapter/classes) for information on the [grabbed](scc:mcdm.heroes.v1/condition/grabbed) condition.",
+      "distance": "Melee 1",
+      "feature_type": "ability",
+      "item_id": "grab",
+      "item_name": "Grab",
+      "keywords": [
+        "Melee",
+        "Weapon"
+      ],
+      "target": "One creature",
+      "type": "feature/ability/common"
+    },
+    "name": "Grab",
+    "target": "One creature",
+    "type": "feature",
+    "usage": "Maneuver"
+  },
+  "effects": [
+    {
+      "effect": "A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability."
+    }
+  ],
+  "feature_type": "feature",
+  "metadata": {
+    "action_type": "feature",
+    "feature_type": "feature",
+    "item_id": "grab",
+    "item_name": "Grab",
+    "scc": [
+      "mcdm.heroes.v1/feature.common.maneuvers/grab"
+    ],
+    "type": "feature/common/maneuvers"
+  },
+  "name": "Grab",
+  "type": "feature"
+}

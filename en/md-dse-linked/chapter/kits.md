@@ -98,11 +98,11 @@ If you find a piece of equipment you really want to use that isn't part of your 
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your Stamina, speed, and stability, as well as the damage and distance of your weapon abilities, including your [free strikes](../feature/trait/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your [Stamina](../rule/health/stamina.md), speed, and stability, as well as the damage and distance of your weapon abilities, including your [free strikes](../feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
-Your kit's Stamina bonus is added to your Stamina maximum and scales with your echelon.
+Your kit's [Stamina](../rule/health/stamina.md) bonus is added to your [Stamina](../rule/health/stamina.md) maximum and scales with your echelon.
 
 #### Speed Bonus
 
@@ -130,7 +130,7 @@ A distance bonus doesn't increase the size of any ability's area of effect.
 
 #### Disengage Bonus
 
-A kit that has a disengage bonus increases the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action (see Chapter 10: [Combat](combat.md)).
+A kit that has a disengage bonus increases the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action (see Chapter 10: [Combat](combat.md)).
 
 ### Kit Signature Ability
 
@@ -144,15 +144,15 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 > **Improvised Weapons**
 >
-> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../feature/trait/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../feature/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
 >
-> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../feature/trait/common/main-actions/free-strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
+> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../feature/common/main-actions/free-strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
 ### Optional Rule: Losing Equipment
 
 The rules of the game expect that heroes always have access to their equipment. That's because for most of the time in the game, heroes aren't worried about surviving for days on end in a dungeon and tracking every piece of gear they carry. However, there might be times where your group wants to tell a story of heroes who are captured and stripped of their equipment, or who find themselves at a masquerade where weapons need to be checked at the door. For those kinds of scenarios, you can use the following rules:
 
-- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's Stamina bonus and stability bonus. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its Stamina bonus, even if you aren't actively wielding it.
+- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's [Stamina](../rule/health/stamina.md) bonus and stability bonus. If you lose your shield but keep the rest of your armor, your [Stamina](../rule/health/stamina.md) decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its [Stamina](../rule/health/stamina.md) bonus, even if you aren't actively wielding it.
 - If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's melee damage bonus.
 - If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and distance bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
 - If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee distance bonus.
@@ -161,7 +161,7 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 ###### Kits Table
 
-| Kit              | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
+| Kit              | Armor          | Weapon             | [Stamina](../rule/health/stamina.md) per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
 |------------------|----------------|--------------------|---------------------|-------|-----------|--------------|---------------|----------------|-----------------|-----------|
 | [Arcane Archer](../kit/arcane-archer.md)    | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
 | [Battlemind](../kit/battlemind.md)       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |

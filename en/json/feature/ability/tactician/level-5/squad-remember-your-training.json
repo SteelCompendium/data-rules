@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "Each target gains 1 surge and can use a signature ability that has a double edge.",
+      "effect": "Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) and can use a signature ability that has a double edge.",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*You remind your allies how to best use their gear.*\n\n| **Ranged**                |                         **Main action** |\n|------------------------------|----------------------------------------:|\n| **📏 Ranged 10**  | **🎯 Self and two allies** |\n\n**Effect:** Each target gains 1 surge and can use a signature ability that has a double edge.",
+    "content": "\n*You remind your allies how to best use their gear.*\n\n| **Ranged**                |                         **Main action** |\n|------------------------------|----------------------------------------:|\n| **📏 Ranged 10**  | **🎯 Self and two allies** |\n\n**Effect:** Each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) and can use a signature ability that has a double edge.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You remind your allies how to best use their gear.",

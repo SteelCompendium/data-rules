@@ -5,7 +5,7 @@ cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
 distance: Melee 3
-effect: This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
+effect: This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 [surges](../../../../rule/resource/surge.md) that you can use immediately.
 feature_type: ability
 file_basename: expert-fencer
 file_dpath: feature/ability/troubadour/level-9
@@ -33,7 +33,7 @@ type: ability
 cost: 11 Drama
 distance: Melee 3
 effects:
-    - effect: This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
+    - effect: This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 [surges](../../../../rule/resource/surge.md) that you can use immediately.
     - roll: Power Roll + Agility
       tier1: 15 + A damage
       tier2: 21 + A damage
@@ -50,7 +50,7 @@ metadata:
     class: troubadour
     cost: 11 Drama
     distance: Melee 3
-    effect: This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
+    effect: This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 [surges](../../../../rule/resource/surge.md) that you can use immediately.
     flavor: If you can land the strike, the crowd goes wild.
     keywords:
         - Charge

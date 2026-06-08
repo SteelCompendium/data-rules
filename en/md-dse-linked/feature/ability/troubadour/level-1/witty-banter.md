@@ -19,7 +19,7 @@ name: Witty Banter
 power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter
 source: mcdm.heroes.v1
-spend: '1 Drama: The chosen ally can spend a Recovery.'
+spend: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
 subtype: signature
 target: One creature
 tier1: 4 + P psychic damage
@@ -36,7 +36,7 @@ effects:
       tier1: 4 + P psychic damage
       tier2: 5 + P psychic damage
       tier3: 7 + P psychic damage
-    - effect: '1 Drama: The chosen ally can spend a Recovery.'
+    - effect: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
       name: Spend
 feature_type: ability
 flavor: A lyrical (and physical) jab insults an enemy and inspires an ally.
@@ -60,7 +60,7 @@ metadata:
     name: Witty Banter
     power_roll_characteristic: Presence
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter
-    spend: '1 Drama: The chosen ally can spend a Recovery.'
+    spend: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
     subtype: signature
     target: One creature
     tier1: 4 + P psychic damage

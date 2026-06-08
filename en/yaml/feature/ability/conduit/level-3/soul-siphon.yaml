@@ -5,7 +5,7 @@ effects:
       tier1: 7 + I corruption damage
       tier2: 10 + I corruption damage
       tier3: 15 + I corruption damage
-    - effect: One ally within distance can spend any number of Recoveries.
+    - effect: One ally within distance can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability
 flavor: A beam of energy connects a foe to a friend, draining life from one to heal the other.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*A beam of energy connects a foe to a friend, draining life from one to heal the other.*\n\n| **Magic, Ranged, Strike** |  **Main action** |\n|---------------------------|-----------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF One enemy** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 7 + I corruption damage\n- **12-16:** 10 + I corruption damage\n- **17+:** 15 + I corruption damage\n\n**Effect:** One ally within distance can spend any number of Recoveries."
+    content: "\n*A beam of energy connects a foe to a friend, draining life from one to heal the other.*\n\n| **Magic, Ranged, Strike** |  **Main action** |\n|---------------------------|-----------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF One enemy** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 7 + I corruption damage\n- **12-16:** 10 + I corruption damage\n- **17+:** 15 + I corruption damage\n\n**Effect:** One ally within distance can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries)."
     distance: Ranged 10
     feature_type: ability
     flavor: A beam of energy connects a foe to a friend, draining life from one to heal the other.

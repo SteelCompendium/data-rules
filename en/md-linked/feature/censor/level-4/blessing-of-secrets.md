@@ -1,0 +1,20 @@
+---
+class: censor
+level: "4"
+name: Blessing of Secrets
+scc: mcdm.heroes.v1/feature.censor.level-4/blessing-of-secrets
+type: feature
+---
+
+You have the following ability.
+
+## Blessing of Secrets {data-scc="mcdm.heroes.v1/feature.ability.censor.level-4/blessing-of-secrets"}
+
+
+*You project an illusory aura that makes you and allies harder to notice.*
+
+| **Area, Magic** |                          **Maneuver** |
+|-----------------|--------------------------------------:|
+| **📏 3 aura**   | **🎯 Self and each ally in the area** |
+
+**Effect:** Each creature in the area has a double edge on tests made to [hide](../../../skill/hide.md) or [sneak](../../../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.

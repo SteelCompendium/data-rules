@@ -23,9 +23,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-8/relentless-death
 source: mcdm.heroes.v1
 target: Self
-tier1: Any target whose Stamina is equal to or less than 8 dies.
-tier2: Any target whose Stamina is equal to or less than 11 dies.
-tier3: Any target whose Stamina is equal to or less than 17 dies.
+tier1: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 8 dies.
+tier2: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 11 dies.
+tier3: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 17 dies.
 type: ability
 ---
 
@@ -35,9 +35,9 @@ distance: Self; see below
 effects:
     - effect: You [shift](../../../../movement/shifting.md) up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this [shift](../../../../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
     - roll: Power Roll + Might
-      tier1: Any target whose Stamina is equal to or less than 8 dies.
-      tier2: Any target whose Stamina is equal to or less than 11 dies.
-      tier3: Any target whose Stamina is equal to or less than 17 dies.
+      tier1: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 8 dies.
+      tier2: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 11 dies.
+      tier3: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 17 dies.
 feature_type: ability
 flavor: You won't escape your fate.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.fury.level-8/relentless-death
     target: Self
-    tier1: Any target whose Stamina is equal to or less than 8 dies.
-    tier2: Any target whose Stamina is equal to or less than 11 dies.
-    tier3: Any target whose Stamina is equal to or less than 17 dies.
+    tier1: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 8 dies.
+    tier2: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 11 dies.
+    tier3: Any target whose [Stamina](../../../../rule/health/stamina.md) is equal to or less than 17 dies.
     type: ability
 name: Relentless Death
 target: Self

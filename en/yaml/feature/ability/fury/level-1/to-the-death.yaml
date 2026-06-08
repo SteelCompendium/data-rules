@@ -5,7 +5,7 @@ effects:
       tier1: 3 + M damage
       tier2: 6 + M damage
       tier3: 9 + M damage
-    - effect: You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.
+    - effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an opportunity attack against you as a free triggered action.
       name: Effect
 feature_type: ability
 flavor: Your reckless assault leaves you tactically vulnerable.
@@ -17,7 +17,7 @@ metadata:
     ability_type: Signature
     action_type: Main action
     class: fury
-    content: "\n*Your reckless assault leaves you tactically vulnerable.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 + M damage\n- **12-16:** 6 + M damage\n- **17+:** 9 + M damage\n\n**Effect:** You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action."
+    content: "\n*Your reckless assault leaves you tactically vulnerable.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 3 + M damage\n- **12-16:** 6 + M damage\n- **17+:** 9 + M damage\n\n**Effect:** You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an opportunity attack against you as a free triggered action."
     distance: Melee 1
     feature_type: ability
     flavor: Your reckless assault leaves you tactically vulnerable.

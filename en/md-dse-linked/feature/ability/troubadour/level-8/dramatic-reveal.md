@@ -5,7 +5,7 @@ cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
 distance: Self
-effect: Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../../trait/common/main-actions/free-strike.md).
+effect: Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../../common/main-actions/free-strike.md).
 feature_type: ability
 file_basename: dramatic-reveal
 file_dpath: feature/ability/troubadour/level-8
@@ -26,7 +26,7 @@ type: ability
 cost: 11 Drama
 distance: Self
 effects:
-    - effect: Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../../trait/common/main-actions/free-strike.md).
+    - effect: Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../../common/main-actions/free-strike.md).
 feature_type: ability
 flavor: A little stage trickery, and where once stood a foe, now stands a friend!
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: troubadour
     cost: 11 Drama
     distance: Self
-    effect: Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../../trait/common/main-actions/free-strike.md).
+    effect: Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../../common/main-actions/free-strike.md).
     flavor: A little stage trickery, and where once stood a foe, now stands a friend!
     keywords:
         - Magic

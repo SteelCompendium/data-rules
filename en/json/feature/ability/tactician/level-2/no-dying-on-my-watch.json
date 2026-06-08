@@ -10,7 +10,7 @@
       "tier3": "R \u003c STRONG, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)"
     },
     {
-      "effect": "You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.",
+      "effect": "You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) for each enemy you came adjacent to during the move. You then make a power roll against the target.",
       "name": "Effect"
     }
   ],
@@ -25,7 +25,7 @@
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "tactician",
-    "content": "\n*You prioritize saving an ally over your own safety.*\n\n| **Ranged, Strike, Weapon** |    **Triggered** |\n|----------------------------|-----------------:|\n| **📏 Ranged 5**            | **🎯 One enemy** |\n\n**Trigger:** The target deals damage to an ally.\n\n**Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.\n\n**Power Roll + Might:**\n\n- **≤11:** R \u003c WEAK, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)\n- **12-16:** R \u003c AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)\n- **17+:** R \u003c STRONG, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)",
+    "content": "\n*You prioritize saving an ally over your own safety.*\n\n| **Ranged, Strike, Weapon** |    **Triggered** |\n|----------------------------|-----------------:|\n| **📏 Ranged 5**            | **🎯 One enemy** |\n\n**Trigger:** The target deals damage to an ally.\n\n**Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) and gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) for each enemy you came adjacent to during the move. You then make a power roll against the target.\n\n**Power Roll + Might:**\n\n- **≤11:** R \u003c WEAK, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)\n- **12-16:** R \u003c AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)\n- **17+:** R \u003c STRONG, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)",
     "distance": "Ranged 5",
     "feature_type": "ability",
     "flavor": "You prioritize saving an ally over your own safety.",

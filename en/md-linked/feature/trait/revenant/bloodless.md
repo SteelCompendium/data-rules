@@ -5,4 +5,4 @@ scc: mcdm.heroes.v1/feature.trait.revenant/bloodless
 type: trait
 ---
 
-For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../../condition/bleeding.md) even while dying.
+For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../../condition/bleeding.md) even while [dying](../../../rule/health/dying.md).

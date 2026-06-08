@@ -1,7 +1,7 @@
 cost: 7 Ferocity
 distance: Self
 effects:
-    - effect: You gain 20 temporary Stamina.
+    - effect: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
       name: Effect
 feature_type: ability
 flavor: See how useless their weapons are!
@@ -10,7 +10,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: fury
-    content: "\n*See how useless their weapons are!*\n\n| **Magic**   | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You gain 20 temporary Stamina."
+    content: "\n*See how useless their weapons are!*\n\n| **Magic**   | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina)."
     distance: Self
     feature_type: ability
     flavor: See how useless their weapons are!

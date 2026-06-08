@@ -10,7 +10,6 @@ name: Dual Wielder
 scc: mcdm.heroes.v1/kit/dual-wielder
 source: mcdm.heroes.v1
 speed_bonus: "+2"
-stamina_bonus: +6 per echelon
 type: kit
 ---
 
@@ -22,7 +21,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ##### Kit Bonuses
 
-**Stamina Bonus:** +6 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +6 per echelon
 
 **Speed Bonus:** +2
 

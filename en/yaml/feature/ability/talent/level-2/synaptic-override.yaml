@@ -2,10 +2,10 @@ cost: 5 Clarity
 distance: Ranged 10
 effects:
     - roll: Power Roll + Reason
-      tier1: The target makes a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against one enemy of your choice.
+      tier1: The target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against one enemy of your choice.
       tier2: The target shifts up to their speed and uses their signature ability against any enemies of your choice.
       tier3: The target moves up to their speed and uses their signature ability against any enemies of your choice.
-    - effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
+    - effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](scc:mcdm.heroes.v1/rule.health/dying), or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
       name: Effect
 feature_type: ability
 flavor: You control an enemy's nervous system. How pleasant for them.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: talent
-    content: "\n*You control an enemy's nervous system. How pleasant for them.*\n\n| **Psionic, Ranged, Telepathy** |  **Main action** |\n|--------------------------------|-----------------:|\n| **\U0001F4CF Ranged 10**               | **\U0001F3AF One enemy** |\n\n**Power Roll + Reason:**\n\n- **≤11:** The target makes a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against one enemy of your choice.\n- **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.\n- **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.\n\n**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.\n\n**Strained:** You take 1d6 damage and are [weakened](scc:mcdm.heroes.v1/condition/weakened) until the end of your turn."
+    content: "\n*You control an enemy's nervous system. How pleasant for them.*\n\n| **Psionic, Ranged, Telepathy** |  **Main action** |\n|--------------------------------|-----------------:|\n| **\U0001F4CF Ranged 10**               | **\U0001F3AF One enemy** |\n\n**Power Roll + Reason:**\n\n- **≤11:** The target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against one enemy of your choice.\n- **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.\n- **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.\n\n**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](scc:mcdm.heroes.v1/rule.health/dying), or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.\n\n**Strained:** You take 1d6 damage and are [weakened](scc:mcdm.heroes.v1/condition/weakened) until the end of your turn."
     distance: Ranged 10
     feature_type: ability
     flavor: You control an enemy's nervous system. How pleasant for them.

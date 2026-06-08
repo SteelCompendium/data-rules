@@ -57,11 +57,11 @@ Reading the ability this way prevents a lot of back and forth. You don't need to
 
 ##### Adjusting Potencies
 
-Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor's](../../class/censor.md) Judgment ability and the [null's](../../class/null.md) [Null Field](../../feature/trait/null/level-1/null-field.md) ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
+Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor's](../../class/censor.md) Judgment ability and the [null's](../../class/null.md) [Null Field](../../feature/null/level-1/null-field.md) ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
 
 ##### Spending Resources on Potencies
 
-If an ability or feature allows you to spend your Heroic Resource on an effect that is entirely dependent on a potency and the target is unaffected because their characteristic is high enough to resist the potency, then you don't spend the Heroic Resource.
+If an ability or feature allows you to spend your [Heroic Resource](../resource/heroic-resource.md) on an effect that is entirely dependent on a potency and the target is unaffected because their characteristic is high enough to resist the potency, then you don't spend the [Heroic Resource](../resource/heroic-resource.md).
 
 For example, the [tactician's](../../class/tactician.md) Overwatch ability allows the [tactician](../../class/tactician.md) to spend 1 focus to impose the [slowed](../../condition/slowed.md) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../class/tactician.md) targets a creature whose high Reason leaves them unaffected, the [tactician](../../class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
 

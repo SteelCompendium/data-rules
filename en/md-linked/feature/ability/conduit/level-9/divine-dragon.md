@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 11 Piety
 distance: Ranged 10
-effect: You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../../movement/fly.md), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+effect: You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../../movement/fly.md), stability 4, 100 [Stamina](../../../../rule/health/stamina.md), immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md).
 flavor: From nothing but divine will, you create a powerful ally.
 keywords:
     - Magic
@@ -26,7 +26,7 @@ type: ability
 |--------------------|----------------:|
 | **📏 Ranged 10**   |  **🎯 Special** |
 
-**Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../../movement/fly.md), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+**Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../../movement/fly.md), stability 4, 100 [Stamina](../../../../rule/health/stamina.md), immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their [Stamina](../../../../rule/health/stamina.md) drops to 0, or if you are [dying](../../../../rule/health/dying.md).
 
 On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 
@@ -36,7 +36,7 @@ On subsequent turns, you can use a main action to command the dragon to breathe 
 - **12-16:** 9 fire damage
 - **17+:** 12 fire damage
 
-Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../trait/common/main-actions/free-strike.md).
+Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../common/main-actions/free-strike.md).
 
 **Power Roll + Intuition:**
 

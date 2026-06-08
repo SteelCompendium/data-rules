@@ -10,7 +10,6 @@ name: Martial Artist
 scc: mcdm.heroes.v1/kit/martial-artist
 source: mcdm.heroes.v1
 speed_bonus: "+3"
-stamina_bonus: +3 per echelon
 type: kit
 ---
 
@@ -22,7 +21,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ##### Kit Bonuses
 
-**Stamina Bonus:** +3 per echelon
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +3 per echelon
 
 **Speed Bonus:** +3
 

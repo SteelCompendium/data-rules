@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 5 Focus
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
+effect: You [shift](../../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../../rule/health/recoveries.md), and you can make the following weapon strike with a distance of melee 1 against a creature.
 flavor: '"Try picking on someone my size."'
 keywords:
     - Melee
@@ -27,7 +27,7 @@ type: ability
 |---------------------------|----------------:|
 | **📏 Self; see below**    |     **🎯 Self** |
 
-**Effect:** You [shift](../../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
+**Effect:** You [shift](../../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../../rule/health/recoveries.md), and you can make the following weapon strike with a distance of melee 1 against a creature.
 
 **Power Roll + Reason:**
 

@@ -5,7 +5,7 @@ cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
 distance: Ranged 10
-effect: The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
+effect: The target uses an ability with a base [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 feature_type: ability
 file_basename: flashback
 file_dpath: feature/ability/talent/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Clarity
 distance: Ranged 10
 effects:
-    - effect: The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
+    - effect: The target uses an ability with a base [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 feature_type: ability
 flavor: The target is thrown several seconds back through time and gets to do it all again.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 5 Clarity
     distance: Ranged 10
-    effect: The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
+    effect: The target uses an ability with a base [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
     flavor: The target is thrown several seconds back through time and gets to do it all again.
     keywords:
         - Chronopathy

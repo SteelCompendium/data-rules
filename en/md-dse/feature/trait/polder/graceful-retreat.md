@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](scc:mcdm.heroes.v1/feature.trait.common.move-actions/disengage) move action.
+    - effect: Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action.
 feature_type: trait
 metadata:
     ancestry: polder

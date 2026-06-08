@@ -2,7 +2,7 @@
 action_type: Main action
 class: fury
 distance: Melee 1
-effect: You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.
+effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an opportunity attack against you as a free triggered action.
 feature_type: ability
 file_basename: to-the-death
 file_dpath: feature/ability/fury/level-1
@@ -29,7 +29,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.
+    - effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an opportunity attack against you as a free triggered action.
     - roll: Power Roll + Might
       tier1: 3 + M damage
       tier2: 6 + M damage
@@ -44,7 +44,7 @@ metadata:
     action_type: Main action
     class: fury
     distance: Melee 1
-    effect: You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.
+    effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an opportunity attack against you as a free triggered action.
     flavor: Your reckless assault leaves you tactically vulnerable.
     keywords:
         - Melee

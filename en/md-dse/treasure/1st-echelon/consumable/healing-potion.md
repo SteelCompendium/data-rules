@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.
+effect: When you drink this potion as a maneuver, you regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries) without spending a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 file_basename: healing-potion
 file_dpath: treasure/1st-echelon/consumable
 item_id: healing-potion
@@ -27,4 +27,4 @@ type: treasure
 
 **Project Goal:** 45
 
-**Effect:** When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.
+**Effect:** When you drink this potion as a maneuver, you regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries) without spending a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).

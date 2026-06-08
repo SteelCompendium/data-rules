@@ -27,7 +27,7 @@ type: ability
 
 **Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../../movement/teleport.md) that distance.
 
-**Life:** Whenever you would die, you can spend a Recovery to regain Stamina instead. If you have no Recoveries to spend, you die.
+**Life:** Whenever you would die, you can spend a [Recovery](../../../rule/health/recoveries.md) to regain [Stamina](../../../rule/health/stamina.md) instead. If you have no [Recoveries](../../../rule/health/recoveries.md) to spend, you die.
 
 **Magic Resistance III:** The benefit of the armor's Magic Resistance II enhancement extends to each ally within 3 squares of you.
 

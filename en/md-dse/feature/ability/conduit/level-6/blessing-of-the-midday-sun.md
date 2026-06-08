@@ -5,7 +5,7 @@ cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
 distance: 4 aura
-effect: Until the end of the encounter or until you are dying, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 surge at the end of each of your turns.
+effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.
 feature_type: ability
 file_basename: blessing-of-the-midday-sun
 file_dpath: feature/ability/conduit/level-6
@@ -27,7 +27,7 @@ type: ability
 cost: 9 Piety
 distance: 4 aura
 effects:
-    - effect: Until the end of the encounter or until you are dying, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 surge at the end of each of your turns.
+    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.
 feature_type: ability
 flavor: Your body emits a heat that bakes your enemies and inspires your allies.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 9 Piety
     distance: 4 aura
-    effect: Until the end of the encounter or until you are dying, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 surge at the end of each of your turns.
+    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your turns.
     flavor: Your body emits a heat that bakes your enemies and inspires your allies.
     keywords:
         - Area

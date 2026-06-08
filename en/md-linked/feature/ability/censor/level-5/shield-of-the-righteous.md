@@ -13,9 +13,9 @@ name: Shield of the Righteous
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous
 target: One creature
-tier1: 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-tier2: 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-tier3: 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
+tier1: 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+tier2: 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+tier3: 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
 type: ability
 ---
 
@@ -28,6 +28,6 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
+- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)

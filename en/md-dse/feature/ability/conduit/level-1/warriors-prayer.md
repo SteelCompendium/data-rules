@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Ranged 10
-effect: You or one ally within distance gains temporary Stamina equal to your Intuition score.
+effect: You or one ally within distance gains [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) equal to your Intuition score.
 feature_type: ability
 file_basename: warriors-prayer
 file_dpath: feature/ability/conduit/level-1
@@ -29,7 +29,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: You or one ally within distance gains temporary Stamina equal to your Intuition score.
+    - effect: You or one ally within distance gains [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) equal to your Intuition score.
     - roll: Power Roll + Intuition
       tier1: 3 + I holy damage
       tier2: 6 + I holy damage
@@ -44,7 +44,7 @@ metadata:
     action_type: Main action
     class: conduit
     distance: Ranged 10
-    effect: You or one ally within distance gains temporary Stamina equal to your Intuition score.
+    effect: You or one ally within distance gains [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) equal to your Intuition score.
     flavor: Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.
     keywords:
         - Magic

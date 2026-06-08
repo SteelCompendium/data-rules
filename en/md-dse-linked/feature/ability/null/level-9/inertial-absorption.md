@@ -5,7 +5,7 @@ cost: 11 Discipline
 cost_amount: "11"
 cost_resource: Discipline
 distance: Self
-effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.
+effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 file_basename: inertial-absorption
 file_dpath: feature/ability/null/level-9
@@ -28,7 +28,7 @@ type: ability
 cost: 11 Discipline
 distance: Self
 effects:
-    - effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.
+    - effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 flavor: You absorb an attack to empower your body.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: "null"
     cost: 11 Discipline
     distance: Self
-    effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.
+    effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](../../../../rule/resource/surge.md).
     flavor: You absorb an attack to empower your body.
     keywords:
         - Psionic

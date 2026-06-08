@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 9 Discipline
 distance: Melee 1
-effect: While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../../../trait/common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+effect: While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../../../common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 flavor: You grab the target with supernatural force.
 keywords:
     - Melee
@@ -34,4 +34,4 @@ type: ability
 - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
 - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 
-**Effect:** While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../../../trait/common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../../../common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.

@@ -12,9 +12,9 @@ name: Orison of Victory
 power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory
 target: Self and each ally in the area
-tier1: Each target gains 1 surge.
-tier2: Each target gains 2 surges.
-tier3: Each target gains 3 surges.
+tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
+tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
+tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 type: ability
 ---
 
@@ -27,8 +27,8 @@ type: ability
 
 **Power Roll + Presence:**
 
-- **≤11:** Each target gains 1 surge.
-- **12-16:** Each target gains 2 surges.
-- **17+:** Each target gains 3 surges.
+- **≤11:** Each target gains 1 [surge](../../../../rule/resource/surge.md).
+- **12-16:** Each target gains 2 [surges](../../../../rule/resource/surge.md).
+- **17+:** Each target gains 3 [surges](../../../../rule/resource/surge.md).
 
 **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.

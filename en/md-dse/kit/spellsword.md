@@ -10,7 +10,6 @@ scc: mcdm.heroes.v1/kit/spellsword
 source: mcdm.heroes.v1
 speed_bonus: "+1"
 stability_bonus: "+1"
-stamina_bonus: +6 per echelon
 type: kit
 ---
 
@@ -22,7 +21,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 ##### Kit Bonuses
 
-**Stamina Bonus:** +6 per echelon
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per echelon
 
 **Speed Bonus:** +1
 

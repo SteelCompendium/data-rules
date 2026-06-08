@@ -25,8 +25,8 @@ type: ability
 
 **Effect:** Choose two of the following effects:
 
-- The target can spend any number of Recoveries.
-- The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
-- The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
+- The target can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
+- The target gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md), and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
+- The target gains 2 [surges](../../../../rule/resource/surge.md), and gains a +3 bonus to speed until the end of the encounter.
 
 **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../../../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends).

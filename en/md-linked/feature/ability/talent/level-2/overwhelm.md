@@ -33,4 +33,4 @@ type: ability
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 
-**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../trait/common/main-actions/free-strike.md) until the end of the target's next turn.
+**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../common/main-actions/free-strike.md) until the end of the target's next turn.

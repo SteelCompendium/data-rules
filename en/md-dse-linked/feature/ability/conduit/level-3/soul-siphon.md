@@ -5,7 +5,7 @@ cost: 7 Piety
 cost_amount: "7"
 cost_resource: Piety
 distance: Ranged 10
-effect: One ally within distance can spend any number of Recoveries.
+effect: One ally within distance can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: soul-siphon
 file_dpath: feature/ability/conduit/level-3
@@ -32,7 +32,7 @@ type: ability
 cost: 7 Piety
 distance: Ranged 10
 effects:
-    - effect: One ally within distance can spend any number of Recoveries.
+    - effect: One ally within distance can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
     - roll: Power Roll + Intuition
       tier1: 7 + I corruption damage
       tier2: 10 + I corruption damage
@@ -48,7 +48,7 @@ metadata:
     class: conduit
     cost: 7 Piety
     distance: Ranged 10
-    effect: One ally within distance can spend any number of Recoveries.
+    effect: One ally within distance can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
     flavor: A beam of energy connects a foe to a friend, draining life from one to heal the other.
     keywords:
         - Magic

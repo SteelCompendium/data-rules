@@ -1,7 +1,7 @@
 cost: 5 Focus
 distance: Ranged 10
 effects:
-    - effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).
+    - effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
       name: Effect
 feature_type: ability
 flavor: Your allies wait for your command—then unleash death!
@@ -10,7 +10,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: tactician
-    content: "\n*Your allies wait for your command—then unleash death!*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**Effect:** Each target can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike)."
+    content: "\n*Your allies wait for your command—then unleash death!*\n\n| **Ranged**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF Ranged 10** | **\U0001F3AF Three allies** |\n\n**Effect:** Each target can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike)."
     distance: Ranged 10
     feature_type: ability
     flavor: Your allies wait for your command—then unleash death!

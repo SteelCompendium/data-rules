@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 surge.
+effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](../../../rule/resource/surge.md).
 file_basename: evilest-eye
 file_dpath: treasure/2nd-echelon/trinket
 item_id: evilest-eye
@@ -27,4 +27,4 @@ type: treasure
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 surge.
+**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](../../../rule/resource/surge.md).

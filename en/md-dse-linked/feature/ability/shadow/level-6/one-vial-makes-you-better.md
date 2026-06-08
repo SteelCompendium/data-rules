@@ -5,7 +5,7 @@ cost: 9 Insight
 cost_amount: "9"
 cost_resource: Insight
 distance: Ranged 10
-effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../trait/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
+effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
 feature_type: ability
 file_basename: one-vial-makes-you-better
 file_dpath: feature/ability/shadow/level-6
@@ -26,7 +26,7 @@ type: ability
 cost: 9 Insight
 distance: Ranged 10
 effects:
-    - effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../trait/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
+    - effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
 feature_type: ability
 flavor: A well-timed throw of a potion will keep your allies in the fight.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: shadow
     cost: 9 Insight
     distance: Ranged 10
-    effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../trait/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
+    effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
     flavor: A well-timed throw of a potion will keep your allies in the fight.
     keywords:
         - Ranged

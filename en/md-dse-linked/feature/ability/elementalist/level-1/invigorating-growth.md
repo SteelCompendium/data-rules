@@ -5,7 +5,7 @@ cost: 3 Essence
 cost_amount: "3"
 cost_resource: Essence
 distance: Ranged 10
-effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
 feature_type: ability
 file_basename: invigorating-growth
 file_dpath: feature/ability/elementalist/level-1
@@ -33,7 +33,7 @@ type: ability
 cost: 3 Essence
 distance: Ranged 10
 effects:
-    - effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+    - effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
     - roll: Power Roll + Reason
       tier1: 4 + R poison damage
       tier2: 7 + R poison damage
@@ -50,7 +50,7 @@ metadata:
     class: elementalist
     cost: 3 Essence
     distance: Ranged 10
-    effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+    effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
     flavor: Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
     keywords:
         - Green

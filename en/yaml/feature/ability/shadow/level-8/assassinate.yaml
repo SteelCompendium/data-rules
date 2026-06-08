@@ -5,7 +5,7 @@ effects:
       tier1: 12 + A damage
       tier2: 18 + A damage
       tier3: 24 + A damage
-    - effect: A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
+    - effect: A target who is not a minion, leader, or solo creature and who is [winded](scc:mcdm.heroes.v1/rule.health/winded) after taking this damage is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
       name: Effect
 feature_type: ability
 flavor: A practiced attack will instantly kill an already weakened foe.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: shadow
-    content: "\n*A practiced attack will instantly kill an already weakened foe.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 12 + A damage\n- **12-16:** 18 + A damage\n- **17+:** 24 + A damage\n\n**Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina."
+    content: "\n*A practiced attack will instantly kill an already weakened foe.*\n\n| **Melee, Strike, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature or object** |\n\n**Power Roll + Agility:**\n\n- **≤11:** 12 + A damage\n- **12-16:** 18 + A damage\n- **17+:** 24 + A damage\n\n**Effect:** A target who is not a minion, leader, or solo creature and who is [winded](scc:mcdm.heroes.v1/rule.health/winded) after taking this damage is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)."
     distance: Melee 1
     feature_type: ability
     flavor: A practiced attack will instantly kill an already weakened foe.

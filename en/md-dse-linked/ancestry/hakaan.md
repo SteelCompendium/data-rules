@@ -14,7 +14,7 @@ In spite of their friendly, outgoing nature, the rare presence of a [hakaan](hak
 
 Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
 
-But Holkatya betrayed them, and the only future a [hakaan](hakaan.md) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](hakaan.md) ever received a vision of dying from choking on a grape. This Doomsight is always momentous. Always dramatic.
+But Holkatya betrayed them, and the only future a [hakaan](hakaan.md) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](hakaan.md) ever received a vision of [dying](../rule/health/dying.md) from choking on a grape. This Doomsight is always momentous. Always dramatic.
 
 The Doomsight can happen at any moment. It does not come for all or even most [hakaan](hakaan.md), but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the Doomsight means a painful, tragic death, and cursing your family to live with shame.
 

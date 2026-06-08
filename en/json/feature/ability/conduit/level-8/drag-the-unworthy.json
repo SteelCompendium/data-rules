@@ -9,7 +9,7 @@
       "tier3": "18 + I holy damage; slide 6"
     },
     {
-      "effect": "Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a Recovery.",
+      "effect": "Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "conduit",
-    "content": "\n*You conjure an angel who moves a foe and heals your allies.*\n\n| **Magic, Ranged, Strike**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 9 + I holy damage; slide 3\n- **12-16:** 13 + I holy damage; slide 4\n- **17+:** 18 + I holy damage; slide 6\n\n**Effect:** Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a Recovery.",
+    "content": "\n*You conjure an angel who moves a foe and heals your allies.*\n\n| **Magic, Ranged, Strike**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **📏 Ranged 10**           | **🎯 One creature or object** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 9 + I holy damage; slide 3\n- **12-16:** 13 + I holy damage; slide 4\n- **17+:** 18 + I holy damage; slide 6\n\n**Effect:** Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "You conjure an angel who moves a foe and heals your allies.",

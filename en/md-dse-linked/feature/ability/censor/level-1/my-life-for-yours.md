@@ -2,7 +2,7 @@
 action_type: Triggered
 class: censor
 distance: Ranged 10
-effect: You spend a Recovery and the target regains Stamina equal to your recovery value.
+effect: You spend a [Recovery](../../../../rule/health/recoveries.md) and the target regains [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: my-life-for-yours
 file_dpath: feature/ability/censor/level-1
@@ -26,7 +26,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: You spend a Recovery and the target regains Stamina equal to your recovery value.
+    - effect: You spend a [Recovery](../../../../rule/health/recoveries.md) and the target regains [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md).
     - effect: '1 Wrath: You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../../condition/prone.md) target can stand up.'
       name: Spend
 feature_type: ability
@@ -38,7 +38,7 @@ metadata:
     action_type: Triggered
     class: censor
     distance: Ranged 10
-    effect: You spend a Recovery and the target regains Stamina equal to your recovery value.
+    effect: You spend a [Recovery](../../../../rule/health/recoveries.md) and the target regains [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md).
     flavor: You channel some of your vitality into more resilience for you or an ally.
     keywords:
         - Magic

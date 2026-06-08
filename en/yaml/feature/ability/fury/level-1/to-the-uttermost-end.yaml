@@ -6,7 +6,7 @@ effects:
       tier2: 11 + M damage
       tier3: 16 + M damage
     - cost: Spend 1+ Ferocity
-      effect: While you are winded, this ability deals an extra 1d6 damage for each ferocity spent. While you are dying, it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 Stamina after making this strike.
+      effect: While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this strike.
 feature_type: ability
 flavor: You gut your life force to ensure a foe's demise.
 keywords:
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: fury
-    content: "\n*You gut your life force to ensure a foe's demise.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 7 + M damage\n- **12-16:** 11 + M damage\n- **17+:** 16 + M damage\n\n**Spend 1+ Ferocity:** While you are winded, this ability deals an extra 1d6 damage for each ferocity spent. While you are dying, it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 Stamina after making this strike."
+    content: "\n*You gut your life force to ensure a foe's demise.*\n\n| **Melee, Strike, Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Melee 1**            | **\U0001F3AF One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 7 + M damage\n- **12-16:** 11 + M damage\n- **17+:** 16 + M damage\n\n**Spend 1+ Ferocity:** While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this strike."
     distance: Melee 1
     feature_type: ability
     flavor: You gut your life force to ensure a foe's demise.

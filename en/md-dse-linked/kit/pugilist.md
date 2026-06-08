@@ -10,11 +10,10 @@ scc: mcdm.heroes.v1/kit/pugilist
 source: mcdm.heroes.v1
 speed_bonus: "+2"
 stability_bonus: "+1"
-stamina_bonus: +6 per echelon
 type: kit
 ---
 
-Meant for brawlers and boxers, the [Pugilist](pugilist.md) kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
+Meant for brawlers and boxers, the [Pugilist](pugilist.md) kit gives you access to a melee fighting style that grants a boost to [Stamina](../rule/health/stamina.md) and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
 ##### Equipment
 
@@ -22,7 +21,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ##### Kit Bonuses
 
-**Stamina Bonus:** +6 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +6 per echelon
 
 **Speed Bonus:** +2
 

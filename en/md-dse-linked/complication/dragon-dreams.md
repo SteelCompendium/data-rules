@@ -1,6 +1,6 @@
 ---
 benefit: 'Choose 2 ancestry points'' worth of purchased [dragon knight](../ancestry/dragon-knight.md) traits (see Chapter 3: [Ancestries](../chapter/ancestries.md)). You can use these traits whenever you have 5 or more Victories.'
-drawback: Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
+drawback: Whenever you are reduced to 0 [Stamina](../rule/health/stamina.md), you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
 file_basename: dragon-dreams
 file_dpath: complication
 item_id: dragon-dreams
@@ -15,4 +15,4 @@ You sometimes have strange dreams of a raging inferno... a gleaming pile of trea
 
 **Benefit:** Choose 2 ancestry points' worth of purchased [dragon knight](../ancestry/dragon-knight.md) traits (see Chapter 3: [Ancestries](../chapter/ancestries.md)). You can use these traits whenever you have 5 or more Victories.
 
-**Drawback:** Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
+**Drawback:** Whenever you are reduced to 0 [Stamina](../rule/health/stamina.md), you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.

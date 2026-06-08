@@ -5,7 +5,7 @@ cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
 distance: Melee 1 or ranged 5
-effect: If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
+effect: If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both chosen allies has made their strike, the ally or allies can pick a different target.
 feature_type: ability
 file_basename: hammer-and-anvil
 file_dpath: feature/ability/tactician/level-1
@@ -33,7 +33,7 @@ type: ability
 cost: 5 Focus
 distance: Melee 1 or ranged 5
 effects:
-    - effect: If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
+    - effect: If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both chosen allies has made their strike, the ally or allies can pick a different target.
     - roll: Power Roll + Might
       tier1: 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action
       tier2: 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action
@@ -50,7 +50,7 @@ metadata:
     class: tactician
     cost: 5 Focus
     distance: Melee 1 or ranged 5
-    effect: If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
+    effect: If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both chosen allies has made their strike, the ally or allies can pick a different target.
     flavor: '"Let''s not argue about who''s the hammer and who''s the anvil!"'
     keywords:
         - Melee

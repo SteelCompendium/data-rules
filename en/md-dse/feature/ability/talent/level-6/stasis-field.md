@@ -5,7 +5,7 @@ cost: 9 Clarity
 cost_amount: "9"
 cost_resource: Clarity
 distance: 4 cube within 10
-effect: The area is frozen in time until the start of your next turn. Each object in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+effect: The area is frozen in time until the start of your next turn. Each object in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) remain undestroyed.
 feature_type: ability
 file_basename: stasis-field
 file_dpath: feature/ability/talent/level-6
@@ -33,7 +33,7 @@ type: ability
 cost: 9 Clarity
 distance: 4 cube within 10
 effects:
-    - effect: The area is frozen in time until the start of your next turn. Each object in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+    - effect: The area is frozen in time until the start of your next turn. Each object in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) remain undestroyed.
     - roll: Power Roll + Presence
       tier1: P < WEAK, the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) until the effect ends
       tier2: P < AVERAGE, the target's speed is 0 until the effect ends
@@ -50,7 +50,7 @@ metadata:
     class: talent
     cost: 9 Clarity
     distance: 4 cube within 10
-    effect: The area is frozen in time until the start of your next turn. Each object in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+    effect: The area is frozen in time until the start of your next turn. Each object in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) remain undestroyed.
     flavor: Keep everything as it was. Ignore everything that will be.
     keywords:
         - Area

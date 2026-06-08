@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../../condition/bleeding.md) even while dying.
+    - effect: For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../../condition/bleeding.md) even while [dying](../../../rule/health/dying.md).
 feature_type: trait
 metadata:
     ancestry: revenant

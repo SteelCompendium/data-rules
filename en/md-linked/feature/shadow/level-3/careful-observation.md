@@ -1,0 +1,20 @@
+---
+class: shadow
+level: "3"
+name: Careful Observation
+scc: mcdm.heroes.v1/feature.shadow.level-3/careful-observation
+type: feature
+---
+
+You have the following ability.
+
+## Careful Observation {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation"}
+
+
+*A moment of focus leaves a foe firmly in your sights.*
+
+| **Ranged**       |        **Maneuver** |
+|------------------|--------------------:|
+| **📏 Ranged 20** | **🎯 One creature** |
+
+**Effect:** As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 [surge](../../../rule/resource/surge.md) you can use only on that strike.

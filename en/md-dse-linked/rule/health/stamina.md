@@ -15,19 +15,19 @@ After any damage you take is reduced by damage immunity or other effects, your S
 
 #### Director-Controlled Creatures
 
-In most circumstances, Director-controlled creatures die or are destroyed when their Stamina drops to 0.
+In most circumstances, Director-controlled creatures die or are destroyed when their [Stamina](stamina.md) drops to 0.
 
 ##### No Recoveries
 
-Director-controlled creatures don't have Recoveries or a recovery value. Any such creatures who regain Stamina during a battle do so by way of a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a Recovery or to regain Stamina equal to their recovery value on an injured NPC. In such cases, a Director-controlled creature regains Stamina equal to one-third of their Stamina maximum.
+Director-controlled creatures don't have [Recoveries](recoveries.md) or a [recovery value](recoveries.md). Any such creatures who regain [Stamina](stamina.md) during a battle do so by way of a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a [Recovery](recoveries.md) or to regain [Stamina](stamina.md) equal to their [recovery value](recoveries.md) on an injured NPC. In such cases, a Director-controlled creature regains [Stamina](stamina.md) equal to one-third of their [Stamina](stamina.md) maximum.
 
 #### Knocking Creatures Out
 
 If you damage a creature with an ability that would kill them, you can choose to instead knock them unconscious. If a creature takes damage while unconscious in this way, they die.
 
-Director-controlled creatures remain unconscious for 1 hour if no one does anything to wake them. They then gain 1 Stamina and are no longer unconscious.
+Director-controlled creatures remain unconscious for 1 hour if no one does anything to wake them. They then gain 1 [Stamina](stamina.md) and are no longer unconscious.
 
-Heroes remain unconscious for 1 hour if no one does anything to wake them. After 1 hour, they can spend a Recovery and are no longer unconscious. If the hero has no Recoveries left, they can't wake up until they finish a respite.
+Heroes remain unconscious for 1 hour if no one does anything to wake them. After 1 hour, they can spend a [Recovery](recoveries.md) and are no longer unconscious. If the hero has no [Recoveries](recoveries.md) left, they can't wake up until they finish a respite.
 
 ##### Unconscious
 

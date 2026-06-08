@@ -5,7 +5,7 @@ cost: 3 Clarity
 cost_amount: "3"
 cost_resource: Clarity
 distance: Melee 2
-effect: Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against the source of the damage.
+effect: Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the source of the damage.
 feature_type: ability
 file_basename: precognition
 file_dpath: feature/ability/talent/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 3 Clarity
 distance: Melee 2
 effects:
-    - effect: Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against the source of the damage.
+    - effect: Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the source of the damage.
 feature_type: ability
 flavor: You give a target a glimpse into the future so that they're ready for what comes next.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 3 Clarity
     distance: Melee 2
-    effect: Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against the source of the damage.
+    effect: Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the source of the damage.
     flavor: You give a target a glimpse into the future so that they're ready for what comes next.
     keywords:
         - Chronopathy

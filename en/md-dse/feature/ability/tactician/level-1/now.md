@@ -5,7 +5,7 @@ cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
 distance: Ranged 10
-effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).
+effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
 feature_type: ability
 file_basename: now
 file_dpath: feature/ability/tactician/level-1
@@ -26,7 +26,7 @@ type: ability
 cost: 5 Focus
 distance: Ranged 10
 effects:
-    - effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).
+    - effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
 feature_type: ability
 flavor: Your allies wait for your command—then unleash death!
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 5 Focus
     distance: Ranged 10
-    effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike).
+    effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
     flavor: Your allies wait for your command—then unleash death!
     keywords:
         - Ranged

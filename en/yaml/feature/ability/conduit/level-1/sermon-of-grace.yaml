@@ -1,7 +1,7 @@
 cost: 5 Piety
 distance: 4 burst
 effects:
-    - effect: Each target can spend a Recovery. Additionally, each target can use a free [triggered action](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/triggered-action) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
+    - effect: Each target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
       name: Effect
 feature_type: ability
 flavor: You inspire your allies with tales of your saint's great deeds.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*You inspire your allies with tales of your saint's great deeds.*\n\n| **Area, Magic** |              **Main action** |\n|-----------------|-----------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Each ally in the area** |\n\n**Effect:** Each target can spend a Recovery. Additionally, each target can use a free [triggered action](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/triggered-action) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](scc:mcdm.heroes.v1/condition/prone)."
+    content: "\n*You inspire your allies with tales of your saint's great deeds.*\n\n| **Area, Magic** |              **Main action** |\n|-----------------|-----------------------------:|\n| **\U0001F4CF 4 burst**  | **\U0001F3AF Each ally in the area** |\n\n**Effect:** Each target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries). Additionally, each target can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](scc:mcdm.heroes.v1/condition/prone)."
     distance: 4 burst
     feature_type: ability
     flavor: You inspire your allies with tales of your saint's great deeds.

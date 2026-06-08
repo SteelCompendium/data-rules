@@ -2,7 +2,7 @@
 action_type: Triggered
 class: troubadour
 distance: Melee 1
-effect: The target makes a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against the creature who made the triggering strike.
+effect: The target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the creature who made the triggering strike.
 feature_type: ability
 file_basename: riposte
 file_dpath: feature/ability/troubadour/level-1
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: The target makes a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against the creature who made the triggering strike.
+    - effect: The target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the creature who made the triggering strike.
 feature_type: ability
 flavor: '"I''d have brought treats had I known I''d be fighting a dog."'
 keywords:
@@ -33,7 +33,7 @@ metadata:
     action_type: Triggered
     class: troubadour
     distance: Melee 1
-    effect: The target makes a [free strike](scc:mcdm.heroes.v1/feature.trait.common.main-actions/free-strike) against the creature who made the triggering strike.
+    effect: The target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the creature who made the triggering strike.
     flavor: '"I''d have brought treats had I known I''d be fighting a dog."'
     keywords:
         - Melee

@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "The target gains 20 temporary Stamina and 3 surges.",
+      "effect": "The target gains 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*An ally becomes the wearer of an empowered golden cloak.*\n\n| **Magic, Ranged**         |    **Maneuver** |\n|---------------------------|----------------:|\n| **📏 Ranged 10**          | **🎯 One ally** |\n\n**Effect:** The target gains 20 temporary Stamina and 3 surges.",
+    "content": "\n*An ally becomes the wearer of an empowered golden cloak.*\n\n| **Magic, Ranged**         |    **Maneuver** |\n|---------------------------|----------------:|\n| **📏 Ranged 10**          | **🎯 One ally** |\n\n**Effect:** The target gains 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "An ally becomes the wearer of an empowered golden cloak.",

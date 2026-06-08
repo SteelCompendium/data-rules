@@ -19,16 +19,16 @@ Your character can carry any number of consumables at a time.
 >
 > The rules for using treasures refer to lots of other parts of the game. You can find information on specific topics as follows:
 >
-> Recoveries, respites, Victories: Chapter 1: [The Basics](../../chapter/the-basics.md)
+> [Recoveries](../health/recoveries.md), respites, Victories: Chapter 1: [The Basics](../../chapter/the-basics.md)
 >
 > Languages: Chapter 4: [Background](../../chapter/background.md)
 >
-> Abilities, conditions, potencies, surges: Chapter 5: [Classes](../../chapter/classes.md)
+> Abilities, conditions, potencies, [surges](../resource/surge.md): Chapter 5: [Classes](../../chapter/classes.md)
 >
 > Skills, tests: Chapter 9: [Tests](../../chapter/tests.md)
 >
 > Item creation rules, crafting and research projects: Chapter 12: [Downtime Projects](../../chapter/downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and Stamina, dying and death, movement and [forced movement](../../movement/forced-movement.md), winded: Chapter 10: [Combat](../../chapter/combat.md)
+> Main actions and maneuvers, creature size, damage and [Stamina](../health/stamina.md), [dying](../health/dying.md) and death, movement and [forced movement](../../movement/forced-movement.md), [winded](../health/winded.md): Chapter 10: [Combat](../../chapter/combat.md)
 >
 > Negotiation rules, motivations, pitfalls, interest, and patience: Chapter 11: [Negotiation](../../chapter/negotiation.md).

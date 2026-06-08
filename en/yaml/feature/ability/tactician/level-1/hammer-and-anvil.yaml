@@ -5,7 +5,7 @@ effects:
       tier1: 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action
       tier2: 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action
       tier3: 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action
-    - effect: If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
+    - effect: If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both chosen allies has made their strike, the ally or allies can pick a different target.
       name: Effect
 feature_type: ability
 flavor: '"Let''s not argue about who''s the hammer and who''s the anvil!"'
@@ -17,7 +17,7 @@ keywords:
 metadata:
     action_type: Main action
     class: tactician
-    content: "\n*\"Let's not argue about who's the hammer and who's the anvil!\"*\n\n| **Melee, Ranged, Strike, Weapon** |               **Main action** |\n|-----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action\n- **12-16:** 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action\n- **17+:** 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action\n\n**Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target."
+    content: "\n*\"Let's not argue about who's the hammer and who's the anvil!\"*\n\n| **Melee, Ranged, Strike, Weapon** |               **Main action** |\n|-----------------------------------|------------------------------:|\n| **\U0001F4CF Melee 1 or ranged 5**        | **\U0001F3AF One creature or object** |\n\n**Power Roll + Might:**\n\n- **≤11:** 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action\n- **12-16:** 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action\n- **17+:** 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action\n\n**Effect:** If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both chosen allies has made their strike, the ally or allies can pick a different target."
     distance: Melee 1 or ranged 5
     feature_type: ability
     flavor: '"Let''s not argue about who''s the hammer and who''s the anvil!"'

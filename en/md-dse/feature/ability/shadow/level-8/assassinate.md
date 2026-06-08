@@ -5,7 +5,7 @@ cost: 11 Insight
 cost_amount: "11"
 cost_resource: Insight
 distance: Melee 1
-effect: A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
+effect: A target who is not a minion, leader, or solo creature and who is [winded](scc:mcdm.heroes.v1/rule.health/winded) after taking this damage is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
 feature_type: ability
 file_basename: assassinate
 file_dpath: feature/ability/shadow/level-8
@@ -32,7 +32,7 @@ type: ability
 cost: 11 Insight
 distance: Melee 1
 effects:
-    - effect: A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
+    - effect: A target who is not a minion, leader, or solo creature and who is [winded](scc:mcdm.heroes.v1/rule.health/winded) after taking this damage is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
     - roll: Power Roll + Agility
       tier1: 12 + A damage
       tier2: 18 + A damage
@@ -48,7 +48,7 @@ metadata:
     class: shadow
     cost: 11 Insight
     distance: Melee 1
-    effect: A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
+    effect: A target who is not a minion, leader, or solo creature and who is [winded](scc:mcdm.heroes.v1/rule.health/winded) after taking this damage is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
     flavor: A practiced attack will instantly kill an already weakened foe.
     keywords:
         - Melee

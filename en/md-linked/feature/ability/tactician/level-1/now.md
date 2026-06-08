@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 5 Focus
 distance: Ranged 10
-effect: Each target can make a [free strike](../../../trait/common/main-actions/free-strike.md).
+effect: Each target can make a [free strike](../../../common/main-actions/free-strike.md).
 flavor: Your allies wait for your command—then unleash death!
 keywords:
     - Ranged
@@ -21,4 +21,4 @@ type: ability
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Effect:** Each target can make a [free strike](../../../trait/common/main-actions/free-strike.md).
+**Effect:** Each target can make a [free strike](../../../common/main-actions/free-strike.md).

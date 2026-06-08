@@ -1,0 +1,21 @@
+{
+  "effects": [
+    {
+      "effect": "These bonuses apply in your true form, your [animal form](scc:mcdm.heroes.v1/complication/animal-form), and your hybrid form. See Chapter 6: [Kits](scc:mcdm.heroes.v1/chapter/kits) for information on [kit bonuses](scc:mcdm.heroes.v1/feature.fury.boren/kit-bonuses)."
+    }
+  ],
+  "feature_type": "feature",
+  "metadata": {
+    "action_type": "feature",
+    "class": "fury",
+    "feature_type": "feature",
+    "item_id": "kit-bonuses",
+    "item_name": "Kit Bonuses",
+    "scc": [
+      "mcdm.heroes.v1/feature.fury.stormwight-kits/kit-bonuses"
+    ],
+    "type": "feature/fury/stormwight-kits"
+  },
+  "name": "Kit Bonuses",
+  "type": "feature"
+}

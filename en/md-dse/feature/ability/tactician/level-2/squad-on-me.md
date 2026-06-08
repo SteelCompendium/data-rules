@@ -5,7 +5,7 @@ cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
 distance: 1 burst
-effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.
+effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: squad-on-me
 file_dpath: feature/ability/tactician/level-2
@@ -26,7 +26,7 @@ type: ability
 cost: 5 Focus
 distance: 1 burst
 effects:
-    - effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.
+    - effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 flavor: Together we are invincible!
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 5 Focus
     distance: 1 burst
-    effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.
+    effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: Together we are invincible!
     keywords:
         - Area

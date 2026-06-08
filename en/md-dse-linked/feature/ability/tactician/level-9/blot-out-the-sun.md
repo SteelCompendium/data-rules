@@ -5,7 +5,7 @@ cost: 11 Focus
 cost_amount: "11"
 cost_resource: Focus
 distance: 3 burst
-effect: Each target can make a ranged [free strike](../../../trait/common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../trait/common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
+effect: Each target can make a ranged [free strike](../../../common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
 feature_type: ability
 file_basename: blot-out-the-sun
 file_dpath: feature/ability/tactician/level-9
@@ -26,7 +26,7 @@ type: ability
 cost: 11 Focus
 distance: 3 burst
 effects:
-    - effect: Each target can make a ranged [free strike](../../../trait/common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../trait/common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
+    - effect: Each target can make a ranged [free strike](../../../common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
 feature_type: ability
 flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 11 Focus
     distance: 3 burst
-    effect: Each target can make a ranged [free strike](../../../trait/common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../trait/common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
+    effect: Each target can make a ranged [free strike](../../../common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
     flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
     keywords:
         - Area

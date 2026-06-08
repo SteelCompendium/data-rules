@@ -2,7 +2,7 @@
 action_type: Main action
 class: shadow
 distance: Melee 1
-effect: One ally within 5 squares of the target gains 1 surge.
+effect: One ally within 5 squares of the target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: gasping-in-pain
 file_dpath: feature/ability/shadow/level-1
@@ -29,7 +29,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: One ally within 5 squares of the target gains 1 surge.
+    - effect: One ally within 5 squares of the target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
     - roll: Power Roll + Agility
       tier1: 3 + A damage
       tier2: 5 + A damage
@@ -44,7 +44,7 @@ metadata:
     action_type: Main action
     class: shadow
     distance: Melee 1
-    effect: One ally within 5 squares of the target gains 1 surge.
+    effect: One ally within 5 squares of the target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: Your precise strikes let your allies take advantage of a target's agony.
     keywords:
         - Melee

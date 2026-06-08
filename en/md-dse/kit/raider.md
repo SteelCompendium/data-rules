@@ -12,7 +12,6 @@ ranged_distance_bonus: "+5"
 scc: mcdm.heroes.v1/kit/raider
 source: mcdm.heroes.v1
 speed_bonus: "+1"
-stamina_bonus: +6 per echelon
 type: kit
 ---
 
@@ -24,7 +23,7 @@ You wear light armor and wield a shield and a light weapon.
 
 ##### Kit Bonuses
 
-**Stamina Bonus:** +6 per echelon
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per echelon
 
 **Speed Bonus:** +1
 
@@ -40,7 +39,7 @@ You wear light armor and wield a shield and a light weapon.
 
 ###### Raider's Awe
 
-*You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](scc:mcdm.heroes.v1/feature.trait.tactician.level-7/shock-and-awe)")*
+*You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)")*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
@@ -59,7 +58,7 @@ distance: Melee 1 or ranged 10
 effects:
     - effect: The target takes a bane on their next power roll made before the end of their next turn.
 feature_type: ability
-flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](scc:mcdm.heroes.v1/feature.trait.tactician.level-7/shock-and-awe)")
+flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)")
 keywords:
     - Melee
     - Ranged
@@ -69,7 +68,7 @@ metadata:
     action_type: Main action
     distance: Melee 1 or ranged 10
     effect: The target takes a bane on their next power roll made before the end of their next turn.
-    flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](scc:mcdm.heroes.v1/feature.trait.tactician.level-7/shock-and-awe)")
+    flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)")
     keywords:
         - Melee
         - Ranged

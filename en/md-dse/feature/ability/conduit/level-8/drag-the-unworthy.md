@@ -5,7 +5,7 @@ cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
 distance: Ranged 10
-effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a Recovery.
+effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: drag-the-unworthy
 file_dpath: feature/ability/conduit/level-8
@@ -32,7 +32,7 @@ type: ability
 cost: 11 Piety
 distance: Ranged 10
 effects:
-    - effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a Recovery.
+    - effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     - roll: Power Roll + Intuition
       tier1: 9 + I holy damage; slide 3
       tier2: 13 + I holy damage; slide 4
@@ -48,7 +48,7 @@ metadata:
     class: conduit
     cost: 11 Piety
     distance: Ranged 10
-    effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a Recovery.
+    effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: You conjure an angel who moves a foe and heals your allies.
     keywords:
         - Magic

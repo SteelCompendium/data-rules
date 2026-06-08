@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your [human](../../../ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
+    - effect: Your [human](../../../ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of [Recoveries](../../../rule/health/recoveries.md) by 2.
 feature_type: trait
 metadata:
     ancestry: human

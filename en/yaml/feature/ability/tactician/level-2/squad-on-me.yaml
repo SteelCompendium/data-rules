@@ -1,7 +1,7 @@
 cost: 5 Focus
 distance: 1 burst
 effects:
-    - effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.
+    - effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
       name: Effect
 feature_type: ability
 flavor: Together we are invincible!
@@ -10,7 +10,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: tactician
-    content: "\n*Together we are invincible!*\n\n| **Area**       |                          **Maneuver** |\n|----------------|--------------------------------------:|\n| **\U0001F4CF 1 burst** | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges."
+    content: "\n*Together we are invincible!*\n\n| **Area**       |                          **Maneuver** |\n|----------------|--------------------------------------:|\n| **\U0001F4CF 1 burst** | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge)."
     distance: 1 burst
     feature_type: ability
     flavor: Together we are invincible!

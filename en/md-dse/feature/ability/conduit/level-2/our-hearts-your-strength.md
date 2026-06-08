@@ -5,7 +5,7 @@ cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
 distance: Ranged 10
-effect: Until the end of the encounter or until the target is dying, at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+effect: Until the end of the encounter or until the target is [dying](scc:mcdm.heroes.v1/rule.health/dying), at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
 feature_type: ability
 file_basename: our-hearts-your-strength
 file_dpath: feature/ability/conduit/level-2
@@ -27,7 +27,7 @@ type: ability
 cost: 5 Piety
 distance: Ranged 10
 effects:
-    - effect: Until the end of the encounter or until the target is dying, at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+    - effect: Until the end of the encounter or until the target is [dying](scc:mcdm.heroes.v1/rule.health/dying), at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
 feature_type: ability
 flavor: An ally gains strength from their friends.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 5 Piety
     distance: Ranged 10
-    effect: Until the end of the encounter or until the target is dying, at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+    effect: Until the end of the encounter or until the target is [dying](scc:mcdm.heroes.v1/rule.health/dying), at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
     flavor: An ally gains strength from their friends.
     keywords:
         - Magic

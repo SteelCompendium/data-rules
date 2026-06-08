@@ -5,7 +5,7 @@ cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
 distance: 3 burst
-effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.
+effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
 feature_type: ability
 file_basename: action-hero
 file_dpath: feature/ability/troubadour/level-5
@@ -32,7 +32,7 @@ type: ability
 cost: 9 Drama
 distance: 3 burst
 effects:
-    - effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.
+    - effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
     - roll: Power Roll + Agility
       tier1: 10 damage
       tier2: 14 damage
@@ -48,7 +48,7 @@ metadata:
     class: troubadour
     cost: 9 Drama
     distance: 3 burst
-    effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.
+    effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
     flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
     keywords:
         - Area

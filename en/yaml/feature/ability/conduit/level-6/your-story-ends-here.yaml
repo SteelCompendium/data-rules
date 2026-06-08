@@ -5,7 +5,7 @@ effects:
       tier1: 9 + I corruption damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
       tier2: 14 + I corruption damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
       tier3: 19 + I corruption damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-    - effect: If this damage kills the target, you and each ally within distance can spend a Recovery.
+    - effect: If this damage kills the target, you and each ally within distance can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability
 flavor: You bend the fate of a foe, willing them to die.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*You bend the fate of a foe, willing them to die.*\n\n| **Magic, Ranged, Strike** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 9 + I corruption damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 19 + I corruption damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery."
+    content: "\n*You bend the fate of a foe, willing them to die.*\n\n| **Magic, Ranged, Strike** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF Ranged 10**          | **\U0001F3AF One creature** |\n\n**Power Roll + Intuition:**\n\n- **≤11:** 9 + I corruption damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n- **17+:** 19 + I corruption damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)\n\n**Effect:** If this damage kills the target, you and each ally within distance can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
     distance: Ranged 10
     feature_type: ability
     flavor: You bend the fate of a foe, willing them to die.

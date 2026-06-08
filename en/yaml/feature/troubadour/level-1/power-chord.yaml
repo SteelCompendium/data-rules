@@ -1,0 +1,44 @@
+ability:
+    distance: 2 burst
+    effects:
+        - roll: Power Roll + Presence
+          tier1: Push 1
+          tier2: Push 2
+          tier3: Push 3
+    feature_type: ability
+    flavor: Your instrument rings true and your music blows everyone away.
+    keywords:
+        - Area
+        - Magic
+    metadata:
+        action_type: Maneuver
+        content: "\n*Your instrument rings true and your music blows everyone away.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 2 burst**  | **\U0001F3AF Each enemy in the area** |\n\n**Power Roll + Presence:**\n\n- **≤11:** Push 1\n- **12-16:** Push 2\n- **17+:** Push 3"
+        distance: 2 burst
+        feature_type: ability
+        flavor: Your instrument rings true and your music blows everyone away.
+        item_id: power-chord
+        item_name: Power Chord
+        keywords:
+            - Area
+            - Magic
+        target: Each enemy in the area
+        type: feature/ability/common
+    name: Power Chord
+    target: Each enemy in the area
+    type: feature
+    usage: Maneuver
+effects:
+    - effect: You have the following ability.
+feature_type: feature
+metadata:
+    action_type: feature
+    class: troubadour
+    feature_type: feature
+    item_id: power-chord
+    item_name: Power Chord
+    level: 1
+    scc:
+        - mcdm.heroes.v1/feature.troubadour.level-1/power-chord
+    type: feature/troubadour/level-1
+name: Power Chord
+type: feature

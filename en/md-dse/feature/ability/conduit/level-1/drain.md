@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Melee 1
-effect: You or one ally within distance can spend a Recovery.
+effect: You or one ally within distance can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: drain
 file_dpath: feature/ability/conduit/level-1
@@ -29,7 +29,7 @@ type: ability
 ```ds-feature
 distance: Melee 1
 effects:
-    - effect: You or one ally within distance can spend a Recovery.
+    - effect: You or one ally within distance can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     - roll: Power Roll + Intuition
       tier1: 2 + I corruption damage
       tier2: 5 + I corruption damage
@@ -44,7 +44,7 @@ metadata:
     action_type: Main action
     class: conduit
     distance: Melee 1
-    effect: You or one ally within distance can spend a Recovery.
+    effect: You or one ally within distance can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: You drain the energy from your target to revitalize yourself or an ally.
     keywords:
         - Magic

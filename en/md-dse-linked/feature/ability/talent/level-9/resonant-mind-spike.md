@@ -5,7 +5,7 @@ cost: 11 Clarity
 cost_amount: "11"
 cost_resource: Clarity
 distance: Ranged 10
-effect: This ability ignores cover and concealment.
+effect: This ability ignores [cover](../../../../rule/combat/cover.md) and [concealment](../../../../rule/combat/concealment.md).
 feature_type: ability
 file_basename: resonant-mind-spike
 file_dpath: feature/ability/talent/level-9
@@ -33,7 +33,7 @@ type: ability
 cost: 11 Clarity
 distance: Ranged 10
 effects:
-    - effect: This ability ignores cover and concealment.
+    - effect: This ability ignores [cover](../../../../rule/combat/cover.md) and [concealment](../../../../rule/combat/concealment.md).
     - roll: Power Roll + Reason
       tier1: 15 + R psychic damage
       tier2: 24 + R psychic damage
@@ -50,7 +50,7 @@ metadata:
     class: talent
     cost: 11 Clarity
     distance: Ranged 10
-    effect: This ability ignores cover and concealment.
+    effect: This ability ignores [cover](../../../../rule/combat/cover.md) and [concealment](../../../../rule/combat/concealment.md).
     flavor: You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.
     keywords:
         - Psionic

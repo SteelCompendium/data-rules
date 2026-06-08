@@ -1,7 +1,7 @@
 cost: 9 Wrath
 distance: 3 aura
 effects:
-    - effect: Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
+    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
       name: Effect
 feature_type: ability
 flavor: You anticipate your foes' moves and deny them.
@@ -11,7 +11,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: censor
-    content: "\n*You anticipate your foes' moves and deny them.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 aura**   | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score."
+    content: "\n*You anticipate your foes' moves and deny them.*\n\n| **Area, Magic** |                  **Maneuver** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 aura**   | **\U0001F3AF Each enemy in the area** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score."
     distance: 3 aura
     feature_type: ability
     flavor: You anticipate your foes' moves and deny them.

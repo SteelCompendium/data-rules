@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: shadow
 distance: Self
-effect: You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
+effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). Additionally, whenever you use a [surge](scc:mcdm.heroes.v1/rule.resource/surge) before the end of the encounter, you can choose to have it deal poison damage.
 feature_type: ability
 file_basename: coat-the-blade
 file_dpath: feature/ability/shadow/level-1
@@ -15,7 +15,7 @@ level: "1"
 name: Coat the Blade
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/coat-the-blade
 source: mcdm.heroes.v1
-spend: '1+ Insight: For each insight you spend, you gain 1 additional surge.'
+spend: '1+ Insight: For each insight you spend, you gain 1 additional [surge](scc:mcdm.heroes.v1/rule.resource/surge).'
 target: Self
 type: ability
 ---
@@ -23,8 +23,8 @@ type: ability
 ```ds-feature
 distance: Self
 effects:
-    - effect: You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
-    - effect: '1+ Insight: For each insight you spend, you gain 1 additional surge.'
+    - effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). Additionally, whenever you use a [surge](scc:mcdm.heroes.v1/rule.resource/surge) before the end of the encounter, you can choose to have it deal poison damage.
+    - effect: '1+ Insight: For each insight you spend, you gain 1 additional [surge](scc:mcdm.heroes.v1/rule.resource/surge).'
       name: Spend
 feature_type: ability
 flavor: A little poison goes a long way.
@@ -34,14 +34,14 @@ metadata:
     action_type: Maneuver
     class: shadow
     distance: Self
-    effect: You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
+    effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge). Additionally, whenever you use a [surge](scc:mcdm.heroes.v1/rule.resource/surge) before the end of the encounter, you can choose to have it deal poison damage.
     flavor: A little poison goes a long way.
     keywords:
         - '-'
     level: "1"
     name: Coat the Blade
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/coat-the-blade
-    spend: '1+ Insight: For each insight you spend, you gain 1 additional surge.'
+    spend: '1+ Insight: For each insight you spend, you gain 1 additional [surge](scc:mcdm.heroes.v1/rule.resource/surge).'
     target: Self
     type: ability
 name: Coat the Blade

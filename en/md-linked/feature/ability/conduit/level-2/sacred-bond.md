@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 5 Piety
 distance: Ranged 10
-effect: Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to spend a Recovery.
+effect: Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a [Recovery](../../../../rule/health/recoveries.md), the other target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: You forge a divine connection between two creatures.
 keywords:
     - Magic
@@ -22,4 +22,4 @@ type: ability
 |--------------------|-------------------------:|
 | **📏 Ranged 10**   | **🎯 Self and one ally** |
 
-**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to spend a Recovery.
+**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a [Recovery](../../../../rule/health/recoveries.md), the other target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to spend a [Recovery](../../../../rule/health/recoveries.md).

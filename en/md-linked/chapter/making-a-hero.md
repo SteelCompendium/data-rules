@@ -80,7 +80,7 @@ Choose your hero's career, which describes what you did for a living before you 
 
 #### 5. Class
 
-Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting characteristic scores that determine your character's physical and mental acumen, as well as the Stamina and Recoveries that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a [censor](../class/censor.md), [conduit](../class/conduit.md), [elementalist](../class/elementalist.md), [fury](../class/fury.md), [null](../class/null.md), [shadow](../class/shadow.md), [tactician](../class/tactician.md), [talent](../class/talent.md), or [troubadour](../class/troubadour.md). See Chapter 5: [Classes](classes.md) for more information on each class, as well as the different types of abilities—signature abilities, heroic abilities, and more—that heroes of a specific class have access to.
+Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting characteristic scores that determine your character's physical and mental acumen, as well as the [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md) that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a [censor](../class/censor.md), [conduit](../class/conduit.md), [elementalist](../class/elementalist.md), [fury](../class/fury.md), [null](../class/null.md), [shadow](../class/shadow.md), [tactician](../class/tactician.md), [talent](../class/talent.md), or [troubadour](../class/troubadour.md). See Chapter 5: [Classes](classes.md) for more information on each class, as well as the different types of abilities—signature abilities, heroic abilities, and more—that heroes of a specific class have access to.
 
 #### 6. Kit
 
@@ -88,11 +88,11 @@ Your class might grant your hero a kit that helps define your approach to martia
 
 #### 7. Add Free Strikes
 
-A [free strike](../feature/trait/common/main-actions/free-strike.md) is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? [Free strike](../feature/trait/common/main-actions/free-strike.md)! Every hero has a melee weapon free strike and a ranged weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your [free strikes](../feature/trait/common/main-actions/free-strike.md) are. A thrown dagger? A punch? The design is intended to let you use your imagination.
+A [free strike](../feature/common/main-actions/free-strike.md) is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? [Free strike](../feature/common/main-actions/free-strike.md)! Every hero has a melee weapon free strike and a ranged weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your [free strikes](../feature/common/main-actions/free-strike.md) are. A thrown dagger? A punch? The design is intended to let you use your imagination.
 
-You can also make [free strikes](../feature/trait/common/main-actions/free-strike.md) on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](../ancestry/wode-elf.md) master archer can stab a too-close enemy with a dagger as a [free strike](../feature/trait/common/main-actions/free-strike.md), and a greataxe-wielding [orc](../ancestry/orc.md) [fury](../class/fury.md) can use a [free strike](../feature/trait/common/main-actions/free-strike.md) to hurl a handaxe at a flying enemy staying annoyingly out of melee range.
+You can also make [free strikes](../feature/common/main-actions/free-strike.md) on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](../ancestry/wode-elf.md) master archer can stab a too-close enemy with a dagger as a [free strike](../feature/common/main-actions/free-strike.md), and a greataxe-wielding [orc](../ancestry/orc.md) [fury](../class/fury.md) can use a [free strike](../feature/common/main-actions/free-strike.md) to hurl a handaxe at a flying enemy staying annoyingly out of melee range.
 
-See [Free Strikes](../feature/trait/common/main-actions/free-strike.md) in Chapter 10: [Combat](combat.md) for more information on using [free strikes](../feature/trait/common/main-actions/free-strike.md), and see Abilities in Chapter 5: [Classes](classes.md) for information on the ability format and how to read it.
+See [Free Strikes](../feature/common/main-actions/free-strike.md) in Chapter 10: [Combat](combat.md) for more information on using [free strikes](../feature/common/main-actions/free-strike.md), and see Abilities in Chapter 5: [Classes](classes.md) for information on the ability format and how to read it.
 
 ###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike"}
 
@@ -161,7 +161,7 @@ An optional rule the Director can include in your game is to allow heroes to cha
 
 ### Heroic Advancement
 
-Your character's heroic advancement is marked by level. Each time you gain a new level in your class, your Stamina increases, and you gain new features or abilities according to your class's advancement, as detailed in Chapter 5: [Classes](classes.md).
+Your character's heroic advancement is marked by level. Each time you gain a new level in your class, your [Stamina](../rule/health/stamina.md) increases, and you gain new features or abilities according to your class's advancement, as detailed in Chapter 5: [Classes](classes.md).
 
 In the standard setup for the game, heroes gain Experience each time they finish a respite (see Building a Heroic Narrative in Chapter 1: [The Basics](the-basics.md)). When you gain sufficient Experience, you gain a level during the same respite. The Heroic Advancement table shows exactly how much Experience (XP) you need to advance from one level to the next. The amount of Experience you gain is cumulative.
 

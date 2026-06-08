@@ -3,7 +3,7 @@
   "distance": "Ranged 10",
   "effects": [
     {
-      "effect": "Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.",
+      "effect": "Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your Intuition score.",
       "name": "Effect"
     }
   ],
@@ -16,7 +16,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "conduit",
-    "content": "\n*The gods reward those who smite their foes.*\n\n| **Magic, Ranged**  |     **Maneuver** |\n|--------------------|-----------------:|\n| **📏 Ranged 10**   | **🎯 Each ally** |\n\n**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.",
+    "content": "\n*The gods reward those who smite their foes.*\n\n| **Magic, Ranged**  |     **Maneuver** |\n|--------------------|-----------------:|\n| **📏 Ranged 10**   | **🎯 Each ally** |\n\n**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to 5 + your Intuition score.",
     "distance": "Ranged 10",
     "feature_type": "ability",
     "flavor": "The gods reward those who smite their foes.",

@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your stone skin affords you potent protection. You have a +6 bonus to Stamina, and that bonus increases by 6 at 4th, 7th, and 10th levels.
+    - effect: Your stone skin affords you potent protection. You have a +6 bonus to [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), and that bonus increases by 6 at 4th, 7th, and 10th levels.
 feature_type: trait
 metadata:
     ancestry: dwarf

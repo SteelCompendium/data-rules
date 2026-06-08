@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You gain a +1 bonus to the distance you can shift when you take the [Disengage](scc:mcdm.heroes.v1/feature.trait.common.move-actions/disengage) move action.
+    - effect: You gain a +1 bonus to the distance you can shift when you take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action.
 feature_type: trait
 metadata:
     ancestry: high-elf

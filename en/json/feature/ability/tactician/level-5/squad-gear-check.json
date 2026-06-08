@@ -9,7 +9,7 @@
       "tier3": "18 + M damage"
     },
     {
-      "effect": "You and each ally adjacent to the target gain 10 temporary Stamina.",
+      "effect": "You and each ally adjacent to the target gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "tactician",
-    "content": "\n*You distract a foe while your allies secure their defensive gear.*\n\n| **Melee, Strike, Weapon** | **Main action**     |\n|---------------------------|---------------------|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 9 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 18 + M damage\n\n**Effect:** You and each ally adjacent to the target gain 10 temporary Stamina.",
+    "content": "\n*You distract a foe while your allies secure their defensive gear.*\n\n| **Melee, Strike, Weapon** | **Main action**     |\n|---------------------------|---------------------|\n| **📏 Melee 1**            | **🎯 One creature** |\n\n**Power Roll + Might:**\n\n- **≤11:** 9 + M damage\n- **12-16:** 13 + M damage\n- **17+:** 18 + M damage\n\n**Effect:** You and each ally adjacent to the target gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
     "distance": "Melee 1",
     "feature_type": "ability",
     "flavor": "You distract a foe while your allies secure their defensive gear.",

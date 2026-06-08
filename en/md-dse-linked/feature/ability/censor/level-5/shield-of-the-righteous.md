@@ -21,9 +21,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous
 source: mcdm.heroes.v1
 target: One creature
-tier1: 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-tier2: 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-tier3: 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
+tier1: 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+tier2: 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+tier3: 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 9 Wrath
 distance: Melee 1
 effects:
     - roll: Power Roll + Might
-      tier1: 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-      tier2: 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-      tier3: 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
+      tier1: 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+      tier2: 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+      tier3: 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
 feature_type: ability
 flavor: You strike a foe and create a fleet of divine shields that protect your allies.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: Might
     scc: mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous
     target: One creature
-    tier1: 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-    tier2: 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-    tier3: 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
+    tier1: 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+    tier2: 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+    tier3: 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
     type: ability
 name: Shield of the Righteous
 target: One creature

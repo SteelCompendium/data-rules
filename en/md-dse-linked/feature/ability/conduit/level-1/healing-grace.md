@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: conduit
 distance: Ranged 10
-effect: The target can spend a Recovery.
+effect: The target can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: healing-grace
 file_dpath: feature/ability/conduit/level-1
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: The target can spend a Recovery.
+    - effect: The target can spend a [Recovery](../../../../rule/health/recoveries.md).
     - effect: '1+ Piety: For each piety spent, choose one of the following enhancements:'
       name: Spend
 feature_type: ability
@@ -36,7 +36,7 @@ metadata:
     action_type: Maneuver
     class: conduit
     distance: Ranged 10
-    effect: The target can spend a Recovery.
+    effect: The target can spend a [Recovery](../../../../rule/health/recoveries.md).
     flavor: Your divine energy restores the righteous.
     keywords:
         - Magic

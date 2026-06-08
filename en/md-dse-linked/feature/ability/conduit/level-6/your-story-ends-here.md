@@ -5,7 +5,7 @@ cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
 distance: Ranged 10
-effect: If this damage kills the target, you and each ally within distance can spend a Recovery.
+effect: If this damage kills the target, you and each ally within distance can spend a [Recovery](../../../../rule/health/recoveries.md).
 feature_type: ability
 file_basename: your-story-ends-here
 file_dpath: feature/ability/conduit/level-6
@@ -32,7 +32,7 @@ type: ability
 cost: 9 Piety
 distance: Ranged 10
 effects:
-    - effect: If this damage kills the target, you and each ally within distance can spend a Recovery.
+    - effect: If this damage kills the target, you and each ally within distance can spend a [Recovery](../../../../rule/health/recoveries.md).
     - roll: Power Roll + Intuition
       tier1: 9 + I corruption damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
       tier2: 14 + I corruption damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
@@ -48,7 +48,7 @@ metadata:
     class: conduit
     cost: 9 Piety
     distance: Ranged 10
-    effect: If this damage kills the target, you and each ally within distance can spend a Recovery.
+    effect: If this damage kills the target, you and each ally within distance can spend a [Recovery](../../../../rule/health/recoveries.md).
     flavor: You bend the fate of a foe, willing them to die.
     keywords:
         - Magic

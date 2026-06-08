@@ -3,7 +3,7 @@
   "distance": "Ranged 5",
   "effects": [
     {
-      "effect": "Each target is marked by you, and you gain two surges.",
+      "effect": "Each target is marked by you, and you gain two [surges](scc:mcdm.heroes.v1/rule.resource/surge).",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Maneuver",
     "class": "tactician",
-    "content": "\n*You point out easy targets to your friends, allowing them to include more enemies in their attacks.*\n\n| **Ranged**      |         **Maneuver** |\n|-----------------|---------------------:|\n| **📏 Ranged 5** | **🎯 Two creatures** |\n\n**Effect:** Each target is marked by you, and you gain two surges.\n\n**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.",
+    "content": "\n*You point out easy targets to your friends, allowing them to include more enemies in their attacks.*\n\n| **Ranged**      |         **Maneuver** |\n|-----------------|---------------------:|\n| **📏 Ranged 5** | **🎯 Two creatures** |\n\n**Effect:** Each target is marked by you, and you gain two [surges](scc:mcdm.heroes.v1/rule.resource/surge).\n\n**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.",
     "distance": "Ranged 5",
     "feature_type": "ability",
     "flavor": "You point out easy targets to your friends, allowing them to include more enemies in their attacks.",

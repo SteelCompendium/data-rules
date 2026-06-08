@@ -10,7 +10,6 @@ name: Guisarmier
 scc: mcdm.heroes.v1/kit/guisarmier
 source: mcdm.heroes.v1
 stability_bonus: "+1"
-stamina_bonus: +6 per echelon
 type: kit
 ---
 
@@ -22,7 +21,7 @@ You wear medium armor and wield a polearm.
 
 ##### Kit Bonuses
 
-**Stamina Bonus:** +6 per echelon
+**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) Bonus:** +6 per echelon
 
 **Stability Bonus:** +1
 

@@ -5,7 +5,7 @@ cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
 distance: Ranged 5
-effect: Each target is marked by you, and you gain two surges.
+effect: Each target is marked by you, and you gain two [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: targets-of-opportunity
 file_dpath: feature/ability/tactician/level-2
@@ -26,7 +26,7 @@ type: ability
 cost: 5 Focus
 distance: Ranged 5
 effects:
-    - effect: Each target is marked by you, and you gain two surges.
+    - effect: Each target is marked by you, and you gain two [surges](scc:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 flavor: You point out easy targets to your friends, allowing them to include more enemies in their attacks.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 5 Focus
     distance: Ranged 5
-    effect: Each target is marked by you, and you gain two surges.
+    effect: Each target is marked by you, and you gain two [surges](scc:mcdm.heroes.v1/rule.resource/surge).
     flavor: You point out easy targets to your friends, allowing them to include more enemies in their attacks.
     keywords:
         - Ranged

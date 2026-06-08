@@ -115,7 +115,7 @@ As a maneuver, you can adjust your vision to allow you to see through mundane ob
 
 #### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
 
-Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with concealment who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
 
 #### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 
@@ -123,7 +123,7 @@ Your unique physiology enhances your movement. You gain an edge on tests that us
 
 #### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../feature/trait/common/maneuvers/grab.md) or [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../feature/common/maneuvers/grab.md) or [Knockback](../feature/common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
 
 #### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
 

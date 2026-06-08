@@ -2,7 +2,7 @@
 action_type: Triggered
 class: tactician
 distance: Ranged 10
-effect: At any time during the target's movement, one ally can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them.
+effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
 feature_type: ability
 file_basename: overwatch
 file_dpath: feature/ability/tactician/level-1
@@ -25,7 +25,7 @@ type: ability
 ```ds-feature
 distance: Ranged 10
 effects:
-    - effect: At any time during the target's movement, one ally can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them.
+    - effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
     - effect: '1 Focus: If the target has R < AVERAGE, they are [slowed](../../../../condition/slowed.md) (EoT).'
       name: Spend
 feature_type: ability
@@ -36,7 +36,7 @@ metadata:
     action_type: Triggered
     class: tactician
     distance: Ranged 10
-    effect: At any time during the target's movement, one ally can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them.
+    effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
     flavor: Under your direction, an ally waits for just the right moment to strike.
     keywords:
         - Ranged

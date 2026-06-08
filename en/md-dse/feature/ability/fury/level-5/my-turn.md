@@ -5,7 +5,7 @@ cost: 9 Ferocity
 cost_amount: "9"
 cost_resource: Ferocity
 distance: Melee 1
-effect: You can spend a Recovery.
+effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: my-turn
 file_dpath: feature/ability/fury/level-5
@@ -26,7 +26,7 @@ target: The triggering creature
 tier1: 6 + M damage
 tier2: 9 + M damage
 tier3: 13 + M damage
-trigger: A creature causes you to be winded or dying, or damages you while you are winded or dying.
+trigger: A creature causes you to be [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying), or damages you while you are [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying).
 type: ability
 ---
 
@@ -34,7 +34,7 @@ type: ability
 cost: 9 Ferocity
 distance: Melee 1
 effects:
-    - effect: You can spend a Recovery.
+    - effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     - roll: Power Roll + Might
       tier1: 6 + M damage
       tier2: 9 + M damage
@@ -50,7 +50,7 @@ metadata:
     class: fury
     cost: 9 Ferocity
     distance: Melee 1
-    effect: You can spend a Recovery.
+    effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
     flavor: You quickly strike back at a foe.
     keywords:
         - Melee
@@ -65,11 +65,11 @@ metadata:
     tier1: 6 + M damage
     tier2: 9 + M damage
     tier3: 13 + M damage
-    trigger: A creature causes you to be winded or dying, or damages you while you are winded or dying.
+    trigger: A creature causes you to be [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying), or damages you while you are [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying).
     type: ability
 name: My Turn!
 target: The triggering creature
-trigger: A creature causes you to be winded or dying, or damages you while you are winded or dying.
+trigger: A creature causes you to be [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying), or damages you while you are [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying).
 type: feature
 usage: Free triggered
 ```

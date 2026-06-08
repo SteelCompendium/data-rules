@@ -5,7 +5,7 @@ cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
 distance: Ranged 10
-effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
+effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 feature_type: ability
 file_basename: synaptic-override
 file_dpath: feature/ability/talent/level-2
@@ -22,7 +22,7 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override
 source: mcdm.heroes.v1
 target: One enemy
-tier1: The target makes a [free strike](../../../trait/common/main-actions/free-strike.md) against one enemy of your choice.
+tier1: The target makes a [free strike](../../../common/main-actions/free-strike.md) against one enemy of your choice.
 tier2: The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 tier3: The target moves up to their speed and uses their signature ability against any enemies of your choice.
 type: ability
@@ -32,9 +32,9 @@ type: ability
 cost: 5 Clarity
 distance: Ranged 10
 effects:
-    - effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
+    - effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
     - roll: Power Roll + Reason
-      tier1: The target makes a [free strike](../../../trait/common/main-actions/free-strike.md) against one enemy of your choice.
+      tier1: The target makes a [free strike](../../../common/main-actions/free-strike.md) against one enemy of your choice.
       tier2: The target shifts up to their speed and uses their signature ability against any enemies of your choice.
       tier3: The target moves up to their speed and uses their signature ability against any enemies of your choice.
 feature_type: ability
@@ -48,7 +48,7 @@ metadata:
     class: talent
     cost: 5 Clarity
     distance: Ranged 10
-    effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
+    effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
     flavor: You control an enemy's nervous system. How pleasant for them.
     keywords:
         - Psionic
@@ -59,7 +59,7 @@ metadata:
     power_roll_characteristic: Reason
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override
     target: One enemy
-    tier1: The target makes a [free strike](../../../trait/common/main-actions/free-strike.md) against one enemy of your choice.
+    tier1: The target makes a [free strike](../../../common/main-actions/free-strike.md) against one enemy of your choice.
     tier2: The target shifts up to their speed and uses their signature ability against any enemies of your choice.
     tier3: The target moves up to their speed and uses their signature ability against any enemies of your choice.
     type: ability

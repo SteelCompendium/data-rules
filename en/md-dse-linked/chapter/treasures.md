@@ -72,4 +72,4 @@ The Magic and Psionic keywords for treasures refer to how those treasures are cr
 
 #### Stamina Bonuses and Damage Bonuses
 
-If two treasures give a creature a bonus to their Stamina or a bonus to the rolled damage of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. Stamina bonuses and damage bonuses from consumables ignore this rule, and can be stacked with other Stamina bonuses and damage bonuses granted by treasures.
+If two treasures give a creature a bonus to their [Stamina](../rule/health/stamina.md) or a bonus to the rolled damage of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. [Stamina](../rule/health/stamina.md) bonuses and damage bonuses from consumables ignore this rule, and can be stacked with other [Stamina](../rule/health/stamina.md) bonuses and damage bonuses granted by treasures.

@@ -5,7 +5,7 @@ cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
 distance: Ranged 10
-effect: You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
+effect: You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries), can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
 feature_type: ability
 file_basename: radiance-of-grace
 file_dpath: feature/ability/conduit/level-9
@@ -27,7 +27,7 @@ type: ability
 cost: 11 Piety
 distance: Ranged 10
 effects:
-    - effect: You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
+    - effect: You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries), can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
 feature_type: ability
 flavor: Intense light is emitted from your body, healing your allies.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 11 Piety
     distance: Ranged 10
-    effect: You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
+    effect: You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries), can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](scc:mcdm.heroes.v1/condition/prone).
     flavor: Intense light is emitted from your body, healing your allies.
     keywords:
         - Magic
