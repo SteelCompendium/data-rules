@@ -114,9 +114,9 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** Slide 1; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
-- **12-16:** Slide 1; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
-- **17+:** Slide 2; I < STRONG, [dazed](../../../condition/dazed.md) (save ends)
+- **≤11:** [Slide](../../../movement/forced-movement.md) 1; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
+- **12-16:** [Slide](../../../movement/forced-movement.md) 1; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
+- **17+:** [Slide](../../../movement/forced-movement.md) 2; I < STRONG, [dazed](../../../condition/dazed.md) (save ends)
 
 **Spend 2+ Drama:** The size of the [burst](../../../rule/combat/burst.md) increases by 1 for every 2 drama spent.
 

@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 3 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) in a straight line toward the target after pushing them.
+effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) in a straight line toward the target after [pushing](../../../../movement/forced-movement.md) them.
 flavor: As you force your enemy back with your weapon, you use your faith to stay close.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
@@ -14,9 +14,9 @@ name: Driving Assault
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault
 target: One creature or object
-tier1: 3 + M damage; push 1
-tier2: 6 + M damage; push 3
-tier3: 9 + M damage; push 5
+tier1: 3 + M damage; [push](../../../../movement/forced-movement.md) 1
+tier2: 6 + M damage; [push](../../../../movement/forced-movement.md) 3
+tier3: 9 + M damage; [push](../../../../movement/forced-movement.md) 5
 type: ability
 ---
 
@@ -29,8 +29,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 3
-- **17+:** 9 + M damage; push 5
+- **≤11:** 3 + M damage; [push](../../../../movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../../../../movement/forced-movement.md) 3
+- **17+:** 9 + M damage; [push](../../../../movement/forced-movement.md) 5
 
-**Effect:** You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) in a straight line toward the target after pushing them.
+**Effect:** You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) in a straight line toward the target after [pushing](../../../../movement/forced-movement.md) them.

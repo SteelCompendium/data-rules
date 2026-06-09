@@ -20,9 +20,9 @@ effects:
 
         **Clear:** You and your allies gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) that use the Search or Navigate skills.
 
-        **Foggy:** You and your allies gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) that use the Hide skill. **Overcast:** You and your allies gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) that use the [Endurance](scc:mcdm.heroes.v1/skill/endurance) skill.
+        **Foggy:** You and your allies gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) that use the Hide skill. **Overcast:** You and your allies gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) that use the [Endurance](scc:mcdm.heroes.v1/skill.exploration/endurance) skill.
 
-        **Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) that use the [Track](scc:mcdm.heroes.v1/skill/track) skill.
+        **Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) that use the [Track](scc:mcdm.heroes.v1/skill.intrigue/track) skill.
 
         If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 feature_type: feature

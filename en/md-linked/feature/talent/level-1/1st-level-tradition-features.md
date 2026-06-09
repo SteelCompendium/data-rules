@@ -80,11 +80,11 @@ You have the following ability.
 |---------------------|---------------------------------------------:|
 | **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../../../rule/character/size.md) 1 creature or object** |
 
-**Effect:** You slide the target up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
+**Effect:** You [slide](../../../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 
-**Spend 3 Clarity:** You can vertical slide the target.
+**Spend 3 Clarity:** You can vertical [slide](../../../movement/forced-movement.md) the target.
 
 ## Remote Assistance {data-scc="mcdm.heroes.v1/feature.talent.level-1/remote-assistance"}
 

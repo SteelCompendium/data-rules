@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Giving up is for other people. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Endurance](../../../skill/endurance.md) skill. Additionally, when you are [slowed](../../../condition/slowed.md), your [speed](../../../rule/character/speed.md) is reduced to 3 instead of 2.
+    - effect: Giving up is for other people. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Endurance](../../../skill/exploration/endurance.md) skill. Additionally, when you are [slowed](../../../condition/slowed.md), your [speed](../../../rule/character/speed.md) is reduced to 3 instead of 2.
 feature_type: trait
 metadata:
     ancestry: human

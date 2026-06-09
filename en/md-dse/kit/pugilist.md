@@ -40,19 +40,19 @@ You wear no armor and wield only your unarmed [strikes](scc:mcdm.heroes.v1/rule.
 **[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage; slide 1
-- **17+:** 8 + M or A damage; slide 2
+- **12-16:** 6 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+- **17+:** 8 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
 
-**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you slide them.
+**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you [slide](scc:mcdm.heroes.v1/movement/forced-movement) them.
 
 ```ds-feature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you slide them.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you [slide](scc:mcdm.heroes.v1/movement/forced-movement) them.
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
       tier1: 3 + M or A damage
-      tier2: 6 + M or A damage; slide 1
-      tier3: 8 + M or A damage; slide 2
+      tier2: 6 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier3: 8 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
 feature_type: ability
 flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
 keywords:
@@ -62,7 +62,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you slide them.
+    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you [slide](scc:mcdm.heroes.v1/movement/forced-movement) them.
     flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
     keywords:
         - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
@@ -73,8 +73,8 @@ metadata:
     subtype: signature
     target: One creature
     tier1: 3 + M or A damage
-    tier2: 6 + M or A damage; slide 1
-    tier3: 8 + M or A damage; slide 2
+    tier2: 6 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier3: 8 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
     type: ability
 name: Let's Dance
 target: One creature

@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "You are never [surprised](scc:mcdm.heroes.v1/rule.combat/surprised). Additionally, whenever you would push a target with [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), you can slide them instead.\n\nAs your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](scc:mcdm.heroes.v1/feature.fury.boren/growing-ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit."
+      "effect": "You are never [surprised](scc:mcdm.heroes.v1/rule.combat/surprised). Additionally, whenever you would [push](scc:mcdm.heroes.v1/movement/forced-movement) a target with [forced movement](scc:mcdm.heroes.v1/movement/forced-movement), you can [slide](scc:mcdm.heroes.v1/movement/forced-movement) them instead.\n\nAs your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](scc:mcdm.heroes.v1/feature.fury.boren/growing-ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit."
     }
   ],
   "feature_type": "feature",

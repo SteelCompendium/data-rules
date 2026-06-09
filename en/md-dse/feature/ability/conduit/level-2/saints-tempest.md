@@ -21,9 +21,9 @@ power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuit
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 2 lightning damage; vertical slide 1
-tier2: 5 lightning damage; vertical slide 2
-tier3: 7 lightning damage; vertical slide 3
+tier1: 2 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier2: 5 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+tier3: 7 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 5 Piety
 distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
-      tier1: 2 lightning damage; vertical slide 1
-      tier2: 5 lightning damage; vertical slide 2
-      tier3: 7 lightning damage; vertical slide 3
+      tier1: 2 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier2: 5 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+      tier3: 7 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
 feature_type: ability
 flavor: A raging storm appears, striking your foes with lightning and throwing them around with wind.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest
     target: Each enemy in the area
-    tier1: 2 lightning damage; vertical slide 1
-    tier2: 5 lightning damage; vertical slide 2
-    tier3: 7 lightning damage; vertical slide 3
+    tier1: 2 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier2: 5 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    tier3: 7 lightning damage; vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
     type: ability
 name: Saint's Tempest
 target: Each enemy in the area

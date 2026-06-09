@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 3 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: When you slide the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../../../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
+effect: When you [slide](../../../../movement/forced-movement.md) the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../../../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
 flavor: Your enemies will clear your path—whether they want to or not.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
@@ -14,9 +14,9 @@ name: Out of the Way!
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/out-of-the-way
 target: One creature
-tier1: 3 + M damage; slide 2
-tier2: 5 + M damage; slide 3
-tier3: 8 + M damage; slide 5
+tier1: 3 + M damage; [slide](../../../../movement/forced-movement.md) 2
+tier2: 5 + M damage; [slide](../../../../movement/forced-movement.md) 3
+tier3: 8 + M damage; [slide](../../../../movement/forced-movement.md) 5
 type: ability
 ---
 
@@ -29,8 +29,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
-- **≤11:** 3 + M damage; slide 2
-- **12-16:** 5 + M damage; slide 3
-- **17+:** 8 + M damage; slide 5
+- **≤11:** 3 + M damage; [slide](../../../../movement/forced-movement.md) 2
+- **12-16:** 5 + M damage; [slide](../../../../movement/forced-movement.md) 3
+- **17+:** 8 + M damage; [slide](../../../../movement/forced-movement.md) 5
 
-**Effect:** When you slide the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../../../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
+**Effect:** When you [slide](../../../../movement/forced-movement.md) the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../../../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.

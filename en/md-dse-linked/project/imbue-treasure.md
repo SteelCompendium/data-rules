@@ -49,7 +49,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 
 **Terrifying I:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 2 psychic damage.
 
-**Thundering I:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can push that creature 1 square after the other effects of the ability resolve.
+**Thundering I:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can [push](../movement/forced-movement.md) that creature 1 square after the other effects of the ability resolve.
 
 **Vengeance I:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../rule/combat/turn.md), the ability deals an extra 2 damage.
 
@@ -110,7 +110,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > **Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is [frightened](../condition/frightened.md) (save ends). This replaces the benefit of Terrifying I.
 >
-> **Thundering II:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../condition/prone.md) after being pushed. This replaces the benefit of Thundering I.
+> **Thundering II:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can [push](../movement/forced-movement.md) that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../condition/prone.md) after being [pushed](../movement/forced-movement.md). This replaces the benefit of Thundering I.
 >
 > **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../rule/combat/turn.md), the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
 
@@ -165,7 +165,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > **Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is [frightened](../condition/frightened.md) (save ends). This replaces the benefit of Terrifying II.
 >
-> **Thundering III:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them [prone](../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
+> **Thundering III:** Whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature using this weapon, you can vertical [push](../movement/forced-movement.md) that creature up to 5 squares and knock them [prone](../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../rule/combat/turn.md), the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >

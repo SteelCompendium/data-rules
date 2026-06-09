@@ -12,9 +12,9 @@ name: Invocation of Undoing
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing
 target: Each enemy in the area
-tier1: 3 sonic damage; push 3
-tier2: 6 sonic damage; push 5
-tier3: 9 sonic damage; push 7
+tier1: 3 sonic damage; [push](../../../../movement/forced-movement.md) 3
+tier2: 6 sonic damage; [push](../../../../movement/forced-movement.md) 5
+tier3: 9 sonic damage; [push](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -27,8 +27,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
-- **≤11:** 3 sonic damage; push 3
-- **12-16:** 6 sonic damage; push 5
-- **17+:** 9 sonic damage; push 7
+- **≤11:** 3 sonic damage; [push](../../../../movement/forced-movement.md) 3
+- **12-16:** 6 sonic damage; [push](../../../../movement/forced-movement.md) 5
+- **17+:** 9 sonic damage; [push](../../../../movement/forced-movement.md) 7
 
-**Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.
+**Special:** You can choose to have this ability deal damage to and [push](../../../../movement/forced-movement.md) objects, and to deal damage to buildings.

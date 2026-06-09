@@ -3,9 +3,9 @@ distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
       tier1: 3 + M or A damage
-      tier2: 6 + M or A damage; slide 1
-      tier3: 8 + M or A damage; slide 2
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you slide them.
+      tier2: 6 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier3: 8 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you [slide](scc:mcdm.heroes.v1/movement/forced-movement) them.
       name: Effect
 feature_type: ability
 flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
@@ -16,7 +16,7 @@ keywords:
 metadata:
     ability_type: Signature
     action_type: Main action
-    content: "*Keeping your enemies stumbling around the battlefield is second nature to you.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + M or A damage\n- **12-16:** 6 + M or A damage; slide 1\n- **17+:** 8 + M or A damage; slide 2\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you slide them."
+    content: "*Keeping your enemies stumbling around the battlefield is second nature to you.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 + M or A damage\n- **12-16:** 6 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1\n- **17+:** 8 + M or A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you [slide](scc:mcdm.heroes.v1/movement/forced-movement) them."
     distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     feature_type: ability
     flavor: Keeping your enemies stumbling around the battlefield is second nature to you.

@@ -20,9 +20,9 @@ scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 2 + R fire damage; push 2
-tier2: 5 + R fire damage; push 3
-tier3: 7 + R fire damage; push 4
+tier1: 2 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+tier2: 5 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3
+tier3: 7 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
 type: ability
 ---
 
@@ -30,9 +30,9 @@ type: ability
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
-      tier1: 2 + R fire damage; push 2
-      tier2: 5 + R fire damage; push 3
-      tier3: 7 + R fire damage; push 4
+      tier1: 2 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+      tier2: 5 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3
+      tier3: 7 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
 feature_type: ability
 flavor: A jet of heavy fire erupts where you strike.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire
     subtype: signature
     target: One creature or object
-    tier1: 2 + R fire damage; push 2
-    tier2: 5 + R fire damage; push 3
-    tier3: 7 + R fire damage; push 4
+    tier1: 2 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    tier2: 5 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3
+    tier3: 7 + R fire damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
     type: ability
 name: Viscous Fire
 target: One creature or object

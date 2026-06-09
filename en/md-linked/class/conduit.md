@@ -3,7 +3,7 @@ flavor: The power of the gods flows through you! As a vessel for divine power, y
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)'
+    - 'Choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)'
 type: class
 ---
 
@@ -36,7 +36,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)
+**Skills:** Choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)
 
 ##### Conduit Advancement Table
 
@@ -124,7 +124,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ##### Nature Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your [Intuition](../rule/character/intuition.md) score. You can slide each creature up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. The vines then fade away.
+- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your [Intuition](../rule/character/intuition.md) score. You can [slide](../movement/forced-movement.md) each creature up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. The vines then fade away.
 
 ##### Protection Domain Piety and Effect
 
@@ -143,8 +143,8 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ##### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../feature/common/maneuvers/aid-attack.md) or [Hide](../skill/hide.md) maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../feature/common/maneuvers/aid-attack.md) or [Hide](../skill/intrigue/hide.md) maneuver.
+- **Prayer Effect:** You [slide](../movement/forced-movement.md) one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
 
 ##### War Domain Piety and Effect
 
@@ -153,7 +153,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature"}
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/censor/level-1/revitalizing-ritual.md) and the [Heal](../skill/heal.md) skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/censor/level-1/revitalizing-ritual.md) and the [Heal](../skill/exploration/heal.md) skill from the Life domain.)
 
 ##### 1st-Level Conduit Domain Features Table
 
@@ -188,9 +188,9 @@ Each time you finish a [respite](../rule/resource/respite.md), you can decide th
 
 **Clear:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the Hide skill. **Overcast:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Endurance](../skill/endurance.md) skill.
+**Foggy:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the Hide skill. **Overcast:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Endurance](../skill/exploration/endurance.md) skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Track](../skill/track.md) skill.
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Track](../skill/intrigue/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
@@ -245,7 +245,7 @@ Each time you finish a [respite](../rule/resource/respite.md), you can choose yo
 
 #### Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the intrigue skill group, you can use [Intuition](../rule/character/intuition.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/intrigue/intrigue.md), you can use [Intuition](../rule/character/intuition.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
 
 #### Oracular Visions {data-scc="mcdm.heroes.v1/feature.conduit.level-1/oracular-visions"}
 
@@ -439,9 +439,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; vertical pull 2
-- **12-16:** 5 + I holy damage; vertical pull 3
-- **17+:** 8 + I holy damage; vertical pull 4
+- **≤11:** 3 + I holy damage; vertical [pull](../movement/forced-movement.md) 2
+- **12-16:** 5 + I holy damage; vertical [pull](../movement/forced-movement.md) 3
+- **17+:** 8 + I holy damage; vertical [pull](../movement/forced-movement.md) 4
 
 ##### Lightfall {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/lightfall"}
 
@@ -488,9 +488,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; slide 1
-- **12-16:** 5 + I holy damage; slide 2
-- **17+:** 8 + I holy damage; slide 3
+- **≤11:** 3 + I holy damage; [slide](../movement/forced-movement.md) 1
+- **12-16:** 5 + I holy damage; [slide](../movement/forced-movement.md) 2
+- **17+:** 8 + I holy damage; [slide](../movement/forced-movement.md) 3
 
 ##### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
@@ -543,11 +543,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 2 sonic damage; push 1
-- **12-16:** 3 sonic damage; push 2
-- **17+:** 5 sonic damage; push 3
+- **≤11:** 2 sonic damage; [push](../movement/forced-movement.md) 1
+- **12-16:** 3 sonic damage; [push](../movement/forced-movement.md) 2
+- **17+:** 5 sonic damage; [push](../movement/forced-movement.md) 3
 
-**Effect:** You can push each willing ally in the area the same [distance](../rule/combat/distance.md), ignoring [stability](../rule/character/stability.md).
+**Effect:** You can [push](../movement/forced-movement.md) each willing ally in the area the same [distance](../rule/combat/distance.md), ignoring [stability](../rule/character/stability.md).
 
 ##### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
 
@@ -818,9 +818,9 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 2 lightning damage; vertical slide 1
-- **12-16:** 5 lightning damage; vertical slide 2
-- **17+:** 7 lightning damage; vertical slide 3
+- **≤11:** 2 lightning damage; vertical [slide](../movement/forced-movement.md) 1
+- **12-16:** 5 lightning damage; vertical [slide](../movement/forced-movement.md) 2
+- **17+:** 7 lightning damage; vertical [slide](../movement/forced-movement.md) 3
 
 ##### Statue of Power {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power"}
 
@@ -978,7 +978,7 @@ You have the following ability.
 |-----------------|--------------------------------------:|
 | **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each creature in the area has a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to [hide](../skill/hide.md) or [sneak](../skill/sneak.md). The [aura](../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+**Effect:** Each creature in the area has a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to [hide](../skill/intrigue/hide.md) or [sneak](../skill/intrigue/sneak.md). The [aura](../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ##### Impervious Touch
 
@@ -1135,7 +1135,7 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 |------------------|---------------------------------:|
 | **📏 4 [aura](../rule/combat/aura.md)**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), at the end of each of your [turns](../rule/combat/turn.md), you can slide each creature in the area up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), at the end of each of your [turns](../rule/combat/turn.md), you can [slide](../movement/forced-movement.md) each creature in the area up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
 
 ##### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
@@ -1215,11 +1215,11 @@ Once on each subsequent [turn](../rule/combat/turn.md), you can use a [free mane
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 3 sonic damage; push 3
-- **12-16:** 6 sonic damage; push 5
-- **17+:** 9 sonic damage; push 7
+- **≤11:** 3 sonic damage; [push](../movement/forced-movement.md) 3
+- **12-16:** 6 sonic damage; [push](../movement/forced-movement.md) 5
+- **17+:** 9 sonic damage; [push](../movement/forced-movement.md) 7
 
-**Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.
+**Special:** You can choose to have this ability deal damage to and [push](../movement/forced-movement.md) objects, and to deal damage to buildings.
 
 ##### Lauded by God {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god"}
 
@@ -1243,11 +1243,11 @@ Once on each subsequent [turn](../rule/combat/turn.md), you can use a [free mane
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 6 lightning damage; push 1
-- **12-16:** 9 lightning damage; push 2
-- **17+:** 13 lightning damage; push 3
+- **≤11:** 6 lightning damage; [push](../movement/forced-movement.md) 1
+- **12-16:** 9 lightning damage; [push](../movement/forced-movement.md) 2
+- **17+:** 13 lightning damage; [push](../movement/forced-movement.md) 3
 
-**Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../movement/forced-movement.md) into other targets in the same line.
 
 ##### Revitalizing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/revitalizing-grace"}
 
@@ -1358,7 +1358,7 @@ Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healin
 
 #### Gods' Library {data-scc="mcdm.heroes.v1/feature.conduit.level-7/gods-library"}
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../chapter/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../chapter/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/lore/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/lore/lore.md) before you gained this feature.
 
 #### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.conduit.level-7/light-of-the-burning-sun"}
 
@@ -1469,9 +1469,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 9 + I holy damage; slide 3
-- **12-16:** 13 + I holy damage; slide 4
-- **17+:** 18 + I holy damage; slide 6
+- **≤11:** 9 + I holy damage; [slide](../movement/forced-movement.md) 3
+- **12-16:** 13 + I holy damage; [slide](../movement/forced-movement.md) 4
+- **17+:** 18 + I holy damage; [slide](../movement/forced-movement.md) 6
 
 **Effect:** Each ally the target comes [adjacent](../rule/combat/adjacent.md) to during the [forced movement](../movement/forced-movement.md) can spend a [Recovery](../rule/health/recoveries.md).
 

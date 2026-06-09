@@ -21,9 +21,9 @@ power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball
 source: mcdm.heroes.v1
 target: Self
-tier1: Push 1
-tier2: Push 2
-tier3: Push 3
+tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
+tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
+tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
 type: ability
 ---
 
@@ -33,9 +33,9 @@ distance: Self; see below
 effects:
     - effect: You move up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
-      tier1: Push 1
-      tier2: Push 2
-      tier3: Push 3
+      tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
+      tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
+      tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
 feature_type: ability
 flavor: It's easier to destroy than to create. Much easier, in fact!
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball
     target: Self
-    tier1: Push 1
-    tier2: Push 2
-    tier3: Push 3
+    tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
+    tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
+    tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
     type: ability
 name: Wrecking Ball
 target: Self

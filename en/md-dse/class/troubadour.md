@@ -7,7 +7,7 @@ item_name: Troubadour
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the [Read Person](scc:mcdm.heroes.v1/skill/read-person) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Rumors.)'
+    - 'You gain the [Read Person](scc:mcdm.heroes.v1/skill.interpersonal/read-person) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the [interpersonal skill group](scc:mcdm.heroes.v1/skill.interpersonal/interpersonal) and one skill from the [intrigue](scc:mcdm.heroes.v1/skill.intrigue/intrigue) or [lore](scc:mcdm.heroes.v1/skill.lore/lore) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](scc:mcdm.heroes.v1/skill.interpersonal/read-person), Rumors.)'
 source: mcdm.heroes.v1
 type: class
 ---
@@ -40,7 +40,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **[Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries):** 8
 
-**Skills:** You gain the [Read Person](scc:mcdm.heroes.v1/skill/read-person) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Rumors.)
+**Skills:** You gain the [Read Person](scc:mcdm.heroes.v1/skill.interpersonal/read-person) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the [interpersonal skill group](scc:mcdm.heroes.v1/skill.interpersonal/interpersonal) and one skill from the [intrigue](scc:mcdm.heroes.v1/skill.intrigue/intrigue) or [lore](scc:mcdm.heroes.v1/skill.lore/lore) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](scc:mcdm.heroes.v1/skill.interpersonal/read-person), Rumors.)
 
 ###### Troubadour Advancement Table
 

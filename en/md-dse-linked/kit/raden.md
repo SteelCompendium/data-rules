@@ -25,7 +25,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage
-- **12-16:** 7 + A damage; push 1
-- **17+:** 9 + A damage; push 2
+- **12-16:** 7 + A damage; [push](../movement/forced-movement.md) 1
+- **17+:** 9 + A damage; [push](../movement/forced-movement.md) 2
 
-**Effect:** You can [shift](../movement/shifting.md) up to the same number of squares that you pushed the target.
+**Effect:** You can [shift](../movement/shifting.md) up to the same number of squares that you [pushed](../movement/forced-movement.md) the target.

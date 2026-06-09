@@ -19,9 +19,9 @@ scc: mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 3 + M damage; push 1
-tier2: 6 + M damage; push 2
-tier3: 9 + M damage; push 4
+tier1: 3 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier2: 6 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+tier3: 9 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
 type: ability
 ---
 
@@ -29,9 +29,9 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
-      tier1: 3 + M damage; push 1
-      tier2: 6 + M damage; push 2
-      tier3: 9 + M damage; push 4
+      tier1: 3 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier2: 6 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+      tier3: 9 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
 feature_type: ability
 flavor: The heavy impact of your weapon attacks drives your foes ever back.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam
     subtype: signature
     target: One creature or object
-    tier1: 3 + M damage; push 1
-    tier2: 6 + M damage; push 2
-    tier3: 9 + M damage; push 4
+    tier1: 3 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier2: 6 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    tier3: 9 + M damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
     type: ability
 name: Brutal Slam
 target: One creature or object

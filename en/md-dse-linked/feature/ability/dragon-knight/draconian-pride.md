@@ -18,8 +18,8 @@ source: mcdm.heroes.v1
 subtype: signature
 target: Each enemy in the area
 tier1: 2 damage
-tier2: 5 damage; push 1
-tier3: 7 damage; push 2
+tier2: 5 damage; [push](../../../movement/forced-movement.md) 1
+tier3: 7 damage; [push](../../../movement/forced-movement.md) 2
 type: ability
 ---
 
@@ -28,8 +28,8 @@ distance: 1 [burst](../../../rule/combat/burst.md)
 effects:
     - roll: Power Roll + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)
       tier1: 2 damage
-      tier2: 5 damage; push 1
-      tier3: 7 damage; push 2
+      tier2: 5 damage; [push](../../../movement/forced-movement.md) 1
+      tier3: 7 damage; [push](../../../movement/forced-movement.md) 2
 feature_type: ability
 flavor: You let loose a mighty roar to shake your foes' spirits.
 keywords:
@@ -49,8 +49,8 @@ metadata:
     subtype: signature
     target: Each enemy in the area
     tier1: 2 damage
-    tier2: 5 damage; push 1
-    tier3: 7 damage; push 2
+    tier2: 5 damage; [push](../../../movement/forced-movement.md) 1
+    tier3: 7 damage; [push](../../../movement/forced-movement.md) 2
     type: ability
 name: Draconian Pride
 target: Each enemy in the area

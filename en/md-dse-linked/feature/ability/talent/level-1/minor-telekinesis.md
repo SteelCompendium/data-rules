@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You slide the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+effect: You [slide](../../../../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
 feature_type: ability
 file_basename: minor-telekinesis
 file_dpath: feature/ability/talent/level-1
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: You slide the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+    - effect: You [slide](../../../../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
     - effect: '2+ Clarity: The size of the creature or object you can target increases by 1 for every 2 clarity spent.'
       name: Spend
 feature_type: ability
@@ -36,7 +36,7 @@ metadata:
     action_type: Maneuver
     class: talent
     distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-    effect: You slide the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+    effect: You [slide](../../../../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
     flavor: Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.
     keywords:
         - Psionic

@@ -20,9 +20,9 @@ power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 3 sonic damage; push 3
-tier2: 6 sonic damage; push 5
-tier3: 9 sonic damage; push 7
+tier1: 3 sonic damage; [push](../../../../movement/forced-movement.md) 3
+tier2: 6 sonic damage; [push](../../../../movement/forced-movement.md) 5
+tier3: 9 sonic damage; [push](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -31,9 +31,9 @@ cost: 9 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
 effects:
     - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
-      tier1: 3 sonic damage; push 3
-      tier2: 6 sonic damage; push 5
-      tier3: 9 sonic damage; push 7
+      tier1: 3 sonic damage; [push](../../../../movement/forced-movement.md) 3
+      tier2: 6 sonic damage; [push](../../../../movement/forced-movement.md) 5
+      tier3: 9 sonic damage; [push](../../../../movement/forced-movement.md) 7
 feature_type: ability
 flavor: You utter a secret word of destruction known only to deities.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing
     target: Each enemy in the area
-    tier1: 3 sonic damage; push 3
-    tier2: 6 sonic damage; push 5
-    tier3: 9 sonic damage; push 7
+    tier1: 3 sonic damage; [push](../../../../movement/forced-movement.md) 3
+    tier2: 6 sonic damage; [push](../../../../movement/forced-movement.md) 5
+    tier3: 9 sonic damage; [push](../../../../movement/forced-movement.md) 7
     type: ability
 name: Invocation of Undoing
 target: Each enemy in the area

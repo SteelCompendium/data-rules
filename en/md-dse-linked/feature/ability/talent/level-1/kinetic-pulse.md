@@ -20,8 +20,8 @@ source: mcdm.heroes.v1
 subtype: signature
 target: Each enemy in the area
 tier1: 2 psychic damage
-tier2: 5 psychic damage; push 1
-tier3: 7 psychic damage; push 2
+tier2: 5 psychic damage; [push](../../../../movement/forced-movement.md) 1
+tier3: 7 psychic damage; [push](../../../../movement/forced-movement.md) 2
 type: ability
 ---
 
@@ -30,8 +30,8 @@ distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
     - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 2 psychic damage
-      tier2: 5 psychic damage; push 1
-      tier3: 7 psychic damage; push 2
+      tier2: 5 psychic damage; [push](../../../../movement/forced-movement.md) 1
+      tier3: 7 psychic damage; [push](../../../../movement/forced-movement.md) 2
 feature_type: ability
 flavor: The force of your mind hurls enemies backward.
 keywords:
@@ -54,8 +54,8 @@ metadata:
     subtype: signature
     target: Each enemy in the area
     tier1: 2 psychic damage
-    tier2: 5 psychic damage; push 1
-    tier3: 7 psychic damage; push 2
+    tier2: 5 psychic damage; [push](../../../../movement/forced-movement.md) 1
+    tier3: 7 psychic damage; [push](../../../../movement/forced-movement.md) 2
     type: ability
 name: Kinetic Pulse
 target: Each enemy in the area

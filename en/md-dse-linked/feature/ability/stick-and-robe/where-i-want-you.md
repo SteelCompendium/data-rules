@@ -19,8 +19,8 @@ source: mcdm.heroes.v1
 subtype: signature
 target: One creature
 tier1: 4 + M or A damage
-tier2: 7 + M or A damage; slide 1
-tier3: 10 + M or A damage; slide 3
+tier2: 7 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+tier3: 10 + M or A damage; [slide](../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -29,8 +29,8 @@ distance: '[Melee](../../../rule/combat/melee.md) 2'
 effects:
     - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
       tier1: 4 + M or A damage
-      tier2: 7 + M or A damage; slide 1
-      tier3: 10 + M or A damage; slide 3
+      tier2: 7 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+      tier3: 10 + M or A damage; [slide](../../../movement/forced-movement.md) 3
 feature_type: ability
 flavor: When your stick speaks, your enemy moves.
 keywords:
@@ -52,8 +52,8 @@ metadata:
     subtype: signature
     target: One creature
     tier1: 4 + M or A damage
-    tier2: 7 + M or A damage; slide 1
-    tier3: 10 + M or A damage; slide 3
+    tier2: 7 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+    tier3: 10 + M or A damage; [slide](../../../movement/forced-movement.md) 3
     type: ability
 name: Where I Want You
 target: One creature

@@ -21,9 +21,9 @@ power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 3 damage; vertical push 2
-tier2: 6 damage; vertical push 4
-tier3: 9 damage; vertical push 6
+tier1: 3 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+tier2: 6 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
+tier3: 9 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 6
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 5 Clarity
 distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
-      tier1: 3 damage; vertical push 2
-      tier2: 6 damage; vertical push 4
-      tier3: 9 damage; vertical push 6
+      tier1: 3 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+      tier2: 6 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
+      tier3: 9 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 6
 feature_type: ability
 flavor: Everyone get away from me!
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst
     target: Each enemy in the area
-    tier1: 3 damage; vertical push 2
-    tier2: 6 damage; vertical push 4
-    tier3: 9 damage; vertical push 6
+    tier1: 3 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    tier2: 6 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 4
+    tier3: 9 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 6
     type: ability
 name: Gravitic Burst
 target: Each enemy in the area

@@ -23,9 +23,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** 2 holy damage; push 1
-- **12-16:** 4 holy damage; push 2
-- **17+:** 6 holy damage; push 3
+- **≤11:** 2 holy damage; [push](../../../movement/forced-movement.md) 1
+- **12-16:** 4 holy damage; [push](../../../movement/forced-movement.md) 2
+- **17+:** 6 holy damage; [push](../../../movement/forced-movement.md) 3
 
 ### Every Step... Death! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death"}
 
@@ -74,7 +74,7 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy [adjacent](../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../rule/character/presence.md) score.
+**Effect:** Each enemy [adjacent](../../../rule/combat/adjacent.md) to the target is [pushed](../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../rule/character/presence.md) score.
 
 ## Heroic Abilities
 
@@ -112,11 +112,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 3
-- **17+:** 9 + M damage; push 5
+- **≤11:** 3 + M damage; [push](../../../movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../../../movement/forced-movement.md) 3
+- **17+:** 9 + M damage; [push](../../../movement/forced-movement.md) 5
 
-**Effect:** You can [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md) in a straight line toward the target after pushing them.
+**Effect:** You can [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md) in a straight line toward the target after [pushing](../../../movement/forced-movement.md) them.
 
 ### The Gods Punish and Defend {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend"}
 
@@ -186,7 +186,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../../condition/frightened.md) of you (save ends)
 - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../../../condition/frightened.md) of you (save ends)
 
-**Effect:** Each enemy [frightened](../../../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../rule/character/presence.md) score.
+**Effect:** Each enemy [frightened](../../../condition/frightened.md) this way is [pushed](../../../movement/forced-movement.md) up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../rule/character/presence.md) score.
 
 ### Censored {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/censored"}
 

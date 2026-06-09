@@ -25,7 +25,7 @@ type: ability
 
 Once as a [free maneuver](../../../../rule/combat/free-maneuver.md) on each of your [turns](../../../../rule/combat/turn.md), you can spend 1 discipline and give your [Null Field](../../../null/level-1/null-field.md) one of the following additional effects until the start of your next [turn](../../../../rule/combat/turn.md):
 
-- Gravitic Disruption: The first time on a [turn](../../../../rule/combat/turn.md) that a target takes damage, you can slide them up to 2 squares.
+- Gravitic Disruption: The first time on a [turn](../../../../rule/combat/turn.md) that a target takes damage, you can [slide](../../../../movement/forced-movement.md) them up to 2 squares.
 - Inertial Anchor: Any target who starts their [turn](../../../../rule/combat/turn.md) in the area can't [shift](../../../../movement/shifting.md).
 - Synaptic Break: Whenever you or any ally uses an ability against a target that has a [potency](../../../../rule/character/potency.md) effect, the [potency](../../../../rule/character/potency.md) is increased by 1.
 

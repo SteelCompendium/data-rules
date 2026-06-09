@@ -18,9 +18,9 @@ scc: mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
-tier1: 4 + M or A damage; push 1
-tier2: 7 + M or A damage; push 2
-tier3: 9 + M or A damage; push 3; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier1: 4 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier2: 7 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+tier3: 9 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -28,9 +28,9 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
-      tier1: 4 + M or A damage; push 1
-      tier2: 7 + M or A damage; push 2
-      tier3: 9 + M or A damage; push 3; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+      tier1: 4 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier2: 7 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+      tier3: 9 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: In your hands, a shield isn't just for protection.
 keywords:
@@ -51,9 +51,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash
     subtype: signature
     target: One creature
-    tier1: 4 + M or A damage; push 1
-    tier2: 7 + M or A damage; push 2
-    tier3: 9 + M or A damage; push 3; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+    tier1: 4 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier2: 7 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    tier3: 9 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
     type: ability
 name: Shield Bash
 target: One creature

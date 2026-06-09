@@ -52,8 +52,8 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 9 + I holy damage; slide 3
-- **12-16:** 13 + I holy damage; slide 4
-- **17+:** 18 + I holy damage; slide 6
+- **≤11:** 9 + I holy damage; [slide](../../../movement/forced-movement.md) 3
+- **12-16:** 13 + I holy damage; [slide](../../../movement/forced-movement.md) 4
+- **17+:** 18 + I holy damage; [slide](../../../movement/forced-movement.md) 6
 
 **Effect:** Each ally the target comes [adjacent](../../../rule/combat/adjacent.md) to during the [forced movement](../../../movement/forced-movement.md) can spend a [Recovery](../../../rule/health/recoveries.md).

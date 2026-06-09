@@ -15,9 +15,9 @@ name: Panic in Their Lines
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines
 target: Two creatures
-tier1: 6 + M damage; slide 1
-tier2: 9 + M damage; slide 3
-tier3: 13 + M damage; slide 5
+tier1: 6 + M damage; [slide](../../../../movement/forced-movement.md) 1
+tier2: 9 + M damage; [slide](../../../../movement/forced-movement.md) 3
+tier3: 13 + M damage; [slide](../../../../movement/forced-movement.md) 5
 type: ability
 ---
 
@@ -30,8 +30,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
-- **≤11:** 6 + M damage; slide 1
-- **12-16:** 9 + M damage; slide 3
-- **17+:** 13 + M damage; slide 5
+- **≤11:** 6 + M damage; [slide](../../../../movement/forced-movement.md) 1
+- **12-16:** 9 + M damage; [slide](../../../../movement/forced-movement.md) 3
+- **17+:** 13 + M damage; [slide](../../../../movement/forced-movement.md) 5
 
 **Effect:** If a target is [force moved](../../../../movement/forced-movement.md) into another creature, they must make a [free strike](../../../common/main-actions/free-strike.md) against that creature.

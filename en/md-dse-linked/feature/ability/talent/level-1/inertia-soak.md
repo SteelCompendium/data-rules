@@ -5,7 +5,7 @@ cost: 5 Clarity
 cost_amount: "5"
 cost_resource: Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../../rule/combat/turn.md).
+effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When [pushing](../../../../movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 file_basename: inertia-soak
 file_dpath: feature/ability/talent/level-1
@@ -28,7 +28,7 @@ type: ability
 cost: 5 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../../rule/combat/turn.md).
+    - effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When [pushing](../../../../movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../../rule/combat/turn.md).
 feature_type: ability
 flavor: Your psionic energy surrounds the target and pushes everything else away from them.
 keywords:
@@ -40,7 +40,7 @@ metadata:
     class: talent
     cost: 5 Clarity
     distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-    effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../../rule/combat/turn.md).
+    effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When [pushing](../../../../movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../../rule/combat/turn.md).
     flavor: Your psionic energy surrounds the target and pushes everything else away from them.
     keywords:
         - Psionic

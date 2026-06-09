@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: 1 [burst](../../../../rule/combat/burst.md)
-effect: You can slide one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
+effect: You can [slide](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
 flavor: You strike everywhere at once, tricking an enemy into moving out of position.
 keywords:
     - Area
@@ -33,4 +33,4 @@ type: ability
 - **12-16:** 4 damage
 - **17+:** 5 damage
 
-**Effect:** You can slide one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
+**Effect:** You can [slide](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.

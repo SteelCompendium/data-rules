@@ -23,9 +23,9 @@ power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 3 damage; vertical pull 3
-tier2: 5 damage; vertical pull 5
-tier3: 8 damage; vertical pull 7
+tier1: 3 damage; vertical [pull](../../../../movement/forced-movement.md) 3
+tier2: 5 damage; vertical [pull](../../../../movement/forced-movement.md) 5
+tier3: 8 damage; vertical [pull](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -35,9 +35,9 @@ distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
     - roll: Power Roll + [Might](../../../../rule/character/might.md)
-      tier1: 3 damage; vertical pull 3
-      tier2: 5 damage; vertical pull 5
-      tier3: 8 damage; vertical pull 7
+      tier1: 3 damage; vertical [pull](../../../../movement/forced-movement.md) 3
+      tier2: 5 damage; vertical [pull](../../../../movement/forced-movement.md) 5
+      tier3: 8 damage; vertical [pull](../../../../movement/forced-movement.md) 7
 feature_type: ability
 flavor: You channel the power of the Primordial Chaos to pull foes to you.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex
     target: Each enemy in the area
-    tier1: 3 damage; vertical pull 3
-    tier2: 5 damage; vertical pull 5
-    tier3: 8 damage; vertical pull 7
+    tier1: 3 damage; vertical [pull](../../../../movement/forced-movement.md) 3
+    tier2: 5 damage; vertical [pull](../../../../movement/forced-movement.md) 5
+    tier3: 8 damage; vertical [pull](../../../../movement/forced-movement.md) 7
     type: ability
 name: Primordial Vortex
 target: Each enemy in the area

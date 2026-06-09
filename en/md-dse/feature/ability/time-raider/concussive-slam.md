@@ -19,8 +19,8 @@ source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
 tier1: 2 + R, I, or P damage;
-tier2: 5 + R, I, or P damage; push 1
-tier3: 7 + R, I, or P damage; push 2; M < STRONG, [prone](scc:mcdm.heroes.v1/condition/prone)
+tier2: 5 + R, I, or P damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier3: 7 + R, I, or P damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2; M < STRONG, [prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -29,8 +29,8 @@ distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
       tier1: 2 + R, I, or P damage;
-      tier2: 5 + R, I, or P damage; push 1
-      tier3: 7 + R, I, or P damage; push 2; M < STRONG, [prone](scc:mcdm.heroes.v1/condition/prone)
+      tier2: 5 + R, I, or P damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier3: 7 + R, I, or P damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2; M < STRONG, [prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: You slam an invisible force down upon the target.
 keywords:
@@ -52,8 +52,8 @@ metadata:
     subtype: signature
     target: One creature or object
     tier1: 2 + R, I, or P damage;
-    tier2: 5 + R, I, or P damage; push 1
-    tier3: 7 + R, I, or P damage; push 2; M < STRONG, [prone](scc:mcdm.heroes.v1/condition/prone)
+    tier2: 5 + R, I, or P damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier3: 7 + R, I, or P damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2; M < STRONG, [prone](scc:mcdm.heroes.v1/condition/prone)
     type: ability
 name: Concussive Slam
 target: One creature or object

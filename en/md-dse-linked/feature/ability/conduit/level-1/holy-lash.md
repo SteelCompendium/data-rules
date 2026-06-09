@@ -19,9 +19,9 @@ scc: mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 3 + I holy damage; vertical pull 2
-tier2: 5 + I holy damage; vertical pull 3
-tier3: 8 + I holy damage; vertical pull 4
+tier1: 3 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 2
+tier2: 5 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 3
+tier3: 8 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 4
 type: ability
 ---
 
@@ -29,9 +29,9 @@ type: ability
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
-      tier1: 3 + I holy damage; vertical pull 2
-      tier2: 5 + I holy damage; vertical pull 3
-      tier3: 8 + I holy damage; vertical pull 4
+      tier1: 3 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 2
+      tier2: 5 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 3
+      tier3: 8 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 4
 feature_type: ability
 flavor: A tendril of divine energy shoots forth to draw in your foe.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash
     subtype: signature
     target: One creature or object
-    tier1: 3 + I holy damage; vertical pull 2
-    tier2: 5 + I holy damage; vertical pull 3
-    tier3: 8 + I holy damage; vertical pull 4
+    tier1: 3 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 2
+    tier2: 5 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 3
+    tier3: 8 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 4
     type: ability
 name: Holy Lash
 target: One creature or object

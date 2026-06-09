@@ -25,9 +25,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 4 damage; push 1
-- **12-16:** 7 damage; push 2
-- **17+:** 11 damage; push 3
+- **≤11:** 4 damage; [push](../../../movement/forced-movement.md) 1
+- **12-16:** 7 damage; [push](../../../movement/forced-movement.md) 2
+- **17+:** 11 damage; [push](../../../movement/forced-movement.md) 3
 
 ### Force of Storms {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/force-of-storms"}
 
@@ -40,11 +40,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 7 + M damage; push 3
-- **12-16:** 11 + M damage; push 5
-- **17+:** 16 + M damage; push 7
+- **≤11:** 7 + M damage; [push](../../../movement/forced-movement.md) 3
+- **12-16:** 11 + M damage; [push](../../../movement/forced-movement.md) 5
+- **17+:** 16 + M damage; [push](../../../movement/forced-movement.md) 7
 
-**Effect:** When the target ends this [forced movement](../../../movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
+**Effect:** When the target ends this [forced movement](../../../movement/forced-movement.md), each creature within 2 squares of the target is [pushed](../../../movement/forced-movement.md) 3 squares.
 
 ## 6th-Level Reaver Abilities
 

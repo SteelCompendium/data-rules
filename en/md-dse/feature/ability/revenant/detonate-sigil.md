@@ -19,9 +19,9 @@ scc: mcdm.heroes.v1/feature.ability.revenant/detonate-sigil
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature bearing your sigil
-tier1: 3 + R, I, or P damage; slide 1
-tier2: 5 + R, I, or P damage; slide 2
-tier3: 7 + R, I, or P damage; slide 3
+tier1: 3 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier2: 5 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+tier3: 7 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
 type: ability
 ---
 
@@ -30,9 +30,9 @@ distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The sigil disappears from the creature.
     - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
-      tier1: 3 + R, I, or P damage; slide 1
-      tier2: 5 + R, I, or P damage; slide 2
-      tier3: 7 + R, I, or P damage; slide 3
+      tier1: 3 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier2: 5 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+      tier3: 7 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
 feature_type: ability
 flavor: A magic sigil you placed on a creature explodes with energy.
 keywords:
@@ -54,9 +54,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.revenant/detonate-sigil
     subtype: signature
     target: One creature bearing your sigil
-    tier1: 3 + R, I, or P damage; slide 1
-    tier2: 5 + R, I, or P damage; slide 2
-    tier3: 7 + R, I, or P damage; slide 3
+    tier1: 3 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier2: 5 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    tier3: 7 + R, I, or P damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
     type: ability
 name: Detonate Sigil
 target: One creature bearing your sigil

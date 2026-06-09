@@ -14,9 +14,9 @@ power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire
 subtype: signature
 target: One creature or object
-tier1: 2 + R fire damage; push 2
-tier2: 5 + R fire damage; push 3
-tier3: 7 + R fire damage; push 4
+tier1: 2 + R fire damage; [push](../../../../movement/forced-movement.md) 2
+tier2: 5 + R fire damage; [push](../../../../movement/forced-movement.md) 3
+tier3: 7 + R fire damage; [push](../../../../movement/forced-movement.md) 4
 type: ability
 ---
 
@@ -29,6 +29,6 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
-- **≤11:** 2 + R fire damage; push 2
-- **12-16:** 5 + R fire damage; push 3
-- **17+:** 7 + R fire damage; push 4
+- **≤11:** 2 + R fire damage; [push](../../../../movement/forced-movement.md) 2
+- **12-16:** 5 + R fire damage; [push](../../../../movement/forced-movement.md) 3
+- **17+:** 7 + R fire damage; [push](../../../../movement/forced-movement.md) 4

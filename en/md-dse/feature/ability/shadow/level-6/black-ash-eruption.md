@@ -23,9 +23,9 @@ power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption
 source: mcdm.heroes.v1
 target: One creature
-tier1: 3 + A damage; vertical push 5
-tier2: 6 + A damage; vertical push 10
-tier3: 9 + A damage; vertical push 15
+tier1: 3 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 5
+tier2: 6 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 10
+tier3: 9 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 15
 type: ability
 ---
 
@@ -35,9 +35,9 @@ distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward.
     - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
-      tier1: 3 + A damage; vertical push 5
-      tier2: 6 + A damage; vertical push 10
-      tier3: 9 + A damage; vertical push 15
+      tier1: 3 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 5
+      tier2: 6 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 10
+      tier3: 9 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 15
 feature_type: ability
 flavor: Your attack produces a cloud of black ash that launches an enemy into the air.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption
     target: One creature
-    tier1: 3 + A damage; vertical push 5
-    tier2: 6 + A damage; vertical push 10
-    tier3: 9 + A damage; vertical push 15
+    tier1: 3 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 5
+    tier2: 6 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 10
+    tier3: 9 + A damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 15
     type: ability
 name: Black Ash Eruption
 target: One creature

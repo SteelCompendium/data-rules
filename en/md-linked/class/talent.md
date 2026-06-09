@@ -3,7 +3,7 @@ flavor: Arare few people are born with the potential to harness psionic power, b
 name: Talent
 scc: mcdm.heroes.v1/class/talent
 skills:
-    - 'You gain the Psionics and [Read Person](../skill/read-person.md) skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/read-person.md), Timescape.)'
+    - 'You gain the Psionics and [Read Person](../skill/interpersonal/read-person.md) skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)'
 type: class
 ---
 
@@ -35,7 +35,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Psionics and [Read Person](../skill/read-person.md) skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/read-person.md), Timescape.)
+**Skills:** You gain the Psionics and [Read Person](../skill/interpersonal/read-person.md) skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)
 
 ##### Talent Advancement Table
 
@@ -152,7 +152,7 @@ Your ward slows time for your enemies. Whenever a creature deals damage to you, 
 
 #### Repulsive Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/repulsive-ward"}
 
-You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to push them up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
+You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to [push](../movement/forced-movement.md) them up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 #### Steel Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/steel-ward"}
 
@@ -242,11 +242,11 @@ You have the following ability.
 |---------------------|---------------------------------------------:|
 | **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../rule/character/size.md) 1 creature or object** |
 
-**Effect:** You slide the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
+**Effect:** You [slide](../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 
-**Spend 3 Clarity:** You can vertical slide the target.
+**Spend 3 Clarity:** You can vertical [slide](../movement/forced-movement.md) the target.
 
 #### Remote Assistance {data-scc="mcdm.heroes.v1/feature.talent.level-1/remote-assistance"}
 
@@ -281,7 +281,7 @@ You have the following ability.
 
 **Trigger:** The target takes damage or is [force moved](../movement/forced-movement.md).
 
-**Effect:** The target takes half the triggering damage, or the [distance](../rule/combat/distance.md) of the triggering [forced movement](../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../movement/forced-movement.md) a number of squares equal to your [Reason](../rule/character/reason.md) score.
+**Effect:** The target takes half the triggering damage, or the [distance](../rule/combat/distance.md) of the triggering [forced movement](../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../movement/forced-movement.md) is reduced to 0 squares, the target can [push](../movement/forced-movement.md) the source of the [forced movement](../movement/forced-movement.md) a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 ### Talent Abilities {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-abilities"}
 
@@ -357,11 +357,11 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
-- **≤11:** Slide 2 + R
-- **12-16:** Slide 4 + R
-- **17+:** Slide 6 + R; [prone](../condition/prone.md)
+- **≤11:** [Slide](../movement/forced-movement.md) 2 + R
+- **12-16:** [Slide](../movement/forced-movement.md) 4 + R
+- **17+:** [Slide](../movement/forced-movement.md) 6 + R; [prone](../condition/prone.md)
 
-**Strained:** You must vertical push the target instead of sliding them.
+**Strained:** You must vertical [push](../movement/forced-movement.md) the target instead of [sliding](../movement/forced-movement.md) them.
 
 ##### Kinetic Pulse {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse"}
 
@@ -375,8 +375,8 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 psychic damage
-- **12-16:** 5 psychic damage; push 1
-- **17+:** 7 psychic damage; push 2
+- **12-16:** 5 psychic damage; [push](../movement/forced-movement.md) 1
+- **17+:** 7 psychic damage; [push](../movement/forced-movement.md) 2
 
 **Strained:** The size of the [burst](../rule/combat/burst.md) increases by 2, and you are [bleeding](../condition/bleeding.md) until the start of your next [turn](../rule/combat/turn.md).
 
@@ -477,7 +477,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
 - **17+:** 8 + R damage; M < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../condition/restrained.md) by this ability, this [forced movement](../movement/forced-movement.md) ignores their [stability](../rule/character/stability.md).
+**Effect:** You can vertical [pull](../movement/forced-movement.md) the target up to 2 squares. If the target is made [restrained](../condition/restrained.md) by this ability, this [forced movement](../movement/forced-movement.md) ignores their [stability](../rule/character/stability.md).
 
 ##### Precognition {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/precognition"}
 
@@ -533,7 +533,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |----------------------------------|------------------------:|
 | **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target ignores [difficult terrain](../movement/difficult-terrain.md) and takes no damage from [forced movement](../movement/forced-movement.md) until the start of your next [turn](../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../rule/character/stability.md). A creature can only be force moved this way once a [turn](../rule/combat/turn.md).
+**Effect:** The target ignores [difficult terrain](../movement/difficult-terrain.md) and takes no damage from [forced movement](../movement/forced-movement.md) until the start of your next [turn](../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../movement/forced-movement.md) one [adjacent](../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../rule/character/reason.md) score. When [pushing](../movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../rule/character/stability.md). A creature can only be force moved this way once a [turn](../rule/combat/turn.md).
 
 **Strained:** You are [weakened](../condition/weakened.md) (save ends). While you are [weakened](../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md).
 
@@ -656,9 +656,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
-- **≤11:** 3 damage; vertical push 2
-- **12-16:** 6 damage; vertical push 4
-- **17+:** 9 damage; vertical push 6
+- **≤11:** 3 damage; vertical [push](../movement/forced-movement.md) 2
+- **12-16:** 6 damage; vertical [push](../movement/forced-movement.md) 4
+- **17+:** 9 damage; vertical [push](../movement/forced-movement.md) 6
 
 **Strained:** The size of the [burst](../rule/combat/burst.md) increases by 1, and you are [weakened](../condition/weakened.md) until the end of your [turn](../rule/combat/turn.md).
 
@@ -855,7 +855,7 @@ Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants yo
 
 #### Compulsion {data-scc="mcdm.heroes.v1/feature.talent.level-5/compulsion"}
 
-Whenever you obtain a success on a [test](../rule/test/test.md) using a skill from the interpersonal skill group while interacting with an [NPC](../rule/general/npc.md), you can ask them a question using your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature. The [NPC](../rule/general/npc.md) must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a [test](../rule/test/test.md) using a skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) while interacting with an [NPC](../rule/general/npc.md), you can ask them a question using your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature. The [NPC](../rule/general/npc.md) must answer the question truthfully to the best of their ability.
 
 #### Distortion Temporal {data-scc="mcdm.heroes.v1/feature.talent.level-5/distortion-temporal"}
 
@@ -1054,11 +1054,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
-- **≤11:** 6 damage; vertical pull 5 toward the center of the area
-- **12-16:** 9 damage; vertical pull 7 toward the center of the area
-- **17+:** 13 damage; vertical pull 10 toward the center of the area
+- **≤11:** 6 damage; vertical [pull](../movement/forced-movement.md) 5 toward the center of the area
+- **12-16:** 9 damage; vertical [pull](../movement/forced-movement.md) 7 toward the center of the area
+- **17+:** 13 damage; vertical [pull](../movement/forced-movement.md) 10 toward the center of the area
 
-**Effect:** Targets closest to the center of the area are pulled first.
+**Effect:** Targets closest to the center of the area are [pulled](../movement/forced-movement.md) first.
 
 **Strained:** The size of the area increases by 2. You also target yourself and each ally within [distance](../rule/combat/distance.md).
 
@@ -1073,9 +1073,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
-- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../movement/forced-movement.md) is vertical
-- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../movement/forced-movement.md) is vertical
-- **17+:** Slide 12 + R; [prone](../condition/prone.md); M < STRONG, the [forced movement](../movement/forced-movement.md) is vertical
+- **≤11:** [Slide](../movement/forced-movement.md) 4 + R; M < WEAK, the [forced movement](../movement/forced-movement.md) is vertical
+- **12-16:** [Slide](../movement/forced-movement.md) 8 + R; M < AVERAGE, the [forced movement](../movement/forced-movement.md) is vertical
+- **17+:** [Slide](../movement/forced-movement.md) 12 + R; [prone](../condition/prone.md); M < STRONG, the [forced movement](../movement/forced-movement.md) is vertical
 
 **Strained:** The [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md). You take 2d6 damage and are [weakened](../condition/weakened.md) (save ends).
 
@@ -1125,7 +1125,7 @@ As a 7th-level [talent](talent.md), you gain the following features.
 
 ### Ancestral Memory {data-scc="mcdm.heroes.v1/feature.talent.level-7/ancestral-memory"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../rule/character/reason.md) score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next [respite](../rule/resource/respite.md).
+Each time you finish a [respite](../rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../rule/character/reason.md) score and replace them with an equal number of skills from the [interpersonal](../skill/interpersonal/interpersonal.md) and [lore](../skill/lore/lore.md) skill groups. These replacements last until the end of your next [respite](../rule/resource/respite.md).
 
 ### Cascading Strain {data-scc="mcdm.heroes.v1/feature.talent.level-7/cascading-strain"}
 
@@ -1352,7 +1352,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------------------:|
 | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 
-**Effect:** Make a [power roll](../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../rule/character/size.md) 1L or smaller.
+**Effect:** Make a [power roll](../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical [pushed](../movement/forced-movement.md) 6 squares. You can target only objects of [size](../rule/character/size.md) 1L or smaller.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1373,9 +1373,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
-- **≤11:** 6 damage; push 7
-- **12-16:** 9 damage; push 10
-- **17+:** 13 damage; push 15
+- **≤11:** 6 damage; [push](../movement/forced-movement.md) 7
+- **12-16:** 9 damage; [push](../movement/forced-movement.md) 10
+- **17+:** 13 damage; [push](../movement/forced-movement.md) 15
 
 **Effect:** On a [critical hit](../rule/combat/critical-hit.md), the size of the area increases by 3, and this ability deals an extra 10 damage.
 

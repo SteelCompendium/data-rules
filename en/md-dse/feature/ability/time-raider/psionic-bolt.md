@@ -18,9 +18,9 @@ scc: mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 2 + R, I, or P psychic damage; slide 1
-tier2: 5 + R, I, or P psychic damage; slide 2
-tier3: 7 + R, I, or P psychic damage; slide 3
+tier1: 2 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier2: 5 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+tier3: 7 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
 type: ability
 ---
 
@@ -28,9 +28,9 @@ type: ability
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
-      tier1: 2 + R, I, or P psychic damage; slide 1
-      tier2: 5 + R, I, or P psychic damage; slide 2
-      tier3: 7 + R, I, or P psychic damage; slide 3
+      tier1: 2 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier2: 5 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+      tier3: 7 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
 feature_type: ability
 flavor: You shoot forth a purple beam of psychic force that moves your target.
 keywords:
@@ -51,9 +51,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt
     subtype: signature
     target: One creature or object
-    tier1: 2 + R, I, or P psychic damage; slide 1
-    tier2: 5 + R, I, or P psychic damage; slide 2
-    tier3: 7 + R, I, or P psychic damage; slide 3
+    tier1: 2 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier2: 5 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    tier3: 7 + R, I, or P psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
     type: ability
 name: Psionic Bolt
 target: One creature or object

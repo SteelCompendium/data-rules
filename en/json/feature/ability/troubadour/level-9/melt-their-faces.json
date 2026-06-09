@@ -4,9 +4,9 @@
   "effects": [
     {
       "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
-      "tier1": "12 + P sonic damage; push 5",
-      "tier2": "16 + P sonic damage; push 10",
-      "tier3": "22 + P sonic damage; push 15"
+      "tier1": "12 + P sonic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 5",
+      "tier2": "16 + P sonic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 10",
+      "tier3": "22 + P sonic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 15"
     },
     {
       "effect": "[Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).",
@@ -24,7 +24,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*The power of music rips through the reality around the target and blows them away.*\n\n| **Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**      | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 12 + P sonic damage; push 5\n- **12-16:** 16 + P sonic damage; push 10\n- **17+:** 22 + P sonic damage; push 15\n\n**Effect:** [Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).",
+    "content": "\n*The power of music rips through the reality around the target and blows them away.*\n\n| **Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**      | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 12 + P sonic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 5\n- **12-16:** 16 + P sonic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 10\n- **17+:** 22 + P sonic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 15\n\n**Effect:** [Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).",
     "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "The power of music rips through the reality around the target and blows them away.",

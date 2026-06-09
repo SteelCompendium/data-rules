@@ -42,7 +42,7 @@ You have the following ability.
 |-----------------|--------------------------------------:|
 | **📏 3 [aura](../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each creature in the area has a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to [hide](../../../skill/hide.md) or [sneak](../../../skill/sneak.md). The [aura](../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+**Effect:** Each creature in the area has a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to [hide](../../../skill/intrigue/hide.md) or [sneak](../../../skill/intrigue/sneak.md). The [aura](../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ## Impervious Touch {data-scc="mcdm.heroes.v1/feature.censor.level-4/impervious-touch"}
 

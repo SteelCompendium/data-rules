@@ -2,9 +2,9 @@ cost: 9 Focus
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
-      tier1: 6 + M damage; slide 1
-      tier2: 9 + M damage; slide 3
-      tier3: 13 + M damage; slide 5
+      tier1: 6 + M damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier2: 9 + M damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
+      tier3: 13 + M damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5
     - effect: If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against that creature.
       name: Effect
 feature_type: ability
@@ -17,7 +17,7 @@ keywords:
 metadata:
     action_type: Main action
     class: tactician
-    content: "\n*You confuse your foes, causing them to turn on each other.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |      **Main action** |\n|-----------------------------------|---------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**        | **\U0001F3AF Two creatures** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 6 + M damage; slide 1\n- **12-16:** 9 + M damage; slide 3\n- **17+:** 13 + M damage; slide 5\n\n**Effect:** If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against that creature."
+    content: "\n*You confuse your foes, causing them to turn on each other.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |      **Main action** |\n|-----------------------------------|---------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**        | **\U0001F3AF Two creatures** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 6 + M damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 1\n- **12-16:** 9 + M damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3\n- **17+:** 13 + M damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5\n\n**Effect:** If a target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, they must make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against that creature."
     distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
     feature_type: ability
     flavor: You confuse your foes, causing them to turn on each other.

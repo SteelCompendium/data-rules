@@ -23,9 +23,9 @@ Choose one [signature ability](../../../rule/combat/signature-ability.md) from t
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 2
-- **17+:** 9 + M damage; push 4
+- **≤11:** 3 + M damage; [push](../../../movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../../../movement/forced-movement.md) 2
+- **17+:** 9 + M damage; [push](../../../movement/forced-movement.md) 4
 
 ### Hit and Run {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run"}
 
@@ -96,8 +96,8 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
 - **≤11:** 5 damage
-- **12-16:** 8 damage; push 1
-- **17+:** 11 damage; push 3
+- **12-16:** 8 damage; [push](../../../movement/forced-movement.md) 1
+- **17+:** 11 damage; [push](../../../movement/forced-movement.md) 3
 
 ### Out of the Way! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/out-of-the-way"}
 
@@ -110,11 +110,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 3 + M damage; slide 2
-- **12-16:** 5 + M damage; slide 3
-- **17+:** 8 + M damage; slide 5
+- **≤11:** 3 + M damage; [slide](../../../movement/forced-movement.md) 2
+- **12-16:** 5 + M damage; [slide](../../../movement/forced-movement.md) 3
+- **17+:** 8 + M damage; [slide](../../../movement/forced-movement.md) 5
 
-**Effect:** When you slide the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
+**Effect:** When you [slide](../../../movement/forced-movement.md) the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
 
 ### Tide of Death {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/tide-of-death"}
 
@@ -195,11 +195,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 6 damage; push 2
-- **12-16:** 9 damage; push 4
-- **17+:** 13 damage; push 6
+- **≤11:** 6 damage; [push](../../../movement/forced-movement.md) 2
+- **12-16:** 9 damage; [push](../../../movement/forced-movement.md) 4
+- **17+:** 13 damage; [push](../../../movement/forced-movement.md) 6
 
-**Effect:** The targets are [force moved](../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../../../movement/forced-movement.md) into other targets in the same line.
 
 ### To the Uttermost End {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/to-the-uttermost-end"}
 

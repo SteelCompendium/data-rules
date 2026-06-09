@@ -23,9 +23,9 @@ power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-comes-for-you-all
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 7 damage; push 3
-tier2: 10 damage; push 5
-tier3: 15 damage; push 7
+tier1: 7 damage; [push](../../../../movement/forced-movement.md) 3
+tier2: 10 damage; [push](../../../../movement/forced-movement.md) 5
+tier3: 15 damage; [push](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -35,9 +35,9 @@ distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
     - roll: Power Roll + [Might](../../../../rule/character/might.md)
-      tier1: 7 damage; push 3
-      tier2: 10 damage; push 5
-      tier3: 15 damage; push 7
+      tier1: 7 damage; [push](../../../../movement/forced-movement.md) 3
+      tier2: 10 damage; [push](../../../../movement/forced-movement.md) 5
+      tier3: 15 damage; [push](../../../../movement/forced-movement.md) 7
 feature_type: ability
 flavor: You use your weapon to create a destructive shockwave.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-comes-for-you-all
     target: Each enemy in the area
-    tier1: 7 damage; push 3
-    tier2: 10 damage; push 5
-    tier3: 15 damage; push 7
+    tier1: 7 damage; [push](../../../../movement/forced-movement.md) 3
+    tier2: 10 damage; [push](../../../../movement/forced-movement.md) 5
+    tier3: 15 damage; [push](../../../../movement/forced-movement.md) 7
     type: ability
 name: Death Comes for You All!
 target: Each enemy in the area

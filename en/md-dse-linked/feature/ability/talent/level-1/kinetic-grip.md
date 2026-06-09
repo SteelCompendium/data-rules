@@ -19,9 +19,9 @@ scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: Slide 2 + R
-tier2: Slide 4 + R
-tier3: Slide 6 + R; [prone](../../../../condition/prone.md)
+tier1: '[Slide](../../../../movement/forced-movement.md) 2 + R'
+tier2: '[Slide](../../../../movement/forced-movement.md) 4 + R'
+tier3: '[Slide](../../../../movement/forced-movement.md) 6 + R; [prone](../../../../condition/prone.md)'
 type: ability
 ---
 
@@ -29,9 +29,9 @@ type: ability
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
-      tier1: Slide 2 + R
-      tier2: Slide 4 + R
-      tier3: Slide 6 + R; [prone](../../../../condition/prone.md)
+      tier1: '[Slide](../../../../movement/forced-movement.md) 2 + R'
+      tier2: '[Slide](../../../../movement/forced-movement.md) 4 + R'
+      tier3: '[Slide](../../../../movement/forced-movement.md) 6 + R; [prone](../../../../condition/prone.md)'
 feature_type: ability
 flavor: You lift and hurl your foe away from you.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip
     subtype: signature
     target: One creature or object
-    tier1: Slide 2 + R
-    tier2: Slide 4 + R
-    tier3: Slide 6 + R; [prone](../../../../condition/prone.md)
+    tier1: '[Slide](../../../../movement/forced-movement.md) 2 + R'
+    tier2: '[Slide](../../../../movement/forced-movement.md) 4 + R'
+    tier3: '[Slide](../../../../movement/forced-movement.md) 6 + R; [prone](../../../../condition/prone.md)'
     type: ability
 name: Kinetic Grip
 target: One creature or object

@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill/hide) or [sneak](scc:mcdm.heroes.v1/skill/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 feature_type: ability
 file_basename: blessing-of-secrets
 file_dpath: feature/ability/censor/level-4
@@ -23,7 +23,7 @@ type: ability
 ```ds-feature
 distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill/hide) or [sneak](scc:mcdm.heroes.v1/skill/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+    - effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 feature_type: ability
 flavor: You project an illusory [aura](scc:mcdm.heroes.v1/rule.combat/aura) that makes you and allies harder to notice.
 keywords:
@@ -33,7 +33,7 @@ metadata:
     action_type: Maneuver
     class: censor
     distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill/hide) or [sneak](scc:mcdm.heroes.v1/skill/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+    effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
     flavor: You project an illusory [aura](scc:mcdm.heroes.v1/rule.combat/aura) that makes you and allies harder to notice.
     keywords:
         - Area

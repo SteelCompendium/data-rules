@@ -26,16 +26,16 @@ You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../chapt
 
 ## Primordial Cunning {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-cunning"}
 
-You are never [surprised](../../../rule/combat/surprised.md). Additionally, whenever you would push a target with [forced movement](../../../movement/forced-movement.md), you can slide them instead.
+You are never [surprised](../../../rule/combat/surprised.md). Additionally, whenever you would [push](../../../movement/forced-movement.md) a target with [forced movement](../../../movement/forced-movement.md), you can [slide](../../../movement/forced-movement.md) them instead.
 
 As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ## Primordial Strength {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-strength"}
 
-Whenever you damage an object with a weapon [strike](../../../rule/combat/strike.md), the [strike](../../../rule/combat/strike.md) deals extra damage equal to your [Might](../../../rule/character/might.md) score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your [Might](../../../rule/character/might.md) score.
+Whenever you damage an object with a weapon [strike](../../../rule/combat/strike.md), the [strike](../../../rule/combat/strike.md) deals extra damage equal to your [Might](../../../rule/character/might.md) score. Additionally, whenever you [push](../../../movement/forced-movement.md) another creature into an object, the creature takes extra damage equal to your [Might](../../../rule/character/might.md) score.
 
 As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ## Relentless Hunter {data-scc="mcdm.heroes.v1/feature.fury.level-1/relentless-hunter"}
 
-You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Track](../../../skill/track.md) skill.
+You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Track](../../../skill/intrigue/track.md) skill.

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Track](../../../skill/track.md) skill.
+    - effect: You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Track](../../../skill/intrigue/track.md) skill.
 feature_type: feature
 metadata:
     class: fury

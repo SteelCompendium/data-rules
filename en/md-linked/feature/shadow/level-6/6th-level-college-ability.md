@@ -23,9 +23,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 3 + A damage; vertical push 5
-- **12-16:** 6 + A damage; vertical push 10
-- **17+:** 9 + A damage; vertical push 15
+- **≤11:** 3 + A damage; vertical [push](../../../movement/forced-movement.md) 5
+- **12-16:** 6 + A damage; vertical [push](../../../movement/forced-movement.md) 10
+- **17+:** 9 + A damage; vertical [push](../../../movement/forced-movement.md) 15
 
 **Effect:** A creature [force moved](../../../movement/forced-movement.md) by this ability must be moved straight upward.
 

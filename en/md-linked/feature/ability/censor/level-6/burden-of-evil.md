@@ -13,9 +13,9 @@ name: Burden of Evil
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
 target: Three enemies
-tier1: Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+tier1: '[Slide](../../../../movement/forced-movement.md) 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+tier2: '[Slide](../../../../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+tier3: '[Slide](../../../../movement/forced-movement.md) 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
 type: ability
 ---
 
@@ -28,6 +28,6 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**
 
-- **≤11:** Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-- **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-- **17+:** Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+- **≤11:** [Slide](../../../../movement/forced-movement.md) 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+- **12-16:** [Slide](../../../../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+- **17+:** [Slide](../../../../movement/forced-movement.md) 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)

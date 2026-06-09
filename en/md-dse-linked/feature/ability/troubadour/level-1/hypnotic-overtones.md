@@ -21,9 +21,9 @@ scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones
 source: mcdm.heroes.v1
 spend: '2+ Drama: The size of the [burst](../../../../rule/combat/burst.md) increases by 1 for every 2 drama spent.'
 target: Each enemy in the area
-tier1: Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+tier1: '[Slide](../../../../movement/forced-movement.md) 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+tier2: '[Slide](../../../../movement/forced-movement.md) 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+tier3: '[Slide](../../../../movement/forced-movement.md) 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 3 Drama
 distance: 2 [burst](../../../../rule/combat/burst.md)
 effects:
     - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
-      tier1: Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-      tier2: Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-      tier3: Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+      tier1: '[Slide](../../../../movement/forced-movement.md) 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+      tier2: '[Slide](../../../../movement/forced-movement.md) 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+      tier3: '[Slide](../../../../movement/forced-movement.md) 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
     - effect: '2+ Drama: The size of the [burst](../../../../rule/combat/burst.md) increases by 1 for every 2 drama spent.'
       name: Spend
 feature_type: ability
@@ -57,9 +57,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones
     spend: '2+ Drama: The size of the [burst](../../../../rule/combat/burst.md) increases by 1 for every 2 drama spent.'
     target: Each enemy in the area
-    tier1: Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-    tier2: Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-    tier3: Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+    tier1: '[Slide](../../../../movement/forced-movement.md) 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+    tier2: '[Slide](../../../../movement/forced-movement.md) 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+    tier3: '[Slide](../../../../movement/forced-movement.md) 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
     type: ability
 name: Hypnotic Overtones
 target: Each enemy in the area

@@ -36,9 +36,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 6 + M damage; slide 1
-- **12-16:** 9 + M damage; slide 3
-- **17+:** 13 + M damage; slide 5
+- **≤11:** 6 + M damage; [slide](../../../movement/forced-movement.md) 1
+- **12-16:** 9 + M damage; [slide](../../../movement/forced-movement.md) 3
+- **17+:** 13 + M damage; [slide](../../../movement/forced-movement.md) 5
 
 **Effect:** If a target is [force moved](../../../movement/forced-movement.md) into another creature, they must make a [free strike](../../common/main-actions/free-strike.md) against that creature.
 

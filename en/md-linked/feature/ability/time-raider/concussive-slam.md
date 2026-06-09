@@ -13,8 +13,8 @@ scc: mcdm.heroes.v1/feature.ability.time-raider/concussive-slam
 subtype: signature
 target: One creature or object
 tier1: 2 + R, I, or P damage;
-tier2: 5 + R, I, or P damage; push 1
-tier3: 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
+tier2: 5 + R, I, or P damage; [push](../../../movement/forced-movement.md) 1
+tier3: 7 + R, I, or P damage; [push](../../../movement/forced-movement.md) 2; M < STRONG, [prone](../../../condition/prone.md)
 type: ability
 ---
 
@@ -27,5 +27,5 @@ type: ability
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
-- **12-16:** 5 + R, I, or P damage; push 1
-- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
+- **12-16:** 5 + R, I, or P damage; [push](../../../movement/forced-movement.md) 1
+- **17+:** 7 + R, I, or P damage; [push](../../../movement/forced-movement.md) 2; M < STRONG, [prone](../../../condition/prone.md)

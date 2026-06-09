@@ -25,8 +25,8 @@ scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/star-solo
 source: mcdm.heroes.v1
 target: One creature or object
 tier1: 5 + P damage
-tier2: 8 + P damage; push 3
-tier3: 11 + P damage; push 5
+tier2: 8 + P damage; [push](../../../../movement/forced-movement.md) 3
+tier3: 11 + P damage; [push](../../../../movement/forced-movement.md) 5
 type: ability
 ---
 
@@ -37,8 +37,8 @@ effects:
     - effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../../../rule/combat/combat-round.md) without spending drama.
     - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
       tier1: 5 + P damage
-      tier2: 8 + P damage; push 3
-      tier3: 11 + P damage; push 5
+      tier2: 8 + P damage; [push](../../../../movement/forced-movement.md) 3
+      tier3: 11 + P damage; [push](../../../../movement/forced-movement.md) 5
 feature_type: ability
 flavor: Your performance travels and doesn't stop moving until your audience is completely rocked.
 keywords:
@@ -66,8 +66,8 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/star-solo
     target: One creature or object
     tier1: 5 + P damage
-    tier2: 8 + P damage; push 3
-    tier3: 11 + P damage; push 5
+    tier2: 8 + P damage; [push](../../../../movement/forced-movement.md) 3
+    tier3: 11 + P damage; [push](../../../../movement/forced-movement.md) 5
     type: ability
 name: Star Solo
 target: One creature or object

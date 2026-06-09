@@ -23,9 +23,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** 4 psychic damage; slide 3
-- **12-16:** 6 psychic damage; slide 5
-- **17+:** 8 psychic damage; slide 7
+- **≤11:** 4 psychic damage; [slide](../../../movement/forced-movement.md) 3
+- **12-16:** 6 psychic damage; [slide](../../../movement/forced-movement.md) 5
+- **17+:** 8 psychic damage; [slide](../../../movement/forced-movement.md) 7
 
 ### Pain of Your Own Making {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making"}
 
@@ -55,9 +55,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** Slide 3; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
-- **12-16:** Slide 5; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
-- **17+:** Slide 7; I < STRONG, [dazed](../../../condition/dazed.md) (save ends)
+- **≤11:** [Slide](../../../movement/forced-movement.md) 3; I < WEAK, [dazed](../../../condition/dazed.md) (save ends)
+- **12-16:** [Slide](../../../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
+- **17+:** [Slide](../../../movement/forced-movement.md) 7; I < STRONG, [dazed](../../../condition/dazed.md) (save ends)
 
 ### Edict of Peace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace"}
 

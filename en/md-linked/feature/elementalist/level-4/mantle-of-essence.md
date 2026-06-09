@@ -27,7 +27,7 @@ At the end of each of your [turns](../../../rule/combat/turn.md), each ally in t
 
 ## Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
-At the end of each of your [turns](../../../rule/combat/turn.md), you can push each enemy in the area up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
+At the end of each of your [turns](../../../rule/combat/turn.md), you can [push](../../../movement/forced-movement.md) each enemy in the area up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score.
 
 ## Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 

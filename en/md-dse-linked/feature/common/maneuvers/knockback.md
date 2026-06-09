@@ -13,7 +13,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: A creature wanting to push an [adjacent](../../../rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
+    - effect: A creature wanting to [push](../../../movement/forced-movement.md) an [adjacent](../../../rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
 feature_type: feature
 metadata:
     name: Knockback

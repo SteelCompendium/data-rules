@@ -2,7 +2,7 @@
 action_type: Main action
 class: censor
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
 flavor: Your magic [strike](../../../../rule/combat/strike.md) [turns](../../../../rule/combat/turn.md) your foe's guilt into a burst of holy power.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
@@ -33,4 +33,4 @@ type: ability
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+**Effect:** Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.

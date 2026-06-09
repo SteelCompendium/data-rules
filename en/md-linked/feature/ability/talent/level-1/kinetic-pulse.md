@@ -14,8 +14,8 @@ scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse
 subtype: signature
 target: Each enemy in the area
 tier1: 2 psychic damage
-tier2: 5 psychic damage; push 1
-tier3: 7 psychic damage; push 2
+tier2: 5 psychic damage; [push](../../../../movement/forced-movement.md) 1
+tier3: 7 psychic damage; [push](../../../../movement/forced-movement.md) 2
 type: ability
 ---
 
@@ -29,7 +29,7 @@ type: ability
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
 - **≤11:** 2 psychic damage
-- **12-16:** 5 psychic damage; push 1
-- **17+:** 7 psychic damage; push 2
+- **12-16:** 5 psychic damage; [push](../../../../movement/forced-movement.md) 1
+- **17+:** 7 psychic damage; [push](../../../../movement/forced-movement.md) 2
 
 **Strained:** The size of the [burst](../../../../rule/combat/burst.md) increases by 2, and you are [bleeding](../../../../condition/bleeding.md) until the start of your next [turn](../../../../rule/combat/turn.md).

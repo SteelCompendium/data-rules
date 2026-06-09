@@ -2,7 +2,7 @@
 action_type: Main action
 class: censor
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
 feature_type: ability
 file_basename: your-allies-cannot-save-you
 file_dpath: feature/ability/censor/level-1
@@ -29,7 +29,7 @@ type: ability
 ```ds-feature
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+    - effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
     - roll: Power Roll + [Might](../../../../rule/character/might.md)
       tier1: 3 + M holy damage
       tier2: 5 + M holy damage
@@ -44,7 +44,7 @@ metadata:
     action_type: Main action
     class: censor
     distance: '[Melee](../../../../rule/combat/melee.md) 1'
-    effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+    effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
     flavor: Your magic [strike](../../../../rule/combat/strike.md) [turns](../../../../rule/combat/turn.md) your foe's guilt into a burst of holy power.
     keywords:
         - '[Melee](../../../../rule/combat/melee.md)'

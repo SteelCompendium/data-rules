@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You slide one creature within 10 squares of the target up to 2 squares.
+effect: You [slide](../../../../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
 feature_type: ability
 file_basename: the-green-within-the-green-without
 file_dpath: feature/ability/elementalist/level-1
@@ -30,7 +30,7 @@ type: ability
 ```ds-feature
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: You slide one creature within 10 squares of the target up to 2 squares.
+    - effect: You [slide](../../../../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
     - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 2 + R damage
       tier2: 5 + R damage
@@ -46,7 +46,7 @@ metadata:
     action_type: Main action
     class: elementalist
     distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-    effect: You slide one creature within 10 squares of the target up to 2 squares.
+    effect: You [slide](../../../../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
     flavor: Whipping vines erupt from a foe's body to grasp at another close by.
     keywords:
         - Green

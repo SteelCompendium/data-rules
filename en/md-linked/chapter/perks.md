@@ -33,11 +33,11 @@ This section presents crafting perks in alphabetical order.
 
 #### Area of Expertise {data-scc="mcdm.heroes.v1/perk/area-of-expertise"}
 
-Choose one skill you already have from the crafting skill group. Whenever you obtain a tier 1 outcome on an easy or medium [test](../rule/test/test.md) using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an object related to the chosen skill, you can estimate its value and learn of any flaws in its construction.
+Choose one skill you already have from the [crafting skill group](../skill/crafting/crafting.md). Whenever you obtain a tier 1 outcome on an easy or medium [test](../rule/test/test.md) using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an object related to the chosen skill, you can estimate its value and learn of any flaws in its construction.
 
 #### Expert Artisan {data-scc="mcdm.heroes.v1/perk/expert-artisan"}
 
-Whenever you make a [test](../rule/test/test.md) as part of a crafting or [research project](../rule/downtime/research-project.md) that uses a skill you already have from the crafting skill group, you can make the [power roll](../rule/dice/power-roll.md) twice and use either roll.
+Whenever you make a [test](../rule/test/test.md) as part of a crafting or [research project](../rule/downtime/research-project.md) that uses a skill you already have from the [crafting skill group](../skill/crafting/crafting.md), you can make the [power roll](../rule/dice/power-roll.md) twice and use either roll.
 
 #### Handy {data-scc="mcdm.heroes.v1/perk/handy"}
 
@@ -45,15 +45,15 @@ Whenever you make a [test](../rule/test/test.md) to craft something and don't ha
 
 #### Improvisation Creation {data-scc="mcdm.heroes.v1/perk/improvisation-creation"}
 
-Without needing to make a [test](../rule/test/test.md)—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.
+Without needing to make a [test](../rule/test/test.md)—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the [crafting skill group](../skill/crafting/crafting.md). That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.
 
 #### Inspired Artisan {data-scc="mcdm.heroes.v1/perk/inspired-artisan"}
 
-When you make a [project roll](../rule/downtime/project-roll.md) using a skill from the crafting skill group, you can spend a [hero token](../rule/resource/hero-token.md) to make another [project roll](../rule/downtime/project-roll.md) for the same project as part of the same [respite](../rule/resource/respite.md) activity. You can't use this perk more than once per [respite](../rule/resource/respite.md).
+When you make a [project roll](../rule/downtime/project-roll.md) using a skill from the [crafting skill group](../skill/crafting/crafting.md), you can spend a [hero token](../rule/resource/hero-token.md) to make another [project roll](../rule/downtime/project-roll.md) for the same project as part of the same [respite](../rule/resource/respite.md) activity. You can't use this perk more than once per [respite](../rule/resource/respite.md).
 
 #### Traveling Artisan {data-scc="mcdm.heroes.v1/perk/traveling-artisan"}
 
-On any day when you don't take a [respite](../rule/resource/respite.md), you can spend 1 uninterrupted hour working on a [crafting project](../rule/downtime/crafting-project.md) using a skill you have from the crafting skill group. If you do so, you gain 1d10 [project points](../rule/downtime/project-points.md) toward that project.
+On any day when you don't take a [respite](../rule/resource/respite.md), you can spend 1 uninterrupted hour working on a [crafting project](../rule/downtime/crafting-project.md) using a skill you have from the [crafting skill group](../skill/crafting/crafting.md). If you do so, you gain 1d10 [project points](../rule/downtime/project-points.md) toward that project.
 
 > **Perks and [Tests](../rule/test/test.md)**
 >
@@ -79,7 +79,7 @@ Whenever you are in a natural environment (but not in a settlement in that envir
 
 #### Friend Catapult {data-scc="mcdm.heroes.v1/perk/friend-catapult"}
 
-As a maneuver, you grab a willing [adjacent](../rule/combat/adjacent.md) ally or object of your [size](../rule/character/size.md) or smaller, then vertical push that target up to a number of squares equal to twice your [Might](../rule/character/might.md) score. If a creature you push falls as a result of this movement, the effective [distance](../rule/combat/distance.md) of the fall is reduced by a number of squares equal to twice your [Might](../rule/character/might.md) score. When you use this perk, you can't use it again until you earn 1 or more [Victories](../rule/resource/victories.md).
+As a maneuver, you grab a willing [adjacent](../rule/combat/adjacent.md) ally or object of your [size](../rule/character/size.md) or smaller, then vertical [push](../movement/forced-movement.md) that target up to a number of squares equal to twice your [Might](../rule/character/might.md) score. If a creature you [push](../movement/forced-movement.md) falls as a result of this movement, the effective [distance](../rule/combat/distance.md) of the fall is reduced by a number of squares equal to twice your [Might](../rule/character/might.md) score. When you use this perk, you can't use it again until you earn 1 or more [Victories](../rule/resource/victories.md).
 
 #### I've Got You! {data-scc="mcdm.heroes.v1/perk/ive-got-you"}
 
@@ -95,7 +95,7 @@ During [montage tests](../rule/test/montage-test.md), whenever you make a [test]
 
 #### Team Leader {data-scc="mcdm.heroes.v1/perk/team-leader"}
 
-At the start of a [group test](../rule/test/group-test.md) or [montage test](../rule/test/montage-test.md), you can spend a [hero token](../rule/resource/hero-token.md). If you do, all participants make [tests](../rule/test/test.md) as if they also had any skill you have from the exploration group.
+At the start of a [group test](../rule/test/group-test.md) or [montage test](../rule/test/montage-test.md), you can spend a [hero token](../rule/resource/hero-token.md). If you do, all participants make [tests](../rule/test/test.md) as if they also had any skill you have from the [exploration group](../skill/exploration/exploration.md).
 
 #### Teamwork {data-scc="mcdm.heroes.v1/perk/teamwork"}
 
@@ -103,7 +103,7 @@ When you take your first [turn](../rule/combat/turn.md) during any [montage test
 
 #### Wood Wise {data-scc="mcdm.heroes.v1/perk/wood-wise"}
 
-When you make a [test](../rule/test/test.md) using a skill from the exploration skill group and at least one of the d10s rolled is a 1, you can reroll one d10. You can use this perk only once per [test](../rule/test/test.md).
+When you make a [test](../rule/test/test.md) using a skill from the [exploration skill group](../skill/exploration/exploration.md) and at least one of the d10s rolled is a 1, you can reroll one d10. You can use this perk only once per [test](../rule/test/test.md).
 
 ### Interpersonal Perks
 
@@ -139,7 +139,7 @@ When an ally within 5 squares fails a [Presence](../rule/character/presence.md) 
 
 #### Power Player {data-scc="mcdm.heroes.v1/perk/power-player"}
 
-Whenever you make a [test](../rule/test/test.md) that uses the [Brag](../skill/brag.md), [Flirt](../skill/flirt.md), or [Intimidate](../skill/intimidate.md) skills, you can use [Might](../rule/character/might.md) instead of any other [characteristic](../rule/character/characteristic.md) the [test](../rule/test/test.md) calls for.
+Whenever you make a [test](../rule/test/test.md) that uses the [Brag](../skill/interpersonal/brag.md), [Flirt](../skill/interpersonal/flirt.md), or [Intimidate](../skill/interpersonal/intimidate.md) skills, you can use [Might](../rule/character/might.md) instead of any other [characteristic](../rule/character/characteristic.md) the [test](../rule/test/test.md) calls for.
 
 #### So Tell Me... {data-scc="mcdm.heroes.v1/perk/so-tell-me"}
 
@@ -167,7 +167,7 @@ Whenever a mundane trap activates within 3 squares, you can use a [triggered act
 
 #### Lucky Dog {data-scc="mcdm.heroes.v1/perk/lucky-dog"}
 
-Whenever you fail a [test](../rule/test/test.md) using any skill from the intrigue skill group, you can lose [Stamina](../rule/health/stamina.md) equal to 1d6 + your level to improve the outcome of the [test](../rule/test/test.md) by one tier. You can use this perk only once per [test](../rule/test/test.md).
+Whenever you fail a [test](../rule/test/test.md) using any skill from the [intrigue skill group](../skill/intrigue/intrigue.md), you can lose [Stamina](../rule/health/stamina.md) equal to 1d6 + your level to improve the outcome of the [test](../rule/test/test.md) by one tier. You can use this perk only once per [test](../rule/test/test.md).
 
 #### Master of Disguise {data-scc="mcdm.heroes.v1/perk/master-of-disguise"}
 
@@ -183,15 +183,15 @@ This section presents lore perks in alphabetical order.
 
 #### But I Know Who Does {data-scc="mcdm.heroes.v1/perk/but-i-know-who-does"}
 
-Whenever you fail a [test](../rule/test/test.md) to recall lore using a skill from the lore skill group, you instinctively recall the nearest location where the information you seek might be found. This could be the tower of a local sage, a library in a nearby city, somewhere deep in a dungeon, or any other location of the Director's determination. The Director can decide that certain lore can't be revealed this way.
+Whenever you fail a [test](../rule/test/test.md) to recall lore using a skill from the [lore skill group](../skill/lore/lore.md), you instinctively recall the nearest location where the information you seek might be found. This could be the tower of a local sage, a library in a nearby city, somewhere deep in a dungeon, or any other location of the Director's determination. The Director can decide that certain lore can't be revealed this way.
 
 #### Eidetic Memory {data-scc="mcdm.heroes.v1/perk/eidetic-memory"}
 
-Your mind is an encyclopedia, though not always an easy one to organize. When you finish a [respite](../rule/resource/respite.md), choose one skill from the lore skill group that you don't have. You have that skill until you finish your next [respite](../rule/resource/respite.md). Additionally, if you spend 1 uninterrupted minute or more reading any page of text, you can memorize its contents, allowing you to memorize entire books with sufficient time.
+Your mind is an encyclopedia, though not always an easy one to organize. When you finish a [respite](../rule/resource/respite.md), choose one skill from the [lore skill group](../skill/lore/lore.md) that you don't have. You have that skill until you finish your next [respite](../rule/resource/respite.md). Additionally, if you spend 1 uninterrupted minute or more reading any page of text, you can memorize its contents, allowing you to memorize entire books with sufficient time.
 
 #### Expert Sage {data-scc="mcdm.heroes.v1/perk/expert-sage"}
 
-Whenever you make a [test](../rule/test/test.md) as part of a crafting or [research project](../rule/downtime/research-project.md) using a skill from the lore skill group, you can make the [power roll](../rule/dice/power-roll.md) twice and use either roll.
+Whenever you make a [test](../rule/test/test.md) as part of a crafting or [research project](../rule/downtime/research-project.md) using a skill from the [lore skill group](../skill/lore/lore.md), you can make the [power roll](../rule/dice/power-roll.md) twice and use either roll.
 
 #### I've Read About This Place {data-scc="mcdm.heroes.v1/perk/ive-read-about-this-place"}
 
@@ -213,11 +213,11 @@ Whenever you make a [test](../rule/test/test.md) to recall lore and don't have a
 
 #### Specialist {data-scc="mcdm.heroes.v1/perk/specialist"}
 
-You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to recall lore using this skill. Additionally, your [specialist](../perk/specialist.md) knowledge grants you notoriety in fields related to the chosen skill. You treat your [Renown](../rule/resource/renown.md) as 1 higher when negotiating with an [NPC](../rule/general/npc.md) who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
+You are a leading expert on a particular subject. Choose one skill you have from the [lore skill group](../skill/lore/lore.md). You always have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to recall lore using this skill. Additionally, your [specialist](../perk/specialist.md) knowledge grants you notoriety in fields related to the chosen skill. You treat your [Renown](../rule/resource/renown.md) as 1 higher when negotiating with an [NPC](../rule/general/npc.md) who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
 
 #### Traveling Sage {data-scc="mcdm.heroes.v1/perk/traveling-sage"}
 
-On any day when you don't take a [respite](../rule/resource/respite.md), you can spend 1 uninterrupted hour working on a [research project](../rule/downtime/research-project.md) using a skill you have from the lore skill group. If you do so, you gain 1d10 [project points](../rule/downtime/project-points.md) toward that project.
+On any day when you don't take a [respite](../rule/resource/respite.md), you can spend 1 uninterrupted hour working on a [research project](../rule/downtime/research-project.md) using a skill you have from the [lore skill group](../skill/lore/lore.md). If you do so, you gain 1d10 [project points](../rule/downtime/project-points.md) toward that project.
 
 ### Supernatural Perks
 

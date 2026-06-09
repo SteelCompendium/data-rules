@@ -34,9 +34,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 8 + A damage; slide 1
-- **12-16:** 12 + A damage; slide 3
-- **17+:** 16 + A damage; slide 5
+- **≤11:** 8 + A damage; [slide](../../../movement/forced-movement.md) 1
+- **12-16:** 12 + A damage; [slide](../../../movement/forced-movement.md) 3
+- **17+:** 16 + A damage; [slide](../../../movement/forced-movement.md) 5
 
 ## 2nd-Level Cryokinetic Ability
 
@@ -83,9 +83,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 8 + A psychic damage; vertical pull 3
-- **12-16:** 12 + A psychic damage; vertical pull 5
-- **17+:** 16 + A psychic damage; vertical pull 7
+- **≤11:** 8 + A psychic damage; vertical [pull](../../../movement/forced-movement.md) 3
+- **12-16:** 12 + A psychic damage; vertical [pull](../../../movement/forced-movement.md) 5
+- **17+:** 16 + A psychic damage; vertical [pull](../../../movement/forced-movement.md) 7
 
 ### Kinetic Shield {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield"}
 

@@ -17,9 +17,9 @@ power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presenc
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: Push 1
-tier2: Push 2
-tier3: Push 3
+tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
+tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
+tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
 type: ability
 ---
 
@@ -27,9 +27,9 @@ type: ability
 distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
-      tier1: Push 1
-      tier2: Push 2
-      tier3: Push 3
+      tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
+      tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
+      tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
 feature_type: ability
 flavor: Your instrument rings true and your music blows everyone away.
 keywords:
@@ -48,9 +48,9 @@ metadata:
     power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord
     target: Each enemy in the area
-    tier1: Push 1
-    tier2: Push 2
-    tier3: Push 3
+    tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
+    tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
+    tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
     type: ability
 name: Power Chord
 target: Each enemy in the area

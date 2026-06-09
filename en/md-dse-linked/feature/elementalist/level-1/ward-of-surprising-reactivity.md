@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to push that creature up to a number of squares equal to twice your [Reason](../../../rule/character/reason.md) score.
+    - effect: You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [push](../../../movement/forced-movement.md) that creature up to a number of squares equal to twice your [Reason](../../../rule/character/reason.md) score.
 feature_type: feature
 metadata:
     class: elementalist

@@ -65,9 +65,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** 3 damage; vertical push 2
-- **12-16:** 6 damage; vertical push 4
-- **17+:** 9 damage; vertical push 6
+- **≤11:** 3 damage; vertical [push](../../../movement/forced-movement.md) 2
+- **12-16:** 6 damage; vertical [push](../../../movement/forced-movement.md) 4
+- **17+:** 9 damage; vertical [push](../../../movement/forced-movement.md) 6
 
 **Strained:** The size of the [burst](../../../rule/combat/burst.md) increases by 1, and you are [weakened](../../../condition/weakened.md) until the end of your [turn](../../../rule/combat/turn.md).
 

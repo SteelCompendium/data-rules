@@ -13,9 +13,9 @@ name: Ice Pillars
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-6/ice-pillars
 target: Three creatures or objects
-tier1: Vertical slide 6
-tier2: Vertical slide 8
-tier3: Vertical slide 10
+tier1: Vertical [slide](../../../../movement/forced-movement.md) 6
+tier2: Vertical [slide](../../../../movement/forced-movement.md) 8
+tier3: Vertical [slide](../../../../movement/forced-movement.md) 10
 type: ability
 ---
 
@@ -28,8 +28,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
-- **≤11:** Vertical slide 6
-- **12-16:** Vertical slide 8
-- **17+:** Vertical slide 10
+- **≤11:** Vertical [slide](../../../../movement/forced-movement.md) 6
+- **12-16:** Vertical [slide](../../../../movement/forced-movement.md) 8
+- **17+:** Vertical [slide](../../../../movement/forced-movement.md) 10
 
 **Effect:** The pillars vanish as soon as the effects of the [forced movement](../../../../movement/forced-movement.md) are resolved.

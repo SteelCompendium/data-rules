@@ -4,9 +4,9 @@
   "effects": [
     {
       "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
-      "tier1": "Slide 4 + R; M \u003c WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical",
-      "tier2": "Slide 8 + R; M \u003c AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical",
-      "tier3": "Slide 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M \u003c STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical"
+      "tier1": "[Slide](scc:mcdm.heroes.v1/movement/forced-movement) 4 + R; M \u003c WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical",
+      "tier2": "[Slide](scc:mcdm.heroes.v1/movement/forced-movement) 8 + R; M \u003c AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical",
+      "tier3": "[Slide](scc:mcdm.heroes.v1/movement/forced-movement) 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M \u003c STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical"
     }
   ],
   "feature_type": "ability",
@@ -20,7 +20,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "talent",
-    "content": "\n*You raise the target into the air without breaking a sweat.*\n\n| **Psionic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**, **Strike, Telekinesis** |               **Main action** |\n|----------------------------------------------|------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                             | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** Slide 4 + R; M \u003c WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n- **12-16:** Slide 8 + R; M \u003c AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n- **17+:** Slide 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M \u003c STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n\n**Strained:** The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). You take 2d6 damage and are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).",
+    "content": "\n*You raise the target into the air without breaking a sweat.*\n\n| **Psionic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**, **Strike, Telekinesis** |               **Main action** |\n|----------------------------------------------|------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                             | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** [Slide](scc:mcdm.heroes.v1/movement/forced-movement) 4 + R; M \u003c WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n- **12-16:** [Slide](scc:mcdm.heroes.v1/movement/forced-movement) 8 + R; M \u003c AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n- **17+:** [Slide](scc:mcdm.heroes.v1/movement/forced-movement) 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M \u003c STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical\n\n**Strained:** The [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). You take 2d6 damage and are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends).",
     "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "You raise the target into the air without breaking a sweat.",

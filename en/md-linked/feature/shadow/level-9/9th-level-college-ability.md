@@ -40,11 +40,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 13 + A corruption damage; push 3
-- **12-16:** 18 + A corruption damage; push 5
-- **17+:** 25 + A corruption damage; push 7
+- **≤11:** 13 + A corruption damage; [push](../../../movement/forced-movement.md) 3
+- **12-16:** 18 + A corruption damage; [push](../../../movement/forced-movement.md) 5
+- **17+:** 25 + A corruption damage; [push](../../../movement/forced-movement.md) 7
 
-**Effect:** On a [critical hit](../../../rule/combat/critical-hit.md), the target is [grabbed](../../../condition/grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
+**Effect:** On a [critical hit](../../../rule/combat/critical-hit.md), the target is [grabbed](../../../condition/grabbed.md) by the demon and [pulled](../../../movement/forced-movement.md) through the portal before it closes, never to be seen again.
 
 ## 9th-Level Caustic Alchemy Abilities
 
@@ -78,9 +78,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 4 + A fire damage; vertical push 8
-- **12-16:** 7 + A fire damage; vertical push 10
-- **17+:** 11 + A fire damage; vertical push 15
+- **≤11:** 4 + A fire damage; vertical [push](../../../movement/forced-movement.md) 8
+- **12-16:** 7 + A fire damage; vertical [push](../../../movement/forced-movement.md) 10
+- **17+:** 11 + A fire damage; vertical [push](../../../movement/forced-movement.md) 15
 
 **Effect:** The ground beneath a 3-[cube](../../../rule/combat/cube.md) area around the target's starting position is [difficult terrain](../../../movement/difficult-terrain.md).
 

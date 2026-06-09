@@ -18,9 +18,9 @@ scc: mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
-tier1: 4 + M or A damage; vertical pull 1
-tier2: 7 + M or A damage; vertical pull 2
-tier3: 10 + M or A damage; vertical pull 3
+tier1: 4 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier2: 7 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 2
+tier3: 10 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 3
 type: ability
 ---
 
@@ -28,9 +28,9 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
 effects:
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
-      tier1: 4 + M or A damage; vertical pull 1
-      tier2: 7 + M or A damage; vertical pull 2
-      tier3: 10 + M or A damage; vertical pull 3
+      tier1: 4 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier2: 7 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 2
+      tier3: 10 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 3
 feature_type: ability
 flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
 keywords:
@@ -51,9 +51,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm
     subtype: signature
     target: One creature
-    tier1: 4 + M or A damage; vertical pull 1
-    tier2: 7 + M or A damage; vertical pull 2
-    tier3: 10 + M or A damage; vertical pull 3
+    tier1: 4 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier2: 7 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    tier3: 10 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 3
     type: ability
 name: Extension of My Arm
 target: One creature

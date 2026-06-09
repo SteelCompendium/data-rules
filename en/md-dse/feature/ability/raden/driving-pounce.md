@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you pushed the target.
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you [pushed](scc:mcdm.heroes.v1/movement/forced-movement) the target.
 feature_type: ability
 file_basename: driving-pounce
 file_dpath: feature/ability/raden
@@ -20,19 +20,19 @@ source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
 tier1: 4 + A damage
-tier2: 7 + A damage; push 1
-tier3: 9 + A damage; push 2
+tier2: 7 + A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier3: 9 + A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you pushed the target.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you [pushed](scc:mcdm.heroes.v1/movement/forced-movement) the target.
     - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
       tier1: 4 + A damage
-      tier2: 7 + A damage; push 1
-      tier3: 9 + A damage; push 2
+      tier2: 7 + A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier3: 9 + A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
 feature_type: ability
 flavor: Your enemies try in vain to fall back from your pouncing attack.
 keywords:
@@ -42,7 +42,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you pushed the target.
+    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you [pushed](scc:mcdm.heroes.v1/movement/forced-movement) the target.
     flavor: Your enemies try in vain to fall back from your pouncing attack.
     keywords:
         - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
@@ -55,8 +55,8 @@ metadata:
     subtype: signature
     target: One creature or object
     tier1: 4 + A damage
-    tier2: 7 + A damage; push 1
-    tier3: 9 + A damage; push 2
+    tier2: 7 + A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier3: 9 + A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
     type: ability
 name: Driving Pounce
 target: One creature or object

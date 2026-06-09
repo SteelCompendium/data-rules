@@ -57,9 +57,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; vertical pull 2
-- **12-16:** 5 + I holy damage; vertical pull 3
-- **17+:** 8 + I holy damage; vertical pull 4
+- **≤11:** 3 + I holy damage; vertical [pull](../../../movement/forced-movement.md) 2
+- **12-16:** 5 + I holy damage; vertical [pull](../../../movement/forced-movement.md) 3
+- **17+:** 8 + I holy damage; vertical [pull](../../../movement/forced-movement.md) 4
 
 ### Lightfall {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/lightfall"}
 
@@ -106,9 +106,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; slide 1
-- **12-16:** 5 + I holy damage; slide 2
-- **17+:** 8 + I holy damage; slide 3
+- **≤11:** 3 + I holy damage; [slide](../../../movement/forced-movement.md) 1
+- **12-16:** 5 + I holy damage; [slide](../../../movement/forced-movement.md) 2
+- **17+:** 8 + I holy damage; [slide](../../../movement/forced-movement.md) 3
 
 ### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
@@ -161,11 +161,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 2 sonic damage; push 1
-- **12-16:** 3 sonic damage; push 2
-- **17+:** 5 sonic damage; push 3
+- **≤11:** 2 sonic damage; [push](../../../movement/forced-movement.md) 1
+- **12-16:** 3 sonic damage; [push](../../../movement/forced-movement.md) 2
+- **17+:** 5 sonic damage; [push](../../../movement/forced-movement.md) 3
 
-**Effect:** You can push each willing ally in the area the same [distance](../../../rule/combat/distance.md), ignoring [stability](../../../rule/character/stability.md).
+**Effect:** You can [push](../../../movement/forced-movement.md) each willing ally in the area the same [distance](../../../rule/combat/distance.md), ignoring [stability](../../../rule/character/stability.md).
 
 ### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
 

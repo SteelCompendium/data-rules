@@ -23,9 +23,9 @@ power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces
 source: mcdm.heroes.v1
 target: One creature or object
-tier1: 12 + P sonic damage; push 5
-tier2: 16 + P sonic damage; push 10
-tier3: 22 + P sonic damage; push 15
+tier1: 12 + P sonic damage; [push](../../../../movement/forced-movement.md) 5
+tier2: 16 + P sonic damage; [push](../../../../movement/forced-movement.md) 10
+tier3: 22 + P sonic damage; [push](../../../../movement/forced-movement.md) 15
 type: ability
 ---
 
@@ -35,9 +35,9 @@ distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../r
 effects:
     - effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md).'
     - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
-      tier1: 12 + P sonic damage; push 5
-      tier2: 16 + P sonic damage; push 10
-      tier3: 22 + P sonic damage; push 15
+      tier1: 12 + P sonic damage; [push](../../../../movement/forced-movement.md) 5
+      tier2: 16 + P sonic damage; [push](../../../../movement/forced-movement.md) 10
+      tier3: 22 + P sonic damage; [push](../../../../movement/forced-movement.md) 15
 feature_type: ability
 flavor: The power of music rips through the reality around the target and blows them away.
 keywords:
@@ -62,9 +62,9 @@ metadata:
     power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces
     target: One creature or object
-    tier1: 12 + P sonic damage; push 5
-    tier2: 16 + P sonic damage; push 10
-    tier3: 22 + P sonic damage; push 15
+    tier1: 12 + P sonic damage; [push](../../../../movement/forced-movement.md) 5
+    tier2: 16 + P sonic damage; [push](../../../../movement/forced-movement.md) 10
+    tier3: 22 + P sonic damage; [push](../../../../movement/forced-movement.md) 15
     type: ability
 name: Melt Their Faces
 target: One creature or object

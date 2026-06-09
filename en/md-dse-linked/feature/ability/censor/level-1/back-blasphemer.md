@@ -20,9 +20,9 @@ scc: mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer
 source: mcdm.heroes.v1
 subtype: signature
 target: Each enemy in the area
-tier1: 2 holy damage; push 1
-tier2: 4 holy damage; push 2
-tier3: 6 holy damage; push 3
+tier1: 2 holy damage; [push](../../../../movement/forced-movement.md) 1
+tier2: 4 holy damage; [push](../../../../movement/forced-movement.md) 2
+tier3: 6 holy damage; [push](../../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -30,9 +30,9 @@ type: ability
 distance: 2 [cube](../../../../rule/combat/cube.md) within 1
 effects:
     - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
-      tier1: 2 holy damage; push 1
-      tier2: 4 holy damage; push 2
-      tier3: 6 holy damage; push 3
+      tier1: 2 holy damage; [push](../../../../movement/forced-movement.md) 1
+      tier2: 4 holy damage; [push](../../../../movement/forced-movement.md) 2
+      tier3: 6 holy damage; [push](../../../../movement/forced-movement.md) 3
 feature_type: ability
 flavor: You channel power through your weapon to repel foes.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer
     subtype: signature
     target: Each enemy in the area
-    tier1: 2 holy damage; push 1
-    tier2: 4 holy damage; push 2
-    tier3: 6 holy damage; push 3
+    tier1: 2 holy damage; [push](../../../../movement/forced-movement.md) 1
+    tier2: 4 holy damage; [push](../../../../movement/forced-movement.md) 2
+    tier3: 6 holy damage; [push](../../../../movement/forced-movement.md) 3
     type: ability
 name: Back Blasphemer!
 target: Each enemy in the area

@@ -21,9 +21,9 @@ power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
 source: mcdm.heroes.v1
 target: Three enemies
-tier1: Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+tier1: '[Slide](../../../../movement/forced-movement.md) 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+tier2: '[Slide](../../../../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+tier3: '[Slide](../../../../movement/forced-movement.md) 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
 type: ability
 ---
 
@@ -32,9 +32,9 @@ cost: 9 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
-      tier1: Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-      tier2: Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-      tier3: Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+      tier1: '[Slide](../../../../movement/forced-movement.md) 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+      tier2: '[Slide](../../../../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+      tier3: '[Slide](../../../../movement/forced-movement.md) 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
 feature_type: ability
 flavor: You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.
 keywords:
@@ -56,9 +56,9 @@ metadata:
     power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
     target: Three enemies
-    tier1: Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-    tier2: Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-    tier3: Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+    tier1: '[Slide](../../../../movement/forced-movement.md) 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+    tier2: '[Slide](../../../../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+    tier3: '[Slide](../../../../movement/forced-movement.md) 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
     type: ability
 name: Burden of Evil
 target: Three enemies

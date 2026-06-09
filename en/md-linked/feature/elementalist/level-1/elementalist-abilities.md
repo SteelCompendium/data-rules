@@ -76,7 +76,7 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 5 + R damage
 - **17+:** 7 + R damage
 
-**Effect:** You slide one creature within 10 squares of the target up to 2 squares.
+**Effect:** You [slide](../../../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
 
 ### Meteoric Introduction {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/meteoric-introduction"}
 
@@ -89,9 +89,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** 3 + R damage; push 2
-- **12-16:** 5 + R damage; push 3
-- **17+:** 8 + R damage; push 4
+- **≤11:** 3 + R damage; [push](../../../movement/forced-movement.md) 2
+- **12-16:** 5 + R damage; [push](../../../movement/forced-movement.md) 3
+- **17+:** 8 + R damage; [push](../../../movement/forced-movement.md) 4
 
 ### Ray of Agonizing Self-Reflection {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-reflection"}
 
@@ -136,9 +136,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** 2 + R fire damage; push 2
-- **12-16:** 5 + R fire damage; push 3
-- **17+:** 7 + R fire damage; push 4
+- **≤11:** 2 + R fire damage; [push](../../../movement/forced-movement.md) 2
+- **12-16:** 5 + R fire damage; [push](../../../movement/forced-movement.md) 3
+- **17+:** 7 + R fire damage; [push](../../../movement/forced-movement.md) 4
 
 ## Heroic Abilities
 

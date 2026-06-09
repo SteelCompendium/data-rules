@@ -20,9 +20,9 @@ power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presenc
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/begone
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 4 psychic damage; slide 3
-tier2: 6 psychic damage; slide 5
-tier3: 8 psychic damage; slide 7
+tier1: 4 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
+tier2: 6 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5
+tier3: 8 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 7
 type: ability
 ---
 
@@ -31,9 +31,9 @@ cost: 9 Wrath
 distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
-      tier1: 4 psychic damage; slide 3
-      tier2: 6 psychic damage; slide 5
-      tier3: 8 psychic damage; slide 7
+      tier1: 4 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
+      tier2: 6 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5
+      tier3: 8 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 7
 feature_type: ability
 flavor: You terrify your enemies into retreating, creating chaos in their ranks.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-6/begone
     target: Each enemy in the area
-    tier1: 4 psychic damage; slide 3
-    tier2: 6 psychic damage; slide 5
-    tier3: 8 psychic damage; slide 7
+    tier1: 4 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3
+    tier2: 6 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5
+    tier3: 8 psychic damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 7
     type: ability
 name: Begone!
 target: Each enemy in the area

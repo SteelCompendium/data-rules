@@ -13,8 +13,8 @@ scc: mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you
 subtype: signature
 target: One creature
 tier1: 4 + M or A damage
-tier2: 7 + M or A damage; slide 1
-tier3: 10 + M or A damage; slide 3
+tier2: 7 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+tier3: 10 + M or A damage; [slide](../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -27,5 +27,5 @@ type: ability
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage
-- **12-16:** 7 + M or A damage; slide 1
-- **17+:** 10 + M or A damage; slide 3
+- **12-16:** 7 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+- **17+:** 10 + M or A damage; [slide](../../../movement/forced-movement.md) 3

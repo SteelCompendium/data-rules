@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Whenever you use the [Knockback](../../common/maneuvers/knockback.md) or [Grab](../../common/maneuvers/grab.md) maneuver, you use [Intuition](../../../rule/character/intuition.md) instead of [Might](../../../rule/character/might.md) for the [power roll](../../../rule/dice/power-roll.md) and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
+    - effect: Whenever you use the [Knockback](../../common/maneuvers/knockback.md) or [Grab](../../common/maneuvers/grab.md) maneuver, you use [Intuition](../../../rule/character/intuition.md) instead of [Might](../../../rule/character/might.md) for the [power roll](../../../rule/dice/power-roll.md) and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, you can choose to [slide](../../../movement/forced-movement.md) the target instead of [pushing](../../../movement/forced-movement.md) them.
 feature_type: feature
 metadata:
     class: "null"

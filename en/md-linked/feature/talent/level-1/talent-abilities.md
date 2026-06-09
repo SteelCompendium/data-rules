@@ -78,11 +78,11 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** Slide 2 + R
-- **12-16:** Slide 4 + R
-- **17+:** Slide 6 + R; [prone](../../../condition/prone.md)
+- **≤11:** [Slide](../../../movement/forced-movement.md) 2 + R
+- **12-16:** [Slide](../../../movement/forced-movement.md) 4 + R
+- **17+:** [Slide](../../../movement/forced-movement.md) 6 + R; [prone](../../../condition/prone.md)
 
-**Strained:** You must vertical push the target instead of sliding them.
+**Strained:** You must vertical [push](../../../movement/forced-movement.md) the target instead of [sliding](../../../movement/forced-movement.md) them.
 
 ### Kinetic Pulse {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse"}
 
@@ -96,8 +96,8 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
 - **≤11:** 2 psychic damage
-- **12-16:** 5 psychic damage; push 1
-- **17+:** 7 psychic damage; push 2
+- **12-16:** 5 psychic damage; [push](../../../movement/forced-movement.md) 1
+- **17+:** 7 psychic damage; [push](../../../movement/forced-movement.md) 2
 
 **Strained:** The size of the [burst](../../../rule/combat/burst.md) increases by 2, and you are [bleeding](../../../condition/bleeding.md) until the start of your next [turn](../../../rule/combat/turn.md).
 
@@ -198,7 +198,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
 - **17+:** 8 + R damage; M < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 
-**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../condition/restrained.md) by this ability, this [forced movement](../../../movement/forced-movement.md) ignores their [stability](../../../rule/character/stability.md).
+**Effect:** You can vertical [pull](../../../movement/forced-movement.md) the target up to 2 squares. If the target is made [restrained](../../../condition/restrained.md) by this ability, this [forced movement](../../../movement/forced-movement.md) ignores their [stability](../../../rule/character/stability.md).
 
 ### Precognition {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/precognition"}
 
@@ -254,7 +254,7 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 |----------------------------------|------------------------:|
 | **📏 [Ranged](../../../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target ignores [difficult terrain](../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../movement/forced-movement.md) until the start of your next [turn](../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../rule/combat/turn.md).
+**Effect:** The target ignores [difficult terrain](../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../movement/forced-movement.md) until the start of your next [turn](../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../../../movement/forced-movement.md) one [adjacent](../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score. When [pushing](../../../movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../rule/combat/turn.md).
 
 **Strained:** You are [weakened](../../../condition/weakened.md) (save ends). While you are [weakened](../../../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +5 [bonus](../../../rule/dice/bonuses-and-penalties.md).
 

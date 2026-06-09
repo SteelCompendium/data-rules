@@ -5,7 +5,7 @@ cost: 9 Discipline
 cost_amount: "9"
 cost_resource: Discipline
 distance: Self
-effect: This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
+effect: This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you [slide](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
 feature_type: ability
 file_basename: gravitic-charge
 file_dpath: feature/ability/null/level-6
@@ -20,9 +20,9 @@ power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuit
 scc: mcdm.heroes.v1/feature.ability.null.level-6/gravitic-charge
 source: mcdm.heroes.v1
 target: Self
-tier1: Vertical slide 5
-tier2: Vertical slide 7
-tier3: Vertical slide 9
+tier1: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5
+tier2: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 7
+tier3: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 9
 type: ability
 ---
 
@@ -30,11 +30,11 @@ type: ability
 cost: 9 Discipline
 distance: Self
 effects:
-    - effect: This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
+    - effect: This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you [slide](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
     - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
-      tier1: Vertical slide 5
-      tier2: Vertical slide 7
-      tier3: Vertical slide 9
+      tier1: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5
+      tier2: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 7
+      tier3: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 9
 feature_type: ability
 flavor: You channel your discipline into momentum that defies gravity.
 keywords:
@@ -44,7 +44,7 @@ metadata:
     class: "null"
     cost: 9 Discipline
     distance: Self
-    effect: This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
+    effect: This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you [slide](scc:mcdm.heroes.v1/movement/forced-movement) into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
     flavor: You channel your discipline into momentum that defies gravity.
     keywords:
         - Psionic
@@ -53,9 +53,9 @@ metadata:
     power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.null.level-6/gravitic-charge
     target: Self
-    tier1: Vertical slide 5
-    tier2: Vertical slide 7
-    tier3: Vertical slide 9
+    tier1: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5
+    tier2: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 7
+    tier3: Vertical [slide](scc:mcdm.heroes.v1/movement/forced-movement) 9
     type: ability
 name: Gravitic Charge
 target: Self

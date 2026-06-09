@@ -4,12 +4,12 @@
   "effects": [
     {
       "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
-      "tier1": "4 + A damage; slide 2",
-      "tier2": "6 + A damage; slide 3",
-      "tier3": "10 + A damage; slide 5"
+      "tier1": "4 + A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2",
+      "tier2": "6 + A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3",
+      "tier3": "10 + A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5"
     },
     {
-      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you slide them.",
+      "effect": "You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you [slide](scc:mcdm.heroes.v1/movement/forced-movement) them.",
       "name": "Effect"
     }
   ],
@@ -23,7 +23,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "shadow",
-    "content": "\n*Your attack leaves them reeling, allowing you to follow up.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; slide 2\n- **12-16:** 6 + A damage; slide 3\n- **17+:** 10 + A damage; slide 5\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you slide them.",
+    "content": "\n*Your attack leaves them reeling, allowing you to follow up.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **🎯 One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 2\n- **12-16:** 6 + A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 3\n- **17+:** 10 + A damage; [slide](scc:mcdm.heroes.v1/movement/forced-movement) 5\n\n**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you [slide](scc:mcdm.heroes.v1/movement/forced-movement) them.",
     "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
     "feature_type": "ability",
     "flavor": "Your attack leaves them reeling, allowing you to follow up.",

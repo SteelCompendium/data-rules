@@ -375,7 +375,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 
 #### Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
 
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](tests.md)), and you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) when attempting to discover an [NPC](../rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) (see Skills in Chapter 9: [Tests](tests.md)), and you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) when attempting to discover an [NPC](../rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
 
 #### Purchased Devil Traits
 
@@ -526,8 +526,8 @@ You have the following [signature ability](../rule/combat/signature-ability.md).
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 damage
-- **12-16:** 5 damage; push 1
-- **17+:** 7 damage; push 2
+- **12-16:** 5 damage; [push](../movement/forced-movement.md) 1
+- **17+:** 7 damage; [push](../movement/forced-movement.md) 2
 
 ##### Dragon Breath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath"}
 
@@ -919,7 +919,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 #### Signature Trait: High Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-glamor"}
 
-A magic glamor makes others perceive you as interesting and engaging, granting you an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) using the [Flirt](../skill/flirt.md) or [Persuade](../skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
+A magic glamor makes others perceive you as interesting and engaging, granting you an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) using the [Flirt](../skill/interpersonal/flirt.md) or [Persuade](../skill/interpersonal/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
 #### Purchased High Elf Traits
 
@@ -1147,7 +1147,7 @@ A tolerance for pain and distress allows you to push through difficult situation
 
 ##### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 
-Giving up is for other people. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Endurance](../skill/endurance.md) skill. Additionally, when you are [slowed](../condition/slowed.md), your [speed](../rule/character/speed.md) is reduced to 3 instead of 2.
+Giving up is for other people. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Endurance](../skill/exploration/endurance.md) skill. Additionally, when you are [slowed](../condition/slowed.md), your [speed](../rule/character/speed.md) is reduced to 3 instead of 2.
 
 ##### Resist the Unnatural {data-scc="mcdm.heroes.v1/feature.trait.human/resist-the-unnatural"}
 
@@ -1445,7 +1445,7 @@ Your bloodfire supplies you with a constant rush of adrenaline. You can't be mad
 
 ##### Passionate Artisan {data-scc="mcdm.heroes.v1/feature.trait.orc/passionate-artisan"}
 
-When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the roll.
+When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the [crafting skill group](../skill/crafting/crafting.md), whether you have those skills or not. Whenever you make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the roll.
 
 ## Polder {data-scc="mcdm.heroes.v1/ancestry/polder"}
 
@@ -1731,9 +1731,9 @@ Additionally, you have the following [signature ability](../rule/combat/signatur
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
-- **≤11:** 3 + R, I, or P damage; slide 1
-- **12-16:** 5 + R, I, or P damage; slide 2
-- **17+:** 7 + R, I, or P damage; slide 3
+- **≤11:** 3 + R, I, or P damage; [slide](../movement/forced-movement.md) 1
+- **12-16:** 5 + R, I, or P damage; [slide](../movement/forced-movement.md) 2
+- **17+:** 7 + R, I, or P damage; [slide](../movement/forced-movement.md) 3
 
 **Effect:** The sigil disappears from the creature.
 
@@ -1853,7 +1853,7 @@ Your senses extend past mundane obscuration and the veil of the future alike. Yo
 
 ##### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 
-Your unique physiology enhances your movement. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Climb](../skill/climb.md), [Gymnastics](../skill/gymnastics.md), or [Swim](../skill/swim.md) skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Climb](../skill/exploration/climb.md), [Gymnastics](../skill/exploration/gymnastics.md), or [Swim](../skill/exploration/swim.md) skills when you can use all your arms in the attempt.
 
 ##### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
@@ -1874,8 +1874,8 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
-- **12-16:** 5 + R, I, or P damage; push 1
-- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../condition/prone.md)
+- **12-16:** 5 + R, I, or P damage; [push](../movement/forced-movement.md) 1
+- **17+:** 7 + R, I, or P damage; [push](../movement/forced-movement.md) 2; M < STRONG, [prone](../condition/prone.md)
 
 ###### Psionic Bolt {data-scc="mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt"}
 
@@ -1887,9 +1887,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
-- **≤11:** 2 + R, I, or P psychic damage; slide 1
-- **12-16:** 5 + R, I, or P psychic damage; slide 2
-- **17+:** 7 + R, I, or P psychic damage; slide 3
+- **≤11:** 2 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 1
+- **12-16:** 5 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 2
+- **17+:** 7 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 3
 
 ###### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
 

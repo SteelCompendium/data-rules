@@ -21,8 +21,8 @@ source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
 tier1: 4 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
-tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 1
-tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 2
+tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 1
+tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 2
 type: ability
 ---
 
@@ -31,8 +31,8 @@ distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
       tier1: 4 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
-      tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 1
-      tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 2
+      tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 1
+      tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 2
 feature_type: ability
 flavor: Your opponent staggers. They cannot ignore you.
 keywords:
@@ -57,8 +57,8 @@ metadata:
     subtype: signature
     target: One creature or object
     tier1: 4 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
-    tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 1
-    tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 2
+    tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 1
+    tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 2
     type: ability
 name: Kinetic Strike
 target: One creature or object

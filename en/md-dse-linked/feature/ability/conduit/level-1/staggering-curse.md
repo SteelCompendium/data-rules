@@ -19,9 +19,9 @@ scc: mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
-tier1: 3 + I holy damage; slide 1
-tier2: 5 + I holy damage; slide 2
-tier3: 8 + I holy damage; slide 3
+tier1: 3 + I holy damage; [slide](../../../../movement/forced-movement.md) 1
+tier2: 5 + I holy damage; [slide](../../../../movement/forced-movement.md) 2
+tier3: 8 + I holy damage; [slide](../../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -29,9 +29,9 @@ type: ability
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
-      tier1: 3 + I holy damage; slide 1
-      tier2: 5 + I holy damage; slide 2
-      tier3: 8 + I holy damage; slide 3
+      tier1: 3 + I holy damage; [slide](../../../../movement/forced-movement.md) 1
+      tier2: 5 + I holy damage; [slide](../../../../movement/forced-movement.md) 2
+      tier3: 8 + I holy damage; [slide](../../../../movement/forced-movement.md) 3
 feature_type: ability
 flavor: A blast of judgment disorients your foe.
 keywords:
@@ -53,9 +53,9 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse
     subtype: signature
     target: One creature or object
-    tier1: 3 + I holy damage; slide 1
-    tier2: 5 + I holy damage; slide 2
-    tier3: 8 + I holy damage; slide 3
+    tier1: 3 + I holy damage; [slide](../../../../movement/forced-movement.md) 1
+    tier2: 5 + I holy damage; [slide](../../../../movement/forced-movement.md) 2
+    tier3: 8 + I holy damage; [slide](../../../../movement/forced-movement.md) 3
     type: ability
 name: Staggering Curse
 target: One creature or object

@@ -3,7 +3,7 @@ flavor: Air for movement. Earth for permanence. Fire for destruction. Water for 
 name: Elementalist
 scc: mcdm.heroes.v1/class/elementalist
 skills:
-    - 'You gain the Magic skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
+    - 'You gain the Magic skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any three skills from the [crafting](../skill/crafting/crafting.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
 type: class
 ---
 
@@ -36,7 +36,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
+**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any three skills from the [crafting](../skill/crafting/crafting.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
 ##### Elementalist Advancement Table
 
@@ -338,11 +338,11 @@ You weave a shield of all the elements around yourself, channeling their full pr
 
 #### Ward of Nature's Affection {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-natures-affection"}
 
-The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../rule/character/reason.md) score deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to slide that creature up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
+The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../rule/character/reason.md) score deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to [slide](../movement/forced-movement.md) that creature up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 #### Ward of Surprising Reactivity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-surprising-reactivity"}
 
-You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to push that creature up to a number of squares equal to twice your [Reason](../rule/character/reason.md) score.
+You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to [push](../movement/forced-movement.md) that creature up to a number of squares equal to twice your [Reason](../rule/character/reason.md) score.
 
 ### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
@@ -416,7 +416,7 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 - **12-16:** 5 + R damage
 - **17+:** 7 + R damage
 
-**Effect:** You slide one creature within 10 squares of the target up to 2 squares.
+**Effect:** You [slide](../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
 
 ##### Meteoric Introduction {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/meteoric-introduction"}
 
@@ -429,9 +429,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
-- **≤11:** 3 + R damage; push 2
-- **12-16:** 5 + R damage; push 3
-- **17+:** 8 + R damage; push 4
+- **≤11:** 3 + R damage; [push](../movement/forced-movement.md) 2
+- **12-16:** 5 + R damage; [push](../movement/forced-movement.md) 3
+- **17+:** 8 + R damage; [push](../movement/forced-movement.md) 4
 
 ##### Ray of Agonizing Self-Reflection {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-reflection"}
 
@@ -476,9 +476,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
-- **≤11:** 2 + R fire damage; push 2
-- **12-16:** 5 + R fire damage; push 3
-- **17+:** 7 + R fire damage; push 4
+- **≤11:** 2 + R fire damage; [push](../movement/forced-movement.md) 2
+- **12-16:** 5 + R fire damage; [push](../movement/forced-movement.md) 3
+- **17+:** 7 + R fire damage; [push](../movement/forced-movement.md) 4
 
 #### Heroic Abilities
 
@@ -941,7 +941,7 @@ At the end of each of your [turns](../rule/combat/turn.md), each ally in the are
 
 #### Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
-At the end of each of your [turns](../rule/combat/turn.md), you can push each enemy in the area up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
+At the end of each of your [turns](../rule/combat/turn.md), you can [push](../movement/forced-movement.md) each enemy in the area up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 #### Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 
@@ -1117,7 +1117,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **Effect:** Until the start of your next [turn](../rule/combat/turn.md), the target has the following benefits:
 
-- Their [size](../rule/character/size.md) and [stability](../rule/character/stability.md) increase by 2, with any [size](../rule/character/size.md) 1 target becoming [size](../rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](../rule/character/stability.md). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../condition/restrained.md) until the effect ends.
+- Their [size](../rule/character/size.md) and [stability](../rule/character/stability.md) increase by 2, with any [size](../rule/character/size.md) 1 target becoming [size](../rule/character/size.md) 3. Each creature who is within the target's new space [slides](../movement/forced-movement.md) to the nearest unoccupied space, ignoring [stability](../rule/character/stability.md). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
 - Their [strikes](../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../rule/character/reason.md) score.
 - When the target force moves a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md).
@@ -1167,7 +1167,7 @@ Each of your [characteristic](../rule/character/characteristic.md) scores increa
 
 Your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's [aura](../rule/combat/aura.md) have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Handle Animals](../skill/handle-animals.md) skill. If you have 5 or more [Victories](../rule/resource/victories.md), the [bonus](../rule/dice/bonuses-and-penalties.md) to patience increases to 2 and [tests](../rule/test/test.md) that use the [Handle Animals](../skill/handle-animals.md) skill have a double [edge](../rule/dice/edge.md).
+Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's [aura](../rule/combat/aura.md) have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Handle Animals](../skill/interpersonal/handle-animals.md) skill. If you have 5 or more [Victories](../rule/resource/victories.md), the [bonus](../rule/dice/bonuses-and-penalties.md) to patience increases to 2 and [tests](../rule/test/test.md) that use the [Handle Animals](../skill/interpersonal/handle-animals.md) skill have a double [edge](../rule/dice/edge.md).
 
 ### Surging Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/surging-essence"}
 
@@ -1200,7 +1200,7 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 #### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star"}
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your [turns](../rule/combat/turn.md), you target one creature or object within [distance](../rule/combat/distance.md) of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their [stability](../rule/character/stability.md) reduces this [forced movement](../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
+You warp gravity around your heavenly body and can [pull](../movement/forced-movement.md) even the sturdiest titans toward your core. At the end of each of your [turns](../rule/combat/turn.md), you target one creature or object within [distance](../rule/combat/distance.md) of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical [pull](../movement/forced-movement.md) that target up to 5 squares. If their [stability](../rule/character/stability.md) reduces this [forced movement](../movement/forced-movement.md), they are [pulled](../movement/forced-movement.md) a minimum of 2 squares. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
 
 Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the [aura](../rule/combat/aura.md), enemies and objects have their [stability](../rule/character/stability.md) reduced by an amount equal to your level.
 
@@ -1269,9 +1269,9 @@ The source starts an encounter at full [Stamina](../rule/health/stamina.md), but
 >>
 >> **[Power Roll](../rule/dice/power-roll.md) + 3:**
 >>
->> - **≤11:** 5 damage; push 3
->> - **12-16:** 9 damage; push 4
->> - **17+:** 12 damage; push 5
+>> - **≤11:** 5 damage; [push](../movement/forced-movement.md) 3
+>> - **12-16:** 9 damage; [push](../movement/forced-movement.md) 4
+>> - **17+:** 12 damage; [push](../movement/forced-movement.md) 5
 
 ### 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/11-essence-ability"}
 
@@ -1316,7 +1316,7 @@ Each enemy who ends their [turn](../rule/combat/turn.md) within 3 squares of the
 |-------------------------------|----------------:|
 | **📏 [Ranged](../rule/combat/ranged.md) 10**              |  **🎯 Special** |
 
-**Effect:** You create a [size](../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a [winded](../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a [size](../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical [pulls](../movement/forced-movement.md) 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a [winded](../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 #### World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 

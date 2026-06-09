@@ -3,7 +3,7 @@ flavor: Strategist. Defender. Leader. With weapon in hand, you lead allies into 
 name: Tactician
 scc: mcdm.heroes.v1/class/tactician
 skills:
-    - 'You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
+    - 'You gain the [Lead](../skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../skill/exploration/exploration.md). (*Quick Build:* Lead, Monsters, Strategy.)'
 type: class
 ---
 
@@ -35,7 +35,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **[Recoveries](../rule/health/recoveries.md):** 10
 
-**Skills:** You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
+**Skills:** You gain the [Lead](../skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../skill/exploration/exploration.md). (*Quick Build:* Lead, Monsters, Strategy.)
 
 ##### Tactician Advancement Table
 
@@ -58,11 +58,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 
 ### Tactical Doctrine {data-scc="mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine"}
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the [Intimidate](../skill/intimidate.md) skill.)
+Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the [Intimidate](../skill/interpersonal/intimidate.md) skill.)
 
-- **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
-- **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking [victory](../rule/resource/victories.md) by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
-- **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek [victory](../rule/resource/victories.md) through sheer force of will and personality. You gain a skill from the interpersonal skill group.
+- **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the [intrigue skill group](../skill/intrigue/intrigue.md).
+- **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking [victory](../rule/resource/victories.md) by thinking steps ahead of your opponents. You gain a skill from the [lore skill group](../skill/lore/lore.md).
+- **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek [victory](../rule/resource/victories.md) through sheer force of will and personality. You gain a skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md).
 
 Your [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) is your [subclass](../rule/general/subclass.md), and your choice of doctrine determines many of the features you'll gain as you gain new levels.
 
@@ -106,9 +106,9 @@ You command any room you walk into. While you are present during a negotiation, 
 
 #### Covert Operations {data-scc="mcdm.heroes.v1/feature.tactician.level-1/covert-operations"}
 
-While in your presence or working according to your plans, each of your allies gains an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) using any skill from the intrigue skill group. Additionally, you can use the [Lead](../skill/lead.md) skill to assist another creature with any [test](../rule/test/test.md) made using a skill from the intrigue group.
+While in your presence or working according to your plans, each of your allies gains an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) using any skill from the [intrigue skill group](../skill/intrigue/intrigue.md). Additionally, you can use the [Lead](../skill/interpersonal/lead.md) skill to assist another creature with any [test](../rule/test/test.md) made using a skill from the [intrigue group](../skill/intrigue/intrigue.md).
 
-At the Director's discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
+At the Director's discretion, you and your allies can use skills from the [intrigue skill group](../skill/intrigue/intrigue.md) to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
 
 #### Studied Commander {data-scc="mcdm.heroes.v1/feature.tactician.level-1/studied-commander"}
 
@@ -527,7 +527,7 @@ As a 3rd-level [tactician](tactician.md), you gain the following features.
 
 ### Out of Position {data-scc="mcdm.heroes.v1/feature.tactician.level-3/out-of-position"}
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free [triggered action](../rule/combat/triggered-action.md) to use your Mark ability against one enemy you have [line of effect](../rule/combat/line-of-effect.md) to, even if you are [surprised](../rule/combat/surprised.md). You can then slide the marked target up to 3 squares, ignoring [stability](../rule/character/stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a [condition](../rule/combat/condition.md) or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free [triggered action](../rule/combat/triggered-action.md) to use your Mark ability against one enemy you have [line of effect](../rule/combat/line-of-effect.md) to, even if you are [surprised](../rule/combat/surprised.md). You can then [slide](../movement/forced-movement.md) the marked target up to 3 squares, ignoring [stability](../rule/character/stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a [condition](../rule/combat/condition.md) or other negative effect.
 
 ### 7-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-3/7-focus-ability"}
 
@@ -542,7 +542,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), the first time on a [turn](../rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../feature/common/main-actions/charge.md) main action to target a creature marked by you can use a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) or a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) [heroic ability](../rule/general/heroic-ability.md) instead of a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), the first time on a [turn](../rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can [push](../movement/forced-movement.md) the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../feature/common/main-actions/charge.md) main action to target a creature marked by you can use a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) or a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) [heroic ability](../rule/general/heroic-ability.md) instead of a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Hit 'Em Hard! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/hit-em-hard"}
 
@@ -739,9 +739,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
-- **≤11:** 6 + M damage; slide 1
-- **12-16:** 9 + M damage; slide 3
-- **17+:** 13 + M damage; slide 5
+- **≤11:** 6 + M damage; [slide](../movement/forced-movement.md) 1
+- **12-16:** 9 + M damage; [slide](../movement/forced-movement.md) 3
+- **17+:** 13 + M damage; [slide](../movement/forced-movement.md) 5
 
 **Effect:** If a target is [force moved](../movement/forced-movement.md) into another creature, they must make a [free strike](../feature/common/main-actions/free-strike.md) against that creature.
 
@@ -847,15 +847,15 @@ Your [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) gran
 
 #### Asymmetric Warfare {data-scc="mcdm.heroes.v1/feature.tactician.level-7/asymmetric-warfare"}
 
-You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
+You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [intrigue skill group](../skill/intrigue/intrigue.md). Additionally, you can use skills from the [intrigue skill group](../skill/intrigue/intrigue.md) to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
 
 #### Grand Strategy {data-scc="mcdm.heroes.v1/feature.tactician.level-7/grand-strategy"}
 
-You have grown your skills in strategy, wielding intricate battlefield tactics and plans. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the lore skill group. Additionally, when you take a [respite](../rule/resource/respite.md), you can make a [project roll](../rule/downtime/project-roll.md) for a [research project](../rule/downtime/research-project.md) in addition to undertaking another [respite](../rule/resource/respite.md) activity.
+You have grown your skills in strategy, wielding intricate battlefield tactics and plans. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [lore skill group](../skill/lore/lore.md). Additionally, when you take a [respite](../rule/resource/respite.md), you can make a [project roll](../rule/downtime/project-roll.md) for a [research project](../rule/downtime/research-project.md) in addition to undertaking another [respite](../rule/resource/respite.md) activity.
 
 #### Shock and Awe {data-scc="mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe"}
 
-You have expanded your leadership skills, strengthening your [followers](../rule/general/follower.md)' morale and providing logistical support. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the interpersonal skill group. Additionally, you can convince a group of people to help you with a [crafting project](../rule/downtime/crafting-project.md) during a [respite](../rule/resource/respite.md). If these people are available when you take a [respite](../rule/resource/respite.md), you can make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) in addition to undertaking another [respite](../rule/resource/respite.md) activity.
+You have expanded your leadership skills, strengthening your [followers](../rule/general/follower.md)' morale and providing logistical support. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md). Additionally, you can convince a group of people to help you with a [crafting project](../rule/downtime/crafting-project.md) during a [respite](../rule/resource/respite.md). If these people are available when you take a [respite](../rule/resource/respite.md), you can make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) in addition to undertaking another [respite](../rule/resource/respite.md) activity.
 
 ## 8th-Level Features
 
@@ -893,7 +893,7 @@ You have trained your squad to coordinate their movements to maximize combat imp
 
 You have trained your squad to maximize impact and break enemy lines when they attack.
 
-**Mark Benefit:** When you or any ally makes a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to have the character making the [strike](../rule/combat/strike.md) push the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score. That character can then [shift](../movement/shifting.md) up to a number of squares equal to your [Reason](../rule/character/reason.md) score, ending this [shift](../movement/shifting.md) [adjacent](../rule/combat/adjacent.md) to the target.
+**Mark Benefit:** When you or any ally makes a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to have the character making the [strike](../rule/combat/strike.md) [push](../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score. That character can then [shift](../movement/shifting.md) up to a number of squares equal to your [Reason](../rule/character/reason.md) score, ending this [shift](../movement/shifting.md) [adjacent](../rule/combat/adjacent.md) to the target.
 
 ### 11-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-8/11-focus-ability"}
 
@@ -1042,7 +1042,7 @@ Choose one of the following abilities.
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** If you use this ability as part of the [Charge](../feature/common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+**Effect:** If you use this ability as part of the [Charge](../feature/common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can [slide](../movement/forced-movement.md) that creature 1 square out of the path of your charge.
 
 ##### That One Is Mine! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine"}
 

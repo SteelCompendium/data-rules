@@ -15,8 +15,8 @@ scc: mcdm.heroes.v1/feature.ability.null.level-1/kinetic-strike
 subtype: signature
 target: One creature or object
 tier1: 4 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
-tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 1
-tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 2
+tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 1
+tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 2
 type: ability
 ---
 
@@ -30,5 +30,5 @@ type: ability
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
-- **12-16:** 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 1
-- **17+:** 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), slide 2
+- **12-16:** 5 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 1
+- **17+:** 6 + A damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)), [slide](../../../../movement/forced-movement.md) 2

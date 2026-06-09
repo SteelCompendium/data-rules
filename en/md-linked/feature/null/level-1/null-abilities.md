@@ -27,7 +27,7 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 - **12-16:** 4 damage
 - **17+:** 5 damage
 
-**Effect:** You can slide one [adjacent](../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score.
+**Effect:** You can [slide](../../../movement/forced-movement.md) one [adjacent](../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score.
 
 ### Faster Than the Eye {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/faster-than-the-eye"}
 
@@ -90,8 +90,8 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md))
-- **12-16:** 5 + A damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md)), slide 1
-- **17+:** 6 + A damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md)), slide 2
+- **12-16:** 5 + A damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md)), [slide](../../../movement/forced-movement.md) 1
+- **17+:** 6 + A damage; [taunted](../../../condition/taunted.md) ([EoT](../../../rule/combat/end-of-turn.md)), [slide](../../../movement/forced-movement.md) 2
 
 ### Magnetic Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/magnetic-strike"}
 
@@ -104,9 +104,9 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 5 + A psychic damage; vertical pull 1
-- **12-16:** 8 + A psychic damage; vertical pull 2
-- **17+:** 11 + A psychic damage; vertical pull 3
+- **≤11:** 5 + A psychic damage; vertical [pull](../../../movement/forced-movement.md) 1
+- **12-16:** 8 + A psychic damage; vertical [pull](../../../movement/forced-movement.md) 2
+- **17+:** 11 + A psychic damage; vertical [pull](../../../movement/forced-movement.md) 3
 
 ### Phase Inversion Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/phase-inversion-strike"}
 
@@ -119,11 +119,11 @@ Choose two [signature abilities](../../../rule/combat/signature-ability.md) from
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 4 + A damage; push 2
-- **12-16:** 6 + A damage; push 4
-- **17+:** 8 + A damage; push 6
+- **≤11:** 4 + A damage; [push](../../../movement/forced-movement.md) 2
+- **12-16:** 6 + A damage; [push](../../../movement/forced-movement.md) 4
+- **17+:** 8 + A damage; [push](../../../movement/forced-movement.md) 6
 
-**Effect:** Before the push is resolved, you [teleport](../../../movement/teleport.md) the target to a square [adjacent](../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../movement/teleport.md)ed this way, you can't push them.
+**Effect:** Before the [push](../../../movement/forced-movement.md) is resolved, you [teleport](../../../movement/teleport.md) the target to a square [adjacent](../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../movement/teleport.md)ed this way, you can't [push](../../../movement/forced-movement.md) them.
 
 ### Pressure Points {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/pressure-points"}
 
@@ -240,11 +240,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** Push 3
-- **12-16:** Push 5
-- **17+:** Push 7
+- **≤11:** [Push](../../../movement/forced-movement.md) 3
+- **12-16:** [Push](../../../movement/forced-movement.md) 5
+- **17+:** [Push](../../../movement/forced-movement.md) 7
 
-**Effect:** An object you target must be your [size](../../../rule/character/size.md) or smaller. You gain an [edge](../../../rule/dice/edge.md) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
+**Effect:** An object you target must be your [size](../../../rule/character/size.md) or smaller. You gain an [edge](../../../rule/dice/edge.md) on this ability. Additionally, for each square you [push](../../../movement/forced-movement.md) the target, they take 1 psychic damage.
 
 ### Phase Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/phase-strike"}
 

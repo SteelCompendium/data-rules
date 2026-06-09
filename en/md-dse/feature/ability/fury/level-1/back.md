@@ -22,8 +22,8 @@ scc: mcdm.heroes.v1/feature.ability.fury.level-1/back
 source: mcdm.heroes.v1
 target: Each enemy in the area
 tier1: 5 damage
-tier2: 8 damage; push 1
-tier3: 11 damage; push 3
+tier2: 8 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+tier3: 11 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3
 type: ability
 ---
 
@@ -33,8 +33,8 @@ distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
       tier1: 5 damage
-      tier2: 8 damage; push 1
-      tier3: 11 damage; push 3
+      tier2: 8 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier3: 11 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3
 feature_type: ability
 flavor: You hew about you with your mighty weapon, hurling enemies backward.
 keywords:
@@ -57,8 +57,8 @@ metadata:
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/back
     target: Each enemy in the area
     tier1: 5 damage
-    tier2: 8 damage; push 1
-    tier3: 11 damage; push 3
+    tier2: 8 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier3: 11 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3
     type: ability
 name: Back!
 target: Each enemy in the area

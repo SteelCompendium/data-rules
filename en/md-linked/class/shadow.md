@@ -3,7 +3,7 @@ flavor: Subtlety is your art, the tip of the blade your brush. You studied at a 
 name: Shadow
 scc: mcdm.heroes.v1/class/shadow
 skills:
-    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
+    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../skill/exploration/exploration.md), [interpersonal](../skill/interpersonal/interpersonal.md), or [intrigue](../skill/intrigue/intrigue.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
 type: class
 ---
 
@@ -34,7 +34,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
+**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../skill/exploration/exploration.md), [interpersonal](../skill/interpersonal/interpersonal.md), or [intrigue](../skill/intrigue/intrigue.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
 ##### Shadow Advancement Table
 
@@ -61,9 +61,9 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 
 You graduated from a [shadow college](../feature/shadow/level-1/shadow-college.md) chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](shadow.md). Its graduates are unmatched in mobility, using sorcery to [teleport](../movement/teleport.md) around the battlefield, manipulate shadows, and summon darkness. You have the [Magic](../skill/magic.md) skill.
-- College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the [Alchemy](../skill/alchemy.md) skill.
-- College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the [Lie](../skill/lie.md) skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](shadow.md). Its graduates are unmatched in mobility, using sorcery to [teleport](../movement/teleport.md) around the battlefield, manipulate shadows, and summon darkness. You have the [Magic](../skill/lore/magic.md) skill.
+- College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the [Alchemy](../skill/crafting/alchemy.md) skill.
+- College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the [Lie](../skill/interpersonal/lie.md) skill.
 
 Your [shadow college](../feature/shadow/level-1/shadow-college.md) is your [subclass](../rule/general/subclass.md), and your choice of college determines many of the features you'll gain as you gain new levels.
 
@@ -327,11 +327,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
-- **≤11:** 4 + A damage; slide 2
-- **12-16:** 6 + A damage; slide 3
-- **17+:** 10 + A damage; slide 5
+- **≤11:** 4 + A damage; [slide](../movement/forced-movement.md) 2
+- **12-16:** 6 + A damage; [slide](../movement/forced-movement.md) 3
+- **17+:** 10 + A damage; [slide](../movement/forced-movement.md) 5
 
-**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves when you slide them.
+**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves when you [slide](../movement/forced-movement.md) them.
 
 ##### Eviscerate {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate"}
 
@@ -565,9 +565,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
-- **≤11:** Slide 4
-- **12-16:** Slide 5
-- **17+:** Slide 7
+- **≤11:** [Slide](../movement/forced-movement.md) 4
+- **12-16:** [Slide](../movement/forced-movement.md) 5
+- **17+:** [Slide](../movement/forced-movement.md) 7
 
 **Effect:** This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md). Instead, the [forced movement](../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../rule/character/intuition.md) score.
 
@@ -847,9 +847,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
-- **≤11:** 3 + A damage; vertical push 5
-- **12-16:** 6 + A damage; vertical push 10
-- **17+:** 9 + A damage; vertical push 15
+- **≤11:** 3 + A damage; vertical [push](../movement/forced-movement.md) 5
+- **12-16:** 6 + A damage; vertical [push](../movement/forced-movement.md) 10
+- **17+:** 9 + A damage; vertical [push](../movement/forced-movement.md) 15
 
 **Effect:** A creature [force moved](../movement/forced-movement.md) by this ability must be moved straight upward.
 
@@ -1111,11 +1111,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
-- **≤11:** 13 + A corruption damage; push 3
-- **12-16:** 18 + A corruption damage; push 5
-- **17+:** 25 + A corruption damage; push 7
+- **≤11:** 13 + A corruption damage; [push](../movement/forced-movement.md) 3
+- **12-16:** 18 + A corruption damage; [push](../movement/forced-movement.md) 5
+- **17+:** 25 + A corruption damage; [push](../movement/forced-movement.md) 7
 
-**Effect:** On a [critical hit](../rule/combat/critical-hit.md), the target is [grabbed](../condition/grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
+**Effect:** On a [critical hit](../rule/combat/critical-hit.md), the target is [grabbed](../condition/grabbed.md) by the demon and [pulled](../movement/forced-movement.md) through the portal before it closes, never to be seen again.
 
 #### 9th-Level Caustic Alchemy Abilities
 
@@ -1149,9 +1149,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
-- **≤11:** 4 + A fire damage; vertical push 8
-- **12-16:** 7 + A fire damage; vertical push 10
-- **17+:** 11 + A fire damage; vertical push 15
+- **≤11:** 4 + A fire damage; vertical [push](../movement/forced-movement.md) 8
+- **12-16:** 7 + A fire damage; vertical [push](../movement/forced-movement.md) 10
+- **17+:** 11 + A fire damage; vertical [push](../movement/forced-movement.md) 15
 
 **Effect:** The ground beneath a 3-[cube](../rule/combat/cube.md) area around the target's starting position is [difficult terrain](../movement/difficult-terrain.md).
 

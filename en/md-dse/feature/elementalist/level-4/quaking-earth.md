@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: At the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn), you can push each enemy in the area up to a number of squares equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
+    - effect: At the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn), you can [push](scc:mcdm.heroes.v1/movement/forced-movement) each enemy in the area up to a number of squares equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
 feature_type: feature
 metadata:
     class: elementalist

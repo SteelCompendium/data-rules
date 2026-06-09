@@ -55,7 +55,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------------------:|
 | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 
-**Effect:** Make a [power roll](../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../rule/character/size.md) 1L or smaller.
+**Effect:** Make a [power roll](../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical [pushed](../../../movement/forced-movement.md) 6 squares. You can target only objects of [size](../../../rule/character/size.md) 1L or smaller.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
@@ -76,9 +76,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** 6 damage; push 7
-- **12-16:** 9 damage; push 10
-- **17+:** 13 damage; push 15
+- **≤11:** 6 damage; [push](../../../movement/forced-movement.md) 7
+- **12-16:** 9 damage; [push](../../../movement/forced-movement.md) 10
+- **17+:** 13 damage; [push](../../../movement/forced-movement.md) 15
 
 **Effect:** On a [critical hit](../../../rule/combat/critical-hit.md), the size of the area increases by 3, and this ability deals an extra 10 damage.
 

@@ -1,6 +1,0 @@
-{
-  "content": "Use mundane first aid.",
-  "name": "Heal",
-  "scc": "mcdm.heroes.v1/skill/heal",
-  "type": "skill"
-}

@@ -7,7 +7,7 @@ item_name: Censor
 name: Censor
 scc: mcdm.heroes.v1/class/censor
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)'
+    - 'Choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Intimidate](../skill/interpersonal/intimidate.md), [Religion](../skill/lore/religion.md).)'
 source: mcdm.heroes.v1
 type: class
 ---
@@ -44,7 +44,7 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 **[Recoveries](../rule/health/recoveries.md):** 12
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)
+**Skills:** Choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* [Intimidate](../skill/interpersonal/intimidate.md), [Religion](../skill/lore/religion.md).)
 
 ###### Censor Advancement Table
 

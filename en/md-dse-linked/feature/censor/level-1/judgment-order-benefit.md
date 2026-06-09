@@ -20,7 +20,7 @@ effects:
 
         - **Exorcist:** You can [teleport](../../../movement/teleport.md) up to a number of squares equal to twice your [Presence](../../../rule/character/presence.md) score. This movement must take you closer to the judged creature. You do not need [line of effect](../../../rule/combat/line-of-effect.md) to your destination.
         - **Oracle:** You can deal holy damage equal to twice your [Presence](../../../rule/character/presence.md) score to the judged creature.
-        - **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your [Presence](../../../rule/character/presence.md) score.
+        - **Paragon:** You can vertical [pull](../../../movement/forced-movement.md) the judged creature up to a number of squares equal to twice your [Presence](../../../rule/character/presence.md) score.
 feature_type: feature
 metadata:
     class: censor

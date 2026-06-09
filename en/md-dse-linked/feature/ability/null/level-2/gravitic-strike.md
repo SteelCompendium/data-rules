@@ -22,9 +22,9 @@ power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike
 source: mcdm.heroes.v1
 target: One creature
-tier1: 8 + A psychic damage; vertical pull 3
-tier2: 12 + A psychic damage; vertical pull 5
-tier3: 16 + A psychic damage; vertical pull 7
+tier1: 8 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 3
+tier2: 12 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 5
+tier3: 16 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -33,9 +33,9 @@ cost: 5 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 3'
 effects:
     - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
-      tier1: 8 + A psychic damage; vertical pull 3
-      tier2: 12 + A psychic damage; vertical pull 5
-      tier3: 16 + A psychic damage; vertical pull 7
+      tier1: 8 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 3
+      tier2: 12 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 5
+      tier3: 16 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 7
 feature_type: ability
 flavor: Your fist emanates gravitic force that pulls a distant enemy closer.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike
     target: One creature
-    tier1: 8 + A psychic damage; vertical pull 3
-    tier2: 12 + A psychic damage; vertical pull 5
-    tier3: 16 + A psychic damage; vertical pull 7
+    tier1: 8 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 3
+    tier2: 12 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 5
+    tier3: 16 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 7
     type: ability
 name: Gravitic Strike
 target: One creature

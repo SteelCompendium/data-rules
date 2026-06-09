@@ -40,19 +40,19 @@ You wear light armor and wield a medium weapon.
 **[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 5 + M or A damage
-- **12-16:** 7 + M or A damage; push 1
-- **17+:** 10 + M or A damage; push 2
+- **12-16:** 7 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+- **17+:** 10 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
 
-**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you push them.
+**Effect:** You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you [push](scc:mcdm.heroes.v1/movement/forced-movement) them.
 
 ```ds-feature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you push them.
+    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you [push](scc:mcdm.heroes.v1/movement/forced-movement) them.
     - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
       tier1: 5 + M or A damage
-      tier2: 7 + M or A damage; push 1
-      tier3: 10 + M or A damage; push 2
+      tier2: 7 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+      tier3: 10 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
 feature_type: ability
 flavor: All combat is a dance—and you'll be the one leading.
 keywords:
@@ -62,7 +62,7 @@ keywords:
 metadata:
     action_type: Main action
     distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you push them.
+    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you [push](scc:mcdm.heroes.v1/movement/forced-movement) them.
     flavor: All combat is a dance—and you'll be the one leading.
     keywords:
         - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
@@ -73,8 +73,8 @@ metadata:
     subtype: signature
     target: One creature
     tier1: 5 + M or A damage
-    tier2: 7 + M or A damage; push 1
-    tier3: 10 + M or A damage; push 2
+    tier2: 7 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1
+    tier3: 10 + M or A damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
     type: ability
 name: Fancy Footwork
 target: One creature

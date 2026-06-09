@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 5 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
-effect: Each enemy [frightened](../../../../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../../rule/character/presence.md) score.
+effect: Each enemy [frightened](../../../../condition/frightened.md) this way is [pushed](../../../../movement/forced-movement.md) up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../../rule/character/presence.md) score.
 flavor: You attack a foe and your enemies behold a vision of the true nature of your resolve.
 keywords:
     - Magic
@@ -35,4 +35,4 @@ type: ability
 - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../../../condition/frightened.md) of you (save ends)
 - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../../../../condition/frightened.md) of you (save ends)
 
-**Effect:** Each enemy [frightened](../../../../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../../rule/character/presence.md) score.
+**Effect:** Each enemy [frightened](../../../../condition/frightened.md) this way is [pushed](../../../../movement/forced-movement.md) up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../../rule/character/presence.md) score.

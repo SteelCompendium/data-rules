@@ -6,7 +6,7 @@ scc: mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature
 type: feature
 ---
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../class/conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../censor/level-1/revitalizing-ritual.md) and the [Heal](../../../skill/heal.md) skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../class/conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../censor/level-1/revitalizing-ritual.md) and the [Heal](../../../skill/exploration/heal.md) skill from the Life domain.)
 
 ### 1st-Level Conduit Domain Features Table
 
@@ -41,9 +41,9 @@ Each time you finish a [respite](../../../rule/resource/respite.md), you can dec
 
 **Clear:** You and your allies gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the Hide skill. **Overcast:** You and your allies gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the [Endurance](../../../skill/endurance.md) skill.
+**Foggy:** You and your allies gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the Hide skill. **Overcast:** You and your allies gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the [Endurance](../../../skill/exploration/endurance.md) skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the [Track](../../../skill/track.md) skill.
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the [Track](../../../skill/intrigue/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
@@ -98,7 +98,7 @@ Each time you finish a [respite](../../../rule/resource/respite.md), you can cho
 
 ## Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a [test](../../../rule/test/test.md) that uses a skill you have from the intrigue skill group, you can use [Intuition](../../../rule/character/intuition.md) on the [test](../../../rule/test/test.md) instead of another [characteristic](../../../rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../../../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../../../skill/intrigue/intrigue.md), you can use [Intuition](../../../rule/character/intuition.md) on the [test](../../../rule/test/test.md) instead of another [characteristic](../../../rule/character/characteristic.md).
 
 ## Oracular Visions {data-scc="mcdm.heroes.v1/feature.conduit.level-1/oracular-visions"}
 

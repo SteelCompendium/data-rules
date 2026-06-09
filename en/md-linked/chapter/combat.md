@@ -184,7 +184,7 @@ You can't gain the benefit of [high ground](../movement/high-ground.md) (see bel
 
 ###### Non-Burrowing Creatures
 
-If you are on the ground and [adjacent](../rule/combat/adjacent.md) to a creature who is beneath the ground while [burrowing](../movement/burrow.md), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and [adjacent](../rule/combat/adjacent.md) to a creature who is beneath the ground while [burrowing](../movement/burrow.md), you can use a maneuver to [pull](../movement/forced-movement.md) that creature up 1 square out of the ground, provided the creature is willing.
 
 If a creature who can't [burrow](../movement/burrow.md) wants to dig into the ground, they can use the following ability provided their [speed](../rule/character/speed.md) is 2 or more.
 
@@ -463,7 +463,7 @@ Using the [Hide](../feature/common/maneuvers/hide.md) maneuver, a creature attem
 
 #### Knockback {data-scc="mcdm.heroes.v1/feature.common.maneuvers/knockback"}
 
-A creature wanting to push an [adjacent](../rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
+A creature wanting to [push](../movement/forced-movement.md) an [adjacent](../rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
 
 ##### Knockback {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/knockback"}
 
@@ -474,9 +474,9 @@ A creature wanting to push an [adjacent](../rule/combat/adjacent.md) creature aw
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
-- **≤11:** Push 1
-- **12-16:** Push 2
-- **17+:** Push 3
+- **≤11:** [Push](../movement/forced-movement.md) 1
+- **12-16:** [Push](../movement/forced-movement.md) 2
+- **17+:** [Push](../movement/forced-movement.md) 3
 
 **Effect:** You can usually target only creatures of your [size](../rule/character/size.md) or smaller. If your [Might](../rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../rule/character/size.md) equal to or less than your [Might](../rule/character/might.md) score.
 

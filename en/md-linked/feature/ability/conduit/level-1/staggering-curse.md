@@ -13,9 +13,9 @@ power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse
 subtype: signature
 target: One creature or object
-tier1: 3 + I holy damage; slide 1
-tier2: 5 + I holy damage; slide 2
-tier3: 8 + I holy damage; slide 3
+tier1: 3 + I holy damage; [slide](../../../../movement/forced-movement.md) 1
+tier2: 5 + I holy damage; [slide](../../../../movement/forced-movement.md) 2
+tier3: 8 + I holy damage; [slide](../../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -28,6 +28,6 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; slide 1
-- **12-16:** 5 + I holy damage; slide 2
-- **17+:** 8 + I holy damage; slide 3
+- **≤11:** 3 + I holy damage; [slide](../../../../movement/forced-movement.md) 1
+- **12-16:** 5 + I holy damage; [slide](../../../../movement/forced-movement.md) 2
+- **17+:** 8 + I holy damage; [slide](../../../../movement/forced-movement.md) 3

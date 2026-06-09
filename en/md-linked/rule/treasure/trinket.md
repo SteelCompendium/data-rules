@@ -112,7 +112,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target [adjacent](../combat/adjacent.md) to you, or pull yourself [adjacent](../combat/adjacent.md) to the target. The divine vine stays attached to the target until it takes damage from a [strike](../combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../condition/grabbed.md), you can choose to keep the divine vine extended, [pull](../../movement/forced-movement.md) the target [adjacent](../combat/adjacent.md) to you, or [pull](../../movement/forced-movement.md) yourself [adjacent](../combat/adjacent.md) to the target. The divine vine stays attached to the target until it takes damage from a [strike](../combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
 
 ### Flameshade Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves"}
 
@@ -368,7 +368,7 @@ This section presents 3rd-[echelon](../general/echelon.md) [trinket](trinket.md)
 
 **Project Goal:** 450
 
-**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any [melee](../combat/melee.md) weapons you wield, automatically compensating for the extra weight. You gain a +2 damage [bonus](../dice/bonuses-and-penalties.md) for any weapon ability that deals [rolled damage](../damage/rolled-damage.md), and a +1 [bonus](../dice/bonuses-and-penalties.md) to the [distance](../combat/distance.md) you push any target with any weapon ability. This damage [bonus](../dice/bonuses-and-penalties.md) adds to the damage [bonus](../dice/bonuses-and-penalties.md) granted by other treasures.
+**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any [melee](../combat/melee.md) weapons you wield, automatically compensating for the extra weight. You gain a +2 damage [bonus](../dice/bonuses-and-penalties.md) for any weapon ability that deals [rolled damage](../damage/rolled-damage.md), and a +1 [bonus](../dice/bonuses-and-penalties.md) to the [distance](../combat/distance.md) you [push](../../movement/forced-movement.md) any target with any weapon ability. This damage [bonus](../dice/bonuses-and-penalties.md) adds to the damage [bonus](../dice/bonuses-and-penalties.md) granted by other treasures.
 
 ### Mask of Oversight {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/mask-of-oversight"}
 
@@ -384,7 +384,7 @@ This section presents 3rd-[echelon](../general/echelon.md) [trinket](trinket.md)
 
 **Project Goal:** 450
 
-**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../combat/surprised.md). Additionally, you have a double [edge](../dice/edge.md) on [tests](../test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../dice/bane.md) on [Presence](../character/presence.md) [tests](../test/test.md) that don't use the [Intimidate](../../skill/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
+**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../combat/surprised.md). Additionally, you have a double [edge](../dice/edge.md) on [tests](../test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../dice/bane.md) on [Presence](../character/presence.md) [tests](../test/test.md) that don't use the [Intimidate](../../skill/interpersonal/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
 
 While the eyes circle your head, you can use a maneuver to launch up to three of the eyes at one creature within 10 squares. Each eye you launch deals 5 damage to the target before it is destroyed. You can't reduce the number of eyes to fewer than two in this way. If you reduce the number of eyes to two, those eyes return to your head, and you can't use the mask again until you earn 1 or more [Victories](../resource/victories.md).
 

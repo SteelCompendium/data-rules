@@ -7,7 +7,7 @@ item_name: Troubadour
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)'
+    - 'You gain the [Read Person](../skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the [intrigue](../skill/intrigue/intrigue.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/interpersonal/read-person.md), Rumors.)'
 source: mcdm.heroes.v1
 type: class
 ---
@@ -40,7 +40,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)
+**Skills:** You gain the [Read Person](../skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the [intrigue](../skill/intrigue/intrigue.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/interpersonal/read-person.md), Rumors.)
 
 ###### Troubadour Advancement Table
 

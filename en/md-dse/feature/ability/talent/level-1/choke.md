@@ -5,7 +5,7 @@ cost: 3 Clarity
 cost_amount: "3"
 cost_resource: Clarity
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-effect: You can vertical pull the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their [stability](scc:mcdm.heroes.v1/rule.character/stability).
+effect: You can vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their [stability](scc:mcdm.heroes.v1/rule.character/stability).
 feature_type: ability
 file_basename: choke
 file_dpath: feature/ability/talent/level-1
@@ -33,7 +33,7 @@ type: ability
 cost: 3 Clarity
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: You can vertical pull the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their [stability](scc:mcdm.heroes.v1/rule.character/stability).
+    - effect: You can vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their [stability](scc:mcdm.heroes.v1/rule.character/stability).
     - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
       tier1: 3 + R damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
       tier2: 5 + R damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
@@ -50,7 +50,7 @@ metadata:
     class: talent
     cost: 3 Clarity
     distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-    effect: You can vertical pull the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their [stability](scc:mcdm.heroes.v1/rule.character/stability).
+    effect: You can vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) the target up to 2 squares. If the target is made [restrained](scc:mcdm.heroes.v1/condition/restrained) by this ability, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores their [stability](scc:mcdm.heroes.v1/rule.character/stability).
     flavor: You crush a foe in a telekinetic grip.
     keywords:
         - Psionic

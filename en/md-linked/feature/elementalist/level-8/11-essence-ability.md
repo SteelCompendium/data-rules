@@ -47,7 +47,7 @@ Each enemy who ends their [turn](../../../rule/combat/turn.md) within 3 squares 
 |-------------------------------|----------------:|
 | **📏 [Ranged](../../../rule/combat/ranged.md) 10**              |  **🎯 Special** |
 
-**Effect:** You create a [size](../../../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../../../rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../../condition/prone.md). At the end of the round, if a [winded](../../../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a [size](../../../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../../../rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical [pulls](../../../movement/forced-movement.md) 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../../condition/prone.md). At the end of the round, if a [winded](../../../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 ## World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 

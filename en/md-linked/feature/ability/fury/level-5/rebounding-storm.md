@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 9 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining [distance](../../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
+effect: When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are [pushed](../../../../movement/forced-movement.md) the remaining [distance](../../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 flavor: You knock around enemies like playthings.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
@@ -14,9 +14,9 @@ name: Rebounding Storm
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-5/rebounding-storm
 target: Two creatures or objects
-tier1: 9 damage; push 3
-tier2: 14 damage; push 5
-tier3: 19 damage; push 7
+tier1: 9 damage; [push](../../../../movement/forced-movement.md) 3
+tier2: 14 damage; [push](../../../../movement/forced-movement.md) 5
+tier3: 19 damage; [push](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -29,8 +29,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
-- **≤11:** 9 damage; push 3
-- **12-16:** 14 damage; push 5
-- **17+:** 19 damage; push 7
+- **≤11:** 9 damage; [push](../../../../movement/forced-movement.md) 3
+- **12-16:** 14 damage; [push](../../../../movement/forced-movement.md) 5
+- **17+:** 19 damage; [push](../../../../movement/forced-movement.md) 7
 
-**Effect:** When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining [distance](../../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
+**Effect:** When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are [pushed](../../../../movement/forced-movement.md) the remaining [distance](../../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.

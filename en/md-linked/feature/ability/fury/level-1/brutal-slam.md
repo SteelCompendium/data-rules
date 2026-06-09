@@ -13,9 +13,9 @@ power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam
 subtype: signature
 target: One creature or object
-tier1: 3 + M damage; push 1
-tier2: 6 + M damage; push 2
-tier3: 9 + M damage; push 4
+tier1: 3 + M damage; [push](../../../../movement/forced-movement.md) 1
+tier2: 6 + M damage; [push](../../../../movement/forced-movement.md) 2
+tier3: 9 + M damage; [push](../../../../movement/forced-movement.md) 4
 type: ability
 ---
 
@@ -28,6 +28,6 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 2
-- **17+:** 9 + M damage; push 4
+- **≤11:** 3 + M damage; [push](../../../../movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../../../../movement/forced-movement.md) 2
+- **17+:** 9 + M damage; [push](../../../../movement/forced-movement.md) 4

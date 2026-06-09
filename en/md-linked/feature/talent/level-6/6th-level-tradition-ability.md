@@ -67,11 +67,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** 6 damage; vertical pull 5 toward the center of the area
-- **12-16:** 9 damage; vertical pull 7 toward the center of the area
-- **17+:** 13 damage; vertical pull 10 toward the center of the area
+- **≤11:** 6 damage; vertical [pull](../../../movement/forced-movement.md) 5 toward the center of the area
+- **12-16:** 9 damage; vertical [pull](../../../movement/forced-movement.md) 7 toward the center of the area
+- **17+:** 13 damage; vertical [pull](../../../movement/forced-movement.md) 10 toward the center of the area
 
-**Effect:** Targets closest to the center of the area are pulled first.
+**Effect:** Targets closest to the center of the area are [pulled](../../../movement/forced-movement.md) first.
 
 **Strained:** The size of the area increases by 2. You also target yourself and each ally within [distance](../../../rule/combat/distance.md).
 
@@ -86,9 +86,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**
 
-- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../../movement/forced-movement.md) is vertical
-- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../../movement/forced-movement.md) is vertical
-- **17+:** Slide 12 + R; [prone](../../../condition/prone.md); M < STRONG, the [forced movement](../../../movement/forced-movement.md) is vertical
+- **≤11:** [Slide](../../../movement/forced-movement.md) 4 + R; M < WEAK, the [forced movement](../../../movement/forced-movement.md) is vertical
+- **12-16:** [Slide](../../../movement/forced-movement.md) 8 + R; M < AVERAGE, the [forced movement](../../../movement/forced-movement.md) is vertical
+- **17+:** [Slide](../../../movement/forced-movement.md) 12 + R; [prone](../../../condition/prone.md); M < STRONG, the [forced movement](../../../movement/forced-movement.md) is vertical
 
 **Strained:** The [forced movement](../../../movement/forced-movement.md) ignores [stability](../../../rule/character/stability.md). You take 2d6 damage and are [weakened](../../../condition/weakened.md) (save ends).
 

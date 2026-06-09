@@ -21,7 +21,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 [Melee](../../../rule/combat/melee.md) 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This [forced movement](../../../movement/forced-movement.md) ignores the target's [stability](../../../rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../../rule/character/might.md) score.
+**Effect:** You vertically [push](../../../movement/forced-movement.md) the target up to 4 squares. This [forced movement](../../../movement/forced-movement.md) ignores the target's [stability](../../../rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../../rule/character/might.md) score.
 
 ### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
@@ -38,9 +38,9 @@ Additionally, you make one [power roll](../../../rule/dice/power-roll.md) that t
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** Push 1
-- **12-16:** Push 2
-- **17+:** Push 3
+- **≤11:** [Push](../../../movement/forced-movement.md) 1
+- **12-16:** [Push](../../../movement/forced-movement.md) 2
+- **17+:** [Push](../../../movement/forced-movement.md) 3
 
 ## 2nd-Level Reaver Ability
 
@@ -110,8 +110,8 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../../condition/dazed.md) (save ends)
-- **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
-- **17+:** 7 damage; push 3; M < STRONG, [dazed](../../../condition/dazed.md) (save ends)
+- **≤11:** 2 damage; [push](../../../movement/forced-movement.md) 1; M < WEAK, [dazed](../../../condition/dazed.md) (save ends)
+- **12-16:** 5 damage; [push](../../../movement/forced-movement.md) 2; M < AVERAGE, [dazed](../../../condition/dazed.md) (save ends)
+- **17+:** 7 damage; [push](../../../movement/forced-movement.md) 3; M < STRONG, [dazed](../../../condition/dazed.md) (save ends)
 
 **Effect:** This ability deals your primordial [damage type](../../../rule/damage/damage-type.md) (see [Stormwight Kits](../stormwight-kits/kit-features.md)).

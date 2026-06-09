@@ -22,9 +22,9 @@ power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound
 source: mcdm.heroes.v1
 target: Each creature in the area
-tier1: Slide 4
-tier2: Slide 5
-tier3: Slide 7
+tier1: '[Slide](../../../../movement/forced-movement.md) 4'
+tier2: '[Slide](../../../../movement/forced-movement.md) 5'
+tier3: '[Slide](../../../../movement/forced-movement.md) 7'
 type: ability
 ---
 
@@ -34,9 +34,9 @@ distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: This [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
     - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
-      tier1: Slide 4
-      tier2: Slide 5
-      tier3: Slide 7
+      tier1: '[Slide](../../../../movement/forced-movement.md) 4'
+      tier2: '[Slide](../../../../movement/forced-movement.md) 5'
+      tier3: '[Slide](../../../../movement/forced-movement.md) 7'
 feature_type: ability
 flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound
     target: Each creature in the area
-    tier1: Slide 4
-    tier2: Slide 5
-    tier3: Slide 7
+    tier1: '[Slide](../../../../movement/forced-movement.md) 4'
+    tier2: '[Slide](../../../../movement/forced-movement.md) 5'
+    tier3: '[Slide](../../../../movement/forced-movement.md) 7'
     type: ability
 name: Machinations of Sound
 target: Each creature in the area

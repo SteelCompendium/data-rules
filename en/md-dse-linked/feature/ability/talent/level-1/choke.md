@@ -5,7 +5,7 @@ cost: 3 Clarity
 cost_amount: "3"
 cost_resource: Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
+effect: You can vertical [pull](../../../../movement/forced-movement.md) the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
 feature_type: ability
 file_basename: choke
 file_dpath: feature/ability/talent/level-1
@@ -33,7 +33,7 @@ type: ability
 cost: 3 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
+    - effect: You can vertical [pull](../../../../movement/forced-movement.md) the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
     - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 3 + R damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
       tier2: 5 + R damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
@@ -50,7 +50,7 @@ metadata:
     class: talent
     cost: 3 Clarity
     distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-    effect: You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
+    effect: You can vertical [pull](../../../../movement/forced-movement.md) the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
     flavor: You crush a foe in a telekinetic grip.
     keywords:
         - Psionic

@@ -7,7 +7,7 @@ item_name: Fury
 name: Fury
 scc: mcdm.heroes.v1/class/fury
 skills:
-    - 'You gain the [Nature](scc:mcdm.heroes.v1/skill/nature) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
+    - 'You gain the [Nature](scc:mcdm.heroes.v1/skill.lore/nature) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the [exploration](scc:mcdm.heroes.v1/skill.exploration/exploration) or [intrigue](scc:mcdm.heroes.v1/skill.intrigue/intrigue) skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
 source: mcdm.heroes.v1
 type: class
 ---
@@ -40,7 +40,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **[Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries):** 10
 
-**Skills:** You gain the [Nature](scc:mcdm.heroes.v1/skill/nature) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the [Nature](scc:mcdm.heroes.v1/skill.lore/nature) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the [exploration](scc:mcdm.heroes.v1/skill.exploration/exploration) or [intrigue](scc:mcdm.heroes.v1/skill.intrigue/intrigue) skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
 ###### Fury Advancement Table
 

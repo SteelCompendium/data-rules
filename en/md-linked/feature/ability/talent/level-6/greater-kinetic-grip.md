@@ -14,9 +14,9 @@ name: Greater Kinetic Grip
 power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip
 target: One creature or object
-tier1: Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
-tier2: Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
-tier3: Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
+tier1: '[Slide](../../../../movement/forced-movement.md) 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical'
+tier2: '[Slide](../../../../movement/forced-movement.md) 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical'
+tier3: '[Slide](../../../../movement/forced-movement.md) 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical'
 type: ability
 ---
 
@@ -29,8 +29,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**
 
-- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
-- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
-- **17+:** Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
+- **≤11:** [Slide](../../../../movement/forced-movement.md) 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
+- **12-16:** [Slide](../../../../movement/forced-movement.md) 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
+- **17+:** [Slide](../../../../movement/forced-movement.md) 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
 
 **Strained:** The [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). You take 2d6 damage and are [weakened](../../../../condition/weakened.md) (save ends).

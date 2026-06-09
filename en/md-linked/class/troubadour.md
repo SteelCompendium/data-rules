@@ -3,7 +3,7 @@ flavor: The whole world's a stage, and everyone on it, an actor. No one knows th
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)'
+    - 'You gain the [Read Person](../skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the [intrigue](../skill/intrigue/intrigue.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/interpersonal/read-person.md), Rumors.)'
 type: class
 ---
 
@@ -35,7 +35,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)
+**Skills:** You gain the [Read Person](../skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the [intrigue](../skill/intrigue/intrigue.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/interpersonal/read-person.md), Rumors.)
 
 ##### Troubadour Advancement Table
 
@@ -60,9 +60,9 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 
 Panache, melody, and depiction. Some [troubadours](troubadour.md) have it all, but everyone starts somewhere. Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
-- **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the [Brag](../skill/brag.md) skill.
-- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the [Gymnastics](../skill/gymnastics.md) skill.
-- **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the [Music](../skill/music.md) skill and can play an instrument.
+- **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the [Brag](../skill/interpersonal/brag.md) skill.
+- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the [Gymnastics](../skill/exploration/gymnastics.md) skill.
+- **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the [Music](../skill/interpersonal/music.md) skill and can play an instrument.
 
 Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) is your [subclass](../rule/general/subclass.md), and your choice of class act determines many of the features you'll gain as you gain new levels.
 
@@ -107,7 +107,7 @@ You can use and gain the benefits of a kit. See Chapter 6: [Kits](../chapter/kit
 
 ### Scene Partner {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/scene-partner"}
 
-Whenever you obtain a success on a [test](../rule/test/test.md) to interact with an [NPC](../rule/general/npc.md) using a skill from the interpersonal group, you can form a bond with that [NPC](../rule/general/npc.md). When you enter into a negotiation with a bonded [NPC](../rule/general/npc.md), their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded [NPC](../rule/general/npc.md)'s interest by 1, you instead increase their interest by 2 (to a maximum of 5).
+Whenever you obtain a success on a [test](../rule/test/test.md) to interact with an [NPC](../rule/general/npc.md) using a skill from the [interpersonal group](../skill/interpersonal/interpersonal.md), you can form a bond with that [NPC](../rule/general/npc.md). When you enter into a negotiation with a bonded [NPC](../rule/general/npc.md), their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded [NPC](../rule/general/npc.md)'s interest by 1, you instead increase their interest by 2 (to a maximum of 5).
 
 You can have a number of bonds active equal to your level. When you form a bond with a new [NPC](../rule/general/npc.md) that would exceed the limit, you must choose which of your active bonds to lose.
 
@@ -217,9 +217,9 @@ You have the following ability.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** Push 1
-- **12-16:** Push 2
-- **17+:** Push 3
+- **≤11:** [Push](../movement/forced-movement.md) 1
+- **12-16:** [Push](../movement/forced-movement.md) 2
+- **17+:** [Push](../movement/forced-movement.md) 3
 
 #### Star Power {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/star-power"}
 
@@ -439,9 +439,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** Slide 1; I < WEAK, [dazed](../condition/dazed.md) (save ends)
-- **12-16:** Slide 1; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
-- **17+:** Slide 2; I < STRONG, [dazed](../condition/dazed.md) (save ends)
+- **≤11:** [Slide](../movement/forced-movement.md) 1; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** [Slide](../movement/forced-movement.md) 1; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** [Slide](../movement/forced-movement.md) 2; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 **Spend 2+ Drama:** The size of the [burst](../rule/combat/burst.md) increases by 1 for every 2 drama spent.
 
@@ -569,7 +569,7 @@ The Director determines when the target receives your notice. When the target re
 
 You can invoke your reputation at the start of a social interaction with one or more [NPCs](../rule/general/npc.md) who haven't met you before, automatically creating a bond with one of those [NPCs](../rule/general/npc.md) from that group as if using your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature. While the bond is active, all heroes present treat their [Renown](../rule/resource/renown.md) as 2 higher than usual for the purpose of entering into a negotiation with the bonded [NPC](../rule/general/npc.md).
 
-The Director can award the heroes 1 [hero token](../rule/resource/hero-token.md) to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a [bane](../rule/dice/bane.md) on [tests](../rule/test/test.md) made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
+The Director can award the heroes 1 [hero token](../rule/resource/hero-token.md) to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a [bane](../rule/dice/bane.md) on [tests](../rule/test/test.md) made to interact with creatures in the group using skills from the [interpersonal skill group](../skill/interpersonal/interpersonal.md). You can still use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk"}
 
@@ -665,9 +665,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-- **12-16:** 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-- **17+:** 12 corruption damage; M < STRONG, pull 3 toward the center of the area
+- **≤11:** 5 corruption damage; M < WEAK, [pull](../movement/forced-movement.md) 1 toward the center of the area
+- **12-16:** 9 corruption damage; M < AVERAGE, [pull](../movement/forced-movement.md) 2 toward the center of the area
+- **17+:** 12 corruption damage; M < STRONG, [pull](../movement/forced-movement.md) 3 toward the center of the area
 
 ## 3rd-Level Features
 
@@ -734,11 +734,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../rule/character/stability.md)
-- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../rule/character/stability.md)
-- **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../rule/character/stability.md)
+- **≤11:** [Slide](../movement/forced-movement.md) 3; P < WEAK, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
+- **12-16:** [Slide](../movement/forced-movement.md) 5; P < AVERAGE, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
+- **17+:** [Slide](../movement/forced-movement.md) 7; P < STRONG, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
 
-**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
+**Effect:** Instead of [sliding](../movement/forced-movement.md) a target, you can swap their location with another target as long as each can fit into the other's space. You can't [slide](../movement/forced-movement.md) targets into other creatures or objects using this ability.
 
 #### Infernal Gavotte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte"}
 
@@ -769,8 +769,8 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage
-- **12-16:** 8 + P damage; push 3
-- **17+:** 11 + P damage; push 5
+- **12-16:** 8 + P damage; [push](../movement/forced-movement.md) 3
+- **17+:** 11 + P damage; [push](../movement/forced-movement.md) 5
 
 **Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../rule/combat/combat-round.md) without spending drama.
 
@@ -1044,7 +1044,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
-**Effect:** You and the target each make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../feature/common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../rule/character/stability.md).
+**Effect:** You and the target each make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../feature/common/main-actions/free-strike.md) targets. You then [slide](../movement/forced-movement.md) the target 5 squares, ignoring [stability](../rule/character/stability.md).
 
 #### 6th-Level Virtuoso Abilities
 
@@ -1331,9 +1331,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** 12 + P sonic damage; push 5
-- **12-16:** 16 + P sonic damage; push 10
-- **17+:** 22 + P sonic damage; push 15
+- **≤11:** 12 + P sonic damage; [push](../movement/forced-movement.md) 5
+- **12-16:** 16 + P sonic damage; [push](../movement/forced-movement.md) 10
+- **17+:** 22 + P sonic damage; [push](../movement/forced-movement.md) 15
 
 **Effect:** [Forced movement](../movement/forced-movement.md) from this ability ignores [stability](../rule/character/stability.md).
 

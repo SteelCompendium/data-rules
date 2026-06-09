@@ -347,7 +347,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
 
-**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) of any [forced movement](../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
+**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) of any [forced movement](../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../movement/forced-movement.md), you can [push](../movement/forced-movement.md) each creature targeted by the ability up to 2 squares.
 
 #### 2nd-Echelon Consumables
 
@@ -481,13 +481,13 @@ A creature with a willing soul returns to life at the end of the [respite](../ru
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you snap this wand in half, letting you vertically pull one object or creature of [size](../rule/character/size.md) 3 or less a number of squares based on that target's [size](../rule/character/size.md):
+**Effect:** As a maneuver, you snap this wand in half, letting you vertically [pull](../movement/forced-movement.md) one object or creature of [size](../rule/character/size.md) 3 or less a number of squares based on that target's [size](../rule/character/size.md):
 
-- **[Size](../rule/character/size.md) 1L or smaller:** vertical pull 6
-- **[Size](../rule/character/size.md) 2:** vertical pull 3
-- **[Size](../rule/character/size.md) 3:** vertical pull 1
+- **[Size](../rule/character/size.md) 1L or smaller:** vertical [pull](../movement/forced-movement.md) 6
+- **[Size](../rule/character/size.md) 2:** vertical [pull](../movement/forced-movement.md) 3
+- **[Size](../rule/character/size.md) 3:** vertical [pull](../movement/forced-movement.md) 1
 
-If you pull a [size](../rule/character/size.md) 1T object [adjacent](../rule/combat/adjacent.md) to you, you can catch it. This treasure can affect any target within [line of effect](../rule/combat/line-of-effect.md).
+If you [pull](../movement/forced-movement.md) a [size](../rule/character/size.md) 1T object [adjacent](../rule/combat/adjacent.md) to you, you can catch it. This treasure can affect any target within [line of effect](../rule/combat/line-of-effect.md).
 
 ##### Vial of Ethereal Attack {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/vial-of-ethereal-attack"}
 
@@ -523,7 +523,7 @@ This section presents 3rd-[echelon](../rule/general/echelon.md) [consumable](../
 
 **Project Goal:** 180
 
-**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh [adjacent](../rule/combat/adjacent.md) to you. The wall can't be created to fill any square occupied by a creature with [stability](../rule/character/stability.md) 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
+**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh [adjacent](../rule/combat/adjacent.md) to you. The wall can't be created to fill any square occupied by a creature with [stability](../rule/character/stability.md) 1 or higher. Each other creature in the wall when it is created is [pushed](../movement/forced-movement.md) to the nearest unoccupied space.
 
 At the start of each of your [turns](../rule/combat/turn.md), each creature [adjacent](../rule/combat/adjacent.md) to the wall takes psychic damage equal to three times their [Intuition](../rule/character/intuition.md) score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your [turn](../rule/combat/turn.md), the larva dies and the wall disappears.
 
@@ -825,7 +825,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target [adjacent](../rule/combat/adjacent.md) to you, or pull yourself [adjacent](../rule/combat/adjacent.md) to the target. The divine vine stays attached to the target until it takes damage from a [strike](../rule/combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../condition/grabbed.md), you can choose to keep the divine vine extended, [pull](../movement/forced-movement.md) the target [adjacent](../rule/combat/adjacent.md) to you, or [pull](../movement/forced-movement.md) yourself [adjacent](../rule/combat/adjacent.md) to the target. The divine vine stays attached to the target until it takes damage from a [strike](../rule/combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
 
 ##### Flameshade Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves"}
 
@@ -1081,7 +1081,7 @@ This section presents 3rd-[echelon](../rule/general/echelon.md) [trinket](../rul
 
 **Project Goal:** 450
 
-**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any [melee](../rule/combat/melee.md) weapons you wield, automatically compensating for the extra weight. You gain a +2 damage [bonus](../rule/dice/bonuses-and-penalties.md) for any weapon ability that deals [rolled damage](../rule/damage/rolled-damage.md), and a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) you push any target with any weapon ability. This damage [bonus](../rule/dice/bonuses-and-penalties.md) adds to the damage [bonus](../rule/dice/bonuses-and-penalties.md) granted by other treasures.
+**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any [melee](../rule/combat/melee.md) weapons you wield, automatically compensating for the extra weight. You gain a +2 damage [bonus](../rule/dice/bonuses-and-penalties.md) for any weapon ability that deals [rolled damage](../rule/damage/rolled-damage.md), and a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) you [push](../movement/forced-movement.md) any target with any weapon ability. This damage [bonus](../rule/dice/bonuses-and-penalties.md) adds to the damage [bonus](../rule/dice/bonuses-and-penalties.md) granted by other treasures.
 
 ##### Mask of Oversight {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/mask-of-oversight"}
 
@@ -1097,7 +1097,7 @@ This section presents 3rd-[echelon](../rule/general/echelon.md) [trinket](../rul
 
 **Project Goal:** 450
 
-**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../rule/combat/surprised.md). Additionally, you have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../rule/dice/bane.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) that don't use the [Intimidate](../skill/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
+**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../rule/combat/surprised.md). Additionally, you have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../rule/dice/bane.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) that don't use the [Intimidate](../skill/interpersonal/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
 
 While the eyes circle your head, you can use a maneuver to launch up to three of the eyes at one creature within 10 squares. Each eye you launch deals 5 damage to the target before it is destroyed. You can't reduce the number of eyes to fewer than two in this way. If you reduce the number of eyes to two, those eyes return to your head, and you can't use the mask again until you earn 1 or more [Victories](../rule/resource/victories.md).
 
@@ -1323,11 +1323,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md). This [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) adds to the [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) granted by other treasures. Additionally, you can use a maneuver to make the shield's lion face roar, choosing one [adjacent](../rule/combat/adjacent.md) creature or object and pushing that target up to 3 squares.
+**1st Level:** While you wield or carry this shield, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md). This [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) adds to the [Stamina](../rule/health/stamina.md) [bonus](../rule/dice/bonuses-and-penalties.md) granted by other treasures. Additionally, you can use a maneuver to make the shield's lion face roar, choosing one [adjacent](../rule/combat/adjacent.md) creature or object and [pushing](../movement/forced-movement.md) that target up to 3 squares.
 
-**5th Level:** The shield's [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md) increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
+**5th Level:** The shield's [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md) increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and [push](../movement/forced-movement.md) that target up to 4 squares.
 
-**9th Level:** The shield's [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md) increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../condition/slowed.md) until the end of their next [turn](../rule/combat/turn.md).
+**9th Level:** The shield's [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md) increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you [push](../movement/forced-movement.md) that target up to 5 squares, and the target is [slowed](../condition/slowed.md) until the end of their next [turn](../rule/combat/turn.md).
 
 ##### Kuran'zoi Prismscale {data-scc="mcdm.heroes.v1/treasure.leveled.armor/kuranzoi-prismscale"}
 
@@ -1447,7 +1447,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **5th Level:** The shield's [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md) increases to +5, and you can use the shield's free [triggered action](../rule/combat/triggered-action.md) against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../condition/grabbed.md) this way takes a [bane](../rule/dice/bane.md) on the [test](../rule/test/test.md).
 
-**9th Level:** The shield's [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md) increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../condition/grabbed.md) up to 5 squares.
+**9th Level:** The shield's [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md) increases to +9. Additionally, you can use a maneuver to [pull](../movement/forced-movement.md) any number of targets the shield has [grabbed](../condition/grabbed.md) up to 5 squares.
 
 #### Leveled Implement Treasures
 
@@ -1635,7 +1635,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** The weapon's damage [bonus](../rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, when you make an [opportunity attack](../rule/combat/opportunity-attack.md) against an enemy of your [size](../rule/character/size.md) or smaller, you can use [fancy footwork](../feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../condition/prone.md). You also earn 1 [Renown](../rule/resource/renown.md).
 
-**9th Level:** The weapon's damage [bonus](../rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../rule/dice/edge.md) on any [test](../rule/test/test.md) you make using a skill you have from the interpersonal skill group.
+**9th Level:** The weapon's damage [bonus](../rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../rule/dice/edge.md) on any [test](../rule/test/test.md) you make using a skill you have from the [interpersonal skill group](../skill/interpersonal/interpersonal.md).
 
 ##### Displacer {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/displacer"}
 
@@ -1731,11 +1731,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../rule/damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can [shift](../movement/shifting.md) to any square [adjacent](../rule/combat/adjacent.md) to the target after the push.
+**1st Level:** Any weapon ability that deals [rolled damage](../rule/damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to [push](../movement/forced-movement.md) a target, you can [shift](../movement/shifting.md) to any square [adjacent](../rule/combat/adjacent.md) to the target after the [push](../movement/forced-movement.md).
 
 **5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../feature/common/main-actions/charge.md) main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to [shift](../movement/shifting.md), you can [fly](../movement/fly.md) as part of the charge movement or the [shift](../movement/shifting.md). If you don't end your [flying](../movement/fly.md) movement on the ground, you fall.
 
-**9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that [forced movement](../movement/forced-movement.md) can be vertical.
+**9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to [push](../movement/forced-movement.md) or [slide](../movement/forced-movement.md) a target, that [forced movement](../movement/forced-movement.md) can be vertical.
 
 ##### Molten Constrictor {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/molten-constrictor"}
 
@@ -1829,9 +1829,9 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../rule/damage/rolled-damage.md) using this weapon deals an extra 1 sonic damage. Additionally, when the weapon is used with any ability that pushes a target, you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md). If the weapon is used with a damage-dealing ability that doesn't impose [forced movement](../movement/forced-movement.md), you can push the target 1 square.
+**1st Level:** Any weapon ability that deals [rolled damage](../rule/damage/rolled-damage.md) using this weapon deals an extra 1 sonic damage. Additionally, when the weapon is used with any ability that [pushes](../movement/forced-movement.md) a target, you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md). If the weapon is used with a damage-dealing ability that doesn't impose [forced movement](../movement/forced-movement.md), you can [push](../movement/forced-movement.md) the target 1 square.
 
-**5th Level:** The weapon's extra sonic damage increases to 2, and the additional [distance](../rule/combat/distance.md) or [distance](../rule/combat/distance.md) of a push for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with [ranged](../rule/combat/ranged.md) weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a [ranged](../rule/combat/ranged.md) [strike](../rule/combat/strike.md), the [strike](../rule/combat/strike.md) deals an extra 1 sonic damage.
+**5th Level:** The weapon's extra sonic damage increases to 2, and the additional [distance](../rule/combat/distance.md) or [distance](../rule/combat/distance.md) of a [push](../movement/forced-movement.md) for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with [ranged](../rule/combat/ranged.md) weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a [ranged](../rule/combat/ranged.md) [strike](../rule/combat/strike.md), the [strike](../rule/combat/strike.md) deals an extra 1 sonic damage.
 
 **9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a [ranged](../rule/combat/ranged.md) [strike](../rule/combat/strike.md). Additionally, whenever you make a weapon [strike](../rule/combat/strike.md) using this weapon, each enemy [adjacent](../rule/combat/adjacent.md) to the target takes 6 sonic damage.
 
@@ -1917,7 +1917,7 @@ In addition to armor, shields, [implements](../rule/treasure/implement.md), and 
 
 **5th Level:** The extra lightning damage granted by the treads increases to 2. Additionally, for each square you move on your [turn](../rule/combat/turn.md) before you use a weapon ability that deals [rolled damage](../rule/damage/rolled-damage.md) using your unarmed [strikes](../rule/combat/strike.md), this extra damage increases by 1 (to a maximum of 4).
 
-**9th Level:** The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../movement/fly.md) lightning kick on one [adjacent](../rule/combat/adjacent.md) creature. That target is pushed up to 5 squares, and you can move to any square [adjacent](../rule/combat/adjacent.md) to the target after the push.
+**9th Level:** The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../movement/fly.md) lightning kick on one [adjacent](../rule/combat/adjacent.md) creature. That target is [pushed](../movement/forced-movement.md) up to 5 squares, and you can move to any square [adjacent](../rule/combat/adjacent.md) to the target after the [push](../movement/forced-movement.md).
 
 ##### Revenger's Wrap {data-scc="mcdm.heroes.v1/treasure.leveled.other/revengers-wrap"}
 
@@ -2109,7 +2109,7 @@ Titles suitable for 1st-[echelon](../rule/general/echelon.md) characters are pre
 
 **Effect:** Choose one of the following benefits:
 
-- *Iron Hand in Velvet Glove:* The first time during a negotiation that you make a [test](../rule/test/test.md) using the [Intimidate](../skill/intimidate.md) skill and don't make an argument that appeals to an [NPC](../rule/general/npc.md)'s motivation, you don't lower the [NPC](../rule/general/npc.md)'s patience or interest no matter the outcome of the roll.
+- *Iron Hand in Velvet Glove:* The first time during a negotiation that you make a [test](../rule/test/test.md) using the [Intimidate](../skill/interpersonal/intimidate.md) skill and don't make an argument that appeals to an [NPC](../rule/general/npc.md)'s motivation, you don't lower the [NPC](../rule/general/npc.md)'s patience or interest no matter the outcome of the roll.
 - *Truce!:* You have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to stop combat and start a negotiation.
 - *Warriors' Understanding:* You gain an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with creatures you have fought against in combat encounters.
 
@@ -2195,7 +2195,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Effect:** Choose one of the following benefits:
 
-- *Easy Marks:* You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
+- *Easy Marks:* You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using skills from the [interpersonal](../skill/interpersonal/interpersonal.md) and [intrigue](../skill/intrigue/intrigue.md) skill groups when influencing members of a community that you have saved.
 - *Local Fame:* You earn 1 [Renown](../rule/resource/renown.md).
 - *A New Dawn:* Each time you finish a [respite](../rule/resource/respite.md) while in a community you have saved, the party gains a [hero token](../rule/resource/hero-token.md). This [hero token](../rule/resource/hero-token.md) disappears at the end of your next [respite](../rule/resource/respite.md) if it hasn't been used.
 
@@ -2248,7 +2248,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Effect:** The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
 
-Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmithing skill for a blacksmith's guild, or the Society skill for a [noble](../title/noble.md) house. While in a settlement where the faction has a presence, you gain this skill if you don't already have it. If you already have the skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the skill.
+Additionally, the faction is a good source of information. The Director chooses a skill from the [crafting](../skill/crafting/crafting.md) or [lore](../skill/lore/lore.md) skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmithing skill for a blacksmith's guild, or the Society skill for a [noble](../title/noble.md) house. While in a settlement where the faction has a presence, you gain this skill if you don't already have it. If you already have the skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the skill.
 
 #### Presumed Dead {data-scc="mcdm.heroes.v1/title/presumed-dead"}
 
@@ -2320,7 +2320,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 **Effect:** Choose one of the following benefits:
 
-- *[Flying](../movement/fly.md) Circus:* When you are [adjacent](../rule/combat/adjacent.md) to a willing ally on their [turn](../rule/combat/turn.md), you can use a [triggered action](../rule/combat/triggered-action.md) to push them up to 2 squares if their [size](../rule/character/size.md) is the same as yours, or 4 squares if they are smaller. If this push causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
+- *[Flying](../movement/fly.md) Circus:* When you are [adjacent](../rule/combat/adjacent.md) to a willing ally on their [turn](../rule/combat/turn.md), you can use a [triggered action](../rule/combat/triggered-action.md) to [push](../movement/forced-movement.md) them up to 2 squares if their [size](../rule/character/size.md) is the same as yours, or 4 squares if they are smaller. If this [push](../movement/forced-movement.md) causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
 - *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or hide, they take a [bane](../rule/dice/bane.md) on [tests](../rule/test/test.md) made to perform any action secretly, and they gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the Lead, Music, or Perform skills.
 - *Supporting Player:* You gain an [edge](../rule/dice/edge.md) on [group tests](../rule/test/group-test.md) using [Presence](../rule/character/presence.md) and on [tests](../rule/test/test.md) made to assist another creature with a [Presence](../rule/character/presence.md) [test](../rule/test/test.md).
 - *Work the Crowd:* While any of your allies is playing music or performing, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to conceal objects, hide, pick pockets, or sneak.
@@ -2472,9 +2472,9 @@ Titles suitable for 2nd-[echelon](../rule/general/echelon.md) characters are pre
 
 **Effect:** You know the Khelt language. Additionally, choose one of the following benefits:
 
-- *Gift of Charm:* You have a skill of your choice from the interpersonal skill group.
+- *Gift of Charm:* You have a skill of your choice from the [interpersonal skill group](../skill/interpersonal/interpersonal.md).
 - *Gift of Foresight:* When resisting [potencies](../rule/character/potency.md), your [Intuition](../rule/character/intuition.md) score is considered to be 1 higher than usual.
-- *Gift of Knowledge:* You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) you make that use any skill from the lore skill group.
+- *Gift of Knowledge:* You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) you make that use any skill from the [lore skill group](../skill/lore/lore.md).
 
 #### Giant Slayer {data-scc="mcdm.heroes.v1/title/giant-slayer"}
 
@@ -2502,7 +2502,7 @@ Titles suitable for 2nd-[echelon](../rule/general/echelon.md) characters are pre
 >
 > **Special:** If the target is [size](../rule/character/size.md) 2 or larger, you gain an [edge](../rule/dice/edge.md) on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](../skill/climb.md) skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Climb](../skill/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you and you have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../skill/exploration/climb.md) skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Climb](../skill/exploration/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you and you have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to stay on the creature.
 
 #### Godsworn {data-scc="mcdm.heroes.v1/title/godsworn"}
 
@@ -2582,7 +2582,7 @@ Titles suitable for 2nd-[echelon](../rule/general/echelon.md) characters are pre
 
 - *Arcane Improvisation:* When you use a damage-dealing magic [signature ability](../rule/combat/signature-ability.md), you can change its [damage type](../rule/damage/damage-type.md) to acid, cold, corruption, fire, lightning, poison, or sonic damage.
 - *I Have Just the Book:* If you start a Discover Lore project in your hero's [stronghold](../title/stronghold.md) or other a permanent base of operations you immediately gain 60 [project points](../rule/downtime/project-points.md) toward the completion of that project. If the project costs 60 or fewer points, you complete it in 10 uninterrupted minutes without needing to use a [respite](../rule/resource/respite.md) activity.
-- *Picked Up a Few Things:* You know a skill from the lore skill group.
+- *Picked Up a Few Things:* You know a skill from the [lore skill group](../skill/lore/lore.md).
 - *Polyglot:* You know two languages. Additionally, the project goal for the Learn New Language project is halved for you.
 
 #### Special Agent {data-scc="mcdm.heroes.v1/title/special-agent"}
@@ -2615,7 +2615,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 **Effect:** Choose one of the following benefits:
 
 - *Hunter's Oath:* As a main action, you swear a hunter's oath against a creature within 10 squares who you have [line of effect](../rule/combat/line-of-effect.md) to. This oath lasts until the target dies or until you swear a hunter's oath against a different creature. As long as the hunter's oath lasts, you magically know the direction to the target if they are within 50 miles of you, and your damage-dealing abilities gain a +5 damage [bonus](../rule/dice/bonuses-and-penalties.md) against the target.
-- *Particular Set of Skills:* You know a skill from the intrigue skill group.
+- *Particular Set of Skills:* You know a skill from the [intrigue skill group](../skill/intrigue/intrigue.md).
 - *We're In This Together:* When you have a creature [grabbed](../condition/grabbed.md) and take damage from an ability not used by that creature, the [grabbed](../condition/grabbed.md) creature takes the same damage.
 
 #### Undead Slain {data-scc="mcdm.heroes.v1/title/undead-slain"}
@@ -2760,7 +2760,7 @@ Titles suitable for 3rd-[echelon](../rule/general/echelon.md) characters are pre
 
 - *Masterpiece:* The armor, [implement](../rule/treasure/implement.md), or weapon can be imbued a fourth time, with any [enhancement](../rule/treasure/enhancement.md) the item qualifies for.
 - *Research Dividends:* You gain the [item prerequisite](../rule/downtime/item-prerequisite.md) for an armor, [implement](../rule/treasure/implement.md), or weapon [enhancement](../rule/treasure/enhancement.md) of your choice. Additionally, you learn the [project source](../rule/downtime/project-source.md) language for that [enhancement](../rule/treasure/enhancement.md).
-- *Skilled Hands:* You have a skill from the crafting skill group that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the skill. Additionally, you gain a second skill of your choice from the crafting skill group.
+- *Skilled Hands:* You have a skill from the [crafting skill group](../skill/crafting/crafting.md) that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the skill. Additionally, you gain a second skill of your choice from the [crafting skill group](../skill/crafting/crafting.md).
 - *Strong Hands Make Light Work:* Whenever you make a [project roll](../rule/downtime/project-roll.md), you can use [Might](../rule/character/might.md) as the [project roll](../rule/downtime/project-roll.md) [characteristic](../rule/character/characteristic.md).
 
 #### Noble {data-scc="mcdm.heroes.v1/title/noble"}
@@ -2861,7 +2861,7 @@ Additionally, choose one of the following benefits:
 
 **Effect:** Your choice of your [Reason](../rule/character/reason.md) or [Intuition](../rule/character/intuition.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Cosmic Revelation:* When you make a [test](../rule/test/test.md) with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../rule/resource/victories.md).
+- *Cosmic Revelation:* When you make a [test](../rule/test/test.md) with a skill from the [lore skill group](../skill/lore/lore.md) and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../rule/resource/victories.md).
 - *Mind Over Matter:* Whenever you spend a [Recovery](../rule/health/recoveries.md), you can end one [condition](../rule/combat/condition.md) on yourself.
 - *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their [speed](../rule/character/speed.md) to a space you choose, but can't enter [damaging terrain](../movement/damaging-terrain.md) or terrain that could impose a [condition](../rule/combat/condition.md) on them. The target doesn't appear to move or [teleport](../movement/teleport.md) to that space—they are simply there. No one but you has any memory of the target's previous position.
 
@@ -2906,9 +2906,9 @@ Additionally, choose one of the following benefits:
 **Effect:** Your choice of your [Reason](../rule/character/reason.md) or [Presence](../rule/character/presence.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Calm Heads Prevail:* When you make a [test](../rule/test/test.md) to stop combat and start a negotiation, you always obtain a tier 3 outcome.
-- *Drop Your Sword:* When you succeed on a [test](../rule/test/test.md) using the [Intimidate](../skill/intimidate.md) skill, you can cause affected creatures to drop any items they are holding.
+- *Drop Your Sword:* When you succeed on a [test](../rule/test/test.md) using the [Intimidate](../skill/interpersonal/intimidate.md) skill, you can cause affected creatures to drop any items they are holding.
 - *Hear Me Out:* While you are present in a negotiation, an [NPC](../rule/general/npc.md)'s starting patience increases by 3 (to a maximum of 5).
-- *Many Paths to Peace:* When you make a [test](../rule/test/test.md) with a skill from the interpersonal skill group, you can use any [characteristic](../rule/character/characteristic.md) of your choice for the [test](../rule/test/test.md).
+- *Many Paths to Peace:* When you make a [test](../rule/test/test.md) with a skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md), you can use any [characteristic](../rule/character/characteristic.md) of your choice for the [test](../rule/test/test.md).
 
 #### Reborn {data-scc="mcdm.heroes.v1/title/reborn"}
 
@@ -3003,7 +3003,7 @@ When you attract a new [follower](../rule/general/follower.md), you decide on th
 
 Artisans are crafting experts who can contribute to your research and [crafting projects](../rule/downtime/crafting-project.md) (see Chapter 12: [Downtime Projects](downtime-projects.md)). An artisan can contribute one [project roll](../rule/downtime/project-roll.md) per day to a downtime project you choose, whether you spend those days in [respite](../rule/resource/respite.md), adventuring, or other activities. They must remain at your [stronghold](../title/stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit an artisan, choose four skills from the crafting skill group that they know (see Skills in Chapter 9: [Tests](tests.md)). An artisan has a [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score of 1 (your choice), a [Reason](../rule/character/reason.md) score of 1, and a 0 in all other [characteristics](../rule/character/characteristic.md). They know Caelian and two other languages of your choice.
+When you recruit an artisan, choose four skills from the [crafting skill group](../skill/crafting/crafting.md) that they know (see Skills in Chapter 9: [Tests](tests.md)). An artisan has a [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score of 1 (your choice), a [Reason](../rule/character/reason.md) score of 1, and a 0 in all other [characteristics](../rule/character/characteristic.md). They know Caelian and two other languages of your choice.
 
 ##### Retainer {data-scc="mcdm.heroes.v1/rule.general/retainer"}
 
@@ -3015,7 +3015,7 @@ Rules for retainers are found in *Draw Steel: Monsters*.
 
 Sages are research experts who can contribute to your research and [crafting projects](../rule/downtime/crafting-project.md). A sage can contribute one [project roll](../rule/downtime/project-roll.md) per day to a downtime project you choose, whether you spend those days in [respite](../rule/resource/respite.md), adventuring, or other activities. They must remain at your [stronghold](../title/stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit a sage, choose four skills from the lore skill group that they know. A sage has a [Reason](../rule/character/reason.md) and [Intuition](../rule/character/intuition.md) score of 1, and a 0 in all other [characteristics](../rule/character/characteristic.md). They know Caelian and two other languages of your choice.
+When you recruit a sage, choose four skills from the [lore skill group](../skill/lore/lore.md) that they know. A sage has a [Reason](../rule/character/reason.md) and [Intuition](../rule/character/intuition.md) score of 1, and a 0 in all other [characteristics](../rule/character/characteristic.md). They know Caelian and two other languages of your choice.
 
 ## Wealth
 

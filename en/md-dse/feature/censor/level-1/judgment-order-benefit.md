@@ -20,7 +20,7 @@ effects:
 
         - **Exorcist:** You can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to a number of squares equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. This movement must take you closer to the judged creature. You do not need [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect) to your destination.
         - **Oracle:** You can deal holy damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score to the judged creature.
-        - **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
+        - **Paragon:** You can vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) the judged creature up to a number of squares equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
 feature_type: feature
 metadata:
     class: censor

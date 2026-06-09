@@ -55,9 +55,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** Vertical slide 6
-- **12-16:** Vertical slide 8
-- **17+:** Vertical slide 10
+- **≤11:** Vertical [slide](../../../movement/forced-movement.md) 6
+- **12-16:** Vertical [slide](../../../movement/forced-movement.md) 8
+- **17+:** Vertical [slide](../../../movement/forced-movement.md) 10
 
 **Effect:** The pillars vanish as soon as the effects of the [forced movement](../../../movement/forced-movement.md) are resolved.
 
@@ -70,7 +70,7 @@ Choose one of the following abilities.
 |---------------------------|----------------:|
 | **📏 10 wall within 10**  |  **🎯 Special** |
 
-**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../../rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square [adjacent](../../../rule/combat/adjacent.md) to the wall and has M < AVERAGE is [slowed](../../../condition/slowed.md) (save ends). Each enemy who is [force moved](../../../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../../condition/restrained.md) (save ends).
+**Effect:** You can place this wall in occupied squares, [sliding](../../../movement/forced-movement.md) each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../../rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square [adjacent](../../../rule/combat/adjacent.md) to the wall and has M < AVERAGE is [slowed](../../../condition/slowed.md) (save ends). Each enemy who is [force moved](../../../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../../condition/restrained.md) (save ends).
 
 ## 6th-Level Metakinetic Abilities
 
@@ -87,11 +87,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** Vertical slide 5
-- **12-16:** Vertical slide 7
-- **17+:** Vertical slide 9
+- **≤11:** Vertical [slide](../../../movement/forced-movement.md) 5
+- **12-16:** Vertical [slide](../../../movement/forced-movement.md) 7
+- **17+:** Vertical [slide](../../../movement/forced-movement.md) 9
 
-**Effect:** This movement ignores [stability](../../../rule/character/stability.md). If you slide into another creature, you resolve damage to both of you as if your [force move](../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
+**Effect:** This movement ignores [stability](../../../rule/character/stability.md). If you [slide](../../../movement/forced-movement.md) into another creature, you resolve damage to both of you as if your [force move](../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
 
 ### Iron Body {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/iron-body"}
 

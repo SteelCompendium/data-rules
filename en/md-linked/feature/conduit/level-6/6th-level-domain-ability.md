@@ -34,7 +34,7 @@ Choose one of your domains. You gain a [heroic ability](../../../rule/general/he
 |------------------|---------------------------------:|
 | **📏 4 [aura](../../../rule/combat/aura.md)**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), at the end of each of your [turns](../../../rule/combat/turn.md), you can slide each creature in the area up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score. This [forced movement](../../../movement/forced-movement.md) ignores [stability](../../../rule/character/stability.md) for your allies.
+**Effect:** Until the end of the encounter or until you are [dying](../../../rule/health/dying.md), at the end of each of your [turns](../../../rule/combat/turn.md), you can [slide](../../../movement/forced-movement.md) each creature in the area up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score. This [forced movement](../../../movement/forced-movement.md) ignores [stability](../../../rule/character/stability.md) for your allies.
 
 ### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
@@ -114,11 +114,11 @@ Once on each subsequent [turn](../../../rule/combat/turn.md), you can use a [fre
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 3 sonic damage; push 3
-- **12-16:** 6 sonic damage; push 5
-- **17+:** 9 sonic damage; push 7
+- **≤11:** 3 sonic damage; [push](../../../movement/forced-movement.md) 3
+- **12-16:** 6 sonic damage; [push](../../../movement/forced-movement.md) 5
+- **17+:** 9 sonic damage; [push](../../../movement/forced-movement.md) 7
 
-**Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.
+**Special:** You can choose to have this ability deal damage to and [push](../../../movement/forced-movement.md) objects, and to deal damage to buildings.
 
 ### Lauded by God {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god"}
 
@@ -142,11 +142,11 @@ Once on each subsequent [turn](../../../rule/combat/turn.md), you can use a [fre
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Intuition](../../../rule/character/intuition.md):**
 
-- **≤11:** 6 lightning damage; push 1
-- **12-16:** 9 lightning damage; push 2
-- **17+:** 13 lightning damage; push 3
+- **≤11:** 6 lightning damage; [push](../../../movement/forced-movement.md) 1
+- **12-16:** 9 lightning damage; [push](../../../movement/forced-movement.md) 2
+- **17+:** 13 lightning damage; [push](../../../movement/forced-movement.md) 3
 
-**Effect:** The targets are [force moved](../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../../../movement/forced-movement.md) into other targets in the same line.
 
 ### Revitalizing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/revitalizing-grace"}
 

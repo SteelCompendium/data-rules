@@ -19,11 +19,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../rule/character/stability.md)
-- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../rule/character/stability.md)
-- **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../rule/character/stability.md)
+- **≤11:** [Slide](../../../movement/forced-movement.md) 3; P < WEAK, this [slide](../../../movement/forced-movement.md) ignores the target's [stability](../../../rule/character/stability.md)
+- **12-16:** [Slide](../../../movement/forced-movement.md) 5; P < AVERAGE, this [slide](../../../movement/forced-movement.md) ignores the target's [stability](../../../rule/character/stability.md)
+- **17+:** [Slide](../../../movement/forced-movement.md) 7; P < STRONG, this [slide](../../../movement/forced-movement.md) ignores the target's [stability](../../../rule/character/stability.md)
 
-**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
+**Effect:** Instead of [sliding](../../../movement/forced-movement.md) a target, you can swap their location with another target as long as each can fit into the other's space. You can't [slide](../../../movement/forced-movement.md) targets into other creatures or objects using this ability.
 
 ## Infernal Gavotte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte"}
 
@@ -54,8 +54,8 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage
-- **12-16:** 8 + P damage; push 3
-- **17+:** 11 + P damage; push 5
+- **12-16:** 8 + P damage; [push](../../../movement/forced-movement.md) 3
+- **17+:** 11 + P damage; [push](../../../movement/forced-movement.md) 5
 
 **Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../../rule/combat/combat-round.md) without spending drama.
 

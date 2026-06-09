@@ -94,6 +94,6 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-- **12-16:** 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-- **17+:** 12 corruption damage; M < STRONG, pull 3 toward the center of the area
+- **≤11:** 5 corruption damage; M < WEAK, [pull](../../../movement/forced-movement.md) 1 toward the center of the area
+- **12-16:** 9 corruption damage; M < AVERAGE, [pull](../../../movement/forced-movement.md) 2 toward the center of the area
+- **17+:** 12 corruption damage; M < STRONG, [pull](../../../movement/forced-movement.md) 3 toward the center of the area

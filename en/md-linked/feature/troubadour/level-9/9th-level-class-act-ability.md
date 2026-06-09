@@ -110,8 +110,8 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**
 
-- **≤11:** 12 + P sonic damage; push 5
-- **12-16:** 16 + P sonic damage; push 10
-- **17+:** 22 + P sonic damage; push 15
+- **≤11:** 12 + P sonic damage; [push](../../../movement/forced-movement.md) 5
+- **12-16:** 16 + P sonic damage; [push](../../../movement/forced-movement.md) 10
+- **17+:** 22 + P sonic damage; [push](../../../movement/forced-movement.md) 15
 
 **Effect:** [Forced movement](../../../movement/forced-movement.md) from this ability ignores [stability](../../../rule/character/stability.md).

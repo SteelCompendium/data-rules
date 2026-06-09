@@ -99,11 +99,11 @@ Choose one [heroic ability](../../../rule/general/heroic-ability.md) from the fo
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**
 
-- **≤11:** 4 + A damage; slide 2
-- **12-16:** 6 + A damage; slide 3
-- **17+:** 10 + A damage; slide 5
+- **≤11:** 4 + A damage; [slide](../../../movement/forced-movement.md) 2
+- **12-16:** 6 + A damage; [slide](../../../movement/forced-movement.md) 3
+- **17+:** 10 + A damage; [slide](../../../movement/forced-movement.md) 5
 
-**Effect:** You can [shift](../../../movement/shifting.md) into any square the target leaves when you slide them.
+**Effect:** You can [shift](../../../movement/shifting.md) into any square the target leaves when you [slide](../../../movement/forced-movement.md) them.
 
 ### Eviscerate {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate"}
 

@@ -23,9 +23,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 7 damage; push 3
-- **12-16:** 10 damage; push 5
-- **17+:** 15 damage; push 7
+- **≤11:** 7 damage; [push](../../../movement/forced-movement.md) 3
+- **12-16:** 10 damage; [push](../../../movement/forced-movement.md) 5
+- **17+:** 15 damage; [push](../../../movement/forced-movement.md) 7
 
 **Effect:** If this [forced movement](../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
 
@@ -40,9 +40,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**
 
-- **≤11:** 3 damage; vertical pull 3
-- **12-16:** 5 damage; vertical pull 5
-- **17+:** 8 damage; vertical pull 7
+- **≤11:** 3 damage; vertical [pull](../../../movement/forced-movement.md) 3
+- **12-16:** 5 damage; vertical [pull](../../../movement/forced-movement.md) 5
+- **17+:** 8 damage; vertical [pull](../../../movement/forced-movement.md) 7
 
 **Effect:** If this [forced movement](../../../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
 

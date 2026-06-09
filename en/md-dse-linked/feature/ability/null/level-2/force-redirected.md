@@ -22,9 +22,9 @@ power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/force-redirected
 source: mcdm.heroes.v1
 target: One creature
-tier1: 8 + A damage; slide 1
-tier2: 12 + A damage; slide 3
-tier3: 16 + A damage; slide 5
+tier1: 8 + A damage; [slide](../../../../movement/forced-movement.md) 1
+tier2: 12 + A damage; [slide](../../../../movement/forced-movement.md) 3
+tier3: 16 + A damage; [slide](../../../../movement/forced-movement.md) 5
 type: ability
 ---
 
@@ -33,9 +33,9 @@ cost: 5 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 3'
 effects:
     - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
-      tier1: 8 + A damage; slide 1
-      tier2: 12 + A damage; slide 3
-      tier3: 16 + A damage; slide 5
+      tier1: 8 + A damage; [slide](../../../../movement/forced-movement.md) 1
+      tier2: 12 + A damage; [slide](../../../../movement/forced-movement.md) 3
+      tier3: 16 + A damage; [slide](../../../../movement/forced-movement.md) 5
 feature_type: ability
 flavor: The force of your [strike](../../../../rule/combat/strike.md) moves your target in a surprising direction.
 keywords:
@@ -59,9 +59,9 @@ metadata:
     power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.null.level-2/force-redirected
     target: One creature
-    tier1: 8 + A damage; slide 1
-    tier2: 12 + A damage; slide 3
-    tier3: 16 + A damage; slide 5
+    tier1: 8 + A damage; [slide](../../../../movement/forced-movement.md) 1
+    tier2: 12 + A damage; [slide](../../../../movement/forced-movement.md) 3
+    tier3: 16 + A damage; [slide](../../../../movement/forced-movement.md) 5
     type: ability
 name: Force Redirected
 target: One creature

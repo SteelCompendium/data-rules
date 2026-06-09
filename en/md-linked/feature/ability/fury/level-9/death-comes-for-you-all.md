@@ -15,9 +15,9 @@ name: Death Comes for You All!
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-comes-for-you-all
 target: Each enemy in the area
-tier1: 7 damage; push 3
-tier2: 10 damage; push 5
-tier3: 15 damage; push 7
+tier1: 7 damage; [push](../../../../movement/forced-movement.md) 3
+tier2: 10 damage; [push](../../../../movement/forced-movement.md) 5
+tier3: 15 damage; [push](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -30,8 +30,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
-- **≤11:** 7 damage; push 3
-- **12-16:** 10 damage; push 5
-- **17+:** 15 damage; push 7
+- **≤11:** 7 damage; [push](../../../../movement/forced-movement.md) 3
+- **12-16:** 10 damage; [push](../../../../movement/forced-movement.md) 5
+- **17+:** 15 damage; [push](../../../../movement/forced-movement.md) 7
 
 **Effect:** If this [forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.

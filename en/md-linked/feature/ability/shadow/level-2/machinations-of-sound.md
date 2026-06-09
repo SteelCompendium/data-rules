@@ -14,9 +14,9 @@ name: Machinations of Sound
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound
 target: Each creature in the area
-tier1: Slide 4
-tier2: Slide 5
-tier3: Slide 7
+tier1: '[Slide](../../../../movement/forced-movement.md) 4'
+tier2: '[Slide](../../../../movement/forced-movement.md) 5'
+tier3: '[Slide](../../../../movement/forced-movement.md) 7'
 type: ability
 ---
 
@@ -29,8 +29,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**
 
-- **≤11:** Slide 4
-- **12-16:** Slide 5
-- **17+:** Slide 7
+- **≤11:** [Slide](../../../../movement/forced-movement.md) 4
+- **12-16:** [Slide](../../../../movement/forced-movement.md) 5
+- **17+:** [Slide](../../../../movement/forced-movement.md) 7
 
 **Effect:** This [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.

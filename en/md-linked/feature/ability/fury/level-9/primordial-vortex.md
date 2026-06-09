@@ -15,9 +15,9 @@ name: Primordial Vortex
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex
 target: Each enemy in the area
-tier1: 3 damage; vertical pull 3
-tier2: 5 damage; vertical pull 5
-tier3: 8 damage; vertical pull 7
+tier1: 3 damage; vertical [pull](../../../../movement/forced-movement.md) 3
+tier2: 5 damage; vertical [pull](../../../../movement/forced-movement.md) 5
+tier3: 8 damage; vertical [pull](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -30,8 +30,8 @@ type: ability
 
 **[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**
 
-- **≤11:** 3 damage; vertical pull 3
-- **12-16:** 5 damage; vertical pull 5
-- **17+:** 8 damage; vertical pull 7
+- **≤11:** 3 damage; vertical [pull](../../../../movement/forced-movement.md) 3
+- **12-16:** 5 damage; vertical [pull](../../../../movement/forced-movement.md) 5
+- **17+:** 8 damage; vertical [pull](../../../../movement/forced-movement.md) 7
 
 **Effect:** If this [forced movement](../../../../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.

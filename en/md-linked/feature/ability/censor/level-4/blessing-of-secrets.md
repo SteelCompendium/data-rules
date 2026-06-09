@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/intrigue/hide.md) or [sneak](../../../../skill/intrigue/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 flavor: You project an illusory [aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.
 keywords:
     - Area
@@ -21,4 +21,4 @@ type: ability
 |-----------------|--------------------------------------:|
 | **📏 3 [aura](../../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+**Effect:** Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/intrigue/hide.md) or [sneak](../../../../skill/intrigue/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
