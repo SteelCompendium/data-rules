@@ -7,7 +7,7 @@ item_name: Tactician
 name: Tactician
 scc: mcdm.heroes.v1/class/tactician
 skills:
-    - 'You gain the [Lead](scc:mcdm.heroes.v1/skill.interpersonal/lead) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](scc:mcdm.heroes.v1/skill.exploration/exploration). (*Quick Build:* Lead, Monsters, Strategy.)'
+    - 'You gain the [Lead](scc:mcdm.heroes.v1/skill.interpersonal/lead) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](scc:mcdm.heroes.v1/skill.group/exploration). (*Quick Build:* Lead, Monsters, Strategy.)'
 source: mcdm.heroes.v1
 type: class
 ---
@@ -40,7 +40,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **[Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries):** 10
 
-**Skills:** You gain the [Lead](scc:mcdm.heroes.v1/skill.interpersonal/lead) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](scc:mcdm.heroes.v1/skill.exploration/exploration). (*Quick Build:* Lead, Monsters, Strategy.)
+**Skills:** You gain the [Lead](scc:mcdm.heroes.v1/skill.interpersonal/lead) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](scc:mcdm.heroes.v1/skill.group/exploration). (*Quick Build:* Lead, Monsters, Strategy.)
 
 ###### Tactician Advancement Table
 

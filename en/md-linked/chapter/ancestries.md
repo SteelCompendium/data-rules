@@ -375,7 +375,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 
 #### Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
 
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) (see Skills in Chapter 9: [Tests](tests.md)), and you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) when attempting to discover an [NPC](../rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the [interpersonal skill group](../skill/group/interpersonal.md) (see Skills in Chapter 9: [Tests](tests.md)), and you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) when attempting to discover an [NPC](../rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
 
 #### Purchased Devil Traits
 
@@ -1445,7 +1445,7 @@ Your bloodfire supplies you with a constant rush of adrenaline. You can't be mad
 
 ##### Passionate Artisan {data-scc="mcdm.heroes.v1/feature.trait.orc/passionate-artisan"}
 
-When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the [crafting skill group](../skill/crafting/crafting.md), whether you have those skills or not. Whenever you make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the roll.
+When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the [crafting skill group](../skill/group/crafting.md), whether you have those skills or not. Whenever you make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the roll.
 
 ## Polder {data-scc="mcdm.heroes.v1/ancestry/polder"}
 

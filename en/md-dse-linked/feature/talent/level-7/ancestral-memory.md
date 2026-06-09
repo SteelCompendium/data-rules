@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Each time you finish a [respite](../../../rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../../../rule/character/reason.md) score and replace them with an equal number of skills from the [interpersonal](../../../skill/interpersonal/interpersonal.md) and [lore](../../../skill/lore/lore.md) skill groups. These replacements last until the end of your next [respite](../../../rule/resource/respite.md).
+    - effect: Each time you finish a [respite](../../../rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../../../rule/character/reason.md) score and replace them with an equal number of skills from the [interpersonal](../../../skill/group/interpersonal.md) and [lore](../../../skill/group/lore.md) skill groups. These replacements last until the end of your next [respite](../../../rule/resource/respite.md).
 feature_type: feature
 metadata:
     class: talent

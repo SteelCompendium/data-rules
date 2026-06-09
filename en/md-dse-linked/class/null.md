@@ -7,7 +7,7 @@ item_name: "Null"
 name: "Null"
 scc: mcdm.heroes.v1/class/null
 skills:
-    - 'You gain the [Psionics](../skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)'
+    - 'You gain the [Psionics](../skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the [interpersonal](../skill/group/interpersonal.md) or [lore](../skill/group/lore.md) skill groups. (*Quick Build:* Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)'
 source: mcdm.heroes.v1
 type: class
 ---
@@ -40,7 +40,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Psionics](../skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups. (*Quick Build:* Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)
+**Skills:** You gain the [Psionics](../skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the [interpersonal](../skill/group/interpersonal.md) or [lore](../skill/group/lore.md) skill groups. (*Quick Build:* Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)
 
 ###### Null Advancement Table
 

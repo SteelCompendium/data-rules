@@ -7,7 +7,7 @@ item_name: Shadow
 name: Shadow
 scc: mcdm.heroes.v1/class/shadow
 skills:
-    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../skill/exploration/exploration.md), [interpersonal](../skill/interpersonal/interpersonal.md), or [intrigue](../skill/intrigue/intrigue.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
+    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../skill/group/exploration.md), [interpersonal](../skill/group/interpersonal.md), or [intrigue](../skill/group/intrigue.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
 source: mcdm.heroes.v1
 type: class
 ---
@@ -39,7 +39,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../skill/exploration/exploration.md), [interpersonal](../skill/interpersonal/interpersonal.md), or [intrigue](../skill/intrigue/intrigue.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
+**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../skill/group/exploration.md), [interpersonal](../skill/group/interpersonal.md), or [intrigue](../skill/group/intrigue.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
 ###### Shadow Advancement Table
 
