@@ -3,7 +3,10 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "4 + A damage; A \u003c WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+      "tier2": "7 + A damage; A \u003c AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+      "tier3": "9 + A damage; A \u003c STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)"
     }
   ],
   "feature_type": "ability",

@@ -3,6 +3,12 @@
   "distance": "5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "2 holy damage",
+      "tier2": "5 holy damage",
+      "tier3": "7 holy damage"
+    },
+    {
       "effect": "Each ally in the area can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
       "name": "Effect"
     }

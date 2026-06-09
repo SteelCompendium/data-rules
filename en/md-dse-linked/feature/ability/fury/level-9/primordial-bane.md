@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "9"
 name: Primordial Bane
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/primordial-bane
 source: mcdm.heroes.v1
 target: One creature
+tier1: 11 + M damage
+tier2: 16 + M damage
+tier3: 21 + M damage
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 11 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any [damage immunity](../../../../rule/damage/damage-immunity.md) to the chosen type and gains weakness 10 to the chosen type (save ends).
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 11 + M damage
+      tier2: 16 + M damage
+      tier3: 21 + M damage
 feature_type: ability
 flavor: You attune the target to be weaker to a specific element.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Weapon
     level: "9"
     name: Primordial Bane
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-9/primordial-bane
     target: One creature
+    tier1: 11 + M damage
+    tier2: 16 + M damage
+    tier3: 21 + M damage
     type: ability
 name: Primordial Bane
 target: One creature

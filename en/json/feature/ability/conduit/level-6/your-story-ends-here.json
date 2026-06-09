@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "9 + I corruption damage; R \u003c WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)",
+      "tier2": "14 + I corruption damage; R \u003c AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)",
+      "tier3": "19 + I corruption damage; R \u003c STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)"
+    },
+    {
       "effect": "If this damage kills the target, you and each ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).",
       "name": "Effect"
     }

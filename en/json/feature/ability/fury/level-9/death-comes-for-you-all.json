@@ -3,6 +3,12 @@
   "distance": "3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "7 damage; push 3",
+      "tier2": "10 damage; push 5",
+      "tier3": "15 damage; push 7"
+    },
+    {
       "effect": "If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to be hurled through an object, that target takes an extra 10 damage.",
       "name": "Effect"
     }

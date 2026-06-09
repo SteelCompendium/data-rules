@@ -15,10 +15,14 @@ keywords:
     - Weapon
 kit: arcane-archer
 name: Exploding Arrow
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 5 + A, R, I, or P fire damage
+tier2: 7 + A, R, I, or P fire damage
+tier3: 10 + A, R, I, or P fire damage
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
 effects:
     - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 5 + A, R, I, or P fire damage
+      tier2: 7 + A, R, I, or P fire damage
+      tier3: 10 + A, R, I, or P fire damage
 feature_type: ability
 flavor: Your ammunition explodes with magical energy.
 keywords:
@@ -45,9 +53,13 @@ metadata:
         - Weapon
     kit: arcane-archer
     name: Exploding Arrow
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow
     subtype: signature
     target: One creature or object
+    tier1: 5 + A, R, I, or P fire damage
+    tier2: 7 + A, R, I, or P fire damage
+    tier3: 10 + A, R, I, or P fire damage
     type: ability
 name: Exploding Arrow
 target: One creature or object

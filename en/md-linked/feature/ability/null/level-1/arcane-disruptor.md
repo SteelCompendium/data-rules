@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "1"
 name: Arcane Disruptor
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/arcane-disruptor
 target: One creature
+tier1: 8 + **A** psychic damage; M < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 16 + **A** psychic damage; M < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 

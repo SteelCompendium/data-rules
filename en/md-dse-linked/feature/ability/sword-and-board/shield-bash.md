@@ -13,17 +13,24 @@ keywords:
     - Weapon
 kit: sword-and-board
 name: Shield Bash
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 4 + M or A damage; push 1
+tier2: 7 + M or A damage; push 2
+tier3: 9 + M or A damage; push 3; M < STRONG[, prone](../../../condition/prone.md)
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "*In your hands, a shield isn't just for protection.*\n\n| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; push 1\n- **12-16:** 7 + M or A damage; push 2\n- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](../../../condition/prone.md)"
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 4 + M or A damage; push 1
+      tier2: 7 + M or A damage; push 2
+      tier3: 9 + M or A damage; push 3; M < STRONG[, prone](../../../condition/prone.md)
 feature_type: ability
 flavor: In your hands, a shield isn't just for protection.
 keywords:
@@ -40,9 +47,13 @@ metadata:
         - Weapon
     kit: sword-and-board
     name: Shield Bash
+    power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash
     subtype: signature
     target: One creature
+    tier1: 4 + M or A damage; push 1
+    tier2: 7 + M or A damage; push 2
+    tier3: 9 + M or A damage; push 3; M < STRONG[, prone](../../../condition/prone.md)
     type: ability
 name: Shield Bash
 target: One creature

@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Quick Rewrite
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
 target: Each enemy in the area
+tier1: 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 6 damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 

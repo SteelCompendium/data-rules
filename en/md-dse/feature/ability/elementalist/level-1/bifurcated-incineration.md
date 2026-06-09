@@ -15,17 +15,24 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Bifurcated Incineration
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration
 source: mcdm.heroes.v1
 subtype: signature
 target: Two creatures or objects
+tier1: 2 fire damage
+tier2: 4 fire damage
+tier3: 6 fire damage
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*Two jets of flame lance out at your command.*\n\n| **Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |                 **Main action** |\n|---------------------------------|--------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 fire damage\n- **12-16:** 4 fire damage\n- **17+:** 6 fire damage"
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 fire damage
+      tier2: 4 fire damage
+      tier3: 6 fire damage
 feature_type: ability
 flavor: Two jets of flame lance out at your command.
 keywords:
@@ -45,9 +52,13 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Bifurcated Incineration
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration
     subtype: signature
     target: Two creatures or objects
+    tier1: 2 fire damage
+    tier2: 4 fire damage
+    tier3: 6 fire damage
     type: ability
 name: Bifurcated Incineration
 target: Two creatures or objects

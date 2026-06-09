@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "5"
 name: Shield of the Righteous
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous
 target: One creature
+tier1: 10 + M damage; you and each ally [adjacent](../../../../rule/combat/adjacent.md) to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+tier2: 14 + M damage; you and each ally [adjacent](../../../../rule/combat/adjacent.md) to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+tier3: 20 + M damage; you and each ally [adjacent](../../../../rule/combat/adjacent.md) to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
 type: ability
 ---
 

@@ -3,6 +3,12 @@
   "distance": "5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "7 damage",
+      "tier2": "10 damage",
+      "tier3": "15 damage"
+    },
+    {
       "effect": "This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) and ignores [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity).",
       "name": "Effect"
     }

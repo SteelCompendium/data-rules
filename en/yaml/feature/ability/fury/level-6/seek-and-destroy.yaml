@@ -1,6 +1,10 @@
 cost: 9 Ferocity
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 4 + M damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: 6 + M damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: 10 + M damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
     - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed).
       name: Effect
 feature_type: ability

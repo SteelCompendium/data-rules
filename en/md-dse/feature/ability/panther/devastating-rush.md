@@ -14,10 +14,14 @@ keywords:
     - Weapon
 kit: panther
 name: Devastating Rush
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.panther/devastating-rush
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 3 + M or A damage
+tier2: 6 + M or A damage
+tier3: 13 + M or A damage
 type: ability
 ---
 
@@ -25,6 +29,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can move up to 3 squares straight toward the target before this [strike](scc:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 3 + M or A damage
+      tier2: 6 + M or A damage
+      tier3: 13 + M or A damage
 feature_type: ability
 flavor: The faster you move, the harder you hit.
 keywords:
@@ -42,9 +50,13 @@ metadata:
         - Weapon
     kit: panther
     name: Devastating Rush
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.panther/devastating-rush
     subtype: signature
     target: One creature or object
+    tier1: 3 + M or A damage
+    tier2: 6 + M or A damage
+    tier3: 13 + M or A damage
     type: ability
 name: Devastating Rush
 target: One creature or object

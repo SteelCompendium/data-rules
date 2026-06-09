@@ -1,6 +1,9 @@
 distance: 5 x 1 line within 1
 effects:
-    - effect: ""
+    - roll: Power Roll + Your Highest [Characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) Score
+      tier1: 5 fire damage
+      tier2: 8 fire damage
+      tier3: 11 fire damage
 feature_type: ability
 flavor: You open your maw and unleash hell.
 keywords:

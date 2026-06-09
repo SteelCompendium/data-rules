@@ -3,7 +3,10 @@
   "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "2 damage; A \u003c WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)",
+      "tier2": "3 damage; A \u003c AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)",
+      "tier3": "7 damage; A \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
     }
   ],
   "feature_type": "ability",

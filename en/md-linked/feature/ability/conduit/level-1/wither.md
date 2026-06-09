@@ -9,9 +9,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Wither
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/wither
 subtype: signature
 target: One creature or object
+tier1: 3 + I corruption damage; P < WEAK, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)
+tier2: 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)
+tier3: 8 + I corruption damage; P < STRONG, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)
 type: ability
 ---
 

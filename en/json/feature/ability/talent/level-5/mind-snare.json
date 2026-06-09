@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "10 + R psychic damage; R \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier2": "14 + R psychic damage; R \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier3": "20 + R psychic damage; R \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
+    },
+    {
       "effect": "While [slowed](scc:mcdm.heroes.v1/condition/slowed) this way, the target takes 3 psychic damage for each square they willingly leave.",
       "name": "Effect"
     }

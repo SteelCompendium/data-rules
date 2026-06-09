@@ -10,9 +10,13 @@ keywords:
     - Weapon
 level: "1"
 name: To the Uttermost End
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/to-the-uttermost-end
 spend: '1+ Ferocity: While you are [winded](../../../../rule/health/winded.md), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](../../../../rule/health/dying.md), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](../../../../rule/health/stamina.md) after making this [strike](../../../../rule/combat/strike.md).'
 target: One creature
+tier1: 7 + M damage
+tier2: 11 + M damage
+tier3: 16 + M damage
 type: ability
 ---
 

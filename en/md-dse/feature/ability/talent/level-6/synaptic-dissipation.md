@@ -19,9 +19,13 @@ keywords:
     - Telepathy
 level: "6"
 name: Synaptic Dissipation
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-dissipation
 source: mcdm.heroes.v1
 target: Special
+tier1: Two creatures
+tier2: Three creatures
+tier3: Five creatures
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 9 Clarity
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: You target a number of creatures with this ability determined by the outcome of your [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll). You and your allies are invisible to each target until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: Two creatures
+      tier2: Three creatures
+      tier3: Five creatures
 feature_type: ability
 flavor: You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Telepathy
     level: "6"
     name: Synaptic Dissipation
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-dissipation
     target: Special
+    tier1: Two creatures
+    tier2: Three creatures
+    tier3: Five creatures
     type: ability
 name: Synaptic Dissipation
 target: Special

@@ -19,9 +19,13 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "9"
 name: Melt Their Faces
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 12 + P sonic damage; push 5
+tier2: 16 + P sonic damage; push 10
+tier3: 22 + P sonic damage; push 15
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 11 Drama
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: '[Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).'
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 12 + P sonic damage; push 5
+      tier2: 16 + P sonic damage; push 10
+      tier3: 22 + P sonic damage; push 15
 feature_type: ability
 flavor: The power of music rips through the reality around the target and blows them away.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "9"
     name: Melt Their Faces
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces
     target: One creature or object
+    tier1: 12 + P sonic damage; push 5
+    tier2: 16 + P sonic damage; push 10
+    tier3: 22 + P sonic damage; push 15
     type: ability
 name: Melt Their Faces
 target: One creature or object

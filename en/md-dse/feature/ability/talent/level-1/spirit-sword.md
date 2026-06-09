@@ -16,10 +16,14 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Spirit Sword
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 3 + P damage
+tier2: 6 + P damage
+tier3: 9 + P damage
 type: ability
 ---
 
@@ -27,6 +31,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
 effects:
     - effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 3 + P damage
+      tier2: 6 + P damage
+      tier3: 9 + P damage
 feature_type: ability
 flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 keywords:
@@ -47,9 +55,13 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Spirit Sword
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword
     subtype: signature
     target: One creature or object
+    tier1: 3 + P damage
+    tier2: 6 + P damage
+    tier3: 9 + P damage
     type: ability
 name: Spirit Sword
 target: One creature or object

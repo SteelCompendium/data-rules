@@ -10,9 +10,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Sacrificial Offer
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/sacrificial-offer
 subtype: signature
 target: One creature
+tier1: 2 + I corruption damage
+tier2: 4 + I corruption damage
+tier3: 6 + I corruption damage
 type: ability
 ---
 

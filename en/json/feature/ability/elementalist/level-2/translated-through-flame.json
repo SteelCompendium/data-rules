@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "3 fire damage",
+      "tier2": "5 fire damage",
+      "tier3": "8 fire damage"
+    },
+    {
       "effect": "The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that affects each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target's new space.",
       "name": "Effect"
     }

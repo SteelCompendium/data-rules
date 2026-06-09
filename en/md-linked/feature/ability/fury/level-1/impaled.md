@@ -9,9 +9,13 @@ keywords:
     - Weapon
 level: "1"
 name: Impaled!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
 subtype: signature
 target: One creature of your [size](../../../../rule/character/size.md) or smaller
+tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 

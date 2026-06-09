@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "2"
 name: Gravitic Strike
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + A psychic damage; vertical pull 3
+tier2: 12 + A psychic damage; vertical pull 5
+tier3: 16 + A psychic damage; vertical pull 7
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 5 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 3'
 effects:
-    - effect: "\n*Your fist emanates gravitic force that pulls a distant enemy closer.*\n\n| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 3**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 8 + A psychic damage; vertical pull 3\n- **12-16:** 12 + A psychic damage; vertical pull 5\n- **17+:** 16 + A psychic damage; vertical pull 7"
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 8 + A psychic damage; vertical pull 3
+      tier2: 12 + A psychic damage; vertical pull 5
+      tier3: 16 + A psychic damage; vertical pull 7
 feature_type: ability
 flavor: Your fist emanates gravitic force that pulls a distant enemy closer.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - Weapon
     level: "2"
     name: Gravitic Strike
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike
     target: One creature
+    tier1: 8 + A psychic damage; vertical pull 3
+    tier2: 12 + A psychic damage; vertical pull 5
+    tier3: 16 + A psychic damage; vertical pull 7
     type: ability
 name: Gravitic Strike
 target: One creature

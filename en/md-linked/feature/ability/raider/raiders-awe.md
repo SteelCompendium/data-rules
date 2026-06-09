@@ -10,9 +10,13 @@ keywords:
     - Weapon
 kit: raider
 name: Raider's Awe
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.raider/raiders-awe
 subtype: signature
 target: One creature
+tier1: 3 + M or A damage
+tier2: 6 + M or A damage
+tier3: 8 + M or A damage
 type: ability
 ---
 

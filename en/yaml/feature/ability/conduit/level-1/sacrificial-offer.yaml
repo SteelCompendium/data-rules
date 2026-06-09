@@ -1,6 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 2 + I corruption damage
+      tier2: 4 + I corruption damage
+      tier3: 6 + I corruption damage
     - effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can impose a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made against them before the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
       name: Effect
 feature_type: ability

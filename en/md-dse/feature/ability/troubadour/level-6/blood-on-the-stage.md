@@ -17,9 +17,13 @@ keywords:
     - Weapon
 level: "6"
 name: Blood on the Stage
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/blood-on-the-stage
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 12 + A damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+tier2: 18 + A damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+tier3: 24 + A damage; [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)), or if M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 9 Drama
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: "\n*It's love and blood or drama and blood. Either way, there's always blood.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 12 + A damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)\n- **12-16:** 18 + A damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)\n- **17+:** 24 + A damage; [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)), or if M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)"
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 12 + A damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+      tier2: 18 + A damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+      tier3: 24 + A damage; [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)), or if M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
 feature_type: ability
 flavor: It's love and blood or drama and blood. Either way, there's always blood.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - Weapon
     level: "6"
     name: Blood on the Stage
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/blood-on-the-stage
     target: One creature or object
+    tier1: 12 + A damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+    tier2: 18 + A damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+    tier3: 24 + A damage; [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)), or if M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
     type: ability
 name: Blood on the Stage
 target: One creature or object

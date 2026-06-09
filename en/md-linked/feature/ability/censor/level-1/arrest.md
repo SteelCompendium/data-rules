@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "1"
 name: Arrest
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/arrest
 target: One creature
+tier1: 6 + M holy damage; [grabbed](../../../../condition/grabbed.md)
+tier2: 9 + M holy damage; [grabbed](../../../../condition/grabbed.md)
+tier3: 13 + M holy damage; [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 

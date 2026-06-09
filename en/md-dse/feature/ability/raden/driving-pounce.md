@@ -14,10 +14,14 @@ keywords:
     - Weapon
 kit: raden
 name: Driving Pounce
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.raden/driving-pounce
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 4 + A damage
+tier2: 7 + A damage; push 1
+tier3: 9 + A damage; push 2
 type: ability
 ---
 
@@ -25,6 +29,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you pushed the target.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 4 + A damage
+      tier2: 7 + A damage; push 1
+      tier3: 9 + A damage; push 2
 feature_type: ability
 flavor: Your enemies try in vain to fall back from your pouncing attack.
 keywords:
@@ -42,9 +50,13 @@ metadata:
         - Weapon
     kit: raden
     name: Driving Pounce
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.raden/driving-pounce
     subtype: signature
     target: One creature or object
+    tier1: 4 + A damage
+    tier2: 7 + A damage; push 1
+    tier3: 9 + A damage; push 2
     type: ability
 name: Driving Pounce
 target: One creature or object

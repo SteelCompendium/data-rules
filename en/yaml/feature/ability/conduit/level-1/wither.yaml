@@ -1,7 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 3 + I corruption damage; P < WEAK, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll)
+      tier2: 5 + I corruption damage; P < AVERAGE, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll)
+      tier3: 8 + I corruption damage; P < STRONG, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll)
 feature_type: ability
 flavor: A bolt of holy energy saps the life from a foe.
 keywords:

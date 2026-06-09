@@ -1,7 +1,10 @@
 cost: 5 Insight
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 6 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target 1 square
+      tier2: 10 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 3 squares
+      tier3: 14 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 5 squares
 feature_type: ability
 flavor: You enchant a [strike](scc:mcdm.heroes.v1/rule.combat/strike) with your [teleport](scc:mcdm.heroes.v1/movement/teleport)ation magic.
 keywords:

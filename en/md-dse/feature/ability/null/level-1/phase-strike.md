@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "1"
 name: Phase Strike
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/phase-strike
 source: mcdm.heroes.v1
 target: One creature
+tier1: 3 + A psychic damage; I < WEAK, the target goes out of phase (save ends)
+tier2: 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
+tier3: 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 5 Discipline
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: A target who goes out of phase is [slowed](scc:mcdm.heroes.v1/condition/slowed), has their [stability](scc:mcdm.heroes.v1/rule.character/stability) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll).
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 3 + A psychic damage; I < WEAK, the target goes out of phase (save ends)
+      tier2: 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
+      tier3: 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 feature_type: ability
 flavor: For a moment, your foe slips out of phase with this manifold.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Weapon
     level: "1"
     name: Phase Strike
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.null.level-1/phase-strike
     target: One creature
+    tier1: 3 + A psychic damage; I < WEAK, the target goes out of phase (save ends)
+    tier2: 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
+    tier3: 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
     type: ability
 name: Phase Strike
 target: One creature

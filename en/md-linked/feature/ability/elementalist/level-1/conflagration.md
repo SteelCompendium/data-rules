@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Conflagration
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration
 target: Each enemy in the area
+tier1: 4 fire damage
+tier2: 6 fire damage
+tier3: 10 fire damage
 type: ability
 ---
 

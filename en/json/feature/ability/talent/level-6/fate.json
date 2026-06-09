@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2",
   "effects": [
     {
+      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "8 + P psychic damage",
+      "tier2": "13 + P psychic damage",
+      "tier3": "17 + P psychic damage"
+    },
+    {
       "effect": "The target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Whenever the target takes damage while they have this weakness, they are [knocked prone](scc:mcdm.heroes.v1/condition/prone).",
       "name": "Effect"
     }

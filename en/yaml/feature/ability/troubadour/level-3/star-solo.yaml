@@ -1,6 +1,10 @@
 cost: 7 Drama
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 5 + P damage
+      tier2: 8 + P damage; push 3
+      tier3: 11 + P damage; push 5
     - effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](scc:mcdm.heroes.v1/rule.combat/combat-round) without spending drama.
       name: Effect
 feature_type: ability

@@ -17,9 +17,13 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "6"
 name: Burden of Evil
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
 source: mcdm.heroes.v1
 target: Three enemies
+tier1: Slide 3; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier2: Slide 5; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier3: Slide 7; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 9 Wrath
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |         **Maneuver** |\n|---------------------------|---------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**          | **\U0001F3AF Three enemies** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** Slide 3; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** Slide 5; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** Slide 7; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: Slide 3; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: Slide 5; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: Slide 7; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 feature_type: ability
 flavor: You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "6"
     name: Burden of Evil
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
     target: Three enemies
+    tier1: Slide 3; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier2: Slide 5; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier3: Slide 7; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     type: ability
 name: Burden of Evil
 target: Three enemies

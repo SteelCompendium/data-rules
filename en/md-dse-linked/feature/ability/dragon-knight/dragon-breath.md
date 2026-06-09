@@ -13,10 +13,14 @@ keywords:
     - Area
     - Magic
 name: Dragon Breath
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath
 source: mcdm.heroes.v1
 subtype: signature
 target: Each enemy in the area
+tier1: 2 damage
+tier2: 4 damage
+tier3: 6 damage
 type: ability
 ---
 
@@ -24,6 +28,10 @@ type: ability
 distance: 3 [cube](../../../rule/combat/cube.md) within 1
 effects:
     - effect: You choose the ability's [damage type](../../../rule/damage/damage-type.md) from acid, cold, corruption, fire, lightning, or poison.
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)
+      tier1: 2 damage
+      tier2: 4 damage
+      tier3: 6 damage
 feature_type: ability
 flavor: A furious exhalation of energy washes over your foes.
 keywords:
@@ -39,9 +47,13 @@ metadata:
         - Area
         - Magic
     name: Dragon Breath
+    power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath
     subtype: signature
     target: Each enemy in the area
+    tier1: 2 damage
+    tier2: 4 damage
+    tier3: 6 damage
     type: ability
 name: Dragon Breath
 target: Each enemy in the area

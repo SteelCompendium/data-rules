@@ -14,10 +14,14 @@ keywords:
     - Weapon
 kit: martial-artist
 name: Battle Grace
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.martial-artist/battle-grace
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 5 + M or A damage
+tier2: 8 + M or A damage; you can swap places with the target
+tier3: 11 + M or A damage; you can swap places with the target
 type: ability
 ---
 
@@ -25,6 +29,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: If you obtain a tier 2 or tier 3 outcome and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 5 + M or A damage
+      tier2: 8 + M or A damage; you can swap places with the target
+      tier3: 11 + M or A damage; you can swap places with the target
 feature_type: ability
 flavor: You feint to move your enemies into perfect position.
 keywords:
@@ -42,9 +50,13 @@ metadata:
         - Weapon
     kit: martial-artist
     name: Battle Grace
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.martial-artist/battle-grace
     subtype: signature
     target: One creature
+    tier1: 5 + M or A damage
+    tier2: 8 + M or A damage; you can swap places with the target
+    tier3: 11 + M or A damage; you can swap places with the target
     type: ability
 name: Battle Grace
 target: One creature

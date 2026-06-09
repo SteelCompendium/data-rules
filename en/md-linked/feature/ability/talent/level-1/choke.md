@@ -12,8 +12,12 @@ keywords:
     - Telekinesis
 level: "1"
 name: Choke
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/choke
 target: One creature
+tier1: 3 + R damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 5 + R damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 8 + R damage; M < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 

@@ -18,9 +18,13 @@ keywords:
     - Telepathy
 level: "9"
 name: Synaptic Terror
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror
 source: mcdm.heroes.v1
 target: Each ally and enemy in the area
+tier1: R < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: R < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: R < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Clarity
 distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll) until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Each target enemy is affected by the ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: R < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: R < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: R < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 feature_type: ability
 flavor: You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Telepathy
     level: "9"
     name: Synaptic Terror
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror
     target: Each ally and enemy in the area
+    tier1: R < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier2: R < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier3: R < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
     type: ability
 name: Synaptic Terror
 target: Each ally and enemy in the area

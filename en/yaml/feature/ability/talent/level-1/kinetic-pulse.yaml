@@ -1,7 +1,10 @@
 ability_type: Signature
 distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: ""
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 psychic damage
+      tier2: 5 psychic damage; push 1
+      tier3: 7 psychic damage; push 2
 feature_type: ability
 flavor: The force of your mind hurls enemies backward.
 keywords:

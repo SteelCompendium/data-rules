@@ -3,6 +3,12 @@
   "distance": "Three 3 [cubes](scc:mcdm.heroes.v1/rule.combat/cube) within 1",
   "effects": [
     {
+      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "7 sonic damage; P \u003c WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)",
+      "tier2": "10 sonic damage; P \u003c AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)",
+      "tier3": "13 sonic damage; P \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)"
+    },
+    {
       "effect": "A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.",
       "name": "Effect"
     }

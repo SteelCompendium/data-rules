@@ -16,10 +16,14 @@ keywords:
     - Weapon
 level: "1"
 name: I Work Better Alone
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/i-work-better-alone
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 3 + A damage
+tier2: 6 + A damage
+tier3: 9 + A damage
 type: ability
 ---
 
@@ -27,6 +31,10 @@ type: ability
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
     - effect: If the target has none of your allies [adjacent](../../../../rule/combat/adjacent.md) to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 3 + A damage
+      tier2: 6 + A damage
+      tier3: 9 + A damage
 feature_type: ability
 flavor: '"It''s better, just you and me. Isn''t it?"'
 keywords:
@@ -47,9 +55,13 @@ metadata:
         - Weapon
     level: "1"
     name: I Work Better Alone
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/i-work-better-alone
     subtype: signature
     target: One creature
+    tier1: 3 + A damage
+    tier2: 6 + A damage
+    tier3: 9 + A damage
     type: ability
 name: I Work Better Alone
 target: One creature

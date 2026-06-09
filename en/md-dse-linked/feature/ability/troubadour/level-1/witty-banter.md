@@ -16,11 +16,15 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Witty Banter
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter
 source: mcdm.heroes.v1
 spend: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
 subtype: signature
 target: One creature
+tier1: 4 + P psychic damage
+tier2: 5 + P psychic damage
+tier3: 7 + P psychic damage
 type: ability
 ---
 
@@ -28,6 +32,10 @@ type: ability
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
     - effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 4 + P psychic damage
+      tier2: 5 + P psychic damage
+      tier3: 7 + P psychic damage
     - effect: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
       name: Spend
 feature_type: ability
@@ -50,10 +58,14 @@ metadata:
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Witty Banter
+    power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter
     spend: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
     subtype: signature
     target: One creature
+    tier1: 4 + P psychic damage
+    tier2: 5 + P psychic damage
+    tier3: 7 + P psychic damage
     type: ability
 name: Witty Banter
 target: One creature

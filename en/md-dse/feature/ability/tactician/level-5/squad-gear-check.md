@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "5"
 name: Squad! Gear Check!
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-5/squad-gear-check
 source: mcdm.heroes.v1
 target: One creature
+tier1: 9 + M damage
+tier2: 13 + M damage
+tier3: 18 + M damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 9 Focus
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You and each ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 9 + M damage
+      tier2: 13 + M damage
+      tier3: 18 + M damage
 feature_type: ability
 flavor: You distract a foe while your allies secure their defensive gear.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "5"
     name: Squad! Gear Check!
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.tactician.level-5/squad-gear-check
     target: One creature
+    tier1: 9 + M damage
+    tier2: 13 + M damage
+    tier3: 18 + M damage
     type: ability
 name: Squad! Gear Check!
 target: One creature

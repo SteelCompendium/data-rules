@@ -15,10 +15,14 @@ keywords:
     - Weapon
 level: "1"
 name: Your Allies Cannot Save You!
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 3 + M holy damage
+tier2: 5 + M holy damage
+tier3: 8 + M holy damage
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: Each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target is pushed away from the target up to a number of squares equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 3 + M holy damage
+      tier2: 5 + M holy damage
+      tier3: 8 + M holy damage
 feature_type: ability
 flavor: Your magic [strike](scc:mcdm.heroes.v1/rule.combat/strike) [turns](scc:mcdm.heroes.v1/rule.combat/turn) your foe's guilt into a burst of holy power.
 keywords:
@@ -44,9 +52,13 @@ metadata:
         - Weapon
     level: "1"
     name: Your Allies Cannot Save You!
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you
     subtype: signature
     target: One creature or object
+    tier1: 3 + M holy damage
+    tier2: 5 + M holy damage
+    tier3: 8 + M holy damage
     type: ability
 name: Your Allies Cannot Save You!
 target: One creature or object

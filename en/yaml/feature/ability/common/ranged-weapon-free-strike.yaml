@@ -1,7 +1,10 @@
 ability_type: Free-strike
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 2 + M or A damage
+      tier2: 4 + M or A damage
+      tier3: 6 + M or A damage
 feature_type: ability
 keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'

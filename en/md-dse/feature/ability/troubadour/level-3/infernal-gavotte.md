@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "3"
 name: Infernal Gavotte
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 5 fire damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 7 fire damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 10 fire damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 7 Drama
 distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: Each ally in the area can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares.
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 5 fire damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 7 fire damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 10 fire damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: A spicy performance lights a fire under your allies' feet.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Weapon
     level: "3"
     name: Infernal Gavotte
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte
     target: Each enemy in the area
+    tier1: 5 fire damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier2: 7 fire damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 10 fire damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Infernal Gavotte
 target: Each enemy in the area

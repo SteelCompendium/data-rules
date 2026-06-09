@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "9"
 name: Apostate
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/apostate
 target: One creature
+tier1: 13 + M holy damage
+tier2: 19 + M holy damage
+tier3: 26 + M holy damage
 type: ability
 ---
 

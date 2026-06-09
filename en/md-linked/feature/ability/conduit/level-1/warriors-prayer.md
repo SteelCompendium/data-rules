@@ -10,9 +10,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Warrior's Prayer
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer
 subtype: signature
 target: One creature
+tier1: 3 + I holy damage
+tier2: 6 + I holy damage
+tier3: 9 + I holy damage
 type: ability
 ---
 

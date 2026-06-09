@@ -16,9 +16,13 @@ keywords:
     - Magic
 level: "9"
 name: Death Rattle
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)
+tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
+tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
 type: ability
 ---
 
@@ -26,7 +30,10 @@ type: ability
 cost: 11 Ferocity
 distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 3 [burst](../../../../rule/combat/burst.md)**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)\n- **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature\n- **17+:** 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature"
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)
+      tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
+      tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
 feature_type: ability
 flavor: You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.
 keywords:
@@ -43,8 +50,12 @@ metadata:
         - Magic
     level: "9"
     name: Death Rattle
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle
     target: Each enemy in the area
+    tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)
+    tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
+    tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
     type: ability
 name: Death Rattle
 target: Each enemy in the area

@@ -12,8 +12,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: Unquenchable Fire
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/unquenchable-fire
 target: One enemy or object
+tier1: 13 + R fire damage; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 18 + R fire damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 25 + R fire damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

@@ -8,9 +8,13 @@ keywords:
     - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
 name: Psionic Bolt
+power_roll_characteristic: '[Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt
 subtype: signature
 target: One creature or object
+tier1: 2 + R, I, or P psychic damage; slide 1
+tier2: 5 + R, I, or P psychic damage; slide 2
+tier3: 7 + R, I, or P psychic damage; slide 3
 type: ability
 ---
 

@@ -14,17 +14,24 @@ keywords:
     - Weapon
 kit: cloak-and-dagger
 name: Fade
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square
+tier2: 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares
+tier3: 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "*A stab, and a few quick, careful steps back.*\n\n| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10**       | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square\n- **12-16:** 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares\n- **17+:** 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares"
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square
+      tier2: 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares
+      tier3: 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares
 feature_type: ability
 flavor: A stab, and a few quick, careful steps back.
 keywords:
@@ -43,9 +50,13 @@ metadata:
         - Weapon
     kit: cloak-and-dagger
     name: Fade
+    power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade
     subtype: signature
     target: One creature
+    tier1: 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square
+    tier2: 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares
+    tier3: 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares
     type: ability
 name: Fade
 target: One creature

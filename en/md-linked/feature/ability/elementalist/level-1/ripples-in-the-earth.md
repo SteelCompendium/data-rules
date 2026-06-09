@@ -11,8 +11,12 @@ keywords:
     - Magic
 level: "1"
 name: Ripples in the Earth
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/ripples-in-the-earth
 target: Each enemy in the area
+tier1: 3 damage
+tier2: 5 damage
+tier3: 8 damage; M < STRONG[, prone](../../../../condition/prone.md)
 type: ability
 ---
 

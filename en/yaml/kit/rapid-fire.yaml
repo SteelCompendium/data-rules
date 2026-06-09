@@ -7,7 +7,10 @@ signature_ability:
     ability_type: Signature
     distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 12'
     effects:
-        - effect: ""
+        - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+          tier1: 4 damage
+          tier2: 6 damage
+          tier3: 8 damage
     feature_type: ability
     flavor: When you fire two arrows back-to-back, both hit their mark.
     keywords:

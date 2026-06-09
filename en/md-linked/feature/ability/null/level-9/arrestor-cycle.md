@@ -10,9 +10,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Arrestor Cycle
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-9/arrestor-cycle
 subtype: triggered
 target: One creature
+tier1: I < WEAK, the target loses their [turn](../../../../rule/combat/turn.md)
+tier2: I < AVERAGE, the target loses their [turn](../../../../rule/combat/turn.md)
+tier3: I < STRONG, the target loses their [turn](../../../../rule/combat/turn.md)
 trigger: The triggering creature starts their [turn](../../../../rule/combat/turn.md).
 type: ability
 ---

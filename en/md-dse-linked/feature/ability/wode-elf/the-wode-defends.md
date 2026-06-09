@@ -13,17 +13,24 @@ keywords:
     - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
 name: The Wode Defends
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 2 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+tier2: 3 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+tier3: 5 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "*Thorny vines erupt from every surface and attempt to bind your foe.*\n\n| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](../../../rule/combat/ranged.md) 10**          |           **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 2 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)\n- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)\n- **17+:** 5 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (save ends)"
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 2 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+      tier2: 3 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+      tier3: 5 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 feature_type: ability
 flavor: Thorny vines erupt from every surface and attempt to bind your foe.
 keywords:
@@ -40,9 +47,13 @@ metadata:
         - '[Ranged](../../../rule/combat/ranged.md)'
         - '[Strike](../../../rule/combat/strike.md)'
     name: The Wode Defends
+    power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends
     subtype: signature
     target: One creature
+    tier1: 2 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+    tier2: 3 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+    tier3: 5 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (save ends)
     type: ability
 name: The Wode Defends
 target: One creature

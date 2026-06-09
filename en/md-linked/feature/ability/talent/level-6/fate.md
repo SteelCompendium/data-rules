@@ -11,8 +11,12 @@ keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
 level: "6"
 name: Fate
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/fate
 target: One enemy
+tier1: 8 + P psychic damage
+tier2: 13 + P psychic damage
+tier3: 17 + P psychic damage
 type: ability
 ---
 

@@ -18,9 +18,13 @@ keywords:
     - Void
 level: "1"
 name: Behold the Mystery
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/behold-the-mystery
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 2 psychic damage
+tier2: 4 psychic damage
+tier3: 6 psychic damage
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 3 Essence
 distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
-    - effect: "\n*You open a rift into the void to harry your foes.*\n\n| **Area, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), Void** |               **Main action** |\n|-------------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10**       | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 4 psychic damage\n- **17+:** 6 psychic damage\n\n**Persistent 1:** At the start of your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use a maneuver to use this ability again without spending essence."
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 psychic damage
+      tier2: 4 psychic damage
+      tier3: 6 psychic damage
 feature_type: ability
 flavor: You open a rift into the void to harry your foes.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - Void
     level: "1"
     name: Behold the Mystery
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/behold-the-mystery
     target: Each enemy in the area
+    tier1: 2 psychic damage
+    tier2: 4 psychic damage
+    tier3: 6 psychic damage
     type: ability
 name: Behold the Mystery
 target: Each enemy in the area

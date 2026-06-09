@@ -49,6 +49,10 @@ You wear no armor and wield a bow.
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
 effects:
     - effect: If you don't take a move action this [turn](scc:mcdm.heroes.v1/rule.combat/turn), this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals extra damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 3 + M or A damage
+      tier2: 6 + M or A damage
+      tier3: 13 + M or A damage
 feature_type: ability
 flavor: Breathe... aim... wait... then strike!
 keywords:
@@ -65,8 +69,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Patient Shot
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     subtype: signature
     target: One creature
+    tier1: 3 + M or A damage
+    tier2: 6 + M or A damage
+    tier3: 13 + M or A damage
     type: ability
 name: Patient Shot
 target: One creature

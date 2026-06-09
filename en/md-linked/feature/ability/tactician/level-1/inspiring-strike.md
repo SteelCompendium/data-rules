@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "1"
 name: Inspiring Strike
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/inspiring-strike
 target: One creature or object
+tier1: 3 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)
+tier2: 5 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)
+tier3: 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md), and each of you gains an [edge](../../../../rule/dice/edge.md) on the next [ability roll](../../../../rule/dice/ability-roll.md) you make during the encounter
 type: ability
 ---
 

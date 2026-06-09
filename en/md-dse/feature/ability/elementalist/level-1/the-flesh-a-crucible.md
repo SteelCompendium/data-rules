@@ -18,9 +18,13 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: The Flesh, a Crucible
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 5 + R fire damage
+tier2: 8 + R fire damage
+tier3: 11 + R fire damage
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 3 Essence
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*Fire engulfs your target and continues to churn.*\n\n| **Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** |\n|---------------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 5 + R fire damage\n- **12-16:** 8 + R fire damage\n- **17+:** 11 + R fire damage\n\n**Persistent 1:** If the target is within [distance](scc:mcdm.heroes.v1/rule.combat/distance) at the start of your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can make the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) again without spending essence (no action required)."
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 5 + R fire damage
+      tier2: 8 + R fire damage
+      tier3: 11 + R fire damage
 feature_type: ability
 flavor: Fire engulfs your target and continues to churn.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: The Flesh, a Crucible
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible
     target: One creature or object
+    tier1: 5 + R fire damage
+    tier2: 8 + R fire damage
+    tier3: 11 + R fire damage
     type: ability
 name: The Flesh, a Crucible
 target: One creature or object

@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "2"
 name: Force Redirected
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/force-redirected
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + A damage; slide 1
+tier2: 12 + A damage; slide 3
+tier3: 16 + A damage; slide 5
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 5 Discipline
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
 effects:
-    - effect: "\n*The force of your [strike](scc:mcdm.heroes.v1/rule.combat/strike) moves your target in a surprising direction.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 8 + A damage; slide 1\n- **12-16:** 12 + A damage; slide 3\n- **17+:** 16 + A damage; slide 5"
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 8 + A damage; slide 1
+      tier2: 12 + A damage; slide 3
+      tier3: 16 + A damage; slide 5
 feature_type: ability
 flavor: The force of your [strike](scc:mcdm.heroes.v1/rule.combat/strike) moves your target in a surprising direction.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - Weapon
     level: "2"
     name: Force Redirected
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.null.level-2/force-redirected
     target: One creature
+    tier1: 8 + A damage; slide 1
+    tier2: 12 + A damage; slide 3
+    tier3: 16 + A damage; slide 5
     type: ability
 name: Force Redirected
 target: One creature

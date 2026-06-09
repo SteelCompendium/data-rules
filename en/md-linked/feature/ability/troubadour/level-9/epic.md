@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Epic
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/epic
 target: One creature
+tier1: The target takes a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) (save ends).
+tier2: The target has a double [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) (save ends).
+tier3: The target has a double [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) (save ends).
 type: ability
 ---
 

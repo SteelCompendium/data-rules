@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3",
   "effects": [
     {
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "13 + A corruption damage; push 3",
+      "tier2": "18 + A corruption damage; push 5",
+      "tier3": "25 + A corruption damage; push 7"
+    },
+    {
       "effect": "On a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the demon and pulled through the portal before it closes, never to be seen again.",
       "name": "Effect"
     }

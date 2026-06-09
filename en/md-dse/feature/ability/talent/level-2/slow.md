@@ -18,9 +18,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "2"
 name: Slow
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/slow
 source: mcdm.heroes.v1
 target: Three creatures or objects
+tier1: The target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is halved (save ends), or if P < WEAK, the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends).
+tier2: The target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends), or if P < AVERAGE, the target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is 0 (save ends).
+tier3: The target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends), or if P < STRONG, the target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is 0 (save ends).
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 5 Clarity
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: A target can't use [triggered actions](scc:mcdm.heroes.v1/rule.combat/triggered-action) while their [speed](scc:mcdm.heroes.v1/rule.character/speed) is reduced this way.
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: The target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is halved (save ends), or if P < WEAK, the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends).
+      tier2: The target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends), or if P < AVERAGE, the target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is 0 (save ends).
+      tier3: The target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends), or if P < STRONG, the target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is 0 (save ends).
 feature_type: ability
 flavor: Perhaps they wonder why everyone else is moving so quickly?
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "2"
     name: Slow
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/slow
     target: Three creatures or objects
+    tier1: The target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is halved (save ends), or if P < WEAK, the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends).
+    tier2: The target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends), or if P < AVERAGE, the target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is 0 (save ends).
+    tier3: The target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends), or if P < STRONG, the target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is 0 (save ends).
     type: ability
 name: Slow
 target: Three creatures or objects

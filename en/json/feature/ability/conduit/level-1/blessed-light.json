@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "3 + I holy damage",
+      "tier2": "5 + I holy damage",
+      "tier3": "8 + I holy damage"
+    },
+    {
       "effect": "One ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a number of [surges](scc:mcdm.heroes.v1/rule.resource/surge) equal to the [tier outcome](scc:mcdm.heroes.v1/rule.dice/tier-outcome) of your [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
       "name": "Effect"
     }

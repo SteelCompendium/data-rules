@@ -12,8 +12,12 @@ keywords:
     - Strike
 level: "3"
 name: Soul Burn
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn
 target: One creature
+tier1: 6 + P damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 10 + P damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 14 + P damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

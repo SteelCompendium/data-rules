@@ -1,6 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 5 + P psychic damage
+      tier2: 7 + P psychic damage
+      tier3: 10 + P psychic damage
     - effect: Each time the target willingly moves before the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), they take 1 psychic damage for each square they move.
       name: Effect
 feature_type: ability

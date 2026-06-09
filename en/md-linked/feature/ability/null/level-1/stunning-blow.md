@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "1"
 name: Stunning Blow
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow
 target: One creature or object
+tier1: 4 + A damage; I < WEAK, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 5 + A damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 7 + A damage; I < STRONG, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "3"
 name: Fear of the Gods
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods
 target: Each enemy in the area
+tier1: 6 psychic damage; I < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 9 psychic damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 13 psychic damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 

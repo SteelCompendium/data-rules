@@ -1,6 +1,10 @@
 cost: 9 Insight
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 10 + A damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: 15 + A damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: 21 + A damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     - effect: The target can't communicate with anyone until the end of the encounter.
       name: Effect
 feature_type: ability

@@ -17,9 +17,13 @@ keywords:
     - Weapon
 level: "3"
 name: Pinning Shot
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+tier2: 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+tier3: 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 7 Insight
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "\n*One missile—placed well and placed hard.*\n\n| **[Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)"
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 feature_type: ability
 flavor: One missile—placed well and placed hard.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - Weapon
     level: "3"
     name: Pinning Shot
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot
     target: One creature
+    tier1: 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+    tier2: 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+    tier3: 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
     type: ability
 name: Pinning Shot
 target: One creature

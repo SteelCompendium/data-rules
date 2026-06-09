@@ -10,9 +10,13 @@ keywords:
     - Weapon
 level: "1"
 name: Cutting Sarcasm
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm
 subtype: signature
 target: One creature
+tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 type: ability
 ---
 

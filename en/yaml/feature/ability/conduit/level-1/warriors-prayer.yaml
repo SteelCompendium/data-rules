@@ -1,6 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 3 + I holy damage
+      tier2: 6 + I holy damage
+      tier3: 9 + I holy damage
     - effect: You or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
       name: Effect
 feature_type: ability

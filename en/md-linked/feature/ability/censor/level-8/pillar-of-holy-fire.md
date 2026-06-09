@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "8"
 name: Pillar of Holy Fire
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-8/pillar-of-holy-fire
 target: One creature
+tier1: 9 + M damage; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 13 + M damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 18 + M damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

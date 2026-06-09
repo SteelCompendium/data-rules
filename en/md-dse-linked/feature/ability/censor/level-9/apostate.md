@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "9"
 name: Apostate
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/apostate
 source: mcdm.heroes.v1
 target: One creature
+tier1: 13 + M holy damage
+tier2: 19 + M holy damage
+tier3: 26 + M holy damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 13 + M holy damage
+      tier2: 19 + M holy damage
+      tier3: 26 + M holy damage
 feature_type: ability
 flavor: You channel holy energy to seal an enemy's fate.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "9"
     name: Apostate
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-9/apostate
     target: One creature
+    tier1: 13 + M holy damage
+    tier2: 19 + M holy damage
+    tier3: 26 + M holy damage
     type: ability
 name: Apostate
 target: One creature

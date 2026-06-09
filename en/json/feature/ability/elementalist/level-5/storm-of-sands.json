@@ -3,6 +3,12 @@
   "distance": "4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "2 damage",
+      "tier2": "5 damage",
+      "tier3": "7 damage"
+    },
+    {
       "effect": "The area lasts until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). It is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and you and your allies have [concealment](scc:mcdm.heroes.v1/rule.combat/concealment) while in the area.",
       "name": "Effect"
     }

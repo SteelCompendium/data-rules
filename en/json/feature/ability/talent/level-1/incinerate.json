@@ -3,6 +3,12 @@
   "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "2 fire damage",
+      "tier2": "4 fire damage",
+      "tier3": "6 fire damage"
+    },
+    {
       "effect": "A column of fire remains in the area until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Each enemy who enters the area for the first time in a [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round) or starts their turn there takes 2 fire damage.",
       "name": "Effect"
     }

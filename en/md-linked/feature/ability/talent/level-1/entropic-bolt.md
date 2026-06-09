@@ -11,9 +11,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Entropic Bolt
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt
 subtype: signature
 target: One creature or object
+tier1: 2 + P corruption damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 3 + P corruption damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 5 + P corruption damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

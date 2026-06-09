@@ -12,8 +12,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "5"
 name: Combustion Deferred
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-5/combustion-deferred
 target: One creature or object
+tier1: 8 + R fire damage
+tier2: 13 + R fire damage
+tier3: 17 + R fire damage
 type: ability
 ---
 

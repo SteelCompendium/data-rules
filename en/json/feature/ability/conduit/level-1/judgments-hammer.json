@@ -3,7 +3,10 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "3 + I holy damage; A \u003c WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)",
+      "tier2": "6 + I holy damage; A \u003c AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)",
+      "tier3": "9 + I holy damage; A \u003c STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)"
     }
   ],
   "feature_type": "ability",

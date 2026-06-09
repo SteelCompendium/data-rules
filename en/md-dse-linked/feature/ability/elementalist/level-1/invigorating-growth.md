@@ -19,9 +19,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Invigorating Growth
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth
 source: mcdm.heroes.v1
 target: One creature
+tier1: 4 + R poison damage
+tier2: 7 + R poison damage
+tier3: 11 + R poison damage
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 3 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](../../../../rule/combat/adjacent.md) creature as a main action.
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 4 + R poison damage
+      tier2: 7 + R poison damage
+      tier3: 11 + R poison damage
 feature_type: ability
 flavor: Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Invigorating Growth
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth
     target: One creature
+    tier1: 4 + R poison damage
+    tier2: 7 + R poison damage
+    tier3: 11 + R poison damage
     type: ability
 name: Invigorating Growth
 target: One creature

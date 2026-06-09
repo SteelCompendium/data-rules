@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "1"
 name: Hammer and Anvil
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 5 + M damage; one ally within 10 squares of you can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
+tier2: 9 + M damage; one ally within 10 squares of you can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
+tier3: 12 + M damage; two allies within 10 squares of you can each use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 5 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
     - effect: If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before one or both chosen allies has made their [strike](../../../../rule/combat/strike.md), the ally or allies can pick a different target.
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 5 + M damage; one ally within 10 squares of you can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
+      tier2: 9 + M damage; one ally within 10 squares of you can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
+      tier3: 12 + M damage; two allies within 10 squares of you can each use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
 feature_type: ability
 flavor: '"Let''s not argue about who''s the hammer and who''s the anvil!"'
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Weapon
     level: "1"
     name: Hammer and Anvil
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil
     target: One creature or object
+    tier1: 5 + M damage; one ally within 10 squares of you can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
+    tier2: 9 + M damage; one ally within 10 squares of you can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
+    tier3: 12 + M damage; two allies within 10 squares of you can each use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
     type: ability
 name: Hammer and Anvil
 target: One creature or object

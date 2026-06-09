@@ -9,9 +9,13 @@ keywords:
     - Weapon
 kit: cloak-and-dagger
 name: Fade
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade
 subtype: signature
 target: One creature
+tier1: 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square
+tier2: 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares
+tier3: 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares
 type: ability
 ---
 

@@ -10,9 +10,13 @@ keywords:
     - Weapon
 kit: arcane-archer
 name: Exploding Arrow
+power_roll_characteristic: '[Agility](../../../rule/character/agility.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow
 subtype: signature
 target: One creature or object
+tier1: 5 + A, R, I, or P fire damage
+tier2: 7 + A, R, I, or P fire damage
+tier3: 10 + A, R, I, or P fire damage
 type: ability
 ---
 

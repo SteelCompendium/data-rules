@@ -1,7 +1,10 @@
 cost: 3 Essence
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 5 + R fire damage
+      tier2: 8 + R fire damage
+      tier3: 11 + R fire damage
 feature_type: ability
 flavor: Fire engulfs your target and continues to churn.
 keywords:

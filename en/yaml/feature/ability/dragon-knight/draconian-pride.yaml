@@ -1,7 +1,10 @@
 ability_type: Signature
 distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: ""
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 2 damage
+      tier2: 5 damage; push 1
+      tier3: 7 damage; push 2
 feature_type: ability
 flavor: You let loose a mighty roar to shake your foes' spirits.
 keywords:

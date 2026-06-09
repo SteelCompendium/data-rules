@@ -12,9 +12,13 @@ keywords:
     - Weapon
 level: "5"
 name: Anticipating Strike
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-5/anticipating-strike
 subtype: triggered
 target: One creature
+tier1: 7 + A damage; I < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+tier2: 10 + A damage; I < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+tier3: 13 + A damage; I < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 trigger: The target moves or uses a main action.
 type: ability
 ---

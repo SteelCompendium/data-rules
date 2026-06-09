@@ -14,17 +14,24 @@ keywords:
     - Weapon
 level: "1"
 name: Impaled!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature of your [size](../../../../rule/character/size.md) or smaller
+tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "\n*You skewer your enemy like a boar upon a spit.*\n\n| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |                             **Main action** |\n|---------------------------|--------------------------------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1**            | **\U0001F3AF One creature of your [size](../../../../rule/character/size.md) or smaller** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)\n- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)\n- **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)"
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+      tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+      tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 feature_type: ability
 flavor: You skewer your enemy like a boar upon a spit.
 keywords:
@@ -42,9 +49,13 @@ metadata:
         - Weapon
     level: "1"
     name: Impaled!
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
     subtype: signature
     target: One creature of your [size](../../../../rule/character/size.md) or smaller
+    tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+    tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+    tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
     type: ability
 name: Impaled!
 target: One creature of your [size](../../../../rule/character/size.md) or smaller

@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "9"
 name: Renegotiated Contract
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/renegotiated-contract
 source: mcdm.heroes.v1
 target: One creature
+tier1: You and the target can each end one effect on yourselves that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your [turns](../../../../rule/combat/turn.md).
+tier2: You and the target can end any effects on yourselves that are ended by a [saving throw](../../../../rule/general/saving-throw.md) or that end at the end of your [turns](../../../../rule/combat/turn.md).
+tier3: You can choose any of the current effects on you and the target that are ended by a [saving throw](../../../../rule/general/saving-throw.md) or that end at the end of your [turns](../../../../rule/combat/turn.md), apply the chosen effects to the target, and end the rest.
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: Add your current [Stamina](../../../../rule/health/stamina.md) to your target's current [Stamina](../../../../rule/health/stamina.md), then you have half that total [Stamina](../../../../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../../../../rule/health/stamina.md) this way than their [Stamina](../../../../rule/health/stamina.md) maximum, the difference in [Stamina](../../../../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../../../../rule/health/stamina.md) than your maximum this way. You then make a [power roll](../../../../rule/dice/power-roll.md).
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: You and the target can each end one effect on yourselves that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your [turns](../../../../rule/combat/turn.md).
+      tier2: You and the target can end any effects on yourselves that are ended by a [saving throw](../../../../rule/general/saving-throw.md) or that end at the end of your [turns](../../../../rule/combat/turn.md).
+      tier3: You can choose any of the current effects on you and the target that are ended by a [saving throw](../../../../rule/general/saving-throw.md) or that end at the end of your [turns](../../../../rule/combat/turn.md), apply the chosen effects to the target, and end the rest.
 feature_type: ability
 flavor: No, no. You don't die until the sequel.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "9"
     name: Renegotiated Contract
+    power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/renegotiated-contract
     target: One creature
+    tier1: You and the target can each end one effect on yourselves that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your [turns](../../../../rule/combat/turn.md).
+    tier2: You and the target can end any effects on yourselves that are ended by a [saving throw](../../../../rule/general/saving-throw.md) or that end at the end of your [turns](../../../../rule/combat/turn.md).
+    tier3: You can choose any of the current effects on you and the target that are ended by a [saving throw](../../../../rule/general/saving-throw.md) or that end at the end of your [turns](../../../../rule/combat/turn.md), apply the chosen effects to the target, and end the rest.
     type: ability
 name: Renegotiated Contract
 target: One creature

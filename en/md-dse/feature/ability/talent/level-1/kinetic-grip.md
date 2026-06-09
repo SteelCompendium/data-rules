@@ -14,17 +14,24 @@ keywords:
     - Telekinesis
 level: "1"
 name: Kinetic Grip
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: Slide 2 + R
+tier2: Slide 4 + R
+tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*You lift and hurl your foe away from you.*\n\n| **Psionic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), Telekinesis** |               **Main action** |\n|----------------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                 | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** Slide 2 + R\n- **12-16:** Slide 4 + R\n- **17+:** Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)\n\n**Strained:** You must vertical push the target instead of sliding them."
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: Slide 2 + R
+      tier2: Slide 4 + R
+      tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: You lift and hurl your foe away from you.
 keywords:
@@ -42,9 +49,13 @@ metadata:
         - Telekinesis
     level: "1"
     name: Kinetic Grip
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip
     subtype: signature
     target: One creature or object
+    tier1: Slide 2 + R
+    tier2: Slide 4 + R
+    tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
     type: ability
 name: Kinetic Grip
 target: One creature or object

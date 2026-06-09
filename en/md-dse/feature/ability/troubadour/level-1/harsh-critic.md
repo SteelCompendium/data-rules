@@ -19,9 +19,13 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Harsh Critic
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 7 + P sonic damage
+tier2: 10 + P sonic damage
+tier3: 13 + P sonic damage
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 3 Drama
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The first time the target uses an ability before the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), any effects from the ability's [tier outcomes](scc:mcdm.heroes.v1/rule.dice/tier-outcome) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) work as usual.
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 7 + P sonic damage
+      tier2: 10 + P sonic damage
+      tier3: 13 + P sonic damage
 feature_type: ability
 flavor: Just one bad review will ruin their day.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Harsh Critic
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic
     target: One creature or object
+    tier1: 7 + P sonic damage
+    tier2: 10 + P sonic damage
+    tier3: 13 + P sonic damage
     type: ability
 name: Harsh Critic
 target: One creature or object

@@ -15,17 +15,24 @@ keywords:
     - Weapon
 level: "1"
 name: Magnetic Strike
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/magnetic-strike
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 5 + A psychic damage; vertical pull 1
+tier2: 8 + A psychic damage; vertical pull 2
+tier3: 11 + A psychic damage; vertical pull 3
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effects:
-    - effect: "\n*The force of your blow extends past the limits of your body, pulling your enemy closer.*\n\n| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 2**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 5 + A psychic damage; vertical pull 1\n- **12-16:** 8 + A psychic damage; vertical pull 2\n- **17+:** 11 + A psychic damage; vertical pull 3"
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 5 + A psychic damage; vertical pull 1
+      tier2: 8 + A psychic damage; vertical pull 2
+      tier3: 11 + A psychic damage; vertical pull 3
 feature_type: ability
 flavor: The force of your blow extends past the limits of your body, pulling your enemy closer.
 keywords:
@@ -45,9 +52,13 @@ metadata:
         - Weapon
     level: "1"
     name: Magnetic Strike
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.null.level-1/magnetic-strike
     subtype: signature
     target: One creature
+    tier1: 5 + A psychic damage; vertical pull 1
+    tier2: 8 + A psychic damage; vertical pull 2
+    tier3: 11 + A psychic damage; vertical pull 3
     type: ability
 name: Magnetic Strike
 target: One creature

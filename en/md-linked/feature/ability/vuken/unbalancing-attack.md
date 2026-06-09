@@ -8,9 +8,13 @@ keywords:
     - Weapon
 kit: vuken
 name: Unbalancing Attack
+power_roll_characteristic: '[Might](../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack
 subtype: signature
 target: One creature or object
+tier1: 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)
+tier2: 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)
+tier3: 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)
 type: ability
 ---
 

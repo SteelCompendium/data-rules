@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "8"
 name: Phase Hurl
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl
 target: One creature
+tier1: 9 + A damage; push 5; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 18 + A damage; push 10; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

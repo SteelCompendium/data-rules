@@ -15,10 +15,14 @@ keywords:
     - Weapon
 kit: spellsword
 name: Leaping Lightning
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 5 + M, R, I, or P lightning damage
+tier2: 8 + M, R, I, or P lightning damage
+tier3: 11 + M, R, I, or P lightning damage
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 5 + M, R, I, or P lightning damage
+      tier2: 8 + M, R, I, or P lightning damage
+      tier3: 11 + M, R, I, or P lightning damage
 feature_type: ability
 flavor: Lightning jumps from your weapon as you strike to harm a nearby foe.
 keywords:
@@ -45,9 +53,13 @@ metadata:
         - Weapon
     kit: spellsword
     name: Leaping Lightning
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning
     subtype: signature
     target: One creature or object
+    tier1: 5 + M, R, I, or P lightning damage
+    tier2: 8 + M, R, I, or P lightning damage
+    tier3: 11 + M, R, I, or P lightning damage
     type: ability
 name: Leaping Lightning
 target: One creature or object

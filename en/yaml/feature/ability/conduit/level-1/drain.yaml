@@ -1,6 +1,10 @@
 ability_type: Signature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 2 + I corruption damage
+      tier2: 5 + I corruption damage
+      tier3: 7 + I corruption damage
     - effect: You or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability

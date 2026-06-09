@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "1"
 name: Upstage
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md) or [Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage
 target: Self
+tier1: '[Taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)); A < WEAK[, prone](../../../../condition/prone.md)'
+tier2: '[Taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)); A < AVERAGE[, prone](../../../../condition/prone.md)'
+tier3: '[Taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)); A < STRONG, [prone and](../../../../condition/prone.md) can''t stand ([EoT](../../../../rule/combat/end-of-turn.md))'
 type: ability
 ---
 

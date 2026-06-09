@@ -13,17 +13,24 @@ keywords:
     - Weapon
 kit: guisarmier
 name: Forward Thrust, Backward Smash
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash
 source: mcdm.heroes.v1
 subtype: signature
 target: Two creatures or objects
+tier1: 4 damage
+tier2: 7 damage
+tier3: 9 damage
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
 effects:
-    - effect: "*In your hands, the haft is as good as the head.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |                 **Main action** |\n|---------------------------|--------------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2**            | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 damage\n- **12-16:** 7 damage\n- **17+:** 9 damage"
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 4 damage
+      tier2: 7 damage
+      tier3: 9 damage
 feature_type: ability
 flavor: In your hands, the haft is as good as the head.
 keywords:
@@ -40,9 +47,13 @@ metadata:
         - Weapon
     kit: guisarmier
     name: Forward Thrust, Backward Smash
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash
     subtype: signature
     target: Two creatures or objects
+    tier1: 4 damage
+    tier2: 7 damage
+    tier3: 9 damage
     type: ability
 name: Forward Thrust, Backward Smash
 target: Two creatures or objects

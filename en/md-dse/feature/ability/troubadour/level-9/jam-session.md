@@ -17,9 +17,13 @@ keywords:
     - Magic
 level: "9"
 name: Jam Session
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 8 sonic damage
+tier2: 11 sonic damage
+tier3: 15 sonic damage
 type: ability
 ---
 
@@ -28,6 +32,10 @@ cost: 11 Drama
 distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: Each creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance) gains a +5 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc:mcdm.heroes.v1/rule.character/speed) until the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn). While under this effect, each target must use their full movement during their [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 8 sonic damage
+      tier2: 11 sonic damage
+      tier3: 15 sonic damage
 feature_type: ability
 flavor: Your [jam session](scc:mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session) creates new genres that compel everyone to get up and move.
 keywords:
@@ -45,8 +53,12 @@ metadata:
         - Magic
     level: "9"
     name: Jam Session
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session
     target: Each enemy in the area
+    tier1: 8 sonic damage
+    tier2: 11 sonic damage
+    tier3: 15 sonic damage
     type: ability
 name: Jam Session
 target: Each enemy in the area

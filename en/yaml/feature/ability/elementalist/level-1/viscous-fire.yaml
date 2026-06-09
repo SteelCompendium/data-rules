@@ -1,7 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 + R fire damage; push 2
+      tier2: 5 + R fire damage; push 3
+      tier3: 7 + R fire damage; push 4
 feature_type: ability
 flavor: A jet of heavy fire erupts where you strike.
 keywords:

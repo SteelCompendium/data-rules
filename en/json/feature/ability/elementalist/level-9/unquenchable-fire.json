@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "13 + R fire damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier2": "18 + R fire damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier3": "25 + R fire damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
+    },
+    {
       "effect": "This damage ignores immunity.",
       "name": "Effect"
     }

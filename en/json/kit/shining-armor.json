@@ -9,6 +9,12 @@
     "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
     "effects": [
       {
+        "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+        "tier1": "5 + M or A damage",
+        "tier2": "8 + M or A damage",
+        "tier3": "11 + M or A damage"
+      },
+      {
         "effect": "The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
         "name": "Effect"
       }

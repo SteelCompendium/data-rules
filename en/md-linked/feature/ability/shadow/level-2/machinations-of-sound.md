@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Machinations of Sound
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound
 target: Each creature in the area
+tier1: Slide 4
+tier2: Slide 5
+tier3: Slide 7
 type: ability
 ---
 

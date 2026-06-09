@@ -18,9 +18,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "9"
 name: Godstorm
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/godstorm
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 2 lightning damage, 2 sonic damage
+tier2: 3 lightning damage, 3 sonic damage
+tier3: 5 lightning damage, 5 sonic damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Piety
 distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 5
 effects:
     - effect: A raging storm fills the area until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying). At the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn), you can move the storm up to 5 squares (no action required). On subsequent [turns](scc:mcdm.heroes.v1/rule.combat/turn) while the storm is active, you can use a maneuver to make its [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 2 lightning damage, 2 sonic damage
+      tier2: 3 lightning damage, 3 sonic damage
+      tier3: 5 lightning damage, 5 sonic damage
 feature_type: ability
 flavor: You summon a divine storm that remains under your control.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "9"
     name: Godstorm
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-9/godstorm
     target: Each enemy in the area
+    tier1: 2 lightning damage, 2 sonic damage
+    tier2: 3 lightning damage, 3 sonic damage
+    tier3: 5 lightning damage, 5 sonic damage
     type: ability
 name: Godstorm
 target: Each enemy in the area

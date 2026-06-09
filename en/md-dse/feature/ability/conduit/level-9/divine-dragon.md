@@ -17,9 +17,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "9"
 name: Divine Dragon
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/divine-dragon
 source: mcdm.heroes.v1
 target: Special
+tier1: 5 fire damage
+tier2: 9 fire damage
+tier3: 12 fire damage
 type: ability
 ---
 
@@ -28,6 +32,10 @@ cost: 11 Piety
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: You conjure a [size](scc:mcdm.heroes.v1/rule.character/size) 4 dragon that appears in an unoccupied space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). The dragon has [speed](scc:mcdm.heroes.v1/rule.character/speed) 6 and can [fly](scc:mcdm.heroes.v1/movement/fly), [stability](scc:mcdm.heroes.v1/rule.character/stability) 4, 100 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), immunity all to fire damage, and uses your [characteristics](scc:mcdm.heroes.v1/rule.character/characteristic). The dragon disappears at the end of the encounter, if their [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) drops to 0, or if you are [dying](scc:mcdm.heroes.v1/rule.health/dying).
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 5 fire damage
+      tier2: 9 fire damage
+      tier3: 12 fire damage
 feature_type: ability
 flavor: From nothing but divine will, you create a powerful ally.
 keywords:
@@ -45,8 +53,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "9"
     name: Divine Dragon
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-9/divine-dragon
     target: Special
+    tier1: 5 fire damage
+    tier2: 9 fire damage
+    tier3: 12 fire damage
     type: ability
 name: Divine Dragon
 target: Special

@@ -11,8 +11,12 @@ keywords:
     - Magic
 level: "8"
 name: World Torn Asunder
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder
 target: Each enemy in the area
+tier1: M < WEAK[, prone](../../../../condition/prone.md)
+tier2: M < AVERAGE[, prone](../../../../condition/prone.md)
+tier3: M < STRONG[, prone](../../../../condition/prone.md)
 type: ability
 ---
 

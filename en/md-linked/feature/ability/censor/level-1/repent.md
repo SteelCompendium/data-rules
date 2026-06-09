@@ -10,8 +10,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Repent!
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/repent
 target: One creature
+tier1: 5 + P holy damage; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 8 + P holy damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 11 + P holy damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

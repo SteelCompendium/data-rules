@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "The target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is halved (save ends), or if P \u003c WEAK, the target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends).",
+      "tier2": "The target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends), or if P \u003c AVERAGE, the target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is 0 (save ends).",
+      "tier3": "The target is [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends), or if P \u003c STRONG, the target's [speed](scc:mcdm.heroes.v1/rule.character/speed) is 0 (save ends)."
+    },
+    {
       "effect": "A target can't use [triggered actions](scc:mcdm.heroes.v1/rule.combat/triggered-action) while their [speed](scc:mcdm.heroes.v1/rule.character/speed) is reduced this way.",
       "name": "Effect"
     }

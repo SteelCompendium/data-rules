@@ -2,6 +2,10 @@ ability_type: Triggered
 cost: 11 Discipline
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: I < WEAK, the target loses their [turn](scc:mcdm.heroes.v1/rule.combat/turn)
+      tier2: I < AVERAGE, the target loses their [turn](scc:mcdm.heroes.v1/rule.combat/turn)
+      tier3: I < STRONG, the target loses their [turn](scc:mcdm.heroes.v1/rule.combat/turn)
     - effect: If the target loses their [turn](scc:mcdm.heroes.v1/rule.combat/turn), the round continues as if they had acted. A target who doesn't lose their [turn](scc:mcdm.heroes.v1/rule.combat/turn) takes psychic damage equal to twice your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score for each main action they take until the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
       name: Effect
 feature_type: ability

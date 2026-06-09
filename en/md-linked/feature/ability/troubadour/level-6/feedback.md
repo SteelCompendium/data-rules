@@ -10,8 +10,12 @@ keywords:
     - Magic
 level: "6"
 name: Feedback
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/feedback
 target: Each enemy in the area
+tier1: 7 sonic damage; P < WEAK[, prone](../../../../condition/prone.md)
+tier2: 10 sonic damage; P < AVERAGE[, prone](../../../../condition/prone.md)
+tier3: 13 sonic damage; P < STRONG[, prone](../../../../condition/prone.md)
 type: ability
 ---
 

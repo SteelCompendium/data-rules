@@ -4,6 +4,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "A \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier2": "A \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier3": "A \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
+    },
+    {
       "effect": "The target takes half the damage. You then make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) against the triggering creature.",
       "name": "Effect"
     }

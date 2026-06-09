@@ -18,9 +18,13 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "5"
 name: Beacon of Grace
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-5/beacon-of-grace
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + I holy damage
+tier2: 13 + I holy damage
+tier3: 17 + I holy damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 9 Piety
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries). If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before the end of the encounter, you can use a free [triggered action](scc:mcdm.heroes.v1/feature.conduit.level-1/triggered-action) to move this effect to another creature within [distance](scc:mcdm.heroes.v1/rule.combat/distance).
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 8 + I holy damage
+      tier2: 13 + I holy damage
+      tier3: 17 + I holy damage
 feature_type: ability
 flavor: You ignite a foe with holy radiance, rewarding allies who attack them.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "5"
     name: Beacon of Grace
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-5/beacon-of-grace
     target: One creature
+    tier1: 8 + I holy damage
+    tier2: 13 + I holy damage
+    tier3: 17 + I holy damage
     type: ability
 name: Beacon of Grace
 target: One creature

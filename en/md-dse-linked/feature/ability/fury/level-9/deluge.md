@@ -18,9 +18,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Deluge
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/deluge
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 7 damage
+tier2: 10 damage
+tier3: 15 damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Ferocity
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) and ignores [damage immunity](../../../../rule/damage/damage-immunity.md).
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 7 damage
+      tier2: 10 damage
+      tier3: 15 damage
 feature_type: ability
 flavor: You summon your [primordial storm](../../../fury/stormwight-kits/primordial-storm.md).
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "9"
     name: Deluge
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-9/deluge
     target: Each enemy in the area
+    tier1: 7 damage
+    tier2: 10 damage
+    tier3: 15 damage
     type: ability
 name: Deluge
 target: Each enemy in the area

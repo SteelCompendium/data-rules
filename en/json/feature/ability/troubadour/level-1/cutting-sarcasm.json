@@ -3,7 +3,10 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "2 + P psychic damage; P \u003c WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)",
+      "tier2": "5 + P psychic damage; P \u003c AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)",
+      "tier3": "7 + P psychic damage; P \u003c STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)"
     }
   ],
   "feature_type": "ability",

@@ -1,7 +1,10 @@
 cost: 9 Drama
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 12 + A damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+      tier2: 18 + A damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+      tier3: 24 + A damage; [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)), or if M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
 feature_type: ability
 flavor: It's love and blood or drama and blood. Either way, there's always blood.
 keywords:

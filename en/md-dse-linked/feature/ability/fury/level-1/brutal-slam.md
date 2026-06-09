@@ -14,17 +14,24 @@ keywords:
     - Weapon
 level: "1"
 name: Brutal Slam
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 3 + M damage; push 1
+tier2: 6 + M damage; push 2
+tier3: 9 + M damage; push 4
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "\n*The heavy impact of your weapon attacks drives your foes ever back.*\n\n| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |                **Main action** |\n|---------------------------|-------------------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1**            |  **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**\n\n- **≤11:** 3 + M damage; push 1\n- **12-16:** 6 + M damage; push 2\n- **17+:** 9 + M damage; push 4"
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 3 + M damage; push 1
+      tier2: 6 + M damage; push 2
+      tier3: 9 + M damage; push 4
 feature_type: ability
 flavor: The heavy impact of your weapon attacks drives your foes ever back.
 keywords:
@@ -42,9 +49,13 @@ metadata:
         - Weapon
     level: "1"
     name: Brutal Slam
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam
     subtype: signature
     target: One creature or object
+    tier1: 3 + M damage; push 1
+    tier2: 6 + M damage; push 2
+    tier3: 9 + M damage; push 4
     type: ability
 name: Brutal Slam
 target: One creature or object

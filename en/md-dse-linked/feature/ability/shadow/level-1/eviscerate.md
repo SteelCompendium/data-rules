@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "1"
 name: Eviscerate
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate
 source: mcdm.heroes.v1
 target: One creature
+tier1: 4 + A damage; A < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier2: 6 + A damage; A < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier3: 10 + A damage; A < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 3 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "\n*You leave your foe bleeding out after a devastating attack.*\n\n| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)\n- **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)\n- **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)"
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 4 + A damage; A < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier2: 6 + A damage; A < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier3: 10 + A damage; A < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 feature_type: ability
 flavor: You leave your foe bleeding out after a devastating attack.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - Weapon
     level: "1"
     name: Eviscerate
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate
     target: One creature
+    tier1: 4 + A damage; A < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+    tier2: 6 + A damage; A < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+    tier3: 10 + A damage; A < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
     type: ability
 name: Eviscerate
 target: One creature

@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "5"
 name: You Talk Too Much
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much
 target: One creature
+tier1: 10 + A damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 15 + A damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 21 + A damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

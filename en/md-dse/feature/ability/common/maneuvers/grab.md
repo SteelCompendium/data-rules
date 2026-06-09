@@ -11,9 +11,13 @@ keywords:
     - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 name: Grab
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
 source: mcdm.heroes.v1
 target: One creature
+tier1: No effect.
+tier2: You can grab the target, but if you do, the target can make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
+tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
 type: ability
 ---
 
@@ -21,6 +25,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: No effect.
+      tier2: You can grab the target, but if you do, the target can make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
+      tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
 feature_type: ability
 keywords:
     - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
@@ -33,8 +41,12 @@ metadata:
         - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     name: Grab
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
     target: One creature
+    tier1: No effect.
+    tier2: You can grab the target, but if you do, the target can make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
+    tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
     type: ability
 name: Grab
 target: One creature

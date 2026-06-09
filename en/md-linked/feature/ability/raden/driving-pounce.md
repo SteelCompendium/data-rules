@@ -9,9 +9,13 @@ keywords:
     - Weapon
 kit: raden
 name: Driving Pounce
+power_roll_characteristic: '[Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.raden/driving-pounce
 subtype: signature
 target: One creature or object
+tier1: 4 + A damage
+tier2: 7 + A damage; push 1
+tier3: 9 + A damage; push 2
 type: ability
 ---
 

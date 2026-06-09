@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "7 + M damage",
+      "tier2": "11 + M damage",
+      "tier3": "16 + M damage"
+    },
+    {
       "cost": "Spend 1+ Ferocity",
       "effect": "While you are [winded](scc:mcdm.heroes.v1/rule.health/winded), this ability deals an extra 1d6 damage for each ferocity spent. While you are [dying](scc:mcdm.heroes.v1/rule.health/dying), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) after making this [strike](scc:mcdm.heroes.v1/rule.combat/strike)."
     }

@@ -18,9 +18,13 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "9"
 name: Terror Manifest
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest
 source: mcdm.heroes.v1
 target: One creature
+tier1: 7 + P psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: 10 + P psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: 13 + P psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Wrath
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: While [frightened](scc:mcdm.heroes.v1/condition/frightened) this way, if a target who is a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded), they take an extra 25 psychic damage. If a target [frightened](scc:mcdm.heroes.v1/condition/frightened) this way is not a leader or solo creature and is [winded](scc:mcdm.heroes.v1/rule.health/winded), they are reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 7 + P psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: 10 + P psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: 13 + P psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 feature_type: ability
 flavor: '"I know what you fear."'
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "9"
     name: Terror Manifest
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest
     target: One creature
+    tier1: 7 + P psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier2: 10 + P psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier3: 13 + P psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
     type: ability
 name: Terror Manifest
 target: One creature

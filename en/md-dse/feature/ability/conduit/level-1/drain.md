@@ -15,10 +15,14 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Drain
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/drain
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 2 + I corruption damage
+tier2: 5 + I corruption damage
+tier3: 7 + I corruption damage
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 2 + I corruption damage
+      tier2: 5 + I corruption damage
+      tier3: 7 + I corruption damage
 feature_type: ability
 flavor: You drain the energy from your target to revitalize yourself or an ally.
 keywords:
@@ -44,9 +52,13 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Drain
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/drain
     subtype: signature
     target: One creature
+    tier1: 2 + I corruption damage
+    tier2: 5 + I corruption damage
+    tier3: 7 + I corruption damage
     type: ability
 name: Drain
 target: One creature

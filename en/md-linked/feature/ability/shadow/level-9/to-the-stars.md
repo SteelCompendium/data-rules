@@ -11,8 +11,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: To the Stars
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars
 target: One creature or object
+tier1: 4 + A fire damage; vertical push 8
+tier2: 7 + A fire damage; vertical push 10
+tier3: 11 + A fire damage; vertical push 15
 type: ability
 ---
 

@@ -11,9 +11,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Unquiet Ground
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/unquiet-ground
 subtype: signature
 target: Each enemy in the area
+tier1: 2 damage
+tier2: 5 damage
+tier3: 7 damage
 type: ability
 ---
 

@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "8 + M holy damage; P \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
+      "tier2": "12 + M holy damage; P \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
+      "tier3": "15 + M holy damage; P \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
+    },
+    {
       "effect": "If the target is already [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score.",
       "name": "Effect"
     }

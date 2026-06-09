@@ -3,7 +3,10 @@
   "distance": "3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "4 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)",
+      "tier2": "6 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature",
+      "tier3": "10 psychic damage; each target who is not a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded); any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature"
     }
   ],
   "feature_type": "ability",

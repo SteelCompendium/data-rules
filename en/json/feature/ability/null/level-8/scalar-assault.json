@@ -3,7 +3,10 @@
   "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 1",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "12 psychic damage; push 3",
+      "tier2": "17 psychic damage; push 5",
+      "tier3": "23 psychic damage; push 7"
     }
   ],
   "feature_type": "ability",

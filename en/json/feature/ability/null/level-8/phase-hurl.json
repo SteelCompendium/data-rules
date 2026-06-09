@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "9 + A damage; push 5; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier2": "13 + A damage; push 7; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier3": "18 + A damage; push 10; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
+    },
+    {
       "effect": "The target and each creature or object they collide with from this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](scc:mcdm.heroes.v1/condition/dazed) this way, they see glimpses of creatures from other parts of the timescape.",
       "name": "Effect"
     }

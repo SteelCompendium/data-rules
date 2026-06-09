@@ -14,17 +14,24 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Holy Lash
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 3 + I holy damage; vertical pull 2
+tier2: 5 + I holy damage; vertical pull 3
+tier3: 8 + I holy damage; vertical pull 4
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*A tendril of divine energy shoots forth to draw in your foe.*\n\n| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**           | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 3 + I holy damage; vertical pull 2\n- **12-16:** 5 + I holy damage; vertical pull 3\n- **17+:** 8 + I holy damage; vertical pull 4"
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 3 + I holy damage; vertical pull 2
+      tier2: 5 + I holy damage; vertical pull 3
+      tier3: 8 + I holy damage; vertical pull 4
 feature_type: ability
 flavor: A tendril of divine energy shoots forth to draw in your foe.
 keywords:
@@ -42,9 +49,13 @@ metadata:
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "1"
     name: Holy Lash
+    power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash
     subtype: signature
     target: One creature or object
+    tier1: 3 + I holy damage; vertical pull 2
+    tier2: 5 + I holy damage; vertical pull 3
+    tier3: 8 + I holy damage; vertical pull 4
     type: ability
 name: Holy Lash
 target: One creature or object

@@ -8,9 +8,13 @@ keywords:
     - Weapon
 kit: ranger
 name: Hamstring Shot
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.ranger/hamstring-shot
 subtype: signature
 target: One creature
+tier1: 3 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+tier2: 5 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+tier3: 7 + M or A damage; A < STRONG, [slowed](../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

@@ -19,9 +19,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "3"
 name: Maw of Earth
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 5 damage
+tier2: 9 damage
+tier3: 12 damage
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 7 Essence
 distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - effect: The ground in or directly beneath the area drops 3 squares.
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 5 damage
+      tier2: 9 damage
+      tier3: 12 damage
 feature_type: ability
 flavor: You open up the ground, spewing out shrapnel of stone and debris.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "3"
     name: Maw of Earth
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth
     target: Each enemy in the area
+    tier1: 5 damage
+    tier2: 9 damage
+    tier3: 12 damage
     type: ability
 name: Maw of Earth
 target: Each enemy in the area

@@ -16,9 +16,13 @@ keywords:
     - Magic
 level: "6"
 name: Invocation of Undoing
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 3 sonic damage; push 3
+tier2: 6 sonic damage; push 5
+tier3: 9 sonic damage; push 7
 type: ability
 ---
 
@@ -26,7 +30,10 @@ type: ability
 cost: 9 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*You utter a secret word of destruction known only to deities.*\n\n| **Area, Magic**  |               **Main action** |\n|------------------|------------------------------:|\n| **\U0001F4CF 4 [burst](../../../../rule/combat/burst.md)**   | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 3 sonic damage; push 3\n- **12-16:** 6 sonic damage; push 5\n- **17+:** 9 sonic damage; push 7\n\n**Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings."
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 3 sonic damage; push 3
+      tier2: 6 sonic damage; push 5
+      tier3: 9 sonic damage; push 7
 feature_type: ability
 flavor: You utter a secret word of destruction known only to deities.
 keywords:
@@ -43,8 +50,12 @@ metadata:
         - Magic
     level: "6"
     name: Invocation of Undoing
+    power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing
     target: Each enemy in the area
+    tier1: 3 sonic damage; push 3
+    tier2: 6 sonic damage; push 5
+    tier3: 9 sonic damage; push 7
     type: ability
 name: Invocation of Undoing
 target: Each enemy in the area

@@ -17,9 +17,13 @@ keywords:
     - Weapon
 level: "2"
 name: Death... Death!
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/death-death
 source: mcdm.heroes.v1
 target: One creature
+tier1: 3 + M damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: 5 + M damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: 8 + M damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 5 Ferocity
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: "\n*Your unbridled rage strikes terror in their hearts.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 3 + M damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **12-16:** 5 + M damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)\n- **17+:** 8 + M damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 3 + M damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: 5 + M damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: 8 + M damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 feature_type: ability
 flavor: Your unbridled rage strikes terror in their hearts.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - Weapon
     level: "2"
     name: Death... Death!
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-2/death-death
     target: One creature
+    tier1: 3 + M damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier2: 5 + M damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+    tier3: 8 + M damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
     type: ability
 name: Death... Death!
 target: One creature

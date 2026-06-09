@@ -13,17 +13,24 @@ keywords:
     - Weapon
 kit: retiarius
 name: Net and Stab
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.retiarius/net-and-stab
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+tier2: 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+tier3: 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md))
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](../../../rule/combat/melee.md) 2'
 effects:
-    - effect: "*The well-thrown net that follows your main attack leaves your foes right where you want them.*\n\n| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 2**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))\n- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))\n- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md))"
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+      tier2: 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+      tier3: 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md))
 feature_type: ability
 flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
 keywords:
@@ -40,9 +47,13 @@ metadata:
         - Weapon
     kit: retiarius
     name: Net and Stab
+    power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.retiarius/net-and-stab
     subtype: signature
     target: One creature
+    tier1: 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+    tier2: 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+    tier3: 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md))
     type: ability
 name: Net and Stab
 target: One creature

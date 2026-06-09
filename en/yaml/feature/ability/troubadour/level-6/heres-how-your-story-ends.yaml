@@ -1,7 +1,10 @@
 cost: 9 Drama
 distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: ""
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 2 psychic damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier2: 5 psychic damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+      tier3: 7 psychic damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 feature_type: ability
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:

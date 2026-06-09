@@ -1,6 +1,10 @@
 cost: 5 Discipline
 distance: Self
 effects:
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: You gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+      tier2: You gain 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+      tier3: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
     - effect: While you have [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while [dying](scc:mcdm.heroes.v1/rule.health/dying).
       name: Effect
 feature_type: ability

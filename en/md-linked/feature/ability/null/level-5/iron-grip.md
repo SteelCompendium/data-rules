@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "5"
 name: Iron Grip
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-5/iron-grip
 target: One creature
+tier1: 10 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
+tier2: 14 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+tier3: 18 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 

@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Slow
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/slow
 target: Three creatures or objects
+tier1: The target's [speed](../../../../rule/character/speed.md) is halved (save ends), or if P < WEAK, the target is [slowed](../../../../condition/slowed.md) (save ends).
+tier2: The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < AVERAGE, the target's [speed](../../../../rule/character/speed.md) is 0 (save ends).
+tier3: The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < STRONG, the target's [speed](../../../../rule/character/speed.md) is 0 (save ends).
 type: ability
 ---
 

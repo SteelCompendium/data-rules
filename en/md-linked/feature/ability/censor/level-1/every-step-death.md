@@ -10,9 +10,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Every Step... Death!
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death
 subtype: signature
 target: One creature
+tier1: 5 + P psychic damage
+tier2: 7 + P psychic damage
+tier3: 10 + P psychic damage
 type: ability
 ---
 

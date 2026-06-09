@@ -49,6 +49,10 @@ You wear light armor and wield a medium weapon.
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you push them.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 5 + M or A damage
+      tier2: 7 + M or A damage; push 1
+      tier3: 10 + M or A damage; push 2
 feature_type: ability
 flavor: All combat is a dance—and you'll be the one leading.
 keywords:
@@ -65,8 +69,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Fancy Footwork
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     subtype: signature
     target: One creature
+    tier1: 5 + M or A damage
+    tier2: 7 + M or A damage; push 1
+    tier3: 10 + M or A damage; push 2
     type: ability
 name: Fancy Footwork
 target: One creature

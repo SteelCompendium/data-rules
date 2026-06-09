@@ -15,10 +15,14 @@ keywords:
     - Weapon
 kit: raider
 name: Raider's Awe
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.raider/raiders-awe
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 3 + M or A damage
+tier2: 6 + M or A damage
+tier3: 8 + M or A damage
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) made before the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 3 + M or A damage
+      tier2: 6 + M or A damage
+      tier3: 8 + M or A damage
 feature_type: ability
 flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](scc:mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe)")
 keywords:
@@ -45,9 +53,13 @@ metadata:
         - Weapon
     kit: raider
     name: Raider's Awe
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.raider/raiders-awe
     subtype: signature
     target: One creature
+    tier1: 3 + M or A damage
+    tier2: 6 + M or A damage
+    tier3: 8 + M or A damage
     type: ability
 name: Raider's Awe
 target: One creature

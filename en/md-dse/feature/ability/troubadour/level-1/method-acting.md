@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "1"
 name: Method Acting
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting
 source: mcdm.heroes.v1
 target: One creature
+tier1: 6 + A damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 10 + A damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 14 + A damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 5 Drama
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can become [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends) to deal an extra 5 corruption damage to the target.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 6 + A damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 10 + A damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 14 + A damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: They're so hurt by your performance, you start to believe it yourself.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "1"
     name: Method Acting
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting
     target: One creature
+    tier1: 6 + A damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier2: 10 + A damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 14 + A damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Method Acting
 target: One creature

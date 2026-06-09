@@ -16,9 +16,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Patter Song
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song
 source: mcdm.heroes.v1
 target: Special
+tier1: One ally within [distance](../../../../rule/combat/distance.md) can take their [turn](../../../../rule/combat/turn.md) immediately after yours.
+tier2: Two allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order.
+tier3: Three allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../../../rule/combat/turn.md) this [combat round](../../../../rule/combat/combat-round.md).
 type: ability
 ---
 
@@ -26,7 +30,10 @@ type: ability
 cost: 9 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*Dazzle them with your fancy patter and they forget where they were.*\n\n| **Magic, [Ranged](../../../../rule/combat/ranged.md)** |   **Maneuver** |\n|-------------------|---------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**  | **\U0001F3AF Special** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** One ally within [distance](../../../../rule/combat/distance.md) can take their [turn](../../../../rule/combat/turn.md) immediately after yours.\n- **12-16:** Two allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order.\n- **17+:** Three allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../../../rule/combat/turn.md) this [combat round](../../../../rule/combat/combat-round.md)."
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: One ally within [distance](../../../../rule/combat/distance.md) can take their [turn](../../../../rule/combat/turn.md) immediately after yours.
+      tier2: Two allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order.
+      tier3: Three allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../../../rule/combat/turn.md) this [combat round](../../../../rule/combat/combat-round.md).
 feature_type: ability
 flavor: Dazzle them with your fancy patter and they forget where they were.
 keywords:
@@ -43,8 +50,12 @@ metadata:
         - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "5"
     name: Patter Song
+    power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song
     target: Special
+    tier1: One ally within [distance](../../../../rule/combat/distance.md) can take their [turn](../../../../rule/combat/turn.md) immediately after yours.
+    tier2: Two allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order.
+    tier3: Three allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../../../rule/combat/turn.md) this [combat round](../../../../rule/combat/combat-round.md).
     type: ability
 name: Patter Song
 target: Special

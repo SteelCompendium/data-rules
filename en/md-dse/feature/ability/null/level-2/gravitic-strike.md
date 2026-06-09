@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "2"
 name: Gravitic Strike
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + A psychic damage; vertical pull 3
+tier2: 12 + A psychic damage; vertical pull 5
+tier3: 16 + A psychic damage; vertical pull 7
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 5 Discipline
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
 effects:
-    - effect: "\n*Your fist emanates gravitic force that pulls a distant enemy closer.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), Psionic, [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3**                     | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 8 + A psychic damage; vertical pull 3\n- **12-16:** 12 + A psychic damage; vertical pull 5\n- **17+:** 16 + A psychic damage; vertical pull 7"
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 8 + A psychic damage; vertical pull 3
+      tier2: 12 + A psychic damage; vertical pull 5
+      tier3: 16 + A psychic damage; vertical pull 7
 feature_type: ability
 flavor: Your fist emanates gravitic force that pulls a distant enemy closer.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - Weapon
     level: "2"
     name: Gravitic Strike
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike
     target: One creature
+    tier1: 8 + A psychic damage; vertical pull 3
+    tier2: 12 + A psychic damage; vertical pull 5
+    tier3: 16 + A psychic damage; vertical pull 7
     type: ability
 name: Gravitic Strike
 target: One creature

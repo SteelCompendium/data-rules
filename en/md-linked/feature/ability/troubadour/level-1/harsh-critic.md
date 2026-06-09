@@ -12,8 +12,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Harsh Critic
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic
 target: One creature or object
+tier1: 7 + P sonic damage
+tier2: 10 + P sonic damage
+tier3: 13 + P sonic damage
 type: ability
 ---
 

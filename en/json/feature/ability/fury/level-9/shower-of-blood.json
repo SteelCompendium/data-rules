@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "12 + M damage",
+      "tier2": "18 + M damage",
+      "tier3": "24 + M damage"
+    },
+    {
       "effect": "Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take [triggered actions](scc:mcdm.heroes.v1/rule.combat/triggered-action) or free [triggered actions](scc:mcdm.heroes.v1/rule.combat/triggered-action), [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against them gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge), and their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores are considered 1 lower for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency).",
       "name": "Effect"
     }

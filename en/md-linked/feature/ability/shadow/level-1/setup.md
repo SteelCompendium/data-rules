@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "1"
 name: Setup
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/setup
 target: One creature
+tier1: 6 + A damage; R < WEAK, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
+tier2: 9 + A damage; R < AVERAGE, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
+tier3: 13 + A damage; R < STRONG, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
 type: ability
 ---
 

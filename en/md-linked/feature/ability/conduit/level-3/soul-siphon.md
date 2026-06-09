@@ -11,8 +11,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "3"
 name: Soul Siphon
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-3/soul-siphon
 target: One enemy
+tier1: 7 + I corruption damage
+tier2: 10 + I corruption damage
+tier3: 15 + I corruption damage
 type: ability
 ---
 

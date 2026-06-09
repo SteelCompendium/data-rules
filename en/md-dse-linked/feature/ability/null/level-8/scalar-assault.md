@@ -16,9 +16,13 @@ keywords:
     - Psionic
 level: "8"
 name: Scalar Assault
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 12 psychic damage; push 3
+tier2: 17 psychic damage; push 5
+tier3: 23 psychic damage; push 7
 type: ability
 ---
 
@@ -26,7 +30,10 @@ type: ability
 cost: 11 Discipline
 distance: 3 [cube](../../../../rule/combat/cube.md) within 1
 effects:
-    - effect: "\n*You warp reality to grow a limb for just a moment and make a single devastating attack.*\n\n| **Area, Psionic**      |               **Main action** |\n|------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](../../../../rule/combat/cube.md) within 1** | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 12 psychic damage; push 3\n- **12-16:** 17 psychic damage; push 5\n- **17+:** 23 psychic damage; push 7"
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 12 psychic damage; push 3
+      tier2: 17 psychic damage; push 5
+      tier3: 23 psychic damage; push 7
 feature_type: ability
 flavor: You warp reality to grow a limb for just a moment and make a single devastating attack.
 keywords:
@@ -43,8 +50,12 @@ metadata:
         - Psionic
     level: "8"
     name: Scalar Assault
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault
     target: Each enemy in the area
+    tier1: 12 psychic damage; push 3
+    tier2: 17 psychic damage; push 5
+    tier3: 23 psychic damage; push 7
     type: ability
 name: Scalar Assault
 target: Each enemy in the area

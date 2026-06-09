@@ -10,9 +10,13 @@ keywords:
     - Weapon
 level: "1"
 name: Pressure Points
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/pressure-points
 subtype: signature
 target: One creature or object
+tier1: 4 + A damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 7 + A damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 9 + A damage; A < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 

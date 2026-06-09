@@ -1,6 +1,10 @@
 cost: 9 Essence
 distance: 4 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 corruption damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier2: 3 corruption damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier3: 5 corruption damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
     - effect: The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). Each enemy who ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area is [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends).
       name: Effect
 feature_type: ability

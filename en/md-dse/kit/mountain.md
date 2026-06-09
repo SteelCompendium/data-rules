@@ -47,6 +47,10 @@ You wear heavy armor and wield a heavy weapon.
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: If the target dealt damage to you since the end of your last [turn](scc:mcdm.heroes.v1/rule.combat/turn), this [strike](scc:mcdm.heroes.v1/rule.combat/strike) deals additional damage equal to your [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility) score (your choice).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 3 + M or A damage
+      tier2: 5 + M or A damage
+      tier3: 13 + M or A damage
 feature_type: ability
 flavor: An enemy who tagged you will pay for that.
 keywords:
@@ -63,8 +67,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Pain for Pain
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     subtype: signature
     target: One creature
+    tier1: 3 + M or A damage
+    tier2: 5 + M or A damage
+    tier3: 13 + M or A damage
     type: ability
 name: Pain for Pain
 target: One creature

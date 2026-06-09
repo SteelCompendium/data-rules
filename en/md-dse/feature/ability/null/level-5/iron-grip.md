@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "5"
 name: Iron Grip
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.null.level-5/iron-grip
 source: mcdm.heroes.v1
 target: One creature
+tier1: 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier2: 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier3: 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 9 Discipline
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier2: 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier3: 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 feature_type: ability
 flavor: You grab the target with [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) force.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Weapon
     level: "5"
     name: Iron Grip
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.null.level-5/iron-grip
     target: One creature
+    tier1: 10 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier2: 14 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier3: 18 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
     type: ability
 name: Iron Grip
 target: One creature

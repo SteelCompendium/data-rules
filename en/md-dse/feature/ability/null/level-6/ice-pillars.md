@@ -17,9 +17,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "6"
 name: Ice Pillars
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.null.level-6/ice-pillars
 source: mcdm.heroes.v1
 target: Three creatures or objects
+tier1: Vertical slide 6
+tier2: Vertical slide 8
+tier3: Vertical slide 10
 type: ability
 ---
 
@@ -28,6 +32,10 @@ cost: 9 Discipline
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved.
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: Vertical slide 6
+      tier2: Vertical slide 8
+      tier3: Vertical slide 10
 feature_type: ability
 flavor: Pillars of ice erupt from the ground and launch your foes into the air.
 keywords:
@@ -45,8 +53,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "6"
     name: Ice Pillars
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.null.level-6/ice-pillars
     target: Three creatures or objects
+    tier1: Vertical slide 6
+    tier2: Vertical slide 8
+    tier3: Vertical slide 10
     type: ability
 name: Ice Pillars
 target: Three creatures or objects

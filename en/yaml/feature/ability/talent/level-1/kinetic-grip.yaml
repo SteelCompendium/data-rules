@@ -1,7 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: Slide 2 + R
+      tier2: Slide 4 + R
+      tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
 feature_type: ability
 flavor: You lift and hurl your foe away from you.
 keywords:

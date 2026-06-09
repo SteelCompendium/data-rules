@@ -15,17 +15,24 @@ keywords:
     - Weapon
 level: "1"
 name: Cutting Sarcasm
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*There you are, radiating your usual charisma.*\n\n| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**                  | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)\n- **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)\n- **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)"
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 feature_type: ability
 flavor: There you are, radiating your usual charisma.
 keywords:
@@ -45,9 +52,13 @@ metadata:
         - Weapon
     level: "1"
     name: Cutting Sarcasm
+    power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm
     subtype: signature
     target: One creature
+    tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+    tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+    tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
     type: ability
 name: Cutting Sarcasm
 target: One creature

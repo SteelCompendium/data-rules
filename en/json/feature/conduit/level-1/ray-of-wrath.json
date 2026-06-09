@@ -3,6 +3,12 @@
     "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "effects": [
       {
+        "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+        "tier1": "2 + I damage",
+        "tier2": "4 + I damage",
+        "tier3": "6 + I damage"
+      },
+      {
         "effect": "You can have this ability deal holy damage.",
         "name": "Effect"
       }

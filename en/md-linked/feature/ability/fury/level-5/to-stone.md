@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "5"
 name: To Stone!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-5/to-stone
 target: One creature
+tier1: 9 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 13 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 18 + M damage; M < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 

@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "2"
 name: Gravitic Strike
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike
 target: One creature
+tier1: 8 + A psychic damage; vertical pull 3
+tier2: 12 + A psychic damage; vertical pull 5
+tier3: 16 + A psychic damage; vertical pull 7
 type: ability
 ---
 

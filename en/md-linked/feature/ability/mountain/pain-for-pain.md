@@ -9,9 +9,13 @@ keywords:
     - Weapon
 kit: mountain
 name: Pain for Pain
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.mountain/pain-for-pain
 subtype: signature
 target: One creature
+tier1: 3 + M or A damage
+tier2: 5 + M or A damage
+tier3: 13 + M or A damage
 type: ability
 ---
 

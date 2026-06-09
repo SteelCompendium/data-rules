@@ -5,8 +5,12 @@ effect: You take a [bane](../../../../rule/dice/bane.md) on this maneuver if you
 keywords:
     - '-'
 name: Escape Grab
+power_roll_characteristic: '[Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab
 target: Self
+tier1: No effect.
+tier2: You can escape the grab, but if you do, a creature who has you [grabbed](../../../../condition/grabbed.md) can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against you before you are no longer [grabbed](../../../../condition/grabbed.md).
+tier3: You are no longer [grabbed](../../../../condition/grabbed.md).
 type: ability
 ---
 

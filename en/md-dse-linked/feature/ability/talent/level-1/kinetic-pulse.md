@@ -14,17 +14,24 @@ keywords:
     - Telepathy
 level: "1"
 name: Kinetic Pulse
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse
 source: mcdm.heroes.v1
 subtype: signature
 target: Each enemy in the area
+tier1: 2 psychic damage
+tier2: 5 psychic damage; push 1
+tier3: 7 psychic damage; push 2
 type: ability
 ---
 
 ```ds-feature
 distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*The force of your mind hurls enemies backward.*\n\n| **Area, Psionic, Telepathy** |               **Main action** |\n|------------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](../../../../rule/combat/burst.md)**               | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 5 psychic damage; push 1\n- **17+:** 7 psychic damage; push 2\n\n**Strained:** The size of the [burst](../../../../rule/combat/burst.md) increases by 2, and you are [bleeding](../../../../condition/bleeding.md) until the start of your next [turn](../../../../rule/combat/turn.md)."
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 psychic damage
+      tier2: 5 psychic damage; push 1
+      tier3: 7 psychic damage; push 2
 feature_type: ability
 flavor: The force of your mind hurls enemies backward.
 keywords:
@@ -42,9 +49,13 @@ metadata:
         - Telepathy
     level: "1"
     name: Kinetic Pulse
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse
     subtype: signature
     target: Each enemy in the area
+    tier1: 2 psychic damage
+    tier2: 5 psychic damage; push 1
+    tier3: 7 psychic damage; push 2
     type: ability
 name: Kinetic Pulse
 target: Each enemy in the area

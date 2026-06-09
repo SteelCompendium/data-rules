@@ -3,7 +3,10 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "6 + A damage; R \u003c WEAK, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)",
+      "tier2": "9 + A damage; R \u003c AVERAGE, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)",
+      "tier3": "13 + A damage; R \u003c STRONG, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)"
     }
   ],
   "feature_type": "ability",

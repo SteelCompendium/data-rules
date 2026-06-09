@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "12 + P sonic damage; push 5",
+      "tier2": "16 + P sonic damage; push 10",
+      "tier3": "22 + P sonic damage; push 15"
+    },
+    {
       "effect": "[Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).",
       "name": "Effect"
     }

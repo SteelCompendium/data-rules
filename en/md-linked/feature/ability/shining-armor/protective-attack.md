@@ -9,9 +9,13 @@ keywords:
     - Weapon
 kit: shining-armor
 name: Protective Attack
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shining-armor/protective-attack
 subtype: signature
 target: One creature
+tier1: 5 + M or A damage
+tier2: 8 + M or A damage
+tier3: 11 + M or A damage
 type: ability
 ---
 

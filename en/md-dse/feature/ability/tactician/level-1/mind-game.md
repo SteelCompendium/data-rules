@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "1"
 name: Mind Game
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 4 + M damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 6 + M damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 10 + M damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 5 Focus
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
     - effect: You mark the target.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 4 + M damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 6 + M damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 10 + M damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: Your attack demoralizes your foe. Your allies begin to think you can win.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Weapon
     level: "1"
     name: Mind Game
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game
     target: One creature or object
+    tier1: 4 + M damage; R < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier2: 6 + M damage; R < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 10 + M damage; R < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Mind Game
 target: One creature or object

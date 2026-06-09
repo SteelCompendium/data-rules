@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "10 + I damage; A \u003c WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)",
+      "tier2": "15 + I damage; A \u003c AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)",
+      "tier3": "21 + I damage; A \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
+    },
+    {
       "effect": "While [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, the target takes 10 damage at the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn).",
       "name": "Effect"
     }

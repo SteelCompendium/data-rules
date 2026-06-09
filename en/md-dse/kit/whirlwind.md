@@ -46,7 +46,10 @@ You wear no armor and wield a whip.
 ```ds-feature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
 effects:
-    - effect: "*When you draw your whip back after an attack, your enemy is drawn ever closer.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 4 + M or A damage; vertical pull 1\n- **12-16:** 7 + M or A damage; vertical pull 2\n- **17+:** 10 + M or A damage; vertical pull 3"
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 4 + M or A damage; vertical pull 1
+      tier2: 7 + M or A damage; vertical pull 2
+      tier3: 10 + M or A damage; vertical pull 3
 feature_type: ability
 flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
 keywords:
@@ -62,8 +65,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Extension of My Arm
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     subtype: signature
     target: One creature
+    tier1: 4 + M or A damage; vertical pull 1
+    tier2: 7 + M or A damage; vertical pull 2
+    tier3: 10 + M or A damage; vertical pull 3
     type: ability
 name: Extension of My Arm
 target: One creature

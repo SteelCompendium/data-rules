@@ -17,9 +17,13 @@ keywords:
     - Weapon
 level: "1"
 name: Setup
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/setup
 source: mcdm.heroes.v1
 target: One creature
+tier1: 6 + A damage; R < WEAK, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
+tier2: 9 + A damage; R < AVERAGE, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
+tier3: 13 + A damage; R < STRONG, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 5 Insight
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - effect: "\n*Your friends will thank you.*\n\n| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 6 + A damage; R < WEAK, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)\n- **12-16:** 9 + A damage; R < AVERAGE, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)\n- **17+:** 13 + A damage; R < STRONG, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)"
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 6 + A damage; R < WEAK, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
+      tier2: 9 + A damage; R < AVERAGE, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
+      tier3: 13 + A damage; R < STRONG, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
 feature_type: ability
 flavor: Your friends will thank you.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - Weapon
     level: "1"
     name: Setup
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/setup
     target: One creature
+    tier1: 6 + A damage; R < WEAK, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
+    tier2: 9 + A damage; R < AVERAGE, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
+    tier3: 13 + A damage; R < STRONG, the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 5 (save ends)
     type: ability
 name: Setup
 target: One creature

@@ -9,9 +9,13 @@ keywords:
     - Weapon
 kit: martial-artist
 name: Battle Grace
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.martial-artist/battle-grace
 subtype: signature
 target: One creature
+tier1: 5 + M or A damage
+tier2: 8 + M or A damage; you can swap places with the target
+tier3: 11 + M or A damage; you can swap places with the target
 type: ability
 ---
 

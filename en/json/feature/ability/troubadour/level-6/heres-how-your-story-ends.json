@@ -3,7 +3,10 @@
   "distance": "5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "2 psychic damage; P \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
+      "tier2": "5 psychic damage; P \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
+      "tier3": "7 psychic damage; P \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
     }
   ],
   "feature_type": "ability",

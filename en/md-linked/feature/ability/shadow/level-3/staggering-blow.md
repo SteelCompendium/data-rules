@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "3"
 name: Staggering Blow
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow
 target: One creature
+tier1: 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
+tier3: 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 type: ability
 ---
 

@@ -14,10 +14,14 @@ keywords:
     - Weapon
 kit: corven
 name: Wing Buffet
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.corven/wing-buffet
 source: mcdm.heroes.v1
 subtype: signature
 target: Each enemy in the area
+tier1: 3 damage
+tier2: 6 damage
+tier3: 8 damage
 type: ability
 ---
 
@@ -25,6 +29,10 @@ type: ability
 distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares before or after making the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 3 damage
+      tier2: 6 damage
+      tier3: 8 damage
 feature_type: ability
 flavor: Foes who try to close in around you do so at their peril.
 keywords:
@@ -42,9 +50,13 @@ metadata:
         - Weapon
     kit: corven
     name: Wing Buffet
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.corven/wing-buffet
     subtype: signature
     target: Each enemy in the area
+    tier1: 3 damage
+    tier2: 6 damage
+    tier3: 8 damage
     type: ability
 name: Wing Buffet
 target: Each enemy in the area

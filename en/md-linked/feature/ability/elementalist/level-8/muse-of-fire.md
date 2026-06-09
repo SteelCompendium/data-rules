@@ -12,8 +12,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Muse of Fire
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire
 target: Each enemy in the area
+tier1: '7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)'
+tier2: 10 fire damage; the Director loses 3 Malice
+tier3: 15 fire damage; the Director loses 4 Malice
 type: ability
 ---
 

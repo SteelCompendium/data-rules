@@ -9,6 +9,12 @@
     "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
     "effects": [
       {
+        "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+        "tier1": "4 damage",
+        "tier2": "6 damage",
+        "tier3": "8 damage"
+      },
+      {
         "effect": "If you use this ability on your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use it against one target, then use your maneuver and your move action for that [turn](scc:mcdm.heroes.v1/rule.combat/turn) before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.",
         "name": "Effect"
       }

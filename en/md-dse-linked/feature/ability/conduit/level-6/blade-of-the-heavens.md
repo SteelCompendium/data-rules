@@ -17,9 +17,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Blade of the Heavens
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + I damage; A < WEAK, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
+tier2: 12 + I damage; A < AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
+tier3: 16 + I damage; A < STRONG, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 9 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "\n*A greatsword streams down from the sky, threatening to pin your foe.*\n\n| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 8 + I damage; A < WEAK, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 12 + I damage; A < AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 16 + I damage; A < STRONG, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)"
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 8 + I damage; A < WEAK, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 12 + I damage; A < AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 16 + I damage; A < STRONG, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
 feature_type: ability
 flavor: A greatsword streams down from the sky, threatening to pin your foe.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "6"
     name: Blade of the Heavens
+    power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens
     target: One creature
+    tier1: 8 + I damage; A < WEAK, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
+    tier2: 12 + I damage; A < AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
+    tier3: 16 + I damage; A < STRONG, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
     type: ability
 name: Blade of the Heavens
 target: One creature

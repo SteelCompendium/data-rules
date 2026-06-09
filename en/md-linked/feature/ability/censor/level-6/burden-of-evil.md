@@ -10,8 +10,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Burden of Evil
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
 target: Three enemies
+tier1: Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

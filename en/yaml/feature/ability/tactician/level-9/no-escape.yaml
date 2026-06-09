@@ -1,6 +1,10 @@
 cost: 11 Focus
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 11 + M damage
+      tier2: 16 + M damage
+      tier3: 21 + M damage
     - effect: You mark the target.
       name: Effect
 feature_type: ability

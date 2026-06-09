@@ -12,17 +12,24 @@ keywords:
     - Stike
     - Weapon
 name: Melee Weapon Free Strike
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.common.free-strikes/melee-weapon-free-strike-combat
 source: mcdm.heroes.v1
 subtype: free-strike
 target: One creature or object
+tier1: 2 + M or A damage
+tier2: 5 + M or A damage
+tier3: 7 + M or A damage
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: "| **Charge, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), Stike, Weapon** |               **Main action** |\n| -------------------------------- | -----------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**                   | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 5 + M or A damage\n- **17+:** 7 + M or A damage"
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 2 + M or A damage
+      tier2: 5 + M or A damage
+      tier3: 7 + M or A damage
 feature_type: ability
 keywords:
     - Charge
@@ -38,9 +45,13 @@ metadata:
         - Stike
         - Weapon
     name: Melee Weapon Free Strike
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.common.free-strikes/melee-weapon-free-strike-combat
     subtype: free-strike
     target: One creature or object
+    tier1: 2 + M or A damage
+    tier2: 5 + M or A damage
+    tier3: 7 + M or A damage
     type: ability
 name: Melee Weapon Free Strike
 target: One creature or object

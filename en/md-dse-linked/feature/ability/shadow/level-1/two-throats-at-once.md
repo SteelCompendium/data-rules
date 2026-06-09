@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "1"
 name: Two Throats at Once
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/two-throats-at-once
 source: mcdm.heroes.v1
 target: Two creatures or objects
+tier1: 4 damage
+tier2: 6 damage
+tier3: 10 damage
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 3 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "\n*A bargain.*\n\n| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|-----------------------------------|--------------------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 10 damage"
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 4 damage
+      tier2: 6 damage
+      tier3: 10 damage
 feature_type: ability
 flavor: A bargain.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - Weapon
     level: "1"
     name: Two Throats at Once
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/two-throats-at-once
     target: Two creatures or objects
+    tier1: 4 damage
+    tier2: 6 damage
+    tier3: 10 damage
     type: ability
 name: Two Throats at Once
 target: Two creatures or objects

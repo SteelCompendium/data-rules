@@ -9,9 +9,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Staggering Curse
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse
 subtype: signature
 target: One creature or object
+tier1: 3 + I holy damage; slide 1
+tier2: 5 + I holy damage; slide 2
+tier3: 8 + I holy damage; slide 3
 type: ability
 ---
 

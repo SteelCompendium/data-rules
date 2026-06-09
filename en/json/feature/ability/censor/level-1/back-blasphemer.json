@@ -3,7 +3,10 @@
   "distance": "2 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 1",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "2 holy damage; push 1",
+      "tier2": "4 holy damage; push 2",
+      "tier3": "6 holy damage; push 3"
     }
   ],
   "feature_type": "ability",

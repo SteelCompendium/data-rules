@@ -17,9 +17,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Saint's Tempest
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 2 lightning damage; vertical slide 1
+tier2: 5 lightning damage; vertical slide 2
+tier3: 7 lightning damage; vertical slide 3
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 5 Piety
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
-    - effect: "\n*A raging storm appears, striking your foes with lightning and throwing them around with wind.*\n\n| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |\n|--------------------------|------------------------------:|\n| **\U0001F4CF 3 [cube](../../../../rule/combat/cube.md) within 10**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**\n\n- **≤11:** 2 lightning damage; vertical slide 1\n- **12-16:** 5 lightning damage; vertical slide 2\n- **17+:** 7 lightning damage; vertical slide 3"
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 2 lightning damage; vertical slide 1
+      tier2: 5 lightning damage; vertical slide 2
+      tier3: 7 lightning damage; vertical slide 3
 feature_type: ability
 flavor: A raging storm appears, striking your foes with lightning and throwing them around with wind.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "2"
     name: Saint's Tempest
+    power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest
     target: Each enemy in the area
+    tier1: 2 lightning damage; vertical slide 1
+    tier2: 5 lightning damage; vertical slide 2
+    tier3: 7 lightning damage; vertical slide 3
     type: ability
 name: Saint's Tempest
 target: Each enemy in the area

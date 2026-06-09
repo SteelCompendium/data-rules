@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "12 + A damage",
+      "tier2": "18 + A damage",
+      "tier3": "24 + A damage"
+    },
+    {
       "effect": "A target who is not a minion, leader, or solo creature and who is [winded](scc:mcdm.heroes.v1/rule.health/winded) after taking this damage is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).",
       "name": "Effect"
     }

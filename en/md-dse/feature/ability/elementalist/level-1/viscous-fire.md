@@ -15,17 +15,24 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Viscous Fire
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 2 + R fire damage; push 2
+tier2: 5 + R fire damage; push 3
+tier3: 7 + R fire damage; push 4
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*A jet of heavy fire erupts where you strike.*\n\n| **Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |               **Main action** | \n|---------------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 + R fire damage; push 2\n- **12-16:** 5 + R fire damage; push 3\n- **17+:** 7 + R fire damage; push 4"
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 + R fire damage; push 2
+      tier2: 5 + R fire damage; push 3
+      tier3: 7 + R fire damage; push 4
 feature_type: ability
 flavor: A jet of heavy fire erupts where you strike.
 keywords:
@@ -45,9 +52,13 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Viscous Fire
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire
     subtype: signature
     target: One creature or object
+    tier1: 2 + R fire damage; push 2
+    tier2: 5 + R fire damage; push 3
+    tier3: 7 + R fire damage; push 4
     type: ability
 name: Viscous Fire
 target: One creature or object

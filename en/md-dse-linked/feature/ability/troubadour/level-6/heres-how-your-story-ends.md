@@ -16,9 +16,13 @@ keywords:
     - Magic
 level: "6"
 name: Here's How Your Story Ends
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 
@@ -26,7 +30,10 @@ type: ability
 cost: 9 Drama
 distance: 5 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*You give away the ending of this battle, and it's not great for them.*\n\n| **Area, Magic** |               **Main action** |\n|-----------------|------------------------------:|\n| **\U0001F4CF 5 [burst](../../../../rule/combat/burst.md)**  | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**\n\n- **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)\n- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)\n- **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)"
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 feature_type: ability
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:
@@ -43,8 +50,12 @@ metadata:
         - Magic
     level: "6"
     name: Here's How Your Story Ends
+    power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends
     target: Each enemy in the area
+    tier1: 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+    tier2: 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+    tier3: 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
     type: ability
 name: Here's How Your Story Ends
 target: Each enemy in the area

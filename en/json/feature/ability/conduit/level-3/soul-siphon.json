@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "7 + I corruption damage",
+      "tier2": "10 + I corruption damage",
+      "tier3": "15 + I corruption damage"
+    },
+    {
       "effect": "One ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can spend any number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries).",
       "name": "Effect"
     }

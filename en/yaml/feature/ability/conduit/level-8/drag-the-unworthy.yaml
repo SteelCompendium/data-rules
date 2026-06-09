@@ -1,6 +1,10 @@
 cost: 11 Piety
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 9 + I holy damage; slide 3
+      tier2: 13 + I holy damage; slide 4
+      tier3: 18 + I holy damage; slide 6
     - effect: Each ally the target comes [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability

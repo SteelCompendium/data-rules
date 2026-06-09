@@ -1,6 +1,10 @@
 cost: 11 Ferocity
 distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 3 damage; vertical pull 3
+      tier2: 5 damage; vertical pull 5
+      tier3: 8 damage; vertical pull 7
     - effect: If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
       name: Effect
 feature_type: ability

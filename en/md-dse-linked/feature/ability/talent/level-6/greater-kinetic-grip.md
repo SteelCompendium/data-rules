@@ -18,9 +18,13 @@ keywords:
     - Telekinesis
 level: "6"
 name: Greater Kinetic Grip
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
+tier2: Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
+tier3: Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 9 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*You raise the target into the air without breaking a sweat.*\n\n| **Psionic, [Ranged](../../../../rule/combat/ranged.md)**, **Strike, Telekinesis** |               **Main action** |\n|----------------------------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**                             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical\n- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical\n- **17+:** Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical\n\n**Strained:** The [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). You take 2d6 damage and are [weakened](../../../../condition/weakened.md) (save ends)."
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
+      tier2: Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
+      tier3: Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
 feature_type: ability
 flavor: You raise the target into the air without breaking a sweat.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - Telekinesis
     level: "6"
     name: Greater Kinetic Grip
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip
     target: One creature or object
+    tier1: Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
+    tier2: Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
+    tier3: Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
     type: ability
 name: Greater Kinetic Grip
 target: One creature or object

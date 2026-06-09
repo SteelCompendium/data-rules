@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "1"
 name: Behold a Shield of Faith!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith
 target: One creature or object
+tier1: 3 + M holy damage
+tier2: 6 + M holy damage
+tier3: 9 + M holy damage
 type: ability
 ---
 

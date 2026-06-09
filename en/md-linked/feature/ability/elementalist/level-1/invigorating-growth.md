@@ -12,8 +12,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Invigorating Growth
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth
 target: One creature
+tier1: 4 + R poison damage
+tier2: 7 + R poison damage
+tier3: 11 + R poison damage
 type: ability
 ---
 

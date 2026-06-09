@@ -10,8 +10,12 @@ keywords:
     - Magic
 level: "3"
 name: Extensive Rewrites
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/extensive-rewrites
 target: Each enemy in the area
+tier1: Slide 3; P < WEAK, this slide ignores the target's [stability](../../../../rule/character/stability.md)
+tier2: Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../../rule/character/stability.md)
+tier3: Slide 7; P < STRONG, this slide ignores the target's [stability](../../../../rule/character/stability.md)
 type: ability
 ---
 

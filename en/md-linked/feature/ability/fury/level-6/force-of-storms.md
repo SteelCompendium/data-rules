@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "6"
 name: Force of Storms
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/force-of-storms
 target: One creature
+tier1: 7 + M damage; push 3
+tier2: 11 + M damage; push 5
+tier3: 16 + M damage; push 7
 type: ability
 ---
 

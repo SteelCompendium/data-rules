@@ -17,9 +17,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Faith Is Our Armor
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor
 source: mcdm.heroes.v1
 target: Four allies
+tier1: The target gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+tier2: The target gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+tier3: The target gains 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
 type: ability
 ---
 
@@ -28,6 +32,10 @@ cost: 5 Piety
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: You can target yourself instead of one ally with this ability.
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: The target gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+      tier2: The target gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+      tier3: The target gains 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
 feature_type: ability
 flavor: The heroes' armor glows with golden light, granting divine protection.
 keywords:
@@ -45,8 +53,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Faith Is Our Armor
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor
     target: Four allies
+    tier1: The target gains 5 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+    tier2: The target gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+    tier3: The target gains 15 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
     type: ability
 name: Faith Is Our Armor
 target: Four allies

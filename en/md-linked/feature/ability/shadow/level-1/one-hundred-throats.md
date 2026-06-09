@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "1"
 name: One Hundred Throats
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/one-hundred-throats
 target: Self
+tier1: 3 damage
+tier2: 6 damage
+tier3: 9 damage
 type: ability
 ---
 

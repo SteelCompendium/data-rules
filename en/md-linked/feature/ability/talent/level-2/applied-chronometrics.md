@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Applied Chronometrics
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics
 target: Special
+tier1: You target two creatures, one of which can be you.
+tier2: You target three creatures, one of which can be you.
+tier3: You target four creatures, one of which can be you.
 type: ability
 ---
 

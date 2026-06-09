@@ -17,9 +17,13 @@ keywords:
     - Weapon
 level: "2"
 name: Phalanx-Breaker
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/phalanx-breaker
 source: mcdm.heroes.v1
 target: Self
+tier1: 2 damage; A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier2: 4 damage; A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier3: 6 damage; A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -28,6 +32,10 @@ cost: 5 Ferocity
 distance: Self; see below
 effects:
     - effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed) and make one [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) that targets up to three enemies you move [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 2 damage; A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: 4 damage; A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: 6 damage; A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 feature_type: ability
 flavor: Organizing your forces like feckless creatures of Law. Pitiful.
 keywords:
@@ -45,8 +53,12 @@ metadata:
         - Weapon
     level: "2"
     name: Phalanx-Breaker
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-2/phalanx-breaker
     target: Self
+    tier1: 2 damage; A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier2: 4 damage; A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier3: 6 damage; A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     type: ability
 name: Phalanx-Breaker
 target: Self

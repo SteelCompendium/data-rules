@@ -18,9 +18,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "3"
 name: Soul Siphon
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-3/soul-siphon
 source: mcdm.heroes.v1
 target: One enemy
+tier1: 7 + I corruption damage
+tier2: 10 + I corruption damage
+tier3: 15 + I corruption damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 7 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: One ally within [distance](../../../../rule/combat/distance.md) can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 7 + I corruption damage
+      tier2: 10 + I corruption damage
+      tier3: 15 + I corruption damage
 feature_type: ability
 flavor: A beam of energy connects a foe to a friend, draining life from one to heal the other.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "3"
     name: Soul Siphon
+    power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-3/soul-siphon
     target: One enemy
+    tier1: 7 + I corruption damage
+    tier2: 10 + I corruption damage
+    tier3: 15 + I corruption damage
     type: ability
 name: Soul Siphon
 target: One enemy

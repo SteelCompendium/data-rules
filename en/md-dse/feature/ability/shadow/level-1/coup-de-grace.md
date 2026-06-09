@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "1"
 name: Coup de Grace
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace
 source: mcdm.heroes.v1
 target: One creature
+tier1: 2d6 + 7 + A damage
+tier2: 2d6 + 11 + A damage
+tier3: 2d6 + 16 + A damage
 type: ability
 ---
 
@@ -28,7 +32,10 @@ type: ability
 cost: 5 Insight
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - effect: "\n*Your blade might be the last thing they see.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|-----------------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**        | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2d6 + 7 + A damage\n- **12-16:** 2d6 + 11 + A damage\n- **17+:** 2d6 + 16 + A damage"
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 2d6 + 7 + A damage
+      tier2: 2d6 + 11 + A damage
+      tier3: 2d6 + 16 + A damage
 feature_type: ability
 flavor: Your blade might be the last thing they see.
 keywords:
@@ -49,8 +56,12 @@ metadata:
         - Weapon
     level: "1"
     name: Coup de Grace
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace
     target: One creature
+    tier1: 2d6 + 7 + A damage
+    tier2: 2d6 + 11 + A damage
+    tier3: 2d6 + 16 + A damage
     type: ability
 name: Coup de Grace
 target: One creature

@@ -19,9 +19,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "2"
 name: Volcano's Embrace
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/volcanos-embrace
 source: mcdm.heroes.v1
 target: One creature
+tier1: 5 + R fire damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+tier2: 9 + R fire damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+tier3: 12 + R fire damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
@@ -29,7 +33,10 @@ type: ability
 cost: 5 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*Wrap them up in fire and melting stone.*\n\n| **Earth, Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |\n|----------------------------------------|--------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10**                       | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)\n- **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)\n- **17+:** 12 + R fire damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)"
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 5 + R fire damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 9 + R fire damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 12 + R fire damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 feature_type: ability
 flavor: Wrap them up in fire and melting stone.
 keywords:
@@ -52,8 +59,12 @@ metadata:
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "2"
     name: Volcano's Embrace
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/volcanos-embrace
     target: One creature
+    tier1: 5 + R fire damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+    tier2: 9 + R fire damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+    tier3: 12 + R fire damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
     type: ability
 name: Volcano's Embrace
 target: One creature

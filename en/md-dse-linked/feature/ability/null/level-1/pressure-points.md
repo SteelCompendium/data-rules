@@ -15,17 +15,24 @@ keywords:
     - Weapon
 level: "1"
 name: Pressure Points
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/pressure-points
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 4 + A damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 7 + A damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 9 + A damage; A < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
-    - effect: "\n*You strike at key nerve clusters to leave your foe staggered.*\n\n| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |\n|------------------------------------|------------------------------:|\n| **\U0001F4CF [Melee](../../../../rule/combat/melee.md) 1**                     | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 4 + A damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)\n- **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)\n- **17+:** 9 + A damage; A < STRONG, [weakened](../../../../condition/weakened.md) (save ends)"
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 4 + A damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 7 + A damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 9 + A damage; A < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 feature_type: ability
 flavor: You strike at key nerve clusters to leave your foe staggered.
 keywords:
@@ -45,9 +52,13 @@ metadata:
         - Weapon
     level: "1"
     name: Pressure Points
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.null.level-1/pressure-points
     subtype: signature
     target: One creature or object
+    tier1: 4 + A damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+    tier2: 7 + A damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+    tier3: 9 + A damage; A < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
     type: ability
 name: Pressure Points
 target: One creature or object

@@ -3,7 +3,10 @@
   "distance": "5 x 1 line within 5",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "12 damage; M \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier2": "18 damage; M \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier3": "24 damage; M \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
     }
   ],
   "feature_type": "ability",

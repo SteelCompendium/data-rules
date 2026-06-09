@@ -1,6 +1,10 @@
 cost: 11 Clarity
 distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 6 damage; push 7
+      tier2: 9 damage; push 10
+      tier3: 13 damage; push 15
     - effect: On a [critical hit](scc:mcdm.heroes.v1/rule.combat/critical-hit), the size of the area increases by 3, and this ability deals an extra 10 damage.
       name: Effect
 feature_type: ability

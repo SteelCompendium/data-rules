@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "1"
 name: Behold a Shield of Faith!
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 3 + M holy damage
+tier2: 6 + M holy damage
+tier3: 9 + M holy damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 3 Wrath
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: Until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), enemies take a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [ability rolls](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against you or any ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 3 + M holy damage
+      tier2: 6 + M holy damage
+      tier3: 9 + M holy damage
 feature_type: ability
 flavor: A mighty blow [turns](scc:mcdm.heroes.v1/rule.combat/turn) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "1"
     name: Behold a Shield of Faith!
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith
     target: One creature or object
+    tier1: 3 + M holy damage
+    tier2: 6 + M holy damage
+    tier3: 9 + M holy damage
     type: ability
 name: Behold a Shield of Faith!
 target: One creature or object

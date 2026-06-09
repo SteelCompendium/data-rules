@@ -2,6 +2,10 @@ ability_type: Triggered
 cost: 9 Ferocity
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 6 + M damage
+      tier2: 9 + M damage
+      tier3: 13 + M damage
     - effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability

@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "8"
 name: Assassinate
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/assassinate
 target: One creature or object
+tier1: 12 + A damage
+tier2: 18 + A damage
+tier3: 24 + A damage
 type: ability
 ---
 

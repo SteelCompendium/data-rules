@@ -3,6 +3,12 @@
   "distance": "5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "6 psychic damage; I \u003c WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
+      "tier2": "9 psychic damage; I \u003c AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)",
+      "tier3": "13 psychic damage; I \u003c STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)"
+    },
+    {
       "effect": "Each target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or a creature you choose within [distance](scc:mcdm.heroes.v1/rule.combat/distance).",
       "name": "Effect"
     }

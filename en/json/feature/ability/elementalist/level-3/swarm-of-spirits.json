@@ -3,6 +3,12 @@
   "distance": "3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "3 damage",
+      "tier2": "6 damage",
+      "tier3": "9 damage"
+    },
+    {
       "effect": "Until the end of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn), each ally in the area has each of their [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores treated as 1 higher for the purpose of resisting [potencies](scc:mcdm.heroes.v1/rule.character/potency), and has a +1 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [saving throws](scc:mcdm.heroes.v1/rule.general/saving-throw).",
       "name": "Effect"
     }

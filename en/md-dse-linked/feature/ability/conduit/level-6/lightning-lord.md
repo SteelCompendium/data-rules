@@ -17,9 +17,13 @@ keywords:
     - Magic
 level: "6"
 name: Lightning Lord
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/lightning-lord
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 6 lightning damage; push 1
+tier2: 9 lightning damage; push 2
+tier3: 13 lightning damage; push 3
 type: ability
 ---
 
@@ -28,6 +32,10 @@ cost: 9 Piety
 distance: Three 10 x 1 lines within 1
 effects:
     - effect: The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 6 lightning damage; push 1
+      tier2: 9 lightning damage; push 2
+      tier3: 13 lightning damage; push 3
 feature_type: ability
 flavor: Lightning [bursts](../../../../rule/combat/burst.md) forth from your body in several directions.
 keywords:
@@ -45,8 +53,12 @@ metadata:
         - Magic
     level: "6"
     name: Lightning Lord
+    power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-6/lightning-lord
     target: Each enemy in the area
+    tier1: 6 lightning damage; push 1
+    tier2: 9 lightning damage; push 2
+    tier3: 13 lightning damage; push 3
     type: ability
 name: Lightning Lord
 target: Each enemy in the area

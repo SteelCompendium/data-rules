@@ -16,9 +16,13 @@ keywords:
     - Psionic
 level: "2"
 name: Kinetic Shield
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield
 source: mcdm.heroes.v1
 target: Self
+tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 type: ability
 ---
 
@@ -27,6 +31,10 @@ cost: 5 Discipline
 distance: Self
 effects:
     - effect: While you have [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while [dying](../../../../rule/health/dying.md).
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 feature_type: ability
 flavor: You manifest a force barrier that absorbs incoming kinetic energy.
 keywords:
@@ -42,8 +50,12 @@ metadata:
         - Psionic
     level: "2"
     name: Kinetic Shield
+    power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
     scc: mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield
     target: Self
+    tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+    tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+    tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
     type: ability
 name: Kinetic Shield
 target: Self

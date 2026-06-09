@@ -19,9 +19,13 @@ keywords:
     - Strike
 level: "3"
 name: Soul Burn
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn
 source: mcdm.heroes.v1
 target: One creature
+tier1: 6 + P damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier2: 10 + P damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier3: 14 + P damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 7 Clarity
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: The target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on [Presence](scc:mcdm.heroes.v1/rule.character/presence) [tests](scc:mcdm.heroes.v1/rule.test/test) until the end of the encounter.
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 6 + P damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: 10 + P damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: 14 + P damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 feature_type: ability
 flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Strike
     level: "3"
     name: Soul Burn
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn
     target: One creature
+    tier1: 6 + P damage; P < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier2: 10 + P damage; P < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+    tier3: 14 + P damage; P < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     type: ability
 name: Soul Burn
 target: One creature

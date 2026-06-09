@@ -17,9 +17,13 @@ keywords:
     - Weapon
 level: "2"
 name: Wrecking Ball
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball
 source: mcdm.heroes.v1
 target: Self
+tier1: Push 1
+tier2: Push 2
+tier3: Push 3
 type: ability
 ---
 
@@ -28,6 +32,10 @@ cost: 5 Ferocity
 distance: Self; see below
 effects:
     - effect: You move up to your [speed](../../../../rule/character/speed.md) in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../../../../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../../../../movement/difficult-terrain.md).
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: Push 1
+      tier2: Push 2
+      tier3: Push 3
 feature_type: ability
 flavor: It's easier to destroy than to create. Much easier, in fact!
 keywords:
@@ -45,8 +53,12 @@ metadata:
         - Weapon
     level: "2"
     name: Wrecking Ball
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball
     target: Self
+    tier1: Push 1
+    tier2: Push 2
+    tier3: Push 3
     type: ability
 name: Wrecking Ball
 target: Self

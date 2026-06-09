@@ -18,10 +18,14 @@ keywords:
     - Weapon
 level: "5"
 name: My Turn!
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-5/my-turn
 source: mcdm.heroes.v1
 subtype: triggered
 target: The triggering creature
+tier1: 6 + M damage
+tier2: 9 + M damage
+tier3: 13 + M damage
 trigger: A creature causes you to be [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying), or damages you while you are [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying).
 type: ability
 ---
@@ -31,6 +35,10 @@ cost: 9 Ferocity
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 6 + M damage
+      tier2: 9 + M damage
+      tier3: 13 + M damage
 feature_type: ability
 flavor: You quickly strike back at a foe.
 keywords:
@@ -50,9 +58,13 @@ metadata:
         - Weapon
     level: "5"
     name: My Turn!
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-5/my-turn
     subtype: triggered
     target: The triggering creature
+    tier1: 6 + M damage
+    tier2: 9 + M damage
+    tier3: 13 + M damage
     trigger: A creature causes you to be [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying), or damages you while you are [winded](scc:mcdm.heroes.v1/rule.health/winded) or [dying](scc:mcdm.heroes.v1/rule.health/dying).
     type: ability
 name: My Turn!

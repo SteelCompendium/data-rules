@@ -18,9 +18,13 @@ keywords:
     - Telekinesis
 level: "9"
 name: Fulcrum
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum
 source: mcdm.heroes.v1
 target: Each enemy and object in the area
+tier1: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+tier2: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+tier3: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Clarity
 distance: Special
 effects:
     - effect: Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](scc:mcdm.heroes.v1/rule.character/size) 1L or smaller.
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+      tier2: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+      tier3: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 feature_type: ability
 flavor: You precisely manipulate the creatures around you.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Telekinesis
     level: "9"
     name: Fulcrum
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum
     target: Each enemy and object in the area
+    tier1: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    tier2: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    tier3: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     type: ability
 name: Fulcrum
 target: Each enemy and object in the area

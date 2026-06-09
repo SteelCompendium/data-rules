@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "5"
 name: Righteous Judgment
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/righteous-judgment
 target: One creature
+tier1: 10 + M damage
+tier2: 14 + M damage
+tier3: 20 + M damage
 type: ability
 ---
 

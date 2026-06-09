@@ -11,9 +11,13 @@ keywords:
     - Weapon
 level: "1"
 name: Inertial Step
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/inertial-step
 subtype: signature
 target: One creature or object
+tier1: 5 + A damage
+tier2: 7 + A damage
+tier3: 10 + A damage
 type: ability
 ---
 

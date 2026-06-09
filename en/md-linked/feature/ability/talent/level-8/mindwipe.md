@@ -12,8 +12,12 @@ keywords:
     - Telepathy
 level: "8"
 name: Mindwipe
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/mindwipe
 target: One creature
+tier1: 12 + R damage; R < WEAK, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)
+tier2: 17 + R damage; R < AVERAGE, the target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) (save ends)
+tier3: 23 + R damage; R < STRONG, the target has a double [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) (save ends)
 type: ability
 ---
 

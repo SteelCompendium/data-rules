@@ -10,8 +10,12 @@ keywords:
     - Telepathy
 level: "1"
 name: Mind Spike
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike
 target: One creature
+tier1: 2 + R psychic damage
+tier2: 4 + R psychic damage
+tier3: 6 + R psychic damage
 type: ability
 ---
 

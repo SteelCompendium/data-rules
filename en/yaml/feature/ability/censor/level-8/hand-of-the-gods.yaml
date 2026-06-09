@@ -1,6 +1,10 @@
 cost: 11 Wrath
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 10 + M damage
+      tier2: 15 + M damage
+      tier3: 21 + M damage
     - effect: Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](scc:mcdm.heroes.v1/rule.combat/flanking).
       name: Effect
 feature_type: ability

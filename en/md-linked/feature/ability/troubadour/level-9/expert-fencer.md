@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "9"
 name: Expert Fencer
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/expert-fencer
 target: One creature or object
+tier1: 15 + A damage
+tier2: 21 + A damage
+tier3: 28 + A damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 type: ability
 ---
 

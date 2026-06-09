@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "9 + M damage",
+      "tier2": "13 + M damage",
+      "tier3": "18 + M damage"
+    },
+    {
       "effect": "You and each ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target gain 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).",
       "name": "Effect"
     }

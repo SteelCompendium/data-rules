@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "8"
 name: Your Allies Turn on You!
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you
 target: One creature
+tier1: 5 + P damage; I < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 9 + P damage; I < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 12 + P damage; I < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

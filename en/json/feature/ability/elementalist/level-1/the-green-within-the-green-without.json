@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "2 + R damage",
+      "tier2": "5 + R damage",
+      "tier3": "7 + R damage"
+    },
+    {
       "effect": "You slide one creature within 10 squares of the target up to 2 squares.",
       "name": "Effect"
     }

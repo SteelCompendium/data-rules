@@ -3,7 +3,10 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "3 + I holy damage; vertical pull 2",
+      "tier2": "5 + I holy damage; vertical pull 3",
+      "tier3": "8 + I holy damage; vertical pull 4"
     }
   ],
   "feature_type": "ability",

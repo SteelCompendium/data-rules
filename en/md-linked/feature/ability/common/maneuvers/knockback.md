@@ -6,8 +6,12 @@ keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 name: Knockback
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/knockback
 target: One creature
+tier1: Push 1
+tier2: Push 2
+tier3: Push 3
 type: ability
 ---
 

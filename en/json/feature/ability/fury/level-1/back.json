@@ -3,7 +3,10 @@
   "distance": "1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "5 damage",
+      "tier2": "8 damage; push 1",
+      "tier3": "11 damage; push 3"
     }
   ],
   "feature_type": "ability",

@@ -3,6 +3,12 @@
   "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "4 damage; P \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier2": "5 damage; P \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier3": "6 damage; P \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
+    },
+    {
       "effect": "The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.",
       "name": "Effect"
     }

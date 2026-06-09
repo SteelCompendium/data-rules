@@ -3,6 +3,12 @@
   "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "Slide 4",
+      "tier2": "Slide 5",
+      "tier3": "Slide 7"
+    },
+    {
       "effect": "This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). Instead, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is reduced by a number equal to the target's [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
       "name": "Effect"
     }

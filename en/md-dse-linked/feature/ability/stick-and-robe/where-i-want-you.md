@@ -13,17 +13,24 @@ keywords:
     - Weapon
 kit: stick-and-robe
 name: Where I Want You
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 4 + M or A damage
+tier2: 7 + M or A damage; slide 1
+tier3: 10 + M or A damage; slide 3
 type: ability
 ---
 
 ```ds-feature
 distance: '[Melee](../../../rule/combat/melee.md) 2'
 effects:
-    - effect: "*When your stick speaks, your enemy moves.*\n\n| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Melee](../../../rule/combat/melee.md) 2**            | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 + M or A damage\n- **12-16:** 7 + M or A damage; slide 1\n- **17+:** 10 + M or A damage; slide 3"
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 4 + M or A damage
+      tier2: 7 + M or A damage; slide 1
+      tier3: 10 + M or A damage; slide 3
 feature_type: ability
 flavor: When your stick speaks, your enemy moves.
 keywords:
@@ -40,9 +47,13 @@ metadata:
         - Weapon
     kit: stick-and-robe
     name: Where I Want You
+    power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you
     subtype: signature
     target: One creature
+    tier1: 4 + M or A damage
+    tier2: 7 + M or A damage; slide 1
+    tier3: 10 + M or A damage; slide 3
     type: ability
 name: Where I Want You
 target: One creature

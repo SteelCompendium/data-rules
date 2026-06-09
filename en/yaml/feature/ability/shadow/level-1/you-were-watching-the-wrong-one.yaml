@@ -1,6 +1,10 @@
 ability_type: Signature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 3 + A damage
+      tier2: 5 + A damage
+      tier3: 8 + A damage
     - effect: As long as you have one or more allies within 5 squares of the target, you gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge). If you are [flanking](scc:mcdm.heroes.v1/rule.combat/flanking) the target when you use this ability, choose one ally who is [flanking](scc:mcdm.heroes.v1/rule.combat/flanking) with you. That ally also gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
       name: Effect
 feature_type: ability

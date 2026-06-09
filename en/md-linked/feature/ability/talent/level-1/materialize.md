@@ -11,9 +11,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Materialize
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/materialize
 subtype: signature
 target: One creature or object
+tier1: 3 + R damage
+tier2: 5 + R damage
+tier3: 8 + R damage
 type: ability
 ---
 

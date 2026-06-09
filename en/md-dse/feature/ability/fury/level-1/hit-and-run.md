@@ -15,10 +15,14 @@ keywords:
     - Weapon
 level: "1"
 name: Hit and Run
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 2 + M damage
+tier2: 5 + M damage
+tier3: 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 2 + M damage
+      tier2: 5 + M damage
+      tier3: 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 feature_type: ability
 flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
 keywords:
@@ -44,9 +52,13 @@ metadata:
         - Weapon
     level: "1"
     name: Hit and Run
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run
     subtype: signature
     target: One creature or object
+    tier1: 2 + M damage
+    tier2: 5 + M damage
+    tier3: 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     type: ability
 name: Hit and Run
 target: One creature or object

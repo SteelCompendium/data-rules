@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "1"
 name: Blood for Blood!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 4 + M damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 6 + M damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 10 + M damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 5 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 4 + M damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 6 + M damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 10 + M damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
 feature_type: ability
 flavor: See how well they fight after you've bled them dry.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "1"
     name: Blood for Blood!
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood
     target: One creature or object
+    tier1: 4 + M damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+    tier2: 6 + M damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+    tier3: 10 + M damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
     type: ability
 name: Blood for Blood!
 target: One creature or object

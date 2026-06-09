@@ -13,17 +13,24 @@ keywords:
     - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
 name: Concussive Slam
+power_roll_characteristic: '[Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.time-raider/concussive-slam
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 2 + R, I, or P damage;
+tier2: 5 + R, I, or P damage; push 1
+tier3: 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "*You slam an invisible force down upon the target.*\n\n| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  | Main action                   |\n|------------------------------|-------------------------------|\n| **\U0001F4CF [Ranged](../../../rule/combat/ranged.md) 10**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**\n\n- **≤11:** 2 + R, I, or P damage;\n- **12-16:** 5 + R, I, or P damage; push 1\n- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)"
+    - roll: Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
+      tier1: 2 + R, I, or P damage;
+      tier2: 5 + R, I, or P damage; push 1
+      tier3: 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
 feature_type: ability
 flavor: You slam an invisible force down upon the target.
 keywords:
@@ -40,9 +47,13 @@ metadata:
         - '[Ranged](../../../rule/combat/ranged.md)'
         - '[Strike](../../../rule/combat/strike.md)'
     name: Concussive Slam
+    power_roll_characteristic: '[Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.time-raider/concussive-slam
     subtype: signature
     target: One creature or object
+    tier1: 2 + R, I, or P damage;
+    tier2: 5 + R, I, or P damage; push 1
+    tier3: 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
     type: ability
 name: Concussive Slam
 target: One creature or object

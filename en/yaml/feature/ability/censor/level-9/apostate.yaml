@@ -1,6 +1,10 @@
 cost: 11 Wrath
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 13 + M holy damage
+      tier2: 19 + M holy damage
+      tier3: 26 + M holy damage
     - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), the target has [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) 10.
       name: Effect
 feature_type: ability

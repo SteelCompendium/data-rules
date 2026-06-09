@@ -9,6 +9,12 @@
     "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
     "effects": [
       {
+        "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+        "tier1": "5 + M, R, I, or P lightning damage",
+        "tier2": "8 + M, R, I, or P lightning damage",
+        "tier3": "11 + M, R, I, or P lightning damage"
+      },
+      {
         "effect": "A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
         "name": "Effect"
       }

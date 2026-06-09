@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "2"
 name: En Garde!
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde
 source: mcdm.heroes.v1
 target: One creature
+tier1: 7 + **A** damage
+tier2: 11 + **A** damage
+tier3: 16 + **A** damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 5 Drama
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: The target can make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you. If they do, you can make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 7 + **A** damage
+      tier2: 11 + **A** damage
+      tier3: 16 + **A** damage
 feature_type: ability
 flavor: Wait, it's... Guard! [Turn](scc:mcdm.heroes.v1/rule.combat/turn)! Parry! Dodge! Spin! Thrust! Ha!
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "2"
     name: En Garde!
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde
     target: One creature
+    tier1: 7 + **A** damage
+    tier2: 11 + **A** damage
+    tier3: 16 + **A** damage
     type: ability
 name: En Garde!
 target: One creature

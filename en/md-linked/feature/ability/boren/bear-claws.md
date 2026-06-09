@@ -8,9 +8,13 @@ keywords:
     - Weapon
 kit: boren
 name: Bear Claws
+power_roll_characteristic: '[Might](../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.boren/bear-claws
 subtype: signature
 target: One creature or object
+tier1: 2 + M damage; M < WEAK, [grabbed](../../../condition/grabbed.md)
+tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../condition/grabbed.md)
+tier3: 11 + M damage; M < STRONG, [grabbed](../../../condition/grabbed.md)
 type: ability
 ---
 

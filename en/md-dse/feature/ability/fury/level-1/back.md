@@ -17,9 +17,13 @@ keywords:
     - Weapon
 level: "1"
 name: Back!
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/back
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 5 damage
+tier2: 8 damage; push 1
+tier3: 11 damage; push 3
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 3 Ferocity
 distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: "\n*You hew about you with your mighty weapon, hurling enemies backward.*\n\n| **Area, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), Weapon** |               **Main action** |\n|-------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**          | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 5 damage\n- **12-16:** 8 damage; push 1\n- **17+:** 11 damage; push 3"
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 5 damage
+      tier2: 8 damage; push 1
+      tier3: 11 damage; push 3
 feature_type: ability
 flavor: You hew about you with your mighty weapon, hurling enemies backward.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - Weapon
     level: "1"
     name: Back!
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/back
     target: Each enemy in the area
+    tier1: 5 damage
+    tier2: 8 damage; push 1
+    tier3: 11 damage; push 3
     type: ability
 name: Back!
 target: Each enemy in the area

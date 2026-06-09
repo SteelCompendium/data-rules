@@ -3,6 +3,12 @@
   "distance": "3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "4 fire damage",
+      "tier2": "6 fire damage",
+      "tier3": "10 fire damage"
+    },
+    {
       "effect": "Each ally in the area deals fire damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score with their next strike made before the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
       "name": "Effect"
     }

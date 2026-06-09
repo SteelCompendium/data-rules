@@ -11,17 +11,24 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 name: Ranged Weapon Free Strike
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike
 source: mcdm.heroes.v1
 subtype: free-strike
 target: One creature or object
+tier1: 2 + M or A damage
+tier2: 4 + M or A damage
+tier3: 6 + M or A damage
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - effect: "| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|-----------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**             | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 4 + M or A damage\n- **17+:** 6 + M or A damage"
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 2 + M or A damage
+      tier2: 4 + M or A damage
+      tier3: 6 + M or A damage
 feature_type: ability
 keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
@@ -35,9 +42,13 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Ranged Weapon Free Strike
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike
     subtype: free-strike
     target: One creature or object
+    tier1: 2 + M or A damage
+    tier2: 4 + M or A damage
+    tier3: 6 + M or A damage
     type: ability
 name: Ranged Weapon Free Strike
 target: One creature or object

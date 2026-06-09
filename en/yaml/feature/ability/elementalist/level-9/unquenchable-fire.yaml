@@ -1,6 +1,10 @@
 cost: 11 Essence
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 13 + R fire damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: 18 + R fire damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: 25 + R fire damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     - effect: This damage ignores immunity.
       name: Effect
 feature_type: ability

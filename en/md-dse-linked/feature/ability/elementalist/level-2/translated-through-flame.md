@@ -19,9 +19,13 @@ keywords:
     - Void
 level: "2"
 name: Translated Through Flame
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/translated-through-flame
 source: mcdm.heroes.v1
 target: Self or one ally
+tier1: 3 fire damage
+tier2: 5 fire damage
+tier3: 8 fire damage
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 5 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target's new space.
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 3 fire damage
+      tier2: 5 fire damage
+      tier3: 8 fire damage
 feature_type: ability
 flavor: Your ally disappears, then reappears in a burst of fire.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Void
     level: "2"
     name: Translated Through Flame
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/translated-through-flame
     target: Self or one ally
+    tier1: 3 fire damage
+    tier2: 5 fire damage
+    tier3: 8 fire damage
     type: ability
 name: Translated Through Flame
 target: Self or one ally

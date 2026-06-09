@@ -49,6 +49,10 @@ You wear heavy armor and wield a light weapon.
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: Until the end of the target's next [turn](scc:mcdm.heroes.v1/rule.combat/turn), they have [damage weakness](scc:mcdm.heroes.v1/rule.damage/damage-weakness) equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 3 + M, R, I, or P holy damage
+      tier2: 5 + M, R, I, or P holy damage
+      tier3: 8 + M, R, I, or P holy damage
 feature_type: ability
 flavor: The impact of your weapon brands your target for destruction.
 keywords:
@@ -67,8 +71,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Weakening Brand
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     subtype: signature
     target: One creature or object
+    tier1: 3 + M, R, I, or P holy damage
+    tier2: 5 + M, R, I, or P holy damage
+    tier3: 8 + M, R, I, or P holy damage
     type: ability
 name: Weakening Brand
 target: One creature or object

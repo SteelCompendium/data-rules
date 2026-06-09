@@ -17,9 +17,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "6"
 name: Spirit Stampede
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 5 damage; M < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+tier2: 8 damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+tier3: 11 damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 9 Piety
 distance: 10 x 2 line within 5
 effects:
-    - effect: "\n*Animal spirits run through the battlefield, trampling your foes.*\n\n| **Area, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**     |               **Main action** |\n|-----------------------------|------------------------------:|\n| **\U0001F4CF 10 x 2 line within 5** | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 5 damage; M < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **12-16:** 8 damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)\n- **17+:** 11 damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)"
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 5 damage; M < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+      tier2: 8 damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+      tier3: 11 damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
 feature_type: ability
 flavor: Animal spirits run through the battlefield, trampling your foes.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "6"
     name: Spirit Stampede
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede
     target: Each enemy in the area
+    tier1: 5 damage; M < WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+    tier2: 8 damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+    tier3: 11 damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
     type: ability
 name: Spirit Stampede
 target: Each enemy in the area

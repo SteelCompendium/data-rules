@@ -11,17 +11,24 @@ keywords:
     - Stike
     - Weapon
 name: Ranged Weapon Free Strike
+power_roll_characteristic: '[Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.common.free-strikes/ranged-weapon-free-strike-combat
 source: mcdm.heroes.v1
 subtype: free-strike
 target: One creature or object
+tier1: 2 + M or A damage
+tier2: 4 + M or A damage
+tier3: 6 + M or A damage
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
-    - effect: "| **[Ranged](../../../../rule/combat/ranged.md), Stike, Weapon** |               **Main action** |\n|---------------------------| -----------------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 5**           | **\U0001F3AF One creature or object** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 4 + M or A damage\n- **17+:** 6 + M or A damage"
+    - roll: Power Roll + [Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md)
+      tier1: 2 + M or A damage
+      tier2: 4 + M or A damage
+      tier3: 6 + M or A damage
 feature_type: ability
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
@@ -35,9 +42,13 @@ metadata:
         - Stike
         - Weapon
     name: Ranged Weapon Free Strike
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.common.free-strikes/ranged-weapon-free-strike-combat
     subtype: free-strike
     target: One creature or object
+    tier1: 2 + M or A damage
+    tier2: 4 + M or A damage
+    tier3: 6 + M or A damage
     type: ability
 name: Ranged Weapon Free Strike
 target: One creature or object

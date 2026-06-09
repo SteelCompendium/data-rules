@@ -1,7 +1,10 @@
 ability_type: Signature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: You strike at key nerve clusters to leave your foe staggered.
 keywords:

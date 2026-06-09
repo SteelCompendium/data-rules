@@ -9,8 +9,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Patter Song
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song
 target: Special
+tier1: One ally within [distance](../../../../rule/combat/distance.md) can take their [turn](../../../../rule/combat/turn.md) immediately after yours.
+tier2: Two allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order.
+tier3: Three allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../../../rule/combat/turn.md) this [combat round](../../../../rule/combat/combat-round.md).
 type: ability
 ---
 

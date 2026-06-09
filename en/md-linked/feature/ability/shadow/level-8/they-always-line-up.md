@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "8"
 name: They Always Line Up
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up
 target: Each enemy in the area
+tier1: 12 damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 18 damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 24 damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

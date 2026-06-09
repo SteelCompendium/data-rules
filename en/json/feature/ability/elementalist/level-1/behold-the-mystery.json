@@ -3,7 +3,10 @@
   "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "2 psychic damage",
+      "tier2": "4 psychic damage",
+      "tier3": "6 psychic damage"
     }
   ],
   "feature_type": "ability",

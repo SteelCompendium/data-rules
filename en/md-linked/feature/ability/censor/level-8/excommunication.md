@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "8"
 name: Excommunication
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-8/excommunication
 target: One creature
+tier1: 9 + M damage; I < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 13 + M damage; I < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 18 + M damage; I < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 

@@ -3,7 +3,10 @@
   "distance": "10 x 2 line within 5",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "5 damage; M \u003c WEAK, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)",
+      "tier2": "8 damage; M \u003c AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)",
+      "tier3": "11 damage; M \u003c STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)"
     }
   ],
   "feature_type": "ability",

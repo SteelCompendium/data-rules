@@ -19,9 +19,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Storm of Sands
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 2 damage
+tier2: 5 damage
+tier3: 7 damage
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 9 Essence
 distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: The area lasts until the start of your next [turn](../../../../rule/combat/turn.md). It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 damage
+      tier2: 5 damage
+      tier3: 7 damage
 feature_type: ability
 flavor: Dirt and debris swirl into a dark, pulsing hurricane.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "5"
     name: Storm of Sands
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands
     target: Each enemy in the area
+    tier1: 2 damage
+    tier2: 5 damage
+    tier3: 7 damage
     type: ability
 name: Storm of Sands
 target: Each enemy in the area

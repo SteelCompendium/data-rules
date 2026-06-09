@@ -49,6 +49,10 @@ You wear no armor and wield only your unarmed [strikes](scc:mcdm.heroes.v1/rule.
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you slide them.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 3 + M or A damage
+      tier2: 6 + M or A damage; slide 1
+      tier3: 8 + M or A damage; slide 2
 feature_type: ability
 flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
 keywords:
@@ -65,8 +69,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Let's Dance
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     subtype: signature
     target: One creature
+    tier1: 3 + M or A damage
+    tier2: 6 + M or A damage; slide 1
+    tier3: 8 + M or A damage; slide 2
     type: ability
 name: Let's Dance
 target: One creature

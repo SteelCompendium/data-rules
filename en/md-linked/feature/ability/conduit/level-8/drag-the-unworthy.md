@@ -11,8 +11,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "8"
 name: Drag the Unworthy
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy
 target: One creature or object
+tier1: 9 + I holy damage; slide 3
+tier2: 13 + I holy damage; slide 4
+tier3: 18 + I holy damage; slide 6
 type: ability
 ---
 

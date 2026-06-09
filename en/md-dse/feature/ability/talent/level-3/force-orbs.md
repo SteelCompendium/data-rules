@@ -19,9 +19,13 @@ keywords:
     - Telekinesis
 level: "3"
 name: Force Orbs
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs
 source: mcdm.heroes.v1
 target: Self
+tier1: 2 damage
+tier2: 3 damage
+tier3: 5 damage
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 7 Clarity
 distance: Self; see below
 effects:
     - effect: You create three [size](scc:mcdm.heroes.v1/rule.character/size) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 1. Each time you take damage, you lose 1 orb.
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 damage
+      tier2: 3 damage
+      tier3: 5 damage
 feature_type: ability
 flavor: Spheres of solid psionic energy float around you.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Telekinesis
     level: "3"
     name: Force Orbs
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs
     target: Self
+    tier1: 2 damage
+    tier2: 3 damage
+    tier3: 5 damage
     type: ability
 name: Force Orbs
 target: Self

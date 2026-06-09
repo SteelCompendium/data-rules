@@ -18,9 +18,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "9"
 name: Acceleration Field
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
 source: mcdm.heroes.v1
 target: Three allies
+tier1: 4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier3: 10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Clarity
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
     - effect: Each target can use any main action available to them as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), but they lose their main action on their next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier3: 10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 feature_type: ability
 flavor: You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "9"
     name: Acceleration Field
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
     target: Three allies
+    tier1: 4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier2: 6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+    tier3: 10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     type: ability
 name: Acceleration Field
 target: Three allies

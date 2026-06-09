@@ -16,10 +16,14 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Unquiet Ground
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/unquiet-ground
 source: mcdm.heroes.v1
 subtype: signature
 target: Each enemy in the area
+tier1: 2 damage
+tier2: 5 damage
+tier3: 7 damage
 type: ability
 ---
 
@@ -27,6 +31,10 @@ type: ability
 distance: 2 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: The ground beneath the area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 damage
+      tier2: 5 damage
+      tier3: 7 damage
 feature_type: ability
 flavor: A sudden storm of detritus assaults your foes and leaves them struggling to move.
 keywords:
@@ -47,9 +55,13 @@ metadata:
         - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Unquiet Ground
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/unquiet-ground
     subtype: signature
     target: Each enemy in the area
+    tier1: 2 damage
+    tier2: 5 damage
+    tier3: 7 damage
     type: ability
 name: Unquiet Ground
 target: Each enemy in the area

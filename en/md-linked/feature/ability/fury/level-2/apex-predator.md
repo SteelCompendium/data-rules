@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "2"
 name: Apex Predator
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator
 target: One creature
+tier1: 4 damage; I < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 6 damage; I < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 10 damage; I < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

@@ -1,6 +1,10 @@
 cost: 7 Clarity
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 3 + P corruption damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     - effect: A target who is flung through time is removed from the encounter map until the end of their next [turn](scc:mcdm.heroes.v1/rule.combat/turn), reappearing in their original space or the nearest unoccupied space.
       name: Effect
 feature_type: ability

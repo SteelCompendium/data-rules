@@ -15,9 +15,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Battle Cry
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry
 source: mcdm.heroes.v1
 target: Three allies
+tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
+tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
+tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 type: ability
 ---
 
@@ -25,7 +29,10 @@ type: ability
 cost: 3 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "\n*You shout a phrase that galvanizes your team.*\n\n| **[Ranged](../../../../rule/combat/ranged.md)**       |        **Maneuver** |\n|------------------|--------------------:|\n| **\U0001F4CF [Ranged](../../../../rule/combat/ranged.md) 10** | **\U0001F3AF Three allies** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** Each target gains 1 [surge](../../../../rule/resource/surge.md).\n- **12-16:** Each target gains 2 [surges](../../../../rule/resource/surge.md).\n- **17+:** Each target gains 3 [surges](../../../../rule/resource/surge.md)."
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
+      tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
+      tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 feature_type: ability
 flavor: You shout a phrase that galvanizes your team.
 keywords:
@@ -40,8 +47,12 @@ metadata:
         - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Battle Cry
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry
     target: Three allies
+    tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
+    tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
+    tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
     type: ability
 name: Battle Cry
 target: Three allies

@@ -3,7 +3,10 @@
   "distance": "4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "3 sonic damage; push 3",
+      "tier2": "6 sonic damage; push 5",
+      "tier3": "9 sonic damage; push 7"
     }
   ],
   "feature_type": "ability",

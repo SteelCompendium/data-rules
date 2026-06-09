@@ -14,17 +14,24 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Holy Lash
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 3 + I holy damage; vertical pull 2
+tier2: 5 + I holy damage; vertical pull 3
+tier3: 8 + I holy damage; vertical pull 4
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*A tendril of divine energy shoots forth to draw in your foe.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)**  |               **Main action** |\n|----------------------------|------------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**           | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 3 + I holy damage; vertical pull 2\n- **12-16:** 5 + I holy damage; vertical pull 3\n- **17+:** 8 + I holy damage; vertical pull 4"
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 3 + I holy damage; vertical pull 2
+      tier2: 5 + I holy damage; vertical pull 3
+      tier3: 8 + I holy damage; vertical pull 4
 feature_type: ability
 flavor: A tendril of divine energy shoots forth to draw in your foe.
 keywords:
@@ -42,9 +49,13 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Holy Lash
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash
     subtype: signature
     target: One creature or object
+    tier1: 3 + I holy damage; vertical pull 2
+    tier2: 5 + I holy damage; vertical pull 3
+    tier3: 8 + I holy damage; vertical pull 4
     type: ability
 name: Holy Lash
 target: One creature or object

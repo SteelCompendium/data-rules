@@ -16,10 +16,14 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: The Green Within, the Green Without
+power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/the-green-within-the-green-without
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 2 + R damage
+tier2: 5 + R damage
+tier3: 7 + R damage
 type: ability
 ---
 
@@ -27,6 +31,10 @@ type: ability
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: You slide one creature within 10 squares of the target up to 2 squares.
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 + R damage
+      tier2: 5 + R damage
+      tier3: 7 + R damage
 feature_type: ability
 flavor: Whipping vines erupt from a foe's body to grasp at another close by.
 keywords:
@@ -47,9 +55,13 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: The Green Within, the Green Without
+    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/the-green-within-the-green-without
     subtype: signature
     target: One creature
+    tier1: 2 + R damage
+    tier2: 5 + R damage
+    tier3: 7 + R damage
     type: ability
 name: The Green Within, the Green Without
 target: One creature

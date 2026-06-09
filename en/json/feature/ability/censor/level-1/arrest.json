@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "6 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+      "tier2": "9 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+      "tier3": "13 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)"
+    },
+    {
       "effect": "If the target makes a [strike](scc:mcdm.heroes.v1/rule.combat/strike) against a creature while [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, you can spend 3 wrath to deal holy damage to them equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score, then change the target of the [strike](scc:mcdm.heroes.v1/rule.combat/strike) to another target within the [strike](scc:mcdm.heroes.v1/rule.combat/strike)'s [distance](scc:mcdm.heroes.v1/rule.combat/distance).",
       "name": "Effect"
     }

@@ -10,9 +10,13 @@ keywords:
     - Weapon
 level: "1"
 name: Hit and Run
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run
 subtype: signature
 target: One creature or object
+tier1: 2 + M damage
+tier2: 5 + M damage
+tier3: 7 + M damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

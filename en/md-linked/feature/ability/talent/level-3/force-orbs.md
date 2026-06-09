@@ -12,8 +12,12 @@ keywords:
     - Telekinesis
 level: "3"
 name: Force Orbs
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs
 target: Self
+tier1: 2 damage
+tier2: 3 damage
+tier3: 5 damage
 type: ability
 ---
 

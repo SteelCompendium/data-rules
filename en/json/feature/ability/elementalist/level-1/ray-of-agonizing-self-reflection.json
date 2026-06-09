@@ -3,7 +3,10 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "2 + R corruption damage; R \u003c WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier2": "4 + R corruption damage; R \u003c AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)",
+      "tier3": "6 + R corruption damage; R \u003c STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)"
     }
   ],
   "feature_type": "ability",

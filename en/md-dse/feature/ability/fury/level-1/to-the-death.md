@@ -15,10 +15,14 @@ keywords:
     - Weapon
 level: "1"
 name: To the Death!
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/to-the-death
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 3 + M damage
+tier2: 6 + M damage
+tier3: 9 + M damage
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), and the target can make an [opportunity attack](scc:mcdm.heroes.v1/rule.combat/opportunity-attack) against you as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 3 + M damage
+      tier2: 6 + M damage
+      tier3: 9 + M damage
 feature_type: ability
 flavor: Your reckless assault leaves you tactically vulnerable.
 keywords:
@@ -44,9 +52,13 @@ metadata:
         - Weapon
     level: "1"
     name: To the Death!
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/to-the-death
     subtype: signature
     target: One creature or object
+    tier1: 3 + M damage
+    tier2: 6 + M damage
+    tier3: 9 + M damage
     type: ability
 name: To the Death!
 target: One creature or object

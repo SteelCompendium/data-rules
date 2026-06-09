@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "1"
 name: Get In Get Out
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/get-in-get-out
 source: mcdm.heroes.v1
 target: One creature
+tier1: 5 + A damage
+tier2: 8 + A damage
+tier3: 11 + A damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 3 Insight
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your [speed](scc:mcdm.heroes.v1/rule.character/speed), dividing that movement before or after your [strike](scc:mcdm.heroes.v1/rule.combat/strike) as desired.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 5 + A damage
+      tier2: 8 + A damage
+      tier3: 11 + A damage
 feature_type: ability
 flavor: Move unexpectedly, strike fast, and be gone!
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "1"
     name: Get In Get Out
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-1/get-in-get-out
     target: One creature
+    tier1: 5 + A damage
+    tier2: 8 + A damage
+    tier3: 11 + A damage
     type: ability
 name: Get In Get Out
 target: One creature

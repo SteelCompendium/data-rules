@@ -16,9 +16,13 @@ keywords:
     - Psionic
 level: "9"
 name: Absolute Zero
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.null.level-9/absolute-zero
 source: mcdm.heroes.v1
 target: Self
+tier1: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+tier2: You gain 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+tier3: You gain 40 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
 type: ability
 ---
 
@@ -27,6 +31,10 @@ cost: 11 Discipline
 distance: Self
 effects:
     - effect: Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) granted by your [Entropic Adaptability](scc:mcdm.heroes.v1/feature.null.level-2/entropic-adaptability) trait, you ignore the negative effects of [dying](scc:mcdm.heroes.v1/rule.health/dying), and you have a +2 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [potencies](scc:mcdm.heroes.v1/rule.character/potency).
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+      tier2: You gain 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+      tier3: You gain 40 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
 feature_type: ability
 flavor: You become the coldest thing in the timescape.
 keywords:
@@ -42,8 +50,12 @@ metadata:
         - Psionic
     level: "9"
     name: Absolute Zero
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.null.level-9/absolute-zero
     target: Self
+    tier1: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+    tier2: You gain 30 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
+    tier3: You gain 40 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina).
     type: ability
 name: Absolute Zero
 target: Self

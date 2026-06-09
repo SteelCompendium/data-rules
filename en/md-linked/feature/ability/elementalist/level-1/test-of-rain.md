@@ -12,8 +12,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Test of Rain
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/test-of-rain
 target: Each enemy in the area
+tier1: 4 acid damage
+tier2: 6 acid damage
+tier3: 10 acid damage
 type: ability
 ---
 

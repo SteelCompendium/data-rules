@@ -1,6 +1,10 @@
 cost: 9 Discipline
 distance: Self
 effects:
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: Vertical slide 5
+      tier2: Vertical slide 7
+      tier3: Vertical slide 9
     - effect: This movement ignores [stability](scc:mcdm.heroes.v1/rule.character/stability). If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
       name: Effect
 feature_type: ability

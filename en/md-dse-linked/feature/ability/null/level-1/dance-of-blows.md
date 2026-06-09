@@ -15,10 +15,14 @@ keywords:
     - Weapon
 level: "1"
 name: Dance of Blows
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/dance-of-blows
 source: mcdm.heroes.v1
 subtype: signature
 target: Each enemy in the area
+tier1: 3 damage
+tier2: 4 damage
+tier3: 5 damage
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: You can slide one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 3 damage
+      tier2: 4 damage
+      tier3: 5 damage
 feature_type: ability
 flavor: You strike everywhere at once, tricking an enemy into moving out of position.
 keywords:
@@ -44,9 +52,13 @@ metadata:
         - Weapon
     level: "1"
     name: Dance of Blows
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.null.level-1/dance-of-blows
     subtype: signature
     target: Each enemy in the area
+    tier1: 3 damage
+    tier2: 4 damage
+    tier3: 5 damage
     type: ability
 name: Dance of Blows
 target: Each enemy in the area

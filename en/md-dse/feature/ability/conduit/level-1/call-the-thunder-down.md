@@ -18,9 +18,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Call the Thunder Down
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 2 sonic damage; push 1
+tier2: 3 sonic damage; push 2
+tier3: 5 sonic damage; push 3
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 3 Piety
 distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - effect: You can push each willing ally in the area the same [distance](scc:mcdm.heroes.v1/rule.combat/distance), ignoring [stability](scc:mcdm.heroes.v1/rule.character/stability).
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 2 sonic damage; push 1
+      tier2: 3 sonic damage; push 2
+      tier3: 5 sonic damage; push 3
 feature_type: ability
 flavor: You ask your [saint](scc:mcdm.heroes.v1/rule.world/saint) for thunder and your prayer is answered.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Call the Thunder Down
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down
     target: Each enemy in the area
+    tier1: 2 sonic damage; push 1
+    tier2: 3 sonic damage; push 2
+    tier3: 5 sonic damage; push 3
     type: ability
 name: Call the Thunder Down
 target: Each enemy in the area

@@ -3,6 +3,12 @@
   "distance": "Special",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
+      "tier2": "3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
+      "tier3": "4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)"
+    },
+    {
       "effect": "Make a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](scc:mcdm.heroes.v1/rule.character/size) 1L or smaller.",
       "name": "Effect"
     }

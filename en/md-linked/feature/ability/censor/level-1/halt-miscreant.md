@@ -9,9 +9,13 @@ keywords:
     - Weapon
 level: "1"
 name: Halt Miscreant!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant
 subtype: signature
 target: One creature or object
+tier1: 2 + M holy damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 7 + M holy damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "1"
 name: Out of the Way!
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/out-of-the-way
 source: mcdm.heroes.v1
 target: One creature
+tier1: 3 + M damage; slide 2
+tier2: 5 + M damage; slide 3
+tier3: 8 + M damage; slide 5
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 3 Ferocity
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: When you slide the target, you can move into any square they leave. If you take damage from an [opportunity attack](scc:mcdm.heroes.v1/rule.combat/opportunity-attack) by moving this way, the target takes the same damage.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 3 + M damage; slide 2
+      tier2: 5 + M damage; slide 3
+      tier3: 8 + M damage; slide 5
 feature_type: ability
 flavor: Your enemies will clear your path—whether they want to or not.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "1"
     name: Out of the Way!
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-1/out-of-the-way
     target: One creature
+    tier1: 3 + M damage; slide 2
+    tier2: 5 + M damage; slide 3
+    tier3: 8 + M damage; slide 5
     type: ability
 name: Out of the Way!
 target: One creature

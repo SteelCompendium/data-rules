@@ -1,6 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 + R corruption damage
+      tier2: 4 + R corruption damage
+      tier3: 6 + R corruption damage
     - effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn).
       name: Effect
 feature_type: ability

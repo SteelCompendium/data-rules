@@ -3,6 +3,12 @@
   "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "2 sonic damage; push 1",
+      "tier2": "3 sonic damage; push 2",
+      "tier3": "5 sonic damage; push 3"
+    },
+    {
       "effect": "You can push each willing ally in the area the same [distance](scc:mcdm.heroes.v1/rule.combat/distance), ignoring [stability](scc:mcdm.heroes.v1/rule.character/stability).",
       "name": "Effect"
     }

@@ -4,6 +4,12 @@
     "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
     "effects": [
       {
+        "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
+        "tier1": "3 + R, I, or P damage; slide 1",
+        "tier2": "5 + R, I, or P damage; slide 2",
+        "tier3": "7 + R, I, or P damage; slide 3"
+      },
+      {
         "effect": "The sigil disappears from the creature.",
         "name": "Effect"
       }

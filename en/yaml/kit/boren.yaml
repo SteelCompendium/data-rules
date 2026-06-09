@@ -6,7 +6,10 @@ signature_ability:
     ability_type: Signature
     distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
     effects:
-        - effect: ""
+        - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+          tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+          tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+          tier3: 11 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
     feature_type: ability
     flavor: Attacks with your sharp and deadly claws grab the weak.
     keywords:

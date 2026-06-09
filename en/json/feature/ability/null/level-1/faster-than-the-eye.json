@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "4 damage",
+      "tier2": "5 damage",
+      "tier3": "7 damage"
+    },
+    {
       "effect": "You can deal damage equal to your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score to one creature or object [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you.",
       "name": "Effect"
     }

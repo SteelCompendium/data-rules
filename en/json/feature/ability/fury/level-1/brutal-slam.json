@@ -3,7 +3,10 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "3 + M damage; push 1",
+      "tier2": "6 + M damage; push 2",
+      "tier3": "9 + M damage; push 4"
     }
   ],
   "feature_type": "ability",

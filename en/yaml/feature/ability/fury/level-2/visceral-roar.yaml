@@ -1,6 +1,10 @@
 cost: 5 Ferocity
 distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
 effects:
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 2 damage; push 1; M < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier2: 5 damage; push 2; M < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+      tier3: 7 damage; push 3; M < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
     - effect: This ability deals your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features)).
       name: Effect
 feature_type: ability

@@ -18,9 +18,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: To the Stars
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 4 + A fire damage; vertical push 8
+tier2: 7 + A fire damage; vertical push 10
+tier3: 11 + A fire damage; vertical push 15
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The ground beneath a 3-[cube](../../../../rule/combat/cube.md) area around the target's starting position is [difficult terrain](../../../../movement/difficult-terrain.md).
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 4 + A fire damage; vertical push 8
+      tier2: 7 + A fire damage; vertical push 10
+      tier3: 11 + A fire damage; vertical push 15
 feature_type: ability
 flavor: You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "9"
     name: To the Stars
+    power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars
     target: One creature or object
+    tier1: 4 + A fire damage; vertical push 8
+    tier2: 7 + A fire damage; vertical push 10
+    tier3: 11 + A fire damage; vertical push 15
     type: ability
 name: To the Stars
 target: One creature or object

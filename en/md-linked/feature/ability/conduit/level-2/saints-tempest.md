@@ -10,8 +10,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Saint's Tempest
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest
 target: Each enemy in the area
+tier1: 2 lightning damage; vertical slide 1
+tier2: 5 lightning damage; vertical slide 2
+tier3: 7 lightning damage; vertical slide 3
 type: ability
 ---
 

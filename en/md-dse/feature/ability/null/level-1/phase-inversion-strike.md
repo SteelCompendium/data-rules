@@ -16,10 +16,14 @@ keywords:
     - Weapon
 level: "1"
 name: Phase Inversion Strike
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/phase-inversion-strike
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 4 + A damage; push 2
+tier2: 6 + A damage; push 4
+tier3: 8 + A damage; push 6
 type: ability
 ---
 
@@ -27,6 +31,10 @@ type: ability
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: Before the push is resolved, you [teleport](scc:mcdm.heroes.v1/movement/teleport) the target to a square [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to you and opposite the one they started in. If the target can't be [teleport](scc:mcdm.heroes.v1/movement/teleport)ed this way, you can't push them.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 4 + A damage; push 2
+      tier2: 6 + A damage; push 4
+      tier3: 8 + A damage; push 6
 feature_type: ability
 flavor: You step momentarily out of phase as you pull an enemy through you.
 keywords:
@@ -47,9 +55,13 @@ metadata:
         - Weapon
     level: "1"
     name: Phase Inversion Strike
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.null.level-1/phase-inversion-strike
     subtype: signature
     target: One creature or object
+    tier1: 4 + A damage; push 2
+    tier2: 6 + A damage; push 4
+    tier3: 8 + A damage; push 6
     type: ability
 name: Phase Inversion Strike
 target: One creature or object

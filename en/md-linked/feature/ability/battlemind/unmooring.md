@@ -10,9 +10,13 @@ keywords:
     - Weapon
 kit: battlemind
 name: Unmooring
+power_roll_characteristic: '[Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.battlemind/unmooring
 subtype: signature
 target: One creature
+tier1: 5 + M, R, I, or P damage
+tier2: 8 + M, R, I, or P damage
+tier3: 11 + M, R, I, or P damage
 type: ability
 ---
 

@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "2"
 name: Phalanx-Breaker
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/phalanx-breaker
 target: Self
+tier1: 2 damage; A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 4 damage; A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 6 damage; A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

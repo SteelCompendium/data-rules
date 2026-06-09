@@ -3,6 +3,12 @@
   "distance": "2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "6 damage",
+      "tier2": "9 damage",
+      "tier3": "13 damage"
+    },
+    {
       "effect": "You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) before or after you use this ability.",
       "name": "Effect"
     }

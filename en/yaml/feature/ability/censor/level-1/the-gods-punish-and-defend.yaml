@@ -1,6 +1,10 @@
 cost: 3 Wrath
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 5 + M holy damage
+      tier2: 8 + M holy damage
+      tier3: 11 + M holy damage
     - effect: You can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries) to allow yourself or one ally within 10 squares to regain [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) equal to your [recovery value](scc:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability

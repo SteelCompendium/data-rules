@@ -13,8 +13,12 @@ keywords:
     - Void
 level: "6"
 name: Meteor
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor
 target: One creature or object
+tier1: You [teleport](../../../../movement/teleport.md) the target up to 4 squares.
+tier2: You [teleport](../../../../movement/teleport.md) the target up to 6 squares.
+tier3: You [teleport](../../../../movement/teleport.md) the target up to 8 squares.
 type: ability
 ---
 

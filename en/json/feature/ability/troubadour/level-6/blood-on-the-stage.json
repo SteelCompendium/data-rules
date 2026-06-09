@@ -3,7 +3,10 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "12 + A damage; M \u003c WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)",
+      "tier2": "18 + A damage; M \u003c AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)",
+      "tier3": "24 + A damage; [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)), or if M \u003c STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)"
     }
   ],
   "feature_type": "ability",

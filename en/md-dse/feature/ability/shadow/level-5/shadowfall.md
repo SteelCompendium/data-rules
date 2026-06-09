@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "5"
 name: Shadowfall
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-5/shadowfall
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 10 damage
+tier2: 14 damage
+tier3: 20 damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 9 Insight
 distance: 10 x 1 line within 1
 effects:
     - effect: You disappear before making the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll). After the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) is resolved, you appear in the first unoccupied space at the far end of the line.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 10 damage
+      tier2: 14 damage
+      tier3: 20 damage
 feature_type: ability
 flavor: You vanish. They fall. You reappear.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "5"
     name: Shadowfall
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-5/shadowfall
     target: Each enemy in the area
+    tier1: 10 damage
+    tier2: 14 damage
+    tier3: 20 damage
     type: ability
 name: Shadowfall
 target: Each enemy in the area

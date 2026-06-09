@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)",
+      "tier1": "6 + M damage; one ally within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), and can use a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [strike](scc:mcdm.heroes.v1/rule.combat/strike) [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge",
+      "tier2": "9 + M damage; one ally within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), and can use a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [strike](scc:mcdm.heroes.v1/rule.combat/strike) [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) that gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge) instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge",
+      "tier3": "13 + M damage; two allies within 10 squares can use the [Charge](scc:mcdm.heroes.v1/feature.common.main-actions/charge) main action as a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), and can each use a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [strike](scc:mcdm.heroes.v1/rule.combat/strike) [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) that gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge) instead of a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) for the charge"
+    },
+    {
       "effect": "If the target is hit with two or more strikes as part of this ability and they have R \u003c STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends). If the target is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) before one or both allies has made their [strike](scc:mcdm.heroes.v1/rule.combat/strike), the ally or allies can pick a different target.",
       "name": "Effect"
     }

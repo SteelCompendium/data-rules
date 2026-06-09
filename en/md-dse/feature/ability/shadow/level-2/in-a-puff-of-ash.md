@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "2"
 name: In a Puff of Ash
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash
 source: mcdm.heroes.v1
 target: One creature
+tier1: 6 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target 1 square
+tier2: 10 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 3 squares
+tier3: 14 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 5 squares
 type: ability
 ---
 
@@ -29,7 +33,10 @@ type: ability
 cost: 5 Insight
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - effect: "\n*You enchant a [strike](scc:mcdm.heroes.v1/rule.combat/strike) with your [teleport](scc:mcdm.heroes.v1/movement/teleport)ation magic.*\n\n| **Magic, [Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|------------------------------------------|--------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1 or [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**               | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 6 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target 1 square\n- **12-16:** 10 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 3 squares\n- **17+:** 14 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 5 squares"
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 6 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target 1 square
+      tier2: 10 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 3 squares
+      tier3: 14 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 5 squares
 feature_type: ability
 flavor: You enchant a [strike](scc:mcdm.heroes.v1/rule.combat/strike) with your [teleport](scc:mcdm.heroes.v1/movement/teleport)ation magic.
 keywords:
@@ -52,8 +59,12 @@ metadata:
         - Weapon
     level: "2"
     name: In a Puff of Ash
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash
     target: One creature
+    tier1: 6 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target 1 square
+    tier2: 10 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 3 squares
+    tier3: 14 + A damage; you can [teleport](scc:mcdm.heroes.v1/movement/teleport) the target up to 5 squares
     type: ability
 name: In a Puff of Ash
 target: One creature

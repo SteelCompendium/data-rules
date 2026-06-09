@@ -3,6 +3,12 @@
   "distance": "[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1",
   "effects": [
     {
+      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "tier1": "10 + A damage; A \u003c WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+      "tier2": "14 + A damage; A \u003c AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)",
+      "tier3": "18 + A damage; A \u003c STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)"
+    },
+    {
       "effect": "While [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, the target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) on the [Escape Grab](scc:mcdm.heroes.v1/feature.common.maneuvers/escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score.",
       "name": "Effect"
     }

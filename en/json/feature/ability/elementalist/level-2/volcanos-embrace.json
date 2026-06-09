@@ -3,7 +3,10 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "5 + R fire damage; A \u003c WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)",
+      "tier2": "9 + R fire damage; A \u003c AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)",
+      "tier3": "12 + R fire damage; A \u003c STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)"
     }
   ],
   "feature_type": "ability",

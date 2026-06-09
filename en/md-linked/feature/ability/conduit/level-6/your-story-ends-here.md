@@ -11,8 +11,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "6"
 name: Your Story Ends Here
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/your-story-ends-here
 target: One creature
+tier1: 9 + I corruption damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 14 + I corruption damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 19 + I corruption damage; R < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 

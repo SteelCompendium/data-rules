@@ -12,9 +12,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Incinerate
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/incinerate
 subtype: signature
 target: Each enemy in the area
+tier1: 2 fire damage
+tier2: 4 fire damage
+tier3: 6 fire damage
 type: ability
 ---
 

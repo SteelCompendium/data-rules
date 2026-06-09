@@ -15,10 +15,14 @@ keywords:
     - Weapon
 kit: warrior-priest
 name: Weakening Brand
+power_roll_characteristic: '[Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature or object
+tier1: 3 + M, R, I, or P holy damage
+tier2: 5 + M, R, I, or P holy damage
+tier3: 8 + M, R, I, or P holy damage
 type: ability
 ---
 
@@ -26,6 +30,10 @@ type: ability
 distance: '[Melee](../../../rule/combat/melee.md) 1'
 effects:
     - effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
+    - roll: Power Roll + [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
+      tier1: 3 + M, R, I, or P holy damage
+      tier2: 5 + M, R, I, or P holy damage
+      tier3: 8 + M, R, I, or P holy damage
 feature_type: ability
 flavor: The impact of your weapon brands your target for destruction.
 keywords:
@@ -45,9 +53,13 @@ metadata:
         - Weapon
     kit: warrior-priest
     name: Weakening Brand
+    power_roll_characteristic: '[Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand
     subtype: signature
     target: One creature or object
+    tier1: 3 + M, R, I, or P holy damage
+    tier2: 5 + M, R, I, or P holy damage
+    tier3: 8 + M, R, I, or P holy damage
     type: ability
 name: Weakening Brand
 target: One creature or object

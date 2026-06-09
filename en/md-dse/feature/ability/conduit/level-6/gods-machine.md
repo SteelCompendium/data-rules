@@ -17,9 +17,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "6"
 name: Gods' Machine
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine
 source: mcdm.heroes.v1
 target: Special
+tier1: 3 damage
+tier2: 5 damage
+tier3: 8 damage
 type: ability
 ---
 
@@ -28,6 +32,10 @@ cost: 9 Piety
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
     - effect: You conjure a [size](scc:mcdm.heroes.v1/rule.character/size) 2 rolling machine that appears in an unoccupied space within [distance](scc:mcdm.heroes.v1/rule.combat/distance). The machine has 50 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) drops to 0, or if you are [dying](scc:mcdm.heroes.v1/rule.health/dying). When the machine first appears, make the following [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) once, targeting each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to it.
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 3 damage
+      tier2: 5 damage
+      tier3: 8 damage
 feature_type: ability
 flavor: You conjure a whirring tank made of blades and metal.
 keywords:
@@ -45,8 +53,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "6"
     name: Gods' Machine
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine
     target: Special
+    tier1: 3 damage
+    tier2: 5 damage
+    tier3: 8 damage
     type: ability
 name: Gods' Machine
 target: Special

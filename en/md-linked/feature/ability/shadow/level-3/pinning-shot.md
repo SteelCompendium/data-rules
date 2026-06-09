@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "3"
 name: Pinning Shot
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot
 target: One creature
+tier1: 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+tier2: 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+tier3: 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 

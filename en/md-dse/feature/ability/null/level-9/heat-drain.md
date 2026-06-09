@@ -18,9 +18,13 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "9"
 name: Heat Drain
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.null.level-9/heat-drain
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + I cold damage; M < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier2: 11 + I cold damage; M < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier3: 15 + I cold damage; M < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Discipline
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: While [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, the target takes cold damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score at the start of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn). Additionally, whenever the target damages another creature while [restrained](scc:mcdm.heroes.v1/condition/restrained) this way, any [potency](scc:mcdm.heroes.v1/rule.character/potency) associated with the damage is reduced by 2.
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 8 + I cold damage; M < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier2: 11 + I cold damage; M < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier3: 15 + I cold damage; M < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 feature_type: ability
 flavor: You drain all the heat from the target.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "9"
     name: Heat Drain
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.null.level-9/heat-drain
     target: One creature
+    tier1: 8 + I cold damage; M < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+    tier2: 11 + I cold damage; M < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+    tier3: 15 + I cold damage; M < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
     type: ability
 name: Heat Drain
 target: One creature

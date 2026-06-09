@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "1"
 name: Your Entrails Are Your Extrails!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/your-entrails-are-your-extrails
 target: One creature or object
+tier1: 3 + M damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier2: 5 + M damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier3: 8 + M damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 type: ability
 ---
 

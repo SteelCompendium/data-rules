@@ -18,9 +18,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Quick Rewrite
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 6 damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 3 Drama
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 6 damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 feature_type: ability
 flavor: You write something unexpected into the scene that hinders your enemy.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Ranged](../../../../rule/combat/ranged.md)'
     level: "1"
     name: Quick Rewrite
+    power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
     target: Each enemy in the area
+    tier1: 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+    tier2: 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+    tier3: 6 damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
     type: ability
 name: Quick Rewrite
 target: Each enemy in the area

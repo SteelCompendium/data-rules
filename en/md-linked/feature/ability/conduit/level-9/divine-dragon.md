@@ -10,8 +10,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Divine Dragon
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/divine-dragon
 target: Special
+tier1: 5 fire damage
+tier2: 9 fire damage
+tier3: 12 fire damage
 type: ability
 ---
 

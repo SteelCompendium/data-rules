@@ -3,6 +3,12 @@
   "distance": "3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "5 damage",
+      "tier2": "9 damage",
+      "tier3": "12 damage"
+    },
+    {
       "effect": "The ground in or directly beneath the area drops 3 squares.",
       "name": "Effect"
     }

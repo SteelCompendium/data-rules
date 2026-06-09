@@ -11,9 +11,13 @@ keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 name: Knockback
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/knockback
 source: mcdm.heroes.v1
 target: One creature
+tier1: Push 1
+tier2: Push 2
+tier3: Push 3
 type: ability
 ---
 
@@ -21,6 +25,10 @@ type: ability
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can usually target only creatures of your [size](../../../../rule/character/size.md) or smaller. If your [Might](../../../../rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../../../../rule/character/size.md) equal to or less than your [Might](../../../../rule/character/might.md) score.
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: Push 1
+      tier2: Push 2
+      tier3: Push 3
 feature_type: ability
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
@@ -33,8 +41,12 @@ metadata:
         - '[Melee](../../../../rule/combat/melee.md)'
         - Weapon
     name: Knockback
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.common.maneuvers/knockback
     target: One creature
+    tier1: Push 1
+    tier2: Push 2
+    tier3: Push 3
     type: ability
 name: Knockback
 target: One creature

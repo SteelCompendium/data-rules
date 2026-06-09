@@ -13,17 +13,24 @@ keywords:
     - Weapon
 kit: rapid-fire
 name: Two Shot
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.rapid-fire/two-shot
 source: mcdm.heroes.v1
 subtype: signature
 target: Two creatures or objects
+tier1: 4 damage
+tier2: 6 damage
+tier3: 8 damage
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](../../../rule/combat/ranged.md) 12'
 effects:
-    - effect: "*When you fire two arrows back-to-back, both hit their mark.*\n\n| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |\n|----------------------------|--------------------------------:|\n| **\U0001F4CF [Ranged](../../../rule/combat/ranged.md) 12**           | **\U0001F3AF Two creatures or objects** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 4 damage\n- **12-16:** 6 damage\n- **17+:** 8 damage"
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 4 damage
+      tier2: 6 damage
+      tier3: 8 damage
 feature_type: ability
 flavor: When you fire two arrows back-to-back, both hit their mark.
 keywords:
@@ -40,9 +47,13 @@ metadata:
         - Weapon
     kit: rapid-fire
     name: Two Shot
+    power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.rapid-fire/two-shot
     subtype: signature
     target: Two creatures or objects
+    tier1: 4 damage
+    tier2: 6 damage
+    tier3: 8 damage
     type: ability
 name: Two Shot
 target: Two creatures or objects

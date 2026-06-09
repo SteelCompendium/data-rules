@@ -9,9 +9,13 @@ keywords:
     - Weapon
 kit: pugilist
 name: Let's Dance
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.pugilist/lets-dance
 subtype: signature
 target: One creature
+tier1: 3 + M or A damage
+tier2: 6 + M or A damage; slide 1
+tier3: 8 + M or A damage; slide 2
 type: ability
 ---
 

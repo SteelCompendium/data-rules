@@ -17,9 +17,13 @@ keywords:
     - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
 level: "2"
 name: The Gods Command You Obey
+power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey
 source: mcdm.heroes.v1
 target: One creature
+tier1: 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a target you choose
+tier2: 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
+tier3: 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their [speed](scc:mcdm.heroes.v1/rule.character/speed) to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 5 Piety
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: "\n*You speak with the voice of your [saint](scc:mcdm.heroes.v1/rule.world/saint), commanding your enemies.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |     **Main action** |\n|---------------------------|--------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**          | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition):**\n\n- **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a target you choose\n- **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability\n- **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their [speed](scc:mcdm.heroes.v1/rule.character/speed) to a location you choose, uses an ability of your choice, and you choose any targets for that ability"
+    - roll: Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+      tier1: 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a target you choose
+      tier2: 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
+      tier3: 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their [speed](scc:mcdm.heroes.v1/rule.character/speed) to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 feature_type: ability
 flavor: You speak with the voice of your [saint](scc:mcdm.heroes.v1/rule.world/saint), commanding your enemies.
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
     level: "2"
     name: The Gods Command You Obey
+    power_roll_characteristic: '[Intuition](scc:mcdm.heroes.v1/rule.character/intuition)'
     scc: mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey
     target: One creature
+    tier1: 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a target you choose
+    tier2: 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
+    tier3: 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their [speed](scc:mcdm.heroes.v1/rule.character/speed) to a location you choose, uses an ability of your choice, and you choose any targets for that ability
     type: ability
 name: The Gods Command You Obey
 target: One creature

@@ -1,6 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 2 + P corruption damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 3 + P corruption damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier3: 5 + P corruption damage; P < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
     - effect: The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
       name: Effect
 feature_type: ability

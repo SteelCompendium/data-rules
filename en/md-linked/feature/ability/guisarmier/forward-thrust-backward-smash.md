@@ -8,9 +8,13 @@ keywords:
     - Weapon
 kit: guisarmier
 name: Forward Thrust, Backward Smash
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash
 subtype: signature
 target: Two creatures or objects
+tier1: 4 damage
+tier2: 7 damage
+tier3: 9 damage
 type: ability
 ---
 

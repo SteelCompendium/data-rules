@@ -1,7 +1,10 @@
 cost: 7 Insight
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 8 + A damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier2: 12 + A damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+      tier3: 16 + A damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 feature_type: ability
 flavor: One missile—placed well and placed hard.
 keywords:

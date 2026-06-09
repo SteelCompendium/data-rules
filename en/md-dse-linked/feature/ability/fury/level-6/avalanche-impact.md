@@ -16,9 +16,13 @@ keywords:
     - Magic
 level: "6"
 name: Avalanche Impact
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact
 source: mcdm.heroes.v1
 target: Self
+tier1: 4 damage; push 1
+tier2: 7 damage; push 2
+tier3: 11 damage; push 3
 type: ability
 ---
 
@@ -27,6 +31,10 @@ cost: 9 Ferocity
 distance: Self
 effects:
     - effect: You jump up to your maximum jump [distance](../../../../rule/combat/distance.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets each creature [adjacent](../../../../rule/combat/adjacent.md) to the space where you land.
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 4 damage; push 1
+      tier2: 7 damage; push 2
+      tier3: 11 damage; push 3
 feature_type: ability
 flavor: You leap and crash down, causing a shockwave that devastates foes.
 keywords:
@@ -42,8 +50,12 @@ metadata:
         - Magic
     level: "6"
     name: Avalanche Impact
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact
     target: Self
+    tier1: 4 damage; push 1
+    tier2: 7 damage; push 2
+    tier3: 11 damage; push 3
     type: ability
 name: Avalanche Impact
 target: Self

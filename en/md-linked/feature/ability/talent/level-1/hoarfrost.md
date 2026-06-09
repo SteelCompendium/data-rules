@@ -10,9 +10,13 @@ keywords:
     - Strike
 level: "1"
 name: Hoarfrost
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost
 subtype: signature
 target: One creature
+tier1: 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+tier2: 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+tier3: 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
 type: ability
 ---
 

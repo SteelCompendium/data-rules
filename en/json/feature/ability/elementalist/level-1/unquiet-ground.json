@@ -3,6 +3,12 @@
   "distance": "2 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10",
   "effects": [
     {
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "2 damage",
+      "tier2": "5 damage",
+      "tier3": "7 damage"
+    },
+    {
       "effect": "The ground beneath the area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.",
       "name": "Effect"
     }

@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "5"
 name: Debilitating Strike
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike
 source: mcdm.heroes.v1
 target: One creature
+tier1: 10 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 14 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 20 + M damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 9 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: While [slowed](../../../../condition/slowed.md) this way, the target takes 1 damage for every square they move, including from [forced movement](../../../../movement/forced-movement.md).
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 10 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 14 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 20 + M damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 feature_type: ability
 flavor: You need just one blow to sabotage your target.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "5"
     name: Debilitating Strike
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike
     target: One creature
+    tier1: 10 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+    tier2: 14 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+    tier3: 20 + M damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
     type: ability
 name: Debilitating Strike
 target: One creature

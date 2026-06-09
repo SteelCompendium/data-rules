@@ -17,9 +17,13 @@ keywords:
     - Telekinesis
 level: "2"
 name: Gravitic Burst
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 3 damage; vertical push 2
+tier2: 6 damage; vertical push 4
+tier3: 9 damage; vertical push 6
 type: ability
 ---
 
@@ -27,7 +31,10 @@ type: ability
 cost: 5 Clarity
 distance: 1 [burst](../../../../rule/combat/burst.md)
 effects:
-    - effect: "\n*Everyone get away from me!*\n\n| **Area, Psionic, Telekinesis** |               **Main action** |\n|--------------------------------|------------------------------:|\n| **\U0001F4CF 1 [burst](../../../../rule/combat/burst.md)**                 | **\U0001F3AF Each enemy in the area** |\n\n**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**\n\n- **≤11:** 3 damage; vertical push 2\n- **12-16:** 6 damage; vertical push 4\n- **17+:** 9 damage; vertical push 6\n\n**Strained:** The size of the [burst](../../../../rule/combat/burst.md) increases by 1, and you are [weakened](../../../../condition/weakened.md) until the end of your [turn](../../../../rule/combat/turn.md)."
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 3 damage; vertical push 2
+      tier2: 6 damage; vertical push 4
+      tier3: 9 damage; vertical push 6
 feature_type: ability
 flavor: Everyone get away from me!
 keywords:
@@ -46,8 +53,12 @@ metadata:
         - Telekinesis
     level: "2"
     name: Gravitic Burst
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst
     target: Each enemy in the area
+    tier1: 3 damage; vertical push 2
+    tier2: 6 damage; vertical push 4
+    tier3: 9 damage; vertical push 6
     type: ability
 name: Gravitic Burst
 target: Each enemy in the area

@@ -1,7 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 2 + R, I, or P psychic damage; slide 1
+      tier2: 5 + R, I, or P psychic damage; slide 2
+      tier3: 7 + R, I, or P psychic damage; slide 3
 feature_type: ability
 flavor: You shoot forth a purple beam of psychic force that moves your target.
 keywords:

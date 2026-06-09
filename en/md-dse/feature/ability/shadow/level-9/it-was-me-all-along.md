@@ -18,9 +18,13 @@ keywords:
     - Weapon
 level: "9"
 name: It Was Me All Along
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along
 source: mcdm.heroes.v1
 target: One creature or object
+tier1: 15 + A damage
+tier2: 21 + A damage
+tier3: 28 + A damage
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Insight
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: If you are disguised as a creature the target knew using your [I'm No Threat](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/im-no-threat) ability, this ability deals extra damage equal to three times your [Agility](scc:mcdm.heroes.v1/rule.character/agility) score.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 15 + A damage
+      tier2: 21 + A damage
+      tier3: 28 + A damage
 feature_type: ability
 flavor: After everything you've been through together, you twist the blade and make the pain extra personal.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - Weapon
     level: "9"
     name: It Was Me All Along
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along
     target: One creature or object
+    tier1: 15 + A damage
+    tier2: 21 + A damage
+    tier3: 28 + A damage
     type: ability
 name: It Was Me All Along
 target: One creature or object

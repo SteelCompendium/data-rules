@@ -10,8 +10,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Curse of Terror
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/curse-of-terror
 target: One creature
+tier1: 6 + I holy damage; I < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 9 + I holy damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 13 + I holy damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 

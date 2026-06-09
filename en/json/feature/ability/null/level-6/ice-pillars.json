@@ -3,6 +3,12 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
+      "roll": "Power Roll + [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)",
+      "tier1": "Vertical slide 6",
+      "tier2": "Vertical slide 8",
+      "tier3": "Vertical slide 10"
+    },
+    {
       "effect": "The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved.",
       "name": "Effect"
     }

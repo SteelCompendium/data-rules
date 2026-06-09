@@ -9,9 +9,13 @@ keywords:
     - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
 name: Detonate Sigil
+power_roll_characteristic: '[Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.revenant/detonate-sigil
 subtype: signature
 target: One creature bearing your sigil
+tier1: 3 + R, I, or P damage; slide 1
+tier2: 5 + R, I, or P damage; slide 2
+tier3: 7 + R, I, or P damage; slide 3
 type: ability
 ---
 

@@ -7,9 +7,13 @@ keywords:
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 name: Melee Weapon Free Strike
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike
 subtype: free-strike
 target: One creature or object
+tier1: 2 + M or A damage
+tier2: 5 + M or A damage
+tier3: 7 + M or A damage
 type: ability
 ---
 

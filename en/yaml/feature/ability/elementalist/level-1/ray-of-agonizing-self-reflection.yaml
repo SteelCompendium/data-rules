@@ -1,7 +1,10 @@
 ability_type: Signature
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: ""
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+      tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 feature_type: ability
 flavor: You inflict pain and doubt in equal measure.
 keywords:

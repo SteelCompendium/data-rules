@@ -16,10 +16,14 @@ keywords:
     - Void
 level: "1"
 name: Grasp of Beyond
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/grasp-of-beyond
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 3 + R corruption damage
+tier2: 6 + R corruption damage
+tier3: 9 + R corruption damage
 type: ability
 ---
 
@@ -27,6 +31,10 @@ type: ability
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 3 + R corruption damage
+      tier2: 6 + R corruption damage
+      tier3: 9 + R corruption damage
 feature_type: ability
 flavor: You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).
 keywords:
@@ -47,9 +55,13 @@ metadata:
         - Void
     level: "1"
     name: Grasp of Beyond
+    power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/grasp-of-beyond
     subtype: signature
     target: One creature
+    tier1: 3 + R corruption damage
+    tier2: 6 + R corruption damage
+    tier3: 9 + R corruption damage
     type: ability
 name: Grasp of Beyond
 target: One creature

@@ -9,8 +9,12 @@ keywords:
     - Magic
 level: "8"
 name: Shadowgrasp
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp
 target: Each enemy in the area
+tier1: 11 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+tier2: 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+tier3: 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 

@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "1"
 name: Driving Assault
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault
 target: One creature or object
+tier1: 3 + M damage; push 1
+tier2: 6 + M damage; push 3
+tier3: 9 + M damage; push 5
 type: ability
 ---
 

@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "1"
 name: Arcane Disruptor
+power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/arcane-disruptor
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + **A** psychic damage; M < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 12 + **A** psychic damage; M < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 16 + **A** psychic damage; M < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 5 Discipline
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: While [weakened](scc:mcdm.heroes.v1/condition/weakened) this way, the target takes damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score whenever they use a [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) ability that costs Malice.
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 8 + **A** psychic damage; M < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier2: 12 + **A** psychic damage; M < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+      tier3: 16 + **A** psychic damage; M < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 feature_type: ability
 flavor: Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Weapon
     level: "1"
     name: Arcane Disruptor
+    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.null.level-1/arcane-disruptor
     target: One creature
+    tier1: 8 + **A** psychic damage; M < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier2: 12 + **A** psychic damage; M < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+    tier3: 16 + **A** psychic damage; M < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
     type: ability
 name: Arcane Disruptor
 target: One creature

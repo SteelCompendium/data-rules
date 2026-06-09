@@ -1,6 +1,10 @@
 cost: 11 Clarity
 distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
+    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+      tier1: 15 + R psychic damage
+      tier2: 24 + R psychic damage
+      tier3: 28 + R psychic damage
     - effect: This ability ignores [cover](scc:mcdm.heroes.v1/rule.combat/cover) and [concealment](scc:mcdm.heroes.v1/rule.combat/concealment).
       name: Effect
 feature_type: ability

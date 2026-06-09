@@ -19,9 +19,13 @@ keywords:
     - Weapon
 level: "1"
 name: Arrest
+power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/arrest
 source: mcdm.heroes.v1
 target: One creature
+tier1: 6 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier2: 9 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier3: 13 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 type: ability
 ---
 
@@ -30,6 +34,10 @@ cost: 5 Wrath
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: If the target makes a [strike](scc:mcdm.heroes.v1/rule.combat/strike) against a creature while [grabbed](scc:mcdm.heroes.v1/condition/grabbed) this way, you can spend 3 wrath to deal holy damage to them equal to your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score, then change the target of the [strike](scc:mcdm.heroes.v1/rule.combat/strike) to another target within the [strike](scc:mcdm.heroes.v1/rule.combat/strike)'s [distance](scc:mcdm.heroes.v1/rule.combat/distance).
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 6 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier2: 9 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier3: 13 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 feature_type: ability
 flavor: '"I got you, you son of a bitch."'
 keywords:
@@ -51,8 +59,12 @@ metadata:
         - Weapon
     level: "1"
     name: Arrest
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-1/arrest
     target: One creature
+    tier1: 6 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier2: 9 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier3: 13 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
     type: ability
 name: Arrest
 target: One creature

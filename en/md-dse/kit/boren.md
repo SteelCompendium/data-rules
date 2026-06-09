@@ -31,7 +31,10 @@ With this stormwight kit, you channel your [primordial ferocity](scc:mcdm.heroes
 ```ds-feature
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: "*Attacks with your sharp and deadly claws grab the weak.*\n\n| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **\U0001F4CF [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **\U0001F3AF One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might):**\n\n- **≤11:** 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)\n- **17+:** 11 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)"
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
+      tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+      tier3: 11 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 feature_type: ability
 flavor: Attacks with your sharp and deadly claws grab the weak.
 keywords:
@@ -47,8 +50,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Bear Claws
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
     subtype: signature
     target: One creature or object
+    tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+    tier3: 11 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
     type: ability
 name: Bear Claws
 target: One creature or object

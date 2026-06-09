@@ -49,6 +49,10 @@ You wear medium armor and wield a light weapon and a medium weapon.
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
     - effect: If you use this ability on your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can use it against one target, then use your maneuver and your move action for that [turn](scc:mcdm.heroes.v1/rule.combat/turn) before using the ability against a second target. You still use the same [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) for both targets.
+    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 4 damage
+      tier2: 6 damage
+      tier3: 8 damage
 feature_type: ability
 flavor: Why strike once when you could do it twice?
 keywords:
@@ -65,8 +69,12 @@ metadata:
         - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Double Strike
+    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
     subtype: signature
     target: Two creatures or objects
+    tier1: 4 damage
+    tier2: 6 damage
+    tier3: 8 damage
     type: ability
 name: Double Strike
 target: Two creatures or objects

@@ -1,6 +1,10 @@
 cost: 5 Drama
 distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
+    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+      tier1: 7 + **A** damage
+      tier2: 11 + **A** damage
+      tier3: 16 + **A** damage
     - effect: The target can make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you. If they do, you can make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against the target.
       name: Effect
 feature_type: ability

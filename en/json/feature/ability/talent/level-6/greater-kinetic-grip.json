@@ -3,7 +3,10 @@
   "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": ""
+      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "Slide 4 + R; M \u003c WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical",
+      "tier2": "Slide 8 + R; M \u003c AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical",
+      "tier3": "Slide 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M \u003c STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical"
     }
   ],
   "feature_type": "ability",

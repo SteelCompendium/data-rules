@@ -18,9 +18,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "2"
 name: It Is Justice You Fear
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear
 source: mcdm.heroes.v1
 target: One creature
+tier1: 8 + M holy damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 12 + M holy damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 15 + M holy damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 5 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: If the target is already [frightened](../../../../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](../../../../rule/character/presence.md) score.
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 8 + M holy damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: 12 + M holy damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: 15 + M holy damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 feature_type: ability
 flavor: I am but a vessel. Your own deeds weigh upon you.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Strike](../../../../rule/combat/strike.md)'
     level: "2"
     name: It Is Justice You Fear
+    power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
     scc: mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear
     target: One creature
+    tier1: 8 + M holy damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+    tier2: 12 + M holy damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+    tier3: 15 + M holy damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
     type: ability
 name: It Is Justice You Fear
 target: One creature

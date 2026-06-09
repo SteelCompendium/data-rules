@@ -13,17 +13,24 @@ keywords:
     - Weapon
 kit: ranger
 name: Hamstring Shot
+power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.ranger/hamstring-shot
 source: mcdm.heroes.v1
 subtype: signature
 target: One creature
+tier1: 3 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+tier2: 5 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+tier3: 7 + M or A damage; A < STRONG, [slowed](../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
 ```ds-feature
 distance: '[Ranged](../../../rule/combat/ranged.md) 10'
 effects:
-    - effect: "*A well-placed shot leaves your enemy struggling to move.*\n\n| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF [Ranged](../../../rule/combat/ranged.md) 10**           | **\U0001F3AF One creature** |\n\n**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**\n\n- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)\n- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)\n- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../../condition/slowed.md) (save ends)"
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 3 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+      tier2: 5 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+      tier3: 7 + M or A damage; A < STRONG, [slowed](../../../condition/slowed.md) (save ends)
 feature_type: ability
 flavor: A well-placed shot leaves your enemy struggling to move.
 keywords:
@@ -40,9 +47,13 @@ metadata:
         - Weapon
     kit: ranger
     name: Hamstring Shot
+    power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
     scc: mcdm.heroes.v1/feature.ability.ranger/hamstring-shot
     subtype: signature
     target: One creature
+    tier1: 3 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+    tier2: 5 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+    tier3: 7 + M or A damage; A < STRONG, [slowed](../../../condition/slowed.md) (save ends)
     type: ability
 name: Hamstring Shot
 target: One creature

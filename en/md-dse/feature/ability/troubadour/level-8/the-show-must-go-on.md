@@ -18,9 +18,13 @@ keywords:
     - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
 level: "8"
 name: The Show Must Go On
+power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on
 source: mcdm.heroes.v1
 target: Each enemy in the area
+tier1: 6 damage; P < WEAK, the target can't willingly leave the area ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))
+tier2: 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
+tier3: 12 damage; the target can't willingly leave the area ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)); if P < STRONG, they can't willingly leave the area (save ends)
 type: ability
 ---
 
@@ -29,6 +33,10 @@ cost: 11 Drama
 distance: 5 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
     - effect: Each ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance) can't obtain lower than a tier 2 outcome on the next [test](scc:mcdm.heroes.v1/rule.test/test) they make before the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+      tier1: 6 damage; P < WEAK, the target can't willingly leave the area ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))
+      tier2: 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
+      tier3: 12 damage; the target can't willingly leave the area ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)); if P < STRONG, they can't willingly leave the area (save ends)
 feature_type: ability
 flavor: You shine a bright light on the players on the stage and compel them to finish the performance.
 keywords:
@@ -48,8 +56,12 @@ metadata:
         - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
     level: "8"
     name: The Show Must Go On
+    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on
     target: Each enemy in the area
+    tier1: 6 damage; P < WEAK, the target can't willingly leave the area ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))
+    tier2: 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
+    tier3: 12 damage; the target can't willingly leave the area ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn)); if P < STRONG, they can't willingly leave the area (save ends)
     type: ability
 name: The Show Must Go On
 target: Each enemy in the area

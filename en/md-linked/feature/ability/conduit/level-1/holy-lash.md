@@ -9,9 +9,13 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Holy Lash
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash
 subtype: signature
 target: One creature or object
+tier1: 3 + I holy damage; vertical pull 2
+tier2: 5 + I holy damage; vertical pull 3
+tier3: 8 + I holy damage; vertical pull 4
 type: ability
 ---
 

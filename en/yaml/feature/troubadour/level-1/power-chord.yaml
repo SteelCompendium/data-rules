@@ -1,7 +1,10 @@
 ability:
     distance: 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
     effects:
-        - effect: ""
+        - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+          tier1: Push 1
+          tier2: Push 2
+          tier3: Push 3
     feature_type: ability
     flavor: Your instrument rings true and your music blows everyone away.
     keywords:
