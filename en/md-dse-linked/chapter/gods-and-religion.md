@@ -4,7 +4,7 @@ file_dpath: chapter
 item_id: gods-and-religion
 item_name: Gods and Religion
 name: Gods and Religion
-order: 19
+order: 14
 scc: mcdm.heroes.v1/chapter/gods-and-religion
 source: mcdm.heroes.v1
 type: chapter

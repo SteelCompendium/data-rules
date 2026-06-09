@@ -4,7 +4,7 @@ file_dpath: chapter
 item_id: kits
 item_name: Kits
 name: Kits
-order: 8
+order: 6
 scc: mcdm.heroes.v1/chapter/kits
 source: mcdm.heroes.v1
 type: chapter

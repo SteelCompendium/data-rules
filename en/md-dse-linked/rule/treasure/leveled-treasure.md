@@ -13,7 +13,7 @@ Like [trinkets](trinket.md), leveled treasures can be used at will without a red
 
 #### Leveled Benefits
 
-Each [leveled treasure](leveled-treasure.md) has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](../../chapter/treasures.md) are cumulative.
+Each [leveled treasure](leveled-treasure.md) has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](../../chapter/rewards.md) are cumulative.
 
 #### Carry Three Safely
 

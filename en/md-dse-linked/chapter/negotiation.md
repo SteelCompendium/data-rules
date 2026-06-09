@@ -4,7 +4,7 @@ file_dpath: chapter
 item_id: negotiation
 item_name: Negotiation
 name: Negotiation
-order: 14
+order: 11
 scc: mcdm.heroes.v1/chapter/negotiation
 source: mcdm.heroes.v1
 type: chapter

@@ -117,6 +117,6 @@ content: |-
     >
     > Abilities granted by your class that are quick build options are indicated by a gold icon to the left of their name. Look for this icon if you're using the quick build options when creating your hero:
 name: Classes
-order: 7
+order: 5
 scc: mcdm.heroes.v1/chapter/classes
 type: chapter

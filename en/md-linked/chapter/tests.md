@@ -1,6 +1,6 @@
 ---
 name: Tests
-order: 11
+order: 9
 scc: mcdm.heroes.v1/chapter/tests
 type: chapter
 ---
@@ -243,7 +243,7 @@ Reactive [tests](../rule/test/test.md) are typically made in the following circu
 >
 > Some Directors prefer to make the [power rolls](../rule/dice/power-roll.md) for reactive [tests](../rule/test/test.md) for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's [characteristics](../rule/character/characteristic.md) and skills recorded (whether physically or digitally) for easy reference.
 
-### Skills {data-scc="mcdm.heroes.v1/chapter/skills"}
+### Skills
 
 Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a [test](../rule/test/test.md), having a particular skill associated with the [test](../rule/test/test.md) increases your chance of success.
 

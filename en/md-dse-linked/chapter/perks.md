@@ -4,7 +4,7 @@ file_dpath: chapter
 item_id: perks
 item_name: Perks
 name: Perks
-order: 9
+order: 7
 scc: mcdm.heroes.v1/chapter/perks
 source: mcdm.heroes.v1
 type: chapter

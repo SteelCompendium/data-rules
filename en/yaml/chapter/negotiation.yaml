@@ -381,6 +381,6 @@ content: |-
 
     The heroes could have pushed for a better deal, but they're satisfied with the offer from Zola, so they accept her terms. The negotiation ends.
 name: Negotiation
-order: 14
+order: 11
 scc: mcdm.heroes.v1/chapter/negotiation
 type: chapter

@@ -4,7 +4,7 @@ file_dpath: chapter
 item_id: downtime-projects
 item_name: Downtime Projects
 name: Downtime Projects
-order: 15
+order: 12
 scc: mcdm.heroes.v1/chapter/downtime-projects
 source: mcdm.heroes.v1
 type: chapter

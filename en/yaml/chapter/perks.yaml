@@ -21,6 +21,6 @@ content: |-
 
     Whenever a feature allows you to gain a perk, that feature tells you which type of perk to choose.
 name: Perks
-order: 9
+order: 7
 scc: mcdm.heroes.v1/chapter/perks
 type: chapter

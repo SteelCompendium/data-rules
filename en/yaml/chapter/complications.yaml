@@ -181,6 +181,6 @@ content: |-
     | 99   | [Wrathful Spirit](scc:mcdm.heroes.v1/complication/wrathful-spirit)                    |
     | 100  | [Wrongly Imprisoned](scc:mcdm.heroes.v1/complication/wrongly-imprisoned)                 |
 name: Complications
-order: 10
+order: 8
 scc: mcdm.heroes.v1/chapter/complications
 type: chapter

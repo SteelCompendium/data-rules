@@ -4,7 +4,7 @@ file_dpath: chapter
 item_id: for-the-director
 item_name: For the Director
 name: For the Director
-order: 20
+order: 15
 scc: mcdm.heroes.v1/chapter/for-the-director
 source: mcdm.heroes.v1
 type: chapter
