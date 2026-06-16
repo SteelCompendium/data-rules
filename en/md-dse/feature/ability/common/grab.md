@@ -4,7 +4,7 @@ distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
 effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
 feature_type: ability
 file_basename: grab
-file_dpath: feature/ability/common/maneuvers
+file_dpath: feature/ability/common
 item_id: grab
 item_name: Grab
 keywords:
@@ -12,7 +12,7 @@ keywords:
     - Weapon
 name: Grab
 power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
-scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
+scc: mcdm.heroes.v1/feature.ability.common/grab
 source: mcdm.heroes.v1
 target: One creature
 tier1: No effect.
@@ -42,7 +42,7 @@ metadata:
         - Weapon
     name: Grab
     power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
-    scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
+    scc: mcdm.heroes.v1/feature.ability.common/grab
     target: One creature
     tier1: No effect.
     tier2: You can grab the target, but if you do, the target can make a [melee](scc:mcdm.heroes.v1/rule.combat/melee) [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).

@@ -417,7 +417,7 @@ A creature who is [dying](../rule/health/dying.md) (see [Dying](../rule/health/d
 
 A creature who is [grabbed](../condition/grabbed.md) by another creature, an object, or an effect (see [Grab](../feature/common/maneuvers/grab.md) below) can attempt to escape by using the following ability.
 
-##### Escape Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab"}
+##### Escape Grab {data-scc="mcdm.heroes.v1/feature.ability.common/escape-grab"}
 
 
 | **-**       | **Maneuver** |
@@ -438,7 +438,7 @@ See [Conditions](../rule/combat/condition.md) in Chapter 5: [Classes](classes.md
 
 A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
 
-##### Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/grab"}
+##### Grab {data-scc="mcdm.heroes.v1/feature.ability.common/grab"}
 
 
 | **[Melee](../rule/combat/melee.md), Weapon** |        **Maneuver** |
@@ -465,7 +465,7 @@ Using the [Hide](../feature/common/maneuvers/hide.md) maneuver, a creature attem
 
 A creature wanting to [push](../movement/forced-movement.md) an [adjacent](../rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
 
-##### Knockback {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/knockback"}
+##### Knockback {data-scc="mcdm.heroes.v1/feature.ability.common/knockback"}
 
 
 | **[Melee](../rule/combat/melee.md), Weapon** |        **Maneuver** |
@@ -546,9 +546,9 @@ Every hero has two standard [free strike](../feature/common/main-actions/free-st
 
 A [melee](../rule/combat/melee.md) weapon free strike is a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) made with an unarmed [strike](../rule/combat/strike.md) or an improvised weapon. A [ranged](../rule/combat/ranged.md) weapon free strike is a [ranged](../rule/combat/ranged.md) [strike](../rule/combat/strike.md) made with an improvised weapon. At the Director's discretion, the [damage type](../rule/damage/damage-type.md) of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../feature/common/main-actions/free-strike.md).
 
-###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common.free-strikes/melee-weapon-free-strike-combat"}
+**Melee Weapon Free Strike**
 
-| **Charge, [Melee](../rule/combat/melee.md), Stike, Weapon** |               **Main action** |
+| **Charge, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 | -------------------------------- | -----------------------------:|
 | **📏 [Melee](../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
@@ -558,9 +558,9 @@ A [melee](../rule/combat/melee.md) weapon free strike is a [melee](../rule/comba
 - **12-16:** 5 + M or A damage
 - **17+:** 7 + M or A damage
 
-###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common.free-strikes/ranged-weapon-free-strike-combat"}
+**Ranged Weapon Free Strike**
 
-| **[Ranged](../rule/combat/ranged.md), Stike, Weapon** |               **Main action** |
+| **[Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------| -----------------------------:|
 | **📏 [Ranged](../rule/combat/ranged.md) 5**           | **🎯 One creature or object** |
 

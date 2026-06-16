@@ -29,10 +29,10 @@
       "Weapon"
     ],
     "scc": [
-      "mcdm.heroes.v1/feature.ability.common.maneuvers/knockback"
+      "mcdm.heroes.v1/feature.ability.common/knockback"
     ],
     "target": "One creature",
-    "type": "feature/ability/common/maneuvers"
+    "type": "feature/ability/common"
   },
   "name": "Knockback",
   "target": "One creature",

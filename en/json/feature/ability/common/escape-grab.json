@@ -27,10 +27,10 @@
       "-"
     ],
     "scc": [
-      "mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab"
+      "mcdm.heroes.v1/feature.ability.common/escape-grab"
     ],
     "target": "Self",
-    "type": "feature/ability/common/maneuvers"
+    "type": "feature/ability/common"
   },
   "name": "Escape Grab",
   "target": "Self",

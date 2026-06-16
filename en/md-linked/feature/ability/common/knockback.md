@@ -1,12 +1,19 @@
 ---
+action_type: Maneuver
+distance: '[Melee](../../../rule/combat/melee.md) 1'
+effect: You can usually target only creatures of your [size](../../../rule/character/size.md) or smaller. If your [Might](../../../rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../../../rule/character/size.md) equal to or less than your [Might](../../../rule/character/might.md) score.
+keywords:
+    - '[Melee](../../../rule/combat/melee.md)'
+    - Weapon
 name: Knockback
-scc: mcdm.heroes.v1/feature.common.maneuvers/knockback
-type: feature
+power_roll_characteristic: '[Might](../../../rule/character/might.md)'
+scc: mcdm.heroes.v1/feature.ability.common/knockback
+target: One creature
+tier1: '[Push](../../../movement/forced-movement.md) 1'
+tier2: '[Push](../../../movement/forced-movement.md) 2'
+tier3: '[Push](../../../movement/forced-movement.md) 3'
+type: ability
 ---
-
-A creature wanting to [push](../../../movement/forced-movement.md) an [adjacent](../../../rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
-
-## Knockback {data-scc="mcdm.heroes.v1/feature.ability.common/knockback"}
 
 
 | **[Melee](../../../rule/combat/melee.md), Weapon** |        **Maneuver** |

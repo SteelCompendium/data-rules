@@ -29,10 +29,10 @@
       "Weapon"
     ],
     "scc": [
-      "mcdm.heroes.v1/feature.ability.common.maneuvers/grab"
+      "mcdm.heroes.v1/feature.ability.common/grab"
     ],
     "target": "One creature",
-    "type": "feature/ability/common/maneuvers"
+    "type": "feature/ability/common"
   },
   "name": "Grab",
   "target": "One creature",
