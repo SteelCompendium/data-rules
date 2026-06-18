@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your innate [shadow](scc:mcdm.heroes.v1/class/shadow) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
+    - effect: Your innate [shadow](scc.v1:mcdm.heroes.v1/class/shadow) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 feature_type: trait
 metadata:
     ancestry: polder

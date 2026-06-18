@@ -11,7 +11,7 @@ keywords:
     - Area
     - Magic
 name: Dragon's Fire
-power_roll_characteristic: Your Highest [Characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) Score
+power_roll_characteristic: Your Highest [Characteristic](scc.v1:mcdm.heroes.v1/rule.character/characteristic) Score
 scc: mcdm.heroes.v1/feature.ability.common/dragons-fire
 source: mcdm.heroes.v1
 target: Each enemy in the area
@@ -24,7 +24,7 @@ type: ability
 ```ds-feature
 distance: 5 x 1 line within 1
 effects:
-    - roll: Power Roll + Your Highest [Characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) Score
+    - roll: Power Roll + Your Highest [Characteristic](scc.v1:mcdm.heroes.v1/rule.character/characteristic) Score
       tier1: 5 fire damage
       tier2: 8 fire damage
       tier3: 11 fire damage
@@ -41,7 +41,7 @@ metadata:
         - Area
         - Magic
     name: Dragon's Fire
-    power_roll_characteristic: Your Highest [Characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) Score
+    power_roll_characteristic: Your Highest [Characteristic](scc.v1:mcdm.heroes.v1/rule.character/characteristic) Score
     scc: mcdm.heroes.v1/feature.ability.common/dragons-fire
     target: Each enemy in the area
     tier1: 5 fire damage

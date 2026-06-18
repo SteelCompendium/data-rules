@@ -15,7 +15,7 @@ level: "1"
 name: Inertial Shield
 scc: mcdm.heroes.v1/feature.ability.null.level-1/inertial-shield
 source: mcdm.heroes.v1
-spend: '1 Discipline: The [potency](scc:mcdm.heroes.v1/rule.character/potency) of one effect associated with the damage is reduced by 1 for you.'
+spend: '1 Discipline: The [potency](scc.v1:mcdm.heroes.v1/rule.character/potency) of one effect associated with the damage is reduced by 1 for you.'
 subtype: triggered
 target: Self
 trigger: You take damage.
@@ -26,7 +26,7 @@ type: ability
 distance: Self
 effects:
     - effect: You take half the damage.
-    - effect: '1 Discipline: The [potency](scc:mcdm.heroes.v1/rule.character/potency) of one effect associated with the damage is reduced by 1 for you.'
+    - effect: '1 Discipline: The [potency](scc.v1:mcdm.heroes.v1/rule.character/potency) of one effect associated with the damage is reduced by 1 for you.'
       name: Spend
 feature_type: ability
 flavor: You intuit the course of an incoming attack, reducing its effects.
@@ -43,7 +43,7 @@ metadata:
     level: "1"
     name: Inertial Shield
     scc: mcdm.heroes.v1/feature.ability.null.level-1/inertial-shield
-    spend: '1 Discipline: The [potency](scc:mcdm.heroes.v1/rule.character/potency) of one effect associated with the damage is reduced by 1 for you.'
+    spend: '1 Discipline: The [potency](scc.v1:mcdm.heroes.v1/rule.character/potency) of one effect associated with the damage is reduced by 1 for you.'
     subtype: triggered
     target: Self
     trigger: You take damage.

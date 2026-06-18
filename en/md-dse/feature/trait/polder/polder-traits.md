@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: '[Polder](scc:mcdm.heroes.v1/ancestry/polder) heroes have access to the following traits.'
+    - effect: '[Polder](scc.v1:mcdm.heroes.v1/ancestry/polder) heroes have access to the following traits.'
 feature_type: trait
 metadata:
     ancestry: polder

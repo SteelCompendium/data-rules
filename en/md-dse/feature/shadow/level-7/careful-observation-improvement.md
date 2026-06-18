@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You can target two creatures simultaneously with your [Careful Observation](scc:mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation) ability, observing both simultaneously. Making a [strike](scc:mcdm.heroes.v1/rule.combat/strike) against one target doesn't end your observation of the other target.
+    - effect: You can target two creatures simultaneously with your [Careful Observation](scc.v1:mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation) ability, observing both simultaneously. Making a [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike) against one target doesn't end your observation of the other target.
 feature_type: feature
 metadata:
     class: shadow

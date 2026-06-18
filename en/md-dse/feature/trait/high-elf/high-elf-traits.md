@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [High elf](scc:mcdm.heroes.v1/ancestry/high-elf) heroes have access to the following traits.
+        [High elf](scc.v1:mcdm.heroes.v1/ancestry/high-elf) heroes have access to the following traits.
 
         #### Purchased High Elf Traits
 

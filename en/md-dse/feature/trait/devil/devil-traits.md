@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Devil](scc:mcdm.heroes.v1/ancestry/devil) heroes have access to the following traits.
+        [Devil](scc.v1:mcdm.heroes.v1/ancestry/devil) heroes have access to the following traits.
 
         #### Purchased Devil Traits
 

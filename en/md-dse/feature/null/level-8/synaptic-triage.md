@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: As a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver), you can spend 1d6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) to remove one effect on you. Each creature of your choice in the area of your [Null Field](scc:mcdm.heroes.v1/feature.null.level-1/null-field) ability also gains this benefit.
+    - effect: As a [free maneuver](scc.v1:mcdm.heroes.v1/rule.combat/free-maneuver), you can spend 1d6 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina) to remove one effect on you. Each creature of your choice in the area of your [Null Field](scc.v1:mcdm.heroes.v1/feature.null.level-1/null-field) ability also gains this benefit.
 feature_type: feature
 metadata:
     class: "null"

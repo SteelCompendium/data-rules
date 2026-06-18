@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: While you are in your wolf form, your [size](scc:mcdm.heroes.v1/rule.character/size) is 1L, you have a +2 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc:mcdm.heroes.v1/rule.character/speed), and you ignore [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
+    - effect: While you are in your wolf form, your [size](scc.v1:mcdm.heroes.v1/rule.character/size) is 1L, you have a +2 [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [speed](scc.v1:mcdm.heroes.v1/rule.character/speed), and you ignore [difficult terrain](scc.v1:mcdm.heroes.v1/movement/difficult-terrain).
 feature_type: feature
 metadata:
     class: fury

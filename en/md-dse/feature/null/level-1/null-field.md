@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You project a psionic field of order around your body, dampening the effects of [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) abilities harmful to you and your allies.
+    - effect: You project a psionic field of order around your body, dampening the effects of [supernatural](scc.v1:mcdm.heroes.v1/rule.general/supernatural) abilities harmful to you and your allies.
 feature_type: feature
 metadata:
     class: "null"

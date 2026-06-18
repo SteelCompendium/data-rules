@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: talent
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
 feature_type: ability
 file_basename: mind-spike
 file_dpath: feature/ability/talent/level-1
@@ -10,12 +10,12 @@ item_id: mind-spike
 item_name: Mind Spike
 keywords:
     - Psionic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     - Strike
     - Telepathy
 level: "1"
 name: Mind Spike
-power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
+power_roll_characteristic: '[Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike
 source: mcdm.heroes.v1
 target: One creature
@@ -26,9 +26,9 @@ type: ability
 ---
 
 ```ds-feature
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+    - roll: Power Roll + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)
       tier1: 2 + R psychic damage
       tier2: 4 + R psychic damage
       tier3: 6 + R psychic damage
@@ -36,22 +36,22 @@ feature_type: ability
 flavor: A telepathic bolt instantly zaps a creature's brain.
 keywords:
     - Psionic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     - Strike
     - Telepathy
 metadata:
     action_type: Main action
     class: talent
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
     flavor: A telepathic bolt instantly zaps a creature's brain.
     keywords:
         - Psionic
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
         - Strike
         - Telepathy
     level: "1"
     name: Mind Spike
-    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
+    power_roll_characteristic: '[Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike
     target: One creature
     tier1: 2 + R psychic damage

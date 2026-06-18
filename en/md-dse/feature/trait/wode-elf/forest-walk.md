@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into and while within [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
+    - effect: You can [shift](scc.v1:mcdm.heroes.v1/movement/shifting) into and while within [difficult terrain](scc.v1:mcdm.heroes.v1/movement/difficult-terrain).
 feature_type: trait
 metadata:
     ancestry: wode-elf

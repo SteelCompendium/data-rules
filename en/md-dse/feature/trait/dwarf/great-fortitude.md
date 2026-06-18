@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your hearty constitution prevents you from losing strength. You can't be made [weakened](scc:mcdm.heroes.v1/condition/weakened).
+    - effect: Your hearty constitution prevents you from losing strength. You can't be made [weakened](scc.v1:mcdm.heroes.v1/condition/weakened).
 feature_type: trait
 metadata:
     ancestry: dwarf

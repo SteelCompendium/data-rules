@@ -1,7 +1,7 @@
 ---
 action_type: Triggered
 class: shadow
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5'
 effect: The target takes half the damage. You remain hidden.
 feature_type: ability
 file_basename: night-watch
@@ -10,7 +10,7 @@ flavor: A steely dagger from out of the blue knocks another weapon off course.
 item_id: night-watch
 item_name: Night Watch
 keywords:
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     - Weapon
 level: "4"
 name: Night Watch
@@ -23,22 +23,22 @@ type: ability
 ---
 
 ```ds-feature
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
     - effect: The target takes half the damage. You remain hidden.
 feature_type: ability
 flavor: A steely dagger from out of the blue knocks another weapon off course.
 keywords:
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     - Weapon
 metadata:
     action_type: Triggered
     class: shadow
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5'
     effect: The target takes half the damage. You remain hidden.
     flavor: A steely dagger from out of the blue knocks another weapon off course.
     keywords:
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
         - Weapon
     level: "4"
     name: Night Watch

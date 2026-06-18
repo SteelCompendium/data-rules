@@ -4,8 +4,8 @@ class: troubadour
 cost: 11 Drama
 cost_amount: "11"
 cost_resource: Drama
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-effect: Until the end of the encounter, whenever the target takes damage while [winded](scc:mcdm.heroes.v1/rule.health/winded), they can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to deal half the damage they took to the source of the damage.
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: Until the end of the encounter, whenever the target takes damage while [winded](scc.v1:mcdm.heroes.v1/rule.health/winded), they can use a free [triggered action](scc.v1:mcdm.heroes.v1/rule.combat/triggered-action) to deal half the damage they took to the source of the damage.
 feature_type: ability
 file_basename: power-ballad
 file_dpath: feature/ability/troubadour/level-8
@@ -14,7 +14,7 @@ item_id: power-ballad
 item_name: Power Ballad
 keywords:
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
 level: "8"
 name: Power Ballad
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad
@@ -25,24 +25,24 @@ type: ability
 
 ```ds-feature
 cost: 11 Drama
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: Until the end of the encounter, whenever the target takes damage while [winded](scc:mcdm.heroes.v1/rule.health/winded), they can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to deal half the damage they took to the source of the damage.
+    - effect: Until the end of the encounter, whenever the target takes damage while [winded](scc.v1:mcdm.heroes.v1/rule.health/winded), they can use a free [triggered action](scc.v1:mcdm.heroes.v1/rule.combat/triggered-action) to deal half the damage they took to the source of the damage.
 feature_type: ability
 flavor: A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.
 keywords:
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: troubadour
     cost: 11 Drama
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-    effect: Until the end of the encounter, whenever the target takes damage while [winded](scc:mcdm.heroes.v1/rule.health/winded), they can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to deal half the damage they took to the source of the damage.
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: Until the end of the encounter, whenever the target takes damage while [winded](scc.v1:mcdm.heroes.v1/rule.health/winded), they can use a free [triggered action](scc.v1:mcdm.heroes.v1/rule.combat/triggered-action) to deal half the damage they took to the source of the damage.
     flavor: A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.
     keywords:
         - Magic
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     level: "8"
     name: Power Ballad
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad

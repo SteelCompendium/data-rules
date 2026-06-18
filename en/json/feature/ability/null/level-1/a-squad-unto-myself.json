@@ -1,15 +1,15 @@
 {
   "cost": "5 Discipline",
-  "distance": "2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
+  "distance": "2 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "roll": "Power Roll + [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)",
       "tier1": "6 damage",
       "tier2": "9 damage",
       "tier3": "13 damage"
     },
     {
-      "effect": "You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) before or after you use this ability.",
+      "effect": "You can take the [Disengage](scc.v1:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a [free maneuver](scc.v1:mcdm.heroes.v1/rule.combat/free-maneuver) before or after you use this ability.",
       "name": "Effect"
     }
   ],
@@ -23,8 +23,8 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You move so quickly, it seems as though an army assaulted your foes.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**            | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 6 damage\n- **12-16:** 9 damage\n- **17+:** 13 damage\n\n**Effect:** You can take the [Disengage](scc:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a [free maneuver](scc:mcdm.heroes.v1/rule.combat/free-maneuver) before or after you use this ability.",
-    "distance": "2 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
+    "content": "\n*You move so quickly, it seems as though an army assaulted your foes.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 2 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)**            | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 6 damage\n- **12-16:** 9 damage\n- **17+:** 13 damage\n\n**Effect:** You can take the [Disengage](scc.v1:mcdm.heroes.v1/feature.common.move-actions/disengage) move action as a [free maneuver](scc.v1:mcdm.heroes.v1/rule.combat/free-maneuver) before or after you use this ability.",
+    "distance": "2 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "You move so quickly, it seems as though an army assaulted your foes.",
     "item_id": "a-squad-unto-myself",

@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Human](scc:mcdm.heroes.v1/ancestry/human) heroes have access to the following traits.
+        [Human](scc.v1:mcdm.heroes.v1/ancestry/human) heroes have access to the following traits.
 
         #### Purchased Human Traits
 

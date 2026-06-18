@@ -4,12 +4,12 @@ class: conduit
 cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
-distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: Until the end of the encounter, any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5.
+distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+effect: Until the end of the encounter, any [ability roll](scc.v1:mcdm.heroes.v1/rule.dice/ability-roll) made against a target takes a [bane](scc.v1:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc.v1:mcdm.heroes.v1/rule.damage/damage-immunity) 5.
 feature_type: ability
 file_basename: blessing-of-steel
 file_dpath: feature/ability/conduit/level-8
-flavor: A protective [aura](scc:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.
+flavor: A protective [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.
 item_id: blessing-of-steel
 item_name: Blessing of Steel
 keywords:
@@ -25,11 +25,11 @@ type: ability
 
 ```ds-feature
 cost: 11 Piety
-distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Until the end of the encounter, any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5.
+    - effect: Until the end of the encounter, any [ability roll](scc.v1:mcdm.heroes.v1/rule.dice/ability-roll) made against a target takes a [bane](scc.v1:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc.v1:mcdm.heroes.v1/rule.damage/damage-immunity) 5.
 feature_type: ability
-flavor: A protective [aura](scc:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.
+flavor: A protective [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.
 keywords:
     - Area
     - Magic
@@ -37,9 +37,9 @@ metadata:
     action_type: Maneuver
     class: conduit
     cost: 11 Piety
-    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: Until the end of the encounter, any [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll) made against a target takes a [bane](scc:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5.
-    flavor: A protective [aura](scc:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.
+    distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+    effect: Until the end of the encounter, any [ability roll](scc.v1:mcdm.heroes.v1/rule.dice/ability-roll) made against a target takes a [bane](scc.v1:mcdm.heroes.v1/rule.dice/bane) and each target has [damage immunity](scc.v1:mcdm.heroes.v1/rule.damage/damage-immunity) 5.
+    flavor: A protective [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) defends your allies from harm.
     keywords:
         - Area
         - Magic

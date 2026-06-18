@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: At the start of your [turn](scc:mcdm.heroes.v1/rule.combat/turn), you can end any [restrained](scc:mcdm.heroes.v1/condition/restrained) [condition](scc:mcdm.heroes.v1/rule.combat/condition) on you. Additionally, you have a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to escape being confined or imprisoned.
+    - effect: At the start of your [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn), you can end any [restrained](scc.v1:mcdm.heroes.v1/condition/restrained) [condition](scc.v1:mcdm.heroes.v1/rule.combat/condition) on you. Additionally, you have a double [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge) on [tests](scc.v1:mcdm.heroes.v1/rule.test/test) made to escape being confined or imprisoned.
 feature_type: feature
 metadata:
     class: fury

@@ -4,8 +4,8 @@ class: elementalist
 cost: 9 Essence
 cost_amount: "9"
 cost_resource: Essence
-distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area has [cover](scc:mcdm.heroes.v1/rule.combat/cover).
+distance: 4 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
+effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn). The area is [difficult terrain](scc.v1:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area has [cover](scc.v1:mcdm.heroes.v1/rule.combat/cover).
 feature_type: ability
 file_basename: the-wode-remembers-and-returns
 file_dpath: feature/ability/elementalist/level-6
@@ -28,9 +28,9 @@ type: ability
 
 ```ds-feature
 cost: 9 Essence
-distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+distance: 4 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area has [cover](scc:mcdm.heroes.v1/rule.combat/cover).
+    - effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn). The area is [difficult terrain](scc.v1:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area has [cover](scc.v1:mcdm.heroes.v1/rule.combat/cover).
 feature_type: ability
 flavor: You create a terrarium that spans from canopy above to underbrush below.
 keywords:
@@ -43,8 +43,8 @@ metadata:
     action_type: Main action
     class: elementalist
     cost: 9 Essence
-    distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-    effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area has [cover](scc:mcdm.heroes.v1/rule.combat/cover).
+    distance: 4 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
+    effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn). The area is [difficult terrain](scc.v1:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area has [cover](scc.v1:mcdm.heroes.v1/rule.combat/cover).
     flavor: You create a terrarium that spans from canopy above to underbrush below.
     keywords:
         - Area

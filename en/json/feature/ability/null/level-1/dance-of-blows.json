@@ -1,15 +1,15 @@
 {
   "ability_type": "Signature",
-  "distance": "1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
+  "distance": "1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "roll": "Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "roll": "Power Roll + [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)",
       "tier1": "3 damage",
       "tier2": "4 damage",
       "tier3": "5 damage"
     },
     {
-      "effect": "You can [slide](scc:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
+      "effect": "You can [slide](scc.v1:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc.v1:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score.",
       "name": "Effect"
     }
   ],
@@ -24,8 +24,8 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You strike everywhere at once, tricking an enemy into moving out of position.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**            | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 damage\n- **12-16:** 4 damage\n- **17+:** 5 damage\n\n**Effect:** You can [slide](scc:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.",
-    "distance": "1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
+    "content": "\n*You strike everywhere at once, tricking an enemy into moving out of position.*\n\n| **Area, Psionic, Weapon** |               **Main action** |\n|---------------------------|------------------------------:|\n| **📏 1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)**            | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 3 damage\n- **12-16:** 4 damage\n- **17+:** 5 damage\n\n**Effect:** You can [slide](scc.v1:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc.v1:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score.",
+    "distance": "1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "You strike everywhere at once, tricking an enemy into moving out of position.",
     "item_id": "dance-of-blows",

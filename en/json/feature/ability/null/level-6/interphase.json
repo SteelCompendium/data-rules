@@ -3,7 +3,7 @@
   "distance": "Self",
   "effects": [
     {
-      "effect": "You can use up to three [signature abilities](scc:mcdm.heroes.v1/rule.combat/signature-ability), each of which gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).",
+      "effect": "You can use up to three [signature abilities](scc.v1:mcdm.heroes.v1/rule.combat/signature-ability), each of which gains an [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge).",
       "name": "Effect"
     }
   ],
@@ -15,7 +15,7 @@
   "metadata": {
     "action_type": "Main action",
     "class": "null",
-    "content": "\n*You slip into a faster timestream to act more quickly.*\n\n| **Psionic** | **Main action** |\n|-------------|----------------:|\n| **📏 Self** |     **🎯 Self** |\n\n**Effect:** You can use up to three [signature abilities](scc:mcdm.heroes.v1/rule.combat/signature-ability), each of which gains an [edge](scc:mcdm.heroes.v1/rule.dice/edge).",
+    "content": "\n*You slip into a faster timestream to act more quickly.*\n\n| **Psionic** | **Main action** |\n|-------------|----------------:|\n| **📏 Self** |     **🎯 Self** |\n\n**Effect:** You can use up to three [signature abilities](scc.v1:mcdm.heroes.v1/rule.combat/signature-ability), each of which gains an [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge).",
     "distance": "Self",
     "feature_type": "ability",
     "flavor": "You slip into a faster timestream to act more quickly.",

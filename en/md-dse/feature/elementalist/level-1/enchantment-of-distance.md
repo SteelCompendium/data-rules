@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have a +2 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to the [distance](scc:mcdm.heroes.v1/rule.combat/distance) of your [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) magic abilities.
+    - effect: You have a +2 [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to the [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) of your [ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) magic abilities.
 feature_type: feature
 metadata:
     class: elementalist

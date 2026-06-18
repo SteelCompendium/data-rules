@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You gain a +1 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [rolled damage](scc:mcdm.heroes.v1/rule.damage/rolled-damage) with magic abilities.
+    - effect: You gain a +1 [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [rolled damage](scc.v1:mcdm.heroes.v1/rule.damage/rolled-damage) with magic abilities.
 feature_type: feature
 metadata:
     class: elementalist

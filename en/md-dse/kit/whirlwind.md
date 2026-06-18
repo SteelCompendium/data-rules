@@ -11,7 +11,7 @@ source: mcdm.heroes.v1
 type: kit
 ---
 
-The [Whirlwind](scc:mcdm.heroes.v1/kit/whirlwind) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
+The [Whirlwind](scc.v1:mcdm.heroes.v1/kit/whirlwind) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
 
 ##### Equipment
 
@@ -19,13 +19,13 @@ You wear no armor and wield a whip.
 
 ##### Kit Bonuses
 
-**[Speed](scc:mcdm.heroes.v1/rule.character/speed) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +3
+**[Speed](scc.v1:mcdm.heroes.v1/rule.character/speed) [Bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +3
 
-**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1/+1/+1
+**[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) Damage [Bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1/+1/+1
 
-**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) [Distance](scc:mcdm.heroes.v1/rule.combat/distance) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
+**[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) [Distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) [Bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
-**Disengage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
+**Disengage [Bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
 ##### Signature Ability
 
@@ -33,44 +33,44 @@ You wear no armor and wield a whip.
 
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 
-| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |
+| **[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee), [Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3**            | **🎯 One creature** |
+| **📏 [Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 3**            | **🎯 One creature** |
 
-**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
+**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc.v1:mcdm.heroes.v1/rule.character/might) or [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility):**
 
-- **≤11:** 4 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 1
-- **12-16:** 7 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 2
-- **17+:** 10 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 3
+- **≤11:** 4 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 1
+- **12-16:** 7 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 2
+- **17+:** 10 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 3
 
 ```ds-feature
-distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
+distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 3'
 effects:
-    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
-      tier1: 4 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 1
-      tier2: 7 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 2
-      tier3: 10 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 3
+    - roll: Power Roll + [Might](scc.v1:mcdm.heroes.v1/rule.character/might) or [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)
+      tier1: 4 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 1
+      tier2: 7 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 2
+      tier3: 10 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 3
 feature_type: ability
 flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
 keywords:
-    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 3'
+    distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 3'
     flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
     keywords:
-        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
-        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+        - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Extension of My Arm
-    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
+    power_roll_characteristic: '[Might](scc.v1:mcdm.heroes.v1/rule.character/might) or [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)'
     subtype: signature
     target: One creature
-    tier1: 4 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 1
-    tier2: 7 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 2
-    tier3: 10 + M or A damage; vertical [pull](scc:mcdm.heroes.v1/movement/forced-movement) 3
+    tier1: 4 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 1
+    tier2: 7 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 2
+    tier3: 10 + M or A damage; vertical [pull](scc.v1:mcdm.heroes.v1/movement/forced-movement) 3
     type: ability
 name: Extension of My Arm
 target: One creature

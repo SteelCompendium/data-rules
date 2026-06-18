@@ -1,12 +1,12 @@
 ---
 action_type: Maneuver
 class: conduit
-distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+effect: Each creature in the area has a double [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge) on [tests](scc.v1:mcdm.heroes.v1/rule.test/test) made to [hide](scc.v1:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc.v1:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 feature_type: ability
 file_basename: blessing-of-secrets
 file_dpath: feature/ability/conduit/level-4
-flavor: You project an illusory [aura](scc:mcdm.heroes.v1/rule.combat/aura) that makes you and allies harder to notice.
+flavor: You project an illusory [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) that makes you and allies harder to notice.
 item_id: blessing-of-secrets
 item_name: Blessing of Secrets
 keywords:
@@ -21,20 +21,20 @@ type: ability
 ---
 
 ```ds-feature
-distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+    - effect: Each creature in the area has a double [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge) on [tests](scc.v1:mcdm.heroes.v1/rule.test/test) made to [hide](scc.v1:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc.v1:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 feature_type: ability
-flavor: You project an illusory [aura](scc:mcdm.heroes.v1/rule.combat/aura) that makes you and allies harder to notice.
+flavor: You project an illusory [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) that makes you and allies harder to notice.
 keywords:
     - Area
     - Magic
 metadata:
     action_type: Maneuver
     class: conduit
-    distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: Each creature in the area has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to [hide](scc:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
-    flavor: You project an illusory [aura](scc:mcdm.heroes.v1/rule.combat/aura) that makes you and allies harder to notice.
+    distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+    effect: Each creature in the area has a double [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge) on [tests](scc.v1:mcdm.heroes.v1/rule.test/test) made to [hide](scc.v1:mcdm.heroes.v1/skill.intrigue/hide) or [sneak](scc.v1:mcdm.heroes.v1/skill.intrigue/sneak). The [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+    flavor: You project an illusory [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura) that makes you and allies harder to notice.
     keywords:
         - Area
         - Magic

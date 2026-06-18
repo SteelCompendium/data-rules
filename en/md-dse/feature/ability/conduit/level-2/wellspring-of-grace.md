@@ -4,8 +4,8 @@ class: conduit
 cost: 5 Piety
 cost_amount: "5"
 cost_resource: Piety
-distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 file_basename: wellspring-of-grace
 file_dpath: feature/ability/conduit/level-2
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Piety
-distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    - effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: ability
 flavor: A holy light is emitted from your body, healing your allies.
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Main action
     class: conduit
     cost: 5 Piety
-    distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+    effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries).
     flavor: A holy light is emitted from your body, healing your allies.
     keywords:
         - Area

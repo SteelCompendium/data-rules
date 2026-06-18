@@ -1,29 +1,29 @@
 {
-  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
+  "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": "Each target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc:mcdm.heroes.v1/feature.censor.level-4/invocation-of-the-heart) feature. You don't need [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect) to the bonded creature but you must be on the same world.",
+      "effect": "Each target is [teleport](scc.v1:mcdm.heroes.v1/movement/teleport)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc.v1:mcdm.heroes.v1/feature.censor.level-4/invocation-of-the-heart) feature. You don't need [line of effect](scc.v1:mcdm.heroes.v1/rule.combat/line-of-effect) to the bonded creature but you must be on the same world.",
       "name": "Effect"
     }
   ],
   "feature_type": "ability",
-  "flavor": "You concentrate on a friend and [teleport](scc:mcdm.heroes.v1/movement/teleport) to them.",
+  "flavor": "You concentrate on a friend and [teleport](scc.v1:mcdm.heroes.v1/movement/teleport) to them.",
   "keywords": [
     "Magic",
-    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
+    "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "censor",
-    "content": "\n*You concentrate on a friend and [teleport](scc:mcdm.heroes.v1/movement/teleport) to them.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |           **Main action** |\n|-------------------|--------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**  | **🎯 Self and each ally** |\n\n**Effect:** Each target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc:mcdm.heroes.v1/feature.censor.level-4/invocation-of-the-heart) feature. You don't need [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect) to the bonded creature but you must be on the same world.",
-    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
+    "content": "\n*You concentrate on a friend and [teleport](scc.v1:mcdm.heroes.v1/movement/teleport) to them.*\n\n| **Magic, [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)** |           **Main action** |\n|-------------------|--------------------------:|\n| **📏 [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10**  | **🎯 Self and each ally** |\n\n**Effect:** Each target is [teleport](scc.v1:mcdm.heroes.v1/movement/teleport)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc.v1:mcdm.heroes.v1/feature.censor.level-4/invocation-of-the-heart) feature. You don't need [line of effect](scc.v1:mcdm.heroes.v1/rule.combat/line-of-effect) to the bonded creature but you must be on the same world.",
+    "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
-    "flavor": "You concentrate on a friend and [teleport](scc:mcdm.heroes.v1/movement/teleport) to them.",
+    "flavor": "You concentrate on a friend and [teleport](scc.v1:mcdm.heroes.v1/movement/teleport) to them.",
     "item_id": "guided-to-your-side",
     "item_name": "Guided to Your Side",
     "keywords": [
       "Magic",
-      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
+      "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 7,
     "scc": [

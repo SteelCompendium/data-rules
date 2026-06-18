@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](scc:mcdm.heroes.v1/rule.character/stability) increases by 1 until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn). This benefit is cumulative.
+    - effect: You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](scc.v1:mcdm.heroes.v1/rule.character/stability) increases by 1 until the start of your next [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn). This benefit is cumulative.
 feature_type: feature
 metadata:
     class: elementalist

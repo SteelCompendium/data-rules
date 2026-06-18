@@ -4,7 +4,7 @@ class: fury
 cost: 11 Ferocity
 cost_amount: "11"
 cost_resource: Ferocity
-distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+distance: 3 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
 feature_type: ability
 file_basename: death-rattle
 file_dpath: feature/ability/fury/level-9
@@ -16,24 +16,24 @@ keywords:
     - Magic
 level: "9"
 name: Death Rattle
-power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
+power_roll_characteristic: '[Might](scc.v1:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle
 source: mcdm.heroes.v1
 target: Each enemy in the area
-tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)
-tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
-tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded); any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
+tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina)
+tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc.v1:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
+tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](scc.v1:mcdm.heroes.v1/rule.health/winded); any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc.v1:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
 type: ability
 ---
 
 ```ds-feature
 cost: 11 Ferocity
-distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+distance: 3 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
-      tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)
-      tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
-      tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded); any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
+    - roll: Power Roll + [Might](scc.v1:mcdm.heroes.v1/rule.character/might)
+      tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina)
+      tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc.v1:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
+      tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](scc.v1:mcdm.heroes.v1/rule.health/winded); any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc.v1:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
 feature_type: ability
 flavor: You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.
 keywords:
@@ -43,19 +43,19 @@ metadata:
     action_type: Main action
     class: fury
     cost: 11 Ferocity
-    distance: 3 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+    distance: 3 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
     flavor: You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.
     keywords:
         - Area
         - Magic
     level: "9"
     name: Death Rattle
-    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
+    power_roll_characteristic: '[Might](scc.v1:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle
     target: Each enemy in the area
-    tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina)
-    tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
-    tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](scc:mcdm.heroes.v1/rule.health/winded); any target who is a minion is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
+    tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina)
+    tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc.v1:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
+    tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](scc.v1:mcdm.heroes.v1/rule.health/winded); any target who is a minion is reduced to 0 [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina), as does one [winded](scc.v1:mcdm.heroes.v1/rule.health/winded) target who is not a leader or solo creature
     type: ability
 name: Death Rattle
 target: Each enemy in the area

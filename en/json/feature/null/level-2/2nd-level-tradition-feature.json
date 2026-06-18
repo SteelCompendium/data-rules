@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [null tradition](scc:mcdm.heroes.v1/feature.null.level-1/null-tradition) grants you a feature, as shown on the 2nd-Level Tradition Features table.\n\n###### 2nd-Level Tradition Features Table\n\n| Tradition     | Feature               |\n|---------------|-----------------------|\n| Chronokinetic | [Rapid Processing](scc:mcdm.heroes.v1/feature.null.level-2/rapid-processing)      |\n| Cryokinetic   | [Entropic Adaptability](scc:mcdm.heroes.v1/feature.null.level-2/entropic-adaptability) |\n| Metakinetic   | [Inertial Sink](scc:mcdm.heroes.v1/feature.null.level-2/inertial-sink)         |"
+      "effect": "Your [null tradition](scc.v1:mcdm.heroes.v1/feature.null.level-1/null-tradition) grants you a feature, as shown on the 2nd-Level Tradition Features table.\n\n###### 2nd-Level Tradition Features Table\n\n| Tradition     | Feature               |\n|---------------|-----------------------|\n| Chronokinetic | [Rapid Processing](scc.v1:mcdm.heroes.v1/feature.null.level-2/rapid-processing)      |\n| Cryokinetic   | [Entropic Adaptability](scc.v1:mcdm.heroes.v1/feature.null.level-2/entropic-adaptability) |\n| Metakinetic   | [Inertial Sink](scc.v1:mcdm.heroes.v1/feature.null.level-2/inertial-sink)         |"
     }
   ],
   "feature_type": "feature",

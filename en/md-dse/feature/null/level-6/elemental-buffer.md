@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity), you gain 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge) that can be used only to increase the damage of your next strike.
+    - effect: Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with [damage immunity](scc.v1:mcdm.heroes.v1/rule.damage/damage-immunity), you gain 2 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge) that can be used only to increase the damage of your next strike.
 feature_type: feature
 metadata:
     class: "null"

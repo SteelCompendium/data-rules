@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: While you are in your hybrid form, your [size](scc:mcdm.heroes.v1/rule.character/size) is your choice of 1S or 1M. At 4th level, you can automatically climb at full [speed](scc:mcdm.heroes.v1/rule.character/speed) while moving.
+    - effect: While you are in your hybrid form, your [size](scc.v1:mcdm.heroes.v1/rule.character/size) is your choice of 1S or 1M. At 4th level, you can automatically climb at full [speed](scc.v1:mcdm.heroes.v1/rule.character/speed) while moving.
 feature_type: feature
 metadata:
     class: fury

@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: elementalist
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: Choose yourself or one ally within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a [saving throw](scc.v1:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 file_basename: afflict-a-bountiful-decay
 file_dpath: feature/ability/elementalist/level-1
@@ -12,12 +12,12 @@ item_name: Afflict a Bountiful Decay
 keywords:
     - Green
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     - Rot
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Afflict a Bountiful Decay
-power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
+power_roll_characteristic: '[Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/afflict-a-bountiful-decay
 source: mcdm.heroes.v1
 subtype: signature
@@ -29,10 +29,10 @@ type: ability
 ---
 
 ```ds-feature
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn).
-    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+    - effect: Choose yourself or one ally within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a [saving throw](scc.v1:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
+    - roll: Power Roll + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)
       tier1: 2 + R corruption damage
       tier2: 4 + R corruption damage
       tier3: 6 + R corruption damage
@@ -41,24 +41,24 @@ flavor: Your curse causes your foe's flesh to rot off as spores that aid your al
 keywords:
     - Green
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     - Rot
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: elementalist
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-    effect: Choose yourself or one ally within [distance](scc:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: Choose yourself or one ally within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance). That character can end one effect on them that is ended by a [saving throw](scc.v1:mcdm.heroes.v1/rule.general/saving-throw) or that ends at the end of their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
     flavor: Your curse causes your foe's flesh to rot off as spores that aid your allies.
     keywords:
         - Green
         - Magic
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
         - Rot
-        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+        - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Afflict a Bountiful Decay
-    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
+    power_roll_characteristic: '[Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/afflict-a-bountiful-decay
     subtype: signature
     target: One creature

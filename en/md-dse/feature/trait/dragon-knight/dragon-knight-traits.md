@@ -15,11 +15,11 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Dragon knight](scc:mcdm.heroes.v1/ancestry/dragon-knight) heroes have access to the following traits.
+        [Dragon knight](scc.v1:mcdm.heroes.v1/ancestry/dragon-knight) heroes have access to the following traits.
 
         #### Purchased Dragon Knight Traits
 
-        You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dragon Breath](scc:mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath), Prismatic Scales.)
+        You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dragon Breath](scc.v1:mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath), Prismatic Scales.)
 feature_type: trait
 metadata:
     ancestry: dragon-knight

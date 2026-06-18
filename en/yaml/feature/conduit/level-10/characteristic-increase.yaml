@@ -1,5 +1,5 @@
 effects:
-    - effect: Your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score increases to 5. Additionally, you can increase one of your [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) scores by 1, to a maximum of 5.
+    - effect: Your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score increases to 5. Additionally, you can increase one of your [characteristic](scc.v1:mcdm.heroes.v1/rule.character/characteristic) scores by 1, to a maximum of 5.
 feature_type: feature
 metadata:
     action_type: feature

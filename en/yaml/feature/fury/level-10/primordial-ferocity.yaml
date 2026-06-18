@@ -1,5 +1,5 @@
 effects:
-    - effect: The first time you take damage each [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round), you gain 3 ferocity instead of 2.
+    - effect: The first time you take damage each [combat round](scc.v1:mcdm.heroes.v1/rule.combat/combat-round), you gain 3 ferocity instead of 2.
 feature_type: feature
 metadata:
     action_type: feature

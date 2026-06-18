@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You know how to focus the attention of your allies as you push them toward [victory](scc:mcdm.heroes.v1/rule.resource/victories). You have the following ability.
+    - effect: You know how to focus the attention of your allies as you push them toward [victory](scc.v1:mcdm.heroes.v1/rule.resource/victories). You have the following ability.
 feature_type: feature
 metadata:
     class: tactician

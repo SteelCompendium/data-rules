@@ -1,7 +1,7 @@
 cost: 5 Piety
-distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    - effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability
 flavor: A holy light is emitted from your body, healing your allies.
@@ -11,8 +11,8 @@ keywords:
 metadata:
     action_type: Main action
     class: conduit
-    content: "\n*A holy light is emitted from your body, healing your allies.*\n\n| **Area, Magic**  |              **Main action** |\n|------------------|-----------------------------:|\n| **\U0001F4CF 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)**    | **\U0001F3AF Each ally in the area** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
-    distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+    content: "\n*A holy light is emitted from your body, healing your allies.*\n\n| **Area, Magic**  |              **Main action** |\n|------------------|-----------------------------:|\n| **\U0001F4CF 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)**    | **\U0001F3AF Each ally in the area** |\n\n**Effect:** Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever a target starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area, they can spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries)."
+    distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
     feature_type: ability
     flavor: A holy light is emitted from your body, healing your allies.
     item_id: wellspring-of-grace

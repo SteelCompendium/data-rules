@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The [distance](scc:mcdm.heroes.v1/rule.combat/distance) of your [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](scc:mcdm.heroes.v1/feature.talent.level-1/telepathic-speech) feature increases to 1 mile.
+    - effect: The [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) of your [ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](scc.v1:mcdm.heroes.v1/feature.talent.level-1/telepathic-speech) feature increases to 1 mile.
 feature_type: feature
 metadata:
     class: talent

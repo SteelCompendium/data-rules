@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your ordered mind can't be caught off guard. You can't be made [surprised](scc:mcdm.heroes.v1/rule.combat/surprised).
+    - effect: Your ordered mind can't be caught off guard. You can't be made [surprised](scc.v1:mcdm.heroes.v1/rule.combat/surprised).
 feature_type: trait
 metadata:
     ancestry: memonek

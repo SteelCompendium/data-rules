@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: 'You gain one crafting, lore, or [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) perk of your choice. See Chapter 7: [Perks](scc:mcdm.heroes.v1/chapter/perks).'
+    - effect: 'You gain one crafting, lore, or [supernatural](scc.v1:mcdm.heroes.v1/rule.general/supernatural) perk of your choice. See Chapter 7: [Perks](scc.v1:mcdm.heroes.v1/chapter/perks).'
 feature_type: feature
 metadata:
     class: elementalist

@@ -4,8 +4,8 @@ class: troubadour
 cost: 9 Drama
 cost_amount: "9"
 cost_resource: Drama
-distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-effect: Until the end of the encounter, each target gains the [speed](scc:mcdm.heroes.v1/rule.character/speed) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), weapon [distance](scc:mcdm.heroes.v1/rule.combat/distance) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), disengage [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), and [stability](scc:mcdm.heroes.v1/rule.character/stability) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) of your currently equipped kit in addition to their own kit's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties)es.
+distance: 5 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
+effect: Until the end of the encounter, each target gains the [speed](scc.v1:mcdm.heroes.v1/rule.character/speed) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), weapon [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), disengage [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), and [stability](scc.v1:mcdm.heroes.v1/rule.character/stability) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) of your currently equipped kit in addition to their own kit's [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties)es.
 feature_type: ability
 file_basename: youre-all-my-understudies
 file_dpath: feature/ability/troubadour/level-6
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 9 Drama
-distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+distance: 5 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: Until the end of the encounter, each target gains the [speed](scc:mcdm.heroes.v1/rule.character/speed) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), weapon [distance](scc:mcdm.heroes.v1/rule.combat/distance) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), disengage [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), and [stability](scc:mcdm.heroes.v1/rule.character/stability) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) of your currently equipped kit in addition to their own kit's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties)es.
+    - effect: Until the end of the encounter, each target gains the [speed](scc.v1:mcdm.heroes.v1/rule.character/speed) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), weapon [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), disengage [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), and [stability](scc.v1:mcdm.heroes.v1/rule.character/stability) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) of your currently equipped kit in addition to their own kit's [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties)es.
 feature_type: ability
 flavor: It's important for everyone to know each other's lines, just in case...
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Maneuver
     class: troubadour
     cost: 9 Drama
-    distance: 5 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-    effect: Until the end of the encounter, each target gains the [speed](scc:mcdm.heroes.v1/rule.character/speed) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), weapon [distance](scc:mcdm.heroes.v1/rule.combat/distance) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), disengage [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), and [stability](scc:mcdm.heroes.v1/rule.character/stability) [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) of your currently equipped kit in addition to their own kit's [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties)es.
+    distance: 5 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
+    effect: Until the end of the encounter, each target gains the [speed](scc.v1:mcdm.heroes.v1/rule.character/speed) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), weapon [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), disengage [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties), and [stability](scc.v1:mcdm.heroes.v1/rule.character/stability) [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) of your currently equipped kit in addition to their own kit's [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties)es.
     flavor: It's important for everyone to know each other's lines, just in case...
     keywords:
         - Area

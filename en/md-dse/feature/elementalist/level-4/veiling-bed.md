@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The area provides [concealment](scc:mcdm.heroes.v1/rule.combat/concealment) for you and your allies.
+    - effect: The area provides [concealment](scc.v1:mcdm.heroes.v1/rule.combat/concealment) for you and your allies.
 feature_type: feature
 metadata:
     class: elementalist

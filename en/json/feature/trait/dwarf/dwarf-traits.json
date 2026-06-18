@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "[Dwarf](scc:mcdm.heroes.v1/ancestry/dwarf) heroes have access to the following traits.\n\n#### Purchased Dwarf Traits\n\nYou have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)"
+      "effect": "[Dwarf](scc.v1:mcdm.heroes.v1/ancestry/dwarf) heroes have access to the following traits.\n\n#### Purchased Dwarf Traits\n\nYou have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)"
     }
   ],
   "feature_type": "trait",

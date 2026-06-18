@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability). [Signature abilities](scc:mcdm.heroes.v1/rule.combat/signature-ability) can be used at will.
+    - effect: You have the following [signature ability](scc.v1:mcdm.heroes.v1/rule.combat/signature-ability). [Signature abilities](scc.v1:mcdm.heroes.v1/rule.combat/signature-ability) can be used at will.
 feature_type: trait
 metadata:
     ancestry: wode-elf

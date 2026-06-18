@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Dwarf](scc:mcdm.heroes.v1/ancestry/dwarf) heroes have access to the following traits.
+        [Dwarf](scc.v1:mcdm.heroes.v1/ancestry/dwarf) heroes have access to the following traits.
 
         #### Purchased Dwarf Traits
 

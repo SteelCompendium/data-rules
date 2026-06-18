@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your diminutive stature lets you easily get out of—or into—trouble. Your [size](scc:mcdm.heroes.v1/rule.character/size) is 1S.
+    - effect: Your diminutive stature lets you easily get out of—or into—trouble. Your [size](scc.v1:mcdm.heroes.v1/rule.character/size) is 1S.
 feature_type: trait
 metadata:
     ancestry: polder

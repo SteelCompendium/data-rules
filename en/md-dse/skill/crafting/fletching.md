@@ -9,4 +9,4 @@ source: mcdm.heroes.v1
 type: skill
 ---
 
-Make [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) weapons and ammunition.
+Make [ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) weapons and ammunition.

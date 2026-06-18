@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your mind can carry your body through tough times. You ignore [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) and don't need to spend additional movement [while prone](scc:mcdm.heroes.v1/condition/prone).
+    - effect: Your mind can carry your body through tough times. You ignore [difficult terrain](scc.v1:mcdm.heroes.v1/movement/difficult-terrain) and don't need to spend additional movement [while prone](scc.v1:mcdm.heroes.v1/condition/prone).
 feature_type: feature
 metadata:
     class: talent

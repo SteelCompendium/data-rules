@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your primordial [damage type](scc:mcdm.heroes.v1/rule.damage/damage-type) is corruption.
+    - effect: Your primordial [damage type](scc.v1:mcdm.heroes.v1/rule.damage/damage-type) is corruption.
 feature_type: feature
 metadata:
     class: fury

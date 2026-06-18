@@ -4,7 +4,7 @@ class: elementalist
 cost: 5 Essence
 cost_amount: "5"
 cost_resource: Essence
-distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
+distance: 3 [cube](scc.v1:mcdm.heroes.v1/rule.combat/cube) within 10
 feature_type: ability
 file_basename: conflagration
 file_dpath: feature/ability/elementalist/level-1
@@ -15,10 +15,10 @@ keywords:
     - Area
     - Fire
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Conflagration
-power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
+power_roll_characteristic: '[Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration
 source: mcdm.heroes.v1
 target: Each enemy in the area
@@ -30,9 +30,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Essence
-distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
+distance: 3 [cube](scc.v1:mcdm.heroes.v1/rule.combat/cube) within 10
 effects:
-    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+    - roll: Power Roll + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)
       tier1: 4 fire damage
       tier2: 6 fire damage
       tier3: 10 fire damage
@@ -42,21 +42,21 @@ keywords:
     - Area
     - Fire
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Main action
     class: elementalist
     cost: 5 Essence
-    distance: 3 [cube](scc:mcdm.heroes.v1/rule.combat/cube) within 10
+    distance: 3 [cube](scc.v1:mcdm.heroes.v1/rule.combat/cube) within 10
     flavor: A storm of fire descends upon your enemies.
     keywords:
         - Area
         - Fire
         - Magic
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Conflagration
-    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
+    power_roll_characteristic: '[Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration
     target: Each enemy in the area
     tier1: 4 fire damage

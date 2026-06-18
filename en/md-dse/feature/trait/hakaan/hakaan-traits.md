@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Hakaan](scc:mcdm.heroes.v1/ancestry/hakaan) heroes have access to the following traits.
+        [Hakaan](scc.v1:mcdm.heroes.v1/ancestry/hakaan) heroes have access to the following traits.
 
         #### Purchased Hakaan Traits
 

@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: "null"
-distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-effect: You can [slide](scc:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+distance: 1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
+effect: You can [slide](scc.v1:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc.v1:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: ability
 file_basename: dance-of-blows
 file_dpath: feature/ability/null/level-1
@@ -15,7 +15,7 @@ keywords:
     - Weapon
 level: "1"
 name: Dance of Blows
-power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
+power_roll_characteristic: '[Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/dance-of-blows
 source: mcdm.heroes.v1
 subtype: signature
@@ -27,10 +27,10 @@ type: ability
 ---
 
 ```ds-feature
-distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+distance: 1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: You can [slide](scc:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
-    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+    - effect: You can [slide](scc.v1:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc.v1:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score.
+    - roll: Power Roll + [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)
       tier1: 3 damage
       tier2: 4 damage
       tier3: 5 damage
@@ -43,8 +43,8 @@ keywords:
 metadata:
     action_type: Main action
     class: "null"
-    distance: 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-    effect: You can [slide](scc:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+    distance: 1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
+    effect: You can [slide](scc.v1:mcdm.heroes.v1/movement/forced-movement) one [adjacent](scc.v1:mcdm.heroes.v1/rule.combat/adjacent) enemy up to a number of squares equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score.
     flavor: You strike everywhere at once, tricking an enemy into moving out of position.
     keywords:
         - Area
@@ -52,7 +52,7 @@ metadata:
         - Weapon
     level: "1"
     name: Dance of Blows
-    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
+    power_roll_characteristic: '[Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.null.level-1/dance-of-blows
     subtype: signature
     target: Each enemy in the area

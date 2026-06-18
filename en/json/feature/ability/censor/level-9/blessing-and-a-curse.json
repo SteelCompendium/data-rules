@@ -1,10 +1,10 @@
 {
   "ability_type": "Triggered",
   "cost": "11 Wrath",
-  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
+  "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": "The target obtains a tier 1 or tier 3 outcome on their [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
+      "effect": "The target obtains a tier 1 or tier 3 outcome on their [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) (your choice). You can then choose another target within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).",
       "name": "Effect"
     }
   ],
@@ -12,21 +12,21 @@
   "flavor": "The gods bless and damn in equal measure.",
   "keywords": [
     "Magic",
-    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
+    "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "ability_type": "Triggered",
     "action_type": "Triggered",
     "class": "censor",
-    "content": "\n*The gods bless and damn in equal measure.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)**  |       **Triggered** |\n|--------------------|--------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**   | **🎯 One creature** |\n\n**Trigger:** The target makes a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).\n\n**Effect:** The target obtains a tier 1 or tier 3 outcome on their [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) (your choice). You can then choose another target within [distance](scc:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
-    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
+    "content": "\n*The gods bless and damn in equal measure.*\n\n| **Magic, [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)**  |       **Triggered** |\n|--------------------|--------------------:|\n| **📏 [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10**   | **🎯 One creature** |\n\n**Trigger:** The target makes a [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).\n\n**Effect:** The target obtains a tier 1 or tier 3 outcome on their [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) (your choice). You can then choose another target within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance), who obtains the opposite outcome on their next [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).",
+    "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "The gods bless and damn in equal measure.",
     "item_id": "blessing-and-a-curse",
     "item_name": "Blessing and a Curse",
     "keywords": [
       "Magic",
-      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
+      "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 9,
     "scc": [
@@ -37,7 +37,7 @@
   },
   "name": "Blessing and a Curse",
   "target": "One creature",
-  "trigger": "The target makes a [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).",
+  "trigger": "The target makes a [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).",
   "type": "feature",
   "usage": "Triggered"
 }

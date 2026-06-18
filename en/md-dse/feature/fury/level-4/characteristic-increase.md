@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your [Might](scc:mcdm.heroes.v1/rule.character/might) and [Agility](scc:mcdm.heroes.v1/rule.character/agility) scores each increase to 3.
+    - effect: Your [Might](scc.v1:mcdm.heroes.v1/rule.character/might) and [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility) scores each increase to 3.
 feature_type: feature
 metadata:
     class: fury

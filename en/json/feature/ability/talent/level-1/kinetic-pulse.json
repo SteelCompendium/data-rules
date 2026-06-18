@@ -1,12 +1,12 @@
 {
   "ability_type": "Signature",
-  "distance": "1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
+  "distance": "1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)",
   "effects": [
     {
-      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
+      "roll": "Power Roll + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)",
       "tier1": "2 psychic damage",
-      "tier2": "5 psychic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1",
-      "tier3": "7 psychic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2"
+      "tier2": "5 psychic damage; [push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 1",
+      "tier3": "7 psychic damage; [push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 2"
     }
   ],
   "feature_type": "ability",
@@ -20,8 +20,8 @@
     "ability_type": "Signature",
     "action_type": "Main action",
     "class": "talent",
-    "content": "\n*The force of your mind hurls enemies backward.*\n\n| **Area, Psionic, Telepathy** |               **Main action** |\n|------------------------------|------------------------------:|\n| **📏 1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)**               | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 5 psychic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 1\n- **17+:** 7 psychic damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 2\n\n**Strained:** The size of the [burst](scc:mcdm.heroes.v1/rule.combat/burst) increases by 2, and you are [bleeding](scc:mcdm.heroes.v1/condition/bleeding) until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).",
-    "distance": "1 [burst](scc:mcdm.heroes.v1/rule.combat/burst)",
+    "content": "\n*The force of your mind hurls enemies backward.*\n\n| **Area, Psionic, Telepathy** |               **Main action** |\n|------------------------------|------------------------------:|\n| **📏 1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)**               | **🎯 Each enemy in the area** |\n\n**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 2 psychic damage\n- **12-16:** 5 psychic damage; [push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 1\n- **17+:** 7 psychic damage; [push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 2\n\n**Strained:** The size of the [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst) increases by 2, and you are [bleeding](scc.v1:mcdm.heroes.v1/condition/bleeding) until the start of your next [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).",
+    "distance": "1 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)",
     "feature_type": "ability",
     "flavor": "The force of your mind hurls enemies backward.",
     "item_id": "kinetic-pulse",

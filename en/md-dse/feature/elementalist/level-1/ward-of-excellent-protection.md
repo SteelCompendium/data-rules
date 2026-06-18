@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
+    - effect: You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason) score.
 feature_type: feature
 metadata:
     class: elementalist

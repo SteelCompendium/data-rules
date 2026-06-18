@@ -1,15 +1,15 @@
 {
   "cost": "9 Drama",
-  "distance": "Three 3 [cubes](scc:mcdm.heroes.v1/rule.combat/cube) within 1",
+  "distance": "Three 3 [cubes](scc.v1:mcdm.heroes.v1/rule.combat/cube) within 1",
   "effects": [
     {
-      "roll": "Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)",
-      "tier1": "7 sonic damage; P \u003c WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)",
-      "tier2": "10 sonic damage; P \u003c AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)",
-      "tier3": "13 sonic damage; P \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)"
+      "roll": "Power Roll + [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence)",
+      "tier1": "7 sonic damage; P \u003c WEAK[, prone](scc.v1:mcdm.heroes.v1/condition/prone)",
+      "tier2": "10 sonic damage; P \u003c AVERAGE[, prone](scc.v1:mcdm.heroes.v1/condition/prone)",
+      "tier3": "13 sonic damage; P \u003c STRONG[, prone](scc.v1:mcdm.heroes.v1/condition/prone)"
     },
     {
-      "effect": "A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.",
+      "effect": "A [prone target](scc.v1:mcdm.heroes.v1/condition/prone) ignores this ability.",
       "name": "Effect"
     }
   ],
@@ -22,8 +22,8 @@
   "metadata": {
     "action_type": "Main action",
     "class": "troubadour",
-    "content": "\n*Your music pounds the crowd to the beat until their hearts can't stand it anymore.*\n\n| **Area, Magic**               |               **Main action** |\n|-------------------------------|------------------------------:|\n| **📏 Three 3 [cubes](scc:mcdm.heroes.v1/rule.combat/cube) within 1** | **🎯 Each enemy in the area** |\n\n**Effect:** A [prone target](scc:mcdm.heroes.v1/condition/prone) ignores this ability.\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 7 sonic damage; P \u003c WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **12-16:** 10 sonic damage; P \u003c AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)\n- **17+:** 13 sonic damage; P \u003c STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)",
-    "distance": "Three 3 [cubes](scc:mcdm.heroes.v1/rule.combat/cube) within 1",
+    "content": "\n*Your music pounds the crowd to the beat until their hearts can't stand it anymore.*\n\n| **Area, Magic**               |               **Main action** |\n|-------------------------------|------------------------------:|\n| **📏 Three 3 [cubes](scc.v1:mcdm.heroes.v1/rule.combat/cube) within 1** | **🎯 Each enemy in the area** |\n\n**Effect:** A [prone target](scc.v1:mcdm.heroes.v1/condition/prone) ignores this ability.\n\n**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence):**\n\n- **≤11:** 7 sonic damage; P \u003c WEAK[, prone](scc.v1:mcdm.heroes.v1/condition/prone)\n- **12-16:** 10 sonic damage; P \u003c AVERAGE[, prone](scc.v1:mcdm.heroes.v1/condition/prone)\n- **17+:** 13 sonic damage; P \u003c STRONG[, prone](scc.v1:mcdm.heroes.v1/condition/prone)",
+    "distance": "Three 3 [cubes](scc.v1:mcdm.heroes.v1/rule.combat/cube) within 1",
     "feature_type": "ability",
     "flavor": "Your music pounds the crowd to the beat until their hearts can't stand it anymore.",
     "item_id": "feedback",

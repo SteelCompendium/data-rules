@@ -1,31 +1,31 @@
 ability:
     ability_type: Triggered
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
     effects:
-        - effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
+        - effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll.
           name: Effect
     feature_type: ability
     flavor: You step back a split second to see if things play out a little differently.
     keywords:
         - Psionic
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     metadata:
         ability_type: Triggered
         action_type: Triggered
-        content: "\n*You step back a split second to see if things play out a little differently.*\n\n| **Psionic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |               **Triggered** |\n|---------------------|----------------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**    | **\U0001F3AF Self or one creature** |\n\n**Trigger:** The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll).\n\n**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll."
-        distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+        content: "\n*You step back a split second to see if things play out a little differently.*\n\n| **Psionic, [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)** |               **Triggered** |\n|---------------------|----------------------------:|\n| **\U0001F4CF [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10**    | **\U0001F3AF Self or one creature** |\n\n**Trigger:** The target makes an [ability roll](scc.v1:mcdm.heroes.v1/rule.dice/ability-roll).\n\n**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) and use the new roll."
+        distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
         feature_type: ability
         flavor: You step back a split second to see if things play out a little differently.
         item_id: again
         item_name: Again
         keywords:
             - Psionic
-            - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+            - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
         target: Self or one creature
         type: feature/ability/common
     name: Again
     target: Self or one creature
-    trigger: The target makes an [ability roll](scc:mcdm.heroes.v1/rule.dice/ability-roll).
+    trigger: The target makes an [ability roll](scc.v1:mcdm.heroes.v1/rule.dice/ability-roll).
     type: feature
     usage: Triggered
 effects:

@@ -1,7 +1,7 @@
 cost: 9 Discipline
 distance: Self
 effects:
-    - effect: You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc:mcdm.heroes.v1/rule.character/stability) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+    - effect: You gain 20 [temporary Stamina](scc.v1:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc.v1:mcdm.heroes.v1/rule.character/stability) gains a [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score.
       name: Effect
 feature_type: ability
 flavor: You focus until your body becomes as hard as iron.
@@ -10,7 +10,7 @@ keywords:
 metadata:
     action_type: Maneuver
     class: "null"
-    content: "\n*You focus until your body becomes as hard as iron.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You gain 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc:mcdm.heroes.v1/rule.character/stability) gains a [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score."
+    content: "\n*You focus until your body becomes as hard as iron.*\n\n| **Psionic** | **Maneuver** |\n|-------------|-------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Effect:** You gain 20 [temporary Stamina](scc.v1:mcdm.heroes.v1/rule.health/temporary-stamina). Additionally, until the end of the encounter, your [stability](scc.v1:mcdm.heroes.v1/rule.character/stability) gains a [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score."
     distance: Self
     feature_type: ability
     flavor: You focus until your body becomes as hard as iron.

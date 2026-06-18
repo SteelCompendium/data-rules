@@ -5,7 +5,7 @@ cost: 7 Focus
 cost_amount: "7"
 cost_resource: Focus
 distance: Self
-effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), which they can use immediately.
+effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge), which they can use immediately.
 feature_type: ability
 file_basename: hit-em-hard
 file_dpath: feature/ability/tactician/level-3
@@ -26,7 +26,7 @@ type: ability
 cost: 7 Focus
 distance: Self
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), which they can use immediately.
+    - effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge), which they can use immediately.
 feature_type: ability
 flavor: Your allies see the advantages in attacking the targets you select.
 keywords:
@@ -36,7 +36,7 @@ metadata:
     class: tactician
     cost: 7 Focus
     distance: Self
-    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](scc:mcdm.heroes.v1/rule.resource/surge), which they can use immediately.
+    effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge), which they can use immediately.
     flavor: Your allies see the advantages in attacking the targets you select.
     keywords:
         - '-'

@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "[Wode elf](scc:mcdm.heroes.v1/ancestry/wode-elf) heroes have access to the following traits.\n\n#### Purchased Wode Elf Traits\n\nYou have 3 ancestry points to spend on the following traits. (*Quick Build:* Swift, Otherworldly Grace.)"
+      "effect": "[Wode elf](scc.v1:mcdm.heroes.v1/ancestry/wode-elf) heroes have access to the following traits.\n\n#### Purchased Wode Elf Traits\n\nYou have 3 ancestry points to spend on the following traits. (*Quick Build:* Swift, Otherworldly Grace.)"
     }
   ],
   "feature_type": "trait",

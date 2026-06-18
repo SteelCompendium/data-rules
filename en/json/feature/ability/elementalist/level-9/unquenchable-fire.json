@@ -1,12 +1,12 @@
 {
   "cost": "11 Essence",
-  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
+  "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "roll": "Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)",
-      "tier1": "13 + R fire damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
-      "tier2": "18 + R fire damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)",
-      "tier3": "25 + R fire damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)"
+      "roll": "Power Roll + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)",
+      "tier1": "13 + R fire damage; I \u003c WEAK, [dazed](scc.v1:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier2": "18 + R fire damage; I \u003c AVERAGE, [dazed](scc.v1:mcdm.heroes.v1/condition/dazed) (save ends)",
+      "tier3": "25 + R fire damage; I \u003c STRONG, [dazed](scc.v1:mcdm.heroes.v1/condition/dazed) (save ends)"
     },
     {
       "effect": "This damage ignores immunity.",
@@ -18,14 +18,14 @@
   "keywords": [
     "Fire",
     "Magic",
-    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
-    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
+    "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)",
+    "[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)"
   ],
   "metadata": {
     "action_type": "Main action",
     "class": "elementalist",
-    "content": "\n*You let fly a fiery missile braided with pure primal energy.*\n\n| **Fire, Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike)** |            **Main action** |\n|---------------------------------|---------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**                | **🎯 One enemy or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 13 + R fire damage; I \u003c WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 18 + R fire damage; I \u003c AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 25 + R fire damage; I \u003c STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)\n\n**Effect:** This damage ignores immunity.",
-    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
+    "content": "\n*You let fly a fiery missile braided with pure primal energy.*\n\n| **Fire, Magic, [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)** |            **Main action** |\n|---------------------------------|---------------------------:|\n| **📏 [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10**                | **🎯 One enemy or object** |\n\n**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 13 + R fire damage; I \u003c WEAK, [dazed](scc.v1:mcdm.heroes.v1/condition/dazed) (save ends)\n- **12-16:** 18 + R fire damage; I \u003c AVERAGE, [dazed](scc.v1:mcdm.heroes.v1/condition/dazed) (save ends)\n- **17+:** 25 + R fire damage; I \u003c STRONG, [dazed](scc.v1:mcdm.heroes.v1/condition/dazed) (save ends)\n\n**Effect:** This damage ignores immunity.",
+    "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "You let fly a fiery missile braided with pure primal energy.",
     "item_id": "unquenchable-fire",
@@ -33,8 +33,8 @@
     "keywords": [
       "Fire",
       "Magic",
-      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
-      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)"
+      "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)",
+      "[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)"
     ],
     "level": 9,
     "scc": [

@@ -1,5 +1,5 @@
 effects:
-    - effect: Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries), you can also spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    - effect: Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries), you can also spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries).
 feature_type: feature
 metadata:
     action_type: feature

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: The first time each [combat round](scc:mcdm.heroes.v1/rule.combat/combat-round) that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.
+    - effect: The first time each [combat round](scc.v1:mcdm.heroes.v1/rule.combat/combat-round) that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.
 feature_type: feature
 metadata:
     class: censor

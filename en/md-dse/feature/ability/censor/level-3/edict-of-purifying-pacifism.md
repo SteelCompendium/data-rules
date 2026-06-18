@@ -4,8 +4,8 @@ class: censor
 cost: 7 Wrath
 cost_amount: "7"
 cost_resource: Wrath
-distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target makes a [strike](scc:mcdm.heroes.v1/rule.combat/strike), they take holy damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. A target judged by you takes an extra 2d6 holy damage.
+distance: 2 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever a target makes a [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), they take holy damage equal to twice your [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence) score. A target judged by you takes an extra 2d6 holy damage.
 feature_type: ability
 file_basename: edict-of-purifying-pacifism
 file_dpath: feature/ability/censor/level-3
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 7 Wrath
-distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 2 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target makes a [strike](scc:mcdm.heroes.v1/rule.combat/strike), they take holy damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. A target judged by you takes an extra 2d6 holy damage.
+    - effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever a target makes a [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), they take holy damage equal to twice your [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence) score. A target judged by you takes an extra 2d6 holy damage.
 feature_type: ability
 flavor: You shed a righteous energy that punishes enemies who would harm you or your allies.
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Maneuver
     class: censor
     cost: 7 Wrath
-    distance: 2 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), whenever a target makes a [strike](scc:mcdm.heroes.v1/rule.combat/strike), they take holy damage equal to twice your [Presence](scc:mcdm.heroes.v1/rule.character/presence) score. A target judged by you takes an extra 2d6 holy damage.
+    distance: 2 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+    effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), whenever a target makes a [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), they take holy damage equal to twice your [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence) score. A target judged by you takes an extra 2d6 holy damage.
     flavor: You shed a righteous energy that punishes enemies who would harm you or your allies.
     keywords:
         - Area

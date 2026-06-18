@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You gain one interpersonal, lore, or [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) perk of your choice.
+    - effect: You gain one interpersonal, lore, or [supernatural](scc.v1:mcdm.heroes.v1/rule.general/supernatural) perk of your choice.
 feature_type: feature
 metadata:
     class: censor

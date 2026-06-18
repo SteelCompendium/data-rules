@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have [speed](scc:mcdm.heroes.v1/rule.character/speed) 6.
+    - effect: You have [speed](scc.v1:mcdm.heroes.v1/rule.character/speed) 6.
 feature_type: trait
 metadata:
     ancestry: wode-elf

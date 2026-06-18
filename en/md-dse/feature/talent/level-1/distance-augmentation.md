@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Your [ranged](scc:mcdm.heroes.v1/rule.combat/ranged) psionic abilities gain a +2 [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [distance](scc:mcdm.heroes.v1/rule.combat/distance).
+    - effect: Your [ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) psionic abilities gain a +2 [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) to [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance).
 feature_type: feature
 metadata:
     class: talent

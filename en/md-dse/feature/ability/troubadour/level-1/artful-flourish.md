@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: troubadour
-distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
+distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1'
+effect: You can [shift](scc.v1:mcdm.heroes.v1/movement/shifting) up to 3 squares.
 feature_type: ability
 file_basename: artful-flourish
 file_dpath: feature/ability/troubadour/level-1
@@ -10,12 +10,12 @@ flavor: And they said practicing fencing was a waste!
 item_id: artful-flourish
 item_name: Artful Flourish
 keywords:
-    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 level: "1"
 name: Artful Flourish
-power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
+power_roll_characteristic: '[Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish
 source: mcdm.heroes.v1
 spend: '2+ Drama: You can target one additional creature or object for every 2 drama spent.'
@@ -28,10 +28,10 @@ type: ability
 ---
 
 ```ds-feature
-distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
-    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+    - effect: You can [shift](scc.v1:mcdm.heroes.v1/movement/shifting) up to 3 squares.
+    - roll: Power Roll + [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)
       tier1: 2 damage
       tier2: 5 damage
       tier3: 7 damage
@@ -40,22 +40,22 @@ effects:
 feature_type: ability
 flavor: And they said practicing fencing was a waste!
 keywords:
-    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: troubadour
-    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-    effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
+    distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: You can [shift](scc.v1:mcdm.heroes.v1/movement/shifting) up to 3 squares.
     flavor: And they said practicing fencing was a waste!
     keywords:
-        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
-        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+        - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: "1"
     name: Artful Flourish
-    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility)'
+    power_roll_characteristic: '[Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)'
     scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish
     spend: '2+ Drama: You can target one additional creature or object for every 2 drama spent.'
     subtype: signature

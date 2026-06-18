@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: At the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn), each enemy in the area takes fire damage equal to your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
+    - effect: At the end of each of your [turns](scc.v1:mcdm.heroes.v1/rule.combat/turn), each enemy in the area takes fire damage equal to your [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason) score.
 feature_type: feature
 metadata:
     class: elementalist

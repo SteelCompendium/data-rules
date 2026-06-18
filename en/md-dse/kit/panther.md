@@ -11,7 +11,7 @@ source: mcdm.heroes.v1
 type: kit
 ---
 
-If you want a good balance of protection, [speed](scc:mcdm.heroes.v1/rule.character/speed), and damage, the [Panther](scc:mcdm.heroes.v1/kit/panther) kit is for you. This kit increases your [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
+If you want a good balance of protection, [speed](scc.v1:mcdm.heroes.v1/rule.character/speed), and damage, the [Panther](scc.v1:mcdm.heroes.v1/kit/panther) kit is for you. This kit increases your [Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina) not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
 ##### Equipment
 
@@ -19,13 +19,13 @@ You wear no armor and wield a heavy weapon.
 
 ##### Kit Bonuses
 
-**[Stamina](scc:mcdm.heroes.v1/rule.health/stamina) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +6 per [echelon](scc:mcdm.heroes.v1/rule.general/echelon)
+**[Stamina](scc.v1:mcdm.heroes.v1/rule.health/stamina) [Bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +6 per [echelon](scc.v1:mcdm.heroes.v1/rule.general/echelon)
 
-**[Speed](scc:mcdm.heroes.v1/rule.character/speed) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
+**[Speed](scc.v1:mcdm.heroes.v1/rule.character/speed) [Bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
-**[Stability](scc:mcdm.heroes.v1/rule.character/stability) [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
+**[Stability](scc.v1:mcdm.heroes.v1/rule.character/stability) [Bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +1
 
-**[Melee](scc:mcdm.heroes.v1/rule.combat/melee) Damage [Bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +0/+0/+4
+**[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) Damage [Bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties):** +0/+0/+4
 
 ##### Signature Ability
 
@@ -33,43 +33,43 @@ You wear no armor and wield a heavy weapon.
 
 *The faster you move, the harder you hit.*
 
-| **[Melee](scc:mcdm.heroes.v1/rule.combat/melee), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |
+| **[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee), [Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 [Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1**            | **🎯 One creature or object** |
+| **📏 [Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1**            | **🎯 One creature or object** |
 
-**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**
+**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc.v1:mcdm.heroes.v1/rule.character/might) or [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** You can move up to 3 squares straight toward the target before this [strike](scc:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
+**Effect:** You can move up to 3 squares straight toward the target before this [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
 
 ```ds-feature
-distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can move up to 3 squares straight toward the target before this [strike](scc:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
-    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)
+    - effect: You can move up to 3 squares straight toward the target before this [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
+    - roll: Power Roll + [Might](scc.v1:mcdm.heroes.v1/rule.character/might) or [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)
       tier1: 3 + M or A damage
       tier2: 6 + M or A damage
       tier3: 13 + M or A damage
 feature_type: ability
 flavor: The faster you move, the harder you hit.
 keywords:
-    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-    effect: You can move up to 3 squares straight toward the target before this [strike](scc:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
+    distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: You can move up to 3 squares straight toward the target before this [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), which deals extra damage equal to the number of squares you move this way.
     flavor: The faster you move, the harder you hit.
     keywords:
-        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
-        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+        - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     name: Devastating Rush
-    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)'
+    power_roll_characteristic: '[Might](scc.v1:mcdm.heroes.v1/rule.character/might) or [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)'
     subtype: signature
     target: One creature or object
     tier1: 3 + M or A damage

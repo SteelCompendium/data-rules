@@ -2,7 +2,7 @@ ability_type: Triggered
 cost: 1 Insight
 distance: Self
 effects:
-    - effect: Choose an enemy within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the triggering strike, including the enemy who targeted you. The [strike](scc:mcdm.heroes.v1/rule.combat/strike) targets that enemy instead.
+    - effect: Choose an enemy within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) of the triggering strike, including the enemy who targeted you. The [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike) targets that enemy instead.
       name: Effect
 feature_type: ability
 flavor: You sow a moment of confusion in combat, to your enemy's peril.
@@ -12,7 +12,7 @@ metadata:
     ability_type: Triggered
     action_type: Triggered
     class: shadow
-    content: "\n*You sow a moment of confusion in combat, to your enemy's peril.*\n\n| **Magic**   | **Triggered** |\n|-------------|--------------:|\n| **\U0001F4CF Self** |     **\U0001F3AF Self** |\n\n**Trigger:** An enemy targets you with a [strike](scc:mcdm.heroes.v1/rule.combat/strike).\n\n**Effect:** Choose an enemy within [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the triggering strike, including the enemy who targeted you. The [strike](scc:mcdm.heroes.v1/rule.combat/strike) targets that enemy instead."
+    content: "\n*You sow a moment of confusion in combat, to your enemy's peril.*\n\n| **Magic**   | **Triggered** |\n|-------------|--------------:|\n| **\U0001F4CF Self** |     **\U0001F3AF Self** |\n\n**Trigger:** An enemy targets you with a [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike).\n\n**Effect:** Choose an enemy within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) of the triggering strike, including the enemy who targeted you. The [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike) targets that enemy instead."
     distance: Self
     feature_type: ability
     flavor: You sow a moment of confusion in combat, to your enemy's peril.
@@ -27,6 +27,6 @@ metadata:
     type: feature/ability/shadow/level-1
 name: Clever Trick
 target: Self
-trigger: An enemy targets you with a [strike](scc:mcdm.heroes.v1/rule.combat/strike).
+trigger: An enemy targets you with a [strike](scc.v1:mcdm.heroes.v1/rule.combat/strike).
 type: feature
 usage: Triggered

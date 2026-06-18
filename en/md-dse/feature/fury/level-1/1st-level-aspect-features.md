@@ -16,15 +16,15 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [primordial aspect](scc:mcdm.heroes.v1/feature.fury.level-1/primordial-aspect) grants you two features, as shown on the 1st-Level Aspect Features table.
+        Your [primordial aspect](scc.v1:mcdm.heroes.v1/feature.fury.level-1/primordial-aspect) grants you two features, as shown on the 1st-Level Aspect Features table.
 
         ###### 1st-Level Aspect Features Table
 
         | Aspect     | Feature                        |
         |------------|--------------------------------|
-        | Berserker  | Kit, [Primordial Strength](scc:mcdm.heroes.v1/feature.fury.level-1/primordial-strength)       |
-        | Reaver     | Kit, [Primordial Cunning](scc:mcdm.heroes.v1/feature.fury.level-1/primordial-cunning)        |
-        | Stormwight | [Beast Shape](scc:mcdm.heroes.v1/feature.fury.level-1/beast-shape), [Relentless Hunter](scc:mcdm.heroes.v1/feature.fury.level-1/relentless-hunter) |
+        | Berserker  | Kit, [Primordial Strength](scc.v1:mcdm.heroes.v1/feature.fury.level-1/primordial-strength)       |
+        | Reaver     | Kit, [Primordial Cunning](scc.v1:mcdm.heroes.v1/feature.fury.level-1/primordial-cunning)        |
+        | Stormwight | [Beast Shape](scc.v1:mcdm.heroes.v1/feature.fury.level-1/beast-shape), [Relentless Hunter](scc.v1:mcdm.heroes.v1/feature.fury.level-1/relentless-hunter) |
 feature_type: feature
 metadata:
     class: fury

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: 'You gain one skill of your choice. See Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests).'
+    - effect: 'You gain one skill of your choice. See Skills in Chapter 9: [Tests](scc.v1:mcdm.heroes.v1/chapter/tests).'
 feature_type: feature
 metadata:
     class: shadow

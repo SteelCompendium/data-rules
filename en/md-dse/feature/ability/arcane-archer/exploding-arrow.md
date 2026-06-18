@@ -1,7 +1,7 @@
 ---
 action_type: Main action
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
-effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 15'
+effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc.v1:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).
 feature_type: ability
 file_basename: exploding-arrow
 file_dpath: feature/ability/arcane-archer
@@ -10,12 +10,12 @@ item_id: exploding-arrow
 item_name: Exploding Arrow
 keywords:
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 kit: arcane-archer
 name: Exploding Arrow
-power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)'
+power_roll_characteristic: '[Agility](scc.v1:mcdm.heroes.v1/rule.character/agility), [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason), [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow
 source: mcdm.heroes.v1
 subtype: signature
@@ -27,10 +27,10 @@ type: ability
 ---
 
 ```ds-feature
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 15'
 effects:
-    - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
-    - roll: Power Roll + [Agility](scc:mcdm.heroes.v1/rule.character/agility), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+    - effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc.v1:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).
+    - roll: Power Roll + [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility), [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason), [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence)
       tier1: 5 + A, R, I, or P fire damage
       tier2: 7 + A, R, I, or P fire damage
       tier3: 10 + A, R, I, or P fire damage
@@ -38,22 +38,22 @@ feature_type: ability
 flavor: Your ammunition explodes with magical energy.
 keywords:
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 15'
-    effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 15'
+    effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](scc.v1:mcdm.heroes.v1/rule.character/characteristic) score used for this ability's [power roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).
     flavor: Your ammunition explodes with magical energy.
     keywords:
         - Magic
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
-        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     kit: arcane-archer
     name: Exploding Arrow
-    power_roll_characteristic: '[Agility](scc:mcdm.heroes.v1/rule.character/agility), [Reason](scc:mcdm.heroes.v1/rule.character/reason), [Intuition](scc:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc:mcdm.heroes.v1/rule.character/presence)'
+    power_roll_characteristic: '[Agility](scc.v1:mcdm.heroes.v1/rule.character/agility), [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason), [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition), or [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow
     subtype: signature
     target: One creature or object

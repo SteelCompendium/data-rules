@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Courage is all you know. You can't be made [frightened](scc:mcdm.heroes.v1/condition/frightened).
+    - effect: Courage is all you know. You can't be made [frightened](scc.v1:mcdm.heroes.v1/condition/frightened).
 feature_type: trait
 metadata:
     ancestry: polder

@@ -1,9 +1,9 @@
 {
   "ability_type": "Free-strike",
-  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5",
+  "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5",
   "effects": [
     {
-      "roll": "Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility)",
+      "roll": "Power Roll + [Might](scc.v1:mcdm.heroes.v1/rule.character/might) or [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility)",
       "tier1": "2 + M or A damage",
       "tier2": "4 + M or A damage",
       "tier3": "6 + M or A damage"
@@ -11,21 +11,21 @@
   ],
   "feature_type": "ability",
   "keywords": [
-    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
-    "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
+    "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)",
+    "[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)",
     "Weapon"
   ],
   "metadata": {
     "ability_type": "Free-strike",
     "action_type": "Main action",
-    "content": "| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|-----------------------------|------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**             | **🎯 One creature or object** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc:mcdm.heroes.v1/rule.character/might) or [Agility](scc:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 4 + M or A damage\n- **17+:** 6 + M or A damage",
-    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5",
+    "content": "| **[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), Weapon**  |               **Main action** |\n|-----------------------------|------------------------------:|\n| **📏 [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5**             | **🎯 One creature or object** |\n\n**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Might](scc.v1:mcdm.heroes.v1/rule.character/might) or [Agility](scc.v1:mcdm.heroes.v1/rule.character/agility):**\n\n- **≤11:** 2 + M or A damage\n- **12-16:** 4 + M or A damage\n- **17+:** 6 + M or A damage",
+    "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5",
     "feature_type": "ability",
     "item_id": "ranged-weapon-free-strike",
     "item_name": "Ranged Weapon Free Strike",
     "keywords": [
-      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)",
-      "[Strike](scc:mcdm.heroes.v1/rule.combat/strike)",
+      "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)",
+      "[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)",
       "Weapon"
     ],
     "scc": [

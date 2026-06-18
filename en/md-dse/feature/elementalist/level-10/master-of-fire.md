@@ -16,9 +16,9 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        The damage [bonus](scc:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
+        The damage [bonus](scc.v1:mcdm.heroes.v1/rule.dice/bonuses-and-penalties) of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-        Additionally, your [Return to Formlessness](scc:mcdm.heroes.v1/feature.ability.elementalist.level-1/return-to-formlessness) ability can be used on [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards)), you gain breath equal to its [echelon](scc:mcdm.heroes.v1/rule.general/echelon).
+        Additionally, your [Return to Formlessness](scc.v1:mcdm.heroes.v1/feature.ability.elementalist.level-1/return-to-formlessness) ability can be used on [supernatural](scc.v1:mcdm.heroes.v1/rule.general/supernatural) objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](scc.v1:mcdm.heroes.v1/chapter/rewards)), you gain breath equal to its [echelon](scc.v1:mcdm.heroes.v1/rule.general/echelon).
 feature_type: feature
 metadata:
     class: elementalist

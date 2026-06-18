@@ -1,9 +1,9 @@
 {
   "cost": "9 Drama",
-  "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
+  "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10",
   "effects": [
     {
-      "effect": "The target gains 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Until the end of the encounter, whenever the target takes damage while you're within [distance](scc:mcdm.heroes.v1/rule.combat/distance), you can choose to take the damage instead of the target.",
+      "effect": "The target gains 20 [temporary Stamina](scc.v1:mcdm.heroes.v1/rule.health/temporary-stamina). Until the end of the encounter, whenever the target takes damage while you're within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance), you can choose to take the damage instead of the target.",
       "name": "Effect"
     }
   ],
@@ -11,20 +11,20 @@
   "flavor": "You play a small ditty that plants you inside your target's heart.",
   "keywords": [
     "Magic",
-    "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
+    "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)"
   ],
   "metadata": {
     "action_type": "Maneuver",
     "class": "troubadour",
-    "content": "\n*You play a small ditty that plants you inside your target's heart.*\n\n| **Magic, [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)** |                  **Maneuver** |\n|-------------------|------------------------------:|\n| **📏 [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10**  | **🎯 One creature or object** |\n\n**Effect:** The target gains 20 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina). Until the end of the encounter, whenever the target takes damage while you're within [distance](scc:mcdm.heroes.v1/rule.combat/distance), you can choose to take the damage instead of the target.",
-    "distance": "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10",
+    "content": "\n*You play a small ditty that plants you inside your target's heart.*\n\n| **Magic, [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)** |                  **Maneuver** |\n|-------------------|------------------------------:|\n| **📏 [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10**  | **🎯 One creature or object** |\n\n**Effect:** The target gains 20 [temporary Stamina](scc.v1:mcdm.heroes.v1/rule.health/temporary-stamina). Until the end of the encounter, whenever the target takes damage while you're within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance), you can choose to take the damage instead of the target.",
+    "distance": "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10",
     "feature_type": "ability",
     "flavor": "You play a small ditty that plants you inside your target's heart.",
     "item_id": "love-song",
     "item_name": "Love Song",
     "keywords": [
       "Magic",
-      "[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)"
+      "[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)"
     ],
     "level": 5,
     "scc": [

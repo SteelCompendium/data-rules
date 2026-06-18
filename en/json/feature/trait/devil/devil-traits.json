@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "[Devil](scc:mcdm.heroes.v1/ancestry/devil) heroes have access to the following traits.\n\n#### Purchased Devil Traits\n\nYou have 3 ancestry points to spend on the following traits. (*Quick Build:* Beast Legs, Impressive Horns.)"
+      "effect": "[Devil](scc.v1:mcdm.heroes.v1/ancestry/devil) heroes have access to the following traits.\n\n#### Purchased Devil Traits\n\nYou have 3 ancestry points to spend on the following traits. (*Quick Build:* Beast Legs, Impressive Horns.)"
     }
   ],
   "feature_type": "trait",

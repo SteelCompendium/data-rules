@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: You have the following performance ability, which is usable with your [Routines](scc:mcdm.heroes.v1/feature.troubadour.level-1/routines) feature.
+    - effect: You have the following performance ability, which is usable with your [Routines](scc.v1:mcdm.heroes.v1/feature.troubadour.level-1/routines) feature.
 feature_type: feature
 metadata:
     class: troubadour

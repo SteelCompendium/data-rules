@@ -1,30 +1,30 @@
 cost: 5 Focus
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5'
 effects:
-    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
-      tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))
-      tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))
-      tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))
-    - effect: One ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries).
+    - roll: Power Roll + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)
+      tier1: 5 + R damage; [taunted](scc.v1:mcdm.heroes.v1/condition/taunted) ([EoT](scc.v1:mcdm.heroes.v1/rule.combat/end-of-turn))
+      tier2: 9 + R damage; [taunted](scc.v1:mcdm.heroes.v1/condition/taunted) ([EoT](scc.v1:mcdm.heroes.v1/rule.combat/end-of-turn))
+      tier3: 12 + R damage; [taunted](scc.v1:mcdm.heroes.v1/condition/taunted) ([EoT](scc.v1:mcdm.heroes.v1/rule.combat/end-of-turn))
+    - effect: One ally [adjacent](scc.v1:mcdm.heroes.v1/rule.combat/adjacent) to the target can spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries).
       name: Effect
 feature_type: ability
 flavor: Your enemy will think twice about attacking your friend.
 keywords:
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     - Weapon
 metadata:
     action_type: Main action
     class: tactician
-    content: "\n*Your enemy will think twice about attacking your friend.*\n\n| **[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF [Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))\n- **12-16:** 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))\n- **17+:** 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))\n\n**Effect:** One ally [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the target can spend a [Recovery](scc:mcdm.heroes.v1/rule.health/recoveries)."
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 5'
+    content: "\n*Your enemy will think twice about attacking your friend.*\n\n| **[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged), [Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike), Weapon** |     **Main action** |\n|----------------------------|--------------------:|\n| **\U0001F4CF [Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5**            | **\U0001F3AF One creature** |\n\n**[Power Roll](scc.v1:mcdm.heroes.v1/rule.dice/power-roll) + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason):**\n\n- **≤11:** 5 + R damage; [taunted](scc.v1:mcdm.heroes.v1/condition/taunted) ([EoT](scc.v1:mcdm.heroes.v1/rule.combat/end-of-turn))\n- **12-16:** 9 + R damage; [taunted](scc.v1:mcdm.heroes.v1/condition/taunted) ([EoT](scc.v1:mcdm.heroes.v1/rule.combat/end-of-turn))\n- **17+:** 12 + R damage; [taunted](scc.v1:mcdm.heroes.v1/condition/taunted) ([EoT](scc.v1:mcdm.heroes.v1/rule.combat/end-of-turn))\n\n**Effect:** One ally [adjacent](scc.v1:mcdm.heroes.v1/rule.combat/adjacent) to the target can spend a [Recovery](scc.v1:mcdm.heroes.v1/rule.health/recoveries)."
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 5'
     feature_type: ability
     flavor: Your enemy will think twice about attacking your friend.
     item_id: ive-got-your-back
     item_name: I've Got Your Back
     keywords:
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
-        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
         - Weapon
     level: 2
     scc:

@@ -1,8 +1,8 @@
 ---
 action_type: Main action
 class: talent
-distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
-effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 2'
+effect: You gain 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: spirit-sword
 file_dpath: feature/ability/talent/level-1
@@ -11,12 +11,12 @@ item_id: spirit-sword
 item_name: Spirit Sword
 keywords:
     - Animapathy
-    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: Spirit Sword
-power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
+power_roll_characteristic: '[Presence](scc.v1:mcdm.heroes.v1/rule.character/presence)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword
 source: mcdm.heroes.v1
 subtype: signature
@@ -28,10 +28,10 @@ type: ability
 ---
 
 ```ds-feature
-distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
+distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 2'
 effects:
-    - effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
-    - roll: Power Roll + [Presence](scc:mcdm.heroes.v1/rule.character/presence)
+    - effect: You gain 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge).
+    - roll: Power Roll + [Presence](scc.v1:mcdm.heroes.v1/rule.character/presence)
       tier1: 3 + P damage
       tier2: 6 + P damage
       tier3: 9 + P damage
@@ -39,23 +39,23 @@ feature_type: ability
 flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 keywords:
     - Animapathy
-    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
     - Psionic
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: talent
-    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 2'
-    effect: You gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+    distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 2'
+    effect: You gain 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge).
     flavor: You form a blade of mind energy and stab your target, invigorating yourself.
     keywords:
         - Animapathy
-        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
         - Psionic
-        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+        - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: Spirit Sword
-    power_roll_characteristic: '[Presence](scc:mcdm.heroes.v1/rule.character/presence)'
+    power_roll_characteristic: '[Presence](scc.v1:mcdm.heroes.v1/rule.character/presence)'
     scc: mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword
     subtype: signature
     target: One creature or object

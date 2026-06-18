@@ -4,8 +4,8 @@ class: censor
 cost: 11 Wrath
 cost_amount: "11"
 cost_resource: Wrath
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-effect: The target takes their [turn](scc:mcdm.heroes.v1/rule.combat/turn) after the triggering hero, and immediately removes all [conditions](scc:mcdm.heroes.v1/rule.combat/condition) and negative effects on themself. During their [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll).
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: The target takes their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) after the triggering hero, and immediately removes all [conditions](scc.v1:mcdm.heroes.v1/rule.combat/condition) and negative effects on themself. During their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn), the target has a double [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge) on [power rolls](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).
 feature_type: ability
 file_basename: fulfill-your-destiny
 file_dpath: feature/ability/censor/level-9
@@ -14,47 +14,47 @@ item_id: fulfill-your-destiny
 item_name: Fulfill Your Destiny
 keywords:
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
 level: "9"
 name: Fulfill Your Destiny
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/fulfill-your-destiny
 source: mcdm.heroes.v1
 subtype: triggered
 target: One ally
-trigger: You or another hero ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+trigger: You or another hero ends their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
 type: ability
 ---
 
 ```ds-feature
 cost: 11 Wrath
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: The target takes their [turn](scc:mcdm.heroes.v1/rule.combat/turn) after the triggering hero, and immediately removes all [conditions](scc:mcdm.heroes.v1/rule.combat/condition) and negative effects on themself. During their [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    - effect: The target takes their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) after the triggering hero, and immediately removes all [conditions](scc.v1:mcdm.heroes.v1/rule.combat/condition) and negative effects on themself. During their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn), the target has a double [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge) on [power rolls](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).
 feature_type: ability
 flavor: You have looked at various futures, and only this one works.
 keywords:
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Triggered
     class: censor
     cost: 11 Wrath
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-    effect: The target takes their [turn](scc:mcdm.heroes.v1/rule.combat/turn) after the triggering hero, and immediately removes all [conditions](scc:mcdm.heroes.v1/rule.combat/condition) and negative effects on themself. During their [turn](scc:mcdm.heroes.v1/rule.combat/turn), the target has a double [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [power rolls](scc:mcdm.heroes.v1/rule.dice/power-roll).
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: The target takes their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) after the triggering hero, and immediately removes all [conditions](scc.v1:mcdm.heroes.v1/rule.combat/condition) and negative effects on themself. During their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn), the target has a double [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge) on [power rolls](scc.v1:mcdm.heroes.v1/rule.dice/power-roll).
     flavor: You have looked at various futures, and only this one works.
     keywords:
         - Magic
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     level: "9"
     name: Fulfill Your Destiny
     scc: mcdm.heroes.v1/feature.ability.censor.level-9/fulfill-your-destiny
     subtype: triggered
     target: One ally
-    trigger: You or another hero ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    trigger: You or another hero ends their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
     type: ability
 name: Fulfill Your Destiny
 target: One ally
-trigger: You or another hero ends their [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+trigger: You or another hero ends their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
 type: feature
 usage: Triggered
 ```

@@ -4,7 +4,7 @@ class: elementalist
 cost: 3 Essence
 cost_amount: "3"
 cost_resource: Essence
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
 feature_type: ability
 file_basename: the-flesh-a-crucible
 file_dpath: feature/ability/elementalist/level-1
@@ -14,11 +14,11 @@ item_name: The Flesh, a Crucible
 keywords:
     - Fire
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
 level: "1"
 name: The Flesh, a Crucible
-power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
+power_roll_characteristic: '[Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible
 source: mcdm.heroes.v1
 target: One creature or object
@@ -30,9 +30,9 @@ type: ability
 
 ```ds-feature
 cost: 3 Essence
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - roll: Power Roll + [Reason](scc:mcdm.heroes.v1/rule.character/reason)
+    - roll: Power Roll + [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)
       tier1: 5 + R fire damage
       tier2: 8 + R fire damage
       tier3: 11 + R fire damage
@@ -41,22 +41,22 @@ flavor: Fire engulfs your target and continues to churn.
 keywords:
     - Fire
     - Magic
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
-    - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
 metadata:
     action_type: Main action
     class: elementalist
     cost: 3 Essence
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
     flavor: Fire engulfs your target and continues to churn.
     keywords:
         - Fire
         - Magic
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
-        - '[Strike](scc:mcdm.heroes.v1/rule.combat/strike)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Strike](scc.v1:mcdm.heroes.v1/rule.combat/strike)'
     level: "1"
     name: The Flesh, a Crucible
-    power_roll_characteristic: '[Reason](scc:mcdm.heroes.v1/rule.character/reason)'
+    power_roll_characteristic: '[Reason](scc.v1:mcdm.heroes.v1/rule.character/reason)'
     scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible
     target: One creature or object
     tier1: 5 + R fire damage

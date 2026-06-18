@@ -16,14 +16,14 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [shadow college](scc:mcdm.heroes.v1/feature.shadow.level-1/shadow-college) grants you a feature, as shown on the 2nd-Level College Features table.
+        Your [shadow college](scc.v1:mcdm.heroes.v1/feature.shadow.level-1/shadow-college) grants you a feature, as shown on the 2nd-Level College Features table.
 
         ###### 2nd-Level College Features Table
 
         | College                    | Feature          |
         |----------------------------|------------------|
-        | Black Ash                  | [Burning Ash](scc:mcdm.heroes.v1/feature.shadow.level-2/burning-ash)      |
-        | Caustic Alchemy            | [Trained Assassin](scc:mcdm.heroes.v1/feature.shadow.level-2/trained-assassin) |
+        | Black Ash                  | [Burning Ash](scc.v1:mcdm.heroes.v1/feature.shadow.level-2/burning-ash)      |
+        | Caustic Alchemy            | [Trained Assassin](scc.v1:mcdm.heroes.v1/feature.shadow.level-2/trained-assassin) |
         | Harlequin Mask             | Friend!          |
 feature_type: feature
 metadata:

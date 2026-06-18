@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](scc:mcdm.heroes.v1/condition/slowed).
+    - effect: Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](scc.v1:mcdm.heroes.v1/condition/slowed).
 feature_type: trait
 metadata:
     ancestry: memonek

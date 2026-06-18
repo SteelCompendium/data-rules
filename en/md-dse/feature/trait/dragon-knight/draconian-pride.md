@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: You have the following [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability).
+    - effect: You have the following [signature ability](scc.v1:mcdm.heroes.v1/rule.combat/signature-ability).
 feature_type: trait
 metadata:
     ancestry: dragon-knight

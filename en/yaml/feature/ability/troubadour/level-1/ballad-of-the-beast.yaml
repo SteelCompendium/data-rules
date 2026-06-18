@@ -1,6 +1,6 @@
-distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: While this performance is active, each target who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+    - effect: While this performance is active, each target who starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge).
       name: Effect
 feature_type: ability
 flavor: Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪
@@ -11,8 +11,8 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    content: "\n*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **\U0001F4CF 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)**                | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge)."
-    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+    content: "\n*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*\n\n| **Area, Magic, Performance** |                         **No action** |\n|------------------------------|--------------------------------------:|\n| **\U0001F4CF 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)**                | **\U0001F3AF Self and each ally in the area** |\n\n**Effect:** While this performance is active, each target who starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge)."
+    distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
     feature_type: ability
     flavor: Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪
     item_id: ballad-of-the-beast

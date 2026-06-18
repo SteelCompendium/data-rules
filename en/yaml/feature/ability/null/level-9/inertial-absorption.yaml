@@ -2,7 +2,7 @@ ability_type: Triggered
 cost: 11 Discipline
 distance: Self
 effects:
-    - effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+    - effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge).
       name: Effect
 feature_type: ability
 flavor: You absorb an attack to empower your body.
@@ -12,7 +12,7 @@ metadata:
     ability_type: Triggered
     action_type: Free triggered
     class: "null"
-    content: "\n*You absorb an attack to empower your body.*\n\n| **Psionic** |                  **Free triggered** |\n| -----------------------------|------------------------------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Trigger:** Another creature damages you using an ability.\n\n**Effect:** You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge)."
+    content: "\n*You absorb an attack to empower your body.*\n\n| **Psionic** |                  **Free triggered** |\n| -----------------------------|------------------------------------:|\n| **\U0001F4CF Self** |  **\U0001F3AF Self** |\n\n**Trigger:** Another creature damages you using an ability.\n\n**Effect:** You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge)."
     distance: Self
     feature_type: ability
     flavor: You absorb an attack to empower your body.

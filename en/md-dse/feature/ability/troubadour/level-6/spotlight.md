@@ -1,8 +1,8 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: While this performance is active, each target who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource). This [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) disappears at the end of the target's [turn](scc:mcdm.heroes.v1/rule.combat/turn) if they don't spend it.
+distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+effect: While this performance is active, each target who starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 of their [Heroic Resource](scc.v1:mcdm.heroes.v1/rule.resource/heroic-resource). This [Heroic Resource](scc.v1:mcdm.heroes.v1/rule.resource/heroic-resource) disappears at the end of the target's [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) if they don't spend it.
 feature_type: ability
 file_basename: spotlight
 file_dpath: feature/ability/troubadour/level-6
@@ -22,9 +22,9 @@ type: ability
 ---
 
 ```ds-feature
-distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: While this performance is active, each target who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource). This [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) disappears at the end of the target's [turn](scc:mcdm.heroes.v1/rule.combat/turn) if they don't spend it.
+    - effect: While this performance is active, each target who starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 of their [Heroic Resource](scc.v1:mcdm.heroes.v1/rule.resource/heroic-resource). This [Heroic Resource](scc.v1:mcdm.heroes.v1/rule.resource/heroic-resource) disappears at the end of the target's [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) if they don't spend it.
 feature_type: ability
 flavor: The audience is watching, so you'd better give them a show.
 keywords:
@@ -34,8 +34,8 @@ keywords:
 metadata:
     action_type: No action
     class: troubadour
-    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: While this performance is active, each target who starts their [turn](scc:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 of their [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource). This [Heroic Resource](scc:mcdm.heroes.v1/rule.resource/heroic-resource) disappears at the end of the target's [turn](scc:mcdm.heroes.v1/rule.combat/turn) if they don't spend it.
+    distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+    effect: While this performance is active, each target who starts their [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) in the area gains 1 of their [Heroic Resource](scc.v1:mcdm.heroes.v1/rule.resource/heroic-resource). This [Heroic Resource](scc.v1:mcdm.heroes.v1/rule.resource/heroic-resource) disappears at the end of the target's [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn) if they don't spend it.
     flavor: The audience is watching, so you'd better give them a show.
     keywords:
         - Area

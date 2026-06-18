@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your mind allows you to maintain your focus in any situation. You can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed).
+    - effect: Your mind allows you to maintain your focus in any situation. You can't be made [dazed](scc.v1:mcdm.heroes.v1/condition/dazed).
 feature_type: trait
 metadata:
     ancestry: high-elf

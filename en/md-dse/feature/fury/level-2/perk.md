@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: 'You gain one crafting, exploration, or intrigue perk of your choice. See Chapter 7: [Perks](scc:mcdm.heroes.v1/chapter/perks).'
+    - effect: 'You gain one crafting, exploration, or intrigue perk of your choice. See Chapter 7: [Perks](scc.v1:mcdm.heroes.v1/chapter/perks).'
 feature_type: feature
 metadata:
     class: fury

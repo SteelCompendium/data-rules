@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "Your [tactical doctrine](scc:mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.\n\n###### 1st-Level Doctrine Features Table\n\n| Doctrine   | Feature             |\n|------------|---------------------|\n| Insurgent  | [Covert Operations](scc:mcdm.heroes.v1/feature.tactician.level-1/covert-operations)   |\n| Mastermind | [Studied Commander](scc:mcdm.heroes.v1/feature.tactician.level-1/studied-commander)   |\n| Vanguard   | [Commanding Presence](scc:mcdm.heroes.v1/feature.tactician.level-1/commanding-presence) |"
+      "effect": "Your [tactical doctrine](scc.v1:mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.\n\n###### 1st-Level Doctrine Features Table\n\n| Doctrine   | Feature             |\n|------------|---------------------|\n| Insurgent  | [Covert Operations](scc.v1:mcdm.heroes.v1/feature.tactician.level-1/covert-operations)   |\n| Mastermind | [Studied Commander](scc.v1:mcdm.heroes.v1/feature.tactician.level-1/studied-commander)   |\n| Vanguard   | [Commanding Presence](scc.v1:mcdm.heroes.v1/feature.tactician.level-1/commanding-presence) |"
     }
   ],
   "feature_type": "feature",

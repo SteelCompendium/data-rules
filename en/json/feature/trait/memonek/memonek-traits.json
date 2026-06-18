@@ -1,7 +1,7 @@
 {
   "effects": [
     {
-      "effect": "[Memonek](scc:mcdm.heroes.v1/ancestry/memonek) heroes have access to the following traits.\n\n#### Purchased Memonek Traits\n\nYou have 4 ancestry points to spend on the following traits. (*Quick Build:* Lightning Nimbleness, Nonstop.)"
+      "effect": "[Memonek](scc.v1:mcdm.heroes.v1/ancestry/memonek) heroes have access to the following traits.\n\n#### Purchased Memonek Traits\n\nYou have 4 ancestry points to spend on the following traits. (*Quick Build:* Lightning Nimbleness, Nonstop.)"
     }
   ],
   "feature_type": "trait",

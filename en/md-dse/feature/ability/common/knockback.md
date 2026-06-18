@@ -1,52 +1,52 @@
 ---
 action_type: Maneuver
-distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
+distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1'
+effect: You can usually target only creatures of your [size](scc.v1:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc.v1:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc.v1:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc.v1:mcdm.heroes.v1/rule.character/might) score.
 feature_type: ability
 file_basename: knockback
 file_dpath: feature/ability/common
 item_id: knockback
 item_name: Knockback
 keywords:
-    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 name: Knockback
-power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
+power_roll_characteristic: '[Might](scc.v1:mcdm.heroes.v1/rule.character/might)'
 scc: mcdm.heroes.v1/feature.ability.common/knockback
 source: mcdm.heroes.v1
 target: One creature
-tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
-tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
-tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
+tier1: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 1'
+tier2: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 2'
+tier3: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 3'
 type: ability
 ---
 
 ```ds-feature
-distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
+distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1'
 effects:
-    - effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
-    - roll: Power Roll + [Might](scc:mcdm.heroes.v1/rule.character/might)
-      tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
-      tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
-      tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
+    - effect: You can usually target only creatures of your [size](scc.v1:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc.v1:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc.v1:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc.v1:mcdm.heroes.v1/rule.character/might) score.
+    - roll: Power Roll + [Might](scc.v1:mcdm.heroes.v1/rule.character/might)
+      tier1: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 1'
+      tier2: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 2'
+      tier3: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 3'
 feature_type: ability
 keywords:
-    - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+    - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
     - Weapon
 metadata:
     action_type: Maneuver
-    distance: '[Melee](scc:mcdm.heroes.v1/rule.combat/melee) 1'
-    effect: You can usually target only creatures of your [size](scc:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc:mcdm.heroes.v1/rule.character/might) score.
+    distance: '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee) 1'
+    effect: You can usually target only creatures of your [size](scc.v1:mcdm.heroes.v1/rule.character/size) or smaller. If your [Might](scc.v1:mcdm.heroes.v1/rule.character/might) score is 2 or higher, you can target any creature with a [size](scc.v1:mcdm.heroes.v1/rule.character/size) equal to or less than your [Might](scc.v1:mcdm.heroes.v1/rule.character/might) score.
     keywords:
-        - '[Melee](scc:mcdm.heroes.v1/rule.combat/melee)'
+        - '[Melee](scc.v1:mcdm.heroes.v1/rule.combat/melee)'
         - Weapon
     name: Knockback
-    power_roll_characteristic: '[Might](scc:mcdm.heroes.v1/rule.character/might)'
+    power_roll_characteristic: '[Might](scc.v1:mcdm.heroes.v1/rule.character/might)'
     scc: mcdm.heroes.v1/feature.ability.common/knockback
     target: One creature
-    tier1: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
-    tier2: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 2'
-    tier3: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 3'
+    tier1: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 1'
+    tier2: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 2'
+    tier3: '[Push](scc.v1:mcdm.heroes.v1/movement/forced-movement) 3'
     type: ability
 name: Knockback
 target: One creature

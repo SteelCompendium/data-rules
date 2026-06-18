@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: '[Revenant](scc:mcdm.heroes.v1/ancestry/revenant) heroes have access to the following traits.'
+    - effect: '[Revenant](scc.v1:mcdm.heroes.v1/ancestry/revenant) heroes have access to the following traits.'
 feature_type: trait
 metadata:
     ancestry: revenant

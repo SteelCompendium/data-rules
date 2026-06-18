@@ -1,6 +1,6 @@
 ---
 benefit: You have corruption immunity 5 and poison immunity 5.
-drawback: Your number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries) is permanently reduced by 1.
+drawback: Your number of [Recoveries](scc.v1:mcdm.heroes.v1/rule.health/recoveries) is permanently reduced by 1.
 file_basename: primordial-sickness
 file_dpath: complication
 flavor: You once contracted a terrible illness for which no one could find a cure. You sought out a primordial swamp said to be either cursed or miraculously salubrious. It turned out to be both, keeping your illness at bay while corrupting your body with its unnatural energy.
@@ -16,4 +16,4 @@ You once contracted a terrible illness for which no one could find a cure. You s
 
 **Benefit:** You have corruption immunity 5 and poison immunity 5.
 
-**Drawback:** Your number of [Recoveries](scc:mcdm.heroes.v1/rule.health/recoveries) is permanently reduced by 1.
+**Drawback:** Your number of [Recoveries](scc.v1:mcdm.heroes.v1/rule.health/recoveries) is permanently reduced by 1.

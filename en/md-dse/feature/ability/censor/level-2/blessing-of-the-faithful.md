@@ -4,8 +4,8 @@ class: censor
 cost: 5 Wrath
 cost_amount: "5"
 cost_resource: Wrath
-distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn).
+distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), each target gains 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge) at the end of each of your [turns](scc.v1:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 file_basename: blessing-of-the-faithful
 file_dpath: feature/ability/censor/level-2
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 5 Wrath
-distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn).
+    - effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), each target gains 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge) at the end of each of your [turns](scc.v1:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 flavor: The gods reward your faith.
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Maneuver
     class: censor
     cost: 5 Wrath
-    distance: 3 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge) at the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn).
+    distance: 3 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+    effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), each target gains 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge) at the end of each of your [turns](scc.v1:mcdm.heroes.v1/rule.combat/turn).
     flavor: The gods reward your faith.
     keywords:
         - Area

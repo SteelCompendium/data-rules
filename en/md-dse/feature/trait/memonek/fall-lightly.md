@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Your silicone body is low in density. Whenever you fall, you reduce the [distance](scc:mcdm.heroes.v1/rule.combat/distance) of the fall by 2 squares.
+    - effect: Your silicone body is low in density. Whenever you fall, you reduce the [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance) of the fall by 2 squares.
 feature_type: trait
 metadata:
     ancestry: memonek

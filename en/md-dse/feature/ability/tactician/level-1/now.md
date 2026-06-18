@@ -4,8 +4,8 @@ class: tactician
 cost: 5 Focus
 cost_amount: "5"
 cost_resource: Focus
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
+effect: Each target can make a [free strike](scc.v1:mcdm.heroes.v1/feature.common.main-actions/free-strike).
 feature_type: ability
 file_basename: now
 file_dpath: feature/ability/tactician/level-1
@@ -13,7 +13,7 @@ flavor: Your allies wait for your command—then unleash death!
 item_id: now
 item_name: Now!
 keywords:
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
 level: "1"
 name: Now!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/now
@@ -24,22 +24,22 @@ type: ability
 
 ```ds-feature
 cost: 5 Focus
-distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
+distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
 effects:
-    - effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
+    - effect: Each target can make a [free strike](scc.v1:mcdm.heroes.v1/feature.common.main-actions/free-strike).
 feature_type: ability
 flavor: Your allies wait for your command—then unleash death!
 keywords:
-    - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+    - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
 metadata:
     action_type: Maneuver
     class: tactician
     cost: 5 Focus
-    distance: '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged) 10'
-    effect: Each target can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
+    distance: '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged) 10'
+    effect: Each target can make a [free strike](scc.v1:mcdm.heroes.v1/feature.common.main-actions/free-strike).
     flavor: Your allies wait for your command—then unleash death!
     keywords:
-        - '[Ranged](scc:mcdm.heroes.v1/rule.combat/ranged)'
+        - '[Ranged](scc.v1:mcdm.heroes.v1/rule.combat/ranged)'
     level: "1"
     name: Now!
     scc: mcdm.heroes.v1/feature.ability.tactician.level-1/now

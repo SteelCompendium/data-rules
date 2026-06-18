@@ -4,8 +4,8 @@ class: conduit
 cost: 9 Piety
 cost_amount: "9"
 cost_resource: Piety
-distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-effect: Each target is invisible until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+distance: 4 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
+effect: Each target is invisible until the start of your next [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 file_basename: invocation-of-mystery
 file_dpath: feature/ability/conduit/level-6
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 9 Piety
-distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
+distance: 4 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
 effects:
-    - effect: Each target is invisible until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    - effect: Each target is invisible until the start of your next [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
 feature_type: ability
 flavor: '"Now you see us..."'
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Maneuver
     class: conduit
     cost: 9 Piety
-    distance: 4 [burst](scc:mcdm.heroes.v1/rule.combat/burst)
-    effect: Each target is invisible until the start of your next [turn](scc:mcdm.heroes.v1/rule.combat/turn).
+    distance: 4 [burst](scc.v1:mcdm.heroes.v1/rule.combat/burst)
+    effect: Each target is invisible until the start of your next [turn](scc.v1:mcdm.heroes.v1/rule.combat/turn).
     flavor: '"Now you see us..."'
     keywords:
         - Area

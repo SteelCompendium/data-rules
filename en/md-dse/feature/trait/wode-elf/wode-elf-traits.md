@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Wode elf](scc:mcdm.heroes.v1/ancestry/wode-elf) heroes have access to the following traits.
+        [Wode elf](scc.v1:mcdm.heroes.v1/ancestry/wode-elf) heroes have access to the following traits.
 
         #### Purchased Wode Elf Traits
 

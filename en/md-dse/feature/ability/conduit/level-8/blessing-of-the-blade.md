@@ -4,8 +4,8 @@ class: conduit
 cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
-distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-effect: At the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn) until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+effect: At the end of each of your [turns](scc.v1:mcdm.heroes.v1/rule.combat/turn) until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 file_basename: blessing-of-the-blade
 file_dpath: feature/ability/conduit/level-8
@@ -25,9 +25,9 @@ type: ability
 
 ```ds-feature
 cost: 11 Piety
-distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
+distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
 effects:
-    - effect: At the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn) until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+    - effect: At the end of each of your [turns](scc.v1:mcdm.heroes.v1/rule.combat/turn) until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge).
 feature_type: ability
 flavor: '"The power of the gods is within you, friends. Allow me to unleash it."'
 keywords:
@@ -37,8 +37,8 @@ metadata:
     action_type: Maneuver
     class: conduit
     cost: 11 Piety
-    distance: 5 [aura](scc:mcdm.heroes.v1/rule.combat/aura)
-    effect: At the end of each of your [turns](scc:mcdm.heroes.v1/rule.combat/turn) until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc:mcdm.heroes.v1/rule.resource/surge).
+    distance: 5 [aura](scc.v1:mcdm.heroes.v1/rule.combat/aura)
+    effect: At the end of each of your [turns](scc.v1:mcdm.heroes.v1/rule.combat/turn) until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), each target gains 3 [surges](scc.v1:mcdm.heroes.v1/rule.resource/surge).
     flavor: '"The power of the gods is within you, friends. Allow me to unleash it."'
     keywords:
         - Area

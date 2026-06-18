@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge).
 file_basename: evilest-eye
 file_dpath: treasure/2nd-echelon/trinket
 flavor: A perfectly preserved eyeball hangs unnervingly from a gold chain.
@@ -21,12 +21,12 @@ type: treasure
 
 **Keywords:** Neck, Psionic
 
-**[Item Prerequisite](scc:mcdm.heroes.v1/rule.downtime/item-prerequisite):** An eyeball from a pirate captain who drowned at sea
+**[Item Prerequisite](scc.v1:mcdm.heroes.v1/rule.downtime/item-prerequisite):** An eyeball from a pirate captain who drowned at sea
 
-**[Project Source](scc:mcdm.heroes.v1/rule.downtime/project-source):** Texts or lore in Caelian
+**[Project Source](scc.v1:mcdm.heroes.v1/rule.downtime/project-source):** Texts or lore in Caelian
 
-**[Project Roll](scc:mcdm.heroes.v1/rule.downtime/project-roll) [Characteristic](scc:mcdm.heroes.v1/rule.character/characteristic):** [Reason](scc:mcdm.heroes.v1/rule.character/reason) or [Intuition](scc:mcdm.heroes.v1/rule.character/intuition)
+**[Project Roll](scc.v1:mcdm.heroes.v1/rule.downtime/project-roll) [Characteristic](scc.v1:mcdm.heroes.v1/rule.character/characteristic):** [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason) or [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition)
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](scc:mcdm.heroes.v1/rule.resource/surge).
+**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](scc.v1:mcdm.heroes.v1/rule.resource/surge).

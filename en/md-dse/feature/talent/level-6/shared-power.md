@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability targets individual creatures or objects, you target one additional creature or object within [distance](scc:mcdm.heroes.v1/rule.combat/distance).
+    - effect: If the ability targets individual creatures or objects, you target one additional creature or object within [distance](scc.v1:mcdm.heroes.v1/rule.combat/distance).
 feature_type: feature
 metadata:
     class: talent

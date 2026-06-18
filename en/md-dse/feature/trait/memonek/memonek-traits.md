@@ -15,7 +15,7 @@ type: trait
 ```ds-feature
 effects:
     - effect: |-
-        [Memonek](scc:mcdm.heroes.v1/ancestry/memonek) heroes have access to the following traits.
+        [Memonek](scc.v1:mcdm.heroes.v1/ancestry/memonek) heroes have access to the following traits.
 
         #### Purchased Memonek Traits
 

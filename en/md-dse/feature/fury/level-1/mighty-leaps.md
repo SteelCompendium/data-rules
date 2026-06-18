@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: 'You can''t obtain lower than a tier 2 outcome on any [Might](scc:mcdm.heroes.v1/rule.character/might) [test](scc:mcdm.heroes.v1/rule.test/test) made to jump (see Movement Types in Chapter 10: [Combat](scc:mcdm.heroes.v1/chapter/combat)).'
+    - effect: 'You can''t obtain lower than a tier 2 outcome on any [Might](scc.v1:mcdm.heroes.v1/rule.character/might) [test](scc.v1:mcdm.heroes.v1/rule.test/test) made to jump (see Movement Types in Chapter 10: [Combat](scc.v1:mcdm.heroes.v1/chapter/combat)).'
 feature_type: feature
 metadata:
     class: fury

@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action) to reduce the falling damage by an amount equal to 2 + your [Reason](scc:mcdm.heroes.v1/rule.character/reason) score.
+    - effect: Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free [triggered action](scc.v1:mcdm.heroes.v1/rule.combat/triggered-action) to reduce the falling damage by an amount equal to 2 + your [Reason](scc.v1:mcdm.heroes.v1/rule.character/reason) score.
 feature_type: feature
 metadata:
     class: talent

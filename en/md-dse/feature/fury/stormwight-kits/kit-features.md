@@ -19,7 +19,7 @@ effects:
 
         ##### Signature Ability
 
-        You gain a new [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) from your kit.
+        You gain a new [signature ability](scc.v1:mcdm.heroes.v1/rule.combat/signature-ability) from your kit.
 feature_type: feature
 metadata:
     class: fury

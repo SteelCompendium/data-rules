@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: If the ability deals [rolled damage](scc:mcdm.heroes.v1/rule.damage/rolled-damage), it deals extra damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score.
+    - effect: If the ability deals [rolled damage](scc.v1:mcdm.heroes.v1/rule.damage/rolled-damage), it deals extra damage equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score.
 feature_type: feature
 metadata:
     class: "null"

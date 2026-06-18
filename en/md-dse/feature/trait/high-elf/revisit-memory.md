@@ -14,7 +14,7 @@ type: trait
 
 ```ds-feature
 effects:
-    - effect: Accessing memories is as easy as living in the present for you. You gain an [edge](scc:mcdm.heroes.v1/rule.dice/edge) on [tests](scc:mcdm.heroes.v1/rule.test/test) made to recall lore.
+    - effect: Accessing memories is as easy as living in the present for you. You gain an [edge](scc.v1:mcdm.heroes.v1/rule.dice/edge) on [tests](scc.v1:mcdm.heroes.v1/rule.test/test) made to recall lore.
 feature_type: trait
 metadata:
     ancestry: high-elf

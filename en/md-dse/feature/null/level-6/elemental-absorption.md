@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: Whenever you use your [Inertial Shield](scc:mcdm.heroes.v1/feature.ability.null.level-1/inertial-shield) [triggered action](scc:mcdm.heroes.v1/rule.combat/triggered-action), you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your [Intuition](scc:mcdm.heroes.v1/rule.character/intuition) score against the triggering damage.
+    - effect: Whenever you use your [Inertial Shield](scc.v1:mcdm.heroes.v1/feature.ability.null.level-1/inertial-shield) [triggered action](scc.v1:mcdm.heroes.v1/rule.combat/triggered-action), you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your [Intuition](scc.v1:mcdm.heroes.v1/rule.character/intuition) score against the triggering damage.
 feature_type: feature
 metadata:
     class: "null"

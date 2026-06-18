@@ -16,15 +16,15 @@ type: feature
 ```ds-feature
 effects:
     - effect: |-
-        Your [primordial aspect](scc:mcdm.heroes.v1/feature.fury.level-1/primordial-aspect) grants you a feature, as shown on the 5th-Level Aspect Features table.
+        Your [primordial aspect](scc.v1:mcdm.heroes.v1/feature.fury.level-1/primordial-aspect) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
         ###### 5th-Level Aspect Features Table
 
         | Aspect     | Feature    |
         |------------|------------|
-        | Berserker  | [Bounder](scc:mcdm.heroes.v1/feature.fury.level-5/bounder)    |
-        | Reaver     | [Unfettered](scc:mcdm.heroes.v1/feature.fury.level-5/unfettered) |
-        | Stormwight | [Stormborn](scc:mcdm.heroes.v1/feature.fury.level-5/stormborn)  |
+        | Berserker  | [Bounder](scc.v1:mcdm.heroes.v1/feature.fury.level-5/bounder)    |
+        | Reaver     | [Unfettered](scc.v1:mcdm.heroes.v1/feature.fury.level-5/unfettered) |
+        | Stormwight | [Stormborn](scc.v1:mcdm.heroes.v1/feature.fury.level-5/stormborn)  |
 feature_type: feature
 metadata:
     class: fury

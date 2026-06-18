@@ -15,7 +15,7 @@ type: feature
 
 ```ds-feature
 effects:
-    - effect: 'You can use and gain the benefits of a kit. See Chapter 6: [Kits](scc:mcdm.heroes.v1/chapter/kits) for more information. (*Quick Build:* [Cloak and Dagger](scc:mcdm.heroes.v1/kit/cloak-and-dagger).)'
+    - effect: 'You can use and gain the benefits of a kit. See Chapter 6: [Kits](scc.v1:mcdm.heroes.v1/chapter/kits) for more information. (*Quick Build:* [Cloak and Dagger](scc.v1:mcdm.heroes.v1/kit/cloak-and-dagger).)'
 feature_type: feature
 metadata:
     class: shadow

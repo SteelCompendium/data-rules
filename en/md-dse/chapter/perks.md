@@ -16,7 +16,7 @@ You are granted one perk from your career and can choose other perks from your c
 
 ### Perk Types
 
-Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to [supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) power.
+Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see Skills in Chapter 9: [Tests](scc.v1:mcdm.heroes.v1/chapter/tests)), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to [supernatural](scc.v1:mcdm.heroes.v1/rule.general/supernatural) power.
 
 **Crafting perks** improve your talent for crafting materials, and let you become an expert in the things you create.
 
@@ -28,6 +28,6 @@ Six types of perks are available to your character. Five of those types reflect 
 
 **Lore perks** improve your mastery of memory, language, and knowledge across a range of topics.
 
-**[Supernatural](scc:mcdm.heroes.v1/rule.general/supernatural) perks** let you use magic and psionics to influence the world around you.
+**[Supernatural](scc.v1:mcdm.heroes.v1/rule.general/supernatural) perks** let you use magic and psionics to influence the world around you.
 
 Whenever a feature allows you to gain a perk, that feature tells you which type of perk to choose.

@@ -5,7 +5,7 @@ cost: 11 Piety
 cost_amount: "11"
 cost_resource: Piety
 distance: Self; see below
-effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), no enemy can approach within 5 squares of you by moving or by being [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by any enemy. Targets can be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) closer to you by you or your allies, or can move closer because of your movement.
+effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), no enemy can approach within 5 squares of you by moving or by being [force moved](scc.v1:mcdm.heroes.v1/movement/forced-movement) by any enemy. Targets can be [force moved](scc.v1:mcdm.heroes.v1/movement/forced-movement) closer to you by you or your allies, or can move closer because of your movement.
 feature_type: ability
 file_basename: blessing-of-the-fortress
 file_dpath: feature/ability/conduit/level-9
@@ -27,7 +27,7 @@ type: ability
 cost: 11 Piety
 distance: Self; see below
 effects:
-    - effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), no enemy can approach within 5 squares of you by moving or by being [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by any enemy. Targets can be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) closer to you by you or your allies, or can move closer because of your movement.
+    - effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), no enemy can approach within 5 squares of you by moving or by being [force moved](scc.v1:mcdm.heroes.v1/movement/forced-movement) by any enemy. Targets can be [force moved](scc.v1:mcdm.heroes.v1/movement/forced-movement) closer to you by you or your allies, or can move closer because of your movement.
 feature_type: ability
 flavor: A magic circle extends out from you, barring foes from getting close.
 keywords:
@@ -38,7 +38,7 @@ metadata:
     class: conduit
     cost: 11 Piety
     distance: Self; see below
-    effect: Until the end of the encounter or until you are [dying](scc:mcdm.heroes.v1/rule.health/dying), no enemy can approach within 5 squares of you by moving or by being [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by any enemy. Targets can be [force moved](scc:mcdm.heroes.v1/movement/forced-movement) closer to you by you or your allies, or can move closer because of your movement.
+    effect: Until the end of the encounter or until you are [dying](scc.v1:mcdm.heroes.v1/rule.health/dying), no enemy can approach within 5 squares of you by moving or by being [force moved](scc.v1:mcdm.heroes.v1/movement/forced-movement) by any enemy. Targets can be [force moved](scc.v1:mcdm.heroes.v1/movement/forced-movement) closer to you by you or your allies, or can move closer because of your movement.
     flavor: A magic circle extends out from you, barring foes from getting close.
     keywords:
         - Area
